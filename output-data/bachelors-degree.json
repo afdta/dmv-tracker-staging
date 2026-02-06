@@ -1,0 +1,478 @@
+[
+  {
+    "geoid": "11001",
+    "key": "bachelors-degree",
+    "date": "2023-12-15",
+    "value": 0.26075,
+    "value_": 26.07462
+  },
+  {
+    "geoid": "12060",
+    "key": "bachelors-degree",
+    "date": "2023-12-15",
+    "value": 0.25411,
+    "value_": 25.41061
+  },
+  {
+    "geoid": "12420",
+    "key": "bachelors-degree",
+    "date": "2023-12-15",
+    "value": 0.31561,
+    "value_": 31.56053
+  },
+  {
+    "geoid": "12580",
+    "key": "bachelors-degree",
+    "date": "2023-12-15",
+    "value": 0.23362,
+    "value_": 23.36208
+  },
+  {
+    "geoid": "13820",
+    "key": "bachelors-degree",
+    "date": "2023-12-15",
+    "value": 0.20387,
+    "value_": 20.38666
+  },
+  {
+    "geoid": "14460",
+    "key": "bachelors-degree",
+    "date": "2023-12-15",
+    "value": 0.27483,
+    "value_": 27.4831
+  },
+  {
+    "geoid": "15380",
+    "key": "bachelors-degree",
+    "date": "2023-12-15",
+    "value": 0.19655,
+    "value_": 19.65494
+  },
+  {
+    "geoid": "16740",
+    "key": "bachelors-degree",
+    "date": "2023-12-15",
+    "value": 0.25415,
+    "value_": 25.415
+  },
+  {
+    "geoid": "16980",
+    "key": "bachelors-degree",
+    "date": "2023-12-15",
+    "value": 0.24367,
+    "value_": 24.36731
+  },
+  {
+    "geoid": "17140",
+    "key": "bachelors-degree",
+    "date": "2023-12-15",
+    "value": 0.22685,
+    "value_": 22.68487
+  },
+  {
+    "geoid": "17410",
+    "key": "bachelors-degree",
+    "date": "2023-12-15",
+    "value": 0.19978,
+    "value_": 19.9783
+  },
+  {
+    "geoid": "18140",
+    "key": "bachelors-degree",
+    "date": "2023-12-15",
+    "value": 0.24441,
+    "value_": 24.44101
+  },
+  {
+    "geoid": "19100",
+    "key": "bachelors-degree",
+    "date": "2023-12-15",
+    "value": 0.24514,
+    "value_": 24.51402
+  },
+  {
+    "geoid": "19740",
+    "key": "bachelors-degree",
+    "date": "2023-12-15",
+    "value": 0.30295,
+    "value_": 30.29536
+  },
+  {
+    "geoid": "19820",
+    "key": "bachelors-degree",
+    "date": "2023-12-15",
+    "value": 0.20402,
+    "value_": 20.40169
+  },
+  {
+    "geoid": "23420",
+    "key": "bachelors-degree",
+    "date": "2023-12-15",
+    "value": 0.15117,
+    "value_": 15.11667
+  },
+  {
+    "geoid": "24017",
+    "key": "bachelors-degree",
+    "date": "2023-12-15",
+    "value": 0.17784,
+    "value_": 17.78408
+  },
+  {
+    "geoid": "24031",
+    "key": "bachelors-degree",
+    "date": "2023-12-15",
+    "value": 0.27203,
+    "value_": 27.20309
+  },
+  {
+    "geoid": "24033",
+    "key": "bachelors-degree",
+    "date": "2023-12-15",
+    "value": 0.20273,
+    "value_": 20.27252
+  },
+  {
+    "geoid": "24340",
+    "key": "bachelors-degree",
+    "date": "2023-12-15",
+    "value": 0.23031,
+    "value_": 23.03094
+  },
+  {
+    "geoid": "25540",
+    "key": "bachelors-degree",
+    "date": "2023-12-15",
+    "value": 0.23262,
+    "value_": 23.26232
+  },
+  {
+    "geoid": "26420",
+    "key": "bachelors-degree",
+    "date": "2023-12-15",
+    "value": 0.22115,
+    "value_": 22.11521
+  },
+  {
+    "geoid": "26900",
+    "key": "bachelors-degree",
+    "date": "2023-12-15",
+    "value": 0.24067,
+    "value_": 24.06662
+  },
+  {
+    "geoid": "27260",
+    "key": "bachelors-degree",
+    "date": "2023-12-15",
+    "value": 0.22968,
+    "value_": 22.96758
+  },
+  {
+    "geoid": "28140",
+    "key": "bachelors-degree",
+    "date": "2023-12-15",
+    "value": 0.24394,
+    "value_": 24.39411
+  },
+  {
+    "geoid": "29820",
+    "key": "bachelors-degree",
+    "date": "2023-12-15",
+    "value": 0.17976,
+    "value_": 17.97636
+  },
+  {
+    "geoid": "31080",
+    "key": "bachelors-degree",
+    "date": "2023-12-15",
+    "value": 0.23862,
+    "value_": 23.86155
+  },
+  {
+    "geoid": "31140",
+    "key": "bachelors-degree",
+    "date": "2023-12-15",
+    "value": 0.19468,
+    "value_": 19.46837
+  },
+  {
+    "geoid": "32820",
+    "key": "bachelors-degree",
+    "date": "2023-12-15",
+    "value": 0.18503,
+    "value_": 18.50279
+  },
+  {
+    "geoid": "33100",
+    "key": "bachelors-degree",
+    "date": "2023-12-15",
+    "value": 0.21835,
+    "value_": 21.83539
+  },
+  {
+    "geoid": "33340",
+    "key": "bachelors-degree",
+    "date": "2023-12-15",
+    "value": 0.25242,
+    "value_": 25.24162
+  },
+  {
+    "geoid": "33460",
+    "key": "bachelors-degree",
+    "date": "2023-12-15",
+    "value": 0.29059,
+    "value_": 29.05889
+  },
+  {
+    "geoid": "34980",
+    "key": "bachelors-degree",
+    "date": "2023-12-15",
+    "value": 0.25644,
+    "value_": 25.64376
+  },
+  {
+    "geoid": "35620",
+    "key": "bachelors-degree",
+    "date": "2023-12-15",
+    "value": 0.24911,
+    "value_": 24.91065
+  },
+  {
+    "geoid": "36420",
+    "key": "bachelors-degree",
+    "date": "2023-12-15",
+    "value": 0.21295,
+    "value_": 21.29498
+  },
+  {
+    "geoid": "36540",
+    "key": "bachelors-degree",
+    "date": "2023-12-15",
+    "value": 0.24879,
+    "value_": 24.87935
+  },
+  {
+    "geoid": "36740",
+    "key": "bachelors-degree",
+    "date": "2023-12-15",
+    "value": 0.23249,
+    "value_": 23.24942
+  },
+  {
+    "geoid": "37980",
+    "key": "bachelors-degree",
+    "date": "2023-12-15",
+    "value": 0.24104,
+    "value_": 24.10414
+  },
+  {
+    "geoid": "38060",
+    "key": "bachelors-degree",
+    "date": "2023-12-15",
+    "value": 0.21631,
+    "value_": 21.63057
+  },
+  {
+    "geoid": "38300",
+    "key": "bachelors-degree",
+    "date": "2023-12-15",
+    "value": 0.22635,
+    "value_": 22.63487
+  },
+  {
+    "geoid": "38900",
+    "key": "bachelors-degree",
+    "date": "2023-12-15",
+    "value": 0.26018,
+    "value_": 26.01784
+  },
+  {
+    "geoid": "39300",
+    "key": "bachelors-degree",
+    "date": "2023-12-15",
+    "value": 0.21302,
+    "value_": 21.30246
+  },
+  {
+    "geoid": "39580",
+    "key": "bachelors-degree",
+    "date": "2023-12-15",
+    "value": 0.30788,
+    "value_": 30.78817
+  },
+  {
+    "geoid": "40060",
+    "key": "bachelors-degree",
+    "date": "2023-12-15",
+    "value": 0.24371,
+    "value_": 24.37059
+  },
+  {
+    "geoid": "40140",
+    "key": "bachelors-degree",
+    "date": "2023-12-15",
+    "value": 0.15417,
+    "value_": 15.41682
+  },
+  {
+    "geoid": "40380",
+    "key": "bachelors-degree",
+    "date": "2023-12-15",
+    "value": 0.21086,
+    "value_": 21.08634
+  },
+  {
+    "geoid": "40900",
+    "key": "bachelors-degree",
+    "date": "2023-12-15",
+    "value": 0.23007,
+    "value_": 23.00712
+  },
+  {
+    "geoid": "41180",
+    "key": "bachelors-degree",
+    "date": "2023-12-15",
+    "value": 0.22334,
+    "value_": 22.33426
+  },
+  {
+    "geoid": "41620",
+    "key": "bachelors-degree",
+    "date": "2023-12-15",
+    "value": 0.24076,
+    "value_": 24.07597
+  },
+  {
+    "geoid": "41700",
+    "key": "bachelors-degree",
+    "date": "2023-12-15",
+    "value": 0.20025,
+    "value_": 20.02491
+  },
+  {
+    "geoid": "41740",
+    "key": "bachelors-degree",
+    "date": "2023-12-15",
+    "value": 0.25567,
+    "value_": 25.5671
+  },
+  {
+    "geoid": "41860",
+    "key": "bachelors-degree",
+    "date": "2023-12-15",
+    "value": 0.29961,
+    "value_": 29.96062
+  },
+  {
+    "geoid": "41940",
+    "key": "bachelors-degree",
+    "date": "2023-12-15",
+    "value": 0.27777,
+    "value_": 27.77685
+  },
+  {
+    "geoid": "42660",
+    "key": "bachelors-degree",
+    "date": "2023-12-15",
+    "value": 0.27816,
+    "value_": 27.81624
+  },
+  {
+    "geoid": "45300",
+    "key": "bachelors-degree",
+    "date": "2023-12-15",
+    "value": 0.2153,
+    "value_": 21.53032
+  },
+  {
+    "geoid": "46060",
+    "key": "bachelors-degree",
+    "date": "2023-12-15",
+    "value": 0.20366,
+    "value_": 20.36646
+  },
+  {
+    "geoid": "46140",
+    "key": "bachelors-degree",
+    "date": "2023-12-15",
+    "value": 0.19667,
+    "value_": 19.66679
+  },
+  {
+    "geoid": "47260",
+    "key": "bachelors-degree",
+    "date": "2023-12-15",
+    "value": 0.21194,
+    "value_": 21.19446
+  },
+  {
+    "geoid": "47900",
+    "key": "bachelors-degree",
+    "date": "2023-12-15",
+    "value": 0.26955,
+    "value_": 26.95503
+  },
+  {
+    "geoid": "51013",
+    "key": "bachelors-degree",
+    "date": "2023-12-15",
+    "value": 0.35718,
+    "value_": 35.71845
+  },
+  {
+    "geoid": "51059",
+    "key": "bachelors-degree",
+    "date": "2023-12-15",
+    "value": 0.31842,
+    "value_": 31.84245
+  },
+  {
+    "geoid": "51061",
+    "key": "bachelors-degree",
+    "date": "2023-12-15",
+    "value": 0.24728,
+    "value_": 24.72786
+  },
+  {
+    "geoid": "51107",
+    "key": "bachelors-degree",
+    "date": "2023-12-15",
+    "value": 0.35953,
+    "value_": 35.95322
+  },
+  {
+    "geoid": "51153",
+    "key": "bachelors-degree",
+    "date": "2023-12-15",
+    "value": 0.2558,
+    "value_": 25.58006
+  },
+  {
+    "geoid": "51179",
+    "key": "bachelors-degree",
+    "date": "2023-12-15",
+    "value": 0.2523,
+    "value_": 25.22953
+  },
+  {
+    "geoid": "51510",
+    "key": "bachelors-degree",
+    "date": "2023-12-15",
+    "value": 0.31375,
+    "value_": 31.37527
+  },
+  {
+    "geoid": "99997",
+    "key": "bachelors-degree",
+    "date": "2023-12-15",
+    "value": 0.23992,
+    "value_": 23.99187
+  },
+  {
+    "geoid": "99999",
+    "key": "bachelors-degree",
+    "date": "2023-12-15",
+    "value": 0.21772,
+    "value_": 21.77178
+  }
+]

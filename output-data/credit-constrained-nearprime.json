@@ -1,0 +1,5735 @@
+[
+  {
+    "geoid": "11001",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-03-15",
+    "value": 0.11034,
+    "value_": 11.03427
+  },
+  {
+    "geoid": "11001",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-06-15",
+    "value": 0.1098,
+    "value_": 10.97987
+  },
+  {
+    "geoid": "11001",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-09-15",
+    "value": 0.11111,
+    "value_": 11.11145
+  },
+  {
+    "geoid": "11001",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-12-15",
+    "value": 0.11196,
+    "value_": 11.19581
+  },
+  {
+    "geoid": "11001",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-03-15",
+    "value": 0.10945,
+    "value_": 10.94452
+  },
+  {
+    "geoid": "11001",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-06-15",
+    "value": 0.11002,
+    "value_": 11.00233
+  },
+  {
+    "geoid": "11001",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-09-15",
+    "value": 0.10861,
+    "value_": 10.86075
+  },
+  {
+    "geoid": "11001",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-12-15",
+    "value": 0.10967,
+    "value_": 10.96716
+  },
+  {
+    "geoid": "11001",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-03-15",
+    "value": 0.10598,
+    "value_": 10.59757
+  },
+  {
+    "geoid": "11001",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-06-15",
+    "value": 0.10419,
+    "value_": 10.41882
+  },
+  {
+    "geoid": "11001",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-09-15",
+    "value": 0.10446,
+    "value_": 10.44631
+  },
+  {
+    "geoid": "11001",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-12-15",
+    "value": 0.10754,
+    "value_": 10.75391
+  },
+  {
+    "geoid": "11001",
+    "key": "credit-constrained-nearprime",
+    "date": "2025-03-15",
+    "value": 0.10156,
+    "value_": 10.15612
+  },
+  {
+    "geoid": "12060",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-03-15",
+    "value": 0.124,
+    "value_": 12.4
+  },
+  {
+    "geoid": "12060",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-06-15",
+    "value": 0.12,
+    "value_": 12
+  },
+  {
+    "geoid": "12060",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-09-15",
+    "value": 0.119,
+    "value_": 11.9
+  },
+  {
+    "geoid": "12060",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-12-15",
+    "value": 0.119,
+    "value_": 11.9
+  },
+  {
+    "geoid": "12060",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-03-15",
+    "value": 0.117,
+    "value_": 11.7
+  },
+  {
+    "geoid": "12060",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-06-15",
+    "value": 0.116,
+    "value_": 11.6
+  },
+  {
+    "geoid": "12060",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-09-15",
+    "value": 0.114,
+    "value_": 11.4
+  },
+  {
+    "geoid": "12060",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-12-15",
+    "value": 0.114,
+    "value_": 11.4
+  },
+  {
+    "geoid": "12060",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-03-15",
+    "value": 0.111,
+    "value_": 11.1
+  },
+  {
+    "geoid": "12060",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-06-15",
+    "value": 0.11,
+    "value_": 11
+  },
+  {
+    "geoid": "12060",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-09-15",
+    "value": 0.11,
+    "value_": 11
+  },
+  {
+    "geoid": "12060",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-12-15",
+    "value": 0.114,
+    "value_": 11.4
+  },
+  {
+    "geoid": "12060",
+    "key": "credit-constrained-nearprime",
+    "date": "2025-03-15",
+    "value": 0.109,
+    "value_": 10.9
+  },
+  {
+    "geoid": "12420",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-03-15",
+    "value": 0.103,
+    "value_": 10.3
+  },
+  {
+    "geoid": "12420",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-06-15",
+    "value": 0.101,
+    "value_": 10.1
+  },
+  {
+    "geoid": "12420",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-09-15",
+    "value": 0.102,
+    "value_": 10.2
+  },
+  {
+    "geoid": "12420",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-12-15",
+    "value": 0.102,
+    "value_": 10.2
+  },
+  {
+    "geoid": "12420",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-03-15",
+    "value": 0.099,
+    "value_": 9.89999
+  },
+  {
+    "geoid": "12420",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-06-15",
+    "value": 0.097,
+    "value_": 9.7
+  },
+  {
+    "geoid": "12420",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-09-15",
+    "value": 0.095,
+    "value_": 9.50001
+  },
+  {
+    "geoid": "12420",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-12-15",
+    "value": 0.097,
+    "value_": 9.7
+  },
+  {
+    "geoid": "12420",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-03-15",
+    "value": 0.093,
+    "value_": 9.3
+  },
+  {
+    "geoid": "12420",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-06-15",
+    "value": 0.093,
+    "value_": 9.3
+  },
+  {
+    "geoid": "12420",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-09-15",
+    "value": 0.095,
+    "value_": 9.50001
+  },
+  {
+    "geoid": "12420",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-12-15",
+    "value": 0.096,
+    "value_": 9.6
+  },
+  {
+    "geoid": "12420",
+    "key": "credit-constrained-nearprime",
+    "date": "2025-03-15",
+    "value": 0.092,
+    "value_": 9.2
+  },
+  {
+    "geoid": "12580",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-03-15",
+    "value": 0.101,
+    "value_": 10.1
+  },
+  {
+    "geoid": "12580",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-06-15",
+    "value": 0.098,
+    "value_": 9.8
+  },
+  {
+    "geoid": "12580",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-09-15",
+    "value": 0.098,
+    "value_": 9.8
+  },
+  {
+    "geoid": "12580",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-12-15",
+    "value": 0.098,
+    "value_": 9.8
+  },
+  {
+    "geoid": "12580",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-03-15",
+    "value": 0.098,
+    "value_": 9.8
+  },
+  {
+    "geoid": "12580",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-06-15",
+    "value": 0.096,
+    "value_": 9.6
+  },
+  {
+    "geoid": "12580",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-09-15",
+    "value": 0.095,
+    "value_": 9.5
+  },
+  {
+    "geoid": "12580",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-12-15",
+    "value": 0.095,
+    "value_": 9.5
+  },
+  {
+    "geoid": "12580",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-03-15",
+    "value": 0.094,
+    "value_": 9.4
+  },
+  {
+    "geoid": "12580",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-06-15",
+    "value": 0.091,
+    "value_": 9.1
+  },
+  {
+    "geoid": "12580",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-09-15",
+    "value": 0.092,
+    "value_": 9.2
+  },
+  {
+    "geoid": "12580",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-12-15",
+    "value": 0.094,
+    "value_": 9.4
+  },
+  {
+    "geoid": "12580",
+    "key": "credit-constrained-nearprime",
+    "date": "2025-03-15",
+    "value": 0.09,
+    "value_": 9
+  },
+  {
+    "geoid": "13820",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-03-15",
+    "value": 0.114,
+    "value_": 11.40001
+  },
+  {
+    "geoid": "13820",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-06-15",
+    "value": 0.112,
+    "value_": 11.19999
+  },
+  {
+    "geoid": "13820",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-09-15",
+    "value": 0.109,
+    "value_": 10.9
+  },
+  {
+    "geoid": "13820",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-12-15",
+    "value": 0.113,
+    "value_": 11.30001
+  },
+  {
+    "geoid": "13820",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-03-15",
+    "value": 0.111,
+    "value_": 11.1
+  },
+  {
+    "geoid": "13820",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-06-15",
+    "value": 0.11,
+    "value_": 11
+  },
+  {
+    "geoid": "13820",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-09-15",
+    "value": 0.11,
+    "value_": 11
+  },
+  {
+    "geoid": "13820",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-12-15",
+    "value": 0.109,
+    "value_": 10.9
+  },
+  {
+    "geoid": "13820",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-03-15",
+    "value": 0.107,
+    "value_": 10.70001
+  },
+  {
+    "geoid": "13820",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-06-15",
+    "value": 0.104,
+    "value_": 10.4
+  },
+  {
+    "geoid": "13820",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-09-15",
+    "value": 0.106,
+    "value_": 10.59999
+  },
+  {
+    "geoid": "13820",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-12-15",
+    "value": 0.106,
+    "value_": 10.60001
+  },
+  {
+    "geoid": "13820",
+    "key": "credit-constrained-nearprime",
+    "date": "2025-03-15",
+    "value": 0.101,
+    "value_": 10.1
+  },
+  {
+    "geoid": "14460",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-03-15",
+    "value": 0.077,
+    "value_": 7.7
+  },
+  {
+    "geoid": "14460",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-06-15",
+    "value": 0.075,
+    "value_": 7.5
+  },
+  {
+    "geoid": "14460",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-09-15",
+    "value": 0.075,
+    "value_": 7.5
+  },
+  {
+    "geoid": "14460",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-12-15",
+    "value": 0.078,
+    "value_": 7.8
+  },
+  {
+    "geoid": "14460",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-03-15",
+    "value": 0.076,
+    "value_": 7.6
+  },
+  {
+    "geoid": "14460",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-06-15",
+    "value": 0.074,
+    "value_": 7.4
+  },
+  {
+    "geoid": "14460",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-09-15",
+    "value": 0.073,
+    "value_": 7.3
+  },
+  {
+    "geoid": "14460",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-12-15",
+    "value": 0.075,
+    "value_": 7.5
+  },
+  {
+    "geoid": "14460",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-03-15",
+    "value": 0.073,
+    "value_": 7.3
+  },
+  {
+    "geoid": "14460",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-06-15",
+    "value": 0.071,
+    "value_": 7.1
+  },
+  {
+    "geoid": "14460",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-09-15",
+    "value": 0.072,
+    "value_": 7.2
+  },
+  {
+    "geoid": "14460",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-12-15",
+    "value": 0.076,
+    "value_": 7.6
+  },
+  {
+    "geoid": "14460",
+    "key": "credit-constrained-nearprime",
+    "date": "2025-03-15",
+    "value": 0.072,
+    "value_": 7.2
+  },
+  {
+    "geoid": "15380",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-03-15",
+    "value": 0.088,
+    "value_": 8.8
+  },
+  {
+    "geoid": "15380",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-06-15",
+    "value": 0.084,
+    "value_": 8.40001
+  },
+  {
+    "geoid": "15380",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-09-15",
+    "value": 0.085,
+    "value_": 8.5
+  },
+  {
+    "geoid": "15380",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-12-15",
+    "value": 0.085,
+    "value_": 8.5
+  },
+  {
+    "geoid": "15380",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-03-15",
+    "value": 0.083,
+    "value_": 8.29999
+  },
+  {
+    "geoid": "15380",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-06-15",
+    "value": 0.082,
+    "value_": 8.2
+  },
+  {
+    "geoid": "15380",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-09-15",
+    "value": 0.082,
+    "value_": 8.2
+  },
+  {
+    "geoid": "15380",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-12-15",
+    "value": 0.082,
+    "value_": 8.20001
+  },
+  {
+    "geoid": "15380",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-03-15",
+    "value": 0.08,
+    "value_": 8
+  },
+  {
+    "geoid": "15380",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-06-15",
+    "value": 0.077,
+    "value_": 7.70001
+  },
+  {
+    "geoid": "15380",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-09-15",
+    "value": 0.079,
+    "value_": 7.9
+  },
+  {
+    "geoid": "15380",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-12-15",
+    "value": 0.083,
+    "value_": 8.3
+  },
+  {
+    "geoid": "15380",
+    "key": "credit-constrained-nearprime",
+    "date": "2025-03-15",
+    "value": 0.078,
+    "value_": 7.8
+  },
+  {
+    "geoid": "16740",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-03-15",
+    "value": 0.112,
+    "value_": 11.2
+  },
+  {
+    "geoid": "16740",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-06-15",
+    "value": 0.109,
+    "value_": 10.9
+  },
+  {
+    "geoid": "16740",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-09-15",
+    "value": 0.109,
+    "value_": 10.9
+  },
+  {
+    "geoid": "16740",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-12-15",
+    "value": 0.109,
+    "value_": 10.9
+  },
+  {
+    "geoid": "16740",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-03-15",
+    "value": 0.107,
+    "value_": 10.7
+  },
+  {
+    "geoid": "16740",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-06-15",
+    "value": 0.105,
+    "value_": 10.5
+  },
+  {
+    "geoid": "16740",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-09-15",
+    "value": 0.104,
+    "value_": 10.4
+  },
+  {
+    "geoid": "16740",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-12-15",
+    "value": 0.104,
+    "value_": 10.4
+  },
+  {
+    "geoid": "16740",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-03-15",
+    "value": 0.101,
+    "value_": 10.1
+  },
+  {
+    "geoid": "16740",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-06-15",
+    "value": 0.098,
+    "value_": 9.8
+  },
+  {
+    "geoid": "16740",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-09-15",
+    "value": 0.098,
+    "value_": 9.8
+  },
+  {
+    "geoid": "16740",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-12-15",
+    "value": 0.101,
+    "value_": 10.1
+  },
+  {
+    "geoid": "16740",
+    "key": "credit-constrained-nearprime",
+    "date": "2025-03-15",
+    "value": 0.097,
+    "value_": 9.7
+  },
+  {
+    "geoid": "16980",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-03-15",
+    "value": 0.098,
+    "value_": 9.8
+  },
+  {
+    "geoid": "16980",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-06-15",
+    "value": 0.096,
+    "value_": 9.6
+  },
+  {
+    "geoid": "16980",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-09-15",
+    "value": 0.095,
+    "value_": 9.5
+  },
+  {
+    "geoid": "16980",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-12-15",
+    "value": 0.097,
+    "value_": 9.7
+  },
+  {
+    "geoid": "16980",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-03-15",
+    "value": 0.094,
+    "value_": 9.4
+  },
+  {
+    "geoid": "16980",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-06-15",
+    "value": 0.093,
+    "value_": 9.3
+  },
+  {
+    "geoid": "16980",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-09-15",
+    "value": 0.092,
+    "value_": 9.2
+  },
+  {
+    "geoid": "16980",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-12-15",
+    "value": 0.093,
+    "value_": 9.3
+  },
+  {
+    "geoid": "16980",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-03-15",
+    "value": 0.091,
+    "value_": 9.1
+  },
+  {
+    "geoid": "16980",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-06-15",
+    "value": 0.089,
+    "value_": 8.9
+  },
+  {
+    "geoid": "16980",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-09-15",
+    "value": 0.09,
+    "value_": 9
+  },
+  {
+    "geoid": "16980",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-12-15",
+    "value": 0.093,
+    "value_": 9.3
+  },
+  {
+    "geoid": "16980",
+    "key": "credit-constrained-nearprime",
+    "date": "2025-03-15",
+    "value": 0.09,
+    "value_": 9
+  },
+  {
+    "geoid": "17140",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-03-15",
+    "value": 0.099,
+    "value_": 9.9
+  },
+  {
+    "geoid": "17140",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-06-15",
+    "value": 0.096,
+    "value_": 9.6
+  },
+  {
+    "geoid": "17140",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-09-15",
+    "value": 0.095,
+    "value_": 9.50001
+  },
+  {
+    "geoid": "17140",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-12-15",
+    "value": 0.097,
+    "value_": 9.7
+  },
+  {
+    "geoid": "17140",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-03-15",
+    "value": 0.094,
+    "value_": 9.4
+  },
+  {
+    "geoid": "17140",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-06-15",
+    "value": 0.094,
+    "value_": 9.4
+  },
+  {
+    "geoid": "17140",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-09-15",
+    "value": 0.092,
+    "value_": 9.2
+  },
+  {
+    "geoid": "17140",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-12-15",
+    "value": 0.091,
+    "value_": 9.1
+  },
+  {
+    "geoid": "17140",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-03-15",
+    "value": 0.09,
+    "value_": 9
+  },
+  {
+    "geoid": "17140",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-06-15",
+    "value": 0.087,
+    "value_": 8.7
+  },
+  {
+    "geoid": "17140",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-09-15",
+    "value": 0.087,
+    "value_": 8.7
+  },
+  {
+    "geoid": "17140",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-12-15",
+    "value": 0.09,
+    "value_": 9
+  },
+  {
+    "geoid": "17140",
+    "key": "credit-constrained-nearprime",
+    "date": "2025-03-15",
+    "value": 0.085,
+    "value_": 8.50001
+  },
+  {
+    "geoid": "17410",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-03-15",
+    "value": 0.097,
+    "value_": 9.7
+  },
+  {
+    "geoid": "17410",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-06-15",
+    "value": 0.095,
+    "value_": 9.5
+  },
+  {
+    "geoid": "17410",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-09-15",
+    "value": 0.095,
+    "value_": 9.5
+  },
+  {
+    "geoid": "17410",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-12-15",
+    "value": 0.095,
+    "value_": 9.50001
+  },
+  {
+    "geoid": "17410",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-03-15",
+    "value": 0.092,
+    "value_": 9.2
+  },
+  {
+    "geoid": "17410",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-06-15",
+    "value": 0.09,
+    "value_": 9
+  },
+  {
+    "geoid": "17410",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-09-15",
+    "value": 0.09,
+    "value_": 9
+  },
+  {
+    "geoid": "17410",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-12-15",
+    "value": 0.091,
+    "value_": 9.09999
+  },
+  {
+    "geoid": "17410",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-03-15",
+    "value": 0.088,
+    "value_": 8.8
+  },
+  {
+    "geoid": "17410",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-06-15",
+    "value": 0.087,
+    "value_": 8.7
+  },
+  {
+    "geoid": "17410",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-09-15",
+    "value": 0.088,
+    "value_": 8.8
+  },
+  {
+    "geoid": "17410",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-12-15",
+    "value": 0.09,
+    "value_": 9
+  },
+  {
+    "geoid": "17410",
+    "key": "credit-constrained-nearprime",
+    "date": "2025-03-15",
+    "value": 0.084,
+    "value_": 8.4
+  },
+  {
+    "geoid": "18140",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-03-15",
+    "value": 0.102,
+    "value_": 10.2
+  },
+  {
+    "geoid": "18140",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-06-15",
+    "value": 0.101,
+    "value_": 10.1
+  },
+  {
+    "geoid": "18140",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-09-15",
+    "value": 0.101,
+    "value_": 10.1
+  },
+  {
+    "geoid": "18140",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-12-15",
+    "value": 0.1,
+    "value_": 10
+  },
+  {
+    "geoid": "18140",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-03-15",
+    "value": 0.097,
+    "value_": 9.7
+  },
+  {
+    "geoid": "18140",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-06-15",
+    "value": 0.095,
+    "value_": 9.5
+  },
+  {
+    "geoid": "18140",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-09-15",
+    "value": 0.095,
+    "value_": 9.5
+  },
+  {
+    "geoid": "18140",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-12-15",
+    "value": 0.095,
+    "value_": 9.5
+  },
+  {
+    "geoid": "18140",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-03-15",
+    "value": 0.092,
+    "value_": 9.2
+  },
+  {
+    "geoid": "18140",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-06-15",
+    "value": 0.092,
+    "value_": 9.2
+  },
+  {
+    "geoid": "18140",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-09-15",
+    "value": 0.094,
+    "value_": 9.4
+  },
+  {
+    "geoid": "18140",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-12-15",
+    "value": 0.098,
+    "value_": 9.8
+  },
+  {
+    "geoid": "18140",
+    "key": "credit-constrained-nearprime",
+    "date": "2025-03-15",
+    "value": 0.092,
+    "value_": 9.2
+  },
+  {
+    "geoid": "19100",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-03-15",
+    "value": 0.117,
+    "value_": 11.7
+  },
+  {
+    "geoid": "19100",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-06-15",
+    "value": 0.115,
+    "value_": 11.5
+  },
+  {
+    "geoid": "19100",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-09-15",
+    "value": 0.114,
+    "value_": 11.4
+  },
+  {
+    "geoid": "19100",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-12-15",
+    "value": 0.116,
+    "value_": 11.6
+  },
+  {
+    "geoid": "19100",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-03-15",
+    "value": 0.113,
+    "value_": 11.3
+  },
+  {
+    "geoid": "19100",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-06-15",
+    "value": 0.111,
+    "value_": 11.1
+  },
+  {
+    "geoid": "19100",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-09-15",
+    "value": 0.111,
+    "value_": 11.1
+  },
+  {
+    "geoid": "19100",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-12-15",
+    "value": 0.11,
+    "value_": 11
+  },
+  {
+    "geoid": "19100",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-03-15",
+    "value": 0.108,
+    "value_": 10.8
+  },
+  {
+    "geoid": "19100",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-06-15",
+    "value": 0.108,
+    "value_": 10.8
+  },
+  {
+    "geoid": "19100",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-09-15",
+    "value": 0.108,
+    "value_": 10.8
+  },
+  {
+    "geoid": "19100",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-12-15",
+    "value": 0.111,
+    "value_": 11.1
+  },
+  {
+    "geoid": "19100",
+    "key": "credit-constrained-nearprime",
+    "date": "2025-03-15",
+    "value": 0.105,
+    "value_": 10.5
+  },
+  {
+    "geoid": "19740",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-03-15",
+    "value": 0.084,
+    "value_": 8.4
+  },
+  {
+    "geoid": "19740",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-06-15",
+    "value": 0.083,
+    "value_": 8.3
+  },
+  {
+    "geoid": "19740",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-09-15",
+    "value": 0.083,
+    "value_": 8.3
+  },
+  {
+    "geoid": "19740",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-12-15",
+    "value": 0.084,
+    "value_": 8.4
+  },
+  {
+    "geoid": "19740",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-03-15",
+    "value": 0.083,
+    "value_": 8.3
+  },
+  {
+    "geoid": "19740",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-06-15",
+    "value": 0.081,
+    "value_": 8.1
+  },
+  {
+    "geoid": "19740",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-09-15",
+    "value": 0.081,
+    "value_": 8.1
+  },
+  {
+    "geoid": "19740",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-12-15",
+    "value": 0.082,
+    "value_": 8.2
+  },
+  {
+    "geoid": "19740",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-03-15",
+    "value": 0.08,
+    "value_": 8
+  },
+  {
+    "geoid": "19740",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-06-15",
+    "value": 0.08,
+    "value_": 8
+  },
+  {
+    "geoid": "19740",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-09-15",
+    "value": 0.081,
+    "value_": 8.1
+  },
+  {
+    "geoid": "19740",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-12-15",
+    "value": 0.083,
+    "value_": 8.3
+  },
+  {
+    "geoid": "19740",
+    "key": "credit-constrained-nearprime",
+    "date": "2025-03-15",
+    "value": 0.078,
+    "value_": 7.8
+  },
+  {
+    "geoid": "19820",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-03-15",
+    "value": 0.096,
+    "value_": 9.6
+  },
+  {
+    "geoid": "19820",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-06-15",
+    "value": 0.093,
+    "value_": 9.3
+  },
+  {
+    "geoid": "19820",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-09-15",
+    "value": 0.092,
+    "value_": 9.2
+  },
+  {
+    "geoid": "19820",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-12-15",
+    "value": 0.093,
+    "value_": 9.3
+  },
+  {
+    "geoid": "19820",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-03-15",
+    "value": 0.091,
+    "value_": 9.1
+  },
+  {
+    "geoid": "19820",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-06-15",
+    "value": 0.09,
+    "value_": 9
+  },
+  {
+    "geoid": "19820",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-09-15",
+    "value": 0.088,
+    "value_": 8.8
+  },
+  {
+    "geoid": "19820",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-12-15",
+    "value": 0.089,
+    "value_": 8.9
+  },
+  {
+    "geoid": "19820",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-03-15",
+    "value": 0.088,
+    "value_": 8.8
+  },
+  {
+    "geoid": "19820",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-06-15",
+    "value": 0.086,
+    "value_": 8.6
+  },
+  {
+    "geoid": "19820",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-09-15",
+    "value": 0.088,
+    "value_": 8.8
+  },
+  {
+    "geoid": "19820",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-12-15",
+    "value": 0.09,
+    "value_": 9
+  },
+  {
+    "geoid": "19820",
+    "key": "credit-constrained-nearprime",
+    "date": "2025-03-15",
+    "value": 0.085,
+    "value_": 8.5
+  },
+  {
+    "geoid": "23420",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-03-15",
+    "value": 0.115,
+    "value_": 11.50001
+  },
+  {
+    "geoid": "23420",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-06-15",
+    "value": 0.113,
+    "value_": 11.3
+  },
+  {
+    "geoid": "23420",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-09-15",
+    "value": 0.113,
+    "value_": 11.3
+  },
+  {
+    "geoid": "23420",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-12-15",
+    "value": 0.116,
+    "value_": 11.6
+  },
+  {
+    "geoid": "23420",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-03-15",
+    "value": 0.114,
+    "value_": 11.4
+  },
+  {
+    "geoid": "23420",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-06-15",
+    "value": 0.114,
+    "value_": 11.4
+  },
+  {
+    "geoid": "23420",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-09-15",
+    "value": 0.11,
+    "value_": 11
+  },
+  {
+    "geoid": "23420",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-12-15",
+    "value": 0.109,
+    "value_": 10.89999
+  },
+  {
+    "geoid": "23420",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-03-15",
+    "value": 0.109,
+    "value_": 10.89999
+  },
+  {
+    "geoid": "23420",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-06-15",
+    "value": 0.109,
+    "value_": 10.9
+  },
+  {
+    "geoid": "23420",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-09-15",
+    "value": 0.108,
+    "value_": 10.8
+  },
+  {
+    "geoid": "23420",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-12-15",
+    "value": 0.11,
+    "value_": 11
+  },
+  {
+    "geoid": "23420",
+    "key": "credit-constrained-nearprime",
+    "date": "2025-03-15",
+    "value": 0.106,
+    "value_": 10.59999
+  },
+  {
+    "geoid": "24017",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-03-15",
+    "value": 0.13596,
+    "value_": 13.59608
+  },
+  {
+    "geoid": "24017",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-06-15",
+    "value": 0.13232,
+    "value_": 13.2322
+  },
+  {
+    "geoid": "24017",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-09-15",
+    "value": 0.13308,
+    "value_": 13.30773
+  },
+  {
+    "geoid": "24017",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-12-15",
+    "value": 0.1368,
+    "value_": 13.67995
+  },
+  {
+    "geoid": "24017",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-03-15",
+    "value": 0.13489,
+    "value_": 13.48942
+  },
+  {
+    "geoid": "24017",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-06-15",
+    "value": 0.13522,
+    "value_": 13.52175
+  },
+  {
+    "geoid": "24017",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-09-15",
+    "value": 0.13109,
+    "value_": 13.10908
+  },
+  {
+    "geoid": "24017",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-12-15",
+    "value": 0.13134,
+    "value_": 13.13407
+  },
+  {
+    "geoid": "24017",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-03-15",
+    "value": 0.12833,
+    "value_": 12.83336
+  },
+  {
+    "geoid": "24017",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-06-15",
+    "value": 0.12605,
+    "value_": 12.60523
+  },
+  {
+    "geoid": "24017",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-09-15",
+    "value": 0.1288,
+    "value_": 12.87987
+  },
+  {
+    "geoid": "24017",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-12-15",
+    "value": 0.13318,
+    "value_": 13.31753
+  },
+  {
+    "geoid": "24017",
+    "key": "credit-constrained-nearprime",
+    "date": "2025-03-15",
+    "value": 0.1272,
+    "value_": 12.71961
+  },
+  {
+    "geoid": "24031",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-03-15",
+    "value": 0.07402,
+    "value_": 7.40205
+  },
+  {
+    "geoid": "24031",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-06-15",
+    "value": 0.07205,
+    "value_": 7.20545
+  },
+  {
+    "geoid": "24031",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-09-15",
+    "value": 0.07312,
+    "value_": 7.31175
+  },
+  {
+    "geoid": "24031",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-12-15",
+    "value": 0.07471,
+    "value_": 7.47053
+  },
+  {
+    "geoid": "24031",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-03-15",
+    "value": 0.07141,
+    "value_": 7.14056
+  },
+  {
+    "geoid": "24031",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-06-15",
+    "value": 0.07041,
+    "value_": 7.04092
+  },
+  {
+    "geoid": "24031",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-09-15",
+    "value": 0.0705,
+    "value_": 7.05027
+  },
+  {
+    "geoid": "24031",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-12-15",
+    "value": 0.07126,
+    "value_": 7.12629
+  },
+  {
+    "geoid": "24031",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-03-15",
+    "value": 0.06923,
+    "value_": 6.923
+  },
+  {
+    "geoid": "24031",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-06-15",
+    "value": 0.06806,
+    "value_": 6.80615
+  },
+  {
+    "geoid": "24031",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-09-15",
+    "value": 0.0692,
+    "value_": 6.92041
+  },
+  {
+    "geoid": "24031",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-12-15",
+    "value": 0.07163,
+    "value_": 7.16333
+  },
+  {
+    "geoid": "24031",
+    "key": "credit-constrained-nearprime",
+    "date": "2025-03-15",
+    "value": 0.06706,
+    "value_": 6.70643
+  },
+  {
+    "geoid": "24033",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-03-15",
+    "value": 0.15968,
+    "value_": 15.96844
+  },
+  {
+    "geoid": "24033",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-06-15",
+    "value": 0.15609,
+    "value_": 15.60895
+  },
+  {
+    "geoid": "24033",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-09-15",
+    "value": 0.1559,
+    "value_": 15.59014
+  },
+  {
+    "geoid": "24033",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-12-15",
+    "value": 0.15673,
+    "value_": 15.67309
+  },
+  {
+    "geoid": "24033",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-03-15",
+    "value": 0.15425,
+    "value_": 15.42547
+  },
+  {
+    "geoid": "24033",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-06-15",
+    "value": 0.15327,
+    "value_": 15.32663
+  },
+  {
+    "geoid": "24033",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-09-15",
+    "value": 0.15085,
+    "value_": 15.08505
+  },
+  {
+    "geoid": "24033",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-12-15",
+    "value": 0.15146,
+    "value_": 15.14589
+  },
+  {
+    "geoid": "24033",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-03-15",
+    "value": 0.14737,
+    "value_": 14.73685
+  },
+  {
+    "geoid": "24033",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-06-15",
+    "value": 0.14563,
+    "value_": 14.5625
+  },
+  {
+    "geoid": "24033",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-09-15",
+    "value": 0.14724,
+    "value_": 14.72364
+  },
+  {
+    "geoid": "24033",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-12-15",
+    "value": 0.15072,
+    "value_": 15.07176
+  },
+  {
+    "geoid": "24033",
+    "key": "credit-constrained-nearprime",
+    "date": "2025-03-15",
+    "value": 0.14306,
+    "value_": 14.30571
+  },
+  {
+    "geoid": "24340",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-03-15",
+    "value": 0.081,
+    "value_": 8.10001
+  },
+  {
+    "geoid": "24340",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-06-15",
+    "value": 0.079,
+    "value_": 7.90001
+  },
+  {
+    "geoid": "24340",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-09-15",
+    "value": 0.077,
+    "value_": 7.7
+  },
+  {
+    "geoid": "24340",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-12-15",
+    "value": 0.078,
+    "value_": 7.8
+  },
+  {
+    "geoid": "24340",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-03-15",
+    "value": 0.075,
+    "value_": 7.50001
+  },
+  {
+    "geoid": "24340",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-06-15",
+    "value": 0.073,
+    "value_": 7.3
+  },
+  {
+    "geoid": "24340",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-09-15",
+    "value": 0.073,
+    "value_": 7.3
+  },
+  {
+    "geoid": "24340",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-12-15",
+    "value": 0.075,
+    "value_": 7.5
+  },
+  {
+    "geoid": "24340",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-03-15",
+    "value": 0.073,
+    "value_": 7.3
+  },
+  {
+    "geoid": "24340",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-06-15",
+    "value": 0.072,
+    "value_": 7.2
+  },
+  {
+    "geoid": "24340",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-09-15",
+    "value": 0.071,
+    "value_": 7.09999
+  },
+  {
+    "geoid": "24340",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-12-15",
+    "value": 0.073,
+    "value_": 7.29999
+  },
+  {
+    "geoid": "24340",
+    "key": "credit-constrained-nearprime",
+    "date": "2025-03-15",
+    "value": 0.068,
+    "value_": 6.8
+  },
+  {
+    "geoid": "26420",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-03-15",
+    "value": 0.121,
+    "value_": 12.1
+  },
+  {
+    "geoid": "26420",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-06-15",
+    "value": 0.119,
+    "value_": 11.9
+  },
+  {
+    "geoid": "26420",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-09-15",
+    "value": 0.119,
+    "value_": 11.9
+  },
+  {
+    "geoid": "26420",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-12-15",
+    "value": 0.12,
+    "value_": 12
+  },
+  {
+    "geoid": "26420",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-03-15",
+    "value": 0.118,
+    "value_": 11.8
+  },
+  {
+    "geoid": "26420",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-06-15",
+    "value": 0.117,
+    "value_": 11.7
+  },
+  {
+    "geoid": "26420",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-09-15",
+    "value": 0.116,
+    "value_": 11.6
+  },
+  {
+    "geoid": "26420",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-12-15",
+    "value": 0.117,
+    "value_": 11.7
+  },
+  {
+    "geoid": "26420",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-03-15",
+    "value": 0.115,
+    "value_": 11.5
+  },
+  {
+    "geoid": "26420",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-06-15",
+    "value": 0.114,
+    "value_": 11.4
+  },
+  {
+    "geoid": "26420",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-09-15",
+    "value": 0.115,
+    "value_": 11.5
+  },
+  {
+    "geoid": "26420",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-12-15",
+    "value": 0.118,
+    "value_": 11.8
+  },
+  {
+    "geoid": "26420",
+    "key": "credit-constrained-nearprime",
+    "date": "2025-03-15",
+    "value": 0.114,
+    "value_": 11.4
+  },
+  {
+    "geoid": "26900",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-03-15",
+    "value": 0.108,
+    "value_": 10.8
+  },
+  {
+    "geoid": "26900",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-06-15",
+    "value": 0.104,
+    "value_": 10.4
+  },
+  {
+    "geoid": "26900",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-09-15",
+    "value": 0.104,
+    "value_": 10.4
+  },
+  {
+    "geoid": "26900",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-12-15",
+    "value": 0.106,
+    "value_": 10.6
+  },
+  {
+    "geoid": "26900",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-03-15",
+    "value": 0.104,
+    "value_": 10.4
+  },
+  {
+    "geoid": "26900",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-06-15",
+    "value": 0.103,
+    "value_": 10.3
+  },
+  {
+    "geoid": "26900",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-09-15",
+    "value": 0.103,
+    "value_": 10.3
+  },
+  {
+    "geoid": "26900",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-12-15",
+    "value": 0.103,
+    "value_": 10.30001
+  },
+  {
+    "geoid": "26900",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-03-15",
+    "value": 0.101,
+    "value_": 10.1
+  },
+  {
+    "geoid": "26900",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-06-15",
+    "value": 0.099,
+    "value_": 9.9
+  },
+  {
+    "geoid": "26900",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-09-15",
+    "value": 0.101,
+    "value_": 10.1
+  },
+  {
+    "geoid": "26900",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-12-15",
+    "value": 0.103,
+    "value_": 10.3
+  },
+  {
+    "geoid": "26900",
+    "key": "credit-constrained-nearprime",
+    "date": "2025-03-15",
+    "value": 0.098,
+    "value_": 9.8
+  },
+  {
+    "geoid": "27260",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-03-15",
+    "value": 0.115,
+    "value_": 11.50001
+  },
+  {
+    "geoid": "27260",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-06-15",
+    "value": 0.114,
+    "value_": 11.4
+  },
+  {
+    "geoid": "27260",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-09-15",
+    "value": 0.11,
+    "value_": 11
+  },
+  {
+    "geoid": "27260",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-12-15",
+    "value": 0.11,
+    "value_": 11
+  },
+  {
+    "geoid": "27260",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-03-15",
+    "value": 0.112,
+    "value_": 11.2
+  },
+  {
+    "geoid": "27260",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-06-15",
+    "value": 0.108,
+    "value_": 10.8
+  },
+  {
+    "geoid": "27260",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-09-15",
+    "value": 0.106,
+    "value_": 10.6
+  },
+  {
+    "geoid": "27260",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-12-15",
+    "value": 0.104,
+    "value_": 10.4
+  },
+  {
+    "geoid": "27260",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-03-15",
+    "value": 0.105,
+    "value_": 10.5
+  },
+  {
+    "geoid": "27260",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-06-15",
+    "value": 0.104,
+    "value_": 10.4
+  },
+  {
+    "geoid": "27260",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-09-15",
+    "value": 0.104,
+    "value_": 10.40001
+  },
+  {
+    "geoid": "27260",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-12-15",
+    "value": 0.105,
+    "value_": 10.50001
+  },
+  {
+    "geoid": "27260",
+    "key": "credit-constrained-nearprime",
+    "date": "2025-03-15",
+    "value": 0.103,
+    "value_": 10.3
+  },
+  {
+    "geoid": "28140",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-03-15",
+    "value": 0.098,
+    "value_": 9.8
+  },
+  {
+    "geoid": "28140",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-06-15",
+    "value": 0.095,
+    "value_": 9.50001
+  },
+  {
+    "geoid": "28140",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-09-15",
+    "value": 0.095,
+    "value_": 9.5
+  },
+  {
+    "geoid": "28140",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-12-15",
+    "value": 0.096,
+    "value_": 9.6
+  },
+  {
+    "geoid": "28140",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-03-15",
+    "value": 0.095,
+    "value_": 9.5
+  },
+  {
+    "geoid": "28140",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-06-15",
+    "value": 0.093,
+    "value_": 9.3
+  },
+  {
+    "geoid": "28140",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-09-15",
+    "value": 0.092,
+    "value_": 9.2
+  },
+  {
+    "geoid": "28140",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-12-15",
+    "value": 0.092,
+    "value_": 9.2
+  },
+  {
+    "geoid": "28140",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-03-15",
+    "value": 0.091,
+    "value_": 9.1
+  },
+  {
+    "geoid": "28140",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-06-15",
+    "value": 0.088,
+    "value_": 8.8
+  },
+  {
+    "geoid": "28140",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-09-15",
+    "value": 0.09,
+    "value_": 9
+  },
+  {
+    "geoid": "28140",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-12-15",
+    "value": 0.092,
+    "value_": 9.2
+  },
+  {
+    "geoid": "28140",
+    "key": "credit-constrained-nearprime",
+    "date": "2025-03-15",
+    "value": 0.087,
+    "value_": 8.69999
+  },
+  {
+    "geoid": "29820",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-03-15",
+    "value": 0.123,
+    "value_": 12.3
+  },
+  {
+    "geoid": "29820",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-06-15",
+    "value": 0.121,
+    "value_": 12.1
+  },
+  {
+    "geoid": "29820",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-09-15",
+    "value": 0.119,
+    "value_": 11.9
+  },
+  {
+    "geoid": "29820",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-12-15",
+    "value": 0.121,
+    "value_": 12.09999
+  },
+  {
+    "geoid": "29820",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-03-15",
+    "value": 0.12,
+    "value_": 12
+  },
+  {
+    "geoid": "29820",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-06-15",
+    "value": 0.121,
+    "value_": 12.1
+  },
+  {
+    "geoid": "29820",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-09-15",
+    "value": 0.119,
+    "value_": 11.9
+  },
+  {
+    "geoid": "29820",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-12-15",
+    "value": 0.118,
+    "value_": 11.8
+  },
+  {
+    "geoid": "29820",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-03-15",
+    "value": 0.115,
+    "value_": 11.5
+  },
+  {
+    "geoid": "29820",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-06-15",
+    "value": 0.115,
+    "value_": 11.5
+  },
+  {
+    "geoid": "29820",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-09-15",
+    "value": 0.117,
+    "value_": 11.7
+  },
+  {
+    "geoid": "29820",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-12-15",
+    "value": 0.118,
+    "value_": 11.8
+  },
+  {
+    "geoid": "29820",
+    "key": "credit-constrained-nearprime",
+    "date": "2025-03-15",
+    "value": 0.113,
+    "value_": 11.3
+  },
+  {
+    "geoid": "31080",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-03-15",
+    "value": 0.095,
+    "value_": 9.5
+  },
+  {
+    "geoid": "31080",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-06-15",
+    "value": 0.094,
+    "value_": 9.4
+  },
+  {
+    "geoid": "31080",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-09-15",
+    "value": 0.094,
+    "value_": 9.4
+  },
+  {
+    "geoid": "31080",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-12-15",
+    "value": 0.096,
+    "value_": 9.6
+  },
+  {
+    "geoid": "31080",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-03-15",
+    "value": 0.093,
+    "value_": 9.3
+  },
+  {
+    "geoid": "31080",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-06-15",
+    "value": 0.092,
+    "value_": 9.2
+  },
+  {
+    "geoid": "31080",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-09-15",
+    "value": 0.091,
+    "value_": 9.1
+  },
+  {
+    "geoid": "31080",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-12-15",
+    "value": 0.092,
+    "value_": 9.2
+  },
+  {
+    "geoid": "31080",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-03-15",
+    "value": 0.091,
+    "value_": 9.1
+  },
+  {
+    "geoid": "31080",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-06-15",
+    "value": 0.089,
+    "value_": 8.9
+  },
+  {
+    "geoid": "31080",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-09-15",
+    "value": 0.09,
+    "value_": 9
+  },
+  {
+    "geoid": "31080",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-12-15",
+    "value": 0.092,
+    "value_": 9.2
+  },
+  {
+    "geoid": "31080",
+    "key": "credit-constrained-nearprime",
+    "date": "2025-03-15",
+    "value": 0.089,
+    "value_": 8.9
+  },
+  {
+    "geoid": "32820",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-03-15",
+    "value": 0.132,
+    "value_": 13.2
+  },
+  {
+    "geoid": "32820",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-06-15",
+    "value": 0.128,
+    "value_": 12.79999
+  },
+  {
+    "geoid": "32820",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-09-15",
+    "value": 0.126,
+    "value_": 12.6
+  },
+  {
+    "geoid": "32820",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-12-15",
+    "value": 0.125,
+    "value_": 12.49999
+  },
+  {
+    "geoid": "32820",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-03-15",
+    "value": 0.127,
+    "value_": 12.7
+  },
+  {
+    "geoid": "32820",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-06-15",
+    "value": 0.127,
+    "value_": 12.69999
+  },
+  {
+    "geoid": "32820",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-09-15",
+    "value": 0.124,
+    "value_": 12.4
+  },
+  {
+    "geoid": "32820",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-12-15",
+    "value": 0.126,
+    "value_": 12.6
+  },
+  {
+    "geoid": "32820",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-03-15",
+    "value": 0.125,
+    "value_": 12.49999
+  },
+  {
+    "geoid": "32820",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-06-15",
+    "value": 0.123,
+    "value_": 12.3
+  },
+  {
+    "geoid": "32820",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-09-15",
+    "value": 0.124,
+    "value_": 12.4
+  },
+  {
+    "geoid": "32820",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-12-15",
+    "value": 0.126,
+    "value_": 12.6
+  },
+  {
+    "geoid": "32820",
+    "key": "credit-constrained-nearprime",
+    "date": "2025-03-15",
+    "value": 0.12,
+    "value_": 12
+  },
+  {
+    "geoid": "33100",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-03-15",
+    "value": 0.128,
+    "value_": 12.8
+  },
+  {
+    "geoid": "33100",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-06-15",
+    "value": 0.125,
+    "value_": 12.5
+  },
+  {
+    "geoid": "33100",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-09-15",
+    "value": 0.124,
+    "value_": 12.4
+  },
+  {
+    "geoid": "33100",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-12-15",
+    "value": 0.125,
+    "value_": 12.5
+  },
+  {
+    "geoid": "33100",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-03-15",
+    "value": 0.123,
+    "value_": 12.3
+  },
+  {
+    "geoid": "33100",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-06-15",
+    "value": 0.123,
+    "value_": 12.3
+  },
+  {
+    "geoid": "33100",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-09-15",
+    "value": 0.121,
+    "value_": 12.1
+  },
+  {
+    "geoid": "33100",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-12-15",
+    "value": 0.122,
+    "value_": 12.2
+  },
+  {
+    "geoid": "33100",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-03-15",
+    "value": 0.119,
+    "value_": 11.9
+  },
+  {
+    "geoid": "33100",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-06-15",
+    "value": 0.118,
+    "value_": 11.8
+  },
+  {
+    "geoid": "33100",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-09-15",
+    "value": 0.119,
+    "value_": 11.9
+  },
+  {
+    "geoid": "33100",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-12-15",
+    "value": 0.121,
+    "value_": 12.1
+  },
+  {
+    "geoid": "33100",
+    "key": "credit-constrained-nearprime",
+    "date": "2025-03-15",
+    "value": 0.117,
+    "value_": 11.7
+  },
+  {
+    "geoid": "33340",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-03-15",
+    "value": 0.084,
+    "value_": 8.4
+  },
+  {
+    "geoid": "33340",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-06-15",
+    "value": 0.082,
+    "value_": 8.19999
+  },
+  {
+    "geoid": "33340",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-09-15",
+    "value": 0.081,
+    "value_": 8.1
+  },
+  {
+    "geoid": "33340",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-12-15",
+    "value": 0.083,
+    "value_": 8.30001
+  },
+  {
+    "geoid": "33340",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-03-15",
+    "value": 0.084,
+    "value_": 8.4
+  },
+  {
+    "geoid": "33340",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-06-15",
+    "value": 0.081,
+    "value_": 8.1
+  },
+  {
+    "geoid": "33340",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-09-15",
+    "value": 0.079,
+    "value_": 7.9
+  },
+  {
+    "geoid": "33340",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-12-15",
+    "value": 0.08,
+    "value_": 8
+  },
+  {
+    "geoid": "33340",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-03-15",
+    "value": 0.077,
+    "value_": 7.69999
+  },
+  {
+    "geoid": "33340",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-06-15",
+    "value": 0.076,
+    "value_": 7.59999
+  },
+  {
+    "geoid": "33340",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-09-15",
+    "value": 0.077,
+    "value_": 7.70001
+  },
+  {
+    "geoid": "33340",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-12-15",
+    "value": 0.081,
+    "value_": 8.1
+  },
+  {
+    "geoid": "33340",
+    "key": "credit-constrained-nearprime",
+    "date": "2025-03-15",
+    "value": 0.074,
+    "value_": 7.4
+  },
+  {
+    "geoid": "34980",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-03-15",
+    "value": 0.101,
+    "value_": 10.1
+  },
+  {
+    "geoid": "34980",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-06-15",
+    "value": 0.098,
+    "value_": 9.8
+  },
+  {
+    "geoid": "34980",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-09-15",
+    "value": 0.099,
+    "value_": 9.9
+  },
+  {
+    "geoid": "34980",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-12-15",
+    "value": 0.101,
+    "value_": 10.09999
+  },
+  {
+    "geoid": "34980",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-03-15",
+    "value": 0.101,
+    "value_": 10.09999
+  },
+  {
+    "geoid": "34980",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-06-15",
+    "value": 0.099,
+    "value_": 9.9
+  },
+  {
+    "geoid": "34980",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-09-15",
+    "value": 0.098,
+    "value_": 9.8
+  },
+  {
+    "geoid": "34980",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-12-15",
+    "value": 0.1,
+    "value_": 10
+  },
+  {
+    "geoid": "34980",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-03-15",
+    "value": 0.096,
+    "value_": 9.6
+  },
+  {
+    "geoid": "34980",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-06-15",
+    "value": 0.094,
+    "value_": 9.4
+  },
+  {
+    "geoid": "34980",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-09-15",
+    "value": 0.095,
+    "value_": 9.5
+  },
+  {
+    "geoid": "34980",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-12-15",
+    "value": 0.097,
+    "value_": 9.7
+  },
+  {
+    "geoid": "34980",
+    "key": "credit-constrained-nearprime",
+    "date": "2025-03-15",
+    "value": 0.091,
+    "value_": 9.1
+  },
+  {
+    "geoid": "35620",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-03-15",
+    "value": 0.093,
+    "value_": 9.3
+  },
+  {
+    "geoid": "35620",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-06-15",
+    "value": 0.091,
+    "value_": 9.1
+  },
+  {
+    "geoid": "35620",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-09-15",
+    "value": 0.091,
+    "value_": 9.1
+  },
+  {
+    "geoid": "35620",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-12-15",
+    "value": 0.093,
+    "value_": 9.3
+  },
+  {
+    "geoid": "35620",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-03-15",
+    "value": 0.09,
+    "value_": 9
+  },
+  {
+    "geoid": "35620",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-06-15",
+    "value": 0.089,
+    "value_": 8.9
+  },
+  {
+    "geoid": "35620",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-09-15",
+    "value": 0.088,
+    "value_": 8.8
+  },
+  {
+    "geoid": "35620",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-12-15",
+    "value": 0.09,
+    "value_": 9
+  },
+  {
+    "geoid": "35620",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-03-15",
+    "value": 0.088,
+    "value_": 8.8
+  },
+  {
+    "geoid": "35620",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-06-15",
+    "value": 0.087,
+    "value_": 8.7
+  },
+  {
+    "geoid": "35620",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-09-15",
+    "value": 0.088,
+    "value_": 8.8
+  },
+  {
+    "geoid": "35620",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-12-15",
+    "value": 0.091,
+    "value_": 9.1
+  },
+  {
+    "geoid": "35620",
+    "key": "credit-constrained-nearprime",
+    "date": "2025-03-15",
+    "value": 0.087,
+    "value_": 8.7
+  },
+  {
+    "geoid": "36420",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-03-15",
+    "value": 0.113,
+    "value_": 11.29999
+  },
+  {
+    "geoid": "36420",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-06-15",
+    "value": 0.112,
+    "value_": 11.20001
+  },
+  {
+    "geoid": "36420",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-09-15",
+    "value": 0.109,
+    "value_": 10.89999
+  },
+  {
+    "geoid": "36420",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-12-15",
+    "value": 0.111,
+    "value_": 11.09999
+  },
+  {
+    "geoid": "36420",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-03-15",
+    "value": 0.111,
+    "value_": 11.10001
+  },
+  {
+    "geoid": "36420",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-06-15",
+    "value": 0.109,
+    "value_": 10.90001
+  },
+  {
+    "geoid": "36420",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-09-15",
+    "value": 0.11,
+    "value_": 11
+  },
+  {
+    "geoid": "36420",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-12-15",
+    "value": 0.11,
+    "value_": 11
+  },
+  {
+    "geoid": "36420",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-03-15",
+    "value": 0.107,
+    "value_": 10.69999
+  },
+  {
+    "geoid": "36420",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-06-15",
+    "value": 0.108,
+    "value_": 10.8
+  },
+  {
+    "geoid": "36420",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-09-15",
+    "value": 0.109,
+    "value_": 10.9
+  },
+  {
+    "geoid": "36420",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-12-15",
+    "value": 0.108,
+    "value_": 10.79999
+  },
+  {
+    "geoid": "36420",
+    "key": "credit-constrained-nearprime",
+    "date": "2025-03-15",
+    "value": 0.104,
+    "value_": 10.4
+  },
+  {
+    "geoid": "36540",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-03-15",
+    "value": 0.089,
+    "value_": 8.9
+  },
+  {
+    "geoid": "36540",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-06-15",
+    "value": 0.085,
+    "value_": 8.5
+  },
+  {
+    "geoid": "36540",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-09-15",
+    "value": 0.087,
+    "value_": 8.70001
+  },
+  {
+    "geoid": "36540",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-12-15",
+    "value": 0.089,
+    "value_": 8.9
+  },
+  {
+    "geoid": "36540",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-03-15",
+    "value": 0.086,
+    "value_": 8.59999
+  },
+  {
+    "geoid": "36540",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-06-15",
+    "value": 0.085,
+    "value_": 8.5
+  },
+  {
+    "geoid": "36540",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-09-15",
+    "value": 0.086,
+    "value_": 8.59999
+  },
+  {
+    "geoid": "36540",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-12-15",
+    "value": 0.085,
+    "value_": 8.50001
+  },
+  {
+    "geoid": "36540",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-03-15",
+    "value": 0.085,
+    "value_": 8.50001
+  },
+  {
+    "geoid": "36540",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-06-15",
+    "value": 0.084,
+    "value_": 8.4
+  },
+  {
+    "geoid": "36540",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-09-15",
+    "value": 0.084,
+    "value_": 8.39999
+  },
+  {
+    "geoid": "36540",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-12-15",
+    "value": 0.086,
+    "value_": 8.59999
+  },
+  {
+    "geoid": "36540",
+    "key": "credit-constrained-nearprime",
+    "date": "2025-03-15",
+    "value": 0.082,
+    "value_": 8.2
+  },
+  {
+    "geoid": "36740",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-03-15",
+    "value": 0.131,
+    "value_": 13.1
+  },
+  {
+    "geoid": "36740",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-06-15",
+    "value": 0.127,
+    "value_": 12.7
+  },
+  {
+    "geoid": "36740",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-09-15",
+    "value": 0.123,
+    "value_": 12.3
+  },
+  {
+    "geoid": "36740",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-12-15",
+    "value": 0.124,
+    "value_": 12.4
+  },
+  {
+    "geoid": "36740",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-03-15",
+    "value": 0.124,
+    "value_": 12.4
+  },
+  {
+    "geoid": "36740",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-06-15",
+    "value": 0.122,
+    "value_": 12.2
+  },
+  {
+    "geoid": "36740",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-09-15",
+    "value": 0.121,
+    "value_": 12.1
+  },
+  {
+    "geoid": "36740",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-12-15",
+    "value": 0.121,
+    "value_": 12.1
+  },
+  {
+    "geoid": "36740",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-03-15",
+    "value": 0.119,
+    "value_": 11.9
+  },
+  {
+    "geoid": "36740",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-06-15",
+    "value": 0.118,
+    "value_": 11.8
+  },
+  {
+    "geoid": "36740",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-09-15",
+    "value": 0.116,
+    "value_": 11.6
+  },
+  {
+    "geoid": "36740",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-12-15",
+    "value": 0.118,
+    "value_": 11.8
+  },
+  {
+    "geoid": "36740",
+    "key": "credit-constrained-nearprime",
+    "date": "2025-03-15",
+    "value": 0.116,
+    "value_": 11.6
+  },
+  {
+    "geoid": "37980",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-03-15",
+    "value": 0.095,
+    "value_": 9.5
+  },
+  {
+    "geoid": "37980",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-06-15",
+    "value": 0.092,
+    "value_": 9.2
+  },
+  {
+    "geoid": "37980",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-09-15",
+    "value": 0.092,
+    "value_": 9.2
+  },
+  {
+    "geoid": "37980",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-12-15",
+    "value": 0.095,
+    "value_": 9.5
+  },
+  {
+    "geoid": "37980",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-03-15",
+    "value": 0.092,
+    "value_": 9.2
+  },
+  {
+    "geoid": "37980",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-06-15",
+    "value": 0.09,
+    "value_": 9
+  },
+  {
+    "geoid": "37980",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-09-15",
+    "value": 0.089,
+    "value_": 8.9
+  },
+  {
+    "geoid": "37980",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-12-15",
+    "value": 0.091,
+    "value_": 9.1
+  },
+  {
+    "geoid": "37980",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-03-15",
+    "value": 0.088,
+    "value_": 8.8
+  },
+  {
+    "geoid": "37980",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-06-15",
+    "value": 0.086,
+    "value_": 8.6
+  },
+  {
+    "geoid": "37980",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-09-15",
+    "value": 0.087,
+    "value_": 8.7
+  },
+  {
+    "geoid": "37980",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-12-15",
+    "value": 0.091,
+    "value_": 9.1
+  },
+  {
+    "geoid": "37980",
+    "key": "credit-constrained-nearprime",
+    "date": "2025-03-15",
+    "value": 0.086,
+    "value_": 8.6
+  },
+  {
+    "geoid": "38060",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-03-15",
+    "value": 0.106,
+    "value_": 10.6
+  },
+  {
+    "geoid": "38060",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-06-15",
+    "value": 0.104,
+    "value_": 10.4
+  },
+  {
+    "geoid": "38060",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-09-15",
+    "value": 0.103,
+    "value_": 10.3
+  },
+  {
+    "geoid": "38060",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-12-15",
+    "value": 0.104,
+    "value_": 10.4
+  },
+  {
+    "geoid": "38060",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-03-15",
+    "value": 0.102,
+    "value_": 10.2
+  },
+  {
+    "geoid": "38060",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-06-15",
+    "value": 0.101,
+    "value_": 10.1
+  },
+  {
+    "geoid": "38060",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-09-15",
+    "value": 0.1,
+    "value_": 10
+  },
+  {
+    "geoid": "38060",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-12-15",
+    "value": 0.1,
+    "value_": 10
+  },
+  {
+    "geoid": "38060",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-03-15",
+    "value": 0.097,
+    "value_": 9.7
+  },
+  {
+    "geoid": "38060",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-06-15",
+    "value": 0.096,
+    "value_": 9.6
+  },
+  {
+    "geoid": "38060",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-09-15",
+    "value": 0.096,
+    "value_": 9.6
+  },
+  {
+    "geoid": "38060",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-12-15",
+    "value": 0.098,
+    "value_": 9.8
+  },
+  {
+    "geoid": "38060",
+    "key": "credit-constrained-nearprime",
+    "date": "2025-03-15",
+    "value": 0.094,
+    "value_": 9.4
+  },
+  {
+    "geoid": "38300",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-03-15",
+    "value": 0.082,
+    "value_": 8.2
+  },
+  {
+    "geoid": "38300",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-06-15",
+    "value": 0.08,
+    "value_": 8
+  },
+  {
+    "geoid": "38300",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-09-15",
+    "value": 0.08,
+    "value_": 8
+  },
+  {
+    "geoid": "38300",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-12-15",
+    "value": 0.082,
+    "value_": 8.2
+  },
+  {
+    "geoid": "38300",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-03-15",
+    "value": 0.08,
+    "value_": 8
+  },
+  {
+    "geoid": "38300",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-06-15",
+    "value": 0.078,
+    "value_": 7.8
+  },
+  {
+    "geoid": "38300",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-09-15",
+    "value": 0.078,
+    "value_": 7.8
+  },
+  {
+    "geoid": "38300",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-12-15",
+    "value": 0.079,
+    "value_": 7.9
+  },
+  {
+    "geoid": "38300",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-03-15",
+    "value": 0.077,
+    "value_": 7.7
+  },
+  {
+    "geoid": "38300",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-06-15",
+    "value": 0.075,
+    "value_": 7.5
+  },
+  {
+    "geoid": "38300",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-09-15",
+    "value": 0.075,
+    "value_": 7.5
+  },
+  {
+    "geoid": "38300",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-12-15",
+    "value": 0.079,
+    "value_": 7.9
+  },
+  {
+    "geoid": "38300",
+    "key": "credit-constrained-nearprime",
+    "date": "2025-03-15",
+    "value": 0.074,
+    "value_": 7.4
+  },
+  {
+    "geoid": "38900",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-03-15",
+    "value": 0.08,
+    "value_": 8
+  },
+  {
+    "geoid": "38900",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-06-15",
+    "value": 0.078,
+    "value_": 7.8
+  },
+  {
+    "geoid": "38900",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-09-15",
+    "value": 0.077,
+    "value_": 7.7
+  },
+  {
+    "geoid": "38900",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-12-15",
+    "value": 0.079,
+    "value_": 7.9
+  },
+  {
+    "geoid": "38900",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-03-15",
+    "value": 0.077,
+    "value_": 7.7
+  },
+  {
+    "geoid": "38900",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-06-15",
+    "value": 0.076,
+    "value_": 7.6
+  },
+  {
+    "geoid": "38900",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-09-15",
+    "value": 0.076,
+    "value_": 7.6
+  },
+  {
+    "geoid": "38900",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-12-15",
+    "value": 0.076,
+    "value_": 7.6
+  },
+  {
+    "geoid": "38900",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-03-15",
+    "value": 0.075,
+    "value_": 7.5
+  },
+  {
+    "geoid": "38900",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-06-15",
+    "value": 0.074,
+    "value_": 7.4
+  },
+  {
+    "geoid": "38900",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-09-15",
+    "value": 0.074,
+    "value_": 7.4
+  },
+  {
+    "geoid": "38900",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-12-15",
+    "value": 0.076,
+    "value_": 7.6
+  },
+  {
+    "geoid": "38900",
+    "key": "credit-constrained-nearprime",
+    "date": "2025-03-15",
+    "value": 0.072,
+    "value_": 7.2
+  },
+  {
+    "geoid": "39300",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-03-15",
+    "value": 0.098,
+    "value_": 9.8
+  },
+  {
+    "geoid": "39300",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-06-15",
+    "value": 0.092,
+    "value_": 9.19999
+  },
+  {
+    "geoid": "39300",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-09-15",
+    "value": 0.093,
+    "value_": 9.3
+  },
+  {
+    "geoid": "39300",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-12-15",
+    "value": 0.094,
+    "value_": 9.4
+  },
+  {
+    "geoid": "39300",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-03-15",
+    "value": 0.092,
+    "value_": 9.19999
+  },
+  {
+    "geoid": "39300",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-06-15",
+    "value": 0.09,
+    "value_": 9
+  },
+  {
+    "geoid": "39300",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-09-15",
+    "value": 0.089,
+    "value_": 8.9
+  },
+  {
+    "geoid": "39300",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-12-15",
+    "value": 0.09,
+    "value_": 9
+  },
+  {
+    "geoid": "39300",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-03-15",
+    "value": 0.09,
+    "value_": 9
+  },
+  {
+    "geoid": "39300",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-06-15",
+    "value": 0.087,
+    "value_": 8.7
+  },
+  {
+    "geoid": "39300",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-09-15",
+    "value": 0.089,
+    "value_": 8.9
+  },
+  {
+    "geoid": "39300",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-12-15",
+    "value": 0.094,
+    "value_": 9.39999
+  },
+  {
+    "geoid": "39300",
+    "key": "credit-constrained-nearprime",
+    "date": "2025-03-15",
+    "value": 0.09,
+    "value_": 9
+  },
+  {
+    "geoid": "39580",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-03-15",
+    "value": 0.096,
+    "value_": 9.6
+  },
+  {
+    "geoid": "39580",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-06-15",
+    "value": 0.092,
+    "value_": 9.2
+  },
+  {
+    "geoid": "39580",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-09-15",
+    "value": 0.092,
+    "value_": 9.2
+  },
+  {
+    "geoid": "39580",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-12-15",
+    "value": 0.093,
+    "value_": 9.30001
+  },
+  {
+    "geoid": "39580",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-03-15",
+    "value": 0.09,
+    "value_": 9
+  },
+  {
+    "geoid": "39580",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-06-15",
+    "value": 0.089,
+    "value_": 8.9
+  },
+  {
+    "geoid": "39580",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-09-15",
+    "value": 0.086,
+    "value_": 8.60001
+  },
+  {
+    "geoid": "39580",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-12-15",
+    "value": 0.088,
+    "value_": 8.8
+  },
+  {
+    "geoid": "39580",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-03-15",
+    "value": 0.083,
+    "value_": 8.3
+  },
+  {
+    "geoid": "39580",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-06-15",
+    "value": 0.083,
+    "value_": 8.29999
+  },
+  {
+    "geoid": "39580",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-09-15",
+    "value": 0.084,
+    "value_": 8.4
+  },
+  {
+    "geoid": "39580",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-12-15",
+    "value": 0.085,
+    "value_": 8.50001
+  },
+  {
+    "geoid": "39580",
+    "key": "credit-constrained-nearprime",
+    "date": "2025-03-15",
+    "value": 0.079,
+    "value_": 7.89999
+  },
+  {
+    "geoid": "40060",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-03-15",
+    "value": 0.106,
+    "value_": 10.59999
+  },
+  {
+    "geoid": "40060",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-06-15",
+    "value": 0.102,
+    "value_": 10.2
+  },
+  {
+    "geoid": "40060",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-09-15",
+    "value": 0.102,
+    "value_": 10.2
+  },
+  {
+    "geoid": "40060",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-12-15",
+    "value": 0.102,
+    "value_": 10.2
+  },
+  {
+    "geoid": "40060",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-03-15",
+    "value": 0.101,
+    "value_": 10.1
+  },
+  {
+    "geoid": "40060",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-06-15",
+    "value": 0.1,
+    "value_": 10
+  },
+  {
+    "geoid": "40060",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-09-15",
+    "value": 0.1,
+    "value_": 10
+  },
+  {
+    "geoid": "40060",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-12-15",
+    "value": 0.098,
+    "value_": 9.8
+  },
+  {
+    "geoid": "40060",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-03-15",
+    "value": 0.097,
+    "value_": 9.7
+  },
+  {
+    "geoid": "40060",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-06-15",
+    "value": 0.096,
+    "value_": 9.59999
+  },
+  {
+    "geoid": "40060",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-09-15",
+    "value": 0.097,
+    "value_": 9.70001
+  },
+  {
+    "geoid": "40060",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-12-15",
+    "value": 0.1,
+    "value_": 10
+  },
+  {
+    "geoid": "40060",
+    "key": "credit-constrained-nearprime",
+    "date": "2025-03-15",
+    "value": 0.094,
+    "value_": 9.4
+  },
+  {
+    "geoid": "40140",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-03-15",
+    "value": 0.121,
+    "value_": 12.1
+  },
+  {
+    "geoid": "40140",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-06-15",
+    "value": 0.118,
+    "value_": 11.8
+  },
+  {
+    "geoid": "40140",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-09-15",
+    "value": 0.118,
+    "value_": 11.8
+  },
+  {
+    "geoid": "40140",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-12-15",
+    "value": 0.118,
+    "value_": 11.8
+  },
+  {
+    "geoid": "40140",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-03-15",
+    "value": 0.116,
+    "value_": 11.6
+  },
+  {
+    "geoid": "40140",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-06-15",
+    "value": 0.115,
+    "value_": 11.5
+  },
+  {
+    "geoid": "40140",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-09-15",
+    "value": 0.112,
+    "value_": 11.2
+  },
+  {
+    "geoid": "40140",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-12-15",
+    "value": 0.112,
+    "value_": 11.2
+  },
+  {
+    "geoid": "40140",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-03-15",
+    "value": 0.111,
+    "value_": 11.1
+  },
+  {
+    "geoid": "40140",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-06-15",
+    "value": 0.11,
+    "value_": 11
+  },
+  {
+    "geoid": "40140",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-09-15",
+    "value": 0.109,
+    "value_": 10.9
+  },
+  {
+    "geoid": "40140",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-12-15",
+    "value": 0.112,
+    "value_": 11.2
+  },
+  {
+    "geoid": "40140",
+    "key": "credit-constrained-nearprime",
+    "date": "2025-03-15",
+    "value": 0.108,
+    "value_": 10.8
+  },
+  {
+    "geoid": "40380",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-03-15",
+    "value": 0.087,
+    "value_": 8.70001
+  },
+  {
+    "geoid": "40380",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-06-15",
+    "value": 0.085,
+    "value_": 8.50001
+  },
+  {
+    "geoid": "40380",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-09-15",
+    "value": 0.085,
+    "value_": 8.50001
+  },
+  {
+    "geoid": "40380",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-12-15",
+    "value": 0.087,
+    "value_": 8.70001
+  },
+  {
+    "geoid": "40380",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-03-15",
+    "value": 0.085,
+    "value_": 8.50001
+  },
+  {
+    "geoid": "40380",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-06-15",
+    "value": 0.084,
+    "value_": 8.39999
+  },
+  {
+    "geoid": "40380",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-09-15",
+    "value": 0.084,
+    "value_": 8.4
+  },
+  {
+    "geoid": "40380",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-12-15",
+    "value": 0.086,
+    "value_": 8.6
+  },
+  {
+    "geoid": "40380",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-03-15",
+    "value": 0.084,
+    "value_": 8.39999
+  },
+  {
+    "geoid": "40380",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-06-15",
+    "value": 0.083,
+    "value_": 8.3
+  },
+  {
+    "geoid": "40380",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-09-15",
+    "value": 0.083,
+    "value_": 8.3
+  },
+  {
+    "geoid": "40380",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-12-15",
+    "value": 0.085,
+    "value_": 8.50001
+  },
+  {
+    "geoid": "40380",
+    "key": "credit-constrained-nearprime",
+    "date": "2025-03-15",
+    "value": 0.081,
+    "value_": 8.10001
+  },
+  {
+    "geoid": "40900",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-03-15",
+    "value": 0.087,
+    "value_": 8.70001
+  },
+  {
+    "geoid": "40900",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-06-15",
+    "value": 0.085,
+    "value_": 8.50001
+  },
+  {
+    "geoid": "40900",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-09-15",
+    "value": 0.084,
+    "value_": 8.4
+  },
+  {
+    "geoid": "40900",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-12-15",
+    "value": 0.086,
+    "value_": 8.6
+  },
+  {
+    "geoid": "40900",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-03-15",
+    "value": 0.082,
+    "value_": 8.2
+  },
+  {
+    "geoid": "40900",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-06-15",
+    "value": 0.082,
+    "value_": 8.2
+  },
+  {
+    "geoid": "40900",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-09-15",
+    "value": 0.081,
+    "value_": 8.1
+  },
+  {
+    "geoid": "40900",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-12-15",
+    "value": 0.082,
+    "value_": 8.2
+  },
+  {
+    "geoid": "40900",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-03-15",
+    "value": 0.08,
+    "value_": 8
+  },
+  {
+    "geoid": "40900",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-06-15",
+    "value": 0.079,
+    "value_": 7.9
+  },
+  {
+    "geoid": "40900",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-09-15",
+    "value": 0.079,
+    "value_": 7.9
+  },
+  {
+    "geoid": "40900",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-12-15",
+    "value": 0.081,
+    "value_": 8.1
+  },
+  {
+    "geoid": "40900",
+    "key": "credit-constrained-nearprime",
+    "date": "2025-03-15",
+    "value": 0.08,
+    "value_": 8
+  },
+  {
+    "geoid": "41620",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-03-15",
+    "value": 0.087,
+    "value_": 8.7
+  },
+  {
+    "geoid": "41620",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-06-15",
+    "value": 0.086,
+    "value_": 8.6
+  },
+  {
+    "geoid": "41620",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-09-15",
+    "value": 0.085,
+    "value_": 8.49999
+  },
+  {
+    "geoid": "41620",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-12-15",
+    "value": 0.085,
+    "value_": 8.5
+  },
+  {
+    "geoid": "41620",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-03-15",
+    "value": 0.084,
+    "value_": 8.39999
+  },
+  {
+    "geoid": "41620",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-06-15",
+    "value": 0.085,
+    "value_": 8.5
+  },
+  {
+    "geoid": "41620",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-09-15",
+    "value": 0.084,
+    "value_": 8.4
+  },
+  {
+    "geoid": "41620",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-12-15",
+    "value": 0.083,
+    "value_": 8.29999
+  },
+  {
+    "geoid": "41620",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-03-15",
+    "value": 0.082,
+    "value_": 8.19999
+  },
+  {
+    "geoid": "41620",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-06-15",
+    "value": 0.083,
+    "value_": 8.29999
+  },
+  {
+    "geoid": "41620",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-09-15",
+    "value": 0.084,
+    "value_": 8.4
+  },
+  {
+    "geoid": "41620",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-12-15",
+    "value": 0.086,
+    "value_": 8.6
+  },
+  {
+    "geoid": "41620",
+    "key": "credit-constrained-nearprime",
+    "date": "2025-03-15",
+    "value": 0.081,
+    "value_": 8.09999
+  },
+  {
+    "geoid": "41700",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-03-15",
+    "value": 0.127,
+    "value_": 12.7
+  },
+  {
+    "geoid": "41700",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-06-15",
+    "value": 0.125,
+    "value_": 12.5
+  },
+  {
+    "geoid": "41700",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-09-15",
+    "value": 0.124,
+    "value_": 12.4
+  },
+  {
+    "geoid": "41700",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-12-15",
+    "value": 0.125,
+    "value_": 12.5
+  },
+  {
+    "geoid": "41700",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-03-15",
+    "value": 0.124,
+    "value_": 12.4
+  },
+  {
+    "geoid": "41700",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-06-15",
+    "value": 0.122,
+    "value_": 12.2
+  },
+  {
+    "geoid": "41700",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-09-15",
+    "value": 0.121,
+    "value_": 12.1
+  },
+  {
+    "geoid": "41700",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-12-15",
+    "value": 0.12,
+    "value_": 12
+  },
+  {
+    "geoid": "41700",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-03-15",
+    "value": 0.118,
+    "value_": 11.8
+  },
+  {
+    "geoid": "41700",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-06-15",
+    "value": 0.116,
+    "value_": 11.6
+  },
+  {
+    "geoid": "41700",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-09-15",
+    "value": 0.117,
+    "value_": 11.7
+  },
+  {
+    "geoid": "41700",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-12-15",
+    "value": 0.12,
+    "value_": 12
+  },
+  {
+    "geoid": "41700",
+    "key": "credit-constrained-nearprime",
+    "date": "2025-03-15",
+    "value": 0.115,
+    "value_": 11.5
+  },
+  {
+    "geoid": "41740",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-03-15",
+    "value": 0.089,
+    "value_": 8.9
+  },
+  {
+    "geoid": "41740",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-06-15",
+    "value": 0.088,
+    "value_": 8.8
+  },
+  {
+    "geoid": "41740",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-09-15",
+    "value": 0.088,
+    "value_": 8.8
+  },
+  {
+    "geoid": "41740",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-12-15",
+    "value": 0.089,
+    "value_": 8.9
+  },
+  {
+    "geoid": "41740",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-03-15",
+    "value": 0.088,
+    "value_": 8.8
+  },
+  {
+    "geoid": "41740",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-06-15",
+    "value": 0.087,
+    "value_": 8.7
+  },
+  {
+    "geoid": "41740",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-09-15",
+    "value": 0.085,
+    "value_": 8.5
+  },
+  {
+    "geoid": "41740",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-12-15",
+    "value": 0.085,
+    "value_": 8.5
+  },
+  {
+    "geoid": "41740",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-03-15",
+    "value": 0.083,
+    "value_": 8.3
+  },
+  {
+    "geoid": "41740",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-06-15",
+    "value": 0.08,
+    "value_": 8
+  },
+  {
+    "geoid": "41740",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-09-15",
+    "value": 0.081,
+    "value_": 8.1
+  },
+  {
+    "geoid": "41740",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-12-15",
+    "value": 0.084,
+    "value_": 8.4
+  },
+  {
+    "geoid": "41740",
+    "key": "credit-constrained-nearprime",
+    "date": "2025-03-15",
+    "value": 0.081,
+    "value_": 8.1
+  },
+  {
+    "geoid": "41860",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-03-15",
+    "value": 0.064,
+    "value_": 6.4
+  },
+  {
+    "geoid": "41860",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-06-15",
+    "value": 0.064,
+    "value_": 6.4
+  },
+  {
+    "geoid": "41860",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-09-15",
+    "value": 0.064,
+    "value_": 6.4
+  },
+  {
+    "geoid": "41860",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-12-15",
+    "value": 0.066,
+    "value_": 6.6
+  },
+  {
+    "geoid": "41860",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-03-15",
+    "value": 0.064,
+    "value_": 6.4
+  },
+  {
+    "geoid": "41860",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-06-15",
+    "value": 0.063,
+    "value_": 6.3
+  },
+  {
+    "geoid": "41860",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-09-15",
+    "value": 0.063,
+    "value_": 6.3
+  },
+  {
+    "geoid": "41860",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-12-15",
+    "value": 0.064,
+    "value_": 6.4
+  },
+  {
+    "geoid": "41860",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-03-15",
+    "value": 0.062,
+    "value_": 6.2
+  },
+  {
+    "geoid": "41860",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-06-15",
+    "value": 0.061,
+    "value_": 6.1
+  },
+  {
+    "geoid": "41860",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-09-15",
+    "value": 0.061,
+    "value_": 6.1
+  },
+  {
+    "geoid": "41860",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-12-15",
+    "value": 0.064,
+    "value_": 6.4
+  },
+  {
+    "geoid": "41860",
+    "key": "credit-constrained-nearprime",
+    "date": "2025-03-15",
+    "value": 0.062,
+    "value_": 6.2
+  },
+  {
+    "geoid": "41940",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-03-15",
+    "value": 0.062,
+    "value_": 6.2
+  },
+  {
+    "geoid": "41940",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-06-15",
+    "value": 0.06,
+    "value_": 6
+  },
+  {
+    "geoid": "41940",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-09-15",
+    "value": 0.061,
+    "value_": 6.1
+  },
+  {
+    "geoid": "41940",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-12-15",
+    "value": 0.061,
+    "value_": 6.1
+  },
+  {
+    "geoid": "41940",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-03-15",
+    "value": 0.06,
+    "value_": 6
+  },
+  {
+    "geoid": "41940",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-06-15",
+    "value": 0.06,
+    "value_": 6
+  },
+  {
+    "geoid": "41940",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-09-15",
+    "value": 0.059,
+    "value_": 5.9
+  },
+  {
+    "geoid": "41940",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-12-15",
+    "value": 0.06,
+    "value_": 6
+  },
+  {
+    "geoid": "41940",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-03-15",
+    "value": 0.059,
+    "value_": 5.90001
+  },
+  {
+    "geoid": "41940",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-06-15",
+    "value": 0.058,
+    "value_": 5.8
+  },
+  {
+    "geoid": "41940",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-09-15",
+    "value": 0.058,
+    "value_": 5.8
+  },
+  {
+    "geoid": "41940",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-12-15",
+    "value": 0.059,
+    "value_": 5.9
+  },
+  {
+    "geoid": "41940",
+    "key": "credit-constrained-nearprime",
+    "date": "2025-03-15",
+    "value": 0.058,
+    "value_": 5.8
+  },
+  {
+    "geoid": "42660",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-03-15",
+    "value": 0.072,
+    "value_": 7.2
+  },
+  {
+    "geoid": "42660",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-06-15",
+    "value": 0.071,
+    "value_": 7.1
+  },
+  {
+    "geoid": "42660",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-09-15",
+    "value": 0.071,
+    "value_": 7.1
+  },
+  {
+    "geoid": "42660",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-12-15",
+    "value": 0.072,
+    "value_": 7.2
+  },
+  {
+    "geoid": "42660",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-03-15",
+    "value": 0.07,
+    "value_": 7
+  },
+  {
+    "geoid": "42660",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-06-15",
+    "value": 0.069,
+    "value_": 6.9
+  },
+  {
+    "geoid": "42660",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-09-15",
+    "value": 0.069,
+    "value_": 6.9
+  },
+  {
+    "geoid": "42660",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-12-15",
+    "value": 0.068,
+    "value_": 6.8
+  },
+  {
+    "geoid": "42660",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-03-15",
+    "value": 0.067,
+    "value_": 6.7
+  },
+  {
+    "geoid": "42660",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-06-15",
+    "value": 0.066,
+    "value_": 6.6
+  },
+  {
+    "geoid": "42660",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-09-15",
+    "value": 0.067,
+    "value_": 6.7
+  },
+  {
+    "geoid": "42660",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-12-15",
+    "value": 0.069,
+    "value_": 6.9
+  },
+  {
+    "geoid": "42660",
+    "key": "credit-constrained-nearprime",
+    "date": "2025-03-15",
+    "value": 0.065,
+    "value_": 6.5
+  },
+  {
+    "geoid": "46060",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-03-15",
+    "value": 0.101,
+    "value_": 10.1
+  },
+  {
+    "geoid": "46060",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-06-15",
+    "value": 0.099,
+    "value_": 9.9
+  },
+  {
+    "geoid": "46060",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-09-15",
+    "value": 0.098,
+    "value_": 9.8
+  },
+  {
+    "geoid": "46060",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-12-15",
+    "value": 0.1,
+    "value_": 10
+  },
+  {
+    "geoid": "46060",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-03-15",
+    "value": 0.098,
+    "value_": 9.8
+  },
+  {
+    "geoid": "46060",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-06-15",
+    "value": 0.096,
+    "value_": 9.59999
+  },
+  {
+    "geoid": "46060",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-09-15",
+    "value": 0.095,
+    "value_": 9.50001
+  },
+  {
+    "geoid": "46060",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-12-15",
+    "value": 0.094,
+    "value_": 9.40001
+  },
+  {
+    "geoid": "46060",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-03-15",
+    "value": 0.092,
+    "value_": 9.20001
+  },
+  {
+    "geoid": "46060",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-06-15",
+    "value": 0.091,
+    "value_": 9.1
+  },
+  {
+    "geoid": "46060",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-09-15",
+    "value": 0.09,
+    "value_": 9
+  },
+  {
+    "geoid": "46060",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-12-15",
+    "value": 0.092,
+    "value_": 9.2
+  },
+  {
+    "geoid": "46060",
+    "key": "credit-constrained-nearprime",
+    "date": "2025-03-15",
+    "value": 0.088,
+    "value_": 8.79999
+  },
+  {
+    "geoid": "46140",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-03-15",
+    "value": 0.114,
+    "value_": 11.4
+  },
+  {
+    "geoid": "46140",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-06-15",
+    "value": 0.115,
+    "value_": 11.5
+  },
+  {
+    "geoid": "46140",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-09-15",
+    "value": 0.112,
+    "value_": 11.20001
+  },
+  {
+    "geoid": "46140",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-12-15",
+    "value": 0.115,
+    "value_": 11.50001
+  },
+  {
+    "geoid": "46140",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-03-15",
+    "value": 0.115,
+    "value_": 11.50001
+  },
+  {
+    "geoid": "46140",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-06-15",
+    "value": 0.111,
+    "value_": 11.1
+  },
+  {
+    "geoid": "46140",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-09-15",
+    "value": 0.11,
+    "value_": 11
+  },
+  {
+    "geoid": "46140",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-12-15",
+    "value": 0.113,
+    "value_": 11.3
+  },
+  {
+    "geoid": "46140",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-03-15",
+    "value": 0.108,
+    "value_": 10.80001
+  },
+  {
+    "geoid": "46140",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-06-15",
+    "value": 0.108,
+    "value_": 10.8
+  },
+  {
+    "geoid": "46140",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-09-15",
+    "value": 0.108,
+    "value_": 10.8
+  },
+  {
+    "geoid": "46140",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-12-15",
+    "value": 0.11,
+    "value_": 11
+  },
+  {
+    "geoid": "46140",
+    "key": "credit-constrained-nearprime",
+    "date": "2025-03-15",
+    "value": 0.106,
+    "value_": 10.59999
+  },
+  {
+    "geoid": "47260",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-03-15",
+    "value": 0.117,
+    "value_": 11.70001
+  },
+  {
+    "geoid": "47260",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-06-15",
+    "value": 0.115,
+    "value_": 11.5
+  },
+  {
+    "geoid": "47260",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-09-15",
+    "value": 0.111,
+    "value_": 11.10001
+  },
+  {
+    "geoid": "47260",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-12-15",
+    "value": 0.111,
+    "value_": 11.1
+  },
+  {
+    "geoid": "47260",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-03-15",
+    "value": 0.111,
+    "value_": 11.10001
+  },
+  {
+    "geoid": "47260",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-06-15",
+    "value": 0.11,
+    "value_": 11
+  },
+  {
+    "geoid": "47260",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-09-15",
+    "value": 0.109,
+    "value_": 10.9
+  },
+  {
+    "geoid": "47260",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-12-15",
+    "value": 0.108,
+    "value_": 10.8
+  },
+  {
+    "geoid": "47260",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-03-15",
+    "value": 0.105,
+    "value_": 10.49999
+  },
+  {
+    "geoid": "47260",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-06-15",
+    "value": 0.101,
+    "value_": 10.1
+  },
+  {
+    "geoid": "47260",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-09-15",
+    "value": 0.103,
+    "value_": 10.3
+  },
+  {
+    "geoid": "47260",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-12-15",
+    "value": 0.105,
+    "value_": 10.50001
+  },
+  {
+    "geoid": "47260",
+    "key": "credit-constrained-nearprime",
+    "date": "2025-03-15",
+    "value": 0.098,
+    "value_": 9.8
+  },
+  {
+    "geoid": "47900",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-03-15",
+    "value": 0.091,
+    "value_": 9.1
+  },
+  {
+    "geoid": "47900",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-06-15",
+    "value": 0.089,
+    "value_": 8.9
+  },
+  {
+    "geoid": "47900",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-09-15",
+    "value": 0.09,
+    "value_": 9
+  },
+  {
+    "geoid": "47900",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-12-15",
+    "value": 0.091,
+    "value_": 9.1
+  },
+  {
+    "geoid": "47900",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-03-15",
+    "value": 0.088,
+    "value_": 8.8
+  },
+  {
+    "geoid": "47900",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-06-15",
+    "value": 0.087,
+    "value_": 8.7
+  },
+  {
+    "geoid": "47900",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-09-15",
+    "value": 0.086,
+    "value_": 8.6
+  },
+  {
+    "geoid": "47900",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-12-15",
+    "value": 0.087,
+    "value_": 8.7
+  },
+  {
+    "geoid": "47900",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-03-15",
+    "value": 0.084,
+    "value_": 8.4
+  },
+  {
+    "geoid": "47900",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-06-15",
+    "value": 0.083,
+    "value_": 8.3
+  },
+  {
+    "geoid": "47900",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-09-15",
+    "value": 0.084,
+    "value_": 8.4
+  },
+  {
+    "geoid": "47900",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-12-15",
+    "value": 0.087,
+    "value_": 8.7
+  },
+  {
+    "geoid": "47900",
+    "key": "credit-constrained-nearprime",
+    "date": "2025-03-15",
+    "value": 0.082,
+    "value_": 8.2
+  },
+  {
+    "geoid": "51013",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-03-15",
+    "value": 0.05087,
+    "value_": 5.08728
+  },
+  {
+    "geoid": "51013",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-06-15",
+    "value": 0.05043,
+    "value_": 5.04321
+  },
+  {
+    "geoid": "51013",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-09-15",
+    "value": 0.05195,
+    "value_": 5.19503
+  },
+  {
+    "geoid": "51013",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-12-15",
+    "value": 0.05329,
+    "value_": 5.32879
+  },
+  {
+    "geoid": "51013",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-03-15",
+    "value": 0.0509,
+    "value_": 5.08968
+  },
+  {
+    "geoid": "51013",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-06-15",
+    "value": 0.05206,
+    "value_": 5.20581
+  },
+  {
+    "geoid": "51013",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-09-15",
+    "value": 0.05114,
+    "value_": 5.1141
+  },
+  {
+    "geoid": "51013",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-12-15",
+    "value": 0.0515,
+    "value_": 5.14996
+  },
+  {
+    "geoid": "51013",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-03-15",
+    "value": 0.04946,
+    "value_": 4.94595
+  },
+  {
+    "geoid": "51013",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-06-15",
+    "value": 0.04894,
+    "value_": 4.89352
+  },
+  {
+    "geoid": "51013",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-09-15",
+    "value": 0.04836,
+    "value_": 4.83624
+  },
+  {
+    "geoid": "51013",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-12-15",
+    "value": 0.05038,
+    "value_": 5.03789
+  },
+  {
+    "geoid": "51013",
+    "key": "credit-constrained-nearprime",
+    "date": "2025-03-15",
+    "value": 0.0474,
+    "value_": 4.74023
+  },
+  {
+    "geoid": "51059",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-03-15",
+    "value": 0.05584,
+    "value_": 5.58426
+  },
+  {
+    "geoid": "51059",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-06-15",
+    "value": 0.05472,
+    "value_": 5.47234
+  },
+  {
+    "geoid": "51059",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-09-15",
+    "value": 0.05658,
+    "value_": 5.6577
+  },
+  {
+    "geoid": "51059",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-12-15",
+    "value": 0.05746,
+    "value_": 5.74641
+  },
+  {
+    "geoid": "51059",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-03-15",
+    "value": 0.05529,
+    "value_": 5.52852
+  },
+  {
+    "geoid": "51059",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-06-15",
+    "value": 0.05459,
+    "value_": 5.45906
+  },
+  {
+    "geoid": "51059",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-09-15",
+    "value": 0.05433,
+    "value_": 5.43333
+  },
+  {
+    "geoid": "51059",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-12-15",
+    "value": 0.05477,
+    "value_": 5.47747
+  },
+  {
+    "geoid": "51059",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-03-15",
+    "value": 0.05318,
+    "value_": 5.31823
+  },
+  {
+    "geoid": "51059",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-06-15",
+    "value": 0.05257,
+    "value_": 5.2571
+  },
+  {
+    "geoid": "51059",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-09-15",
+    "value": 0.05335,
+    "value_": 5.33513
+  },
+  {
+    "geoid": "51059",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-12-15",
+    "value": 0.05508,
+    "value_": 5.50781
+  },
+  {
+    "geoid": "51059",
+    "key": "credit-constrained-nearprime",
+    "date": "2025-03-15",
+    "value": 0.05171,
+    "value_": 5.17063
+  },
+  {
+    "geoid": "51061",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-03-15",
+    "value": 0.07897,
+    "value_": 7.89692
+  },
+  {
+    "geoid": "51061",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-06-15",
+    "value": 0.078,
+    "value_": 7.80038
+  },
+  {
+    "geoid": "51061",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-09-15",
+    "value": 0.07637,
+    "value_": 7.63692
+  },
+  {
+    "geoid": "51061",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-12-15",
+    "value": 0.0757,
+    "value_": 7.56964
+  },
+  {
+    "geoid": "51061",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-03-15",
+    "value": 0.0748,
+    "value_": 7.47988
+  },
+  {
+    "geoid": "51061",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-06-15",
+    "value": 0.07043,
+    "value_": 7.04349
+  },
+  {
+    "geoid": "51061",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-09-15",
+    "value": 0.06842,
+    "value_": 6.84154
+  },
+  {
+    "geoid": "51061",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-12-15",
+    "value": 0.06876,
+    "value_": 6.87595
+  },
+  {
+    "geoid": "51061",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-03-15",
+    "value": 0.0682,
+    "value_": 6.81979
+  },
+  {
+    "geoid": "51061",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-06-15",
+    "value": 0.06559,
+    "value_": 6.55869
+  },
+  {
+    "geoid": "51061",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-09-15",
+    "value": 0.06665,
+    "value_": 6.66499
+  },
+  {
+    "geoid": "51061",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-12-15",
+    "value": 0.07175,
+    "value_": 7.1748
+  },
+  {
+    "geoid": "51061",
+    "key": "credit-constrained-nearprime",
+    "date": "2025-03-15",
+    "value": 0.06431,
+    "value_": 6.43115
+  },
+  {
+    "geoid": "51107",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-03-15",
+    "value": 0.05835,
+    "value_": 5.83488
+  },
+  {
+    "geoid": "51107",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-06-15",
+    "value": 0.05571,
+    "value_": 5.57054
+  },
+  {
+    "geoid": "51107",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-09-15",
+    "value": 0.05739,
+    "value_": 5.73906
+  },
+  {
+    "geoid": "51107",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-12-15",
+    "value": 0.05755,
+    "value_": 5.75517
+  },
+  {
+    "geoid": "51107",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-03-15",
+    "value": 0.05606,
+    "value_": 5.60556
+  },
+  {
+    "geoid": "51107",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-06-15",
+    "value": 0.05408,
+    "value_": 5.40836
+  },
+  {
+    "geoid": "51107",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-09-15",
+    "value": 0.05413,
+    "value_": 5.41283
+  },
+  {
+    "geoid": "51107",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-12-15",
+    "value": 0.05469,
+    "value_": 5.46871
+  },
+  {
+    "geoid": "51107",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-03-15",
+    "value": 0.05123,
+    "value_": 5.12253
+  },
+  {
+    "geoid": "51107",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-06-15",
+    "value": 0.05086,
+    "value_": 5.08637
+  },
+  {
+    "geoid": "51107",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-09-15",
+    "value": 0.05221,
+    "value_": 5.22103
+  },
+  {
+    "geoid": "51107",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-12-15",
+    "value": 0.05547,
+    "value_": 5.54665
+  },
+  {
+    "geoid": "51107",
+    "key": "credit-constrained-nearprime",
+    "date": "2025-03-15",
+    "value": 0.0521,
+    "value_": 5.21027
+  },
+  {
+    "geoid": "51153",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-03-15",
+    "value": 0.10319,
+    "value_": 10.31905
+  },
+  {
+    "geoid": "51153",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-06-15",
+    "value": 0.1004,
+    "value_": 10.03951
+  },
+  {
+    "geoid": "51153",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-09-15",
+    "value": 0.10205,
+    "value_": 10.20522
+  },
+  {
+    "geoid": "51153",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-12-15",
+    "value": 0.1031,
+    "value_": 10.30982
+  },
+  {
+    "geoid": "51153",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-03-15",
+    "value": 0.10064,
+    "value_": 10.06382
+  },
+  {
+    "geoid": "51153",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-06-15",
+    "value": 0.09906,
+    "value_": 9.90569
+  },
+  {
+    "geoid": "51153",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-09-15",
+    "value": 0.09696,
+    "value_": 9.69597
+  },
+  {
+    "geoid": "51153",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-12-15",
+    "value": 0.09799,
+    "value_": 9.79911
+  },
+  {
+    "geoid": "51153",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-03-15",
+    "value": 0.09497,
+    "value_": 9.49678
+  },
+  {
+    "geoid": "51153",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-06-15",
+    "value": 0.09331,
+    "value_": 9.33093
+  },
+  {
+    "geoid": "51153",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-09-15",
+    "value": 0.09367,
+    "value_": 9.36674
+  },
+  {
+    "geoid": "51153",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-12-15",
+    "value": 0.09742,
+    "value_": 9.74175
+  },
+  {
+    "geoid": "51153",
+    "key": "credit-constrained-nearprime",
+    "date": "2025-03-15",
+    "value": 0.09205,
+    "value_": 9.20452
+  },
+  {
+    "geoid": "51179",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-03-15",
+    "value": 0.10192,
+    "value_": 10.19236
+  },
+  {
+    "geoid": "51179",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-06-15",
+    "value": 0.09939,
+    "value_": 9.93887
+  },
+  {
+    "geoid": "51179",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-09-15",
+    "value": 0.10194,
+    "value_": 10.19365
+  },
+  {
+    "geoid": "51179",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-12-15",
+    "value": 0.10523,
+    "value_": 10.52339
+  },
+  {
+    "geoid": "51179",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-03-15",
+    "value": 0.10017,
+    "value_": 10.017
+  },
+  {
+    "geoid": "51179",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-06-15",
+    "value": 0.09629,
+    "value_": 9.6285
+  },
+  {
+    "geoid": "51179",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-09-15",
+    "value": 0.09623,
+    "value_": 9.62276
+  },
+  {
+    "geoid": "51179",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-12-15",
+    "value": 0.09817,
+    "value_": 9.81707
+  },
+  {
+    "geoid": "51179",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-03-15",
+    "value": 0.09354,
+    "value_": 9.35406
+  },
+  {
+    "geoid": "51179",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-06-15",
+    "value": 0.09265,
+    "value_": 9.26519
+  },
+  {
+    "geoid": "51179",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-09-15",
+    "value": 0.09337,
+    "value_": 9.33727
+  },
+  {
+    "geoid": "51179",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-12-15",
+    "value": 0.09551,
+    "value_": 9.55056
+  },
+  {
+    "geoid": "51179",
+    "key": "credit-constrained-nearprime",
+    "date": "2025-03-15",
+    "value": 0.08947,
+    "value_": 8.94676
+  },
+  {
+    "geoid": "51510",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-03-15",
+    "value": 0.07985,
+    "value_": 7.98503
+  },
+  {
+    "geoid": "51510",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-06-15",
+    "value": 0.08097,
+    "value_": 8.097
+  },
+  {
+    "geoid": "51510",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-09-15",
+    "value": 0.08156,
+    "value_": 8.15562
+  },
+  {
+    "geoid": "51510",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-12-15",
+    "value": 0.07911,
+    "value_": 7.91119
+  },
+  {
+    "geoid": "51510",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-03-15",
+    "value": 0.07614,
+    "value_": 7.61387
+  },
+  {
+    "geoid": "51510",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-06-15",
+    "value": 0.07557,
+    "value_": 7.55719
+  },
+  {
+    "geoid": "51510",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-09-15",
+    "value": 0.07515,
+    "value_": 7.51456
+  },
+  {
+    "geoid": "51510",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-12-15",
+    "value": 0.07667,
+    "value_": 7.66673
+  },
+  {
+    "geoid": "51510",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-03-15",
+    "value": 0.07514,
+    "value_": 7.51413
+  },
+  {
+    "geoid": "51510",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-06-15",
+    "value": 0.07448,
+    "value_": 7.44762
+  },
+  {
+    "geoid": "51510",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-09-15",
+    "value": 0.07332,
+    "value_": 7.33187
+  },
+  {
+    "geoid": "51510",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-12-15",
+    "value": 0.07932,
+    "value_": 7.93208
+  },
+  {
+    "geoid": "51510",
+    "key": "credit-constrained-nearprime",
+    "date": "2025-03-15",
+    "value": 0.0728,
+    "value_": 7.28048
+  },
+  {
+    "geoid": "99997",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-03-15",
+    "value": 0.10019,
+    "value_": 10.01851
+  },
+  {
+    "geoid": "99997",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-06-15",
+    "value": 0.09802,
+    "value_": 9.80246
+  },
+  {
+    "geoid": "99997",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-09-15",
+    "value": 0.09758,
+    "value_": 9.75789
+  },
+  {
+    "geoid": "99997",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-12-15",
+    "value": 0.09899,
+    "value_": 9.89922
+  },
+  {
+    "geoid": "99997",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-03-15",
+    "value": 0.0969,
+    "value_": 9.68953
+  },
+  {
+    "geoid": "99997",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-06-15",
+    "value": 0.09567,
+    "value_": 9.56706
+  },
+  {
+    "geoid": "99997",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-09-15",
+    "value": 0.09465,
+    "value_": 9.46478
+  },
+  {
+    "geoid": "99997",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-12-15",
+    "value": 0.09533,
+    "value_": 9.53318
+  },
+  {
+    "geoid": "99997",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-03-15",
+    "value": 0.09332,
+    "value_": 9.33188
+  },
+  {
+    "geoid": "99997",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-06-15",
+    "value": 0.09198,
+    "value_": 9.19802
+  },
+  {
+    "geoid": "99997",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-09-15",
+    "value": 0.09272,
+    "value_": 9.27173
+  },
+  {
+    "geoid": "99997",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-12-15",
+    "value": 0.09537,
+    "value_": 9.53652
+  },
+  {
+    "geoid": "99997",
+    "key": "credit-constrained-nearprime",
+    "date": "2025-03-15",
+    "value": 0.09119,
+    "value_": 9.11935
+  },
+  {
+    "geoid": "99999",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-03-15",
+    "value": 0.102,
+    "value_": 10.2
+  },
+  {
+    "geoid": "99999",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-06-15",
+    "value": 0.099,
+    "value_": 9.9
+  },
+  {
+    "geoid": "99999",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-09-15",
+    "value": 0.099,
+    "value_": 9.9
+  },
+  {
+    "geoid": "99999",
+    "key": "credit-constrained-nearprime",
+    "date": "2022-12-15",
+    "value": 0.1,
+    "value_": 10
+  },
+  {
+    "geoid": "99999",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-03-15",
+    "value": 0.098,
+    "value_": 9.8
+  },
+  {
+    "geoid": "99999",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-06-15",
+    "value": 0.097,
+    "value_": 9.7
+  },
+  {
+    "geoid": "99999",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-09-15",
+    "value": 0.096,
+    "value_": 9.6
+  },
+  {
+    "geoid": "99999",
+    "key": "credit-constrained-nearprime",
+    "date": "2023-12-15",
+    "value": 0.096,
+    "value_": 9.6
+  },
+  {
+    "geoid": "99999",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-03-15",
+    "value": 0.094,
+    "value_": 9.4
+  },
+  {
+    "geoid": "99999",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-06-15",
+    "value": 0.093,
+    "value_": 9.3
+  },
+  {
+    "geoid": "99999",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-09-15",
+    "value": 0.094,
+    "value_": 9.4
+  },
+  {
+    "geoid": "99999",
+    "key": "credit-constrained-nearprime",
+    "date": "2024-12-15",
+    "value": 0.096,
+    "value_": 9.6
+  },
+  {
+    "geoid": "99999",
+    "key": "credit-constrained-nearprime",
+    "date": "2025-03-15",
+    "value": 0.092,
+    "value_": 9.2
+  }
+]
