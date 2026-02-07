@@ -37,7 +37,6 @@
 (function(){
     const testDataUrl = "https://afdta.github.io/dmv-tracker-staging/output-data/";
 
-    // Track current route shown in iframe
     let currentSub = null;
     let currentKey = null;
 
@@ -61,7 +60,6 @@
             iframe.src = src;
             el.appendChild(iframe);
         } else {
-            // Only reload if route or key actually changed
             if (sub !== currentSub || key !== currentKey) {
                 existing.src = src;
             }
@@ -87,11 +85,10 @@
                     history.replaceState(null, '', url);
                     setIframeSrc(data.subtopic, data.key);
                 }
-                // else: do nothing, we're already on this route!
+                // else: nothing
             }
         });
 
-        // On load: sync iframe to current hash
         try {
             let hash = ''+(window.location.hash).replace(/^#/, '');
             let params = hash.split("--");
