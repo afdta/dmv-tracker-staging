@@ -482,7 +482,7 @@
       "format": "123k",
       "format_change": "pct",
       "note": "Level",
-      "last_updated": "DMV-2025-12-11",
+      "last_updated": "DMV-2025-02-07",
       "start": "2024-11-15",
       "end": "2025-11-15"
     },
@@ -497,7 +497,7 @@
       "format": "123k",
       "format_change": "pct",
       "note": "Level",
-      "last_updated": "DMV-2025-12-11",
+      "last_updated": "DMV-2025-02-07",
       "start": "2024-11-15",
       "end": "2025-11-15"
     },
@@ -512,7 +512,7 @@
       "format": "123k",
       "format_change": "pct",
       "note": "Level",
-      "last_updated": "DMV-2025-12-11",
+      "last_updated": "DMV-2025-02-07",
       "start": "2024-11-15",
       "end": "2025-11-15"
     },
@@ -572,7 +572,7 @@
       "format": "0.[00]%",
       "format_change": "pct_diff",
       "note": "Rolling 3-month average",
-      "last_updated": "DMV-2025-12-11",
+      "last_updated": "DMV-2025-02-07",
       "start": "2024-11-15",
       "end": "2025-11-15"
     },
@@ -587,7 +587,7 @@
       "format": "0.[00]%",
       "format_change": "pct_diff",
       "note": "Rolling 3-month average",
-      "last_updated": "DMV-2025-12-11",
+      "last_updated": "DMV-2025-02-07",
       "start": "2024-11-15",
       "end": "2025-11-15"
     },
@@ -602,7 +602,7 @@
       "format": "0.[00]%",
       "format_change": "pct_diff",
       "note": "Rolling 3-month average",
-      "last_updated": "DMV-2025-12-11",
+      "last_updated": "DMV-2025-02-07",
       "start": "2024-11-15",
       "end": "2025-11-15"
     },
@@ -617,7 +617,7 @@
       "format": "0.[00]%",
       "format_change": "pct_diff",
       "note": "Rolling 3-month average",
-      "last_updated": "DMV-2025-12-11",
+      "last_updated": "DMV-2025-02-07",
       "start": "2024-11-15",
       "end": "2025-11-15"
     },
