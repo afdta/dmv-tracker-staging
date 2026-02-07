@@ -30,38 +30,43 @@
 <div class="page-container">
     <h1>DMV TRACKER STAGING</h1>
     <h3>This is a draft site. The data may be incorrect or out of date. Please do not share or distribute.</h3>
-
-    <div id="dmv-tracker-embed" style="overflow:visible;">
-        <iframe id="dmv-tracker-iframe" src="https://brookingsinstitution.github.io/dmv-tracker/home?testingData=https://afdta.github.io/dmv-tracker-staging/output-data/" style="border:none;width:0;min-width:100%;height:100%;" scrolling="no" frameborder="0"></iframe>
-    </div>
+    <div id="dmv-tracker-embed" style="overflow:visible;"></div>
 </div>
 
 <script>
 (function(){
-    // Source data for testing
     const testDataUrl = "https://afdta.github.io/dmv-tracker-staging/output-data/";
 
     function setIframeSrc(sub, key) {
-        const iframe = document.getElementById("dmv-tracker-iframe");
-        let src = '';
+        const el = document.getElementById("dmv-tracker-embed");
+        let src;
         if(sub && key) {
             src = `https://brookingsinstitution.github.io/dmv-tracker/${encodeURIComponent(sub)}/${encodeURIComponent(key)}?testingData=${encodeURIComponent(testDataUrl)}`;
         } else {
             src = `https://brookingsinstitution.github.io/dmv-tracker/home?testingData=${encodeURIComponent(testDataUrl)}`;
         }
-        if (iframe.src !== src) {
+
+        // Remove old iframe if present
+        let existing = document.getElementById("dmv-tracker-iframe");
+        if (!existing) {
+            // First load: create iframe with correct src
+            const iframe = document.createElement('iframe');
+            iframe.id = "dmv-tracker-iframe";
+            iframe.style = "border:none;width:0;min-width:100%;height:100%;";
+            iframe.scrolling = "no";
+            iframe.frameBorder = "0";
             iframe.src = src;
+            el.appendChild(iframe);
+        } else {
+            existing.src = src; // Always reload, even for repeats
         }
     }
 
     function main(){
-        let el = document.getElementById("dmv-tracker-embed");
-        let iframe = document.getElementById("dmv-tracker-iframe");
+        const el = document.getElementById("dmv-tracker-embed");
 
-        // Resize iframe when child reports size
         window.addEventListener("message", (event) => {
             const data = event.data || {};
-            //console.log(data);
             if(data.type === "embed:resize"){
                 el.style.height = data.height + "px";
             }
@@ -70,12 +75,10 @@
                 const newHash = "#" + data.subtopic + "--" + data.key;
                 const url = location.pathname + newHash;
                 history.replaceState(null, '', url);
-
-                // ***** CORE FIX: Always reload iframe src to retain testingData param *****
                 setIframeSrc(data.subtopic, data.key);
             }
         });
-        
+
         //get location hash and pass to app
         try{
             let hash = ''+(window.location.hash).replace(/^#/, '');
@@ -84,13 +87,10 @@
             let key = params[1];
             setIframeSrc(sub, key);
         }
-        catch(e){
-            // fallback/fail silently
-        }
+        catch(e){}
     }
 
     document.addEventListener("DOMContentLoaded", main);
-
 })();
 </script>
 
