@@ -2,470 +2,484 @@
   {
     "geoid": "11001",
     "key": "foreign-born",
-    "date": "2023-12-15",
-    "value": 0.13328,
-    "value_": 13.32849
+    "date": "2024-12-15",
+    "value": 0.14295,
+    "value_": 14.29456
   },
   {
     "geoid": "12060",
     "key": "foreign-born",
-    "date": "2023-12-15",
-    "value": 0.15854,
-    "value_": 15.85433
+    "date": "2024-12-15",
+    "value": 0.16243,
+    "value_": 16.24288
   },
   {
     "geoid": "12420",
     "key": "foreign-born",
-    "date": "2023-12-15",
-    "value": 0.15568,
-    "value_": 15.56837
+    "date": "2024-12-15",
+    "value": 0.16398,
+    "value_": 16.39843
   },
   {
     "geoid": "12580",
     "key": "foreign-born",
-    "date": "2023-12-15",
-    "value": 0.11333,
-    "value_": 11.33272
+    "date": "2024-12-15",
+    "value": 0.11709,
+    "value_": 11.70906
   },
   {
     "geoid": "13820",
     "key": "foreign-born",
-    "date": "2023-12-15",
-    "value": 0.04733,
-    "value_": 4.73336
+    "date": "2024-12-15",
+    "value": 0.05032,
+    "value_": 5.0317
   },
   {
     "geoid": "14460",
     "key": "foreign-born",
-    "date": "2023-12-15",
-    "value": 0.20081,
-    "value_": 20.08129
+    "date": "2024-12-15",
+    "value": 0.20439,
+    "value_": 20.4391
   },
   {
     "geoid": "15380",
     "key": "foreign-born",
-    "date": "2023-12-15",
-    "value": 0.06622,
-    "value_": 6.62218
+    "date": "2024-12-15",
+    "value": 0.06924,
+    "value_": 6.92362
   },
   {
     "geoid": "16740",
     "key": "foreign-born",
-    "date": "2023-12-15",
-    "value": 0.11811,
-    "value_": 11.81064
+    "date": "2024-12-15",
+    "value": 0.12285,
+    "value_": 12.28478
   },
   {
     "geoid": "16980",
     "key": "foreign-born",
-    "date": "2023-12-15",
-    "value": 0.18859,
-    "value_": 18.8589
+    "date": "2024-12-15",
+    "value": 0.18909,
+    "value_": 18.90862
   },
   {
     "geoid": "17140",
     "key": "foreign-born",
-    "date": "2023-12-15",
-    "value": 0.07058,
-    "value_": 7.05787
+    "date": "2024-12-15",
+    "value": 0.0684,
+    "value_": 6.83953
   },
   {
     "geoid": "17410",
     "key": "foreign-born",
-    "date": "2023-12-15",
-    "value": 0.06505,
-    "value_": 6.50479
+    "date": "2024-12-15",
+    "value": 0.06579,
+    "value_": 6.57876
   },
   {
     "geoid": "18140",
     "key": "foreign-born",
-    "date": "2023-12-15",
-    "value": 0.11177,
-    "value_": 11.17703
+    "date": "2024-12-15",
+    "value": 0.11083,
+    "value_": 11.08252
   },
   {
     "geoid": "19100",
     "key": "foreign-born",
-    "date": "2023-12-15",
-    "value": 0.1912,
-    "value_": 19.11976
+    "date": "2024-12-15",
+    "value": 0.1952,
+    "value_": 19.51983
   },
   {
     "geoid": "19740",
     "key": "foreign-born",
-    "date": "2023-12-15",
-    "value": 0.12285,
-    "value_": 12.28547
+    "date": "2024-12-15",
+    "value": 0.1265,
+    "value_": 12.65025
   },
   {
     "geoid": "19820",
     "key": "foreign-born",
-    "date": "2023-12-15",
-    "value": 0.11225,
-    "value_": 11.22496
+    "date": "2024-12-15",
+    "value": 0.11608,
+    "value_": 11.60764
   },
   {
     "geoid": "23420",
     "key": "foreign-born",
-    "date": "2023-12-15",
-    "value": 0.1981,
-    "value_": 19.8102
+    "date": "2024-12-15",
+    "value": 0.2002,
+    "value_": 20.01995
   },
   {
     "geoid": "24017",
     "key": "foreign-born",
-    "date": "2023-12-15",
-    "value": 0.08377,
-    "value_": 8.3771
+    "date": "2024-12-15",
+    "value": 0.08511,
+    "value_": 8.51068
+  },
+  {
+    "geoid": "24021",
+    "key": "foreign-born",
+    "date": "2024-12-15",
+    "value": 0.13753,
+    "value_": 13.75275
   },
   {
     "geoid": "24031",
     "key": "foreign-born",
-    "date": "2023-12-15",
-    "value": 0.33357,
-    "value_": 33.35653
+    "date": "2024-12-15",
+    "value": 0.33606,
+    "value_": 33.60602
   },
   {
     "geoid": "24033",
     "key": "foreign-born",
-    "date": "2023-12-15",
-    "value": 0.24887,
-    "value_": 24.88708
+    "date": "2024-12-15",
+    "value": 0.25254,
+    "value_": 25.25428
   },
   {
     "geoid": "24340",
     "key": "foreign-born",
-    "date": "2023-12-15",
-    "value": 0.07495,
-    "value_": 7.49516
+    "date": "2024-12-15",
+    "value": 0.07714,
+    "value_": 7.71388
   },
   {
     "geoid": "25540",
     "key": "foreign-born",
-    "date": "2023-12-15",
-    "value": 0.1395,
-    "value_": 13.94959
+    "date": "2024-12-15",
+    "value": 0.14166,
+    "value_": 14.16575
   },
   {
     "geoid": "26420",
     "key": "foreign-born",
-    "date": "2023-12-15",
-    "value": 0.24019,
-    "value_": 24.01947
+    "date": "2024-12-15",
+    "value": 0.24475,
+    "value_": 24.47478
   },
   {
     "geoid": "26900",
     "key": "foreign-born",
-    "date": "2023-12-15",
-    "value": 0.09908,
-    "value_": 9.90774
+    "date": "2024-12-15",
+    "value": 0.10845,
+    "value_": 10.84486
   },
   {
     "geoid": "27260",
     "key": "foreign-born",
-    "date": "2023-12-15",
-    "value": 0.10534,
-    "value_": 10.53433
+    "date": "2024-12-15",
+    "value": 0.10899,
+    "value_": 10.89922
   },
   {
     "geoid": "28140",
     "key": "foreign-born",
-    "date": "2023-12-15",
-    "value": 0.08238,
-    "value_": 8.23799
+    "date": "2024-12-15",
+    "value": 0.0843,
+    "value_": 8.43011
   },
   {
     "geoid": "29820",
     "key": "foreign-born",
-    "date": "2023-12-15",
-    "value": 0.21708,
-    "value_": 21.70842
+    "date": "2024-12-15",
+    "value": 0.21864,
+    "value_": 21.86416
   },
   {
     "geoid": "31080",
     "key": "foreign-born",
-    "date": "2023-12-15",
-    "value": 0.3252,
-    "value_": 32.51957
+    "date": "2024-12-15",
+    "value": 0.32691,
+    "value_": 32.69129
   },
   {
     "geoid": "31140",
     "key": "foreign-born",
-    "date": "2023-12-15",
-    "value": 0.09483,
-    "value_": 9.48338
+    "date": "2024-12-15",
+    "value": 0.09972,
+    "value_": 9.97239
   },
   {
     "geoid": "32820",
     "key": "foreign-born",
-    "date": "2023-12-15",
-    "value": 0.06976,
-    "value_": 6.97556
+    "date": "2024-12-15",
+    "value": 0.07203,
+    "value_": 7.20269
   },
   {
     "geoid": "33100",
     "key": "foreign-born",
-    "date": "2023-12-15",
-    "value": 0.41859,
-    "value_": 41.85901
+    "date": "2024-12-15",
+    "value": 0.42362,
+    "value_": 42.36205
   },
   {
     "geoid": "33340",
     "key": "foreign-born",
-    "date": "2023-12-15",
-    "value": 0.08251,
-    "value_": 8.25109
+    "date": "2024-12-15",
+    "value": 0.08526,
+    "value_": 8.52624
   },
   {
     "geoid": "33460",
     "key": "foreign-born",
-    "date": "2023-12-15",
-    "value": 0.12293,
-    "value_": 12.29265
+    "date": "2024-12-15",
+    "value": 0.1243,
+    "value_": 12.42954
   },
   {
     "geoid": "34980",
     "key": "foreign-born",
-    "date": "2023-12-15",
-    "value": 0.10744,
-    "value_": 10.74401
+    "date": "2024-12-15",
+    "value": 0.1102,
+    "value_": 11.01956
   },
   {
     "geoid": "35620",
     "key": "foreign-born",
-    "date": "2023-12-15",
-    "value": 0.29824,
-    "value_": 29.82368
+    "date": "2024-12-15",
+    "value": 0.30066,
+    "value_": 30.06563
   },
   {
     "geoid": "36420",
     "key": "foreign-born",
-    "date": "2023-12-15",
-    "value": 0.09044,
-    "value_": 9.0442
+    "date": "2024-12-15",
+    "value": 0.09117,
+    "value_": 9.11686
   },
   {
     "geoid": "36540",
     "key": "foreign-born",
-    "date": "2023-12-15",
-    "value": 0.09246,
-    "value_": 9.24578
+    "date": "2024-12-15",
+    "value": 0.09691,
+    "value_": 9.69059
   },
   {
     "geoid": "36740",
     "key": "foreign-born",
-    "date": "2023-12-15",
-    "value": 0.20322,
-    "value_": 20.32203
+    "date": "2024-12-15",
+    "value": 0.21082,
+    "value_": 21.08159
   },
   {
     "geoid": "37980",
     "key": "foreign-born",
-    "date": "2023-12-15",
-    "value": 0.11736,
-    "value_": 11.73642
+    "date": "2024-12-15",
+    "value": 0.12067,
+    "value_": 12.06732
   },
   {
     "geoid": "38060",
     "key": "foreign-born",
-    "date": "2023-12-15",
-    "value": 0.13862,
-    "value_": 13.86154
+    "date": "2024-12-15",
+    "value": 0.13986,
+    "value_": 13.98647
   },
   {
     "geoid": "38300",
     "key": "foreign-born",
-    "date": "2023-12-15",
-    "value": 0.06369,
-    "value_": 6.36885
+    "date": "2024-12-15",
+    "value": 0.06592,
+    "value_": 6.59179
   },
   {
     "geoid": "38900",
     "key": "foreign-born",
-    "date": "2023-12-15",
-    "value": 0.12763,
-    "value_": 12.76325
+    "date": "2024-12-15",
+    "value": 0.12951,
+    "value_": 12.95051
   },
   {
     "geoid": "39300",
     "key": "foreign-born",
-    "date": "2023-12-15",
-    "value": 0.15846,
-    "value_": 15.84608
+    "date": "2024-12-15",
+    "value": 0.16244,
+    "value_": 16.24406
   },
   {
     "geoid": "39580",
     "key": "foreign-born",
-    "date": "2023-12-15",
-    "value": 0.13544,
-    "value_": 13.54382
+    "date": "2024-12-15",
+    "value": 0.141,
+    "value_": 14.09964
   },
   {
     "geoid": "40060",
     "key": "foreign-born",
-    "date": "2023-12-15",
-    "value": 0.10837,
-    "value_": 10.83663
+    "date": "2024-12-15",
+    "value": 0.10953,
+    "value_": 10.95314
   },
   {
     "geoid": "40140",
     "key": "foreign-born",
-    "date": "2023-12-15",
-    "value": 0.21511,
-    "value_": 21.51137
+    "date": "2024-12-15",
+    "value": 0.21784,
+    "value_": 21.78448
   },
   {
     "geoid": "40380",
     "key": "foreign-born",
-    "date": "2023-12-15",
-    "value": 0.07916,
-    "value_": 7.91613
+    "date": "2024-12-15",
+    "value": 0.07905,
+    "value_": 7.90537
   },
   {
     "geoid": "40900",
     "key": "foreign-born",
-    "date": "2023-12-15",
-    "value": 0.18895,
-    "value_": 18.89533
+    "date": "2024-12-15",
+    "value": 0.19453,
+    "value_": 19.45258
   },
   {
     "geoid": "41180",
     "key": "foreign-born",
-    "date": "2023-12-15",
-    "value": 0.06438,
-    "value_": 6.43836
+    "date": "2024-12-15",
+    "value": 0.06681,
+    "value_": 6.68065
   },
   {
     "geoid": "41620",
     "key": "foreign-born",
-    "date": "2023-12-15",
-    "value": 0.13017,
-    "value_": 13.01692
+    "date": "2024-12-15",
+    "value": 0.13468,
+    "value_": 13.46752
   },
   {
     "geoid": "41700",
     "key": "foreign-born",
-    "date": "2023-12-15",
-    "value": 0.12313,
-    "value_": 12.31266
+    "date": "2024-12-15",
+    "value": 0.12795,
+    "value_": 12.79472
   },
   {
     "geoid": "41740",
     "key": "foreign-born",
-    "date": "2023-12-15",
-    "value": 0.22489,
-    "value_": 22.48919
+    "date": "2024-12-15",
+    "value": 0.22797,
+    "value_": 22.79679
   },
   {
     "geoid": "41860",
     "key": "foreign-born",
-    "date": "2023-12-15",
-    "value": 0.31563,
-    "value_": 31.56318
+    "date": "2024-12-15",
+    "value": 0.31885,
+    "value_": 31.88495
   },
   {
     "geoid": "41940",
     "key": "foreign-born",
-    "date": "2023-12-15",
-    "value": 0.40288,
-    "value_": 40.28765
+    "date": "2024-12-15",
+    "value": 0.40788,
+    "value_": 40.78753
   },
   {
     "geoid": "42660",
     "key": "foreign-born",
-    "date": "2023-12-15",
-    "value": 0.20396,
-    "value_": 20.39634
+    "date": "2024-12-15",
+    "value": 0.2102,
+    "value_": 21.01962
   },
   {
     "geoid": "45300",
     "key": "foreign-born",
-    "date": "2023-12-15",
-    "value": 0.15042,
-    "value_": 15.0418
+    "date": "2024-12-15",
+    "value": 0.15497,
+    "value_": 15.49661
   },
   {
     "geoid": "46060",
     "key": "foreign-born",
-    "date": "2023-12-15",
-    "value": 0.11893,
-    "value_": 11.8926
+    "date": "2024-12-15",
+    "value": 0.1178,
+    "value_": 11.77965
   },
   {
     "geoid": "46140",
     "key": "foreign-born",
-    "date": "2023-12-15",
-    "value": 0.09622,
-    "value_": 9.62153
+    "date": "2024-12-15",
+    "value": 0.09927,
+    "value_": 9.92723
   },
   {
     "geoid": "47260",
     "key": "foreign-born",
-    "date": "2023-12-15",
-    "value": 0.07674,
-    "value_": 7.67368
+    "date": "2024-12-15",
+    "value": 0.07693,
+    "value_": 7.69342
   },
   {
     "geoid": "47900",
     "key": "foreign-born",
-    "date": "2023-12-15",
-    "value": 0.24705,
-    "value_": 24.70542
+    "date": "2024-12-15",
+    "value": 0.25058,
+    "value_": 25.05831
   },
   {
     "geoid": "51013",
     "key": "foreign-born",
-    "date": "2023-12-15",
-    "value": 0.2195,
-    "value_": 21.94952
+    "date": "2024-12-15",
+    "value": 0.22444,
+    "value_": 22.44364
   },
   {
     "geoid": "51059",
     "key": "foreign-born",
-    "date": "2023-12-15",
-    "value": 0.61287,
-    "value_": 61.28664
+    "date": "2024-12-15",
+    "value": 0.6145,
+    "value_": 61.45018
   },
   {
     "geoid": "51107",
     "key": "foreign-born",
-    "date": "2023-12-15",
-    "value": 0.26672,
-    "value_": 26.6724
+    "date": "2024-12-15",
+    "value": 0.27439,
+    "value_": 27.43893
   },
   {
     "geoid": "51153",
     "key": "foreign-born",
-    "date": "2023-12-15",
-    "value": 0.57963,
-    "value_": 57.96339
+    "date": "2024-12-15",
+    "value": 0.5874,
+    "value_": 58.73987
+  },
+  {
+    "geoid": "51177",
+    "key": "foreign-born",
+    "date": "2024-12-15",
+    "value": 0.10384,
+    "value_": 10.38383
   },
   {
     "geoid": "51179",
     "key": "foreign-born",
-    "date": "2023-12-15",
-    "value": 0.13447,
-    "value_": 13.44692
+    "date": "2024-12-15",
+    "value": 0.13824,
+    "value_": 13.82428
   },
   {
     "geoid": "51510",
     "key": "foreign-born",
-    "date": "2023-12-15",
-    "value": 0.24621,
-    "value_": 24.62051
+    "date": "2024-12-15",
+    "value": 0.24914,
+    "value_": 24.914
   },
   {
     "geoid": "99997",
     "key": "foreign-born",
-    "date": "2023-12-15",
-    "value": 0.20002,
-    "value_": 20.0023
+    "date": "2024-12-15",
+    "value": 0.20281,
+    "value_": 20.28099
   },
   {
     "geoid": "99999",
     "key": "foreign-born",
-    "date": "2023-12-15",
-    "value": 0.17342,
-    "value_": 17.34244
+    "date": "2024-12-15",
+    "value": 0.17605,
+    "value_": 17.60459
   }
 ]

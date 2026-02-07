@@ -2,477 +2,533 @@
   {
     "geoid": "11001",
     "key": "some-college-aa",
-    "date": "2023-12-15",
-    "value": 0.14766,
-    "value_": 14.76592
+    "date": "2024-12-15",
+    "value": 0.13948,
+    "value_": 13.94812
   },
   {
     "geoid": "12060",
     "key": "some-college-aa",
-    "date": "2023-12-15",
-    "value": 0.2631,
-    "value_": 26.30971
+    "date": "2024-12-15",
+    "value": 0.26031,
+    "value_": 26.03089
   },
   {
     "geoid": "12420",
     "key": "some-college-aa",
-    "date": "2023-12-15",
-    "value": 0.24668,
-    "value_": 24.66757
+    "date": "2024-12-15",
+    "value": 0.24213,
+    "value_": 24.21262
   },
   {
     "geoid": "12580",
     "key": "some-college-aa",
-    "date": "2023-12-15",
-    "value": 0.25228,
-    "value_": 25.22792
+    "date": "2024-12-15",
+    "value": 0.24935,
+    "value_": 24.93471
   },
   {
     "geoid": "13820",
     "key": "some-college-aa",
-    "date": "2023-12-15",
-    "value": 0.29346,
-    "value_": 29.34581
+    "date": "2024-12-15",
+    "value": 0.29001,
+    "value_": 29.00111
   },
   {
     "geoid": "14460",
     "key": "some-college-aa",
-    "date": "2023-12-15",
-    "value": 0.20298,
-    "value_": 20.29822
+    "date": "2024-12-15",
+    "value": 0.19842,
+    "value_": 19.84211
   },
   {
     "geoid": "15380",
     "key": "some-college-aa",
-    "date": "2023-12-15",
-    "value": 0.3018,
-    "value_": 30.17998
+    "date": "2024-12-15",
+    "value": 0.29761,
+    "value_": 29.76119
   },
   {
     "geoid": "16740",
     "key": "some-college-aa",
-    "date": "2023-12-15",
-    "value": 0.28849,
-    "value_": 28.84924
+    "date": "2024-12-15",
+    "value": 0.28205,
+    "value_": 28.20526
   },
   {
     "geoid": "16980",
     "key": "some-college-aa",
-    "date": "2023-12-15",
-    "value": 0.25642,
-    "value_": 25.6424
+    "date": "2024-12-15",
+    "value": 0.25286,
+    "value_": 25.28632
   },
   {
     "geoid": "17140",
     "key": "some-college-aa",
-    "date": "2023-12-15",
-    "value": 0.26555,
-    "value_": 26.55523
+    "date": "2024-12-15",
+    "value": 0.26875,
+    "value_": 26.87479
   },
   {
     "geoid": "17410",
     "key": "some-college-aa",
-    "date": "2023-12-15",
-    "value": 0.29191,
-    "value_": 29.19074
+    "date": "2024-12-15",
+    "value": 0.28795,
+    "value_": 28.79534
   },
   {
     "geoid": "18140",
     "key": "some-college-aa",
-    "date": "2023-12-15",
-    "value": 0.25949,
-    "value_": 25.94918
+    "date": "2024-12-15",
+    "value": 0.25796,
+    "value_": 25.79572
   },
   {
     "geoid": "19100",
     "key": "some-college-aa",
-    "date": "2023-12-15",
-    "value": 0.27121,
-    "value_": 27.12066
+    "date": "2024-12-15",
+    "value": 0.26664,
+    "value_": 26.66437
   },
   {
     "geoid": "19740",
     "key": "some-college-aa",
-    "date": "2023-12-15",
-    "value": 0.25562,
-    "value_": 25.56229
+    "date": "2024-12-15",
+    "value": 0.24909,
+    "value_": 24.90928
   },
   {
     "geoid": "19820",
     "key": "some-college-aa",
-    "date": "2023-12-15",
-    "value": 0.31156,
-    "value_": 31.15612
+    "date": "2024-12-15",
+    "value": 0.30837,
+    "value_": 30.83653
   },
   {
     "geoid": "23420",
     "key": "some-college-aa",
-    "date": "2023-12-15",
-    "value": 0.31767,
-    "value_": 31.7672
+    "date": "2024-12-15",
+    "value": 0.31347,
+    "value_": 31.34729
   },
   {
     "geoid": "24017",
     "key": "some-college-aa",
-    "date": "2023-12-15",
-    "value": 0.32601,
-    "value_": 32.60123
+    "date": "2024-12-15",
+    "value": 0.31979,
+    "value_": 31.9786
+  },
+  {
+    "geoid": "24021",
+    "key": "some-college-aa",
+    "date": "2024-12-15",
+    "value": 0.25261,
+    "value_": 25.26134
   },
   {
     "geoid": "24031",
     "key": "some-college-aa",
-    "date": "2023-12-15",
-    "value": 0.17504,
-    "value_": 17.50383
+    "date": "2024-12-15",
+    "value": 0.17173,
+    "value_": 17.17316
   },
   {
     "geoid": "24033",
     "key": "some-college-aa",
-    "date": "2023-12-15",
-    "value": 0.25372,
-    "value_": 25.37157
+    "date": "2024-12-15",
+    "value": 0.24756,
+    "value_": 24.75588
   },
   {
     "geoid": "24340",
     "key": "some-college-aa",
-    "date": "2023-12-15",
-    "value": 0.30284,
-    "value_": 30.28432
+    "date": "2024-12-15",
+    "value": 0.29609,
+    "value_": 29.60944
   },
   {
     "geoid": "25540",
     "key": "some-college-aa",
-    "date": "2023-12-15",
-    "value": 0.24692,
-    "value_": 24.69156
+    "date": "2024-12-15",
+    "value": 0.24554,
+    "value_": 24.55394
   },
   {
     "geoid": "26420",
     "key": "some-college-aa",
-    "date": "2023-12-15",
-    "value": 0.27003,
-    "value_": 27.00257
+    "date": "2024-12-15",
+    "value": 0.26481,
+    "value_": 26.48126
   },
   {
     "geoid": "26900",
     "key": "some-college-aa",
-    "date": "2023-12-15",
-    "value": 0.26532,
-    "value_": 26.53187
+    "date": "2024-12-15",
+    "value": 0.26336,
+    "value_": 26.33647
   },
   {
     "geoid": "27260",
     "key": "some-college-aa",
-    "date": "2023-12-15",
-    "value": 0.30553,
-    "value_": 30.55256
+    "date": "2024-12-15",
+    "value": 0.2975,
+    "value_": 29.75013
   },
   {
     "geoid": "28140",
     "key": "some-college-aa",
-    "date": "2023-12-15",
-    "value": 0.29004,
-    "value_": 29.00365
+    "date": "2024-12-15",
+    "value": 0.28791,
+    "value_": 28.79094
   },
   {
     "geoid": "29820",
     "key": "some-college-aa",
-    "date": "2023-12-15",
-    "value": 0.31891,
-    "value_": 31.89143
+    "date": "2024-12-15",
+    "value": 0.31386,
+    "value_": 31.38581
   },
   {
     "geoid": "31080",
     "key": "some-college-aa",
-    "date": "2023-12-15",
-    "value": 0.25243,
-    "value_": 25.24348
+    "date": "2024-12-15",
+    "value": 0.24829,
+    "value_": 24.82891
   },
   {
     "geoid": "31140",
     "key": "some-college-aa",
-    "date": "2023-12-15",
-    "value": 0.29731,
-    "value_": 29.73117
+    "date": "2024-12-15",
+    "value": 0.29304,
+    "value_": 29.30432
   },
   {
     "geoid": "32820",
     "key": "some-college-aa",
-    "date": "2023-12-15",
-    "value": 0.29678,
-    "value_": 29.67846
+    "date": "2024-12-15",
+    "value": 0.29504,
+    "value_": 29.50369
   },
   {
     "geoid": "33100",
     "key": "some-college-aa",
-    "date": "2023-12-15",
-    "value": 0.25547,
-    "value_": 25.54729
+    "date": "2024-12-15",
+    "value": 0.24948,
+    "value_": 24.94809
   },
   {
     "geoid": "33340",
     "key": "some-college-aa",
-    "date": "2023-12-15",
-    "value": 0.28268,
-    "value_": 28.2676
+    "date": "2024-12-15",
+    "value": 0.27898,
+    "value_": 27.89772
   },
   {
     "geoid": "33460",
     "key": "some-college-aa",
-    "date": "2023-12-15",
-    "value": 0.29176,
-    "value_": 29.1763
+    "date": "2024-12-15",
+    "value": 0.28895,
+    "value_": 28.89545
   },
   {
     "geoid": "34980",
     "key": "some-college-aa",
-    "date": "2023-12-15",
-    "value": 0.25941,
-    "value_": 25.94094
+    "date": "2024-12-15",
+    "value": 0.25603,
+    "value_": 25.60346
   },
   {
     "geoid": "35620",
     "key": "some-college-aa",
-    "date": "2023-12-15",
-    "value": 0.20853,
-    "value_": 20.85293
+    "date": "2024-12-15",
+    "value": 0.20585,
+    "value_": 20.58481
   },
   {
     "geoid": "36420",
     "key": "some-college-aa",
-    "date": "2023-12-15",
-    "value": 0.30292,
-    "value_": 30.29202
+    "date": "2024-12-15",
+    "value": 0.30042,
+    "value_": 30.0425
   },
   {
     "geoid": "36540",
     "key": "some-college-aa",
-    "date": "2023-12-15",
-    "value": 0.31069,
-    "value_": 31.06912
+    "date": "2024-12-15",
+    "value": 0.30807,
+    "value_": 30.80722
   },
   {
     "geoid": "36740",
     "key": "some-college-aa",
-    "date": "2023-12-15",
-    "value": 0.29687,
-    "value_": 29.68725
+    "date": "2024-12-15",
+    "value": 0.29462,
+    "value_": 29.46219
   },
   {
     "geoid": "37980",
     "key": "some-college-aa",
-    "date": "2023-12-15",
-    "value": 0.23596,
-    "value_": 23.59574
+    "date": "2024-12-15",
+    "value": 0.23256,
+    "value_": 23.25565
   },
   {
     "geoid": "38060",
     "key": "some-college-aa",
-    "date": "2023-12-15",
-    "value": 0.32147,
-    "value_": 32.14661
+    "date": "2024-12-15",
+    "value": 0.31651,
+    "value_": 31.65098
   },
   {
     "geoid": "38300",
     "key": "some-college-aa",
-    "date": "2023-12-15",
-    "value": 0.26101,
-    "value_": 26.10119
+    "date": "2024-12-15",
+    "value": 0.25778,
+    "value_": 25.77793
   },
   {
     "geoid": "38900",
     "key": "some-college-aa",
-    "date": "2023-12-15",
-    "value": 0.30932,
-    "value_": 30.93244
+    "date": "2024-12-15",
+    "value": 0.30446,
+    "value_": 30.44597
   },
   {
     "geoid": "39300",
     "key": "some-college-aa",
-    "date": "2023-12-15",
-    "value": 0.25605,
-    "value_": 25.60512
+    "date": "2024-12-15",
+    "value": 0.2537,
+    "value_": 25.36997
   },
   {
     "geoid": "39580",
     "key": "some-college-aa",
-    "date": "2023-12-15",
-    "value": 0.25424,
-    "value_": 25.42424
+    "date": "2024-12-15",
+    "value": 0.2488,
+    "value_": 24.88025
   },
   {
     "geoid": "40060",
     "key": "some-college-aa",
-    "date": "2023-12-15",
-    "value": 0.27282,
-    "value_": 27.28179
+    "date": "2024-12-15",
+    "value": 0.2688,
+    "value_": 26.88001
   },
   {
     "geoid": "40140",
     "key": "some-college-aa",
-    "date": "2023-12-15",
-    "value": 0.3164,
-    "value_": 31.64006
+    "date": "2024-12-15",
+    "value": 0.31029,
+    "value_": 31.02943
   },
   {
     "geoid": "40380",
     "key": "some-college-aa",
-    "date": "2023-12-15",
-    "value": 0.28744,
-    "value_": 28.74388
+    "date": "2024-12-15",
+    "value": 0.28559,
+    "value_": 28.55902
   },
   {
     "geoid": "40900",
     "key": "some-college-aa",
-    "date": "2023-12-15",
-    "value": 0.33147,
-    "value_": 33.14722
+    "date": "2024-12-15",
+    "value": 0.32471,
+    "value_": 32.47071
   },
   {
     "geoid": "41180",
     "key": "some-college-aa",
-    "date": "2023-12-15",
-    "value": 0.3028,
-    "value_": 30.28012
+    "date": "2024-12-15",
+    "value": 0.30044,
+    "value_": 30.04434
   },
   {
     "geoid": "41620",
     "key": "some-college-aa",
-    "date": "2023-12-15",
-    "value": 0.31337,
-    "value_": 31.33728
+    "date": "2024-12-15",
+    "value": 0.31034,
+    "value_": 31.03394
   },
   {
     "geoid": "41700",
     "key": "some-college-aa",
-    "date": "2023-12-15",
-    "value": 0.30379,
-    "value_": 30.37948
+    "date": "2024-12-15",
+    "value": 0.29941,
+    "value_": 29.94053
   },
   {
     "geoid": "41740",
     "key": "some-college-aa",
-    "date": "2023-12-15",
-    "value": 0.28981,
-    "value_": 28.98126
+    "date": "2024-12-15",
+    "value": 0.28087,
+    "value_": 28.08658
   },
   {
     "geoid": "41860",
     "key": "some-college-aa",
-    "date": "2023-12-15",
-    "value": 0.22164,
-    "value_": 22.16448
+    "date": "2024-12-15",
+    "value": 0.21783,
+    "value_": 21.78251
   },
   {
     "geoid": "41940",
     "key": "some-college-aa",
-    "date": "2023-12-15",
-    "value": 0.20411,
-    "value_": 20.41088
+    "date": "2024-12-15",
+    "value": 0.19855,
+    "value_": 19.85477
   },
   {
     "geoid": "42660",
     "key": "some-college-aa",
-    "date": "2023-12-15",
-    "value": 0.28261,
-    "value_": 28.26058
+    "date": "2024-12-15",
+    "value": 0.2758,
+    "value_": 27.58028
   },
   {
     "geoid": "45300",
     "key": "some-college-aa",
-    "date": "2023-12-15",
-    "value": 0.29393,
-    "value_": 29.39308
+    "date": "2024-12-15",
+    "value": 0.28952,
+    "value_": 28.95186
   },
   {
     "geoid": "46060",
     "key": "some-college-aa",
-    "date": "2023-12-15",
-    "value": 0.32897,
-    "value_": 32.89714
+    "date": "2024-12-15",
+    "value": 0.32605,
+    "value_": 32.60508
   },
   {
     "geoid": "46140",
     "key": "some-college-aa",
-    "date": "2023-12-15",
-    "value": 0.3177,
-    "value_": 31.76968
+    "date": "2024-12-15",
+    "value": 0.31436,
+    "value_": 31.43552
   },
   {
     "geoid": "47260",
     "key": "some-college-aa",
-    "date": "2023-12-15",
-    "value": 0.32594,
-    "value_": 32.59394
+    "date": "2024-12-15",
+    "value": 0.31989,
+    "value_": 31.98935
   },
   {
     "geoid": "47900",
     "key": "some-college-aa",
-    "date": "2023-12-15",
-    "value": 0.20434,
-    "value_": 20.43424
+    "date": "2024-12-15",
+    "value": 0.19883,
+    "value_": 19.88253
   },
   {
     "geoid": "51013",
     "key": "some-college-aa",
-    "date": "2023-12-15",
-    "value": 0.11192,
-    "value_": 11.19225
+    "date": "2024-12-15",
+    "value": 0.11351,
+    "value_": 11.35104
+  },
+  {
+    "geoid": "51043",
+    "key": "some-college-aa",
+    "date": "2024-12-15",
+    "value": 0.26982,
+    "value_": 26.98214
+  },
+  {
+    "geoid": "51047",
+    "key": "some-college-aa",
+    "date": "2024-12-15",
+    "value": 0.28669,
+    "value_": 28.6689
   },
   {
     "geoid": "51059",
     "key": "some-college-aa",
-    "date": "2023-12-15",
-    "value": 0.16937,
-    "value_": 16.93748
+    "date": "2024-12-15",
+    "value": 0.16215,
+    "value_": 16.21518
   },
   {
     "geoid": "51061",
     "key": "some-college-aa",
-    "date": "2023-12-15",
-    "value": 0.2744,
-    "value_": 27.4404
+    "date": "2024-12-15",
+    "value": 0.26412,
+    "value_": 26.41167
   },
   {
     "geoid": "51107",
     "key": "some-college-aa",
-    "date": "2023-12-15",
-    "value": 0.1846,
-    "value_": 18.46032
+    "date": "2024-12-15",
+    "value": 0.17593,
+    "value_": 17.59279
   },
   {
     "geoid": "51153",
     "key": "some-college-aa",
-    "date": "2023-12-15",
-    "value": 0.2515,
-    "value_": 25.15033
+    "date": "2024-12-15",
+    "value": 0.24438,
+    "value_": 24.43843
+  },
+  {
+    "geoid": "51157",
+    "key": "some-college-aa",
+    "date": "2024-12-15",
+    "value": 0.23512,
+    "value_": 23.51196
+  },
+  {
+    "geoid": "51177",
+    "key": "some-college-aa",
+    "date": "2024-12-15",
+    "value": 0.28925,
+    "value_": 28.92498
   },
   {
     "geoid": "51179",
     "key": "some-college-aa",
-    "date": "2023-12-15",
-    "value": 0.28026,
-    "value_": 28.02638
+    "date": "2024-12-15",
+    "value": 0.27785,
+    "value_": 27.78461
+  },
+  {
+    "geoid": "51187",
+    "key": "some-college-aa",
+    "date": "2024-12-15",
+    "value": 0.29825,
+    "value_": 29.82504
   },
   {
     "geoid": "51510",
     "key": "some-college-aa",
-    "date": "2023-12-15",
-    "value": 0.16467,
-    "value_": 16.46657
+    "date": "2024-12-15",
+    "value": 0.16166,
+    "value_": 16.16628
+  },
+  {
+    "geoid": "51630",
+    "key": "some-college-aa",
+    "date": "2024-12-15",
+    "value": 0.25946,
+    "value_": 25.94585
+  },
+  {
+    "geoid": "54037",
+    "key": "some-college-aa",
+    "date": "2024-12-15",
+    "value": 0.27306,
+    "value_": 27.30594
   },
   {
     "geoid": "99997",
     "key": "some-college-aa",
-    "date": "2023-12-15",
-    "value": 0.26455,
-    "value_": 26.45544
+    "date": "2024-12-15",
+    "value": 0.26057,
+    "value_": 26.0573
   },
   {
     "geoid": "99999",
     "key": "some-college-aa",
-    "date": "2023-12-15",
-    "value": 0.28052,
-    "value_": 28.05177
+    "date": "2024-12-15",
+    "value": 0.2772,
+    "value_": 27.72025
   }
 ]

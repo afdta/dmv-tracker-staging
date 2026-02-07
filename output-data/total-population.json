@@ -119,6 +119,13 @@
     "value_": 174478
   },
   {
+    "geoid": "24021",
+    "key": "total-population",
+    "date": "2024-12-15",
+    "value": 299317,
+    "value_": 299317
+  },
+  {
     "geoid": "24031",
     "key": "total-population",
     "date": "2024-12-15",
@@ -420,6 +427,20 @@
     "value_": 239807
   },
   {
+    "geoid": "51043",
+    "key": "total-population",
+    "date": "2024-12-15",
+    "value": 15598,
+    "value_": 15598
+  },
+  {
+    "geoid": "51047",
+    "key": "total-population",
+    "date": "2024-12-15",
+    "value": 56125,
+    "value_": 56125
+  },
+  {
     "geoid": "51059",
     "key": "total-population",
     "date": "2024-12-15",
@@ -444,8 +465,22 @@
     "geoid": "51153",
     "key": "total-population",
     "date": "2024-12-15",
-    "value": 557230,
-    "value_": 557230
+    "value": 497003,
+    "value_": 497003
+  },
+  {
+    "geoid": "51157",
+    "key": "total-population",
+    "date": "2024-12-15",
+    "value": 7479,
+    "value_": 7479
+  },
+  {
+    "geoid": "51177",
+    "key": "total-population",
+    "date": "2024-12-15",
+    "value": 152021,
+    "value_": 152021
   },
   {
     "geoid": "51179",
@@ -455,6 +490,13 @@
     "value_": 168919
   },
   {
+    "geoid": "51187",
+    "key": "total-population",
+    "date": "2024-12-15",
+    "value": 42461,
+    "value_": 42461
+  },
+  {
     "geoid": "51510",
     "key": "total-population",
     "date": "2024-12-15",
@@ -462,11 +504,25 @@
     "value_": 159102
   },
   {
+    "geoid": "51630",
+    "key": "total-population",
+    "date": "2024-12-15",
+    "value": 29992,
+    "value_": 29992
+  },
+  {
+    "geoid": "54037",
+    "key": "total-population",
+    "date": "2024-12-15",
+    "value": 61264,
+    "value_": 61264
+  },
+  {
     "geoid": "99997",
     "key": "total-population",
     "date": "2024-12-15",
-    "value": 322140440,
-    "value_": 322140440
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "99999",
