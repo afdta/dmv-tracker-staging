@@ -377,7 +377,7 @@
       "format": "0.[0]",
       "format_change": "pct",
       "note": "Rolling 3-month average",
-      "last_updated": "DMV-2026-02-07",
+      "last_updated": "DMV-2025-12-11",
       "start": "2024-10-15",
       "end": "2025-10-15"
     },
@@ -392,7 +392,7 @@
       "format": "0.[0]",
       "format_change": "pct",
       "note": "Rolling 3-month average",
-      "last_updated": "DMV-2026-02-07",
+      "last_updated": "DMV-2025-12-11",
       "start": "2024-10-15",
       "end": "2025-10-15"
     },
@@ -407,7 +407,7 @@
       "format": "0.[0]",
       "format_change": "pct",
       "note": "Rolling 3-month average",
-      "last_updated": "DMV-2026-02-07",
+      "last_updated": "DMV-2025-12-11",
       "start": "2024-10-15",
       "end": "2025-10-15"
     },
@@ -422,7 +422,7 @@
       "format": "0.[0]",
       "format_change": "pct",
       "note": "Rolling 3-month average",
-      "last_updated": "DMV-2026-02-07",
+      "last_updated": "DMV-2025-12-11",
       "start": "2024-10-15",
       "end": "2025-10-15"
     },
@@ -437,7 +437,7 @@
       "format": "0.[0]",
       "format_change": "pct",
       "note": "Level",
-      "last_updated": "DMV-2026-02-07",
+      "last_updated": "DMV-2025-12-11",
       "start": "2024-10-15",
       "end": "2025-10-15"
     },
@@ -452,7 +452,7 @@
       "format": "0.[0]",
       "format_change": "pct",
       "note": "Level",
-      "last_updated": "DMV-2026-02-07",
+      "last_updated": "DMV-2025-12-11",
       "start": "2024-10-15",
       "end": "2025-10-15"
     },
@@ -467,7 +467,7 @@
       "format": "0.[0]",
       "format_change": "pct",
       "note": "Level",
-      "last_updated": "DMV-2026-02-07",
+      "last_updated": "DMV-2025-12-11",
       "start": "2024-10-15",
       "end": "2025-10-15"
     },
@@ -527,7 +527,7 @@
       "format": "$123k",
       "format_change": "pct",
       "note": "Rolling 12-month total",
-      "last_updated": "DMV-2026-02-07",
+      "last_updated": "DMV-2025-12-11",
       "start": "2024-11-15",
       "end": "2025-11-15"
     },
@@ -542,7 +542,7 @@
       "format": "$123k",
       "format_change": "pct",
       "note": "Rolling 12-month total",
-      "last_updated": "DMV-2026-02-07",
+      "last_updated": "DMV-2025-12-11",
       "start": "2024-11-15",
       "end": "2025-11-15"
     },
@@ -557,7 +557,7 @@
       "format": "$123k",
       "format_change": "pct",
       "note": "Rolling 12-month total",
-      "last_updated": "DMV-2026-02-07",
+      "last_updated": "DMV-2025-12-11",
       "start": "2024-11-15",
       "end": "2025-11-15"
     },
@@ -632,7 +632,7 @@
       "format": "0.[0]",
       "format_change": "pct",
       "note": "Rolling 12-month total",
-      "last_updated": "DMV-2026-02-07",
+      "last_updated": "DMV-2025-12-11",
       "start": "2024-11-15",
       "end": "2025-11-15"
     },
@@ -647,7 +647,7 @@
       "format": "$123k",
       "format_change": "pct",
       "note": "Rolling 12-month total",
-      "last_updated": "DMV-2026-02-07",
+      "last_updated": "DMV-2025-12-11",
       "start": "2024-11-15",
       "end": "2025-11-15"
     },
@@ -662,7 +662,7 @@
       "format": "123k",
       "format_change": "pct",
       "note": "Rolling 12-month total",
-      "last_updated": "DMV-2026-02-07",
+      "last_updated": "DMV-2025-12-11",
       "start": "2024-11-15",
       "end": "2025-11-15"
     },
@@ -677,7 +677,7 @@
       "format": "123k",
       "format_change": "pct",
       "note": "Level",
-      "last_updated": "DMV-2026-02-07",
+      "last_updated": "DMV-2025-12-11",
       "start": "2024-11-15",
       "end": "2025-11-15"
     },
@@ -692,7 +692,7 @@
       "format": "0.[0]",
       "format_change": "pct",
       "note": "Rolling 12-month total",
-      "last_updated": "DMV-2026-02-07",
+      "last_updated": "DMV-2025-12-11",
       "start": "2024-03-15",
       "end": "2025-03-15"
     },
@@ -707,7 +707,7 @@
       "format": "0.[0]%",
       "format_change": "pct_diff",
       "note": "Level",
-      "last_updated": "DMV-2026-02-07",
+      "last_updated": "DMV-2025-12-11",
       "start": "2024-03-15",
       "end": "2025-03-15"
     },
@@ -722,7 +722,7 @@
       "format": "0.[0]%",
       "format_change": "pct_diff",
       "note": "Level",
-      "last_updated": "DMV-2026-02-07",
+      "last_updated": "DMV-2025-12-11",
       "start": "2024-03-15",
       "end": "2025-03-15"
     },
@@ -737,7 +737,7 @@
       "format": "0.[0]",
       "format_change": "pct",
       "note": "Rolling 12-month total",
-      "last_updated": "DMV-2026-02-07",
+      "last_updated": "DMV-2025-12-11",
       "start": "2024-03-15",
       "end": "2025-03-15"
     },
@@ -812,7 +812,7 @@
       "format": "0.[0]%",
       "format_change": "null",
       "note": "Level",
-      "last_updated": "DMV-2026-02-07",
+      "last_updated": "DMV-2025-12-11",
       "start": "2024-12-15",
       "end": "2024-12-15"
     },
@@ -827,7 +827,7 @@
       "format": "0.[0]%",
       "format_change": "null",
       "note": "Level",
-      "last_updated": "DMV-2026-02-07",
+      "last_updated": "DMV-2025-12-11",
       "start": "2024-12-15",
       "end": "2024-12-15"
     },
@@ -842,7 +842,7 @@
       "format": "0.[0]%",
       "format_change": "null",
       "note": "Level",
-      "last_updated": "DMV-2026-02-07",
+      "last_updated": "DMV-2025-12-11",
       "start": "2024-12-15",
       "end": "2024-12-15"
     },
@@ -857,7 +857,7 @@
       "format": "0.[0]%",
       "format_change": "null",
       "note": "Level",
-      "last_updated": "DMV-2026-02-07",
+      "last_updated": "DMV-2025-12-11",
       "start": "2024-12-15",
       "end": "2024-12-15"
     },
@@ -872,7 +872,7 @@
       "format": "0.[0]%",
       "format_change": "null",
       "note": "Level",
-      "last_updated": "DMV-2026-02-07",
+      "last_updated": "DMV-2025-12-11",
       "start": "2024-12-15",
       "end": "2024-12-15"
     },
@@ -887,7 +887,7 @@
       "format": "0.[0]%",
       "format_change": "null",
       "note": "Level",
-      "last_updated": "DMV-2026-02-07",
+      "last_updated": "DMV-2025-12-11",
       "start": "2024-12-15",
       "end": "2024-12-15"
     },
@@ -902,7 +902,7 @@
       "format": "0.[0]%",
       "format_change": "null",
       "note": "Level",
-      "last_updated": "DMV-2026-02-07",
+      "last_updated": "DMV-2025-12-11",
       "start": "2024-12-15",
       "end": "2024-12-15"
     },
@@ -917,7 +917,7 @@
       "format": "0.[0]%",
       "format_change": "null",
       "note": "Level",
-      "last_updated": "DMV-2026-02-07",
+      "last_updated": "DMV-2025-12-11",
       "start": "2024-12-15",
       "end": "2024-12-15"
     }
