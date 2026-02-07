@@ -1,15 +1,20 @@
 library(tidyverse)
 library(jsonlite)
 library(readxl)
+library(here)
 #library(sf)
 
-params <- list(path_to_project_root = "", rdata_file_name = "gwp-source-data 7.rda", metadata_file_name = "metadata.xlsx")
+
+params <- list(
+  path_to_project_root = paste0(here(), "/Output/dmv-tracker-staging"), 
+  rdata_file_name = "gwp-source-data.rda", 
+  metadata_file_name = "metadata.xlsx"
+)
 
 #params$path_to_project_root = "~/Projects/Brookings/dmv-tracker-staging"
 
-
 #### load and process data
-load(file.path(params$path_to_project_root, "input-data", params$rdata_file_name) )
+load(file.path(params$path_to_project_root, "input-data", params$rdata_file_name))
 
 #transform M1, M2, etc into standard months
 m2d <- tibble(qm = c("M1", "M2", "M3", "M4", "M5", "M6", "M7", "M8", "M9", "M10", "M11", "M12", "Q1", "Q2", "Q3", "Q4","A1"),
