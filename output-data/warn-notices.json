@@ -17,8 +17,8 @@
     "geoid": "11001",
     "key": "warn-notices",
     "date": "2024-01-15",
-    "value": 1017,
-    "value_": 1017
+    "value": 811,
+    "value_": 811
   },
   {
     "geoid": "11001",
@@ -143,8 +143,8 @@
     "geoid": "15380",
     "key": "warn-notices",
     "date": "2023-01-15",
-    "value": 251,
-    "value_": 251
+    "value": 302,
+    "value_": 302
   },
   {
     "geoid": "15380",
@@ -163,58 +163,44 @@
   {
     "geoid": "16740",
     "key": "warn-notices",
-    "date": "2022-01-15",
-    "value": 315,
-    "value_": 315
-  },
-  {
-    "geoid": "16740",
-    "key": "warn-notices",
-    "date": "2023-01-15",
-    "value": 6,
-    "value_": 6
-  },
-  {
-    "geoid": "16740",
-    "key": "warn-notices",
     "date": "2024-01-15",
-    "value": 173,
-    "value_": 173
+    "value": 110,
+    "value_": 110
   },
   {
     "geoid": "16740",
     "key": "warn-notices",
     "date": "2025-01-15",
-    "value": 356,
-    "value_": 356
+    "value": 474,
+    "value_": 474
   },
   {
     "geoid": "16980",
     "key": "warn-notices",
     "date": "2022-01-15",
-    "value": 6357,
-    "value_": 6357
+    "value": 7197,
+    "value_": 7197
   },
   {
     "geoid": "16980",
     "key": "warn-notices",
     "date": "2023-01-15",
-    "value": 7961,
-    "value_": 7961
+    "value": 7934,
+    "value_": 7934
   },
   {
     "geoid": "16980",
     "key": "warn-notices",
     "date": "2024-01-15",
-    "value": 11225,
-    "value_": 11225
+    "value": 11636,
+    "value_": 11636
   },
   {
     "geoid": "16980",
     "key": "warn-notices",
     "date": "2025-01-15",
-    "value": 11380,
-    "value_": 11380
+    "value": 11457,
+    "value_": 11457
   },
   {
     "geoid": "17140",
@@ -304,8 +290,8 @@
     "geoid": "19100",
     "key": "warn-notices",
     "date": "2022-01-15",
-    "value": 6602,
-    "value_": 6602
+    "value": 5762,
+    "value_": 5762
   },
   {
     "geoid": "19100",
@@ -318,8 +304,8 @@
     "geoid": "19100",
     "key": "warn-notices",
     "date": "2024-01-15",
-    "value": 9316,
-    "value_": 9316
+    "value": 8830,
+    "value_": 8830
   },
   {
     "geoid": "19100",
@@ -374,8 +360,8 @@
     "geoid": "19820",
     "key": "warn-notices",
     "date": "2024-01-15",
-    "value": 15360,
-    "value_": 15360
+    "value": 15566,
+    "value_": 15566
   },
   {
     "geoid": "19820",
@@ -549,8 +535,8 @@
     "geoid": "25540",
     "key": "warn-notices",
     "date": "2025-01-15",
-    "value": 5295,
-    "value_": 5295
+    "value": 5300,
+    "value_": 5300
   },
   {
     "geoid": "26420",
@@ -563,8 +549,8 @@
     "geoid": "26420",
     "key": "warn-notices",
     "date": "2023-01-15",
-    "value": 1008,
-    "value_": 1008
+    "value": 1009,
+    "value_": 1009
   },
   {
     "geoid": "26420",
@@ -605,15 +591,15 @@
     "geoid": "26900",
     "key": "warn-notices",
     "date": "2025-01-15",
-    "value": 1052,
-    "value_": 1052
+    "value": 1177,
+    "value_": 1177
   },
   {
     "geoid": "27260",
     "key": "warn-notices",
     "date": "2022-01-15",
-    "value": 2560,
-    "value_": 2560
+    "value": 2129,
+    "value_": 2129
   },
   {
     "geoid": "27260",
@@ -626,15 +612,15 @@
     "geoid": "27260",
     "key": "warn-notices",
     "date": "2024-01-15",
-    "value": 1335,
-    "value_": 1335
+    "value": 1320,
+    "value_": 1320
   },
   {
     "geoid": "27260",
     "key": "warn-notices",
     "date": "2025-01-15",
-    "value": 1151,
-    "value_": 1151
+    "value": 1136,
+    "value_": 1136
   },
   {
     "geoid": "28140",
@@ -682,8 +668,8 @@
     "geoid": "31080",
     "key": "warn-notices",
     "date": "2024-01-15",
-    "value": 9373,
-    "value_": 9373
+    "value": 9345,
+    "value_": 9345
   },
   {
     "geoid": "31080",
@@ -738,8 +724,8 @@
     "geoid": "33100",
     "key": "warn-notices",
     "date": "2022-01-15",
-    "value": 3929,
-    "value_": 3929
+    "value": 4360,
+    "value_": 4360
   },
   {
     "geoid": "33100",
@@ -752,15 +738,15 @@
     "geoid": "33100",
     "key": "warn-notices",
     "date": "2024-01-15",
-    "value": 2856,
-    "value_": 2856
+    "value": 2871,
+    "value_": 2871
   },
   {
     "geoid": "33100",
     "key": "warn-notices",
     "date": "2025-01-15",
-    "value": 3737,
-    "value_": 3737
+    "value": 3852,
+    "value_": 3852
   },
   {
     "geoid": "33340",
@@ -815,8 +801,8 @@
     "geoid": "34980",
     "key": "warn-notices",
     "date": "2023-01-15",
-    "value": 145,
-    "value_": 145
+    "value": 180,
+    "value_": 180
   },
   {
     "geoid": "34980",
@@ -843,22 +829,22 @@
     "geoid": "35620",
     "key": "warn-notices",
     "date": "2023-01-15",
-    "value": 14351,
-    "value_": 14351
+    "value": 15747,
+    "value_": 15747
   },
   {
     "geoid": "35620",
     "key": "warn-notices",
     "date": "2024-01-15",
-    "value": 23294,
-    "value_": 23294
+    "value": 23287,
+    "value_": 23287
   },
   {
     "geoid": "35620",
     "key": "warn-notices",
     "date": "2025-01-15",
-    "value": 18952,
-    "value_": 18952
+    "value": 19356,
+    "value_": 19356
   },
   {
     "geoid": "36420",
@@ -1102,8 +1088,8 @@
     "geoid": "40900",
     "key": "warn-notices",
     "date": "2022-01-15",
-    "value": 1209,
-    "value_": 1209
+    "value": 958,
+    "value_": 958
   },
   {
     "geoid": "40900",
@@ -1116,8 +1102,8 @@
     "geoid": "40900",
     "key": "warn-notices",
     "date": "2024-01-15",
-    "value": 1987,
-    "value_": 1987
+    "value": 1962,
+    "value_": 1962
   },
   {
     "geoid": "40900",
@@ -1228,8 +1214,8 @@
     "geoid": "41740",
     "key": "warn-notices",
     "date": "2024-01-15",
-    "value": 6588,
-    "value_": 6588
+    "value": 6591,
+    "value_": 6591
   },
   {
     "geoid": "41740",
@@ -1256,15 +1242,15 @@
     "geoid": "41860",
     "key": "warn-notices",
     "date": "2024-01-15",
-    "value": 9647,
-    "value_": 9647
+    "value": 9594,
+    "value_": 9594
   },
   {
     "geoid": "41860",
     "key": "warn-notices",
     "date": "2025-01-15",
-    "value": 9550,
-    "value_": 9550
+    "value": 9549,
+    "value_": 9549
   },
   {
     "geoid": "41940",
@@ -1333,8 +1319,8 @@
     "geoid": "45300",
     "key": "warn-notices",
     "date": "2023-01-15",
-    "value": 787,
-    "value_": 787
+    "value": 729,
+    "value_": 729
   },
   {
     "geoid": "45300",
@@ -1424,8 +1410,8 @@
     "geoid": "47900",
     "key": "warn-notices",
     "date": "2024-01-15",
-    "value": 3485,
-    "value_": 3485
+    "value": 3279,
+    "value_": 3279
   },
   {
     "geoid": "47900",
@@ -1515,57 +1501,57 @@
     "geoid": "99997",
     "key": "warn-notices",
     "date": "2022-01-15",
-    "value": 79244,
-    "value_": 79244
+    "value": 78678,
+    "value_": 78678
   },
   {
     "geoid": "99997",
     "key": "warn-notices",
     "date": "2023-01-15",
-    "value": 133706,
-    "value_": 133706
+    "value": 135271,
+    "value_": 135271
   },
   {
     "geoid": "99997",
     "key": "warn-notices",
     "date": "2024-01-15",
-    "value": 171312,
-    "value_": 171312
+    "value": 171064,
+    "value_": 171064
   },
   {
     "geoid": "99997",
     "key": "warn-notices",
     "date": "2025-01-15",
-    "value": 173463,
-    "value_": 173463
+    "value": 174291,
+    "value_": 174291
   },
   {
     "geoid": "99999",
     "key": "warn-notices",
     "date": "2022-01-15",
-    "value": 135175,
-    "value_": 135175
+    "value": 131665,
+    "value_": 131665
   },
   {
     "geoid": "99999",
     "key": "warn-notices",
     "date": "2023-01-15",
-    "value": 201197,
-    "value_": 201197
+    "value": 202756,
+    "value_": 202756
   },
   {
     "geoid": "99999",
     "key": "warn-notices",
     "date": "2024-01-15",
-    "value": 305735,
-    "value_": 305735
+    "value": 305695,
+    "value_": 305695
   },
   {
     "geoid": "99999",
     "key": "warn-notices",
     "date": "2025-01-15",
-    "value": 266824,
-    "value_": 266824
+    "value": 268637,
+    "value_": 268637
   },
   {
     "geoid": "11001",
@@ -1585,8 +1571,8 @@
     "geoid": "11001",
     "key": "warn-notices",
     "date": "2024-02-15",
-    "value": 1207,
-    "value_": 1207
+    "value": 1001,
+    "value_": 1001
   },
   {
     "geoid": "11001",
@@ -1718,8 +1704,8 @@
     "geoid": "15380",
     "key": "warn-notices",
     "date": "2023-02-15",
-    "value": 251,
-    "value_": 251
+    "value": 302,
+    "value_": 302
   },
   {
     "geoid": "15380",
@@ -1738,44 +1724,44 @@
   {
     "geoid": "16740",
     "key": "warn-notices",
-    "date": "2022-02-15",
-    "value": 315,
-    "value_": 315
+    "date": "2024-02-15",
+    "value": 110,
+    "value_": 110
   },
   {
     "geoid": "16740",
     "key": "warn-notices",
-    "date": "2023-02-15",
-    "value": 177,
-    "value_": 177
+    "date": "2025-02-15",
+    "value": 474,
+    "value_": 474
   },
   {
     "geoid": "16980",
     "key": "warn-notices",
     "date": "2022-02-15",
-    "value": 5450,
-    "value_": 5450
+    "value": 5915,
+    "value_": 5915
   },
   {
     "geoid": "16980",
     "key": "warn-notices",
     "date": "2023-02-15",
-    "value": 8725,
-    "value_": 8725
+    "value": 8698,
+    "value_": 8698
   },
   {
     "geoid": "16980",
     "key": "warn-notices",
     "date": "2024-02-15",
-    "value": 10676,
-    "value_": 10676
+    "value": 11087,
+    "value_": 11087
   },
   {
     "geoid": "16980",
     "key": "warn-notices",
     "date": "2025-02-15",
-    "value": 12529,
-    "value_": 12529
+    "value": 12784,
+    "value_": 12784
   },
   {
     "geoid": "17140",
@@ -1865,8 +1851,8 @@
     "geoid": "19100",
     "key": "warn-notices",
     "date": "2022-02-15",
-    "value": 3105,
-    "value_": 3105
+    "value": 2640,
+    "value_": 2640
   },
   {
     "geoid": "19100",
@@ -1879,8 +1865,8 @@
     "geoid": "19100",
     "key": "warn-notices",
     "date": "2024-02-15",
-    "value": 9182,
-    "value_": 9182
+    "value": 8696,
+    "value_": 8696
   },
   {
     "geoid": "19100",
@@ -1935,8 +1921,8 @@
     "geoid": "19820",
     "key": "warn-notices",
     "date": "2024-02-15",
-    "value": 16270,
-    "value_": 16270
+    "value": 16476,
+    "value_": 16476
   },
   {
     "geoid": "19820",
@@ -2110,8 +2096,8 @@
     "geoid": "25540",
     "key": "warn-notices",
     "date": "2025-02-15",
-    "value": 5401,
-    "value_": 5401
+    "value": 5406,
+    "value_": 5406
   },
   {
     "geoid": "26420",
@@ -2124,8 +2110,8 @@
     "geoid": "26420",
     "key": "warn-notices",
     "date": "2023-02-15",
-    "value": 1302,
-    "value_": 1302
+    "value": 1303,
+    "value_": 1303
   },
   {
     "geoid": "26420",
@@ -2166,15 +2152,15 @@
     "geoid": "26900",
     "key": "warn-notices",
     "date": "2025-02-15",
-    "value": 1129,
-    "value_": 1129
+    "value": 1254,
+    "value_": 1254
   },
   {
     "geoid": "27260",
     "key": "warn-notices",
     "date": "2022-02-15",
-    "value": 2505,
-    "value_": 2505
+    "value": 2074,
+    "value_": 2074
   },
   {
     "geoid": "27260",
@@ -2187,15 +2173,15 @@
     "geoid": "27260",
     "key": "warn-notices",
     "date": "2024-02-15",
-    "value": 1256,
-    "value_": 1256
+    "value": 1241,
+    "value_": 1241
   },
   {
     "geoid": "27260",
     "key": "warn-notices",
     "date": "2025-02-15",
-    "value": 1152,
-    "value_": 1152
+    "value": 1137,
+    "value_": 1137
   },
   {
     "geoid": "28140",
@@ -2243,8 +2229,8 @@
     "geoid": "31080",
     "key": "warn-notices",
     "date": "2024-02-15",
-    "value": 7119,
-    "value_": 7119
+    "value": 7091,
+    "value_": 7091
   },
   {
     "geoid": "31080",
@@ -2313,8 +2299,8 @@
     "geoid": "33100",
     "key": "warn-notices",
     "date": "2022-02-15",
-    "value": 2716,
-    "value_": 2716
+    "value": 3147,
+    "value_": 3147
   },
   {
     "geoid": "33100",
@@ -2327,15 +2313,15 @@
     "geoid": "33100",
     "key": "warn-notices",
     "date": "2024-02-15",
-    "value": 3230,
-    "value_": 3230
+    "value": 3245,
+    "value_": 3245
   },
   {
     "geoid": "33100",
     "key": "warn-notices",
     "date": "2025-02-15",
-    "value": 4156,
-    "value_": 4156
+    "value": 4271,
+    "value_": 4271
   },
   {
     "geoid": "33340",
@@ -2390,8 +2376,8 @@
     "geoid": "34980",
     "key": "warn-notices",
     "date": "2023-02-15",
-    "value": 222,
-    "value_": 222
+    "value": 257,
+    "value_": 257
   },
   {
     "geoid": "34980",
@@ -2418,22 +2404,22 @@
     "geoid": "35620",
     "key": "warn-notices",
     "date": "2023-02-15",
-    "value": 16156,
-    "value_": 16156
+    "value": 17555,
+    "value_": 17555
   },
   {
     "geoid": "35620",
     "key": "warn-notices",
     "date": "2024-02-15",
-    "value": 27263,
-    "value_": 27263
+    "value": 27253,
+    "value_": 27253
   },
   {
     "geoid": "35620",
     "key": "warn-notices",
     "date": "2025-02-15",
-    "value": 14077,
-    "value_": 14077
+    "value": 14481,
+    "value_": 14481
   },
   {
     "geoid": "36420",
@@ -2684,8 +2670,8 @@
     "geoid": "40900",
     "key": "warn-notices",
     "date": "2022-02-15",
-    "value": 1215,
-    "value_": 1215
+    "value": 964,
+    "value_": 964
   },
   {
     "geoid": "40900",
@@ -2698,8 +2684,8 @@
     "geoid": "40900",
     "key": "warn-notices",
     "date": "2024-02-15",
-    "value": 1158,
-    "value_": 1158
+    "value": 1133,
+    "value_": 1133
   },
   {
     "geoid": "40900",
@@ -2803,8 +2789,8 @@
     "geoid": "41740",
     "key": "warn-notices",
     "date": "2023-02-15",
-    "value": 7381,
-    "value_": 7381
+    "value": 7384,
+    "value_": 7384
   },
   {
     "geoid": "41740",
@@ -2831,22 +2817,22 @@
     "geoid": "41860",
     "key": "warn-notices",
     "date": "2023-02-15",
-    "value": 16174,
-    "value_": 16174
+    "value": 16171,
+    "value_": 16171
   },
   {
     "geoid": "41860",
     "key": "warn-notices",
     "date": "2024-02-15",
-    "value": 8238,
-    "value_": 8238
+    "value": 8188,
+    "value_": 8188
   },
   {
     "geoid": "41860",
     "key": "warn-notices",
     "date": "2025-02-15",
-    "value": 12150,
-    "value_": 12150
+    "value": 12149,
+    "value_": 12149
   },
   {
     "geoid": "41940",
@@ -2915,8 +2901,8 @@
     "geoid": "45300",
     "key": "warn-notices",
     "date": "2023-02-15",
-    "value": 816,
-    "value_": 816
+    "value": 758,
+    "value_": 758
   },
   {
     "geoid": "45300",
@@ -3013,8 +2999,8 @@
     "geoid": "47900",
     "key": "warn-notices",
     "date": "2024-02-15",
-    "value": 3586,
-    "value_": 3586
+    "value": 3380,
+    "value_": 3380
   },
   {
     "geoid": "47900",
@@ -3118,57 +3104,57 @@
     "geoid": "99997",
     "key": "warn-notices",
     "date": "2022-02-15",
-    "value": 69615,
-    "value_": 69615
+    "value": 69049,
+    "value_": 69049
   },
   {
     "geoid": "99997",
     "key": "warn-notices",
     "date": "2023-02-15",
-    "value": 148310,
-    "value_": 148310
+    "value": 149707,
+    "value_": 149707
   },
   {
     "geoid": "99997",
     "key": "warn-notices",
     "date": "2024-02-15",
-    "value": 170737,
-    "value_": 170737
+    "value": 170657,
+    "value_": 170657
   },
   {
     "geoid": "99997",
     "key": "warn-notices",
     "date": "2025-02-15",
-    "value": 177857,
-    "value_": 177857
+    "value": 178863,
+    "value_": 178863
   },
   {
     "geoid": "99999",
     "key": "warn-notices",
     "date": "2022-02-15",
-    "value": 122221,
-    "value_": 122221
+    "value": 119671,
+    "value_": 119671
   },
   {
     "geoid": "99999",
     "key": "warn-notices",
     "date": "2023-02-15",
-    "value": 224223,
-    "value_": 224223
+    "value": 225078,
+    "value_": 225078
   },
   {
     "geoid": "99999",
     "key": "warn-notices",
     "date": "2024-02-15",
-    "value": 306168,
-    "value_": 306168
+    "value": 306306,
+    "value_": 306306
   },
   {
     "geoid": "99999",
     "key": "warn-notices",
     "date": "2025-02-15",
-    "value": 268291,
-    "value_": 268291
+    "value": 271049,
+    "value_": 271049
   },
   {
     "geoid": "11001",
@@ -3188,8 +3174,8 @@
     "geoid": "11001",
     "key": "warn-notices",
     "date": "2024-03-15",
-    "value": 1402,
-    "value_": 1402
+    "value": 1196,
+    "value_": 1196
   },
   {
     "geoid": "11001",
@@ -3321,8 +3307,8 @@
     "geoid": "15380",
     "key": "warn-notices",
     "date": "2023-03-15",
-    "value": 383,
-    "value_": 383
+    "value": 434,
+    "value_": 434
   },
   {
     "geoid": "15380",
@@ -3341,58 +3327,44 @@
   {
     "geoid": "16740",
     "key": "warn-notices",
-    "date": "2022-03-15",
-    "value": 286,
-    "value_": 286
-  },
-  {
-    "geoid": "16740",
-    "key": "warn-notices",
-    "date": "2023-03-15",
-    "value": 178,
-    "value_": 178
-  },
-  {
-    "geoid": "16740",
-    "key": "warn-notices",
     "date": "2024-03-15",
-    "value": 193,
-    "value_": 193
+    "value": 302,
+    "value_": 302
   },
   {
     "geoid": "16740",
     "key": "warn-notices",
     "date": "2025-03-15",
-    "value": 343,
-    "value_": 343
+    "value": 282,
+    "value_": 282
   },
   {
     "geoid": "16980",
     "key": "warn-notices",
     "date": "2022-03-15",
-    "value": 5529,
-    "value_": 5529
+    "value": 5941,
+    "value_": 5941
   },
   {
     "geoid": "16980",
     "key": "warn-notices",
     "date": "2023-03-15",
-    "value": 8304,
-    "value_": 8304
+    "value": 8277,
+    "value_": 8277
   },
   {
     "geoid": "16980",
     "key": "warn-notices",
     "date": "2024-03-15",
-    "value": 11037,
-    "value_": 11037
+    "value": 11448,
+    "value_": 11448
   },
   {
     "geoid": "16980",
     "key": "warn-notices",
     "date": "2025-03-15",
-    "value": 13548,
-    "value_": 13548
+    "value": 13803,
+    "value_": 13803
   },
   {
     "geoid": "17140",
@@ -3482,8 +3454,8 @@
     "geoid": "19100",
     "key": "warn-notices",
     "date": "2022-03-15",
-    "value": 2642,
-    "value_": 2642
+    "value": 2230,
+    "value_": 2230
   },
   {
     "geoid": "19100",
@@ -3496,8 +3468,8 @@
     "geoid": "19100",
     "key": "warn-notices",
     "date": "2024-03-15",
-    "value": 7957,
-    "value_": 7957
+    "value": 7471,
+    "value_": 7471
   },
   {
     "geoid": "19100",
@@ -3552,8 +3524,8 @@
     "geoid": "19820",
     "key": "warn-notices",
     "date": "2024-03-15",
-    "value": 15080,
-    "value_": 15080
+    "value": 15286,
+    "value_": 15286
   },
   {
     "geoid": "19820",
@@ -3734,8 +3706,8 @@
     "geoid": "25540",
     "key": "warn-notices",
     "date": "2025-03-15",
-    "value": 5401,
-    "value_": 5401
+    "value": 5406,
+    "value_": 5406
   },
   {
     "geoid": "26420",
@@ -3748,8 +3720,8 @@
     "geoid": "26420",
     "key": "warn-notices",
     "date": "2023-03-15",
-    "value": 1208,
-    "value_": 1208
+    "value": 1209,
+    "value_": 1209
   },
   {
     "geoid": "26420",
@@ -3790,15 +3762,15 @@
     "geoid": "26900",
     "key": "warn-notices",
     "date": "2025-03-15",
-    "value": 1092,
-    "value_": 1092
+    "value": 1217,
+    "value_": 1217
   },
   {
     "geoid": "27260",
     "key": "warn-notices",
     "date": "2022-03-15",
-    "value": 2505,
-    "value_": 2505
+    "value": 2074,
+    "value_": 2074
   },
   {
     "geoid": "27260",
@@ -3811,15 +3783,15 @@
     "geoid": "27260",
     "key": "warn-notices",
     "date": "2024-03-15",
-    "value": 1412,
-    "value_": 1412
+    "value": 1397,
+    "value_": 1397
   },
   {
     "geoid": "27260",
     "key": "warn-notices",
     "date": "2025-03-15",
-    "value": 1443,
-    "value_": 1443
+    "value": 1283,
+    "value_": 1283
   },
   {
     "geoid": "28140",
@@ -3860,15 +3832,15 @@
     "geoid": "31080",
     "key": "warn-notices",
     "date": "2023-03-15",
-    "value": 13230,
-    "value_": 13230
+    "value": 13226,
+    "value_": 13226
   },
   {
     "geoid": "31080",
     "key": "warn-notices",
     "date": "2024-03-15",
-    "value": 7145,
-    "value_": 7145
+    "value": 7121,
+    "value_": 7121
   },
   {
     "geoid": "31080",
@@ -3937,8 +3909,8 @@
     "geoid": "33100",
     "key": "warn-notices",
     "date": "2022-03-15",
-    "value": 2716,
-    "value_": 2716
+    "value": 3147,
+    "value_": 3147
   },
   {
     "geoid": "33100",
@@ -3951,15 +3923,15 @@
     "geoid": "33100",
     "key": "warn-notices",
     "date": "2024-03-15",
-    "value": 3619,
-    "value_": 3619
+    "value": 3634,
+    "value_": 3634
   },
   {
     "geoid": "33100",
     "key": "warn-notices",
     "date": "2025-03-15",
-    "value": 4711,
-    "value_": 4711
+    "value": 4971,
+    "value_": 4971
   },
   {
     "geoid": "33340",
@@ -4014,8 +3986,8 @@
     "geoid": "34980",
     "key": "warn-notices",
     "date": "2023-03-15",
-    "value": 222,
-    "value_": 222
+    "value": 257,
+    "value_": 257
   },
   {
     "geoid": "34980",
@@ -4042,22 +4014,22 @@
     "geoid": "35620",
     "key": "warn-notices",
     "date": "2023-03-15",
-    "value": 16592,
-    "value_": 16592
+    "value": 18069,
+    "value_": 18069
   },
   {
     "geoid": "35620",
     "key": "warn-notices",
     "date": "2024-03-15",
-    "value": 26051,
-    "value_": 26051
+    "value": 25963,
+    "value_": 25963
   },
   {
     "geoid": "35620",
     "key": "warn-notices",
     "date": "2025-03-15",
-    "value": 14386,
-    "value_": 14386
+    "value": 14978,
+    "value_": 14978
   },
   {
     "geoid": "36420",
@@ -4301,22 +4273,22 @@
     "geoid": "40380",
     "key": "warn-notices",
     "date": "2025-03-15",
-    "value": 348,
-    "value_": 348
+    "value": 397,
+    "value_": 397
   },
   {
     "geoid": "40900",
     "key": "warn-notices",
     "date": "2022-03-15",
-    "value": 1233,
-    "value_": 1233
+    "value": 982,
+    "value_": 982
   },
   {
     "geoid": "40900",
     "key": "warn-notices",
     "date": "2023-03-15",
-    "value": 3382,
-    "value_": 3382
+    "value": 3357,
+    "value_": 3357
   },
   {
     "geoid": "40900",
@@ -4427,8 +4399,8 @@
     "geoid": "41740",
     "key": "warn-notices",
     "date": "2023-03-15",
-    "value": 7101,
-    "value_": 7101
+    "value": 7104,
+    "value_": 7104
   },
   {
     "geoid": "41740",
@@ -4455,22 +4427,22 @@
     "geoid": "41860",
     "key": "warn-notices",
     "date": "2023-03-15",
-    "value": 17270,
-    "value_": 17270
+    "value": 17267,
+    "value_": 17267
   },
   {
     "geoid": "41860",
     "key": "warn-notices",
     "date": "2024-03-15",
-    "value": 7271,
-    "value_": 7271
+    "value": 7221,
+    "value_": 7221
   },
   {
     "geoid": "41860",
     "key": "warn-notices",
     "date": "2025-03-15",
-    "value": 14060,
-    "value_": 14060
+    "value": 14059,
+    "value_": 14059
   },
   {
     "geoid": "41940",
@@ -4539,8 +4511,8 @@
     "geoid": "45300",
     "key": "warn-notices",
     "date": "2023-03-15",
-    "value": 1024,
-    "value_": 1024
+    "value": 966,
+    "value_": 966
   },
   {
     "geoid": "45300",
@@ -4637,8 +4609,8 @@
     "geoid": "47900",
     "key": "warn-notices",
     "date": "2024-03-15",
-    "value": 3776,
-    "value_": 3776
+    "value": 3570,
+    "value_": 3570
   },
   {
     "geoid": "47900",
@@ -4749,57 +4721,57 @@
     "geoid": "99997",
     "key": "warn-notices",
     "date": "2022-03-15",
-    "value": 70214,
-    "value_": 70214
+    "value": 69677,
+    "value_": 69677
   },
   {
     "geoid": "99997",
     "key": "warn-notices",
     "date": "2023-03-15",
-    "value": 157987,
-    "value_": 157987
+    "value": 159432,
+    "value_": 159432
   },
   {
     "geoid": "99997",
     "key": "warn-notices",
     "date": "2024-03-15",
-    "value": 163873,
-    "value_": 163873
+    "value": 163745,
+    "value_": 163745
   },
   {
     "geoid": "99997",
     "key": "warn-notices",
     "date": "2025-03-15",
-    "value": 187803,
-    "value_": 187803
+    "value": 188867,
+    "value_": 188867
   },
   {
     "geoid": "99999",
     "key": "warn-notices",
     "date": "2022-03-15",
-    "value": 122952,
-    "value_": 122952
+    "value": 121004,
+    "value_": 121004
   },
   {
     "geoid": "99999",
     "key": "warn-notices",
     "date": "2023-03-15",
-    "value": 236364,
-    "value_": 236364
+    "value": 237218,
+    "value_": 237218
   },
   {
     "geoid": "99999",
     "key": "warn-notices",
     "date": "2024-03-15",
-    "value": 296231,
-    "value_": 296231
+    "value": 296354,
+    "value_": 296354
   },
   {
     "geoid": "99999",
     "key": "warn-notices",
     "date": "2025-03-15",
-    "value": 285710,
-    "value_": 285710
+    "value": 288669,
+    "value_": 288669
   },
   {
     "geoid": "11001",
@@ -4819,8 +4791,8 @@
     "geoid": "11001",
     "key": "warn-notices",
     "date": "2024-04-15",
-    "value": 1402,
-    "value_": 1402
+    "value": 1196,
+    "value_": 1196
   },
   {
     "geoid": "11001",
@@ -4952,8 +4924,8 @@
     "geoid": "15380",
     "key": "warn-notices",
     "date": "2023-04-15",
-    "value": 383,
-    "value_": 383
+    "value": 434,
+    "value_": 434
   },
   {
     "geoid": "15380",
@@ -4972,58 +4944,44 @@
   {
     "geoid": "16740",
     "key": "warn-notices",
-    "date": "2022-04-15",
+    "date": "2024-04-15",
+    "value": 302,
+    "value_": 302
+  },
+  {
+    "geoid": "16740",
+    "key": "warn-notices",
+    "date": "2025-04-15",
     "value": 282,
     "value_": 282
   },
   {
-    "geoid": "16740",
-    "key": "warn-notices",
-    "date": "2023-04-15",
-    "value": 178,
-    "value_": 178
-  },
-  {
-    "geoid": "16740",
-    "key": "warn-notices",
-    "date": "2024-04-15",
-    "value": 193,
-    "value_": 193
-  },
-  {
-    "geoid": "16740",
-    "key": "warn-notices",
-    "date": "2025-04-15",
-    "value": 343,
-    "value_": 343
-  },
-  {
     "geoid": "16980",
     "key": "warn-notices",
     "date": "2022-04-15",
-    "value": 5679,
-    "value_": 5679
+    "value": 6091,
+    "value_": 6091
   },
   {
     "geoid": "16980",
     "key": "warn-notices",
     "date": "2023-04-15",
-    "value": 8970,
-    "value_": 8970
+    "value": 8868,
+    "value_": 8868
   },
   {
     "geoid": "16980",
     "key": "warn-notices",
     "date": "2024-04-15",
-    "value": 11853,
-    "value_": 11853
+    "value": 12339,
+    "value_": 12339
   },
   {
     "geoid": "16980",
     "key": "warn-notices",
     "date": "2025-04-15",
-    "value": 12098,
-    "value_": 12098
+    "value": 12353,
+    "value_": 12353
   },
   {
     "geoid": "17140",
@@ -5113,8 +5071,8 @@
     "geoid": "19100",
     "key": "warn-notices",
     "date": "2022-04-15",
-    "value": 2433,
-    "value_": 2433
+    "value": 2021,
+    "value_": 2021
   },
   {
     "geoid": "19100",
@@ -5127,8 +5085,8 @@
     "geoid": "19100",
     "key": "warn-notices",
     "date": "2024-04-15",
-    "value": 7757,
-    "value_": 7757
+    "value": 7271,
+    "value_": 7271
   },
   {
     "geoid": "19100",
@@ -5183,8 +5141,8 @@
     "geoid": "19820",
     "key": "warn-notices",
     "date": "2024-04-15",
-    "value": 16212,
-    "value_": 16212
+    "value": 16418,
+    "value_": 16418
   },
   {
     "geoid": "19820",
@@ -5365,8 +5323,8 @@
     "geoid": "25540",
     "key": "warn-notices",
     "date": "2025-04-15",
-    "value": 5401,
-    "value_": 5401
+    "value": 5406,
+    "value_": 5406
   },
   {
     "geoid": "26420",
@@ -5379,8 +5337,8 @@
     "geoid": "26420",
     "key": "warn-notices",
     "date": "2023-04-15",
-    "value": 1208,
-    "value_": 1208
+    "value": 1209,
+    "value_": 1209
   },
   {
     "geoid": "26420",
@@ -5421,15 +5379,15 @@
     "geoid": "26900",
     "key": "warn-notices",
     "date": "2025-04-15",
-    "value": 855,
-    "value_": 855
+    "value": 980,
+    "value_": 980
   },
   {
     "geoid": "27260",
     "key": "warn-notices",
     "date": "2022-04-15",
-    "value": 1215,
-    "value_": 1215
+    "value": 784,
+    "value_": 784
   },
   {
     "geoid": "27260",
@@ -5442,15 +5400,15 @@
     "geoid": "27260",
     "key": "warn-notices",
     "date": "2024-04-15",
-    "value": 1275,
-    "value_": 1275
+    "value": 1260,
+    "value_": 1260
   },
   {
     "geoid": "27260",
     "key": "warn-notices",
     "date": "2025-04-15",
-    "value": 1933,
-    "value_": 1933
+    "value": 1773,
+    "value_": 1773
   },
   {
     "geoid": "28140",
@@ -5491,15 +5449,15 @@
     "geoid": "31080",
     "key": "warn-notices",
     "date": "2023-04-15",
-    "value": 13698,
-    "value_": 13698
+    "value": 13694,
+    "value_": 13694
   },
   {
     "geoid": "31080",
     "key": "warn-notices",
     "date": "2024-04-15",
-    "value": 6148,
-    "value_": 6148
+    "value": 6124,
+    "value_": 6124
   },
   {
     "geoid": "31080",
@@ -5568,8 +5526,8 @@
     "geoid": "33100",
     "key": "warn-notices",
     "date": "2022-04-15",
-    "value": 2804,
-    "value_": 2804
+    "value": 3235,
+    "value_": 3235
   },
   {
     "geoid": "33100",
@@ -5582,15 +5540,15 @@
     "geoid": "33100",
     "key": "warn-notices",
     "date": "2024-04-15",
-    "value": 3608,
-    "value_": 3608
+    "value": 3623,
+    "value_": 3623
   },
   {
     "geoid": "33100",
     "key": "warn-notices",
     "date": "2025-04-15",
-    "value": 4852,
-    "value_": 4852
+    "value": 5112,
+    "value_": 5112
   },
   {
     "geoid": "33340",
@@ -5645,8 +5603,8 @@
     "geoid": "34980",
     "key": "warn-notices",
     "date": "2023-04-15",
-    "value": 276,
-    "value_": 276
+    "value": 311,
+    "value_": 311
   },
   {
     "geoid": "34980",
@@ -5673,22 +5631,22 @@
     "geoid": "35620",
     "key": "warn-notices",
     "date": "2023-04-15",
-    "value": 19778,
-    "value_": 19778
+    "value": 21167,
+    "value_": 21167
   },
   {
     "geoid": "35620",
     "key": "warn-notices",
     "date": "2024-04-15",
-    "value": 22582,
-    "value_": 22582
+    "value": 22738,
+    "value_": 22738
   },
   {
     "geoid": "35620",
     "key": "warn-notices",
     "date": "2025-04-15",
-    "value": 14683,
-    "value_": 14683
+    "value": 15119,
+    "value_": 15119
   },
   {
     "geoid": "36420",
@@ -5918,22 +5876,22 @@
     "geoid": "40380",
     "key": "warn-notices",
     "date": "2025-04-15",
-    "value": 509,
-    "value_": 509
+    "value": 600,
+    "value_": 600
   },
   {
     "geoid": "40900",
     "key": "warn-notices",
     "date": "2022-04-15",
-    "value": 1219,
-    "value_": 1219
+    "value": 968,
+    "value_": 968
   },
   {
     "geoid": "40900",
     "key": "warn-notices",
     "date": "2023-04-15",
-    "value": 3564,
-    "value_": 3564
+    "value": 3539,
+    "value_": 3539
   },
   {
     "geoid": "40900",
@@ -6044,8 +6002,8 @@
     "geoid": "41740",
     "key": "warn-notices",
     "date": "2023-04-15",
-    "value": 7522,
-    "value_": 7522
+    "value": 7525,
+    "value_": 7525
   },
   {
     "geoid": "41740",
@@ -6072,15 +6030,15 @@
     "geoid": "41860",
     "key": "warn-notices",
     "date": "2023-04-15",
-    "value": 19990,
-    "value_": 19990
+    "value": 19934,
+    "value_": 19934
   },
   {
     "geoid": "41860",
     "key": "warn-notices",
     "date": "2024-04-15",
-    "value": 5474,
-    "value_": 5474
+    "value": 5476,
+    "value_": 5476
   },
   {
     "geoid": "41860",
@@ -6156,8 +6114,8 @@
     "geoid": "45300",
     "key": "warn-notices",
     "date": "2023-04-15",
-    "value": 848,
-    "value_": 848
+    "value": 790,
+    "value_": 790
   },
   {
     "geoid": "45300",
@@ -6247,8 +6205,8 @@
     "geoid": "47900",
     "key": "warn-notices",
     "date": "2024-04-15",
-    "value": 3706,
-    "value_": 3706
+    "value": 3500,
+    "value_": 3500
   },
   {
     "geoid": "47900",
@@ -6380,57 +6338,57 @@
     "geoid": "99997",
     "key": "warn-notices",
     "date": "2022-04-15",
-    "value": 66450,
-    "value_": 66450
+    "value": 65917,
+    "value_": 65917
   },
   {
     "geoid": "99997",
     "key": "warn-notices",
     "date": "2023-04-15",
-    "value": 169082,
-    "value_": 169082
+    "value": 170311,
+    "value_": 170311
   },
   {
     "geoid": "99997",
     "key": "warn-notices",
     "date": "2024-04-15",
-    "value": 162232,
-    "value_": 162232
+    "value": 162475,
+    "value_": 162475
   },
   {
     "geoid": "99997",
     "key": "warn-notices",
     "date": "2025-04-15",
-    "value": 190407,
-    "value_": 190407
+    "value": 191358,
+    "value_": 191358
   },
   {
     "geoid": "99999",
     "key": "warn-notices",
     "date": "2022-04-15",
-    "value": 118731,
-    "value_": 118731
+    "value": 116751,
+    "value_": 116751
   },
   {
     "geoid": "99999",
     "key": "warn-notices",
     "date": "2023-04-15",
-    "value": 257716,
-    "value_": 257716
+    "value": 258804,
+    "value_": 258804
   },
   {
     "geoid": "99999",
     "key": "warn-notices",
     "date": "2024-04-15",
-    "value": 284378,
-    "value_": 284378
+    "value": 284829,
+    "value_": 284829
   },
   {
     "geoid": "99999",
     "key": "warn-notices",
     "date": "2025-04-15",
-    "value": 291813,
-    "value_": 291813
+    "value": 294603,
+    "value_": 294603
   },
   {
     "geoid": "11001",
@@ -6443,8 +6401,8 @@
     "geoid": "11001",
     "key": "warn-notices",
     "date": "2023-05-15",
-    "value": 1327,
-    "value_": 1327
+    "value": 1121,
+    "value_": 1121
   },
   {
     "geoid": "11001",
@@ -6583,8 +6541,8 @@
     "geoid": "15380",
     "key": "warn-notices",
     "date": "2023-05-15",
-    "value": 1344,
-    "value_": 1344
+    "value": 1395,
+    "value_": 1395
   },
   {
     "geoid": "15380",
@@ -6603,58 +6561,44 @@
   {
     "geoid": "16740",
     "key": "warn-notices",
-    "date": "2022-05-15",
-    "value": 154,
-    "value_": 154
-  },
-  {
-    "geoid": "16740",
-    "key": "warn-notices",
-    "date": "2023-05-15",
-    "value": 179,
-    "value_": 179
-  },
-  {
-    "geoid": "16740",
-    "key": "warn-notices",
     "date": "2024-05-15",
-    "value": 192,
-    "value_": 192
+    "value": 302,
+    "value_": 302
   },
   {
     "geoid": "16740",
     "key": "warn-notices",
     "date": "2025-05-15",
-    "value": 343,
-    "value_": 343
+    "value": 282,
+    "value_": 282
   },
   {
     "geoid": "16980",
     "key": "warn-notices",
     "date": "2022-05-15",
-    "value": 6717,
-    "value_": 6717
+    "value": 7129,
+    "value_": 7129
   },
   {
     "geoid": "16980",
     "key": "warn-notices",
     "date": "2023-05-15",
-    "value": 9006,
-    "value_": 9006
+    "value": 8904,
+    "value_": 8904
   },
   {
     "geoid": "16980",
     "key": "warn-notices",
     "date": "2024-05-15",
-    "value": 11337,
-    "value_": 11337
+    "value": 11823,
+    "value_": 11823
   },
   {
     "geoid": "16980",
     "key": "warn-notices",
     "date": "2025-05-15",
-    "value": 12087,
-    "value_": 12087
+    "value": 12435,
+    "value_": 12435
   },
   {
     "geoid": "17140",
@@ -6744,8 +6688,8 @@
     "geoid": "19100",
     "key": "warn-notices",
     "date": "2022-05-15",
-    "value": 1863,
-    "value_": 1863
+    "value": 1451,
+    "value_": 1451
   },
   {
     "geoid": "19100",
@@ -6758,15 +6702,15 @@
     "geoid": "19100",
     "key": "warn-notices",
     "date": "2024-05-15",
-    "value": 9676,
-    "value_": 9676
+    "value": 9190,
+    "value_": 9190
   },
   {
     "geoid": "19100",
     "key": "warn-notices",
     "date": "2025-05-15",
-    "value": 8032,
-    "value_": 8032
+    "value": 7939,
+    "value_": 7939
   },
   {
     "geoid": "19740",
@@ -6807,8 +6751,8 @@
     "geoid": "19820",
     "key": "warn-notices",
     "date": "2023-05-15",
-    "value": 7883,
-    "value_": 7883
+    "value": 8089,
+    "value_": 8089
   },
   {
     "geoid": "19820",
@@ -6975,8 +6919,8 @@
     "geoid": "25540",
     "key": "warn-notices",
     "date": "2025-05-15",
-    "value": 5401,
-    "value_": 5401
+    "value": 5406,
+    "value_": 5406
   },
   {
     "geoid": "26420",
@@ -6989,8 +6933,8 @@
     "geoid": "26420",
     "key": "warn-notices",
     "date": "2023-05-15",
-    "value": 1338,
-    "value_": 1338
+    "value": 1339,
+    "value_": 1339
   },
   {
     "geoid": "26420",
@@ -7031,15 +6975,15 @@
     "geoid": "26900",
     "key": "warn-notices",
     "date": "2025-05-15",
-    "value": 855,
-    "value_": 855
+    "value": 980,
+    "value_": 980
   },
   {
     "geoid": "27260",
     "key": "warn-notices",
     "date": "2022-05-15",
-    "value": 726,
-    "value_": 726
+    "value": 295,
+    "value_": 295
   },
   {
     "geoid": "27260",
@@ -7052,15 +6996,15 @@
     "geoid": "27260",
     "key": "warn-notices",
     "date": "2024-05-15",
-    "value": 1354,
-    "value_": 1354
+    "value": 1339,
+    "value_": 1339
   },
   {
     "geoid": "27260",
     "key": "warn-notices",
     "date": "2025-05-15",
-    "value": 2327,
-    "value_": 2327
+    "value": 1638,
+    "value_": 1638
   },
   {
     "geoid": "28140",
@@ -7101,15 +7045,15 @@
     "geoid": "31080",
     "key": "warn-notices",
     "date": "2023-05-15",
-    "value": 13275,
-    "value_": 13275
+    "value": 13271,
+    "value_": 13271
   },
   {
     "geoid": "31080",
     "key": "warn-notices",
     "date": "2024-05-15",
-    "value": 5679,
-    "value_": 5679
+    "value": 5655,
+    "value_": 5655
   },
   {
     "geoid": "31080",
@@ -7178,8 +7122,8 @@
     "geoid": "33100",
     "key": "warn-notices",
     "date": "2022-05-15",
-    "value": 3072,
-    "value_": 3072
+    "value": 3503,
+    "value_": 3503
   },
   {
     "geoid": "33100",
@@ -7192,15 +7136,15 @@
     "geoid": "33100",
     "key": "warn-notices",
     "date": "2024-05-15",
-    "value": 3729,
-    "value_": 3729
+    "value": 3844,
+    "value_": 3844
   },
   {
     "geoid": "33100",
     "key": "warn-notices",
     "date": "2025-05-15",
-    "value": 4737,
-    "value_": 4737
+    "value": 5426,
+    "value_": 5426
   },
   {
     "geoid": "33340",
@@ -7255,8 +7199,8 @@
     "geoid": "34980",
     "key": "warn-notices",
     "date": "2022-05-15",
-    "value": 1046,
-    "value_": 1046
+    "value": 1081,
+    "value_": 1081
   },
   {
     "geoid": "34980",
@@ -7290,22 +7234,22 @@
     "geoid": "35620",
     "key": "warn-notices",
     "date": "2023-05-15",
-    "value": 21382,
-    "value_": 21382
+    "value": 22771,
+    "value_": 22771
   },
   {
     "geoid": "35620",
     "key": "warn-notices",
     "date": "2024-05-15",
-    "value": 21656,
-    "value_": 21656
+    "value": 21812,
+    "value_": 21812
   },
   {
     "geoid": "35620",
     "key": "warn-notices",
     "date": "2025-05-15",
-    "value": 14361,
-    "value_": 14361
+    "value": 14797,
+    "value_": 14797
   },
   {
     "geoid": "36420",
@@ -7521,22 +7465,22 @@
     "geoid": "40380",
     "key": "warn-notices",
     "date": "2025-05-15",
-    "value": 509,
-    "value_": 509
+    "value": 600,
+    "value_": 600
   },
   {
     "geoid": "40900",
     "key": "warn-notices",
     "date": "2022-05-15",
-    "value": 1425,
-    "value_": 1425
+    "value": 1174,
+    "value_": 1174
   },
   {
     "geoid": "40900",
     "key": "warn-notices",
     "date": "2023-05-15",
-    "value": 3365,
-    "value_": 3365
+    "value": 3340,
+    "value_": 3340
   },
   {
     "geoid": "40900",
@@ -7647,8 +7591,8 @@
     "geoid": "41740",
     "key": "warn-notices",
     "date": "2023-05-15",
-    "value": 8567,
-    "value_": 8567
+    "value": 8570,
+    "value_": 8570
   },
   {
     "geoid": "41740",
@@ -7675,15 +7619,15 @@
     "geoid": "41860",
     "key": "warn-notices",
     "date": "2023-05-15",
-    "value": 21100,
-    "value_": 21100
+    "value": 21044,
+    "value_": 21044
   },
   {
     "geoid": "41860",
     "key": "warn-notices",
     "date": "2024-05-15",
-    "value": 4836,
-    "value_": 4836
+    "value": 4838,
+    "value_": 4838
   },
   {
     "geoid": "41860",
@@ -7759,8 +7703,8 @@
     "geoid": "45300",
     "key": "warn-notices",
     "date": "2023-05-15",
-    "value": 1037,
-    "value_": 1037
+    "value": 979,
+    "value_": 979
   },
   {
     "geoid": "45300",
@@ -7836,8 +7780,8 @@
     "geoid": "47900",
     "key": "warn-notices",
     "date": "2023-05-15",
-    "value": 3431,
-    "value_": 3431
+    "value": 3225,
+    "value_": 3225
   },
   {
     "geoid": "47900",
@@ -7969,57 +7913,57 @@
     "geoid": "99997",
     "key": "warn-notices",
     "date": "2022-05-15",
-    "value": 66512,
-    "value_": 66512
+    "value": 66142,
+    "value_": 66142
   },
   {
     "geoid": "99997",
     "key": "warn-notices",
     "date": "2023-05-15",
-    "value": 177671,
-    "value_": 177671
+    "value": 178864,
+    "value_": 178864
   },
   {
     "geoid": "99997",
     "key": "warn-notices",
     "date": "2024-05-15",
-    "value": 160569,
-    "value_": 160569
+    "value": 160913,
+    "value_": 160913
   },
   {
     "geoid": "99997",
     "key": "warn-notices",
     "date": "2025-05-15",
-    "value": 211377,
-    "value_": 211377
+    "value": 212228,
+    "value_": 212228
   },
   {
     "geoid": "99999",
     "key": "warn-notices",
     "date": "2022-05-15",
-    "value": 120551,
-    "value_": 120551
+    "value": 118953,
+    "value_": 118953
   },
   {
     "geoid": "99999",
     "key": "warn-notices",
     "date": "2023-05-15",
-    "value": 270101,
-    "value_": 270101
+    "value": 271264,
+    "value_": 271264
   },
   {
     "geoid": "99999",
     "key": "warn-notices",
     "date": "2024-05-15",
-    "value": 284041,
-    "value_": 284041
+    "value": 284537,
+    "value_": 284537
   },
   {
     "geoid": "99999",
     "key": "warn-notices",
     "date": "2025-05-15",
-    "value": 312170,
-    "value_": 312170
+    "value": 315907,
+    "value_": 315907
   },
   {
     "geoid": "11001",
@@ -8032,8 +7976,8 @@
     "geoid": "11001",
     "key": "warn-notices",
     "date": "2023-06-15",
-    "value": 1327,
-    "value_": 1327
+    "value": 1121,
+    "value_": 1121
   },
   {
     "geoid": "11001",
@@ -8179,8 +8123,8 @@
     "geoid": "15380",
     "key": "warn-notices",
     "date": "2023-06-15",
-    "value": 1730,
-    "value_": 1730
+    "value": 1781,
+    "value_": 1781
   },
   {
     "geoid": "15380",
@@ -8199,58 +8143,44 @@
   {
     "geoid": "16740",
     "key": "warn-notices",
-    "date": "2022-06-15",
-    "value": 121,
-    "value_": 121
-  },
-  {
-    "geoid": "16740",
-    "key": "warn-notices",
-    "date": "2023-06-15",
-    "value": 179,
-    "value_": 179
-  },
-  {
-    "geoid": "16740",
-    "key": "warn-notices",
     "date": "2024-06-15",
-    "value": 282,
-    "value_": 282
+    "value": 392,
+    "value_": 392
   },
   {
     "geoid": "16740",
     "key": "warn-notices",
     "date": "2025-06-15",
-    "value": 253,
-    "value_": 253
+    "value": 192,
+    "value_": 192
   },
   {
     "geoid": "16980",
     "key": "warn-notices",
     "date": "2022-06-15",
-    "value": 7286,
-    "value_": 7286
+    "value": 7698,
+    "value_": 7698
   },
   {
     "geoid": "16980",
     "key": "warn-notices",
     "date": "2023-06-15",
-    "value": 8346,
-    "value_": 8346
+    "value": 8244,
+    "value_": 8244
   },
   {
     "geoid": "16980",
     "key": "warn-notices",
     "date": "2024-06-15",
-    "value": 11885,
-    "value_": 11885
+    "value": 12371,
+    "value_": 12371
   },
   {
     "geoid": "16980",
     "key": "warn-notices",
     "date": "2025-06-15",
-    "value": 11704,
-    "value_": 11704
+    "value": 12052,
+    "value_": 12052
   },
   {
     "geoid": "17140",
@@ -8340,8 +8270,8 @@
     "geoid": "19100",
     "key": "warn-notices",
     "date": "2022-06-15",
-    "value": 2845,
-    "value_": 2845
+    "value": 2433,
+    "value_": 2433
   },
   {
     "geoid": "19100",
@@ -8354,15 +8284,15 @@
     "geoid": "19100",
     "key": "warn-notices",
     "date": "2024-06-15",
-    "value": 9586,
-    "value_": 9586
+    "value": 9100,
+    "value_": 9100
   },
   {
     "geoid": "19100",
     "key": "warn-notices",
     "date": "2025-06-15",
-    "value": 8599,
-    "value_": 8599
+    "value": 8506,
+    "value_": 8506
   },
   {
     "geoid": "19740",
@@ -8403,8 +8333,8 @@
     "geoid": "19820",
     "key": "warn-notices",
     "date": "2023-06-15",
-    "value": 8329,
-    "value_": 8329
+    "value": 8535,
+    "value_": 8535
   },
   {
     "geoid": "19820",
@@ -8571,8 +8501,8 @@
     "geoid": "25540",
     "key": "warn-notices",
     "date": "2025-06-15",
-    "value": 5401,
-    "value_": 5401
+    "value": 5406,
+    "value_": 5406
   },
   {
     "geoid": "26420",
@@ -8585,8 +8515,8 @@
     "geoid": "26420",
     "key": "warn-notices",
     "date": "2023-06-15",
-    "value": 1445,
-    "value_": 1445
+    "value": 1446,
+    "value_": 1446
   },
   {
     "geoid": "26420",
@@ -8627,22 +8557,22 @@
     "geoid": "26900",
     "key": "warn-notices",
     "date": "2025-06-15",
-    "value": 775,
-    "value_": 775
+    "value": 900,
+    "value_": 900
   },
   {
     "geoid": "27260",
     "key": "warn-notices",
     "date": "2022-06-15",
-    "value": 804,
-    "value_": 804
+    "value": 373,
+    "value_": 373
   },
   {
     "geoid": "27260",
     "key": "warn-notices",
     "date": "2023-06-15",
-    "value": 901,
-    "value_": 901
+    "value": 886,
+    "value_": 886
   },
   {
     "geoid": "27260",
@@ -8655,8 +8585,8 @@
     "geoid": "27260",
     "key": "warn-notices",
     "date": "2025-06-15",
-    "value": 2493,
-    "value_": 2493
+    "value": 1638,
+    "value_": 1638
   },
   {
     "geoid": "28140",
@@ -8697,15 +8627,15 @@
     "geoid": "31080",
     "key": "warn-notices",
     "date": "2023-06-15",
-    "value": 13474,
-    "value_": 13474
+    "value": 13470,
+    "value_": 13470
   },
   {
     "geoid": "31080",
     "key": "warn-notices",
     "date": "2024-06-15",
-    "value": 5540,
-    "value_": 5540
+    "value": 5516,
+    "value_": 5516
   },
   {
     "geoid": "31080",
@@ -8774,29 +8704,29 @@
     "geoid": "33100",
     "key": "warn-notices",
     "date": "2022-06-15",
-    "value": 3188,
-    "value_": 3188
+    "value": 3619,
+    "value_": 3619
   },
   {
     "geoid": "33100",
     "key": "warn-notices",
     "date": "2023-06-15",
-    "value": 1893,
-    "value_": 1893
+    "value": 1908,
+    "value_": 1908
   },
   {
     "geoid": "33100",
     "key": "warn-notices",
     "date": "2024-06-15",
-    "value": 3808,
-    "value_": 3808
+    "value": 3908,
+    "value_": 3908
   },
   {
     "geoid": "33100",
     "key": "warn-notices",
     "date": "2025-06-15",
-    "value": 5572,
-    "value_": 5572
+    "value": 6427,
+    "value_": 6427
   },
   {
     "geoid": "33340",
@@ -8851,8 +8781,8 @@
     "geoid": "34980",
     "key": "warn-notices",
     "date": "2022-06-15",
-    "value": 956,
-    "value_": 956
+    "value": 991,
+    "value_": 991
   },
   {
     "geoid": "34980",
@@ -8886,22 +8816,22 @@
     "geoid": "35620",
     "key": "warn-notices",
     "date": "2023-06-15",
-    "value": 22633,
-    "value_": 22633
+    "value": 24022,
+    "value_": 24022
   },
   {
     "geoid": "35620",
     "key": "warn-notices",
     "date": "2024-06-15",
-    "value": 21941,
-    "value_": 21941
+    "value": 22097,
+    "value_": 22097
   },
   {
     "geoid": "35620",
     "key": "warn-notices",
     "date": "2025-06-15",
-    "value": 13365,
-    "value_": 13365
+    "value": 14184,
+    "value_": 14184
   },
   {
     "geoid": "36420",
@@ -9124,22 +9054,22 @@
     "geoid": "40380",
     "key": "warn-notices",
     "date": "2025-06-15",
-    "value": 314,
-    "value_": 314
+    "value": 405,
+    "value_": 405
   },
   {
     "geoid": "40900",
     "key": "warn-notices",
     "date": "2022-06-15",
-    "value": 1425,
-    "value_": 1425
+    "value": 1174,
+    "value_": 1174
   },
   {
     "geoid": "40900",
     "key": "warn-notices",
     "date": "2023-06-15",
-    "value": 3413,
-    "value_": 3413
+    "value": 3388,
+    "value_": 3388
   },
   {
     "geoid": "40900",
@@ -9250,8 +9180,8 @@
     "geoid": "41740",
     "key": "warn-notices",
     "date": "2023-06-15",
-    "value": 9308,
-    "value_": 9308
+    "value": 9311,
+    "value_": 9311
   },
   {
     "geoid": "41740",
@@ -9278,15 +9208,15 @@
     "geoid": "41860",
     "key": "warn-notices",
     "date": "2023-06-15",
-    "value": 20688,
-    "value_": 20688
+    "value": 20632,
+    "value_": 20632
   },
   {
     "geoid": "41860",
     "key": "warn-notices",
     "date": "2024-06-15",
-    "value": 4572,
-    "value_": 4572
+    "value": 4574,
+    "value_": 4574
   },
   {
     "geoid": "41860",
@@ -9362,8 +9292,8 @@
     "geoid": "45300",
     "key": "warn-notices",
     "date": "2023-06-15",
-    "value": 1171,
-    "value_": 1171
+    "value": 1113,
+    "value_": 1113
   },
   {
     "geoid": "45300",
@@ -9446,8 +9376,8 @@
     "geoid": "47900",
     "key": "warn-notices",
     "date": "2023-06-15",
-    "value": 3758,
-    "value_": 3758
+    "value": 3552,
+    "value_": 3552
   },
   {
     "geoid": "47900",
@@ -9579,57 +9509,57 @@
     "geoid": "99997",
     "key": "warn-notices",
     "date": "2022-06-15",
-    "value": 69454,
-    "value_": 69454
+    "value": 69117,
+    "value_": 69117
   },
   {
     "geoid": "99997",
     "key": "warn-notices",
     "date": "2023-06-15",
-    "value": 182388,
-    "value_": 182388
+    "value": 183581,
+    "value_": 183581
   },
   {
     "geoid": "99997",
     "key": "warn-notices",
     "date": "2024-06-15",
-    "value": 160199,
-    "value_": 160199
+    "value": 160543,
+    "value_": 160543
   },
   {
     "geoid": "99997",
     "key": "warn-notices",
     "date": "2025-06-15",
-    "value": 214683,
-    "value_": 214683
+    "value": 215917,
+    "value_": 215917
   },
   {
     "geoid": "99999",
     "key": "warn-notices",
     "date": "2022-06-15",
-    "value": 122360,
-    "value_": 122360
+    "value": 120667,
+    "value_": 120667
   },
   {
     "geoid": "99999",
     "key": "warn-notices",
     "date": "2023-06-15",
-    "value": 277314,
-    "value_": 277314
+    "value": 278675,
+    "value_": 278675
   },
   {
     "geoid": "99999",
     "key": "warn-notices",
     "date": "2024-06-15",
-    "value": 281968,
-    "value_": 281968
+    "value": 282845,
+    "value_": 282845
   },
   {
     "geoid": "99999",
     "key": "warn-notices",
     "date": "2025-06-15",
-    "value": 320365,
-    "value_": 320365
+    "value": 323671,
+    "value_": 323671
   },
   {
     "geoid": "11001",
@@ -9642,8 +9572,8 @@
     "geoid": "11001",
     "key": "warn-notices",
     "date": "2023-07-15",
-    "value": 1245,
-    "value_": 1245
+    "value": 1039,
+    "value_": 1039
   },
   {
     "geoid": "11001",
@@ -9789,8 +9719,8 @@
     "geoid": "15380",
     "key": "warn-notices",
     "date": "2023-07-15",
-    "value": 2191,
-    "value_": 2191
+    "value": 2242,
+    "value_": 2242
   },
   {
     "geoid": "15380",
@@ -9809,58 +9739,51 @@
   {
     "geoid": "16740",
     "key": "warn-notices",
-    "date": "2022-07-15",
-    "value": 126,
-    "value_": 126
-  },
-  {
-    "geoid": "16740",
-    "key": "warn-notices",
     "date": "2023-07-15",
-    "value": 174,
-    "value_": 174
+    "value": 168,
+    "value_": 168
   },
   {
     "geoid": "16740",
     "key": "warn-notices",
     "date": "2024-07-15",
-    "value": 282,
-    "value_": 282
+    "value": 392,
+    "value_": 392
   },
   {
     "geoid": "16740",
     "key": "warn-notices",
     "date": "2025-07-15",
-    "value": 430,
-    "value_": 430
+    "value": 369,
+    "value_": 369
   },
   {
     "geoid": "16980",
     "key": "warn-notices",
     "date": "2022-07-15",
-    "value": 6005,
-    "value_": 6005
+    "value": 6417,
+    "value_": 6417
   },
   {
     "geoid": "16980",
     "key": "warn-notices",
     "date": "2023-07-15",
-    "value": 8617,
-    "value_": 8617
+    "value": 8515,
+    "value_": 8515
   },
   {
     "geoid": "16980",
     "key": "warn-notices",
     "date": "2024-07-15",
-    "value": 12281,
-    "value_": 12281
+    "value": 12767,
+    "value_": 12767
   },
   {
     "geoid": "16980",
     "key": "warn-notices",
     "date": "2025-07-15",
-    "value": 11412,
-    "value_": 11412
+    "value": 11760,
+    "value_": 11760
   },
   {
     "geoid": "17140",
@@ -9950,8 +9873,8 @@
     "geoid": "19100",
     "key": "warn-notices",
     "date": "2022-07-15",
-    "value": 2999,
-    "value_": 2999
+    "value": 2587,
+    "value_": 2587
   },
   {
     "geoid": "19100",
@@ -9964,15 +9887,15 @@
     "geoid": "19100",
     "key": "warn-notices",
     "date": "2024-07-15",
-    "value": 9369,
-    "value_": 9369
+    "value": 8883,
+    "value_": 8883
   },
   {
     "geoid": "19100",
     "key": "warn-notices",
     "date": "2025-07-15",
-    "value": 8911,
-    "value_": 8911
+    "value": 8818,
+    "value_": 8818
   },
   {
     "geoid": "19740",
@@ -10013,8 +9936,8 @@
     "geoid": "19820",
     "key": "warn-notices",
     "date": "2023-07-15",
-    "value": 8840,
-    "value_": 8840
+    "value": 9046,
+    "value_": 9046
   },
   {
     "geoid": "19820",
@@ -10139,8 +10062,8 @@
     "geoid": "24033",
     "key": "warn-notices",
     "date": "2025-07-15",
-    "value": 934,
-    "value_": 934
+    "value": 1013,
+    "value_": 1013
   },
   {
     "geoid": "24340",
@@ -10181,8 +10104,8 @@
     "geoid": "25540",
     "key": "warn-notices",
     "date": "2025-07-15",
-    "value": 5401,
-    "value_": 5401
+    "value": 5406,
+    "value_": 5406
   },
   {
     "geoid": "26420",
@@ -10195,8 +10118,8 @@
     "geoid": "26420",
     "key": "warn-notices",
     "date": "2023-07-15",
-    "value": 1382,
-    "value_": 1382
+    "value": 1383,
+    "value_": 1383
   },
   {
     "geoid": "26420",
@@ -10237,36 +10160,36 @@
     "geoid": "26900",
     "key": "warn-notices",
     "date": "2025-07-15",
-    "value": 774,
-    "value_": 774
+    "value": 899,
+    "value_": 899
   },
   {
     "geoid": "27260",
     "key": "warn-notices",
     "date": "2022-07-15",
-    "value": 783,
-    "value_": 783
+    "value": 352,
+    "value_": 352
   },
   {
     "geoid": "27260",
     "key": "warn-notices",
     "date": "2023-07-15",
-    "value": 910,
-    "value_": 910
+    "value": 895,
+    "value_": 895
   },
   {
     "geoid": "27260",
     "key": "warn-notices",
     "date": "2024-07-15",
-    "value": 1248,
-    "value_": 1248
+    "value": 1233,
+    "value_": 1233
   },
   {
     "geoid": "27260",
     "key": "warn-notices",
     "date": "2025-07-15",
-    "value": 2429,
-    "value_": 2429
+    "value": 1589,
+    "value_": 1589
   },
   {
     "geoid": "28140",
@@ -10307,22 +10230,22 @@
     "geoid": "31080",
     "key": "warn-notices",
     "date": "2023-07-15",
-    "value": 12491,
-    "value_": 12491
+    "value": 12487,
+    "value_": 12487
   },
   {
     "geoid": "31080",
     "key": "warn-notices",
     "date": "2024-07-15",
-    "value": 6402,
-    "value_": 6402
+    "value": 6378,
+    "value_": 6378
   },
   {
     "geoid": "31080",
     "key": "warn-notices",
     "date": "2025-07-15",
-    "value": 38396,
-    "value_": 38396
+    "value": 38397,
+    "value_": 38397
   },
   {
     "geoid": "31140",
@@ -10384,29 +10307,29 @@
     "geoid": "33100",
     "key": "warn-notices",
     "date": "2022-07-15",
-    "value": 3280,
-    "value_": 3280
+    "value": 3711,
+    "value_": 3711
   },
   {
     "geoid": "33100",
     "key": "warn-notices",
     "date": "2023-07-15",
-    "value": 2324,
-    "value_": 2324
+    "value": 2339,
+    "value_": 2339
   },
   {
     "geoid": "33100",
     "key": "warn-notices",
     "date": "2024-07-15",
-    "value": 3694,
-    "value_": 3694
+    "value": 3809,
+    "value_": 3809
   },
   {
     "geoid": "33100",
     "key": "warn-notices",
     "date": "2025-07-15",
-    "value": 5342,
-    "value_": 5342
+    "value": 6182,
+    "value_": 6182
   },
   {
     "geoid": "33340",
@@ -10447,8 +10370,8 @@
     "geoid": "34980",
     "key": "warn-notices",
     "date": "2022-07-15",
-    "value": 554,
-    "value_": 554
+    "value": 589,
+    "value_": 589
   },
   {
     "geoid": "34980",
@@ -10475,29 +10398,29 @@
     "geoid": "35620",
     "key": "warn-notices",
     "date": "2022-07-15",
-    "value": 6939,
-    "value_": 6939
+    "value": 7013,
+    "value_": 7013
   },
   {
     "geoid": "35620",
     "key": "warn-notices",
     "date": "2023-07-15",
-    "value": 24148,
-    "value_": 24148
+    "value": 25463,
+    "value_": 25463
   },
   {
     "geoid": "35620",
     "key": "warn-notices",
     "date": "2024-07-15",
-    "value": 20308,
-    "value_": 20308
+    "value": 20464,
+    "value_": 20464
   },
   {
     "geoid": "35620",
     "key": "warn-notices",
     "date": "2025-07-15",
-    "value": 13485,
-    "value_": 13485
+    "value": 14315,
+    "value_": 14315
   },
   {
     "geoid": "36540",
@@ -10531,8 +10454,8 @@
     "geoid": "36740",
     "key": "warn-notices",
     "date": "2025-07-15",
-    "value": 1839,
-    "value_": 1839
+    "value": 1840,
+    "value_": 1840
   },
   {
     "geoid": "37980",
@@ -10685,8 +10608,8 @@
     "geoid": "40140",
     "key": "warn-notices",
     "date": "2025-07-15",
-    "value": 7137,
-    "value_": 7137
+    "value": 7136,
+    "value_": 7136
   },
   {
     "geoid": "40380",
@@ -10713,22 +10636,22 @@
     "geoid": "40380",
     "key": "warn-notices",
     "date": "2025-07-15",
-    "value": 467,
-    "value_": 467
+    "value": 623,
+    "value_": 623
   },
   {
     "geoid": "40900",
     "key": "warn-notices",
     "date": "2022-07-15",
-    "value": 1594,
-    "value_": 1594
+    "value": 1343,
+    "value_": 1343
   },
   {
     "geoid": "40900",
     "key": "warn-notices",
     "date": "2023-07-15",
-    "value": 3257,
-    "value_": 3257
+    "value": 3232,
+    "value_": 3232
   },
   {
     "geoid": "40900",
@@ -10839,8 +10762,8 @@
     "geoid": "41740",
     "key": "warn-notices",
     "date": "2023-07-15",
-    "value": 9305,
-    "value_": 9305
+    "value": 9308,
+    "value_": 9308
   },
   {
     "geoid": "41740",
@@ -10867,15 +10790,15 @@
     "geoid": "41860",
     "key": "warn-notices",
     "date": "2023-07-15",
-    "value": 19195,
-    "value_": 19195
+    "value": 19139,
+    "value_": 19139
   },
   {
     "geoid": "41860",
     "key": "warn-notices",
     "date": "2024-07-15",
-    "value": 5674,
-    "value_": 5674
+    "value": 5676,
+    "value_": 5676
   },
   {
     "geoid": "41860",
@@ -10951,8 +10874,8 @@
     "geoid": "45300",
     "key": "warn-notices",
     "date": "2023-07-15",
-    "value": 1169,
-    "value_": 1169
+    "value": 1111,
+    "value_": 1111
   },
   {
     "geoid": "45300",
@@ -11035,8 +10958,8 @@
     "geoid": "47900",
     "key": "warn-notices",
     "date": "2023-07-15",
-    "value": 3786,
-    "value_": 3786
+    "value": 3580,
+    "value_": 3580
   },
   {
     "geoid": "47900",
@@ -11049,8 +10972,8 @@
     "geoid": "47900",
     "key": "warn-notices",
     "date": "2025-07-15",
-    "value": 12190,
-    "value_": 12190
+    "value": 12269,
+    "value_": 12269
   },
   {
     "geoid": "51013",
@@ -11175,57 +11098,57 @@
     "geoid": "99997",
     "key": "warn-notices",
     "date": "2022-07-15",
-    "value": 70428,
-    "value_": 70428
+    "value": 70165,
+    "value_": 70165
   },
   {
     "geoid": "99997",
     "key": "warn-notices",
     "date": "2023-07-15",
-    "value": 184129,
-    "value_": 184129
+    "value": 185248,
+    "value_": 185248
   },
   {
     "geoid": "99997",
     "key": "warn-notices",
     "date": "2024-07-15",
-    "value": 161244,
-    "value_": 161244
+    "value": 161588,
+    "value_": 161588
   },
   {
     "geoid": "99997",
     "key": "warn-notices",
     "date": "2025-07-15",
-    "value": 225365,
-    "value_": 225365
+    "value": 226755,
+    "value_": 226755
   },
   {
     "geoid": "99999",
     "key": "warn-notices",
     "date": "2022-07-15",
-    "value": 123424,
-    "value_": 123424
+    "value": 122255,
+    "value_": 122255
   },
   {
     "geoid": "99999",
     "key": "warn-notices",
     "date": "2023-07-15",
-    "value": 307560,
-    "value_": 307560
+    "value": 308780,
+    "value_": 308780
   },
   {
     "geoid": "99999",
     "key": "warn-notices",
     "date": "2024-07-15",
-    "value": 256281,
-    "value_": 256281
+    "value": 257491,
+    "value_": 257491
   },
   {
     "geoid": "99999",
     "key": "warn-notices",
     "date": "2025-07-15",
-    "value": 330670,
-    "value_": 330670
+    "value": 333885,
+    "value_": 333885
   },
   {
     "geoid": "11001",
@@ -11238,8 +11161,8 @@
     "geoid": "11001",
     "key": "warn-notices",
     "date": "2023-08-15",
-    "value": 1245,
-    "value_": 1245
+    "value": 1039,
+    "value_": 1039
   },
   {
     "geoid": "11001",
@@ -11385,64 +11308,57 @@
     "geoid": "15380",
     "key": "warn-notices",
     "date": "2023-08-15",
-    "value": 2603,
-    "value_": 2603
-  },
-  {
-    "geoid": "16740",
-    "key": "warn-notices",
-    "date": "2022-08-15",
-    "value": 126,
-    "value_": 126
+    "value": 2654,
+    "value_": 2654
   },
   {
     "geoid": "16740",
     "key": "warn-notices",
     "date": "2023-08-15",
-    "value": 174,
-    "value_": 174
+    "value": 168,
+    "value_": 168
   },
   {
     "geoid": "16740",
     "key": "warn-notices",
     "date": "2024-08-15",
-    "value": 282,
-    "value_": 282
+    "value": 392,
+    "value_": 392
   },
   {
     "geoid": "16740",
     "key": "warn-notices",
     "date": "2025-08-15",
-    "value": 430,
-    "value_": 430
+    "value": 369,
+    "value_": 369
   },
   {
     "geoid": "16980",
     "key": "warn-notices",
     "date": "2022-08-15",
-    "value": 6348,
-    "value_": 6348
+    "value": 6613,
+    "value_": 6613
   },
   {
     "geoid": "16980",
     "key": "warn-notices",
     "date": "2023-08-15",
-    "value": 9700,
-    "value_": 9700
+    "value": 9625,
+    "value_": 9625
   },
   {
     "geoid": "16980",
     "key": "warn-notices",
     "date": "2024-08-15",
-    "value": 10812,
-    "value_": 10812
+    "value": 11298,
+    "value_": 11298
   },
   {
     "geoid": "16980",
     "key": "warn-notices",
     "date": "2025-08-15",
-    "value": 12244,
-    "value_": 12244
+    "value": 12592,
+    "value_": 12592
   },
   {
     "geoid": "17140",
@@ -11525,15 +11441,15 @@
     "geoid": "18140",
     "key": "warn-notices",
     "date": "2025-08-15",
-    "value": 2324,
-    "value_": 2324
+    "value": 2374,
+    "value_": 2374
   },
   {
     "geoid": "19100",
     "key": "warn-notices",
     "date": "2022-08-15",
-    "value": 3543,
-    "value_": 3543
+    "value": 3251,
+    "value_": 3251
   },
   {
     "geoid": "19100",
@@ -11546,15 +11462,15 @@
     "geoid": "19100",
     "key": "warn-notices",
     "date": "2024-08-15",
-    "value": 8187,
-    "value_": 8187
+    "value": 7701,
+    "value_": 7701
   },
   {
     "geoid": "19100",
     "key": "warn-notices",
     "date": "2025-08-15",
-    "value": 8710,
-    "value_": 8710
+    "value": 8617,
+    "value_": 8617
   },
   {
     "geoid": "19740",
@@ -11595,8 +11511,8 @@
     "geoid": "19820",
     "key": "warn-notices",
     "date": "2023-08-15",
-    "value": 10077,
-    "value_": 10077
+    "value": 10283,
+    "value_": 10283
   },
   {
     "geoid": "19820",
@@ -11721,8 +11637,8 @@
     "geoid": "24033",
     "key": "warn-notices",
     "date": "2025-08-15",
-    "value": 995,
-    "value_": 995
+    "value": 1074,
+    "value_": 1074
   },
   {
     "geoid": "24340",
@@ -11777,8 +11693,8 @@
     "geoid": "25540",
     "key": "warn-notices",
     "date": "2025-08-15",
-    "value": 5401,
-    "value_": 5401
+    "value": 5406,
+    "value_": 5406
   },
   {
     "geoid": "26420",
@@ -11791,8 +11707,8 @@
     "geoid": "26420",
     "key": "warn-notices",
     "date": "2023-08-15",
-    "value": 1597,
-    "value_": 1597
+    "value": 1598,
+    "value_": 1598
   },
   {
     "geoid": "26420",
@@ -11833,36 +11749,36 @@
     "geoid": "26900",
     "key": "warn-notices",
     "date": "2025-08-15",
-    "value": 1201,
-    "value_": 1201
+    "value": 1326,
+    "value_": 1326
   },
   {
     "geoid": "27260",
     "key": "warn-notices",
     "date": "2022-08-15",
-    "value": 873,
-    "value_": 873
+    "value": 442,
+    "value_": 442
   },
   {
     "geoid": "27260",
     "key": "warn-notices",
     "date": "2023-08-15",
-    "value": 877,
-    "value_": 877
+    "value": 862,
+    "value_": 862
   },
   {
     "geoid": "27260",
     "key": "warn-notices",
     "date": "2024-08-15",
-    "value": 1193,
-    "value_": 1193
+    "value": 1178,
+    "value_": 1178
   },
   {
     "geoid": "27260",
     "key": "warn-notices",
     "date": "2025-08-15",
-    "value": 2558,
-    "value_": 2558
+    "value": 1645,
+    "value_": 1645
   },
   {
     "geoid": "28140",
@@ -11903,22 +11819,22 @@
     "geoid": "31080",
     "key": "warn-notices",
     "date": "2023-08-15",
-    "value": 13333,
-    "value_": 13333
+    "value": 13329,
+    "value_": 13329
   },
   {
     "geoid": "31080",
     "key": "warn-notices",
     "date": "2024-08-15",
-    "value": 5973,
-    "value_": 5973
+    "value": 5949,
+    "value_": 5949
   },
   {
     "geoid": "31080",
     "key": "warn-notices",
     "date": "2025-08-15",
-    "value": 39391,
-    "value_": 39391
+    "value": 39226,
+    "value_": 39226
   },
   {
     "geoid": "31140",
@@ -11966,29 +11882,29 @@
     "geoid": "33100",
     "key": "warn-notices",
     "date": "2022-08-15",
-    "value": 2693,
-    "value_": 2693
+    "value": 3124,
+    "value_": 3124
   },
   {
     "geoid": "33100",
     "key": "warn-notices",
     "date": "2023-08-15",
-    "value": 2823,
-    "value_": 2823
+    "value": 2838,
+    "value_": 2838
   },
   {
     "geoid": "33100",
     "key": "warn-notices",
     "date": "2024-08-15",
-    "value": 3028,
-    "value_": 3028
+    "value": 3143,
+    "value_": 3143
   },
   {
     "geoid": "33100",
     "key": "warn-notices",
     "date": "2025-08-15",
-    "value": 5491,
-    "value_": 5491
+    "value": 6404,
+    "value_": 6404
   },
   {
     "geoid": "33340",
@@ -12029,8 +11945,8 @@
     "geoid": "34980",
     "key": "warn-notices",
     "date": "2022-08-15",
-    "value": 554,
-    "value_": 554
+    "value": 589,
+    "value_": 589
   },
   {
     "geoid": "34980",
@@ -12057,29 +11973,29 @@
     "geoid": "35620",
     "key": "warn-notices",
     "date": "2022-08-15",
-    "value": 7276,
-    "value_": 7276
+    "value": 7404,
+    "value_": 7404
   },
   {
     "geoid": "35620",
     "key": "warn-notices",
     "date": "2023-08-15",
-    "value": 23823,
-    "value_": 23823
+    "value": 25084,
+    "value_": 25084
   },
   {
     "geoid": "35620",
     "key": "warn-notices",
     "date": "2024-08-15",
-    "value": 20220,
-    "value_": 20220
+    "value": 20376,
+    "value_": 20376
   },
   {
     "geoid": "35620",
     "key": "warn-notices",
     "date": "2025-08-15",
-    "value": 12510,
-    "value_": 12510
+    "value": 13340,
+    "value_": 13340
   },
   {
     "geoid": "36540",
@@ -12127,8 +12043,8 @@
     "geoid": "36740",
     "key": "warn-notices",
     "date": "2025-08-15",
-    "value": 1760,
-    "value_": 1760
+    "value": 1761,
+    "value_": 1761
   },
   {
     "geoid": "37980",
@@ -12295,8 +12211,8 @@
     "geoid": "40140",
     "key": "warn-notices",
     "date": "2025-08-15",
-    "value": 7149,
-    "value_": 7149
+    "value": 7148,
+    "value_": 7148
   },
   {
     "geoid": "40380",
@@ -12323,22 +12239,22 @@
     "geoid": "40380",
     "key": "warn-notices",
     "date": "2025-08-15",
-    "value": 467,
-    "value_": 467
+    "value": 623,
+    "value_": 623
   },
   {
     "geoid": "40900",
     "key": "warn-notices",
     "date": "2022-08-15",
-    "value": 1367,
-    "value_": 1367
+    "value": 1116,
+    "value_": 1116
   },
   {
     "geoid": "40900",
     "key": "warn-notices",
     "date": "2023-08-15",
-    "value": 3352,
-    "value_": 3352
+    "value": 3327,
+    "value_": 3327
   },
   {
     "geoid": "40900",
@@ -12449,8 +12365,8 @@
     "geoid": "41740",
     "key": "warn-notices",
     "date": "2023-08-15",
-    "value": 9174,
-    "value_": 9174
+    "value": 9177,
+    "value_": 9177
   },
   {
     "geoid": "41740",
@@ -12477,15 +12393,15 @@
     "geoid": "41860",
     "key": "warn-notices",
     "date": "2023-08-15",
-    "value": 18278,
-    "value_": 18278
+    "value": 18222,
+    "value_": 18222
   },
   {
     "geoid": "41860",
     "key": "warn-notices",
     "date": "2024-08-15",
-    "value": 6466,
-    "value_": 6466
+    "value": 6468,
+    "value_": 6468
   },
   {
     "geoid": "41860",
@@ -12519,8 +12435,8 @@
     "geoid": "41940",
     "key": "warn-notices",
     "date": "2025-08-15",
-    "value": 8842,
-    "value_": 8842
+    "value": 8821,
+    "value_": 8821
   },
   {
     "geoid": "42660",
@@ -12561,8 +12477,8 @@
     "geoid": "45300",
     "key": "warn-notices",
     "date": "2023-08-15",
-    "value": 1656,
-    "value_": 1656
+    "value": 1598,
+    "value_": 1598
   },
   {
     "geoid": "45300",
@@ -12645,8 +12561,8 @@
     "geoid": "47900",
     "key": "warn-notices",
     "date": "2023-08-15",
-    "value": 3685,
-    "value_": 3685
+    "value": 3479,
+    "value_": 3479
   },
   {
     "geoid": "47900",
@@ -12659,8 +12575,8 @@
     "geoid": "47900",
     "key": "warn-notices",
     "date": "2025-08-15",
-    "value": 12547,
-    "value_": 12547
+    "value": 12626,
+    "value_": 12626
   },
   {
     "geoid": "51013",
@@ -12785,57 +12701,57 @@
     "geoid": "99997",
     "key": "warn-notices",
     "date": "2022-08-15",
-    "value": 73650,
-    "value_": 73650
+    "value": 73414,
+    "value_": 73414
   },
   {
     "geoid": "99997",
     "key": "warn-notices",
     "date": "2023-08-15",
-    "value": 195689,
-    "value_": 195689
+    "value": 196781,
+    "value_": 196781
   },
   {
     "geoid": "99997",
     "key": "warn-notices",
     "date": "2024-08-15",
-    "value": 152770,
-    "value_": 152770
+    "value": 153114,
+    "value_": 153114
   },
   {
     "geoid": "99997",
     "key": "warn-notices",
     "date": "2025-08-15",
-    "value": 227007,
-    "value_": 227007
+    "value": 228260,
+    "value_": 228260
   },
   {
     "geoid": "99999",
     "key": "warn-notices",
     "date": "2022-08-15",
-    "value": 128163,
-    "value_": 128163
+    "value": 126624,
+    "value_": 126624
   },
   {
     "geoid": "99999",
     "key": "warn-notices",
     "date": "2023-08-15",
-    "value": 324195,
-    "value_": 324195
+    "value": 326008,
+    "value_": 326008
   },
   {
     "geoid": "99999",
     "key": "warn-notices",
     "date": "2024-08-15",
-    "value": 242895,
-    "value_": 242895
+    "value": 243958,
+    "value_": 243958
   },
   {
     "geoid": "99999",
     "key": "warn-notices",
     "date": "2025-08-15",
-    "value": 332812,
-    "value_": 332812
+    "value": 335570,
+    "value_": 335570
   },
   {
     "geoid": "11001",
@@ -12848,8 +12764,8 @@
     "geoid": "11001",
     "key": "warn-notices",
     "date": "2023-09-15",
-    "value": 910,
-    "value_": 910
+    "value": 704,
+    "value_": 704
   },
   {
     "geoid": "11001",
@@ -12995,64 +12911,57 @@
     "geoid": "15380",
     "key": "warn-notices",
     "date": "2023-09-15",
-    "value": 2603,
-    "value_": 2603
-  },
-  {
-    "geoid": "16740",
-    "key": "warn-notices",
-    "date": "2022-09-15",
-    "value": 6,
-    "value_": 6
+    "value": 2654,
+    "value_": 2654
   },
   {
     "geoid": "16740",
     "key": "warn-notices",
     "date": "2023-09-15",
-    "value": 173,
-    "value_": 173
+    "value": 168,
+    "value_": 168
   },
   {
     "geoid": "16740",
     "key": "warn-notices",
     "date": "2024-09-15",
-    "value": 296,
-    "value_": 296
+    "value": 405,
+    "value_": 405
   },
   {
     "geoid": "16740",
     "key": "warn-notices",
     "date": "2025-09-15",
-    "value": 416,
-    "value_": 416
+    "value": 356,
+    "value_": 356
   },
   {
     "geoid": "16980",
     "key": "warn-notices",
     "date": "2022-09-15",
-    "value": 6665,
-    "value_": 6665
+    "value": 6930,
+    "value_": 6930
   },
   {
     "geoid": "16980",
     "key": "warn-notices",
     "date": "2023-09-15",
-    "value": 9767,
-    "value_": 9767
+    "value": 9857,
+    "value_": 9857
   },
   {
     "geoid": "16980",
     "key": "warn-notices",
     "date": "2024-09-15",
-    "value": 11139,
-    "value_": 11139
+    "value": 11460,
+    "value_": 11460
   },
   {
     "geoid": "16980",
     "key": "warn-notices",
     "date": "2025-09-15",
-    "value": 12355,
-    "value_": 12355
+    "value": 12846,
+    "value_": 12846
   },
   {
     "geoid": "17140",
@@ -13135,36 +13044,36 @@
     "geoid": "18140",
     "key": "warn-notices",
     "date": "2025-09-15",
-    "value": 2152,
-    "value_": 2152
+    "value": 2202,
+    "value_": 2202
   },
   {
     "geoid": "19100",
     "key": "warn-notices",
     "date": "2022-09-15",
-    "value": 3439,
-    "value_": 3439
+    "value": 3147,
+    "value_": 3147
   },
   {
     "geoid": "19100",
     "key": "warn-notices",
     "date": "2023-09-15",
-    "value": 7877,
-    "value_": 7877
+    "value": 7712,
+    "value_": 7712
   },
   {
     "geoid": "19100",
     "key": "warn-notices",
     "date": "2024-09-15",
-    "value": 8189,
-    "value_": 8189
+    "value": 7868,
+    "value_": 7868
   },
   {
     "geoid": "19100",
     "key": "warn-notices",
     "date": "2025-09-15",
-    "value": 9122,
-    "value_": 9122
+    "value": 9029,
+    "value_": 9029
   },
   {
     "geoid": "19740",
@@ -13205,8 +13114,8 @@
     "geoid": "19820",
     "key": "warn-notices",
     "date": "2023-09-15",
-    "value": 9974,
-    "value_": 9974
+    "value": 10180,
+    "value_": 10180
   },
   {
     "geoid": "19820",
@@ -13331,8 +13240,8 @@
     "geoid": "24033",
     "key": "warn-notices",
     "date": "2025-09-15",
-    "value": 1042,
-    "value_": 1042
+    "value": 1141,
+    "value_": 1141
   },
   {
     "geoid": "24340",
@@ -13387,8 +13296,8 @@
     "geoid": "25540",
     "key": "warn-notices",
     "date": "2025-09-15",
-    "value": 5401,
-    "value_": 5401
+    "value": 5406,
+    "value_": 5406
   },
   {
     "geoid": "26420",
@@ -13401,8 +13310,8 @@
     "geoid": "26420",
     "key": "warn-notices",
     "date": "2023-09-15",
-    "value": 1586,
-    "value_": 1586
+    "value": 1587,
+    "value_": 1587
   },
   {
     "geoid": "26420",
@@ -13443,36 +13352,36 @@
     "geoid": "26900",
     "key": "warn-notices",
     "date": "2025-09-15",
-    "value": 1076,
-    "value_": 1076
+    "value": 1201,
+    "value_": 1201
   },
   {
     "geoid": "27260",
     "key": "warn-notices",
     "date": "2022-09-15",
-    "value": 873,
-    "value_": 873
+    "value": 442,
+    "value_": 442
   },
   {
     "geoid": "27260",
     "key": "warn-notices",
     "date": "2023-09-15",
-    "value": 1041,
-    "value_": 1041
+    "value": 1026,
+    "value_": 1026
   },
   {
     "geoid": "27260",
     "key": "warn-notices",
     "date": "2024-09-15",
-    "value": 1200,
-    "value_": 1200
+    "value": 1185,
+    "value_": 1185
   },
   {
     "geoid": "27260",
     "key": "warn-notices",
     "date": "2025-09-15",
-    "value": 2387,
-    "value_": 2387
+    "value": 1474,
+    "value_": 1474
   },
   {
     "geoid": "28140",
@@ -13513,8 +13422,8 @@
     "geoid": "31080",
     "key": "warn-notices",
     "date": "2023-09-15",
-    "value": 13242,
-    "value_": 13242
+    "value": 13214,
+    "value_": 13214
   },
   {
     "geoid": "31080",
@@ -13527,8 +13436,8 @@
     "geoid": "31080",
     "key": "warn-notices",
     "date": "2025-09-15",
-    "value": 39231,
-    "value_": 39231
+    "value": 39066,
+    "value_": 39066
   },
   {
     "geoid": "31140",
@@ -13576,29 +13485,29 @@
     "geoid": "33100",
     "key": "warn-notices",
     "date": "2022-09-15",
-    "value": 2686,
-    "value_": 2686
+    "value": 3117,
+    "value_": 3117
   },
   {
     "geoid": "33100",
     "key": "warn-notices",
     "date": "2023-09-15",
-    "value": 3112,
-    "value_": 3112
+    "value": 3127,
+    "value_": 3127
   },
   {
     "geoid": "33100",
     "key": "warn-notices",
     "date": "2024-09-15",
-    "value": 2756,
-    "value_": 2756
+    "value": 2871,
+    "value_": 2871
   },
   {
     "geoid": "33100",
     "key": "warn-notices",
     "date": "2025-09-15",
-    "value": 6484,
-    "value_": 6484
+    "value": 7497,
+    "value_": 7497
   },
   {
     "geoid": "33340",
@@ -13625,15 +13534,15 @@
     "geoid": "33340",
     "key": "warn-notices",
     "date": "2025-09-15",
-    "value": 1931,
-    "value_": 1931
+    "value": 1979,
+    "value_": 1979
   },
   {
     "geoid": "34980",
     "key": "warn-notices",
     "date": "2022-09-15",
-    "value": 471,
-    "value_": 471
+    "value": 506,
+    "value_": 506
   },
   {
     "geoid": "34980",
@@ -13660,29 +13569,29 @@
     "geoid": "35620",
     "key": "warn-notices",
     "date": "2022-09-15",
-    "value": 7441,
-    "value_": 7441
+    "value": 7569,
+    "value_": 7569
   },
   {
     "geoid": "35620",
     "key": "warn-notices",
     "date": "2023-09-15",
-    "value": 24787,
-    "value_": 24787
+    "value": 26048,
+    "value_": 26048
   },
   {
     "geoid": "35620",
     "key": "warn-notices",
     "date": "2024-09-15",
-    "value": 22339,
-    "value_": 22339
+    "value": 22495,
+    "value_": 22495
   },
   {
     "geoid": "35620",
     "key": "warn-notices",
     "date": "2025-09-15",
-    "value": 9659,
-    "value_": 9659
+    "value": 11068,
+    "value_": 11068
   },
   {
     "geoid": "36540",
@@ -13730,8 +13639,8 @@
     "geoid": "36740",
     "key": "warn-notices",
     "date": "2025-09-15",
-    "value": 2051,
-    "value_": 2051
+    "value": 2052,
+    "value_": 2052
   },
   {
     "geoid": "37980",
@@ -13898,8 +13807,8 @@
     "geoid": "40140",
     "key": "warn-notices",
     "date": "2025-09-15",
-    "value": 7324,
-    "value_": 7324
+    "value": 7323,
+    "value_": 7323
   },
   {
     "geoid": "40380",
@@ -13926,22 +13835,22 @@
     "geoid": "40380",
     "key": "warn-notices",
     "date": "2025-09-15",
-    "value": 355,
-    "value_": 355
+    "value": 554,
+    "value_": 554
   },
   {
     "geoid": "40900",
     "key": "warn-notices",
     "date": "2022-09-15",
-    "value": 1278,
-    "value_": 1278
+    "value": 1244,
+    "value_": 1244
   },
   {
     "geoid": "40900",
     "key": "warn-notices",
     "date": "2023-09-15",
-    "value": 3439,
-    "value_": 3439
+    "value": 3414,
+    "value_": 3414
   },
   {
     "geoid": "40900",
@@ -14052,8 +13961,8 @@
     "geoid": "41740",
     "key": "warn-notices",
     "date": "2023-09-15",
-    "value": 8691,
-    "value_": 8691
+    "value": 8694,
+    "value_": 8694
   },
   {
     "geoid": "41740",
@@ -14080,15 +13989,15 @@
     "geoid": "41860",
     "key": "warn-notices",
     "date": "2023-09-15",
-    "value": 17746,
-    "value_": 17746
+    "value": 17690,
+    "value_": 17690
   },
   {
     "geoid": "41860",
     "key": "warn-notices",
     "date": "2024-09-15",
-    "value": 6693,
-    "value_": 6693
+    "value": 6695,
+    "value_": 6695
   },
   {
     "geoid": "41860",
@@ -14122,8 +14031,8 @@
     "geoid": "41940",
     "key": "warn-notices",
     "date": "2025-09-15",
-    "value": 8658,
-    "value_": 8658
+    "value": 8637,
+    "value_": 8637
   },
   {
     "geoid": "42660",
@@ -14157,8 +14066,8 @@
     "geoid": "45300",
     "key": "warn-notices",
     "date": "2022-09-15",
-    "value": 1669,
-    "value_": 1669
+    "value": 1611,
+    "value_": 1611
   },
   {
     "geoid": "45300",
@@ -14248,8 +14157,8 @@
     "geoid": "47900",
     "key": "warn-notices",
     "date": "2023-09-15",
-    "value": 3367,
-    "value_": 3367
+    "value": 3161,
+    "value_": 3161
   },
   {
     "geoid": "47900",
@@ -14262,8 +14171,8 @@
     "geoid": "47900",
     "key": "warn-notices",
     "date": "2025-09-15",
-    "value": 12260,
-    "value_": 12260
+    "value": 12359,
+    "value_": 12359
   },
   {
     "geoid": "51013",
@@ -14388,57 +14297,57 @@
     "geoid": "99997",
     "key": "warn-notices",
     "date": "2022-09-15",
-    "value": 80328,
-    "value_": 80328
+    "value": 80371,
+    "value_": 80371
   },
   {
     "geoid": "99997",
     "key": "warn-notices",
     "date": "2023-09-15",
-    "value": 192675,
-    "value_": 192675
+    "value": 193802,
+    "value_": 193802
   },
   {
     "geoid": "99997",
     "key": "warn-notices",
     "date": "2024-09-15",
-    "value": 157234,
-    "value_": 157234
+    "value": 157601,
+    "value_": 157601
   },
   {
     "geoid": "99997",
     "key": "warn-notices",
     "date": "2025-09-15",
-    "value": 228815,
-    "value_": 228815
+    "value": 231002,
+    "value_": 231002
   },
   {
     "geoid": "99999",
     "key": "warn-notices",
     "date": "2022-09-15",
-    "value": 138220,
-    "value_": 138220
+    "value": 137309,
+    "value_": 137309
   },
   {
     "geoid": "99999",
     "key": "warn-notices",
     "date": "2023-09-15",
-    "value": 322695,
-    "value_": 322695
+    "value": 324325,
+    "value_": 324325
   },
   {
     "geoid": "99999",
     "key": "warn-notices",
     "date": "2024-09-15",
-    "value": 247542,
-    "value_": 247542
+    "value": 248235,
+    "value_": 248235
   },
   {
     "geoid": "99999",
     "key": "warn-notices",
     "date": "2025-09-15",
-    "value": 340881,
-    "value_": 340881
+    "value": 344720,
+    "value_": 344720
   },
   {
     "geoid": "11001",
@@ -14451,8 +14360,8 @@
     "geoid": "11001",
     "key": "warn-notices",
     "date": "2023-10-15",
-    "value": 583,
-    "value_": 583
+    "value": 377,
+    "value_": 377
   },
   {
     "geoid": "11001",
@@ -14570,8 +14479,8 @@
     "geoid": "13820",
     "key": "warn-notices",
     "date": "2025-10-15",
-    "value": 594,
-    "value_": 594
+    "value": 602,
+    "value_": 602
   },
   {
     "geoid": "14460",
@@ -14598,64 +14507,57 @@
     "geoid": "15380",
     "key": "warn-notices",
     "date": "2023-10-15",
-    "value": 2603,
-    "value_": 2603
-  },
-  {
-    "geoid": "16740",
-    "key": "warn-notices",
-    "date": "2022-10-15",
-    "value": 6,
-    "value_": 6
+    "value": 2654,
+    "value_": 2654
   },
   {
     "geoid": "16740",
     "key": "warn-notices",
     "date": "2023-10-15",
-    "value": 173,
-    "value_": 173
+    "value": 278,
+    "value_": 278
   },
   {
     "geoid": "16740",
     "key": "warn-notices",
     "date": "2024-10-15",
-    "value": 296,
-    "value_": 296
+    "value": 295,
+    "value_": 295
   },
   {
     "geoid": "16740",
     "key": "warn-notices",
     "date": "2025-10-15",
-    "value": 416,
-    "value_": 416
+    "value": 356,
+    "value_": 356
   },
   {
     "geoid": "16980",
     "key": "warn-notices",
     "date": "2022-10-15",
-    "value": 7278,
-    "value_": 7278
+    "value": 7543,
+    "value_": 7543
   },
   {
     "geoid": "16980",
     "key": "warn-notices",
     "date": "2023-10-15",
-    "value": 9941,
-    "value_": 9941
+    "value": 10031,
+    "value_": 10031
   },
   {
     "geoid": "16980",
     "key": "warn-notices",
     "date": "2024-10-15",
-    "value": 11339,
-    "value_": 11339
+    "value": 11660,
+    "value_": 11660
   },
   {
     "geoid": "16980",
     "key": "warn-notices",
     "date": "2025-10-15",
-    "value": 12050,
-    "value_": 12050
+    "value": 12541,
+    "value_": 12541
   },
   {
     "geoid": "17140",
@@ -14738,36 +14640,36 @@
     "geoid": "18140",
     "key": "warn-notices",
     "date": "2025-10-15",
-    "value": 2111,
-    "value_": 2111
+    "value": 2161,
+    "value_": 2161
   },
   {
     "geoid": "19100",
     "key": "warn-notices",
     "date": "2022-10-15",
-    "value": 3701,
-    "value_": 3701
+    "value": 3409,
+    "value_": 3409
   },
   {
     "geoid": "19100",
     "key": "warn-notices",
     "date": "2023-10-15",
-    "value": 9326,
-    "value_": 9326
+    "value": 9161,
+    "value_": 9161
   },
   {
     "geoid": "19100",
     "key": "warn-notices",
     "date": "2024-10-15",
-    "value": 6995,
-    "value_": 6995
+    "value": 6674,
+    "value_": 6674
   },
   {
     "geoid": "19100",
     "key": "warn-notices",
     "date": "2025-10-15",
-    "value": 9212,
-    "value_": 9212
+    "value": 9119,
+    "value_": 9119
   },
   {
     "geoid": "19740",
@@ -14808,8 +14710,8 @@
     "geoid": "19820",
     "key": "warn-notices",
     "date": "2023-10-15",
-    "value": 11504,
-    "value_": 11504
+    "value": 11710,
+    "value_": 11710
   },
   {
     "geoid": "19820",
@@ -14934,8 +14836,8 @@
     "geoid": "24033",
     "key": "warn-notices",
     "date": "2025-10-15",
-    "value": 1049,
-    "value_": 1049
+    "value": 1148,
+    "value_": 1148
   },
   {
     "geoid": "24340",
@@ -14990,8 +14892,8 @@
     "geoid": "25540",
     "key": "warn-notices",
     "date": "2025-10-15",
-    "value": 5401,
-    "value_": 5401
+    "value": 5406,
+    "value_": 5406
   },
   {
     "geoid": "26420",
@@ -15004,8 +14906,8 @@
     "geoid": "26420",
     "key": "warn-notices",
     "date": "2023-10-15",
-    "value": 1326,
-    "value_": 1326
+    "value": 1327,
+    "value_": 1327
   },
   {
     "geoid": "26420",
@@ -15039,8 +14941,8 @@
     "geoid": "26900",
     "key": "warn-notices",
     "date": "2024-10-15",
-    "value": 1151,
-    "value_": 1151
+    "value": 1276,
+    "value_": 1276
   },
   {
     "geoid": "26900",
@@ -15053,29 +14955,29 @@
     "geoid": "27260",
     "key": "warn-notices",
     "date": "2022-10-15",
-    "value": 718,
-    "value_": 718
+    "value": 288,
+    "value_": 288
   },
   {
     "geoid": "27260",
     "key": "warn-notices",
     "date": "2023-10-15",
-    "value": 1054,
-    "value_": 1054
+    "value": 1039,
+    "value_": 1039
   },
   {
     "geoid": "27260",
     "key": "warn-notices",
     "date": "2024-10-15",
-    "value": 1187,
-    "value_": 1187
+    "value": 1172,
+    "value_": 1172
   },
   {
     "geoid": "27260",
     "key": "warn-notices",
     "date": "2025-10-15",
-    "value": 2712,
-    "value_": 2712
+    "value": 1474,
+    "value_": 1474
   },
   {
     "geoid": "28140",
@@ -15102,8 +15004,8 @@
     "geoid": "31080",
     "key": "warn-notices",
     "date": "2023-10-15",
-    "value": 12434,
-    "value_": 12434
+    "value": 12406,
+    "value_": 12406
   },
   {
     "geoid": "31080",
@@ -15116,8 +15018,8 @@
     "geoid": "31080",
     "key": "warn-notices",
     "date": "2025-10-15",
-    "value": 40339,
-    "value_": 40339
+    "value": 40826,
+    "value_": 40826
   },
   {
     "geoid": "31140",
@@ -15165,29 +15067,29 @@
     "geoid": "33100",
     "key": "warn-notices",
     "date": "2022-10-15",
-    "value": 1859,
-    "value_": 1859
+    "value": 2289,
+    "value_": 2289
   },
   {
     "geoid": "33100",
     "key": "warn-notices",
     "date": "2023-10-15",
-    "value": 3142,
-    "value_": 3142
+    "value": 3157,
+    "value_": 3157
   },
   {
     "geoid": "33100",
     "key": "warn-notices",
     "date": "2024-10-15",
-    "value": 2751,
-    "value_": 2751
+    "value": 2866,
+    "value_": 2866
   },
   {
     "geoid": "33100",
     "key": "warn-notices",
     "date": "2025-10-15",
-    "value": 6781,
-    "value_": 6781
+    "value": 8119,
+    "value_": 8119
   },
   {
     "geoid": "33340",
@@ -15214,8 +15116,8 @@
     "geoid": "33340",
     "key": "warn-notices",
     "date": "2025-10-15",
-    "value": 1394,
-    "value_": 1394
+    "value": 1442,
+    "value_": 1442
   },
   {
     "geoid": "33460",
@@ -15235,8 +15137,8 @@
     "geoid": "34980",
     "key": "warn-notices",
     "date": "2022-10-15",
-    "value": 471,
-    "value_": 471
+    "value": 506,
+    "value_": 506
   },
   {
     "geoid": "34980",
@@ -15263,29 +15165,29 @@
     "geoid": "35620",
     "key": "warn-notices",
     "date": "2022-10-15",
-    "value": 8006,
-    "value_": 8006
+    "value": 8213,
+    "value_": 8213
   },
   {
     "geoid": "35620",
     "key": "warn-notices",
     "date": "2023-10-15",
-    "value": 24904,
-    "value_": 24904
+    "value": 26086,
+    "value_": 26086
   },
   {
     "geoid": "35620",
     "key": "warn-notices",
     "date": "2024-10-15",
-    "value": 21611,
-    "value_": 21611
+    "value": 21767,
+    "value_": 21767
   },
   {
     "geoid": "35620",
     "key": "warn-notices",
     "date": "2025-10-15",
-    "value": 10054,
-    "value_": 10054
+    "value": 15602,
+    "value_": 15602
   },
   {
     "geoid": "36540",
@@ -15333,8 +15235,8 @@
     "geoid": "36740",
     "key": "warn-notices",
     "date": "2025-10-15",
-    "value": 2131,
-    "value_": 2131
+    "value": 2132,
+    "value_": 2132
   },
   {
     "geoid": "37980",
@@ -15417,8 +15319,8 @@
     "geoid": "38900",
     "key": "warn-notices",
     "date": "2025-10-15",
-    "value": 5709,
-    "value_": 5709
+    "value": 5711,
+    "value_": 5711
   },
   {
     "geoid": "39300",
@@ -15473,8 +15375,8 @@
     "geoid": "40060",
     "key": "warn-notices",
     "date": "2025-10-15",
-    "value": 670,
-    "value_": 670
+    "value": 749,
+    "value_": 749
   },
   {
     "geoid": "40140",
@@ -15501,8 +15403,8 @@
     "geoid": "40140",
     "key": "warn-notices",
     "date": "2025-10-15",
-    "value": 6659,
-    "value_": 6659
+    "value": 6829,
+    "value_": 6829
   },
   {
     "geoid": "40380",
@@ -15529,22 +15431,22 @@
     "geoid": "40380",
     "key": "warn-notices",
     "date": "2025-10-15",
-    "value": 314,
-    "value_": 314
+    "value": 513,
+    "value_": 513
   },
   {
     "geoid": "40900",
     "key": "warn-notices",
     "date": "2022-10-15",
-    "value": 1872,
-    "value_": 1872
+    "value": 1838,
+    "value_": 1838
   },
   {
     "geoid": "40900",
     "key": "warn-notices",
     "date": "2023-10-15",
-    "value": 2963,
-    "value_": 2963
+    "value": 2938,
+    "value_": 2938
   },
   {
     "geoid": "40900",
@@ -15613,8 +15515,8 @@
     "geoid": "41620",
     "key": "warn-notices",
     "date": "2025-10-15",
-    "value": 393,
-    "value_": 393
+    "value": 447,
+    "value_": 447
   },
   {
     "geoid": "41700",
@@ -15655,8 +15557,8 @@
     "geoid": "41740",
     "key": "warn-notices",
     "date": "2023-10-15",
-    "value": 8590,
-    "value_": 8590
+    "value": 8593,
+    "value_": 8593
   },
   {
     "geoid": "41740",
@@ -15683,15 +15585,15 @@
     "geoid": "41860",
     "key": "warn-notices",
     "date": "2023-10-15",
-    "value": 16090,
-    "value_": 16090
+    "value": 16034,
+    "value_": 16034
   },
   {
     "geoid": "41860",
     "key": "warn-notices",
     "date": "2024-10-15",
-    "value": 7541,
-    "value_": 7541
+    "value": 7543,
+    "value_": 7543
   },
   {
     "geoid": "41860",
@@ -15725,8 +15627,8 @@
     "geoid": "41940",
     "key": "warn-notices",
     "date": "2025-10-15",
-    "value": 9373,
-    "value_": 9373
+    "value": 9352,
+    "value_": 9352
   },
   {
     "geoid": "42660",
@@ -15753,15 +15655,15 @@
     "geoid": "42660",
     "key": "warn-notices",
     "date": "2025-10-15",
-    "value": 9375,
-    "value_": 9375
+    "value": 9492,
+    "value_": 9492
   },
   {
     "geoid": "45300",
     "key": "warn-notices",
     "date": "2022-10-15",
-    "value": 1656,
-    "value_": 1656
+    "value": 1598,
+    "value_": 1598
   },
   {
     "geoid": "45300",
@@ -15851,8 +15753,8 @@
     "geoid": "47900",
     "key": "warn-notices",
     "date": "2023-10-15",
-    "value": 3124,
-    "value_": 3124
+    "value": 2918,
+    "value_": 2918
   },
   {
     "geoid": "47900",
@@ -15865,8 +15767,8 @@
     "geoid": "47900",
     "key": "warn-notices",
     "date": "2025-10-15",
-    "value": 12892,
-    "value_": 12892
+    "value": 13051,
+    "value_": 13051
   },
   {
     "geoid": "51013",
@@ -15928,8 +15830,8 @@
     "geoid": "51059",
     "key": "warn-notices",
     "date": "2025-10-15",
-    "value": 1076,
-    "value_": 1076
+    "value": 1136,
+    "value_": 1136
   },
   {
     "geoid": "51107",
@@ -15977,57 +15879,57 @@
     "geoid": "99997",
     "key": "warn-notices",
     "date": "2022-10-15",
-    "value": 89953,
-    "value_": 89953
+    "value": 90075,
+    "value_": 90075
   },
   {
     "geoid": "99997",
     "key": "warn-notices",
     "date": "2023-10-15",
-    "value": 192883,
-    "value_": 192883
+    "value": 194041,
+    "value_": 194041
   },
   {
     "geoid": "99997",
     "key": "warn-notices",
     "date": "2024-10-15",
-    "value": 158017,
-    "value_": 158017
+    "value": 158399,
+    "value_": 158399
   },
   {
     "geoid": "99997",
     "key": "warn-notices",
     "date": "2025-10-15",
-    "value": 236656,
-    "value_": 236656
+    "value": 244000,
+    "value_": 244000
   },
   {
     "geoid": "99999",
     "key": "warn-notices",
     "date": "2022-10-15",
-    "value": 149889,
-    "value_": 149889
+    "value": 149743,
+    "value_": 149743
   },
   {
     "geoid": "99999",
     "key": "warn-notices",
     "date": "2023-10-15",
-    "value": 324491,
-    "value_": 324491
+    "value": 326144,
+    "value_": 326144
   },
   {
     "geoid": "99999",
     "key": "warn-notices",
     "date": "2024-10-15",
-    "value": 246328,
-    "value_": 246328
+    "value": 247049,
+    "value_": 247049
   },
   {
     "geoid": "99999",
     "key": "warn-notices",
     "date": "2025-10-15",
-    "value": 361404,
-    "value_": 361404
+    "value": 371924,
+    "value_": 371924
   },
   {
     "geoid": "11001",
@@ -16040,8 +15942,8 @@
     "geoid": "11001",
     "key": "warn-notices",
     "date": "2023-11-15",
-    "value": 1017,
-    "value_": 1017
+    "value": 811,
+    "value_": 811
   },
   {
     "geoid": "11001",
@@ -16103,8 +16005,8 @@
     "geoid": "12420",
     "key": "warn-notices",
     "date": "2025-11-15",
-    "value": 2120,
-    "value_": 2120
+    "value": 2131,
+    "value_": 2131
   },
   {
     "geoid": "12580",
@@ -16159,8 +16061,8 @@
     "geoid": "13820",
     "key": "warn-notices",
     "date": "2025-11-15",
-    "value": 594,
-    "value_": 594
+    "value": 602,
+    "value_": 602
   },
   {
     "geoid": "14460",
@@ -16173,8 +16075,8 @@
     "geoid": "14460",
     "key": "warn-notices",
     "date": "2025-11-15",
-    "value": 5277,
-    "value_": 5277
+    "value": 5527,
+    "value_": 5527
   },
   {
     "geoid": "15380",
@@ -16187,8 +16089,8 @@
     "geoid": "15380",
     "key": "warn-notices",
     "date": "2023-11-15",
-    "value": 2603,
-    "value_": 2603
+    "value": 2654,
+    "value_": 2654
   },
   {
     "geoid": "15380",
@@ -16207,58 +16109,51 @@
   {
     "geoid": "16740",
     "key": "warn-notices",
-    "date": "2022-11-15",
-    "value": 6,
-    "value_": 6
-  },
-  {
-    "geoid": "16740",
-    "key": "warn-notices",
     "date": "2023-11-15",
-    "value": 173,
-    "value_": 173
+    "value": 278,
+    "value_": 278
   },
   {
     "geoid": "16740",
     "key": "warn-notices",
     "date": "2024-11-15",
-    "value": 296,
-    "value_": 296
+    "value": 295,
+    "value_": 295
   },
   {
     "geoid": "16740",
     "key": "warn-notices",
     "date": "2025-11-15",
-    "value": 416,
-    "value_": 416
+    "value": 398,
+    "value_": 398
   },
   {
     "geoid": "16980",
     "key": "warn-notices",
     "date": "2022-11-15",
-    "value": 6621,
-    "value_": 6621
+    "value": 6886,
+    "value_": 6886
   },
   {
     "geoid": "16980",
     "key": "warn-notices",
     "date": "2023-11-15",
-    "value": 10795,
-    "value_": 10795
+    "value": 10885,
+    "value_": 10885
   },
   {
     "geoid": "16980",
     "key": "warn-notices",
     "date": "2024-11-15",
-    "value": 11014,
-    "value_": 11014
+    "value": 11335,
+    "value_": 11335
   },
   {
     "geoid": "16980",
     "key": "warn-notices",
     "date": "2025-11-15",
-    "value": 11783,
-    "value_": 11783
+    "value": 12691,
+    "value_": 12691
   },
   {
     "geoid": "17140",
@@ -16341,36 +16236,36 @@
     "geoid": "18140",
     "key": "warn-notices",
     "date": "2025-11-15",
-    "value": 2015,
-    "value_": 2015
+    "value": 2321,
+    "value_": 2321
   },
   {
     "geoid": "19100",
     "key": "warn-notices",
     "date": "2022-11-15",
-    "value": 3932,
-    "value_": 3932
+    "value": 3640,
+    "value_": 3640
   },
   {
     "geoid": "19100",
     "key": "warn-notices",
     "date": "2023-11-15",
-    "value": 9620,
-    "value_": 9620
+    "value": 9455,
+    "value_": 9455
   },
   {
     "geoid": "19100",
     "key": "warn-notices",
     "date": "2024-11-15",
-    "value": 6921,
-    "value_": 6921
+    "value": 6600,
+    "value_": 6600
   },
   {
     "geoid": "19100",
     "key": "warn-notices",
     "date": "2025-11-15",
-    "value": 9178,
-    "value_": 9178
+    "value": 10058,
+    "value_": 10058
   },
   {
     "geoid": "19740",
@@ -16397,8 +16292,8 @@
     "geoid": "19740",
     "key": "warn-notices",
     "date": "2025-11-15",
-    "value": 2919,
-    "value_": 2919
+    "value": 3044,
+    "value_": 3044
   },
   {
     "geoid": "19820",
@@ -16411,8 +16306,8 @@
     "geoid": "19820",
     "key": "warn-notices",
     "date": "2023-11-15",
-    "value": 12671,
-    "value_": 12671
+    "value": 12877,
+    "value_": 12877
   },
   {
     "geoid": "19820",
@@ -16425,8 +16320,8 @@
     "geoid": "19820",
     "key": "warn-notices",
     "date": "2025-11-15",
-    "value": 8153,
-    "value_": 8153
+    "value": 9706,
+    "value_": 9706
   },
   {
     "geoid": "23420",
@@ -16481,8 +16376,8 @@
     "geoid": "24021",
     "key": "warn-notices",
     "date": "2025-11-15",
-    "value": 139,
-    "value_": 139
+    "value": 302,
+    "value_": 302
   },
   {
     "geoid": "24031",
@@ -16509,8 +16404,8 @@
     "geoid": "24031",
     "key": "warn-notices",
     "date": "2025-11-15",
-    "value": 4423,
-    "value_": 4423
+    "value": 4517,
+    "value_": 4517
   },
   {
     "geoid": "24033",
@@ -16537,8 +16432,8 @@
     "geoid": "24033",
     "key": "warn-notices",
     "date": "2025-11-15",
-    "value": 1243,
-    "value_": 1243
+    "value": 1526,
+    "value_": 1526
   },
   {
     "geoid": "24340",
@@ -16565,8 +16460,8 @@
     "geoid": "24340",
     "key": "warn-notices",
     "date": "2025-11-15",
-    "value": 1057,
-    "value_": 1057
+    "value": 1124,
+    "value_": 1124
   },
   {
     "geoid": "25540",
@@ -16593,8 +16488,8 @@
     "geoid": "25540",
     "key": "warn-notices",
     "date": "2025-11-15",
-    "value": 483,
-    "value_": 483
+    "value": 488,
+    "value_": 488
   },
   {
     "geoid": "26420",
@@ -16607,8 +16502,8 @@
     "geoid": "26420",
     "key": "warn-notices",
     "date": "2023-11-15",
-    "value": 1462,
-    "value_": 1462
+    "value": 1463,
+    "value_": 1463
   },
   {
     "geoid": "26420",
@@ -16621,8 +16516,8 @@
     "geoid": "26420",
     "key": "warn-notices",
     "date": "2025-11-15",
-    "value": 4784,
-    "value_": 4784
+    "value": 4964,
+    "value_": 4964
   },
   {
     "geoid": "26900",
@@ -16642,43 +16537,43 @@
     "geoid": "26900",
     "key": "warn-notices",
     "date": "2024-11-15",
-    "value": 1355,
-    "value_": 1355
+    "value": 1480,
+    "value_": 1480
   },
   {
     "geoid": "26900",
     "key": "warn-notices",
     "date": "2025-11-15",
-    "value": 1110,
-    "value_": 1110
+    "value": 1164,
+    "value_": 1164
   },
   {
     "geoid": "27260",
     "key": "warn-notices",
     "date": "2022-11-15",
-    "value": 494,
-    "value_": 494
+    "value": 288,
+    "value_": 288
   },
   {
     "geoid": "27260",
     "key": "warn-notices",
     "date": "2023-11-15",
-    "value": 1194,
-    "value_": 1194
+    "value": 1179,
+    "value_": 1179
   },
   {
     "geoid": "27260",
     "key": "warn-notices",
     "date": "2024-11-15",
-    "value": 1199,
-    "value_": 1199
+    "value": 1184,
+    "value_": 1184
   },
   {
     "geoid": "27260",
     "key": "warn-notices",
     "date": "2025-11-15",
-    "value": 2560,
-    "value_": 2560
+    "value": 1503,
+    "value_": 1503
   },
   {
     "geoid": "28140",
@@ -16705,8 +16600,8 @@
     "geoid": "31080",
     "key": "warn-notices",
     "date": "2023-11-15",
-    "value": 11623,
-    "value_": 11623
+    "value": 11595,
+    "value_": 11595
   },
   {
     "geoid": "31080",
@@ -16719,8 +16614,8 @@
     "geoid": "31080",
     "key": "warn-notices",
     "date": "2025-11-15",
-    "value": 37986,
-    "value_": 37986
+    "value": 39463,
+    "value_": 39463
   },
   {
     "geoid": "31140",
@@ -16768,29 +16663,29 @@
     "geoid": "33100",
     "key": "warn-notices",
     "date": "2022-11-15",
-    "value": 1990,
-    "value_": 1990
+    "value": 2196,
+    "value_": 2196
   },
   {
     "geoid": "33100",
     "key": "warn-notices",
     "date": "2023-11-15",
-    "value": 3119,
-    "value_": 3119
+    "value": 3134,
+    "value_": 3134
   },
   {
     "geoid": "33100",
     "key": "warn-notices",
     "date": "2024-11-15",
-    "value": 2778,
-    "value_": 2778
+    "value": 2893,
+    "value_": 2893
   },
   {
     "geoid": "33100",
     "key": "warn-notices",
     "date": "2025-11-15",
-    "value": 6682,
-    "value_": 6682
+    "value": 8430,
+    "value_": 8430
   },
   {
     "geoid": "33340",
@@ -16817,8 +16712,8 @@
     "geoid": "33340",
     "key": "warn-notices",
     "date": "2025-11-15",
-    "value": 1291,
-    "value_": 1291
+    "value": 1339,
+    "value_": 1339
   },
   {
     "geoid": "33460",
@@ -16838,8 +16733,8 @@
     "geoid": "34980",
     "key": "warn-notices",
     "date": "2022-11-15",
-    "value": 471,
-    "value_": 471
+    "value": 506,
+    "value_": 506
   },
   {
     "geoid": "34980",
@@ -16859,36 +16754,36 @@
     "geoid": "34980",
     "key": "warn-notices",
     "date": "2025-11-15",
-    "value": 3966,
-    "value_": 3966
+    "value": 4051,
+    "value_": 4051
   },
   {
     "geoid": "35620",
     "key": "warn-notices",
     "date": "2022-11-15",
-    "value": 9642,
-    "value_": 9642
+    "value": 9850,
+    "value_": 9850
   },
   {
     "geoid": "35620",
     "key": "warn-notices",
     "date": "2023-11-15",
-    "value": 24792,
-    "value_": 24792
+    "value": 25973,
+    "value_": 25973
   },
   {
     "geoid": "35620",
     "key": "warn-notices",
     "date": "2024-11-15",
-    "value": 20256,
-    "value_": 20256
+    "value": 20481,
+    "value_": 20481
   },
   {
     "geoid": "35620",
     "key": "warn-notices",
     "date": "2025-11-15",
-    "value": 9341,
-    "value_": 9341
+    "value": 15241,
+    "value_": 15241
   },
   {
     "geoid": "36540",
@@ -16936,8 +16831,8 @@
     "geoid": "36740",
     "key": "warn-notices",
     "date": "2025-11-15",
-    "value": 2486,
-    "value_": 2486
+    "value": 3747,
+    "value_": 3747
   },
   {
     "geoid": "37980",
@@ -16992,8 +16887,8 @@
     "geoid": "38060",
     "key": "warn-notices",
     "date": "2025-11-15",
-    "value": 6347,
-    "value_": 6347
+    "value": 6809,
+    "value_": 6809
   },
   {
     "geoid": "38900",
@@ -17020,8 +16915,8 @@
     "geoid": "38900",
     "key": "warn-notices",
     "date": "2025-11-15",
-    "value": 5738,
-    "value_": 5738
+    "value": 5740,
+    "value_": 5740
   },
   {
     "geoid": "39300",
@@ -17076,8 +16971,8 @@
     "geoid": "40060",
     "key": "warn-notices",
     "date": "2025-11-15",
-    "value": 602,
-    "value_": 602
+    "value": 681,
+    "value_": 681
   },
   {
     "geoid": "40140",
@@ -17104,8 +16999,8 @@
     "geoid": "40140",
     "key": "warn-notices",
     "date": "2025-11-15",
-    "value": 4949,
-    "value_": 4949
+    "value": 5218,
+    "value_": 5218
   },
   {
     "geoid": "40380",
@@ -17132,22 +17027,22 @@
     "geoid": "40380",
     "key": "warn-notices",
     "date": "2025-11-15",
-    "value": 314,
-    "value_": 314
+    "value": 513,
+    "value_": 513
   },
   {
     "geoid": "40900",
     "key": "warn-notices",
     "date": "2022-11-15",
-    "value": 1942,
-    "value_": 1942
+    "value": 1908,
+    "value_": 1908
   },
   {
     "geoid": "40900",
     "key": "warn-notices",
     "date": "2023-11-15",
-    "value": 2793,
-    "value_": 2793
+    "value": 2768,
+    "value_": 2768
   },
   {
     "geoid": "40900",
@@ -17188,8 +17083,8 @@
     "geoid": "41180",
     "key": "warn-notices",
     "date": "2025-11-15",
-    "value": 631,
-    "value_": 631
+    "value": 675,
+    "value_": 675
   },
   {
     "geoid": "41620",
@@ -17216,8 +17111,8 @@
     "geoid": "41620",
     "key": "warn-notices",
     "date": "2025-11-15",
-    "value": 195,
-    "value_": 195
+    "value": 454,
+    "value_": 454
   },
   {
     "geoid": "41700",
@@ -17258,8 +17153,8 @@
     "geoid": "41740",
     "key": "warn-notices",
     "date": "2023-11-15",
-    "value": 8072,
-    "value_": 8072
+    "value": 8075,
+    "value_": 8075
   },
   {
     "geoid": "41740",
@@ -17272,8 +17167,8 @@
     "geoid": "41740",
     "key": "warn-notices",
     "date": "2025-11-15",
-    "value": 5794,
-    "value_": 5794
+    "value": 5911,
+    "value_": 5911
   },
   {
     "geoid": "41860",
@@ -17286,22 +17181,22 @@
     "geoid": "41860",
     "key": "warn-notices",
     "date": "2023-11-15",
-    "value": 11249,
-    "value_": 11249
+    "value": 11193,
+    "value_": 11193
   },
   {
     "geoid": "41860",
     "key": "warn-notices",
     "date": "2024-11-15",
-    "value": 8826,
-    "value_": 8826
+    "value": 8828,
+    "value_": 8828
   },
   {
     "geoid": "41860",
     "key": "warn-notices",
     "date": "2025-11-15",
-    "value": 12869,
-    "value_": 12869
+    "value": 13207,
+    "value_": 13207
   },
   {
     "geoid": "41940",
@@ -17328,8 +17223,8 @@
     "geoid": "41940",
     "key": "warn-notices",
     "date": "2025-11-15",
-    "value": 9200,
-    "value_": 9200
+    "value": 9333,
+    "value_": 9333
   },
   {
     "geoid": "42660",
@@ -17356,15 +17251,15 @@
     "geoid": "42660",
     "key": "warn-notices",
     "date": "2025-11-15",
-    "value": 9083,
-    "value_": 9083
+    "value": 9296,
+    "value_": 9296
   },
   {
     "geoid": "45300",
     "key": "warn-notices",
     "date": "2022-11-15",
-    "value": 1469,
-    "value_": 1469
+    "value": 1411,
+    "value_": 1411
   },
   {
     "geoid": "45300",
@@ -17384,8 +17279,8 @@
     "geoid": "45300",
     "key": "warn-notices",
     "date": "2025-11-15",
-    "value": 1901,
-    "value_": 1901
+    "value": 2422,
+    "value_": 2422
   },
   {
     "geoid": "46060",
@@ -17454,8 +17349,8 @@
     "geoid": "47900",
     "key": "warn-notices",
     "date": "2023-11-15",
-    "value": 3621,
-    "value_": 3621
+    "value": 3415,
+    "value_": 3415
   },
   {
     "geoid": "47900",
@@ -17468,8 +17363,8 @@
     "geoid": "47900",
     "key": "warn-notices",
     "date": "2025-11-15",
-    "value": 12259,
-    "value_": 12259
+    "value": 13197,
+    "value_": 13197
   },
   {
     "geoid": "51013",
@@ -17531,8 +17426,8 @@
     "geoid": "51059",
     "key": "warn-notices",
     "date": "2025-11-15",
-    "value": 1103,
-    "value_": 1103
+    "value": 1254,
+    "value_": 1254
   },
   {
     "geoid": "51107",
@@ -17545,8 +17440,8 @@
     "geoid": "51107",
     "key": "warn-notices",
     "date": "2025-11-15",
-    "value": 217,
-    "value_": 217
+    "value": 464,
+    "value_": 464
   },
   {
     "geoid": "51153",
@@ -17559,57 +17454,57 @@
     "geoid": "99997",
     "key": "warn-notices",
     "date": "2022-11-15",
-    "value": 99462,
-    "value_": 99462
+    "value": 99585,
+    "value_": 99585
   },
   {
     "geoid": "99997",
     "key": "warn-notices",
     "date": "2023-11-15",
-    "value": 189222,
-    "value_": 189222
+    "value": 190379,
+    "value_": 190379
   },
   {
     "geoid": "99997",
     "key": "warn-notices",
     "date": "2024-11-15",
-    "value": 172811,
-    "value_": 172811
+    "value": 173262,
+    "value_": 173262
   },
   {
     "geoid": "99997",
     "key": "warn-notices",
     "date": "2025-11-15",
-    "value": 214933,
-    "value_": 214933
+    "value": 232298,
+    "value_": 232298
   },
   {
     "geoid": "99999",
     "key": "warn-notices",
     "date": "2022-11-15",
-    "value": 160678,
-    "value_": 160678
+    "value": 160670,
+    "value_": 160670
   },
   {
     "geoid": "99999",
     "key": "warn-notices",
     "date": "2023-11-15",
-    "value": 322693,
-    "value_": 322693
+    "value": 324187,
+    "value_": 324187
   },
   {
     "geoid": "99999",
     "key": "warn-notices",
     "date": "2024-11-15",
-    "value": 264453,
-    "value_": 264453
+    "value": 266516,
+    "value_": 266516
   },
   {
     "geoid": "99999",
     "key": "warn-notices",
     "date": "2025-11-15",
-    "value": 332351,
-    "value_": 332351
+    "value": 359013,
+    "value_": 359013
   },
   {
     "geoid": "11001",
@@ -17622,8 +17517,8 @@
     "geoid": "11001",
     "key": "warn-notices",
     "date": "2023-12-15",
-    "value": 1017,
-    "value_": 1017
+    "value": 811,
+    "value_": 811
   },
   {
     "geoid": "11001",
@@ -17727,8 +17622,8 @@
     "geoid": "15380",
     "key": "warn-notices",
     "date": "2023-12-15",
-    "value": 2511,
-    "value_": 2511
+    "value": 2562,
+    "value_": 2562
   },
   {
     "geoid": "15380",
@@ -17740,44 +17635,37 @@
   {
     "geoid": "16740",
     "key": "warn-notices",
-    "date": "2022-12-15",
-    "value": 6,
-    "value_": 6
-  },
-  {
-    "geoid": "16740",
-    "key": "warn-notices",
     "date": "2023-12-15",
-    "value": 173,
-    "value_": 173
+    "value": 278,
+    "value_": 278
   },
   {
     "geoid": "16740",
     "key": "warn-notices",
     "date": "2024-12-15",
-    "value": 296,
-    "value_": 296
+    "value": 474,
+    "value_": 474
   },
   {
     "geoid": "16980",
     "key": "warn-notices",
     "date": "2022-12-15",
-    "value": 7461,
-    "value_": 7461
+    "value": 7434,
+    "value_": 7434
   },
   {
     "geoid": "16980",
     "key": "warn-notices",
     "date": "2023-12-15",
-    "value": 10498,
-    "value_": 10498
+    "value": 10588,
+    "value_": 10588
   },
   {
     "geoid": "16980",
     "key": "warn-notices",
     "date": "2024-12-15",
-    "value": 11004,
-    "value_": 11004
+    "value": 11402,
+    "value_": 11402
   },
   {
     "geoid": "17140",
@@ -17853,15 +17741,15 @@
     "geoid": "19100",
     "key": "warn-notices",
     "date": "2023-12-15",
-    "value": 10043,
-    "value_": 10043
+    "value": 9878,
+    "value_": 9878
   },
   {
     "geoid": "19100",
     "key": "warn-notices",
     "date": "2024-12-15",
-    "value": 6602,
-    "value_": 6602
+    "value": 6281,
+    "value_": 6281
   },
   {
     "geoid": "19740",
@@ -17895,8 +17783,8 @@
     "geoid": "19820",
     "key": "warn-notices",
     "date": "2023-12-15",
-    "value": 15602,
-    "value_": 15602
+    "value": 15808,
+    "value_": 15808
   },
   {
     "geoid": "19820",
@@ -18042,8 +17930,8 @@
     "geoid": "26420",
     "key": "warn-notices",
     "date": "2023-12-15",
-    "value": 1512,
-    "value_": 1512
+    "value": 1513,
+    "value_": 1513
   },
   {
     "geoid": "26420",
@@ -18070,8 +17958,8 @@
     "geoid": "26900",
     "key": "warn-notices",
     "date": "2024-12-15",
-    "value": 1329,
-    "value_": 1329
+    "value": 1454,
+    "value_": 1454
   },
   {
     "geoid": "27260",
@@ -18084,15 +17972,15 @@
     "geoid": "27260",
     "key": "warn-notices",
     "date": "2023-12-15",
-    "value": 1180,
-    "value_": 1180
+    "value": 1165,
+    "value_": 1165
   },
   {
     "geoid": "27260",
     "key": "warn-notices",
     "date": "2024-12-15",
-    "value": 1448,
-    "value_": 1448
+    "value": 1433,
+    "value_": 1433
   },
   {
     "geoid": "28140",
@@ -18119,8 +18007,8 @@
     "geoid": "31080",
     "key": "warn-notices",
     "date": "2023-12-15",
-    "value": 9808,
-    "value_": 9808
+    "value": 9780,
+    "value_": 9780
   },
   {
     "geoid": "31080",
@@ -18168,15 +18056,15 @@
     "geoid": "33100",
     "key": "warn-notices",
     "date": "2023-12-15",
-    "value": 2872,
-    "value_": 2872
+    "value": 2887,
+    "value_": 2887
   },
   {
     "geoid": "33100",
     "key": "warn-notices",
     "date": "2024-12-15",
-    "value": 3732,
-    "value_": 3732
+    "value": 3847,
+    "value_": 3847
   },
   {
     "geoid": "33340",
@@ -18217,8 +18105,8 @@
     "geoid": "34980",
     "key": "warn-notices",
     "date": "2022-12-15",
-    "value": 145,
-    "value_": 145
+    "value": 180,
+    "value_": 180
   },
   {
     "geoid": "34980",
@@ -18238,22 +18126,22 @@
     "geoid": "35620",
     "key": "warn-notices",
     "date": "2022-12-15",
-    "value": 12000,
-    "value_": 12000
+    "value": 13396,
+    "value_": 13396
   },
   {
     "geoid": "35620",
     "key": "warn-notices",
     "date": "2023-12-15",
-    "value": 24533,
-    "value_": 24533
+    "value": 24526,
+    "value_": 24526
   },
   {
     "geoid": "35620",
     "key": "warn-notices",
     "date": "2024-12-15",
-    "value": 18212,
-    "value_": 18212
+    "value": 18437,
+    "value_": 18437
   },
   {
     "geoid": "36540",
@@ -18441,15 +18329,15 @@
     "geoid": "40900",
     "key": "warn-notices",
     "date": "2022-12-15",
-    "value": 1946,
-    "value_": 1946
+    "value": 1912,
+    "value_": 1912
   },
   {
     "geoid": "40900",
     "key": "warn-notices",
     "date": "2023-12-15",
-    "value": 2600,
-    "value_": 2600
+    "value": 2575,
+    "value_": 2575
   },
   {
     "geoid": "40900",
@@ -18532,8 +18420,8 @@
     "geoid": "41740",
     "key": "warn-notices",
     "date": "2023-12-15",
-    "value": 7889,
-    "value_": 7889
+    "value": 7892,
+    "value_": 7892
   },
   {
     "geoid": "41740",
@@ -18553,15 +18441,15 @@
     "geoid": "41860",
     "key": "warn-notices",
     "date": "2023-12-15",
-    "value": 10828,
-    "value_": 10828
+    "value": 10772,
+    "value_": 10772
   },
   {
     "geoid": "41860",
     "key": "warn-notices",
     "date": "2024-12-15",
-    "value": 8922,
-    "value_": 8922
+    "value": 8924,
+    "value_": 8924
   },
   {
     "geoid": "41940",
@@ -18609,8 +18497,8 @@
     "geoid": "45300",
     "key": "warn-notices",
     "date": "2022-12-15",
-    "value": 1469,
-    "value_": 1469
+    "value": 1411,
+    "value_": 1411
   },
   {
     "geoid": "45300",
@@ -18679,8 +18567,8 @@
     "geoid": "47900",
     "key": "warn-notices",
     "date": "2023-12-15",
-    "value": 3561,
-    "value_": 3561
+    "value": 3355,
+    "value_": 3355
   },
   {
     "geoid": "47900",
@@ -18756,42 +18644,42 @@
     "geoid": "99997",
     "key": "warn-notices",
     "date": "2022-12-15",
-    "value": 106654,
-    "value_": 106654
+    "value": 107965,
+    "value_": 107965
   },
   {
     "geoid": "99997",
     "key": "warn-notices",
     "date": "2023-12-15",
-    "value": 187548,
-    "value_": 187548
+    "value": 187517,
+    "value_": 187517
   },
   {
     "geoid": "99997",
     "key": "warn-notices",
     "date": "2024-12-15",
-    "value": 172944,
-    "value_": 172944
+    "value": 173651,
+    "value_": 173651
   },
   {
     "geoid": "99999",
     "key": "warn-notices",
     "date": "2022-12-15",
-    "value": 172537,
-    "value_": 172537
+    "value": 173744,
+    "value_": 173744
   },
   {
     "geoid": "99999",
     "key": "warn-notices",
     "date": "2023-12-15",
-    "value": 320078,
-    "value_": 320078
+    "value": 320358,
+    "value_": 320358
   },
   {
     "geoid": "99999",
     "key": "warn-notices",
     "date": "2024-12-15",
-    "value": 265902,
-    "value_": 265902
+    "value": 268457,
+    "value_": 268457
   }
 ]
