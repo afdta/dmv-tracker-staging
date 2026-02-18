@@ -22897,6 +22897,13 @@
     "value_": 618939.18078
   },
   {
+    "geoid": "11001",
+    "key": "median-listing-price",
+    "date": "2025-12-15",
+    "value": 549500,
+    "value_": 549500
+  },
+  {
     "geoid": "12060",
     "key": "median-listing-price",
     "date": "2022-12-15",
@@ -22916,6 +22923,13 @@
     "date": "2024-12-15",
     "value": 414335.46799,
     "value_": 414335.46799
+  },
+  {
+    "geoid": "12060",
+    "key": "median-listing-price",
+    "date": "2025-12-15",
+    "value": 400000,
+    "value_": 400000
   },
   {
     "geoid": "12420",
@@ -22939,6 +22953,13 @@
     "value_": 516430.13075
   },
   {
+    "geoid": "12420",
+    "key": "median-listing-price",
+    "date": "2025-12-15",
+    "value": 462000,
+    "value_": 462000
+  },
+  {
     "geoid": "12580",
     "key": "median-listing-price",
     "date": "2022-12-15",
@@ -22958,6 +22979,13 @@
     "date": "2024-12-15",
     "value": 362588.8581,
     "value_": 362588.8581
+  },
+  {
+    "geoid": "12580",
+    "key": "median-listing-price",
+    "date": "2025-12-15",
+    "value": 357495,
+    "value_": 357495
   },
   {
     "geoid": "13820",
@@ -22981,6 +23009,13 @@
     "value_": 298307.0334
   },
   {
+    "geoid": "13820",
+    "key": "median-listing-price",
+    "date": "2025-12-15",
+    "value": 289663,
+    "value_": 289663
+  },
+  {
     "geoid": "14460",
     "key": "median-listing-price",
     "date": "2022-12-15",
@@ -23000,6 +23035,13 @@
     "date": "2024-12-15",
     "value": 830207.27678,
     "value_": 830207.27678
+  },
+  {
+    "geoid": "14460",
+    "key": "median-listing-price",
+    "date": "2025-12-15",
+    "value": 772000,
+    "value_": 772000
   },
   {
     "geoid": "15380",
@@ -23023,6 +23065,13 @@
     "value_": 258940.24309
   },
   {
+    "geoid": "15380",
+    "key": "median-listing-price",
+    "date": "2025-12-15",
+    "value": 249950,
+    "value_": 249950
+  },
+  {
     "geoid": "16740",
     "key": "median-listing-price",
     "date": "2022-12-15",
@@ -23042,6 +23091,13 @@
     "date": "2024-12-15",
     "value": 437644.75173,
     "value_": 437644.75173
+  },
+  {
+    "geoid": "16740",
+    "key": "median-listing-price",
+    "date": "2025-12-15",
+    "value": 422516,
+    "value_": 422516
   },
   {
     "geoid": "16980",
@@ -23065,6 +23121,13 @@
     "value_": 359947.13928
   },
   {
+    "geoid": "16980",
+    "key": "median-listing-price",
+    "date": "2025-12-15",
+    "value": 348900,
+    "value_": 348900
+  },
+  {
     "geoid": "17140",
     "key": "median-listing-price",
     "date": "2022-12-15",
@@ -23084,6 +23147,13 @@
     "date": "2024-12-15",
     "value": 330940.03063,
     "value_": 330940.03063
+  },
+  {
+    "geoid": "17140",
+    "key": "median-listing-price",
+    "date": "2025-12-15",
+    "value": 329950,
+    "value_": 329950
   },
   {
     "geoid": "17410",
@@ -23107,6 +23177,13 @@
     "value_": 248062.57735
   },
   {
+    "geoid": "17410",
+    "key": "median-listing-price",
+    "date": "2025-12-15",
+    "value": 249450,
+    "value_": 249450
+  },
+  {
     "geoid": "18140",
     "key": "median-listing-price",
     "date": "2022-12-15",
@@ -23126,6 +23203,13 @@
     "date": "2024-12-15",
     "value": 362019.07561,
     "value_": 362019.07561
+  },
+  {
+    "geoid": "18140",
+    "key": "median-listing-price",
+    "date": "2025-12-15",
+    "value": 349950,
+    "value_": 349950
   },
   {
     "geoid": "19100",
@@ -23149,6 +23233,13 @@
     "value_": 437644.75173
   },
   {
+    "geoid": "19100",
+    "key": "median-listing-price",
+    "date": "2025-12-15",
+    "value": 412500,
+    "value_": 412500
+  },
+  {
     "geoid": "19740",
     "key": "median-listing-price",
     "date": "2022-12-15",
@@ -23168,6 +23259,13 @@
     "date": "2024-12-15",
     "value": 598116.22064,
     "value_": 598116.22064
+  },
+  {
+    "geoid": "19740",
+    "key": "median-listing-price",
+    "date": "2025-12-15",
+    "value": 557500,
+    "value_": 557500
   },
   {
     "geoid": "19820",
@@ -23191,6 +23289,13 @@
     "value_": 258888.44468
   },
   {
+    "geoid": "19820",
+    "key": "median-listing-price",
+    "date": "2025-12-15",
+    "value": 246400,
+    "value_": 246400
+  },
+  {
     "geoid": "23420",
     "key": "median-listing-price",
     "date": "2022-12-15",
@@ -23210,6 +23315,13 @@
     "date": "2024-12-15",
     "value": 494659.25974,
     "value_": 494659.25974
+  },
+  {
+    "geoid": "23420",
+    "key": "median-listing-price",
+    "date": "2025-12-15",
+    "value": 462500,
+    "value_": 462500
   },
   {
     "geoid": "24017",
@@ -23233,6 +23345,13 @@
     "value_": 492084.87885
   },
   {
+    "geoid": "24017",
+    "key": "median-listing-price",
+    "date": "2025-12-15",
+    "value": 467500,
+    "value_": 467500
+  },
+  {
     "geoid": "24021",
     "key": "median-listing-price",
     "date": "2022-12-15",
@@ -23252,6 +23371,13 @@
     "date": "2024-12-15",
     "value": 528571.67766,
     "value_": 528571.67766
+  },
+  {
+    "geoid": "24021",
+    "key": "median-listing-price",
+    "date": "2025-12-15",
+    "value": 511075,
+    "value_": 511075
   },
   {
     "geoid": "24031",
@@ -23275,6 +23401,13 @@
     "value_": 631940.58126
   },
   {
+    "geoid": "24031",
+    "key": "median-listing-price",
+    "date": "2025-12-15",
+    "value": 579973,
+    "value_": 579973
+  },
+  {
     "geoid": "24033",
     "key": "median-listing-price",
     "date": "2022-12-15",
@@ -23294,6 +23427,13 @@
     "date": "2024-12-15",
     "value": 469149.57962,
     "value_": 469149.57962
+  },
+  {
+    "geoid": "24033",
+    "key": "median-listing-price",
+    "date": "2025-12-15",
+    "value": 452623,
+    "value_": 452623
   },
   {
     "geoid": "24340",
@@ -23317,6 +23457,13 @@
     "value_": 388488.06225
   },
   {
+    "geoid": "24340",
+    "key": "median-listing-price",
+    "date": "2025-12-15",
+    "value": 397000,
+    "value_": 397000
+  },
+  {
     "geoid": "25540",
     "key": "median-listing-price",
     "date": "2022-12-15",
@@ -23336,6 +23483,13 @@
     "date": "2024-12-15",
     "value": 429874.99048,
     "value_": 429874.99048
+  },
+  {
+    "geoid": "25540",
+    "key": "median-listing-price",
+    "date": "2025-12-15",
+    "value": 422475,
+    "value_": 422475
   },
   {
     "geoid": "26420",
@@ -23359,6 +23513,13 @@
     "value_": 373475.84756
   },
   {
+    "geoid": "26420",
+    "key": "median-listing-price",
+    "date": "2025-12-15",
+    "value": 350000,
+    "value_": 350000
+  },
+  {
     "geoid": "26900",
     "key": "median-listing-price",
     "date": "2022-12-15",
@@ -23378,6 +23539,13 @@
     "date": "2024-12-15",
     "value": 321107.65677,
     "value_": 321107.65677
+  },
+  {
+    "geoid": "26900",
+    "key": "median-listing-price",
+    "date": "2025-12-15",
+    "value": 309974,
+    "value_": 309974
   },
   {
     "geoid": "27260",
@@ -23401,6 +23569,13 @@
     "value_": 398329.75983
   },
   {
+    "geoid": "27260",
+    "key": "median-listing-price",
+    "date": "2025-12-15",
+    "value": 382500,
+    "value_": 382500
+  },
+  {
     "geoid": "28140",
     "key": "median-listing-price",
     "date": "2022-12-15",
@@ -23420,6 +23595,13 @@
     "date": "2024-12-15",
     "value": 383303.04158,
     "value_": 383303.04158
+  },
+  {
+    "geoid": "28140",
+    "key": "median-listing-price",
+    "date": "2025-12-15",
+    "value": 371698,
+    "value_": 371698
   },
   {
     "geoid": "29820",
@@ -23443,6 +23625,13 @@
     "value_": 485299.28736
   },
   {
+    "geoid": "29820",
+    "key": "median-listing-price",
+    "date": "2025-12-15",
+    "value": 465500,
+    "value_": 465500
+  },
+  {
     "geoid": "31080",
     "key": "median-listing-price",
     "date": "2022-12-15",
@@ -23462,6 +23651,13 @@
     "date": "2024-12-15",
     "value": 1133349.17361,
     "value_": 1133349.17361
+  },
+  {
+    "geoid": "31080",
+    "key": "median-listing-price",
+    "date": "2025-12-15",
+    "value": 1062500,
+    "value_": 1062500
   },
   {
     "geoid": "31140",
@@ -23485,6 +23681,13 @@
     "value_": 316591.87153
   },
   {
+    "geoid": "31140",
+    "key": "median-listing-price",
+    "date": "2025-12-15",
+    "value": 302200,
+    "value_": 302200
+  },
+  {
     "geoid": "32820",
     "key": "median-listing-price",
     "date": "2022-12-15",
@@ -23504,6 +23707,13 @@
     "date": "2024-12-15",
     "value": 341765.89796,
     "value_": 341765.89796
+  },
+  {
+    "geoid": "32820",
+    "key": "median-listing-price",
+    "date": "2025-12-15",
+    "value": 314950,
+    "value_": 314950
   },
   {
     "geoid": "33100",
@@ -23527,6 +23737,13 @@
     "value_": 541293.36674
   },
   {
+    "geoid": "33100",
+    "key": "median-listing-price",
+    "date": "2025-12-15",
+    "value": 500000,
+    "value_": 500000
+  },
+  {
     "geoid": "33340",
     "key": "median-listing-price",
     "date": "2022-12-15",
@@ -23546,6 +23763,13 @@
     "date": "2024-12-15",
     "value": 369944.23208,
     "value_": 369944.23208
+  },
+  {
+    "geoid": "33340",
+    "key": "median-listing-price",
+    "date": "2025-12-15",
+    "value": 369750,
+    "value_": 369750
   },
   {
     "geoid": "33460",
@@ -23569,6 +23793,13 @@
     "value_": 438419.65592
   },
   {
+    "geoid": "33460",
+    "key": "median-listing-price",
+    "date": "2025-12-15",
+    "value": 402475,
+    "value_": 402475
+  },
+  {
     "geoid": "34980",
     "key": "median-listing-price",
     "date": "2022-12-15",
@@ -23588,6 +23819,13 @@
     "date": "2024-12-15",
     "value": 556374.9913,
     "value_": 556374.9913
+  },
+  {
+    "geoid": "34980",
+    "key": "median-listing-price",
+    "date": "2025-12-15",
+    "value": 529500,
+    "value_": 529500
   },
   {
     "geoid": "35620",
@@ -23611,6 +23849,13 @@
     "value_": 776976.1245
   },
   {
+    "geoid": "35620",
+    "key": "median-listing-price",
+    "date": "2025-12-15",
+    "value": 749939,
+    "value_": 749939
+  },
+  {
     "geoid": "36420",
     "key": "median-listing-price",
     "date": "2022-12-15",
@@ -23630,6 +23875,13 @@
     "date": "2024-12-15",
     "value": 321098.33305,
     "value_": 321098.33305
+  },
+  {
+    "geoid": "36420",
+    "key": "median-listing-price",
+    "date": "2025-12-15",
+    "value": 315000,
+    "value_": 315000
   },
   {
     "geoid": "36540",
@@ -23653,6 +23905,13 @@
     "value_": 390611.79699
   },
   {
+    "geoid": "36540",
+    "key": "median-listing-price",
+    "date": "2025-12-15",
+    "value": 376945,
+    "value_": 376945
+  },
+  {
     "geoid": "36740",
     "key": "median-listing-price",
     "date": "2022-12-15",
@@ -23672,6 +23931,13 @@
     "date": "2024-12-15",
     "value": 435054.83131,
     "value_": 435054.83131
+  },
+  {
+    "geoid": "36740",
+    "key": "median-listing-price",
+    "date": "2025-12-15",
+    "value": 415500,
+    "value_": 415500
   },
   {
     "geoid": "37980",
@@ -23695,6 +23961,13 @@
     "value_": 370954.30104
   },
   {
+    "geoid": "37980",
+    "key": "median-listing-price",
+    "date": "2025-12-15",
+    "value": 359950,
+    "value_": 359950
+  },
+  {
     "geoid": "38060",
     "key": "median-listing-price",
     "date": "2022-12-15",
@@ -23714,6 +23987,13 @@
     "date": "2024-12-15",
     "value": 517978.90316,
     "value_": 517978.90316
+  },
+  {
+    "geoid": "38060",
+    "key": "median-listing-price",
+    "date": "2025-12-15",
+    "value": 482500,
+    "value_": 482500
   },
   {
     "geoid": "38300",
@@ -23737,6 +24017,13 @@
     "value_": 238194.98057
   },
   {
+    "geoid": "38300",
+    "key": "median-listing-price",
+    "date": "2025-12-15",
+    "value": 240000,
+    "value_": 240000
+  },
+  {
     "geoid": "38900",
     "key": "median-listing-price",
     "date": "2022-12-15",
@@ -23756,6 +24043,13 @@
     "date": "2024-12-15",
     "value": 618472.9951,
     "value_": 618472.9951
+  },
+  {
+    "geoid": "38900",
+    "key": "median-listing-price",
+    "date": "2025-12-15",
+    "value": 584950,
+    "value_": 584950
   },
   {
     "geoid": "39300",
@@ -23779,6 +24073,13 @@
     "value_": 543831.48874
   },
   {
+    "geoid": "39300",
+    "key": "median-listing-price",
+    "date": "2025-12-15",
+    "value": 549900,
+    "value_": 549900
+  },
+  {
     "geoid": "39580",
     "key": "median-listing-price",
     "date": "2022-12-15",
@@ -23798,6 +24099,13 @@
     "date": "2024-12-15",
     "value": 461000.65403,
     "value_": 461000.65403
+  },
+  {
+    "geoid": "39580",
+    "key": "median-listing-price",
+    "date": "2025-12-15",
+    "value": 440000,
+    "value_": 440000
   },
   {
     "geoid": "40060",
@@ -23821,6 +24129,13 @@
     "value_": 435054.83131
   },
   {
+    "geoid": "40060",
+    "key": "median-listing-price",
+    "date": "2025-12-15",
+    "value": 425969,
+    "value_": 425969
+  },
+  {
     "geoid": "40140",
     "key": "median-listing-price",
     "date": "2022-12-15",
@@ -23840,6 +24155,13 @@
     "date": "2024-12-15",
     "value": 618472.9951,
     "value_": 618472.9951
+  },
+  {
+    "geoid": "40140",
+    "key": "median-listing-price",
+    "date": "2025-12-15",
+    "value": 587515,
+    "value_": 587515
   },
   {
     "geoid": "40380",
@@ -23863,6 +24185,13 @@
     "value_": 258940.24309
   },
   {
+    "geoid": "40380",
+    "key": "median-listing-price",
+    "date": "2025-12-15",
+    "value": 250000,
+    "value_": 250000
+  },
+  {
     "geoid": "40900",
     "key": "median-listing-price",
     "date": "2022-12-15",
@@ -23882,6 +24211,13 @@
     "date": "2024-12-15",
     "value": 637120.42209,
     "value_": 637120.42209
+  },
+  {
+    "geoid": "40900",
+    "key": "median-listing-price",
+    "date": "2025-12-15",
+    "value": 599990,
+    "value_": 599990
   },
   {
     "geoid": "41180",
@@ -23905,6 +24241,13 @@
     "value_": 287429.36766
   },
   {
+    "geoid": "41180",
+    "key": "median-listing-price",
+    "date": "2025-12-15",
+    "value": 284950,
+    "value_": 284950
+  },
+  {
     "geoid": "41620",
     "key": "median-listing-price",
     "date": "2022-12-15",
@@ -23924,6 +24267,13 @@
     "date": "2024-12-15",
     "value": 592521.99255,
     "value_": 592521.99255
+  },
+  {
+    "geoid": "41620",
+    "key": "median-listing-price",
+    "date": "2025-12-15",
+    "value": 557500,
+    "value_": 557500
   },
   {
     "geoid": "41700",
@@ -23947,6 +24297,13 @@
     "value_": 341817.69637
   },
   {
+    "geoid": "41700",
+    "key": "median-listing-price",
+    "date": "2025-12-15",
+    "value": 320245,
+    "value_": 320245
+  },
+  {
     "geoid": "41740",
     "key": "median-listing-price",
     "date": "2022-12-15",
@@ -23966,6 +24323,13 @@
     "date": "2024-12-15",
     "value": 999424.38895,
     "value_": 999424.38895
+  },
+  {
+    "geoid": "41740",
+    "key": "median-listing-price",
+    "date": "2025-12-15",
+    "value": 899999,
+    "value_": 899999
   },
   {
     "geoid": "41860",
@@ -23989,6 +24353,13 @@
     "value_": 921493.68366
   },
   {
+    "geoid": "41860",
+    "key": "median-listing-price",
+    "date": "2025-12-15",
+    "value": 872000,
+    "value_": 872000
+  },
+  {
     "geoid": "41940",
     "key": "median-listing-price",
     "date": "2022-12-15",
@@ -24008,6 +24379,13 @@
     "date": "2024-12-15",
     "value": 1314125.61858,
     "value_": 1314125.61858
+  },
+  {
+    "geoid": "41940",
+    "key": "median-listing-price",
+    "date": "2025-12-15",
+    "value": 1198500,
+    "value_": 1198500
   },
   {
     "geoid": "42660",
@@ -24031,6 +24409,13 @@
     "value_": 750533.03707
   },
   {
+    "geoid": "42660",
+    "key": "median-listing-price",
+    "date": "2025-12-15",
+    "value": 726500,
+    "value_": 726500
+  },
+  {
     "geoid": "45300",
     "key": "median-listing-price",
     "date": "2022-12-15",
@@ -24050,6 +24435,13 @@
     "date": "2024-12-15",
     "value": 409207.42557,
     "value_": 409207.42557
+  },
+  {
+    "geoid": "45300",
+    "key": "median-listing-price",
+    "date": "2025-12-15",
+    "value": 399900,
+    "value_": 399900
   },
   {
     "geoid": "46060",
@@ -24073,6 +24465,13 @@
     "value_": 401774.35398
   },
   {
+    "geoid": "46060",
+    "key": "median-listing-price",
+    "date": "2025-12-15",
+    "value": 380000,
+    "value_": 380000
+  },
+  {
     "geoid": "46140",
     "key": "median-listing-price",
     "date": "2022-12-15",
@@ -24092,6 +24491,13 @@
     "date": "2024-12-15",
     "value": 331406.2163,
     "value_": 331406.2163
+  },
+  {
+    "geoid": "46140",
+    "key": "median-listing-price",
+    "date": "2025-12-15",
+    "value": 315000,
+    "value_": 315000
   },
   {
     "geoid": "47260",
@@ -24115,6 +24521,13 @@
     "value_": 403975.78633
   },
   {
+    "geoid": "47260",
+    "key": "median-listing-price",
+    "date": "2025-12-15",
+    "value": 399900,
+    "value_": 399900
+  },
+  {
     "geoid": "47900",
     "key": "median-listing-price",
     "date": "2022-12-15",
@@ -24134,6 +24547,13 @@
     "date": "2024-12-15",
     "value": 598168.01905,
     "value_": 598168.01905
+  },
+  {
+    "geoid": "47900",
+    "key": "median-listing-price",
+    "date": "2025-12-15",
+    "value": 549950,
+    "value_": 549950
   },
   {
     "geoid": "51013",
@@ -24157,6 +24577,13 @@
     "value_": 797177.50374
   },
   {
+    "geoid": "51013",
+    "key": "median-listing-price",
+    "date": "2025-12-15",
+    "value": 631225,
+    "value_": 631225
+  },
+  {
     "geoid": "51043",
     "key": "median-listing-price",
     "date": "2022-12-15",
@@ -24176,6 +24603,13 @@
     "date": "2024-12-15",
     "value": 776898.42689,
     "value_": 776898.42689
+  },
+  {
+    "geoid": "51043",
+    "key": "median-listing-price",
+    "date": "2025-12-15",
+    "value": 668500,
+    "value_": 668500
   },
   {
     "geoid": "51047",
@@ -24199,6 +24633,13 @@
     "value_": 604435.62646
   },
   {
+    "geoid": "51047",
+    "key": "median-listing-price",
+    "date": "2025-12-15",
+    "value": 624950,
+    "value_": 624950
+  },
+  {
     "geoid": "51059",
     "key": "median-listing-price",
     "date": "2022-12-15",
@@ -24218,6 +24659,13 @@
     "date": "2024-12-15",
     "value": 851149.28442,
     "value_": 851149.28442
+  },
+  {
+    "geoid": "51059",
+    "key": "median-listing-price",
+    "date": "2025-12-15",
+    "value": 772959.02844,
+    "value_": 772959.02844
   },
   {
     "geoid": "51061",
@@ -24241,6 +24689,13 @@
     "value_": 787219.77773
   },
   {
+    "geoid": "51061",
+    "key": "median-listing-price",
+    "date": "2025-12-15",
+    "value": 799450,
+    "value_": 799450
+  },
+  {
     "geoid": "51107",
     "key": "median-listing-price",
     "date": "2022-12-15",
@@ -24260,6 +24715,13 @@
     "date": "2024-12-15",
     "value": 853720.64624,
     "value_": 853720.64624
+  },
+  {
+    "geoid": "51107",
+    "key": "median-listing-price",
+    "date": "2025-12-15",
+    "value": 771870,
+    "value_": 771870
   },
   {
     "geoid": "51153",
@@ -24283,6 +24745,13 @@
     "value_": 586977.99913
   },
   {
+    "geoid": "51153",
+    "key": "median-listing-price",
+    "date": "2025-12-15",
+    "value": 567203.38983,
+    "value_": 567203.38983
+  },
+  {
     "geoid": "51157",
     "key": "median-listing-price",
     "date": "2022-12-15",
@@ -24302,6 +24771,13 @@
     "date": "2024-12-15",
     "value": 755220.79302,
     "value_": 755220.79302
+  },
+  {
+    "geoid": "51157",
+    "key": "median-listing-price",
+    "date": "2025-12-15",
+    "value": 798625,
+    "value_": 798625
   },
   {
     "geoid": "51177",
@@ -24325,6 +24801,13 @@
     "value_": 559371.01123
   },
   {
+    "geoid": "51177",
+    "key": "median-listing-price",
+    "date": "2025-12-15",
+    "value": 534975,
+    "value_": 534975
+  },
+  {
     "geoid": "51179",
     "key": "median-listing-price",
     "date": "2022-12-15",
@@ -24344,6 +24827,13 @@
     "date": "2024-12-15",
     "value": 633235.54147,
     "value_": 633235.54147
+  },
+  {
+    "geoid": "51179",
+    "key": "median-listing-price",
+    "date": "2025-12-15",
+    "value": 594721,
+    "value_": 594721
   },
   {
     "geoid": "51187",
@@ -24367,6 +24857,13 @@
     "value_": 484056.12557
   },
   {
+    "geoid": "51187",
+    "key": "median-listing-price",
+    "date": "2025-12-15",
+    "value": 453000,
+    "value_": 453000
+  },
+  {
     "geoid": "51510",
     "key": "median-listing-price",
     "date": "2022-12-15",
@@ -24386,6 +24883,13 @@
     "date": "2024-12-15",
     "value": 582447.20213,
     "value_": 582447.20213
+  },
+  {
+    "geoid": "51510",
+    "key": "median-listing-price",
+    "date": "2025-12-15",
+    "value": 434990,
+    "value_": 434990
   },
   {
     "geoid": "51630",
@@ -24409,6 +24913,13 @@
     "value_": 670530.39545
   },
   {
+    "geoid": "51630",
+    "key": "median-listing-price",
+    "date": "2025-12-15",
+    "value": 599925,
+    "value_": 599925
+  },
+  {
     "geoid": "54037",
     "key": "median-listing-price",
     "date": "2022-12-15",
@@ -24428,6 +24939,13 @@
     "date": "2024-12-15",
     "value": 423187.81597,
     "value_": 423187.81597
+  },
+  {
+    "geoid": "54037",
+    "key": "median-listing-price",
+    "date": "2025-12-15",
+    "value": 397247,
+    "value_": 397247
   },
   {
     "geoid": "99997",
@@ -24451,6 +24969,13 @@
     "value_": 503685.6893
   },
   {
+    "geoid": "99997",
+    "key": "median-listing-price",
+    "date": "2025-12-15",
+    "value": 474701.00311,
+    "value_": 474701.00311
+  },
+  {
     "geoid": "99999",
     "key": "median-listing-price",
     "date": "2022-12-15",
@@ -24470,5 +24995,12 @@
     "date": "2024-12-15",
     "value": 416978.22278,
     "value_": 416978.22278
+  },
+  {
+    "geoid": "99999",
+    "key": "median-listing-price",
+    "date": "2025-12-15",
+    "value": 399950,
+    "value_": 399950
   }
 ]

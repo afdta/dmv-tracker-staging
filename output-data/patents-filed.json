@@ -23429,6 +23429,13 @@
     "value_": 260
   },
   {
+    "geoid": "11001",
+    "key": "patents-filed",
+    "date": "2025-12-15",
+    "value": 137,
+    "value_": 137
+  },
+  {
     "geoid": "12060",
     "key": "patents-filed",
     "date": "2022-12-15",
@@ -23448,6 +23455,13 @@
     "date": "2024-12-15",
     "value": 1968,
     "value_": 1968
+  },
+  {
+    "geoid": "12060",
+    "key": "patents-filed",
+    "date": "2025-12-15",
+    "value": 1028,
+    "value_": 1028
   },
   {
     "geoid": "12420",
@@ -23471,6 +23485,13 @@
     "value_": 2004
   },
   {
+    "geoid": "12420",
+    "key": "patents-filed",
+    "date": "2025-12-15",
+    "value": 807,
+    "value_": 807
+  },
+  {
     "geoid": "12580",
     "key": "patents-filed",
     "date": "2022-12-15",
@@ -23490,6 +23511,13 @@
     "date": "2024-12-15",
     "value": 962,
     "value_": 962
+  },
+  {
+    "geoid": "12580",
+    "key": "patents-filed",
+    "date": "2025-12-15",
+    "value": 437,
+    "value_": 437
   },
   {
     "geoid": "13820",
@@ -23513,6 +23541,13 @@
     "value_": 105
   },
   {
+    "geoid": "13820",
+    "key": "patents-filed",
+    "date": "2025-12-15",
+    "value": 60,
+    "value_": 60
+  },
+  {
     "geoid": "14460",
     "key": "patents-filed",
     "date": "2022-12-15",
@@ -23532,6 +23567,13 @@
     "date": "2024-12-15",
     "value": 7514,
     "value_": 7514
+  },
+  {
+    "geoid": "14460",
+    "key": "patents-filed",
+    "date": "2025-12-15",
+    "value": 3356,
+    "value_": 3356
   },
   {
     "geoid": "15380",
@@ -23555,6 +23597,13 @@
     "value_": 222
   },
   {
+    "geoid": "15380",
+    "key": "patents-filed",
+    "date": "2025-12-15",
+    "value": 93,
+    "value_": 93
+  },
+  {
     "geoid": "16740",
     "key": "patents-filed",
     "date": "2022-12-15",
@@ -23574,6 +23623,13 @@
     "date": "2024-12-15",
     "value": 874,
     "value_": 874
+  },
+  {
+    "geoid": "16740",
+    "key": "patents-filed",
+    "date": "2025-12-15",
+    "value": 380,
+    "value_": 380
   },
   {
     "geoid": "16980",
@@ -23597,6 +23653,13 @@
     "value_": 2823
   },
   {
+    "geoid": "16980",
+    "key": "patents-filed",
+    "date": "2025-12-15",
+    "value": 1349,
+    "value_": 1349
+  },
+  {
     "geoid": "17140",
     "key": "patents-filed",
     "date": "2022-12-15",
@@ -23616,6 +23679,13 @@
     "date": "2024-12-15",
     "value": 1018,
     "value_": 1018
+  },
+  {
+    "geoid": "17140",
+    "key": "patents-filed",
+    "date": "2025-12-15",
+    "value": 523,
+    "value_": 523
   },
   {
     "geoid": "17410",
@@ -23639,6 +23709,13 @@
     "value_": 572
   },
   {
+    "geoid": "17410",
+    "key": "patents-filed",
+    "date": "2025-12-15",
+    "value": 257,
+    "value_": 257
+  },
+  {
     "geoid": "18140",
     "key": "patents-filed",
     "date": "2022-12-15",
@@ -23658,6 +23735,13 @@
     "date": "2024-12-15",
     "value": 663,
     "value_": 663
+  },
+  {
+    "geoid": "18140",
+    "key": "patents-filed",
+    "date": "2025-12-15",
+    "value": 354,
+    "value_": 354
   },
   {
     "geoid": "19100",
@@ -23681,6 +23765,13 @@
     "value_": 3117
   },
   {
+    "geoid": "19100",
+    "key": "patents-filed",
+    "date": "2025-12-15",
+    "value": 1532,
+    "value_": 1532
+  },
+  {
     "geoid": "19740",
     "key": "patents-filed",
     "date": "2022-12-15",
@@ -23700,6 +23791,13 @@
     "date": "2024-12-15",
     "value": 1723,
     "value_": 1723
+  },
+  {
+    "geoid": "19740",
+    "key": "patents-filed",
+    "date": "2025-12-15",
+    "value": 775,
+    "value_": 775
   },
   {
     "geoid": "19820",
@@ -23723,6 +23821,13 @@
     "value_": 1909
   },
   {
+    "geoid": "19820",
+    "key": "patents-filed",
+    "date": "2025-12-15",
+    "value": 427,
+    "value_": 427
+  },
+  {
     "geoid": "23420",
     "key": "patents-filed",
     "date": "2022-12-15",
@@ -23744,6 +23849,13 @@
     "value_": 58
   },
   {
+    "geoid": "23420",
+    "key": "patents-filed",
+    "date": "2025-12-15",
+    "value": 21,
+    "value_": 21
+  },
+  {
     "geoid": "24017",
     "key": "patents-filed",
     "date": "2022-12-15",
@@ -23763,6 +23875,13 @@
     "date": "2024-12-15",
     "value": 10,
     "value_": 10
+  },
+  {
+    "geoid": "24017",
+    "key": "patents-filed",
+    "date": "2025-12-15",
+    "value": 3,
+    "value_": 3
   },
   {
     "geoid": "24021",
@@ -23786,6 +23905,13 @@
     "value_": 100
   },
   {
+    "geoid": "24021",
+    "key": "patents-filed",
+    "date": "2025-12-15",
+    "value": 37,
+    "value_": 37
+  },
+  {
     "geoid": "24031",
     "key": "patents-filed",
     "date": "2022-12-15",
@@ -23805,6 +23931,13 @@
     "date": "2024-12-15",
     "value": 604,
     "value_": 604
+  },
+  {
+    "geoid": "24031",
+    "key": "patents-filed",
+    "date": "2025-12-15",
+    "value": 274,
+    "value_": 274
   },
   {
     "geoid": "24033",
@@ -23828,6 +23961,13 @@
     "value_": 110
   },
   {
+    "geoid": "24033",
+    "key": "patents-filed",
+    "date": "2025-12-15",
+    "value": 35,
+    "value_": 35
+  },
+  {
     "geoid": "24340",
     "key": "patents-filed",
     "date": "2022-12-15",
@@ -23847,6 +23987,13 @@
     "date": "2024-12-15",
     "value": 386,
     "value_": 386
+  },
+  {
+    "geoid": "24340",
+    "key": "patents-filed",
+    "date": "2025-12-15",
+    "value": 170,
+    "value_": 170
   },
   {
     "geoid": "25540",
@@ -23870,6 +24017,13 @@
     "value_": 667
   },
   {
+    "geoid": "25540",
+    "key": "patents-filed",
+    "date": "2025-12-15",
+    "value": 288,
+    "value_": 288
+  },
+  {
     "geoid": "26420",
     "key": "patents-filed",
     "date": "2022-12-15",
@@ -23889,6 +24043,13 @@
     "date": "2024-12-15",
     "value": 2751,
     "value_": 2751
+  },
+  {
+    "geoid": "26420",
+    "key": "patents-filed",
+    "date": "2025-12-15",
+    "value": 1220,
+    "value_": 1220
   },
   {
     "geoid": "26900",
@@ -23912,6 +24073,13 @@
     "value_": 623
   },
   {
+    "geoid": "26900",
+    "key": "patents-filed",
+    "date": "2025-12-15",
+    "value": 286,
+    "value_": 286
+  },
+  {
     "geoid": "27260",
     "key": "patents-filed",
     "date": "2022-12-15",
@@ -23931,6 +24099,13 @@
     "date": "2024-12-15",
     "value": 323,
     "value_": 323
+  },
+  {
+    "geoid": "27260",
+    "key": "patents-filed",
+    "date": "2025-12-15",
+    "value": 143,
+    "value_": 143
   },
   {
     "geoid": "28140",
@@ -23954,6 +24129,13 @@
     "value_": 505
   },
   {
+    "geoid": "28140",
+    "key": "patents-filed",
+    "date": "2025-12-15",
+    "value": 243,
+    "value_": 243
+  },
+  {
     "geoid": "29820",
     "key": "patents-filed",
     "date": "2022-12-15",
@@ -23973,6 +24155,13 @@
     "date": "2024-12-15",
     "value": 650,
     "value_": 650
+  },
+  {
+    "geoid": "29820",
+    "key": "patents-filed",
+    "date": "2025-12-15",
+    "value": 341,
+    "value_": 341
   },
   {
     "geoid": "31080",
@@ -23996,6 +24185,13 @@
     "value_": 7276
   },
   {
+    "geoid": "31080",
+    "key": "patents-filed",
+    "date": "2025-12-15",
+    "value": 3521,
+    "value_": 3521
+  },
+  {
     "geoid": "31140",
     "key": "patents-filed",
     "date": "2022-12-15",
@@ -24015,6 +24211,13 @@
     "date": "2024-12-15",
     "value": 422,
     "value_": 422
+  },
+  {
+    "geoid": "31140",
+    "key": "patents-filed",
+    "date": "2025-12-15",
+    "value": 111,
+    "value_": 111
   },
   {
     "geoid": "32820",
@@ -24038,6 +24241,13 @@
     "value_": 215
   },
   {
+    "geoid": "32820",
+    "key": "patents-filed",
+    "date": "2025-12-15",
+    "value": 109,
+    "value_": 109
+  },
+  {
     "geoid": "33100",
     "key": "patents-filed",
     "date": "2022-12-15",
@@ -24057,6 +24267,13 @@
     "date": "2024-12-15",
     "value": 1517,
     "value_": 1517
+  },
+  {
+    "geoid": "33100",
+    "key": "patents-filed",
+    "date": "2025-12-15",
+    "value": 840,
+    "value_": 840
   },
   {
     "geoid": "33340",
@@ -24080,6 +24297,13 @@
     "value_": 968
   },
   {
+    "geoid": "33340",
+    "key": "patents-filed",
+    "date": "2025-12-15",
+    "value": 537,
+    "value_": 537
+  },
+  {
     "geoid": "33460",
     "key": "patents-filed",
     "date": "2022-12-15",
@@ -24099,6 +24323,13 @@
     "date": "2024-12-15",
     "value": 2671,
     "value_": 2671
+  },
+  {
+    "geoid": "33460",
+    "key": "patents-filed",
+    "date": "2025-12-15",
+    "value": 1407,
+    "value_": 1407
   },
   {
     "geoid": "34980",
@@ -24122,6 +24353,13 @@
     "value_": 442
   },
   {
+    "geoid": "34980",
+    "key": "patents-filed",
+    "date": "2025-12-15",
+    "value": 217,
+    "value_": 217
+  },
+  {
     "geoid": "35620",
     "key": "patents-filed",
     "date": "2022-12-15",
@@ -24141,6 +24379,13 @@
     "date": "2024-12-15",
     "value": 5934,
     "value_": 5934
+  },
+  {
+    "geoid": "35620",
+    "key": "patents-filed",
+    "date": "2025-12-15",
+    "value": 2566,
+    "value_": 2566
   },
   {
     "geoid": "36420",
@@ -24164,6 +24409,13 @@
     "value_": 173
   },
   {
+    "geoid": "36420",
+    "key": "patents-filed",
+    "date": "2025-12-15",
+    "value": 74,
+    "value_": 74
+  },
+  {
     "geoid": "36540",
     "key": "patents-filed",
     "date": "2022-12-15",
@@ -24183,6 +24435,13 @@
     "date": "2024-12-15",
     "value": 148,
     "value_": 148
+  },
+  {
+    "geoid": "36540",
+    "key": "patents-filed",
+    "date": "2025-12-15",
+    "value": 65,
+    "value_": 65
   },
   {
     "geoid": "36740",
@@ -24206,6 +24465,13 @@
     "value_": 753
   },
   {
+    "geoid": "36740",
+    "key": "patents-filed",
+    "date": "2025-12-15",
+    "value": 449,
+    "value_": 449
+  },
+  {
     "geoid": "37980",
     "key": "patents-filed",
     "date": "2022-12-15",
@@ -24225,6 +24491,13 @@
     "date": "2024-12-15",
     "value": 3014,
     "value_": 3014
+  },
+  {
+    "geoid": "37980",
+    "key": "patents-filed",
+    "date": "2025-12-15",
+    "value": 1329,
+    "value_": 1329
   },
   {
     "geoid": "38060",
@@ -24248,6 +24521,13 @@
     "value_": 2013
   },
   {
+    "geoid": "38060",
+    "key": "patents-filed",
+    "date": "2025-12-15",
+    "value": 943,
+    "value_": 943
+  },
+  {
     "geoid": "38300",
     "key": "patents-filed",
     "date": "2022-12-15",
@@ -24267,6 +24547,13 @@
     "date": "2024-12-15",
     "value": 963,
     "value_": 963
+  },
+  {
+    "geoid": "38300",
+    "key": "patents-filed",
+    "date": "2025-12-15",
+    "value": 437,
+    "value_": 437
   },
   {
     "geoid": "38900",
@@ -24290,6 +24577,13 @@
     "value_": 2004
   },
   {
+    "geoid": "38900",
+    "key": "patents-filed",
+    "date": "2025-12-15",
+    "value": 892,
+    "value_": 892
+  },
+  {
     "geoid": "39300",
     "key": "patents-filed",
     "date": "2022-12-15",
@@ -24309,6 +24603,13 @@
     "date": "2024-12-15",
     "value": 495,
     "value_": 495
+  },
+  {
+    "geoid": "39300",
+    "key": "patents-filed",
+    "date": "2025-12-15",
+    "value": 212,
+    "value_": 212
   },
   {
     "geoid": "39580",
@@ -24332,6 +24633,13 @@
     "value_": 1083
   },
   {
+    "geoid": "39580",
+    "key": "patents-filed",
+    "date": "2025-12-15",
+    "value": 450,
+    "value_": 450
+  },
+  {
     "geoid": "40060",
     "key": "patents-filed",
     "date": "2022-12-15",
@@ -24351,6 +24659,13 @@
     "date": "2024-12-15",
     "value": 421,
     "value_": 421
+  },
+  {
+    "geoid": "40060",
+    "key": "patents-filed",
+    "date": "2025-12-15",
+    "value": 192,
+    "value_": 192
   },
   {
     "geoid": "40140",
@@ -24374,6 +24689,13 @@
     "value_": 512
   },
   {
+    "geoid": "40140",
+    "key": "patents-filed",
+    "date": "2025-12-15",
+    "value": 203,
+    "value_": 203
+  },
+  {
     "geoid": "40380",
     "key": "patents-filed",
     "date": "2022-12-15",
@@ -24393,6 +24715,13 @@
     "date": "2024-12-15",
     "value": 396,
     "value_": 396
+  },
+  {
+    "geoid": "40380",
+    "key": "patents-filed",
+    "date": "2025-12-15",
+    "value": 158,
+    "value_": 158
   },
   {
     "geoid": "40900",
@@ -24416,6 +24745,13 @@
     "value_": 767
   },
   {
+    "geoid": "40900",
+    "key": "patents-filed",
+    "date": "2025-12-15",
+    "value": 336,
+    "value_": 336
+  },
+  {
     "geoid": "41180",
     "key": "patents-filed",
     "date": "2022-12-15",
@@ -24435,6 +24771,13 @@
     "date": "2024-12-15",
     "value": 872,
     "value_": 872
+  },
+  {
+    "geoid": "41180",
+    "key": "patents-filed",
+    "date": "2025-12-15",
+    "value": 454,
+    "value_": 454
   },
   {
     "geoid": "41620",
@@ -24458,6 +24801,13 @@
     "value_": 577
   },
   {
+    "geoid": "41620",
+    "key": "patents-filed",
+    "date": "2025-12-15",
+    "value": 305,
+    "value_": 305
+  },
+  {
     "geoid": "41700",
     "key": "patents-filed",
     "date": "2022-12-15",
@@ -24477,6 +24827,13 @@
     "date": "2024-12-15",
     "value": 401,
     "value_": 401
+  },
+  {
+    "geoid": "41700",
+    "key": "patents-filed",
+    "date": "2025-12-15",
+    "value": 151,
+    "value_": 151
   },
   {
     "geoid": "41740",
@@ -24500,6 +24857,13 @@
     "value_": 6033
   },
   {
+    "geoid": "41740",
+    "key": "patents-filed",
+    "date": "2025-12-15",
+    "value": 2589,
+    "value_": 2589
+  },
+  {
     "geoid": "41860",
     "key": "patents-filed",
     "date": "2022-12-15",
@@ -24519,6 +24883,13 @@
     "date": "2024-12-15",
     "value": 10269,
     "value_": 10269
+  },
+  {
+    "geoid": "41860",
+    "key": "patents-filed",
+    "date": "2025-12-15",
+    "value": 4835,
+    "value_": 4835
   },
   {
     "geoid": "41940",
@@ -24542,6 +24913,13 @@
     "value_": 5907
   },
   {
+    "geoid": "41940",
+    "key": "patents-filed",
+    "date": "2025-12-15",
+    "value": 2661,
+    "value_": 2661
+  },
+  {
     "geoid": "42660",
     "key": "patents-filed",
     "date": "2022-12-15",
@@ -24561,6 +24939,13 @@
     "date": "2024-12-15",
     "value": 4025,
     "value_": 4025
+  },
+  {
+    "geoid": "42660",
+    "key": "patents-filed",
+    "date": "2025-12-15",
+    "value": 1598,
+    "value_": 1598
   },
   {
     "geoid": "45300",
@@ -24584,6 +24969,13 @@
     "value_": 750
   },
   {
+    "geoid": "45300",
+    "key": "patents-filed",
+    "date": "2025-12-15",
+    "value": 405,
+    "value_": 405
+  },
+  {
     "geoid": "46060",
     "key": "patents-filed",
     "date": "2022-12-15",
@@ -24603,6 +24995,13 @@
     "date": "2024-12-15",
     "value": 394,
     "value_": 394
+  },
+  {
+    "geoid": "46060",
+    "key": "patents-filed",
+    "date": "2025-12-15",
+    "value": 136,
+    "value_": 136
   },
   {
     "geoid": "46140",
@@ -24626,6 +25025,13 @@
     "value_": 159
   },
   {
+    "geoid": "46140",
+    "key": "patents-filed",
+    "date": "2025-12-15",
+    "value": 66,
+    "value_": 66
+  },
+  {
     "geoid": "47260",
     "key": "patents-filed",
     "date": "2022-12-15",
@@ -24645,6 +25051,13 @@
     "date": "2024-12-15",
     "value": 130,
     "value_": 130
+  },
+  {
+    "geoid": "47260",
+    "key": "patents-filed",
+    "date": "2025-12-15",
+    "value": 67,
+    "value_": 67
   },
   {
     "geoid": "47900",
@@ -24668,6 +25081,13 @@
     "value_": 2727
   },
   {
+    "geoid": "47900",
+    "key": "patents-filed",
+    "date": "2025-12-15",
+    "value": 1409,
+    "value_": 1409
+  },
+  {
     "geoid": "51013",
     "key": "patents-filed",
     "date": "2022-12-15",
@@ -24689,6 +25109,13 @@
     "value_": 139
   },
   {
+    "geoid": "51013",
+    "key": "patents-filed",
+    "date": "2025-12-15",
+    "value": 68,
+    "value_": 68
+  },
+  {
     "geoid": "51043",
     "key": "patents-filed",
     "date": "2022-12-15",
@@ -24708,6 +25135,13 @@
     "date": "2024-12-15",
     "value": 2,
     "value_": 2
+  },
+  {
+    "geoid": "51043",
+    "key": "patents-filed",
+    "date": "2025-12-15",
+    "value": 3,
+    "value_": 3
   },
   {
     "geoid": "51047",
@@ -24731,6 +25165,13 @@
     "value_": 130
   },
   {
+    "geoid": "51047",
+    "key": "patents-filed",
+    "date": "2025-12-15",
+    "value": 97,
+    "value_": 97
+  },
+  {
     "geoid": "51059",
     "key": "patents-filed",
     "date": "2022-12-15",
@@ -24750,6 +25191,13 @@
     "date": "2024-12-15",
     "value": 898,
     "value_": 898
+  },
+  {
+    "geoid": "51059",
+    "key": "patents-filed",
+    "date": "2025-12-15",
+    "value": 539,
+    "value_": 539
   },
   {
     "geoid": "51061",
@@ -24773,6 +25221,13 @@
     "value_": 11
   },
   {
+    "geoid": "51061",
+    "key": "patents-filed",
+    "date": "2025-12-15",
+    "value": 14,
+    "value_": 14
+  },
+  {
     "geoid": "51107",
     "key": "patents-filed",
     "date": "2022-12-15",
@@ -24792,6 +25247,13 @@
     "date": "2024-12-15",
     "value": 195,
     "value_": 195
+  },
+  {
+    "geoid": "51107",
+    "key": "patents-filed",
+    "date": "2025-12-15",
+    "value": 88,
+    "value_": 88
   },
   {
     "geoid": "51153",
@@ -24815,6 +25277,13 @@
     "value_": 96
   },
   {
+    "geoid": "51153",
+    "key": "patents-filed",
+    "date": "2025-12-15",
+    "value": 43,
+    "value_": 43
+  },
+  {
     "geoid": "51157",
     "key": "patents-filed",
     "date": "2022-12-15",
@@ -24834,6 +25303,13 @@
     "date": "2024-12-15",
     "value": 35,
     "value_": 35
+  },
+  {
+    "geoid": "51157",
+    "key": "patents-filed",
+    "date": "2025-12-15",
+    "value": 18,
+    "value_": 18
   },
   {
     "geoid": "51177",
@@ -24857,6 +25333,13 @@
     "value_": 2
   },
   {
+    "geoid": "51177",
+    "key": "patents-filed",
+    "date": "2025-12-15",
+    "value": 0,
+    "value_": 0
+  },
+  {
     "geoid": "51179",
     "key": "patents-filed",
     "date": "2022-12-15",
@@ -24876,6 +25359,13 @@
     "date": "2024-12-15",
     "value": 14,
     "value_": 14
+  },
+  {
+    "geoid": "51179",
+    "key": "patents-filed",
+    "date": "2025-12-15",
+    "value": 5,
+    "value_": 5
   },
   {
     "geoid": "51187",
@@ -24899,6 +25389,13 @@
     "value_": 2
   },
   {
+    "geoid": "51187",
+    "key": "patents-filed",
+    "date": "2025-12-15",
+    "value": 0,
+    "value_": 0
+  },
+  {
     "geoid": "51510",
     "key": "patents-filed",
     "date": "2022-12-15",
@@ -24918,6 +25415,13 @@
     "date": "2024-12-15",
     "value": 87,
     "value_": 87
+  },
+  {
+    "geoid": "51510",
+    "key": "patents-filed",
+    "date": "2025-12-15",
+    "value": 38,
+    "value_": 38
   },
   {
     "geoid": "51630",
@@ -24941,6 +25445,13 @@
     "value_": 28
   },
   {
+    "geoid": "51630",
+    "key": "patents-filed",
+    "date": "2025-12-15",
+    "value": 8,
+    "value_": 8
+  },
+  {
     "geoid": "54037",
     "key": "patents-filed",
     "date": "2022-12-15",
@@ -24960,6 +25471,13 @@
     "date": "2024-12-15",
     "value": 4,
     "value_": 4
+  },
+  {
+    "geoid": "54037",
+    "key": "patents-filed",
+    "date": "2025-12-15",
+    "value": 2,
+    "value_": 2
   },
   {
     "geoid": "99997",
@@ -24983,6 +25501,13 @@
     "value_": 95868
   },
   {
+    "geoid": "99997",
+    "key": "patents-filed",
+    "date": "2025-12-15",
+    "value": 43814,
+    "value_": 43814
+  },
+  {
     "geoid": "99999",
     "key": "patents-filed",
     "date": "2022-12-15",
@@ -25002,5 +25527,12 @@
     "date": "2024-12-15",
     "value": 134574,
     "value_": 134574
+  },
+  {
+    "geoid": "99999",
+    "key": "patents-filed",
+    "date": "2025-12-15",
+    "value": 61554,
+    "value_": 61554
   }
 ]

@@ -5565,6 +5565,13 @@
     "value_": 535439444.78142
   },
   {
+    "geoid": "11001",
+    "key": "resident-spending-total",
+    "date": "2025-12-15",
+    "value": 513547202.73181,
+    "value_": 513547202.73181
+  },
+  {
     "geoid": "24017",
     "key": "resident-spending-total",
     "date": "2022-12-15",
@@ -5584,6 +5591,13 @@
     "date": "2024-12-15",
     "value": 78793744.17035,
     "value_": 78793744.17035
+  },
+  {
+    "geoid": "24017",
+    "key": "resident-spending-total",
+    "date": "2025-12-15",
+    "value": 79233831.44988,
+    "value_": 79233831.44988
   },
   {
     "geoid": "24021",
@@ -5607,6 +5621,13 @@
     "value_": 113485490.15558
   },
   {
+    "geoid": "24021",
+    "key": "resident-spending-total",
+    "date": "2025-12-15",
+    "value": 115549333.98282,
+    "value_": 115549333.98282
+  },
+  {
     "geoid": "24031",
     "key": "resident-spending-total",
     "date": "2022-12-15",
@@ -5626,6 +5647,13 @@
     "date": "2024-12-15",
     "value": 614422316.44309,
     "value_": 614422316.44309
+  },
+  {
+    "geoid": "24031",
+    "key": "resident-spending-total",
+    "date": "2025-12-15",
+    "value": 613279949.6352,
+    "value_": 613279949.6352
   },
   {
     "geoid": "24033",
@@ -5649,6 +5677,13 @@
     "value_": 531593461.68554
   },
   {
+    "geoid": "24033",
+    "key": "resident-spending-total",
+    "date": "2025-12-15",
+    "value": 524964119.37913,
+    "value_": 524964119.37913
+  },
+  {
     "geoid": "47900",
     "key": "resident-spending-total",
     "date": "2022-12-15",
@@ -5668,6 +5703,13 @@
     "date": "2024-12-15",
     "value": 4256879603.95078,
     "value_": 4256879603.95078
+  },
+  {
+    "geoid": "47900",
+    "key": "resident-spending-total",
+    "date": "2025-12-15",
+    "value": 4194170397.10348,
+    "value_": 4194170397.10348
   },
   {
     "geoid": "51013",
@@ -5691,6 +5733,13 @@
     "value_": 162192528.04592
   },
   {
+    "geoid": "51013",
+    "key": "resident-spending-total",
+    "date": "2025-12-15",
+    "value": 157109328.48435,
+    "value_": 157109328.48435
+  },
+  {
     "geoid": "51043",
     "key": "resident-spending-total",
     "date": "2022-12-15",
@@ -5710,6 +5759,13 @@
     "date": "2024-12-15",
     "value": 6084257.80125,
     "value_": 6084257.80125
+  },
+  {
+    "geoid": "51043",
+    "key": "resident-spending-total",
+    "date": "2025-12-15",
+    "value": 6159929.07694,
+    "value_": 6159929.07694
   },
   {
     "geoid": "51059",
@@ -5733,6 +5789,13 @@
     "value_": 926464671.84709
   },
   {
+    "geoid": "51059",
+    "key": "resident-spending-total",
+    "date": "2025-12-15",
+    "value": 908970314.15022,
+    "value_": 908970314.15022
+  },
+  {
     "geoid": "51061",
     "key": "resident-spending-total",
     "date": "2022-12-15",
@@ -5752,6 +5815,13 @@
     "date": "2024-12-15",
     "value": 31034986.46451,
     "value_": 31034986.46451
+  },
+  {
+    "geoid": "51061",
+    "key": "resident-spending-total",
+    "date": "2025-12-15",
+    "value": 30928323.1092,
+    "value_": 30928323.1092
   },
   {
     "geoid": "51107",
@@ -5775,6 +5845,13 @@
     "value_": 245017437.428
   },
   {
+    "geoid": "51107",
+    "key": "resident-spending-total",
+    "date": "2025-12-15",
+    "value": 245033696.17747,
+    "value_": 245033696.17747
+  },
+  {
     "geoid": "51153",
     "key": "resident-spending-total",
     "date": "2022-12-15",
@@ -5794,6 +5871,13 @@
     "date": "2024-12-15",
     "value": 212718419.35811,
     "value_": 212718419.35811
+  },
+  {
+    "geoid": "51153",
+    "key": "resident-spending-total",
+    "date": "2025-12-15",
+    "value": 209706491.82426,
+    "value_": 209706491.82426
   },
   {
     "geoid": "51177",
@@ -5817,6 +5901,13 @@
     "value_": 49326215.48998
   },
   {
+    "geoid": "51177",
+    "key": "resident-spending-total",
+    "date": "2025-12-15",
+    "value": 50841257.39818,
+    "value_": 50841257.39818
+  },
+  {
     "geoid": "51179",
     "key": "resident-spending-total",
     "date": "2022-12-15",
@@ -5836,6 +5927,13 @@
     "date": "2024-12-15",
     "value": 55472160.00975,
     "value_": 55472160.00975
+  },
+  {
+    "geoid": "51179",
+    "key": "resident-spending-total",
+    "date": "2025-12-15",
+    "value": 54385028.64754,
+    "value_": 54385028.64754
   },
   {
     "geoid": "51187",
@@ -5859,6 +5957,13 @@
     "value_": 13683195.29346
   },
   {
+    "geoid": "51187",
+    "key": "resident-spending-total",
+    "date": "2025-12-15",
+    "value": 13725399.62371,
+    "value_": 13725399.62371
+  },
+  {
     "geoid": "51510",
     "key": "resident-spending-total",
     "date": "2022-12-15",
@@ -5878,6 +5983,13 @@
     "date": "2024-12-15",
     "value": 104951348.55047,
     "value_": 104951348.55047
+  },
+  {
+    "geoid": "51510",
+    "key": "resident-spending-total",
+    "date": "2025-12-15",
+    "value": 96916457.27781,
+    "value_": 96916457.27781
   },
   {
     "geoid": "51630",
@@ -5901,6 +6013,13 @@
     "value_": 34042803.31824
   },
   {
+    "geoid": "51630",
+    "key": "resident-spending-total",
+    "date": "2025-12-15",
+    "value": 33974679.32217,
+    "value_": 33974679.32217
+  },
+  {
     "geoid": "54037",
     "key": "resident-spending-total",
     "date": "2022-12-15",
@@ -5920,5 +6039,12 @@
     "date": "2024-12-15",
     "value": 23837192.25806,
     "value_": 23837192.25806
+  },
+  {
+    "geoid": "54037",
+    "key": "resident-spending-total",
+    "date": "2025-12-15",
+    "value": 24094805.72244,
+    "value_": 24094805.72244
   }
 ]

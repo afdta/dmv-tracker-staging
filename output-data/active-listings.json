@@ -23429,6 +23429,13 @@
     "value_": 2321
   },
   {
+    "geoid": "11001",
+    "key": "active-listings",
+    "date": "2025-12-15",
+    "value": 2387,
+    "value_": 2387
+  },
+  {
     "geoid": "12060",
     "key": "active-listings",
     "date": "2022-12-15",
@@ -23448,6 +23455,13 @@
     "date": "2024-12-15",
     "value": 22742,
     "value_": 22742
+  },
+  {
+    "geoid": "12060",
+    "key": "active-listings",
+    "date": "2025-12-15",
+    "value": 25389,
+    "value_": 25389
   },
   {
     "geoid": "12420",
@@ -23471,6 +23485,13 @@
     "value_": 8258
   },
   {
+    "geoid": "12420",
+    "key": "active-listings",
+    "date": "2025-12-15",
+    "value": 9322,
+    "value_": 9322
+  },
+  {
     "geoid": "12580",
     "key": "active-listings",
     "date": "2022-12-15",
@@ -23490,6 +23511,13 @@
     "date": "2024-12-15",
     "value": 4539,
     "value_": 4539
+  },
+  {
+    "geoid": "12580",
+    "key": "active-listings",
+    "date": "2025-12-15",
+    "value": 5664,
+    "value_": 5664
   },
   {
     "geoid": "13820",
@@ -23513,6 +23541,13 @@
     "value_": 3752
   },
   {
+    "geoid": "13820",
+    "key": "active-listings",
+    "date": "2025-12-15",
+    "value": 4203,
+    "value_": 4203
+  },
+  {
     "geoid": "14460",
     "key": "active-listings",
     "date": "2022-12-15",
@@ -23532,6 +23567,13 @@
     "date": "2024-12-15",
     "value": 4107,
     "value_": 4107
+  },
+  {
+    "geoid": "14460",
+    "key": "active-listings",
+    "date": "2025-12-15",
+    "value": 5152,
+    "value_": 5152
   },
   {
     "geoid": "15380",
@@ -23555,6 +23597,13 @@
     "value_": 1124
   },
   {
+    "geoid": "15380",
+    "key": "active-listings",
+    "date": "2025-12-15",
+    "value": 1155,
+    "value_": 1155
+  },
+  {
     "geoid": "16740",
     "key": "active-listings",
     "date": "2022-12-15",
@@ -23574,6 +23623,13 @@
     "date": "2024-12-15",
     "value": 6698,
     "value_": 6698
+  },
+  {
+    "geoid": "16740",
+    "key": "active-listings",
+    "date": "2025-12-15",
+    "value": 8760,
+    "value_": 8760
   },
   {
     "geoid": "16980",
@@ -23597,6 +23653,13 @@
     "value_": 13880
   },
   {
+    "geoid": "16980",
+    "key": "active-listings",
+    "date": "2025-12-15",
+    "value": 13723,
+    "value_": 13723
+  },
+  {
     "geoid": "17140",
     "key": "active-listings",
     "date": "2022-12-15",
@@ -23616,6 +23679,13 @@
     "date": "2024-12-15",
     "value": 3270,
     "value_": 3270
+  },
+  {
+    "geoid": "17140",
+    "key": "active-listings",
+    "date": "2025-12-15",
+    "value": 3946,
+    "value_": 3946
   },
   {
     "geoid": "17410",
@@ -23639,6 +23709,13 @@
     "value_": 3196
   },
   {
+    "geoid": "17410",
+    "key": "active-listings",
+    "date": "2025-12-15",
+    "value": 3524,
+    "value_": 3524
+  },
+  {
     "geoid": "18140",
     "key": "active-listings",
     "date": "2022-12-15",
@@ -23658,6 +23735,13 @@
     "date": "2024-12-15",
     "value": 3048,
     "value_": 3048
+  },
+  {
+    "geoid": "18140",
+    "key": "active-listings",
+    "date": "2025-12-15",
+    "value": 3638,
+    "value_": 3638
   },
   {
     "geoid": "19100",
@@ -23681,6 +23765,13 @@
     "value_": 22744
   },
   {
+    "geoid": "19100",
+    "key": "active-listings",
+    "date": "2025-12-15",
+    "value": 25211,
+    "value_": 25211
+  },
+  {
     "geoid": "19740",
     "key": "active-listings",
     "date": "2022-12-15",
@@ -23700,6 +23791,13 @@
     "date": "2024-12-15",
     "value": 7022,
     "value_": 7022
+  },
+  {
+    "geoid": "19740",
+    "key": "active-listings",
+    "date": "2025-12-15",
+    "value": 8142,
+    "value_": 8142
   },
   {
     "geoid": "19820",
@@ -23723,6 +23821,13 @@
     "value_": 7942
   },
   {
+    "geoid": "19820",
+    "key": "active-listings",
+    "date": "2025-12-15",
+    "value": 9589,
+    "value_": 9589
+  },
+  {
     "geoid": "23420",
     "key": "active-listings",
     "date": "2022-12-15",
@@ -23742,6 +23847,13 @@
     "date": "2024-12-15",
     "value": 1555,
     "value_": 1555
+  },
+  {
+    "geoid": "23420",
+    "key": "active-listings",
+    "date": "2025-12-15",
+    "value": 1875,
+    "value_": 1875
   },
   {
     "geoid": "24017",
@@ -23765,6 +23877,13 @@
     "value_": 369
   },
   {
+    "geoid": "24017",
+    "key": "active-listings",
+    "date": "2025-12-15",
+    "value": 535,
+    "value_": 535
+  },
+  {
     "geoid": "24021",
     "key": "active-listings",
     "date": "2022-12-15",
@@ -23784,6 +23903,13 @@
     "date": "2024-12-15",
     "value": 355,
     "value_": 355
+  },
+  {
+    "geoid": "24021",
+    "key": "active-listings",
+    "date": "2025-12-15",
+    "value": 527,
+    "value_": 527
   },
   {
     "geoid": "24031",
@@ -23807,6 +23933,13 @@
     "value_": 902
   },
   {
+    "geoid": "24031",
+    "key": "active-listings",
+    "date": "2025-12-15",
+    "value": 1446,
+    "value_": 1446
+  },
+  {
     "geoid": "24033",
     "key": "active-listings",
     "date": "2022-12-15",
@@ -23826,6 +23959,13 @@
     "date": "2024-12-15",
     "value": 1090,
     "value_": 1090
+  },
+  {
+    "geoid": "24033",
+    "key": "active-listings",
+    "date": "2025-12-15",
+    "value": 1678,
+    "value_": 1678
   },
   {
     "geoid": "24340",
@@ -23849,6 +23989,13 @@
     "value_": 1502
   },
   {
+    "geoid": "24340",
+    "key": "active-listings",
+    "date": "2025-12-15",
+    "value": 1552,
+    "value_": 1552
+  },
+  {
     "geoid": "25540",
     "key": "active-listings",
     "date": "2022-12-15",
@@ -23868,6 +24015,13 @@
     "date": "2024-12-15",
     "value": 899,
     "value_": 899
+  },
+  {
+    "geoid": "25540",
+    "key": "active-listings",
+    "date": "2025-12-15",
+    "value": 993,
+    "value_": 993
   },
   {
     "geoid": "26420",
@@ -23891,6 +24045,13 @@
     "value_": 26771
   },
   {
+    "geoid": "26420",
+    "key": "active-listings",
+    "date": "2025-12-15",
+    "value": 31350,
+    "value_": 31350
+  },
+  {
     "geoid": "26900",
     "key": "active-listings",
     "date": "2022-12-15",
@@ -23910,6 +24071,13 @@
     "date": "2024-12-15",
     "value": 4123,
     "value_": 4123
+  },
+  {
+    "geoid": "26900",
+    "key": "active-listings",
+    "date": "2025-12-15",
+    "value": 5185,
+    "value_": 5185
   },
   {
     "geoid": "27260",
@@ -23933,6 +24101,13 @@
     "value_": 8138
   },
   {
+    "geoid": "27260",
+    "key": "active-listings",
+    "date": "2025-12-15",
+    "value": 7840,
+    "value_": 7840
+  },
+  {
     "geoid": "28140",
     "key": "active-listings",
     "date": "2022-12-15",
@@ -23952,6 +24127,13 @@
     "date": "2024-12-15",
     "value": 4917,
     "value_": 4917
+  },
+  {
+    "geoid": "28140",
+    "key": "active-listings",
+    "date": "2025-12-15",
+    "value": 5672,
+    "value_": 5672
   },
   {
     "geoid": "29820",
@@ -23975,6 +24157,13 @@
     "value_": 7362
   },
   {
+    "geoid": "29820",
+    "key": "active-listings",
+    "date": "2025-12-15",
+    "value": 9514,
+    "value_": 9514
+  },
+  {
     "geoid": "31080",
     "key": "active-listings",
     "date": "2022-12-15",
@@ -23994,6 +24183,13 @@
     "date": "2024-12-15",
     "value": 12686,
     "value_": 12686
+  },
+  {
+    "geoid": "31080",
+    "key": "active-listings",
+    "date": "2025-12-15",
+    "value": 14553,
+    "value_": 14553
   },
   {
     "geoid": "31140",
@@ -24017,6 +24213,13 @@
     "value_": 2821
   },
   {
+    "geoid": "31140",
+    "key": "active-listings",
+    "date": "2025-12-15",
+    "value": 3469,
+    "value_": 3469
+  },
+  {
     "geoid": "32820",
     "key": "active-listings",
     "date": "2022-12-15",
@@ -24036,6 +24239,13 @@
     "date": "2024-12-15",
     "value": 4064,
     "value_": 4064
+  },
+  {
+    "geoid": "32820",
+    "key": "active-listings",
+    "date": "2025-12-15",
+    "value": 4579,
+    "value_": 4579
   },
   {
     "geoid": "33100",
@@ -24059,6 +24269,13 @@
     "value_": 44833
   },
   {
+    "geoid": "33100",
+    "key": "active-listings",
+    "date": "2025-12-15",
+    "value": 47120,
+    "value_": 47120
+  },
+  {
     "geoid": "33340",
     "key": "active-listings",
     "date": "2022-12-15",
@@ -24078,6 +24295,13 @@
     "date": "2024-12-15",
     "value": 2496,
     "value_": 2496
+  },
+  {
+    "geoid": "33340",
+    "key": "active-listings",
+    "date": "2025-12-15",
+    "value": 2554,
+    "value_": 2554
   },
   {
     "geoid": "33460",
@@ -24101,6 +24325,13 @@
     "value_": 6195
   },
   {
+    "geoid": "33460",
+    "key": "active-listings",
+    "date": "2025-12-15",
+    "value": 6696,
+    "value_": 6696
+  },
+  {
     "geoid": "34980",
     "key": "active-listings",
     "date": "2022-12-15",
@@ -24120,6 +24351,13 @@
     "date": "2024-12-15",
     "value": 8170,
     "value_": 8170
+  },
+  {
+    "geoid": "34980",
+    "key": "active-listings",
+    "date": "2025-12-15",
+    "value": 9684,
+    "value_": 9684
   },
   {
     "geoid": "35620",
@@ -24143,6 +24381,13 @@
     "value_": 28853
   },
   {
+    "geoid": "35620",
+    "key": "active-listings",
+    "date": "2025-12-15",
+    "value": 30011,
+    "value_": 30011
+  },
+  {
     "geoid": "36420",
     "key": "active-listings",
     "date": "2022-12-15",
@@ -24162,6 +24407,13 @@
     "date": "2024-12-15",
     "value": 5154,
     "value_": 5154
+  },
+  {
+    "geoid": "36420",
+    "key": "active-listings",
+    "date": "2025-12-15",
+    "value": 5865,
+    "value_": 5865
   },
   {
     "geoid": "36540",
@@ -24185,6 +24437,13 @@
     "value_": 2210
   },
   {
+    "geoid": "36540",
+    "key": "active-listings",
+    "date": "2025-12-15",
+    "value": 2516,
+    "value_": 2516
+  },
+  {
     "geoid": "36740",
     "key": "active-listings",
     "date": "2022-12-15",
@@ -24204,6 +24463,13 @@
     "date": "2024-12-15",
     "value": 12252,
     "value_": 12252
+  },
+  {
+    "geoid": "36740",
+    "key": "active-listings",
+    "date": "2025-12-15",
+    "value": 13104,
+    "value_": 13104
   },
   {
     "geoid": "37980",
@@ -24227,6 +24493,13 @@
     "value_": 9447
   },
   {
+    "geoid": "37980",
+    "key": "active-listings",
+    "date": "2025-12-15",
+    "value": 10166,
+    "value_": 10166
+  },
+  {
     "geoid": "38060",
     "key": "active-listings",
     "date": "2022-12-15",
@@ -24246,6 +24519,13 @@
     "date": "2024-12-15",
     "value": 15084,
     "value_": 15084
+  },
+  {
+    "geoid": "38060",
+    "key": "active-listings",
+    "date": "2025-12-15",
+    "value": 17442,
+    "value_": 17442
   },
   {
     "geoid": "38300",
@@ -24269,6 +24549,13 @@
     "value_": 5019
   },
   {
+    "geoid": "38300",
+    "key": "active-listings",
+    "date": "2025-12-15",
+    "value": 5246,
+    "value_": 5246
+  },
+  {
     "geoid": "38900",
     "key": "active-listings",
     "date": "2022-12-15",
@@ -24288,6 +24575,13 @@
     "date": "2024-12-15",
     "value": 5535,
     "value_": 5535
+  },
+  {
+    "geoid": "38900",
+    "key": "active-listings",
+    "date": "2025-12-15",
+    "value": 6145,
+    "value_": 6145
   },
   {
     "geoid": "39300",
@@ -24311,6 +24605,13 @@
     "value_": 1654
   },
   {
+    "geoid": "39300",
+    "key": "active-listings",
+    "date": "2025-12-15",
+    "value": 1861,
+    "value_": 1861
+  },
+  {
     "geoid": "39580",
     "key": "active-listings",
     "date": "2022-12-15",
@@ -24330,6 +24631,13 @@
     "date": "2024-12-15",
     "value": 3777,
     "value_": 3777
+  },
+  {
+    "geoid": "39580",
+    "key": "active-listings",
+    "date": "2025-12-15",
+    "value": 4786,
+    "value_": 4786
   },
   {
     "geoid": "40060",
@@ -24353,6 +24661,13 @@
     "value_": 2161
   },
   {
+    "geoid": "40060",
+    "key": "active-listings",
+    "date": "2025-12-15",
+    "value": 2403,
+    "value_": 2403
+  },
+  {
     "geoid": "40140",
     "key": "active-listings",
     "date": "2022-12-15",
@@ -24372,6 +24687,13 @@
     "date": "2024-12-15",
     "value": 11076,
     "value_": 11076
+  },
+  {
+    "geoid": "40140",
+    "key": "active-listings",
+    "date": "2025-12-15",
+    "value": 11780,
+    "value_": 11780
   },
   {
     "geoid": "40380",
@@ -24395,6 +24717,13 @@
     "value_": 711
   },
   {
+    "geoid": "40380",
+    "key": "active-listings",
+    "date": "2025-12-15",
+    "value": 680,
+    "value_": 680
+  },
+  {
     "geoid": "40900",
     "key": "active-listings",
     "date": "2022-12-15",
@@ -24414,6 +24743,13 @@
     "date": "2024-12-15",
     "value": 3158,
     "value_": 3158
+  },
+  {
+    "geoid": "40900",
+    "key": "active-listings",
+    "date": "2025-12-15",
+    "value": 3552,
+    "value_": 3552
   },
   {
     "geoid": "41180",
@@ -24437,6 +24773,13 @@
     "value_": 5098
   },
   {
+    "geoid": "41180",
+    "key": "active-listings",
+    "date": "2025-12-15",
+    "value": 5639,
+    "value_": 5639
+  },
+  {
     "geoid": "41620",
     "key": "active-listings",
     "date": "2022-12-15",
@@ -24456,6 +24799,13 @@
     "date": "2024-12-15",
     "value": 2388,
     "value_": 2388
+  },
+  {
+    "geoid": "41620",
+    "key": "active-listings",
+    "date": "2025-12-15",
+    "value": 2710,
+    "value_": 2710
   },
   {
     "geoid": "41700",
@@ -24479,6 +24829,13 @@
     "value_": 11020
   },
   {
+    "geoid": "41700",
+    "key": "active-listings",
+    "date": "2025-12-15",
+    "value": 12549,
+    "value_": 12549
+  },
+  {
     "geoid": "41740",
     "key": "active-listings",
     "date": "2022-12-15",
@@ -24498,6 +24855,13 @@
     "date": "2024-12-15",
     "value": 3698,
     "value_": 3698
+  },
+  {
+    "geoid": "41740",
+    "key": "active-listings",
+    "date": "2025-12-15",
+    "value": 4222,
+    "value_": 4222
   },
   {
     "geoid": "41860",
@@ -24521,6 +24885,13 @@
     "value_": 3529
   },
   {
+    "geoid": "41860",
+    "key": "active-listings",
+    "date": "2025-12-15",
+    "value": 3577,
+    "value_": 3577
+  },
+  {
     "geoid": "41940",
     "key": "active-listings",
     "date": "2022-12-15",
@@ -24540,6 +24911,13 @@
     "date": "2024-12-15",
     "value": 825,
     "value_": 825
+  },
+  {
+    "geoid": "41940",
+    "key": "active-listings",
+    "date": "2025-12-15",
+    "value": 1003,
+    "value_": 1003
   },
   {
     "geoid": "42660",
@@ -24563,6 +24941,13 @@
     "value_": 4933
   },
   {
+    "geoid": "42660",
+    "key": "active-listings",
+    "date": "2025-12-15",
+    "value": 6356,
+    "value_": 6356
+  },
+  {
     "geoid": "45300",
     "key": "active-listings",
     "date": "2022-12-15",
@@ -24582,6 +24967,13 @@
     "date": "2024-12-15",
     "value": 15748,
     "value_": 15748
+  },
+  {
+    "geoid": "45300",
+    "key": "active-listings",
+    "date": "2025-12-15",
+    "value": 17842,
+    "value_": 17842
   },
   {
     "geoid": "46060",
@@ -24605,6 +24997,13 @@
     "value_": 3354
   },
   {
+    "geoid": "46060",
+    "key": "active-listings",
+    "date": "2025-12-15",
+    "value": 3861,
+    "value_": 3861
+  },
+  {
     "geoid": "46140",
     "key": "active-listings",
     "date": "2022-12-15",
@@ -24624,6 +25023,13 @@
     "date": "2024-12-15",
     "value": 2945,
     "value_": 2945
+  },
+  {
+    "geoid": "46140",
+    "key": "active-listings",
+    "date": "2025-12-15",
+    "value": 3274,
+    "value_": 3274
   },
   {
     "geoid": "47260",
@@ -24647,6 +25053,13 @@
     "value_": 4050
   },
   {
+    "geoid": "47260",
+    "key": "active-listings",
+    "date": "2025-12-15",
+    "value": 4390,
+    "value_": 4390
+  },
+  {
     "geoid": "47900",
     "key": "active-listings",
     "date": "2022-12-15",
@@ -24666,6 +25079,13 @@
     "date": "2024-12-15",
     "value": 8198,
     "value_": 8198
+  },
+  {
+    "geoid": "47900",
+    "key": "active-listings",
+    "date": "2025-12-15",
+    "value": 10883,
+    "value_": 10883
   },
   {
     "geoid": "51013",
@@ -24689,6 +25109,13 @@
     "value_": 246
   },
   {
+    "geoid": "51013",
+    "key": "active-listings",
+    "date": "2025-12-15",
+    "value": 310,
+    "value_": 310
+  },
+  {
     "geoid": "51043",
     "key": "active-listings",
     "date": "2022-12-15",
@@ -24708,6 +25135,13 @@
     "date": "2024-12-15",
     "value": 20,
     "value_": 20
+  },
+  {
+    "geoid": "51043",
+    "key": "active-listings",
+    "date": "2025-12-15",
+    "value": 38,
+    "value_": 38
   },
   {
     "geoid": "51047",
@@ -24731,6 +25165,13 @@
     "value_": 105
   },
   {
+    "geoid": "51047",
+    "key": "active-listings",
+    "date": "2025-12-15",
+    "value": 149,
+    "value_": 149
+  },
+  {
     "geoid": "51059",
     "key": "active-listings",
     "date": "2022-12-15",
@@ -24750,6 +25191,13 @@
     "date": "2024-12-15",
     "value": 912,
     "value_": 912
+  },
+  {
+    "geoid": "51059",
+    "key": "active-listings",
+    "date": "2025-12-15",
+    "value": 1306,
+    "value_": 1306
   },
   {
     "geoid": "51061",
@@ -24773,6 +25221,13 @@
     "value_": 131
   },
   {
+    "geoid": "51061",
+    "key": "active-listings",
+    "date": "2025-12-15",
+    "value": 159,
+    "value_": 159
+  },
+  {
     "geoid": "51107",
     "key": "active-listings",
     "date": "2022-12-15",
@@ -24792,6 +25247,13 @@
     "date": "2024-12-15",
     "value": 348,
     "value_": 348
+  },
+  {
+    "geoid": "51107",
+    "key": "active-listings",
+    "date": "2025-12-15",
+    "value": 394,
+    "value_": 394
   },
   {
     "geoid": "51153",
@@ -24815,6 +25277,13 @@
     "value_": 364
   },
   {
+    "geoid": "51153",
+    "key": "active-listings",
+    "date": "2025-12-15",
+    "value": 584,
+    "value_": 584
+  },
+  {
     "geoid": "51157",
     "key": "active-listings",
     "date": "2022-12-15",
@@ -24834,6 +25303,13 @@
     "date": "2024-12-15",
     "value": 31,
     "value_": 31
+  },
+  {
+    "geoid": "51157",
+    "key": "active-listings",
+    "date": "2025-12-15",
+    "value": 44,
+    "value_": 44
   },
   {
     "geoid": "51177",
@@ -24857,6 +25333,13 @@
     "value_": 249
   },
   {
+    "geoid": "51177",
+    "key": "active-listings",
+    "date": "2025-12-15",
+    "value": 335,
+    "value_": 335
+  },
+  {
     "geoid": "51179",
     "key": "active-listings",
     "date": "2022-12-15",
@@ -24876,6 +25359,13 @@
     "date": "2024-12-15",
     "value": 225,
     "value_": 225
+  },
+  {
+    "geoid": "51179",
+    "key": "active-listings",
+    "date": "2025-12-15",
+    "value": 347,
+    "value_": 347
   },
   {
     "geoid": "51187",
@@ -24899,6 +25389,13 @@
     "value_": 126
   },
   {
+    "geoid": "51187",
+    "key": "active-listings",
+    "date": "2025-12-15",
+    "value": 127,
+    "value_": 127
+  },
+  {
     "geoid": "51510",
     "key": "active-listings",
     "date": "2022-12-15",
@@ -24918,6 +25415,13 @@
     "date": "2024-12-15",
     "value": 163,
     "value_": 163
+  },
+  {
+    "geoid": "51510",
+    "key": "active-listings",
+    "date": "2025-12-15",
+    "value": 238,
+    "value_": 238
   },
   {
     "geoid": "51630",
@@ -24941,6 +25445,13 @@
     "value_": 58
   },
   {
+    "geoid": "51630",
+    "key": "active-listings",
+    "date": "2025-12-15",
+    "value": 54,
+    "value_": 54
+  },
+  {
     "geoid": "54037",
     "key": "active-listings",
     "date": "2022-12-15",
@@ -24960,6 +25471,13 @@
     "date": "2024-12-15",
     "value": 180,
     "value_": 180
+  },
+  {
+    "geoid": "54037",
+    "key": "active-listings",
+    "date": "2025-12-15",
+    "value": 225,
+    "value_": 225
   },
   {
     "geoid": "99997",
@@ -24983,6 +25501,13 @@
     "value_": 420731
   },
   {
+    "geoid": "99997",
+    "key": "active-listings",
+    "date": "2025-12-15",
+    "value": 471917,
+    "value_": 471917
+  },
+  {
     "geoid": "99999",
     "key": "active-listings",
     "date": "2022-12-15",
@@ -25002,5 +25527,12 @@
     "date": "2024-12-15",
     "value": 871518,
     "value_": 871518
+  },
+  {
+    "geoid": "99999",
+    "key": "active-listings",
+    "date": "2025-12-15",
+    "value": 976833,
+    "value_": 976833
   }
 ]

@@ -23429,6 +23429,13 @@
     "value_": 489.33333
   },
   {
+    "geoid": "11001",
+    "key": "unique-postings-internships",
+    "date": "2025-12-15",
+    "value": 410.33333,
+    "value_": 410.33333
+  },
+  {
     "geoid": "12060",
     "key": "unique-postings-internships",
     "date": "2022-12-15",
@@ -23448,6 +23455,13 @@
     "date": "2024-12-15",
     "value": 740,
     "value_": 740
+  },
+  {
+    "geoid": "12060",
+    "key": "unique-postings-internships",
+    "date": "2025-12-15",
+    "value": 688,
+    "value_": 688
   },
   {
     "geoid": "12420",
@@ -23471,6 +23485,13 @@
     "value_": 448.33333
   },
   {
+    "geoid": "12420",
+    "key": "unique-postings-internships",
+    "date": "2025-12-15",
+    "value": 426,
+    "value_": 426
+  },
+  {
     "geoid": "12580",
     "key": "unique-postings-internships",
     "date": "2022-12-15",
@@ -23490,6 +23511,13 @@
     "date": "2024-12-15",
     "value": 402,
     "value_": 402
+  },
+  {
+    "geoid": "12580",
+    "key": "unique-postings-internships",
+    "date": "2025-12-15",
+    "value": 358.66667,
+    "value_": 358.66667
   },
   {
     "geoid": "13820",
@@ -23513,6 +23541,13 @@
     "value_": 76
   },
   {
+    "geoid": "13820",
+    "key": "unique-postings-internships",
+    "date": "2025-12-15",
+    "value": 120,
+    "value_": 120
+  },
+  {
     "geoid": "14460",
     "key": "unique-postings-internships",
     "date": "2022-12-15",
@@ -23532,6 +23567,13 @@
     "date": "2024-12-15",
     "value": 1211,
     "value_": 1211
+  },
+  {
+    "geoid": "14460",
+    "key": "unique-postings-internships",
+    "date": "2025-12-15",
+    "value": 1212,
+    "value_": 1212
   },
   {
     "geoid": "15380",
@@ -23555,6 +23597,13 @@
     "value_": 106.66667
   },
   {
+    "geoid": "15380",
+    "key": "unique-postings-internships",
+    "date": "2025-12-15",
+    "value": 113.66667,
+    "value_": 113.66667
+  },
+  {
     "geoid": "16740",
     "key": "unique-postings-internships",
     "date": "2022-12-15",
@@ -23574,6 +23623,13 @@
     "date": "2024-12-15",
     "value": 261,
     "value_": 261
+  },
+  {
+    "geoid": "16740",
+    "key": "unique-postings-internships",
+    "date": "2025-12-15",
+    "value": 333.33333,
+    "value_": 333.33333
   },
   {
     "geoid": "16980",
@@ -23597,6 +23653,13 @@
     "value_": 1057
   },
   {
+    "geoid": "16980",
+    "key": "unique-postings-internships",
+    "date": "2025-12-15",
+    "value": 1186.33333,
+    "value_": 1186.33333
+  },
+  {
     "geoid": "17140",
     "key": "unique-postings-internships",
     "date": "2022-12-15",
@@ -23616,6 +23679,13 @@
     "date": "2024-12-15",
     "value": 306.66667,
     "value_": 306.66667
+  },
+  {
+    "geoid": "17140",
+    "key": "unique-postings-internships",
+    "date": "2025-12-15",
+    "value": 302,
+    "value_": 302
   },
   {
     "geoid": "17410",
@@ -23639,6 +23709,13 @@
     "value_": 218
   },
   {
+    "geoid": "17410",
+    "key": "unique-postings-internships",
+    "date": "2025-12-15",
+    "value": 228.33333,
+    "value_": 228.33333
+  },
+  {
     "geoid": "18140",
     "key": "unique-postings-internships",
     "date": "2022-12-15",
@@ -23658,6 +23735,13 @@
     "date": "2024-12-15",
     "value": 380.33333,
     "value_": 380.33333
+  },
+  {
+    "geoid": "18140",
+    "key": "unique-postings-internships",
+    "date": "2025-12-15",
+    "value": 338.33333,
+    "value_": 338.33333
   },
   {
     "geoid": "19100",
@@ -23681,6 +23765,13 @@
     "value_": 890.66667
   },
   {
+    "geoid": "19100",
+    "key": "unique-postings-internships",
+    "date": "2025-12-15",
+    "value": 964.33333,
+    "value_": 964.33333
+  },
+  {
     "geoid": "19740",
     "key": "unique-postings-internships",
     "date": "2022-12-15",
@@ -23700,6 +23791,13 @@
     "date": "2024-12-15",
     "value": 669.33333,
     "value_": 669.33333
+  },
+  {
+    "geoid": "19740",
+    "key": "unique-postings-internships",
+    "date": "2025-12-15",
+    "value": 498.66667,
+    "value_": 498.66667
   },
   {
     "geoid": "19820",
@@ -23723,6 +23821,13 @@
     "value_": 501.33333
   },
   {
+    "geoid": "19820",
+    "key": "unique-postings-internships",
+    "date": "2025-12-15",
+    "value": 525.33333,
+    "value_": 525.33333
+  },
+  {
     "geoid": "23420",
     "key": "unique-postings-internships",
     "date": "2022-12-15",
@@ -23742,6 +23847,13 @@
     "date": "2024-12-15",
     "value": 79,
     "value_": 79
+  },
+  {
+    "geoid": "23420",
+    "key": "unique-postings-internships",
+    "date": "2025-12-15",
+    "value": 69.33333,
+    "value_": 69.33333
   },
   {
     "geoid": "24017",
@@ -23765,6 +23877,13 @@
     "value_": 8
   },
   {
+    "geoid": "24017",
+    "key": "unique-postings-internships",
+    "date": "2025-12-15",
+    "value": 9.66667,
+    "value_": 9.66667
+  },
+  {
     "geoid": "24021",
     "key": "unique-postings-internships",
     "date": "2022-12-15",
@@ -23784,6 +23903,13 @@
     "date": "2024-12-15",
     "value": 21,
     "value_": 21
+  },
+  {
+    "geoid": "24021",
+    "key": "unique-postings-internships",
+    "date": "2025-12-15",
+    "value": 14.33333,
+    "value_": 14.33333
   },
   {
     "geoid": "24031",
@@ -23807,6 +23933,13 @@
     "value_": 141
   },
   {
+    "geoid": "24031",
+    "key": "unique-postings-internships",
+    "date": "2025-12-15",
+    "value": 91.66667,
+    "value_": 91.66667
+  },
+  {
     "geoid": "24033",
     "key": "unique-postings-internships",
     "date": "2022-12-15",
@@ -23826,6 +23959,13 @@
     "date": "2024-12-15",
     "value": 75,
     "value_": 75
+  },
+  {
+    "geoid": "24033",
+    "key": "unique-postings-internships",
+    "date": "2025-12-15",
+    "value": 73.66667,
+    "value_": 73.66667
   },
   {
     "geoid": "24340",
@@ -23849,6 +23989,13 @@
     "value_": 188
   },
   {
+    "geoid": "24340",
+    "key": "unique-postings-internships",
+    "date": "2025-12-15",
+    "value": 167.33333,
+    "value_": 167.33333
+  },
+  {
     "geoid": "25540",
     "key": "unique-postings-internships",
     "date": "2022-12-15",
@@ -23868,6 +24015,13 @@
     "date": "2024-12-15",
     "value": 246.33333,
     "value_": 246.33333
+  },
+  {
+    "geoid": "25540",
+    "key": "unique-postings-internships",
+    "date": "2025-12-15",
+    "value": 203,
+    "value_": 203
   },
   {
     "geoid": "26420",
@@ -23891,6 +24045,13 @@
     "value_": 631.66667
   },
   {
+    "geoid": "26420",
+    "key": "unique-postings-internships",
+    "date": "2025-12-15",
+    "value": 554,
+    "value_": 554
+  },
+  {
     "geoid": "26900",
     "key": "unique-postings-internships",
     "date": "2022-12-15",
@@ -23910,6 +24071,13 @@
     "date": "2024-12-15",
     "value": 381.33333,
     "value_": 381.33333
+  },
+  {
+    "geoid": "26900",
+    "key": "unique-postings-internships",
+    "date": "2025-12-15",
+    "value": 348,
+    "value_": 348
   },
   {
     "geoid": "27260",
@@ -23933,6 +24101,13 @@
     "value_": 136.33333
   },
   {
+    "geoid": "27260",
+    "key": "unique-postings-internships",
+    "date": "2025-12-15",
+    "value": 143,
+    "value_": 143
+  },
+  {
     "geoid": "28140",
     "key": "unique-postings-internships",
     "date": "2022-12-15",
@@ -23952,6 +24127,13 @@
     "date": "2024-12-15",
     "value": 369,
     "value_": 369
+  },
+  {
+    "geoid": "28140",
+    "key": "unique-postings-internships",
+    "date": "2025-12-15",
+    "value": 353.33333,
+    "value_": 353.33333
   },
   {
     "geoid": "29820",
@@ -23975,6 +24157,13 @@
     "value_": 148
   },
   {
+    "geoid": "29820",
+    "key": "unique-postings-internships",
+    "date": "2025-12-15",
+    "value": 137.66667,
+    "value_": 137.66667
+  },
+  {
     "geoid": "31080",
     "key": "unique-postings-internships",
     "date": "2022-12-15",
@@ -23994,6 +24183,13 @@
     "date": "2024-12-15",
     "value": 1254,
     "value_": 1254
+  },
+  {
+    "geoid": "31080",
+    "key": "unique-postings-internships",
+    "date": "2025-12-15",
+    "value": 1258,
+    "value_": 1258
   },
   {
     "geoid": "31140",
@@ -24017,6 +24213,13 @@
     "value_": 100.33333
   },
   {
+    "geoid": "31140",
+    "key": "unique-postings-internships",
+    "date": "2025-12-15",
+    "value": 128.33333,
+    "value_": 128.33333
+  },
+  {
     "geoid": "32820",
     "key": "unique-postings-internships",
     "date": "2022-12-15",
@@ -24036,6 +24239,13 @@
     "date": "2024-12-15",
     "value": 91,
     "value_": 91
+  },
+  {
+    "geoid": "32820",
+    "key": "unique-postings-internships",
+    "date": "2025-12-15",
+    "value": 100.33333,
+    "value_": 100.33333
   },
   {
     "geoid": "33100",
@@ -24059,6 +24269,13 @@
     "value_": 465.66667
   },
   {
+    "geoid": "33100",
+    "key": "unique-postings-internships",
+    "date": "2025-12-15",
+    "value": 539,
+    "value_": 539
+  },
+  {
     "geoid": "33340",
     "key": "unique-postings-internships",
     "date": "2022-12-15",
@@ -24078,6 +24295,13 @@
     "date": "2024-12-15",
     "value": 323.33333,
     "value_": 323.33333
+  },
+  {
+    "geoid": "33340",
+    "key": "unique-postings-internships",
+    "date": "2025-12-15",
+    "value": 288.66667,
+    "value_": 288.66667
   },
   {
     "geoid": "33460",
@@ -24101,6 +24325,13 @@
     "value_": 744
   },
   {
+    "geoid": "33460",
+    "key": "unique-postings-internships",
+    "date": "2025-12-15",
+    "value": 744.33333,
+    "value_": 744.33333
+  },
+  {
     "geoid": "34980",
     "key": "unique-postings-internships",
     "date": "2022-12-15",
@@ -24120,6 +24351,13 @@
     "date": "2024-12-15",
     "value": 291.33333,
     "value_": 291.33333
+  },
+  {
+    "geoid": "34980",
+    "key": "unique-postings-internships",
+    "date": "2025-12-15",
+    "value": 253.66667,
+    "value_": 253.66667
   },
   {
     "geoid": "35620",
@@ -24143,6 +24381,13 @@
     "value_": 2423.33333
   },
   {
+    "geoid": "35620",
+    "key": "unique-postings-internships",
+    "date": "2025-12-15",
+    "value": 2558,
+    "value_": 2558
+  },
+  {
     "geoid": "36420",
     "key": "unique-postings-internships",
     "date": "2022-12-15",
@@ -24162,6 +24407,13 @@
     "date": "2024-12-15",
     "value": 185.66667,
     "value_": 185.66667
+  },
+  {
+    "geoid": "36420",
+    "key": "unique-postings-internships",
+    "date": "2025-12-15",
+    "value": 160.66667,
+    "value_": 160.66667
   },
   {
     "geoid": "36540",
@@ -24185,6 +24437,13 @@
     "value_": 135.33333
   },
   {
+    "geoid": "36540",
+    "key": "unique-postings-internships",
+    "date": "2025-12-15",
+    "value": 139.66667,
+    "value_": 139.66667
+  },
+  {
     "geoid": "36740",
     "key": "unique-postings-internships",
     "date": "2022-12-15",
@@ -24204,6 +24463,13 @@
     "date": "2024-12-15",
     "value": 265.66667,
     "value_": 265.66667
+  },
+  {
+    "geoid": "36740",
+    "key": "unique-postings-internships",
+    "date": "2025-12-15",
+    "value": 282,
+    "value_": 282
   },
   {
     "geoid": "37980",
@@ -24227,6 +24493,13 @@
     "value_": 694
   },
   {
+    "geoid": "37980",
+    "key": "unique-postings-internships",
+    "date": "2025-12-15",
+    "value": 705.66667,
+    "value_": 705.66667
+  },
+  {
     "geoid": "38060",
     "key": "unique-postings-internships",
     "date": "2022-12-15",
@@ -24246,6 +24519,13 @@
     "date": "2024-12-15",
     "value": 557.33333,
     "value_": 557.33333
+  },
+  {
+    "geoid": "38060",
+    "key": "unique-postings-internships",
+    "date": "2025-12-15",
+    "value": 631.33333,
+    "value_": 631.33333
   },
   {
     "geoid": "38300",
@@ -24269,6 +24549,13 @@
     "value_": 387.33333
   },
   {
+    "geoid": "38300",
+    "key": "unique-postings-internships",
+    "date": "2025-12-15",
+    "value": 390.33333,
+    "value_": 390.33333
+  },
+  {
     "geoid": "38900",
     "key": "unique-postings-internships",
     "date": "2022-12-15",
@@ -24288,6 +24575,13 @@
     "date": "2024-12-15",
     "value": 261,
     "value_": 261
+  },
+  {
+    "geoid": "38900",
+    "key": "unique-postings-internships",
+    "date": "2025-12-15",
+    "value": 280,
+    "value_": 280
   },
   {
     "geoid": "39300",
@@ -24311,6 +24605,13 @@
     "value_": 215
   },
   {
+    "geoid": "39300",
+    "key": "unique-postings-internships",
+    "date": "2025-12-15",
+    "value": 181,
+    "value_": 181
+  },
+  {
     "geoid": "39580",
     "key": "unique-postings-internships",
     "date": "2022-12-15",
@@ -24330,6 +24631,13 @@
     "date": "2024-12-15",
     "value": 347.33333,
     "value_": 347.33333
+  },
+  {
+    "geoid": "39580",
+    "key": "unique-postings-internships",
+    "date": "2025-12-15",
+    "value": 307.66667,
+    "value_": 307.66667
   },
   {
     "geoid": "40060",
@@ -24353,6 +24661,13 @@
     "value_": 229.66667
   },
   {
+    "geoid": "40060",
+    "key": "unique-postings-internships",
+    "date": "2025-12-15",
+    "value": 193.33333,
+    "value_": 193.33333
+  },
+  {
     "geoid": "40140",
     "key": "unique-postings-internships",
     "date": "2022-12-15",
@@ -24372,6 +24687,13 @@
     "date": "2024-12-15",
     "value": 174,
     "value_": 174
+  },
+  {
+    "geoid": "40140",
+    "key": "unique-postings-internships",
+    "date": "2025-12-15",
+    "value": 182.66667,
+    "value_": 182.66667
   },
   {
     "geoid": "40380",
@@ -24395,6 +24717,13 @@
     "value_": 98
   },
   {
+    "geoid": "40380",
+    "key": "unique-postings-internships",
+    "date": "2025-12-15",
+    "value": 114.33333,
+    "value_": 114.33333
+  },
+  {
     "geoid": "40900",
     "key": "unique-postings-internships",
     "date": "2022-12-15",
@@ -24414,6 +24743,13 @@
     "date": "2024-12-15",
     "value": 251.66667,
     "value_": 251.66667
+  },
+  {
+    "geoid": "40900",
+    "key": "unique-postings-internships",
+    "date": "2025-12-15",
+    "value": 222.33333,
+    "value_": 222.33333
   },
   {
     "geoid": "41180",
@@ -24437,6 +24773,13 @@
     "value_": 332.33333
   },
   {
+    "geoid": "41180",
+    "key": "unique-postings-internships",
+    "date": "2025-12-15",
+    "value": 303,
+    "value_": 303
+  },
+  {
     "geoid": "41620",
     "key": "unique-postings-internships",
     "date": "2022-12-15",
@@ -24456,6 +24799,13 @@
     "date": "2024-12-15",
     "value": 290.66667,
     "value_": 290.66667
+  },
+  {
+    "geoid": "41620",
+    "key": "unique-postings-internships",
+    "date": "2025-12-15",
+    "value": 249.66667,
+    "value_": 249.66667
   },
   {
     "geoid": "41700",
@@ -24479,6 +24829,13 @@
     "value_": 150.66667
   },
   {
+    "geoid": "41700",
+    "key": "unique-postings-internships",
+    "date": "2025-12-15",
+    "value": 178.66667,
+    "value_": 178.66667
+  },
+  {
     "geoid": "41740",
     "key": "unique-postings-internships",
     "date": "2022-12-15",
@@ -24498,6 +24855,13 @@
     "date": "2024-12-15",
     "value": 399.33333,
     "value_": 399.33333
+  },
+  {
+    "geoid": "41740",
+    "key": "unique-postings-internships",
+    "date": "2025-12-15",
+    "value": 349,
+    "value_": 349
   },
   {
     "geoid": "41860",
@@ -24521,6 +24885,13 @@
     "value_": 842
   },
   {
+    "geoid": "41860",
+    "key": "unique-postings-internships",
+    "date": "2025-12-15",
+    "value": 783,
+    "value_": 783
+  },
+  {
     "geoid": "41940",
     "key": "unique-postings-internships",
     "date": "2022-12-15",
@@ -24540,6 +24911,13 @@
     "date": "2024-12-15",
     "value": 631.33333,
     "value_": 631.33333
+  },
+  {
+    "geoid": "41940",
+    "key": "unique-postings-internships",
+    "date": "2025-12-15",
+    "value": 631.66667,
+    "value_": 631.66667
   },
   {
     "geoid": "42660",
@@ -24563,6 +24941,13 @@
     "value_": 1463.33333
   },
   {
+    "geoid": "42660",
+    "key": "unique-postings-internships",
+    "date": "2025-12-15",
+    "value": 661,
+    "value_": 661
+  },
+  {
     "geoid": "45300",
     "key": "unique-postings-internships",
     "date": "2022-12-15",
@@ -24582,6 +24967,13 @@
     "date": "2024-12-15",
     "value": 257.66667,
     "value_": 257.66667
+  },
+  {
+    "geoid": "45300",
+    "key": "unique-postings-internships",
+    "date": "2025-12-15",
+    "value": 313,
+    "value_": 313
   },
   {
     "geoid": "46060",
@@ -24605,6 +24997,13 @@
     "value_": 91.33333
   },
   {
+    "geoid": "46060",
+    "key": "unique-postings-internships",
+    "date": "2025-12-15",
+    "value": 103,
+    "value_": 103
+  },
+  {
     "geoid": "46140",
     "key": "unique-postings-internships",
     "date": "2022-12-15",
@@ -24624,6 +25023,13 @@
     "date": "2024-12-15",
     "value": 63,
     "value_": 63
+  },
+  {
+    "geoid": "46140",
+    "key": "unique-postings-internships",
+    "date": "2025-12-15",
+    "value": 81.33333,
+    "value_": 81.33333
   },
   {
     "geoid": "47260",
@@ -24647,6 +25053,13 @@
     "value_": 178
   },
   {
+    "geoid": "47260",
+    "key": "unique-postings-internships",
+    "date": "2025-12-15",
+    "value": 180.33333,
+    "value_": 180.33333
+  },
+  {
     "geoid": "47900",
     "key": "unique-postings-internships",
     "date": "2022-12-15",
@@ -24666,6 +25079,13 @@
     "date": "2024-12-15",
     "value": 1545.33333,
     "value_": 1545.33333
+  },
+  {
+    "geoid": "47900",
+    "key": "unique-postings-internships",
+    "date": "2025-12-15",
+    "value": 1093,
+    "value_": 1093
   },
   {
     "geoid": "51013",
@@ -24689,6 +25109,13 @@
     "value_": 157
   },
   {
+    "geoid": "51013",
+    "key": "unique-postings-internships",
+    "date": "2025-12-15",
+    "value": 95.66667,
+    "value_": 95.66667
+  },
+  {
     "geoid": "51043",
     "key": "unique-postings-internships",
     "date": "2022-12-15",
@@ -24710,6 +25137,13 @@
     "value_": 0.33333
   },
   {
+    "geoid": "51043",
+    "key": "unique-postings-internships",
+    "date": "2025-12-15",
+    "value": 0.33333,
+    "value_": 0.33333
+  },
+  {
     "geoid": "51047",
     "key": "unique-postings-internships",
     "date": "2022-12-15",
@@ -24729,6 +25163,13 @@
     "date": "2024-12-15",
     "value": 0.33333,
     "value_": 0.33333
+  },
+  {
+    "geoid": "51047",
+    "key": "unique-postings-internships",
+    "date": "2025-12-15",
+    "value": 2.33333,
+    "value_": 2.33333
   },
   {
     "geoid": "51059",
@@ -24752,6 +25193,13 @@
     "value_": 474.33333
   },
   {
+    "geoid": "51059",
+    "key": "unique-postings-internships",
+    "date": "2025-12-15",
+    "value": 267.66667,
+    "value_": 267.66667
+  },
+  {
     "geoid": "51061",
     "key": "unique-postings-internships",
     "date": "2022-12-15",
@@ -24771,6 +25219,13 @@
     "date": "2024-12-15",
     "value": 3,
     "value_": 3
+  },
+  {
+    "geoid": "51061",
+    "key": "unique-postings-internships",
+    "date": "2025-12-15",
+    "value": 6.33333,
+    "value_": 6.33333
   },
   {
     "geoid": "51107",
@@ -24794,6 +25249,13 @@
     "value_": 77.66667
   },
   {
+    "geoid": "51107",
+    "key": "unique-postings-internships",
+    "date": "2025-12-15",
+    "value": 33.66667,
+    "value_": 33.66667
+  },
+  {
     "geoid": "51153",
     "key": "unique-postings-internships",
     "date": "2022-12-15",
@@ -24813,6 +25275,13 @@
     "date": "2024-12-15",
     "value": 42,
     "value_": 42
+  },
+  {
+    "geoid": "51153",
+    "key": "unique-postings-internships",
+    "date": "2025-12-15",
+    "value": 35.33333,
+    "value_": 35.33333
   },
   {
     "geoid": "51157",
@@ -24836,6 +25305,13 @@
     "value_": 3
   },
   {
+    "geoid": "51157",
+    "key": "unique-postings-internships",
+    "date": "2025-12-15",
+    "value": 1.66667,
+    "value_": 1.66667
+  },
+  {
     "geoid": "51177",
     "key": "unique-postings-internships",
     "date": "2022-12-15",
@@ -24855,6 +25331,13 @@
     "date": "2024-12-15",
     "value": 5.66667,
     "value_": 5.66667
+  },
+  {
+    "geoid": "51177",
+    "key": "unique-postings-internships",
+    "date": "2025-12-15",
+    "value": 7,
+    "value_": 7
   },
   {
     "geoid": "51179",
@@ -24878,6 +25361,13 @@
     "value_": 7
   },
   {
+    "geoid": "51179",
+    "key": "unique-postings-internships",
+    "date": "2025-12-15",
+    "value": 7.33333,
+    "value_": 7.33333
+  },
+  {
     "geoid": "51187",
     "key": "unique-postings-internships",
     "date": "2022-12-15",
@@ -24897,6 +25387,13 @@
     "date": "2024-12-15",
     "value": 2,
     "value_": 2
+  },
+  {
+    "geoid": "51187",
+    "key": "unique-postings-internships",
+    "date": "2025-12-15",
+    "value": 1,
+    "value_": 1
   },
   {
     "geoid": "51510",
@@ -24920,6 +25417,13 @@
     "value_": 29.66667
   },
   {
+    "geoid": "51510",
+    "key": "unique-postings-internships",
+    "date": "2025-12-15",
+    "value": 27,
+    "value_": 27
+  },
+  {
     "geoid": "51630",
     "key": "unique-postings-internships",
     "date": "2022-12-15",
@@ -24939,6 +25443,13 @@
     "date": "2024-12-15",
     "value": 6,
     "value_": 6
+  },
+  {
+    "geoid": "51630",
+    "key": "unique-postings-internships",
+    "date": "2025-12-15",
+    "value": 4,
+    "value_": 4
   },
   {
     "geoid": "54037",
@@ -24962,6 +25473,13 @@
     "value_": 3
   },
   {
+    "geoid": "54037",
+    "key": "unique-postings-internships",
+    "date": "2025-12-15",
+    "value": 4,
+    "value_": 4
+  },
+  {
     "geoid": "99997",
     "key": "unique-postings-internships",
     "date": "2022-12-15",
@@ -24983,6 +25501,13 @@
     "value_": 25188
   },
   {
+    "geoid": "99997",
+    "key": "unique-postings-internships",
+    "date": "2025-12-15",
+    "value": 23858.66667,
+    "value_": 23858.66667
+  },
+  {
     "geoid": "99999",
     "key": "unique-postings-internships",
     "date": "2022-12-15",
@@ -25002,5 +25527,12 @@
     "date": "2024-12-15",
     "value": 40506,
     "value_": 40506
+  },
+  {
+    "geoid": "99999",
+    "key": "unique-postings-internships",
+    "date": "2025-12-15",
+    "value": 38979.66667,
+    "value_": 38979.66667
   }
 ]
