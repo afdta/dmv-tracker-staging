@@ -36,6 +36,11 @@
   "subtopics": [
     {
       "topic": "overall-economy",
+      "subtopic": "jobs",
+      "name": "Jobs"
+    },
+    {
+      "topic": "overall-economy",
       "subtopic": "business-bankruptcy-rate",
       "name": "Commercial bankruptcy rate"
     },
@@ -533,6 +538,54 @@
       "start": "2024-11-15",
       "end": "2025-11-15",
       "map": 0
+    },
+    {
+      "topic": "overall-economy",
+      "subtopic": "jobs",
+      "def": "Total nonfarm payroll jobs, measured at location of employment",
+      "source": "Lightcast and U.S. Bureau of Labor Statistics",
+      "name": "Total jobs",
+      "key": "jobs-total",
+      "interval": "M",
+      "format": "123k",
+      "format_change": "pct",
+      "note": "Level",
+      "last_updated": "DMV-2026-03-03",
+      "start": "2024-12-15",
+      "end": "2025-12-15",
+      "map": 1
+    },
+    {
+      "topic": "overall-economy",
+      "subtopic": "jobs",
+      "def": "Total nonfarm payroll jobs, measured at location of employment",
+      "source": "Lightcast and U.S. Bureau of Labor Statistics",
+      "name": "Private sector jobs",
+      "key": "jobs-private",
+      "interval": "M",
+      "format": "123k",
+      "format_change": "pct",
+      "note": "Level",
+      "last_updated": "DMV-2026-03-03",
+      "start": "2024-12-15",
+      "end": "2025-12-15",
+      "map": 1
+    },
+    {
+      "topic": "overall-economy",
+      "subtopic": "jobs",
+      "def": "Total nonfarm payroll jobs, measured at location of employment",
+      "source": "Lightcast and U.S. Bureau of Labor Statistics",
+      "name": "Federal government jobs",
+      "key": "jobs-federal",
+      "interval": "M",
+      "format": "123k",
+      "format_change": "pct",
+      "note": "Level",
+      "last_updated": "DMV-2026-03-03",
+      "start": "2024-12-15",
+      "end": "2025-12-15",
+      "map": 1
     },
     {
       "topic": "innovation",
