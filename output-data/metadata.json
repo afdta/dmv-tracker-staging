@@ -686,7 +686,7 @@
     {
       "topic": "real-estate",
       "subtopic": "median-listing-price",
-      "def": "Median price of for-sale residential listings on the market in a given month",
+      "def": "Real median price of for-sale residential listings on the market in a given month",
       "source": "Realtor.com Economic Research",
       "name": "Median residential listing price",
       "key": "median-listing-price",
@@ -702,7 +702,7 @@
     {
       "topic": "real-estate",
       "subtopic": "rent-index",
-      "def": "Zillow observed rental index (ZORI), all homes",
+      "def": "Zillow inflation-adjusted observed rental index (ZORI), all homes",
       "source": "Zillow",
       "name": "Observed rental index",
       "key": "rent-index",
