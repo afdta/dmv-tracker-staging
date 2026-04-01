@@ -23121,6 +23121,13 @@
     "value_": 8928132123.67
   },
   {
+    "geoid": "11001",
+    "key": "federal-obligations-contracts",
+    "date": "2025-12-15",
+    "value": 5009395556.45,
+    "value_": 5009395556.45
+  },
+  {
     "geoid": "12060",
     "key": "federal-obligations-contracts",
     "date": "2022-12-15",
@@ -23140,6 +23147,13 @@
     "date": "2024-12-15",
     "value": 6371383032.51,
     "value_": 6371383032.51
+  },
+  {
+    "geoid": "12060",
+    "key": "federal-obligations-contracts",
+    "date": "2025-12-15",
+    "value": 6325624961.72,
+    "value_": 6325624961.72
   },
   {
     "geoid": "12420",
@@ -23163,6 +23177,13 @@
     "value_": 5707035467.02
   },
   {
+    "geoid": "12420",
+    "key": "federal-obligations-contracts",
+    "date": "2025-12-15",
+    "value": 3978073199.47,
+    "value_": 3978073199.47
+  },
+  {
     "geoid": "12580",
     "key": "federal-obligations-contracts",
     "date": "2022-12-15",
@@ -23182,6 +23203,13 @@
     "date": "2024-12-15",
     "value": 12727993753.31,
     "value_": 12727993753.31
+  },
+  {
+    "geoid": "12580",
+    "key": "federal-obligations-contracts",
+    "date": "2025-12-15",
+    "value": 11489759284.3,
+    "value_": 11489759284.3
   },
   {
     "geoid": "13820",
@@ -23205,6 +23233,13 @@
     "value_": 2351340842.93
   },
   {
+    "geoid": "13820",
+    "key": "federal-obligations-contracts",
+    "date": "2025-12-15",
+    "value": 1510856696.07,
+    "value_": 1510856696.07
+  },
+  {
     "geoid": "14460",
     "key": "federal-obligations-contracts",
     "date": "2022-12-15",
@@ -23224,6 +23259,13 @@
     "date": "2024-12-15",
     "value": 18423791348.97,
     "value_": 18423791348.97
+  },
+  {
+    "geoid": "14460",
+    "key": "federal-obligations-contracts",
+    "date": "2025-12-15",
+    "value": 15039343355.97,
+    "value_": 15039343355.97
   },
   {
     "geoid": "15380",
@@ -23247,6 +23289,13 @@
     "value_": 836787588.95
   },
   {
+    "geoid": "15380",
+    "key": "federal-obligations-contracts",
+    "date": "2025-12-15",
+    "value": 667686180.56,
+    "value_": 667686180.56
+  },
+  {
     "geoid": "16740",
     "key": "federal-obligations-contracts",
     "date": "2022-12-15",
@@ -23266,6 +23315,13 @@
     "date": "2024-12-15",
     "value": 893498597.33,
     "value_": 893498597.33
+  },
+  {
+    "geoid": "16740",
+    "key": "federal-obligations-contracts",
+    "date": "2025-12-15",
+    "value": 732438485.93,
+    "value_": 732438485.93
   },
   {
     "geoid": "16980",
@@ -23289,6 +23345,13 @@
     "value_": 10810827252.27
   },
   {
+    "geoid": "16980",
+    "key": "federal-obligations-contracts",
+    "date": "2025-12-15",
+    "value": 10048467462.73,
+    "value_": 10048467462.73
+  },
+  {
     "geoid": "17140",
     "key": "federal-obligations-contracts",
     "date": "2022-12-15",
@@ -23308,6 +23371,13 @@
     "date": "2024-12-15",
     "value": 3030970073.51,
     "value_": 3030970073.51
+  },
+  {
+    "geoid": "17140",
+    "key": "federal-obligations-contracts",
+    "date": "2025-12-15",
+    "value": 2488623733.66,
+    "value_": 2488623733.66
   },
   {
     "geoid": "17410",
@@ -23331,6 +23401,13 @@
     "value_": 1018903569.61
   },
   {
+    "geoid": "17410",
+    "key": "federal-obligations-contracts",
+    "date": "2025-12-15",
+    "value": 804022654.88,
+    "value_": 804022654.88
+  },
+  {
     "geoid": "18140",
     "key": "federal-obligations-contracts",
     "date": "2022-12-15",
@@ -23350,6 +23427,13 @@
     "date": "2024-12-15",
     "value": 2041332991.58,
     "value_": 2041332991.58
+  },
+  {
+    "geoid": "18140",
+    "key": "federal-obligations-contracts",
+    "date": "2025-12-15",
+    "value": 1788248858.61,
+    "value_": 1788248858.61
   },
   {
     "geoid": "19100",
@@ -23373,6 +23457,13 @@
     "value_": 46506477658.48
   },
   {
+    "geoid": "19100",
+    "key": "federal-obligations-contracts",
+    "date": "2025-12-15",
+    "value": 52088985640.33,
+    "value_": 52088985640.33
+  },
+  {
     "geoid": "19740",
     "key": "federal-obligations-contracts",
     "date": "2022-12-15",
@@ -23392,6 +23483,13 @@
     "date": "2024-12-15",
     "value": 8394026346.1,
     "value_": 8394026346.1
+  },
+  {
+    "geoid": "19740",
+    "key": "federal-obligations-contracts",
+    "date": "2025-12-15",
+    "value": 8167620363.12,
+    "value_": 8167620363.12
   },
   {
     "geoid": "19820",
@@ -23415,6 +23513,13 @@
     "value_": 4981808508.95
   },
   {
+    "geoid": "19820",
+    "key": "federal-obligations-contracts",
+    "date": "2025-12-15",
+    "value": 5029878559.18,
+    "value_": 5029878559.18
+  },
+  {
     "geoid": "23420",
     "key": "federal-obligations-contracts",
     "date": "2022-12-15",
@@ -23434,6 +23539,13 @@
     "date": "2024-12-15",
     "value": 227079704.56,
     "value_": 227079704.56
+  },
+  {
+    "geoid": "23420",
+    "key": "federal-obligations-contracts",
+    "date": "2025-12-15",
+    "value": 226898001.93,
+    "value_": 226898001.93
   },
   {
     "geoid": "24017",
@@ -23457,6 +23569,13 @@
     "value_": 224398152.74
   },
   {
+    "geoid": "24017",
+    "key": "federal-obligations-contracts",
+    "date": "2025-12-15",
+    "value": 239601241.48,
+    "value_": 239601241.48
+  },
+  {
     "geoid": "24021",
     "key": "federal-obligations-contracts",
     "date": "2022-12-15",
@@ -23476,6 +23595,13 @@
     "date": "2024-12-15",
     "value": 1435036973.91,
     "value_": 1435036973.91
+  },
+  {
+    "geoid": "24021",
+    "key": "federal-obligations-contracts",
+    "date": "2025-12-15",
+    "value": 1062282405.44,
+    "value_": 1062282405.44
   },
   {
     "geoid": "24031",
@@ -23499,6 +23625,13 @@
     "value_": 14696256898.56
   },
   {
+    "geoid": "24031",
+    "key": "federal-obligations-contracts",
+    "date": "2025-12-15",
+    "value": 11090162965.66,
+    "value_": 11090162965.66
+  },
+  {
     "geoid": "24033",
     "key": "federal-obligations-contracts",
     "date": "2022-12-15",
@@ -23518,6 +23651,13 @@
     "date": "2024-12-15",
     "value": 4042920661.07,
     "value_": 4042920661.07
+  },
+  {
+    "geoid": "24033",
+    "key": "federal-obligations-contracts",
+    "date": "2025-12-15",
+    "value": 3223098663.13,
+    "value_": 3223098663.13
   },
   {
     "geoid": "24340",
@@ -23541,6 +23681,13 @@
     "value_": 367091863.67
   },
   {
+    "geoid": "24340",
+    "key": "federal-obligations-contracts",
+    "date": "2025-12-15",
+    "value": 335615421.79,
+    "value_": 335615421.79
+  },
+  {
     "geoid": "26420",
     "key": "federal-obligations-contracts",
     "date": "2022-12-15",
@@ -23560,6 +23707,13 @@
     "date": "2024-12-15",
     "value": 7272814310.55,
     "value_": 7272814310.55
+  },
+  {
+    "geoid": "26420",
+    "key": "federal-obligations-contracts",
+    "date": "2025-12-15",
+    "value": 8279637976.13,
+    "value_": 8279637976.13
   },
   {
     "geoid": "26900",
@@ -23583,6 +23737,13 @@
     "value_": 2342918945.21
   },
   {
+    "geoid": "26900",
+    "key": "federal-obligations-contracts",
+    "date": "2025-12-15",
+    "value": 2512754873.57,
+    "value_": 2512754873.57
+  },
+  {
     "geoid": "27260",
     "key": "federal-obligations-contracts",
     "date": "2022-12-15",
@@ -23602,6 +23763,13 @@
     "date": "2024-12-15",
     "value": 2681772518.48,
     "value_": 2681772518.48
+  },
+  {
+    "geoid": "27260",
+    "key": "federal-obligations-contracts",
+    "date": "2025-12-15",
+    "value": 2561916346.69,
+    "value_": 2561916346.69
   },
   {
     "geoid": "28140",
@@ -23625,6 +23793,13 @@
     "value_": 3275011439.48
   },
   {
+    "geoid": "28140",
+    "key": "federal-obligations-contracts",
+    "date": "2025-12-15",
+    "value": 3645613072.7,
+    "value_": 3645613072.7
+  },
+  {
     "geoid": "29820",
     "key": "federal-obligations-contracts",
     "date": "2022-12-15",
@@ -23644,6 +23819,13 @@
     "date": "2024-12-15",
     "value": 804188726.25,
     "value_": 804188726.25
+  },
+  {
+    "geoid": "29820",
+    "key": "federal-obligations-contracts",
+    "date": "2025-12-15",
+    "value": 1093267826.96,
+    "value_": 1093267826.96
   },
   {
     "geoid": "31080",
@@ -23667,6 +23849,13 @@
     "value_": 21337697608.49
   },
   {
+    "geoid": "31080",
+    "key": "federal-obligations-contracts",
+    "date": "2025-12-15",
+    "value": 19317272866.56,
+    "value_": 19317272866.56
+  },
+  {
     "geoid": "31140",
     "key": "federal-obligations-contracts",
     "date": "2022-12-15",
@@ -23686,6 +23875,13 @@
     "date": "2024-12-15",
     "value": 1538797610.81,
     "value_": 1538797610.81
+  },
+  {
+    "geoid": "31140",
+    "key": "federal-obligations-contracts",
+    "date": "2025-12-15",
+    "value": 5419873003.2,
+    "value_": 5419873003.2
   },
   {
     "geoid": "32820",
@@ -23709,6 +23905,13 @@
     "value_": 514524904.81
   },
   {
+    "geoid": "32820",
+    "key": "federal-obligations-contracts",
+    "date": "2025-12-15",
+    "value": 858974960.92,
+    "value_": 858974960.92
+  },
+  {
     "geoid": "33100",
     "key": "federal-obligations-contracts",
     "date": "2022-12-15",
@@ -23728,6 +23931,13 @@
     "date": "2024-12-15",
     "value": 3188430035.83,
     "value_": 3188430035.83
+  },
+  {
+    "geoid": "33100",
+    "key": "federal-obligations-contracts",
+    "date": "2025-12-15",
+    "value": 4761581807.44,
+    "value_": 4761581807.44
   },
   {
     "geoid": "33340",
@@ -23751,6 +23961,13 @@
     "value_": 1077592886.06
   },
   {
+    "geoid": "33340",
+    "key": "federal-obligations-contracts",
+    "date": "2025-12-15",
+    "value": 895344141.82,
+    "value_": 895344141.82
+  },
+  {
     "geoid": "33460",
     "key": "federal-obligations-contracts",
     "date": "2022-12-15",
@@ -23770,6 +23987,13 @@
     "date": "2024-12-15",
     "value": 3669526054.4,
     "value_": 3669526054.4
+  },
+  {
+    "geoid": "33460",
+    "key": "federal-obligations-contracts",
+    "date": "2025-12-15",
+    "value": 2964258335.52,
+    "value_": 2964258335.52
   },
   {
     "geoid": "34980",
@@ -23793,6 +24017,13 @@
     "value_": 1261946373.96
   },
   {
+    "geoid": "34980",
+    "key": "federal-obligations-contracts",
+    "date": "2025-12-15",
+    "value": 1297604620.82,
+    "value_": 1297604620.82
+  },
+  {
     "geoid": "35620",
     "key": "federal-obligations-contracts",
     "date": "2022-12-15",
@@ -23812,6 +24043,13 @@
     "date": "2024-12-15",
     "value": 15171068635.62,
     "value_": 15171068635.62
+  },
+  {
+    "geoid": "35620",
+    "key": "federal-obligations-contracts",
+    "date": "2025-12-15",
+    "value": 13546394330.1,
+    "value_": 13546394330.1
   },
   {
     "geoid": "36420",
@@ -23835,6 +24073,13 @@
     "value_": 3429989388.85
   },
   {
+    "geoid": "36420",
+    "key": "federal-obligations-contracts",
+    "date": "2025-12-15",
+    "value": 3177133187.44,
+    "value_": 3177133187.44
+  },
+  {
     "geoid": "36540",
     "key": "federal-obligations-contracts",
     "date": "2022-12-15",
@@ -23854,6 +24099,13 @@
     "date": "2024-12-15",
     "value": 808761824.82,
     "value_": 808761824.82
+  },
+  {
+    "geoid": "36540",
+    "key": "federal-obligations-contracts",
+    "date": "2025-12-15",
+    "value": 1213091404.7,
+    "value_": 1213091404.7
   },
   {
     "geoid": "36740",
@@ -23877,6 +24129,13 @@
     "value_": 7885913389.64
   },
   {
+    "geoid": "36740",
+    "key": "federal-obligations-contracts",
+    "date": "2025-12-15",
+    "value": 10816637314.4,
+    "value_": 10816637314.4
+  },
+  {
     "geoid": "37980",
     "key": "federal-obligations-contracts",
     "date": "2022-12-15",
@@ -23896,6 +24155,13 @@
     "date": "2024-12-15",
     "value": 15321896847.37,
     "value_": 15321896847.37
+  },
+  {
+    "geoid": "37980",
+    "key": "federal-obligations-contracts",
+    "date": "2025-12-15",
+    "value": 15511341088.89,
+    "value_": 15511341088.89
   },
   {
     "geoid": "38060",
@@ -23919,6 +24185,13 @@
     "value_": 15813149374.02
   },
   {
+    "geoid": "38060",
+    "key": "federal-obligations-contracts",
+    "date": "2025-12-15",
+    "value": 22354526621.52,
+    "value_": 22354526621.52
+  },
+  {
     "geoid": "38300",
     "key": "federal-obligations-contracts",
     "date": "2022-12-15",
@@ -23938,6 +24211,13 @@
     "date": "2024-12-15",
     "value": 5113859490.84,
     "value_": 5113859490.84
+  },
+  {
+    "geoid": "38300",
+    "key": "federal-obligations-contracts",
+    "date": "2025-12-15",
+    "value": 1224992676.96,
+    "value_": 1224992676.96
   },
   {
     "geoid": "38900",
@@ -23961,6 +24241,13 @@
     "value_": 1819907299.74
   },
   {
+    "geoid": "38900",
+    "key": "federal-obligations-contracts",
+    "date": "2025-12-15",
+    "value": 2053591538.82,
+    "value_": 2053591538.82
+  },
+  {
     "geoid": "39300",
     "key": "federal-obligations-contracts",
     "date": "2022-12-15",
@@ -23980,6 +24267,13 @@
     "date": "2024-12-15",
     "value": 709931434.52,
     "value_": 709931434.52
+  },
+  {
+    "geoid": "39300",
+    "key": "federal-obligations-contracts",
+    "date": "2025-12-15",
+    "value": 476890817.93,
+    "value_": 476890817.93
   },
   {
     "geoid": "39580",
@@ -24003,6 +24297,13 @@
     "value_": 573054691.12
   },
   {
+    "geoid": "39580",
+    "key": "federal-obligations-contracts",
+    "date": "2025-12-15",
+    "value": 570364597.53,
+    "value_": 570364597.53
+  },
+  {
     "geoid": "40060",
     "key": "federal-obligations-contracts",
     "date": "2022-12-15",
@@ -24022,6 +24323,13 @@
     "date": "2024-12-15",
     "value": 719189802.47,
     "value_": 719189802.47
+  },
+  {
+    "geoid": "40060",
+    "key": "federal-obligations-contracts",
+    "date": "2025-12-15",
+    "value": 1680156801.61,
+    "value_": 1680156801.61
   },
   {
     "geoid": "40140",
@@ -24045,6 +24353,13 @@
     "value_": 1189673752.21
   },
   {
+    "geoid": "40140",
+    "key": "federal-obligations-contracts",
+    "date": "2025-12-15",
+    "value": 1311402727.32,
+    "value_": 1311402727.32
+  },
+  {
     "geoid": "40380",
     "key": "federal-obligations-contracts",
     "date": "2022-12-15",
@@ -24064,6 +24379,13 @@
     "date": "2024-12-15",
     "value": 2702694509.41,
     "value_": 2702694509.41
+  },
+  {
+    "geoid": "40380",
+    "key": "federal-obligations-contracts",
+    "date": "2025-12-15",
+    "value": 1997239803.26,
+    "value_": 1997239803.26
   },
   {
     "geoid": "40900",
@@ -24087,6 +24409,13 @@
     "value_": 1155399420.35
   },
   {
+    "geoid": "40900",
+    "key": "federal-obligations-contracts",
+    "date": "2025-12-15",
+    "value": 961939040.49,
+    "value_": 961939040.49
+  },
+  {
     "geoid": "41180",
     "key": "federal-obligations-contracts",
     "date": "2022-12-15",
@@ -24106,6 +24435,13 @@
     "date": "2024-12-15",
     "value": 11399229376.05,
     "value_": 11399229376.05
+  },
+  {
+    "geoid": "41180",
+    "key": "federal-obligations-contracts",
+    "date": "2025-12-15",
+    "value": 9745703359.25,
+    "value_": 9745703359.25
   },
   {
     "geoid": "41620",
@@ -24129,6 +24465,13 @@
     "value_": 1847069141.79
   },
   {
+    "geoid": "41620",
+    "key": "federal-obligations-contracts",
+    "date": "2025-12-15",
+    "value": 1315473504.15,
+    "value_": 1315473504.15
+  },
+  {
     "geoid": "41700",
     "key": "federal-obligations-contracts",
     "date": "2022-12-15",
@@ -24148,6 +24491,13 @@
     "date": "2024-12-15",
     "value": 4406530439.49,
     "value_": 4406530439.49
+  },
+  {
+    "geoid": "41700",
+    "key": "federal-obligations-contracts",
+    "date": "2025-12-15",
+    "value": 5340240664.41,
+    "value_": 5340240664.41
   },
   {
     "geoid": "41740",
@@ -24171,6 +24521,13 @@
     "value_": 11594329066.19
   },
   {
+    "geoid": "41740",
+    "key": "federal-obligations-contracts",
+    "date": "2025-12-15",
+    "value": 11409923503.75,
+    "value_": 11409923503.75
+  },
+  {
     "geoid": "41860",
     "key": "federal-obligations-contracts",
     "date": "2022-12-15",
@@ -24190,6 +24547,13 @@
     "date": "2024-12-15",
     "value": 4247865151.87,
     "value_": 4247865151.87
+  },
+  {
+    "geoid": "41860",
+    "key": "federal-obligations-contracts",
+    "date": "2025-12-15",
+    "value": 5153026175.2,
+    "value_": 5153026175.2
   },
   {
     "geoid": "41940",
@@ -24213,6 +24577,13 @@
     "value_": 2431315639.97
   },
   {
+    "geoid": "41940",
+    "key": "federal-obligations-contracts",
+    "date": "2025-12-15",
+    "value": 2384913772.36,
+    "value_": 2384913772.36
+  },
+  {
     "geoid": "42660",
     "key": "federal-obligations-contracts",
     "date": "2022-12-15",
@@ -24232,6 +24603,13 @@
     "date": "2024-12-15",
     "value": 7142533410.65,
     "value_": 7142533410.65
+  },
+  {
+    "geoid": "42660",
+    "key": "federal-obligations-contracts",
+    "date": "2025-12-15",
+    "value": 5187125613.19,
+    "value_": 5187125613.19
   },
   {
     "geoid": "45300",
@@ -24255,6 +24633,13 @@
     "value_": 4193915078.59
   },
   {
+    "geoid": "45300",
+    "key": "federal-obligations-contracts",
+    "date": "2025-12-15",
+    "value": 4102202038.05,
+    "value_": 4102202038.05
+  },
+  {
     "geoid": "46060",
     "key": "federal-obligations-contracts",
     "date": "2022-12-15",
@@ -24274,6 +24659,13 @@
     "date": "2024-12-15",
     "value": 10906120687.36,
     "value_": 10906120687.36
+  },
+  {
+    "geoid": "46060",
+    "key": "federal-obligations-contracts",
+    "date": "2025-12-15",
+    "value": 9809379592.39,
+    "value_": 9809379592.39
   },
   {
     "geoid": "46140",
@@ -24297,6 +24689,13 @@
     "value_": 1927673067.36
   },
   {
+    "geoid": "46140",
+    "key": "federal-obligations-contracts",
+    "date": "2025-12-15",
+    "value": 1319219698.39,
+    "value_": 1319219698.39
+  },
+  {
     "geoid": "47260",
     "key": "federal-obligations-contracts",
     "date": "2022-12-15",
@@ -24316,6 +24715,13 @@
     "date": "2024-12-15",
     "value": 13423453475.1,
     "value_": 13423453475.1
+  },
+  {
+    "geoid": "47260",
+    "key": "federal-obligations-contracts",
+    "date": "2025-12-15",
+    "value": 13438313678.15,
+    "value_": 13438313678.15
   },
   {
     "geoid": "47900",
@@ -24339,6 +24745,13 @@
     "value_": 144898378465.35001
   },
   {
+    "geoid": "47900",
+    "key": "federal-obligations-contracts",
+    "date": "2025-12-15",
+    "value": 121382212061.60001,
+    "value_": 121382212061.60001
+  },
+  {
     "geoid": "51013",
     "key": "federal-obligations-contracts",
     "date": "2022-12-15",
@@ -24358,6 +24771,13 @@
     "date": "2024-12-15",
     "value": 13834031068.33,
     "value_": 13834031068.33
+  },
+  {
+    "geoid": "51013",
+    "key": "federal-obligations-contracts",
+    "date": "2025-12-15",
+    "value": 11936328104.19,
+    "value_": 11936328104.19
   },
   {
     "geoid": "51043",
@@ -24381,6 +24801,13 @@
     "value_": 24083.92
   },
   {
+    "geoid": "51043",
+    "key": "federal-obligations-contracts",
+    "date": "2025-12-15",
+    "value": 228059,
+    "value_": 228059
+  },
+  {
     "geoid": "51047",
     "key": "federal-obligations-contracts",
     "date": "2022-12-15",
@@ -24400,6 +24827,13 @@
     "date": "2024-12-15",
     "value": 45159611.4,
     "value_": 45159611.4
+  },
+  {
+    "geoid": "51047",
+    "key": "federal-obligations-contracts",
+    "date": "2025-12-15",
+    "value": 24533268.9,
+    "value_": 24533268.9
   },
   {
     "geoid": "51059",
@@ -24423,6 +24857,13 @@
     "value_": 88316010562.34
   },
   {
+    "geoid": "51059",
+    "key": "federal-obligations-contracts",
+    "date": "2025-12-15",
+    "value": 77867038627.91,
+    "value_": 77867038627.91
+  },
+  {
     "geoid": "51061",
     "key": "federal-obligations-contracts",
     "date": "2022-12-15",
@@ -24442,6 +24883,13 @@
     "date": "2024-12-15",
     "value": 212901536.64,
     "value_": 212901536.64
+  },
+  {
+    "geoid": "51061",
+    "key": "federal-obligations-contracts",
+    "date": "2025-12-15",
+    "value": 201300837.93,
+    "value_": 201300837.93
   },
   {
     "geoid": "51107",
@@ -24465,6 +24913,13 @@
     "value_": 5206912734.55
   },
   {
+    "geoid": "51107",
+    "key": "federal-obligations-contracts",
+    "date": "2025-12-15",
+    "value": 3993550692.79,
+    "value_": 3993550692.79
+  },
+  {
     "geoid": "51153",
     "key": "federal-obligations-contracts",
     "date": "2022-12-15",
@@ -24484,6 +24939,13 @@
     "date": "2024-12-15",
     "value": 3140392527.33,
     "value_": 3140392527.33
+  },
+  {
+    "geoid": "51153",
+    "key": "federal-obligations-contracts",
+    "date": "2025-12-15",
+    "value": 2626484220.79,
+    "value_": 2626484220.79
   },
   {
     "geoid": "51157",
@@ -24507,6 +24969,13 @@
     "value_": 282130.08
   },
   {
+    "geoid": "51157",
+    "key": "federal-obligations-contracts",
+    "date": "2025-12-15",
+    "value": 139185.78,
+    "value_": 139185.78
+  },
+  {
     "geoid": "51177",
     "key": "federal-obligations-contracts",
     "date": "2022-12-15",
@@ -24526,6 +24995,13 @@
     "date": "2024-12-15",
     "value": 157558210.59,
     "value_": 157558210.59
+  },
+  {
+    "geoid": "51177",
+    "key": "federal-obligations-contracts",
+    "date": "2025-12-15",
+    "value": 109085216.73,
+    "value_": 109085216.73
   },
   {
     "geoid": "51179",
@@ -24549,6 +25025,13 @@
     "value_": 556071339.53
   },
   {
+    "geoid": "51179",
+    "key": "federal-obligations-contracts",
+    "date": "2025-12-15",
+    "value": 627613622.31,
+    "value_": 627613622.31
+  },
+  {
     "geoid": "51187",
     "key": "federal-obligations-contracts",
     "date": "2022-12-15",
@@ -24568,6 +25051,13 @@
     "date": "2024-12-15",
     "value": 57733135.61,
     "value_": 57733135.61
+  },
+  {
+    "geoid": "51187",
+    "key": "federal-obligations-contracts",
+    "date": "2025-12-15",
+    "value": 118016154.45,
+    "value_": 118016154.45
   },
   {
     "geoid": "51510",
@@ -24591,6 +25081,13 @@
     "value_": 3721347998.59
   },
   {
+    "geoid": "51510",
+    "key": "federal-obligations-contracts",
+    "date": "2025-12-15",
+    "value": 3026490705.38,
+    "value_": 3026490705.38
+  },
+  {
     "geoid": "51630",
     "key": "federal-obligations-contracts",
     "date": "2022-12-15",
@@ -24610,6 +25107,13 @@
     "date": "2024-12-15",
     "value": 277829840.84,
     "value_": 277829840.84
+  },
+  {
+    "geoid": "51630",
+    "key": "federal-obligations-contracts",
+    "date": "2025-12-15",
+    "value": 187571347.29,
+    "value_": 187571347.29
   },
   {
     "geoid": "54037",
@@ -24633,6 +25137,13 @@
     "value_": 45378875.65
   },
   {
+    "geoid": "54037",
+    "key": "federal-obligations-contracts",
+    "date": "2025-12-15",
+    "value": 39291185.99,
+    "value_": 39291185.99
+  },
+  {
     "geoid": "99997",
     "key": "federal-obligations-contracts",
     "date": "2022-12-15",
@@ -24654,6 +25165,13 @@
     "value_": 464488472874.82996
   },
   {
+    "geoid": "99997",
+    "key": "federal-obligations-contracts",
+    "date": "2025-12-15",
+    "value": 441813678304.44,
+    "value_": 441813678304.44
+  },
+  {
     "geoid": "99999",
     "key": "federal-obligations-contracts",
     "date": "2022-12-15",
@@ -24673,5 +25191,12 @@
     "date": "2024-12-15",
     "value": 635955147986.17004,
     "value_": 635955147986.17004
+  },
+  {
+    "geoid": "99999",
+    "key": "federal-obligations-contracts",
+    "date": "2025-12-15",
+    "value": 601411384160.89001,
+    "value_": 601411384160.89001
   }
 ]

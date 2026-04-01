@@ -23121,6 +23121,13 @@
     "value_": 63543069835.65
   },
   {
+    "geoid": "11001",
+    "key": "federal-obligations-total",
+    "date": "2025-12-15",
+    "value": 23461391007.58,
+    "value_": 23461391007.58
+  },
+  {
     "geoid": "12060",
     "key": "federal-obligations-total",
     "date": "2022-12-15",
@@ -23140,6 +23147,13 @@
     "date": "2024-12-15",
     "value": 63519008501.84,
     "value_": 63519008501.84
+  },
+  {
+    "geoid": "12060",
+    "key": "federal-obligations-total",
+    "date": "2025-12-15",
+    "value": 68007874273.83,
+    "value_": 68007874273.83
   },
   {
     "geoid": "12420",
@@ -23163,6 +23177,13 @@
     "value_": 80694551073.82001
   },
   {
+    "geoid": "12420",
+    "key": "federal-obligations-total",
+    "date": "2025-12-15",
+    "value": 77074404881.7,
+    "value_": 77074404881.7
+  },
+  {
     "geoid": "12580",
     "key": "federal-obligations-total",
     "date": "2022-12-15",
@@ -23182,6 +23203,13 @@
     "date": "2024-12-15",
     "value": 53795428292.7,
     "value_": 53795428292.7
+  },
+  {
+    "geoid": "12580",
+    "key": "federal-obligations-total",
+    "date": "2025-12-15",
+    "value": 52222826165.3,
+    "value_": 52222826165.3
   },
   {
     "geoid": "13820",
@@ -23205,6 +23233,13 @@
     "value_": 13180712324.49
   },
   {
+    "geoid": "13820",
+    "key": "federal-obligations-total",
+    "date": "2025-12-15",
+    "value": 12354719611.2,
+    "value_": 12354719611.2
+  },
+  {
     "geoid": "14460",
     "key": "federal-obligations-total",
     "date": "2022-12-15",
@@ -23224,6 +23259,13 @@
     "date": "2024-12-15",
     "value": 91733111119.42999,
     "value_": 91733111119.42999
+  },
+  {
+    "geoid": "14460",
+    "key": "federal-obligations-total",
+    "date": "2025-12-15",
+    "value": 83304023402.18001,
+    "value_": 83304023402.18001
   },
   {
     "geoid": "15380",
@@ -23247,6 +23289,13 @@
     "value_": 10865553062.27
   },
   {
+    "geoid": "15380",
+    "key": "federal-obligations-total",
+    "date": "2025-12-15",
+    "value": 11075063389.14,
+    "value_": 11075063389.14
+  },
+  {
     "geoid": "16740",
     "key": "federal-obligations-total",
     "date": "2022-12-15",
@@ -23266,6 +23315,13 @@
     "date": "2024-12-15",
     "value": 15393452212.41,
     "value_": 15393452212.41
+  },
+  {
+    "geoid": "16740",
+    "key": "federal-obligations-total",
+    "date": "2025-12-15",
+    "value": 16243326308.01,
+    "value_": 16243326308.01
   },
   {
     "geoid": "16980",
@@ -23289,6 +23345,13 @@
     "value_": 68202317137.51
   },
   {
+    "geoid": "16980",
+    "key": "federal-obligations-total",
+    "date": "2025-12-15",
+    "value": 70399388174.96001,
+    "value_": 70399388174.96001
+  },
+  {
     "geoid": "17140",
     "key": "federal-obligations-total",
     "date": "2022-12-15",
@@ -23308,6 +23371,13 @@
     "date": "2024-12-15",
     "value": 16430142057.2,
     "value_": 16430142057.2
+  },
+  {
+    "geoid": "17140",
+    "key": "federal-obligations-total",
+    "date": "2025-12-15",
+    "value": 15958024830.07,
+    "value_": 15958024830.07
   },
   {
     "geoid": "17410",
@@ -23331,6 +23401,13 @@
     "value_": 15735254491.51
   },
   {
+    "geoid": "17410",
+    "key": "federal-obligations-total",
+    "date": "2025-12-15",
+    "value": 16594797897.31,
+    "value_": 16594797897.31
+  },
+  {
     "geoid": "18140",
     "key": "federal-obligations-total",
     "date": "2022-12-15",
@@ -23350,6 +23427,13 @@
     "date": "2024-12-15",
     "value": 51387299710.05,
     "value_": 51387299710.05
+  },
+  {
+    "geoid": "18140",
+    "key": "federal-obligations-total",
+    "date": "2025-12-15",
+    "value": 54564274393.51,
+    "value_": 54564274393.51
   },
   {
     "geoid": "19100",
@@ -23373,6 +23457,13 @@
     "value_": 81107642157.84
   },
   {
+    "geoid": "19100",
+    "key": "federal-obligations-total",
+    "date": "2025-12-15",
+    "value": 89705881360.53999,
+    "value_": 89705881360.53999
+  },
+  {
     "geoid": "19740",
     "key": "federal-obligations-total",
     "date": "2022-12-15",
@@ -23392,6 +23483,13 @@
     "date": "2024-12-15",
     "value": 41507232102.6,
     "value_": 41507232102.6
+  },
+  {
+    "geoid": "19740",
+    "key": "federal-obligations-total",
+    "date": "2025-12-15",
+    "value": 42415461994.42,
+    "value_": 42415461994.42
   },
   {
     "geoid": "19820",
@@ -23415,6 +23513,13 @@
     "value_": 44033748163.85
   },
   {
+    "geoid": "19820",
+    "key": "federal-obligations-total",
+    "date": "2025-12-15",
+    "value": 45447715517.58,
+    "value_": 45447715517.58
+  },
+  {
     "geoid": "23420",
     "key": "federal-obligations-total",
     "date": "2022-12-15",
@@ -23434,6 +23539,13 @@
     "date": "2024-12-15",
     "value": 5263352603.24,
     "value_": 5263352603.24
+  },
+  {
+    "geoid": "23420",
+    "key": "federal-obligations-total",
+    "date": "2025-12-15",
+    "value": 5768828968.55,
+    "value_": 5768828968.55
   },
   {
     "geoid": "24017",
@@ -23457,6 +23569,13 @@
     "value_": 1240947858.27
   },
   {
+    "geoid": "24017",
+    "key": "federal-obligations-total",
+    "date": "2025-12-15",
+    "value": 1326434953.19,
+    "value_": 1326434953.19
+  },
+  {
     "geoid": "24021",
     "key": "federal-obligations-total",
     "date": "2022-12-15",
@@ -23476,6 +23595,13 @@
     "date": "2024-12-15",
     "value": 2898339813.76,
     "value_": 2898339813.76
+  },
+  {
+    "geoid": "24021",
+    "key": "federal-obligations-total",
+    "date": "2025-12-15",
+    "value": 2679366484.1,
+    "value_": 2679366484.1
   },
   {
     "geoid": "24031",
@@ -23499,6 +23625,13 @@
     "value_": 31834153563.91
   },
   {
+    "geoid": "24031",
+    "key": "federal-obligations-total",
+    "date": "2025-12-15",
+    "value": 18252939145.25,
+    "value_": 18252939145.25
+  },
+  {
     "geoid": "24033",
     "key": "federal-obligations-total",
     "date": "2022-12-15",
@@ -23518,6 +23651,13 @@
     "date": "2024-12-15",
     "value": 9295086371.9,
     "value_": 9295086371.9
+  },
+  {
+    "geoid": "24033",
+    "key": "federal-obligations-total",
+    "date": "2025-12-15",
+    "value": 8797642011.41,
+    "value_": 8797642011.41
   },
   {
     "geoid": "24340",
@@ -23541,6 +23681,13 @@
     "value_": 9969370726.29
   },
   {
+    "geoid": "24340",
+    "key": "federal-obligations-total",
+    "date": "2025-12-15",
+    "value": 10565353616.83,
+    "value_": 10565353616.83
+  },
+  {
     "geoid": "26420",
     "key": "federal-obligations-total",
     "date": "2022-12-15",
@@ -23560,6 +23707,13 @@
     "date": "2024-12-15",
     "value": 47166641922.13,
     "value_": 47166641922.13
+  },
+  {
+    "geoid": "26420",
+    "key": "federal-obligations-total",
+    "date": "2025-12-15",
+    "value": 43833610247.83,
+    "value_": 43833610247.83
   },
   {
     "geoid": "26900",
@@ -23583,6 +23737,13 @@
     "value_": 164660555424.48001
   },
   {
+    "geoid": "26900",
+    "key": "federal-obligations-total",
+    "date": "2025-12-15",
+    "value": 174819370069.35001,
+    "value_": 174819370069.35001
+  },
+  {
     "geoid": "27260",
     "key": "federal-obligations-total",
     "date": "2022-12-15",
@@ -23602,6 +23763,13 @@
     "date": "2024-12-15",
     "value": 42756117305.57,
     "value_": 42756117305.57
+  },
+  {
+    "geoid": "27260",
+    "key": "federal-obligations-total",
+    "date": "2025-12-15",
+    "value": 46357841966.96,
+    "value_": 46357841966.96
   },
   {
     "geoid": "28140",
@@ -23625,6 +23793,13 @@
     "value_": 16399947962.55
   },
   {
+    "geoid": "28140",
+    "key": "federal-obligations-total",
+    "date": "2025-12-15",
+    "value": 16922576630.75,
+    "value_": 16922576630.75
+  },
+  {
     "geoid": "29820",
     "key": "federal-obligations-total",
     "date": "2022-12-15",
@@ -23644,6 +23819,13 @@
     "date": "2024-12-15",
     "value": 13075726505.48,
     "value_": 13075726505.48
+  },
+  {
+    "geoid": "29820",
+    "key": "federal-obligations-total",
+    "date": "2025-12-15",
+    "value": 14383195599.27,
+    "value_": 14383195599.27
   },
   {
     "geoid": "31080",
@@ -23667,6 +23849,13 @@
     "value_": 98332611130.39999
   },
   {
+    "geoid": "31080",
+    "key": "federal-obligations-total",
+    "date": "2025-12-15",
+    "value": 102049667070.83,
+    "value_": 102049667070.83
+  },
+  {
     "geoid": "31140",
     "key": "federal-obligations-total",
     "date": "2022-12-15",
@@ -23686,6 +23875,13 @@
     "date": "2024-12-15",
     "value": 119959992110.48,
     "value_": 119959992110.48
+  },
+  {
+    "geoid": "31140",
+    "key": "federal-obligations-total",
+    "date": "2025-12-15",
+    "value": 123324802390.84001,
+    "value_": 123324802390.84001
   },
   {
     "geoid": "32820",
@@ -23709,6 +23905,13 @@
     "value_": 8203916086.58
   },
   {
+    "geoid": "32820",
+    "key": "federal-obligations-total",
+    "date": "2025-12-15",
+    "value": 9090938945.16,
+    "value_": 9090938945.16
+  },
+  {
     "geoid": "33100",
     "key": "federal-obligations-total",
     "date": "2022-12-15",
@@ -23728,6 +23931,13 @@
     "date": "2024-12-15",
     "value": 45301600545.83,
     "value_": 45301600545.83
+  },
+  {
+    "geoid": "33100",
+    "key": "federal-obligations-total",
+    "date": "2025-12-15",
+    "value": 50938642506.56,
+    "value_": 50938642506.56
   },
   {
     "geoid": "33340",
@@ -23751,6 +23961,13 @@
     "value_": 11106031744.58
   },
   {
+    "geoid": "33340",
+    "key": "federal-obligations-total",
+    "date": "2025-12-15",
+    "value": 10921856167.57,
+    "value_": 10921856167.57
+  },
+  {
     "geoid": "33460",
     "key": "federal-obligations-total",
     "date": "2022-12-15",
@@ -23770,6 +23987,13 @@
     "date": "2024-12-15",
     "value": 212644705945.70001,
     "value_": 212644705945.70001
+  },
+  {
+    "geoid": "33460",
+    "key": "federal-obligations-total",
+    "date": "2025-12-15",
+    "value": 230861307355.44,
+    "value_": 230861307355.44
   },
   {
     "geoid": "34980",
@@ -23793,6 +24017,13 @@
     "value_": 63931622132.97
   },
   {
+    "geoid": "34980",
+    "key": "federal-obligations-total",
+    "date": "2025-12-15",
+    "value": 77081309504.14,
+    "value_": 77081309504.14
+  },
+  {
     "geoid": "35620",
     "key": "federal-obligations-total",
     "date": "2022-12-15",
@@ -23812,6 +24043,13 @@
     "date": "2024-12-15",
     "value": 153268835752.79001,
     "value_": 153268835752.79001
+  },
+  {
+    "geoid": "35620",
+    "key": "federal-obligations-total",
+    "date": "2025-12-15",
+    "value": 149872642878.29999,
+    "value_": 149872642878.29999
   },
   {
     "geoid": "36420",
@@ -23835,6 +24073,13 @@
     "value_": 25766943296.82
   },
   {
+    "geoid": "36420",
+    "key": "federal-obligations-total",
+    "date": "2025-12-15",
+    "value": 26127662466.85,
+    "value_": 26127662466.85
+  },
+  {
     "geoid": "36540",
     "key": "federal-obligations-total",
     "date": "2022-12-15",
@@ -23854,6 +24099,13 @@
     "date": "2024-12-15",
     "value": 11457460915.03,
     "value_": 11457460915.03
+  },
+  {
+    "geoid": "36540",
+    "key": "federal-obligations-total",
+    "date": "2025-12-15",
+    "value": 13579050596.69,
+    "value_": 13579050596.69
   },
   {
     "geoid": "36740",
@@ -23877,6 +24129,13 @@
     "value_": 22629176622.7
   },
   {
+    "geoid": "36740",
+    "key": "federal-obligations-total",
+    "date": "2025-12-15",
+    "value": 26706703928.81,
+    "value_": 26706703928.81
+  },
+  {
     "geoid": "37980",
     "key": "federal-obligations-total",
     "date": "2022-12-15",
@@ -23896,6 +24155,13 @@
     "date": "2024-12-15",
     "value": 63515516431.79,
     "value_": 63515516431.79
+  },
+  {
+    "geoid": "37980",
+    "key": "federal-obligations-total",
+    "date": "2025-12-15",
+    "value": 62628204837.94,
+    "value_": 62628204837.94
   },
   {
     "geoid": "38060",
@@ -23919,6 +24185,13 @@
     "value_": 78309835310.19
   },
   {
+    "geoid": "38060",
+    "key": "federal-obligations-total",
+    "date": "2025-12-15",
+    "value": 91428828190.18001,
+    "value_": 91428828190.18001
+  },
+  {
     "geoid": "38300",
     "key": "federal-obligations-total",
     "date": "2022-12-15",
@@ -23938,6 +24211,13 @@
     "date": "2024-12-15",
     "value": 31998868834.72,
     "value_": 31998868834.72
+  },
+  {
+    "geoid": "38300",
+    "key": "federal-obligations-total",
+    "date": "2025-12-15",
+    "value": 30812987698.39,
+    "value_": 30812987698.39
   },
   {
     "geoid": "38900",
@@ -23961,6 +24241,13 @@
     "value_": 21285506177.72
   },
   {
+    "geoid": "38900",
+    "key": "federal-obligations-total",
+    "date": "2025-12-15",
+    "value": 21680825279.22,
+    "value_": 21680825279.22
+  },
+  {
     "geoid": "39300",
     "key": "federal-obligations-total",
     "date": "2022-12-15",
@@ -23980,6 +24267,13 @@
     "date": "2024-12-15",
     "value": 17779141439.98,
     "value_": 17779141439.98
+  },
+  {
+    "geoid": "39300",
+    "key": "federal-obligations-total",
+    "date": "2025-12-15",
+    "value": 18661721429.75,
+    "value_": 18661721429.75
   },
   {
     "geoid": "39580",
@@ -24003,6 +24297,13 @@
     "value_": 42935287504.66
   },
   {
+    "geoid": "39580",
+    "key": "federal-obligations-total",
+    "date": "2025-12-15",
+    "value": 50411576666.75,
+    "value_": 50411576666.75
+  },
+  {
     "geoid": "40060",
     "key": "federal-obligations-total",
     "date": "2022-12-15",
@@ -24022,6 +24323,13 @@
     "date": "2024-12-15",
     "value": 34201314544.2,
     "value_": 34201314544.2
+  },
+  {
+    "geoid": "40060",
+    "key": "federal-obligations-total",
+    "date": "2025-12-15",
+    "value": 36520788163.94,
+    "value_": 36520788163.94
   },
   {
     "geoid": "40140",
@@ -24045,6 +24353,13 @@
     "value_": 23513611698.58
   },
   {
+    "geoid": "40140",
+    "key": "federal-obligations-total",
+    "date": "2025-12-15",
+    "value": 25771346072.09,
+    "value_": 25771346072.09
+  },
+  {
     "geoid": "40380",
     "key": "federal-obligations-total",
     "date": "2022-12-15",
@@ -24064,6 +24379,13 @@
     "date": "2024-12-15",
     "value": 12244967265.35,
     "value_": 12244967265.35
+  },
+  {
+    "geoid": "40380",
+    "key": "federal-obligations-total",
+    "date": "2025-12-15",
+    "value": 12473776694.47,
+    "value_": 12473776694.47
   },
   {
     "geoid": "40900",
@@ -24087,6 +24409,13 @@
     "value_": 174848267863.85001
   },
   {
+    "geoid": "40900",
+    "key": "federal-obligations-total",
+    "date": "2025-12-15",
+    "value": 173064842089.73001,
+    "value_": 173064842089.73001
+  },
+  {
     "geoid": "41180",
     "key": "federal-obligations-total",
     "date": "2022-12-15",
@@ -24106,6 +24435,13 @@
     "date": "2024-12-15",
     "value": 48968477570.91,
     "value_": 48968477570.91
+  },
+  {
+    "geoid": "41180",
+    "key": "federal-obligations-total",
+    "date": "2025-12-15",
+    "value": 49040458014.32,
+    "value_": 49040458014.32
   },
   {
     "geoid": "41620",
@@ -24129,6 +24465,13 @@
     "value_": 16240903375.53
   },
   {
+    "geoid": "41620",
+    "key": "federal-obligations-total",
+    "date": "2025-12-15",
+    "value": 16159419566.41,
+    "value_": 16159419566.41
+  },
+  {
     "geoid": "41700",
     "key": "federal-obligations-total",
     "date": "2022-12-15",
@@ -24148,6 +24491,13 @@
     "date": "2024-12-15",
     "value": 21338932863.94,
     "value_": 21338932863.94
+  },
+  {
+    "geoid": "41700",
+    "key": "federal-obligations-total",
+    "date": "2025-12-15",
+    "value": 23834244061.93,
+    "value_": 23834244061.93
   },
   {
     "geoid": "41740",
@@ -24171,6 +24521,13 @@
     "value_": 31864414172.67
   },
   {
+    "geoid": "41740",
+    "key": "federal-obligations-total",
+    "date": "2025-12-15",
+    "value": 33209692469.39,
+    "value_": 33209692469.39
+  },
+  {
     "geoid": "41860",
     "key": "federal-obligations-total",
     "date": "2022-12-15",
@@ -24190,6 +24547,13 @@
     "date": "2024-12-15",
     "value": 61552467035.85,
     "value_": 61552467035.85
+  },
+  {
+    "geoid": "41860",
+    "key": "federal-obligations-total",
+    "date": "2025-12-15",
+    "value": 62116535846.82,
+    "value_": 62116535846.82
   },
   {
     "geoid": "41940",
@@ -24213,6 +24577,13 @@
     "value_": 12029694996.1
   },
   {
+    "geoid": "41940",
+    "key": "federal-obligations-total",
+    "date": "2025-12-15",
+    "value": 12481072196.76,
+    "value_": 12481072196.76
+  },
+  {
     "geoid": "42660",
     "key": "federal-obligations-total",
     "date": "2022-12-15",
@@ -24232,6 +24603,13 @@
     "date": "2024-12-15",
     "value": 32536649556.52,
     "value_": 32536649556.52
+  },
+  {
+    "geoid": "42660",
+    "key": "federal-obligations-total",
+    "date": "2025-12-15",
+    "value": 29550906169.83,
+    "value_": 29550906169.83
   },
   {
     "geoid": "45300",
@@ -24255,6 +24633,13 @@
     "value_": 57670213358.86
   },
   {
+    "geoid": "45300",
+    "key": "federal-obligations-total",
+    "date": "2025-12-15",
+    "value": 70274406525.91,
+    "value_": 70274406525.91
+  },
+  {
     "geoid": "46060",
     "key": "federal-obligations-total",
     "date": "2022-12-15",
@@ -24274,6 +24659,13 @@
     "date": "2024-12-15",
     "value": 19230019241.25,
     "value_": 19230019241.25
+  },
+  {
+    "geoid": "46060",
+    "key": "federal-obligations-total",
+    "date": "2025-12-15",
+    "value": 18671406724.01,
+    "value_": 18671406724.01
   },
   {
     "geoid": "46140",
@@ -24297,6 +24689,13 @@
     "value_": 8706634131.84
   },
   {
+    "geoid": "46140",
+    "key": "federal-obligations-total",
+    "date": "2025-12-15",
+    "value": 8559234037.02,
+    "value_": 8559234037.02
+  },
+  {
     "geoid": "47260",
     "key": "federal-obligations-total",
     "date": "2022-12-15",
@@ -24316,6 +24715,13 @@
     "date": "2024-12-15",
     "value": 27729409800.96,
     "value_": 27729409800.96
+  },
+  {
+    "geoid": "47260",
+    "key": "federal-obligations-total",
+    "date": "2025-12-15",
+    "value": 28635738205.16,
+    "value_": 28635738205.16
   },
   {
     "geoid": "47900",
@@ -24339,6 +24745,13 @@
     "value_": 245340817181.10999
   },
   {
+    "geoid": "47900",
+    "key": "federal-obligations-total",
+    "date": "2025-12-15",
+    "value": 177515192088.73999,
+    "value_": 177515192088.73999
+  },
+  {
     "geoid": "51013",
     "key": "federal-obligations-total",
     "date": "2022-12-15",
@@ -24358,6 +24771,13 @@
     "date": "2024-12-15",
     "value": 19566908357.91,
     "value_": 19566908357.91
+  },
+  {
+    "geoid": "51013",
+    "key": "federal-obligations-total",
+    "date": "2025-12-15",
+    "value": 18003127308.07,
+    "value_": 18003127308.07
   },
   {
     "geoid": "51043",
@@ -24381,6 +24801,13 @@
     "value_": 110837172.23
   },
   {
+    "geoid": "51043",
+    "key": "federal-obligations-total",
+    "date": "2025-12-15",
+    "value": 121320540.47,
+    "value_": 121320540.47
+  },
+  {
     "geoid": "51047",
     "key": "federal-obligations-total",
     "date": "2022-12-15",
@@ -24400,6 +24827,13 @@
     "date": "2024-12-15",
     "value": 354095036.51,
     "value_": 354095036.51
+  },
+  {
+    "geoid": "51047",
+    "key": "federal-obligations-total",
+    "date": "2025-12-15",
+    "value": 368024489.31,
+    "value_": 368024489.31
   },
   {
     "geoid": "51059",
@@ -24423,6 +24857,13 @@
     "value_": 94919145605.03
   },
   {
+    "geoid": "51059",
+    "key": "federal-obligations-total",
+    "date": "2025-12-15",
+    "value": 84896143098.91,
+    "value_": 84896143098.91
+  },
+  {
     "geoid": "51061",
     "key": "federal-obligations-total",
     "date": "2022-12-15",
@@ -24442,6 +24883,13 @@
     "date": "2024-12-15",
     "value": 664204855.79,
     "value_": 664204855.79
+  },
+  {
+    "geoid": "51061",
+    "key": "federal-obligations-total",
+    "date": "2025-12-15",
+    "value": 725403429.5,
+    "value_": 725403429.5
   },
   {
     "geoid": "51107",
@@ -24465,6 +24913,13 @@
     "value_": 6785481271.61
   },
   {
+    "geoid": "51107",
+    "key": "federal-obligations-total",
+    "date": "2025-12-15",
+    "value": 5677229758.96,
+    "value_": 5677229758.96
+  },
+  {
     "geoid": "51153",
     "key": "federal-obligations-total",
     "date": "2022-12-15",
@@ -24484,6 +24939,13 @@
     "date": "2024-12-15",
     "value": 5491341003.27,
     "value_": 5491341003.27
+  },
+  {
+    "geoid": "51153",
+    "key": "federal-obligations-total",
+    "date": "2025-12-15",
+    "value": 5308982671.61,
+    "value_": 5308982671.61
   },
   {
     "geoid": "51157",
@@ -24507,6 +24969,13 @@
     "value_": 57477605.91
   },
   {
+    "geoid": "51157",
+    "key": "federal-obligations-total",
+    "date": "2025-12-15",
+    "value": 64133398.66,
+    "value_": 64133398.66
+  },
+  {
     "geoid": "51177",
     "key": "federal-obligations-total",
     "date": "2022-12-15",
@@ -24526,6 +24995,13 @@
     "date": "2024-12-15",
     "value": 1010170082.81,
     "value_": 1010170082.81
+  },
+  {
+    "geoid": "51177",
+    "key": "federal-obligations-total",
+    "date": "2025-12-15",
+    "value": 1071420641.98,
+    "value_": 1071420641.98
   },
   {
     "geoid": "51179",
@@ -24549,6 +25025,13 @@
     "value_": 1522717455.46
   },
   {
+    "geoid": "51179",
+    "key": "federal-obligations-total",
+    "date": "2025-12-15",
+    "value": 1724266820.32,
+    "value_": 1724266820.32
+  },
+  {
     "geoid": "51187",
     "key": "federal-obligations-total",
     "date": "2022-12-15",
@@ -24568,6 +25051,13 @@
     "date": "2024-12-15",
     "value": 293629583.2,
     "value_": 293629583.2
+  },
+  {
+    "geoid": "51187",
+    "key": "federal-obligations-total",
+    "date": "2025-12-15",
+    "value": 373612211.07,
+    "value_": 373612211.07
   },
   {
     "geoid": "51510",
@@ -24591,6 +25081,13 @@
     "value_": 4769613022.64
   },
   {
+    "geoid": "51510",
+    "key": "federal-obligations-total",
+    "date": "2025-12-15",
+    "value": 3750680309.55,
+    "value_": 3750680309.55
+  },
+  {
     "geoid": "51630",
     "key": "federal-obligations-total",
     "date": "2022-12-15",
@@ -24610,6 +25107,13 @@
     "date": "2024-12-15",
     "value": 486680764.08,
     "value_": 486680764.08
+  },
+  {
+    "geoid": "51630",
+    "key": "federal-obligations-total",
+    "date": "2025-12-15",
+    "value": 363966837.07,
+    "value_": 363966837.07
   },
   {
     "geoid": "54037",
@@ -24633,6 +25137,13 @@
     "value_": 496917921.17
   },
   {
+    "geoid": "54037",
+    "key": "federal-obligations-total",
+    "date": "2025-12-15",
+    "value": 549106971.73,
+    "value_": 549106971.73
+  },
+  {
     "geoid": "99997",
     "key": "federal-obligations-total",
     "date": "2022-12-15",
@@ -24654,6 +25165,13 @@
     "value_": 2803321011497.7197
   },
   {
+    "geoid": "99997",
+    "key": "federal-obligations-total",
+    "date": "2025-12-15",
+    "value": 2842076346139.2402,
+    "value_": 2842076346139.2402
+  },
+  {
     "geoid": "99999",
     "key": "federal-obligations-total",
     "date": "2022-12-15",
@@ -24673,5 +25191,12 @@
     "date": "2024-12-15",
     "value": 4864004349960.9902,
     "value_": 4864004349960.9902
+  },
+  {
+    "geoid": "99999",
+    "key": "federal-obligations-total",
+    "date": "2025-12-15",
+    "value": 4934478765125.9297,
+    "value_": 4934478765125.9297
   }
 ]

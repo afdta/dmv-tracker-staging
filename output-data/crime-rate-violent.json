@@ -3054,13 +3054,6 @@
   {
     "geoid": "11001",
     "key": "crime-rate-violent",
-    "date": "2022-03-15",
-    "value": 62.81603,
-    "value_": 62.81603
-  },
-  {
-    "geoid": "11001",
-    "key": "crime-rate-violent",
     "date": "2023-03-15",
     "value": 236.23949,
     "value_": 236.23949
@@ -3078,13 +3071,6 @@
     "date": "2025-03-15",
     "value": 192.38163,
     "value_": 192.38163
-  },
-  {
-    "geoid": "12060",
-    "key": "crime-rate-violent",
-    "date": "2022-03-15",
-    "value": 32.33088,
-    "value_": 32.33088
   },
   {
     "geoid": "12060",
@@ -3110,13 +3096,6 @@
   {
     "geoid": "12420",
     "key": "crime-rate-violent",
-    "date": "2022-03-15",
-    "value": 30.94702,
-    "value_": 30.94702
-  },
-  {
-    "geoid": "12420",
-    "key": "crime-rate-violent",
     "date": "2023-03-15",
     "value": 83.80858,
     "value_": 83.80858
@@ -3134,13 +3113,6 @@
     "date": "2025-03-15",
     "value": 67.55762,
     "value_": 67.55762
-  },
-  {
-    "geoid": "12580",
-    "key": "crime-rate-violent",
-    "date": "2022-03-15",
-    "value": 50.79349,
-    "value_": 50.79349
   },
   {
     "geoid": "12580",
@@ -3166,13 +3138,6 @@
   {
     "geoid": "13820",
     "key": "crime-rate-violent",
-    "date": "2022-03-15",
-    "value": 41.09315,
-    "value_": 41.09315
-  },
-  {
-    "geoid": "13820",
-    "key": "crime-rate-violent",
     "date": "2023-03-15",
     "value": 133.32267,
     "value_": 133.32267
@@ -3190,13 +3155,6 @@
     "date": "2025-03-15",
     "value": 100.88464,
     "value_": 100.88464
-  },
-  {
-    "geoid": "14460",
-    "key": "crime-rate-violent",
-    "date": "2022-03-15",
-    "value": 23.21824,
-    "value_": 23.21824
   },
   {
     "geoid": "14460",
@@ -3222,13 +3180,6 @@
   {
     "geoid": "15380",
     "key": "crime-rate-violent",
-    "date": "2022-03-15",
-    "value": 26.39995,
-    "value_": 26.39995
-  },
-  {
-    "geoid": "15380",
-    "key": "crime-rate-violent",
     "date": "2023-03-15",
     "value": 67.26206,
     "value_": 67.26206
@@ -3246,13 +3197,6 @@
     "date": "2025-03-15",
     "value": 56.89561,
     "value_": 56.89561
-  },
-  {
-    "geoid": "16740",
-    "key": "crime-rate-violent",
-    "date": "2022-03-15",
-    "value": 36.97474,
-    "value_": 36.97474
   },
   {
     "geoid": "16740",
@@ -3278,13 +3222,6 @@
   {
     "geoid": "16980",
     "key": "crime-rate-violent",
-    "date": "2022-03-15",
-    "value": 22.65515,
-    "value_": 22.65515
-  },
-  {
-    "geoid": "16980",
-    "key": "crime-rate-violent",
     "date": "2023-03-15",
     "value": 64.67852,
     "value_": 64.67852
@@ -3302,13 +3239,6 @@
     "date": "2025-03-15",
     "value": 50.26798,
     "value_": 50.26798
-  },
-  {
-    "geoid": "17140",
-    "key": "crime-rate-violent",
-    "date": "2022-03-15",
-    "value": 17.61238,
-    "value_": 17.61238
   },
   {
     "geoid": "17140",
@@ -3334,13 +3264,6 @@
   {
     "geoid": "17410",
     "key": "crime-rate-violent",
-    "date": "2022-03-15",
-    "value": 35.41308,
-    "value_": 35.41308
-  },
-  {
-    "geoid": "17410",
-    "key": "crime-rate-violent",
     "date": "2023-03-15",
     "value": 87.07436,
     "value_": 87.07436
@@ -3358,13 +3281,6 @@
     "date": "2025-03-15",
     "value": 82.78169,
     "value_": 82.78169
-  },
-  {
-    "geoid": "18140",
-    "key": "crime-rate-violent",
-    "date": "2022-03-15",
-    "value": 29.03058,
-    "value_": 29.03058
   },
   {
     "geoid": "18140",
@@ -3390,13 +3306,6 @@
   {
     "geoid": "19100",
     "key": "crime-rate-violent",
-    "date": "2022-03-15",
-    "value": 29.87016,
-    "value_": 29.87016
-  },
-  {
-    "geoid": "19100",
-    "key": "crime-rate-violent",
     "date": "2023-03-15",
     "value": 81.01794,
     "value_": 81.01794
@@ -3414,13 +3323,6 @@
     "date": "2025-03-15",
     "value": 65.36208,
     "value_": 65.36208
-  },
-  {
-    "geoid": "19740",
-    "key": "crime-rate-violent",
-    "date": "2022-03-15",
-    "value": 50.57669,
-    "value_": 50.57669
   },
   {
     "geoid": "19740",
@@ -3446,13 +3348,6 @@
   {
     "geoid": "19820",
     "key": "crime-rate-violent",
-    "date": "2022-03-15",
-    "value": 41.55276,
-    "value_": 41.55276
-  },
-  {
-    "geoid": "19820",
-    "key": "crime-rate-violent",
     "date": "2023-03-15",
     "value": 116.02844,
     "value_": 116.02844
@@ -3470,13 +3365,6 @@
     "date": "2025-03-15",
     "value": 103.1469,
     "value_": 103.1469
-  },
-  {
-    "geoid": "23420",
-    "key": "crime-rate-violent",
-    "date": "2022-03-15",
-    "value": 61.26331,
-    "value_": 61.26331
   },
   {
     "geoid": "23420",
@@ -3502,13 +3390,6 @@
   {
     "geoid": "24017",
     "key": "crime-rate-violent",
-    "date": "2022-03-15",
-    "value": 26.91318,
-    "value_": 26.91318
-  },
-  {
-    "geoid": "24017",
-    "key": "crime-rate-violent",
     "date": "2023-03-15",
     "value": 88.19263,
     "value_": 88.19263
@@ -3526,13 +3407,6 @@
     "date": "2025-03-15",
     "value": 71.02152,
     "value_": 71.02152
-  },
-  {
-    "geoid": "24021",
-    "key": "crime-rate-violent",
-    "date": "2022-03-15",
-    "value": 20.43585,
-    "value_": 20.43585
   },
   {
     "geoid": "24021",
@@ -3558,13 +3432,6 @@
   {
     "geoid": "24031",
     "key": "crime-rate-violent",
-    "date": "2022-03-15",
-    "value": 16.0066,
-    "value_": 16.0066
-  },
-  {
-    "geoid": "24031",
-    "key": "crime-rate-violent",
     "date": "2023-03-15",
     "value": 49.82637,
     "value_": 49.82637
@@ -3582,13 +3449,6 @@
     "date": "2025-03-15",
     "value": 44.05591,
     "value_": 44.05591
-  },
-  {
-    "geoid": "24033",
-    "key": "crime-rate-violent",
-    "date": "2022-03-15",
-    "value": 33.83176,
-    "value_": 33.83176
   },
   {
     "geoid": "24033",
@@ -3614,13 +3474,6 @@
   {
     "geoid": "24340",
     "key": "crime-rate-violent",
-    "date": "2022-03-15",
-    "value": 34.16311,
-    "value_": 34.16311
-  },
-  {
-    "geoid": "24340",
-    "key": "crime-rate-violent",
     "date": "2023-03-15",
     "value": 85.82804,
     "value_": 85.82804
@@ -3638,13 +3491,6 @@
     "date": "2025-03-15",
     "value": 81.4081,
     "value_": 81.4081
-  },
-  {
-    "geoid": "25540",
-    "key": "crime-rate-violent",
-    "date": "2022-03-15",
-    "value": 11.68254,
-    "value_": 11.68254
   },
   {
     "geoid": "25540",
@@ -3670,13 +3516,6 @@
   {
     "geoid": "26420",
     "key": "crime-rate-violent",
-    "date": "2022-03-15",
-    "value": 51.08083,
-    "value_": 51.08083
-  },
-  {
-    "geoid": "26420",
-    "key": "crime-rate-violent",
     "date": "2023-03-15",
     "value": 140.50047,
     "value_": 140.50047
@@ -3694,13 +3533,6 @@
     "date": "2025-03-15",
     "value": 118.54413,
     "value_": 118.54413
-  },
-  {
-    "geoid": "26900",
-    "key": "crime-rate-violent",
-    "date": "2022-03-15",
-    "value": 43.91048,
-    "value_": 43.91048
   },
   {
     "geoid": "26900",
@@ -3726,13 +3558,6 @@
   {
     "geoid": "27260",
     "key": "crime-rate-violent",
-    "date": "2022-03-15",
-    "value": 42.85964,
-    "value_": 42.85964
-  },
-  {
-    "geoid": "27260",
-    "key": "crime-rate-violent",
     "date": "2023-03-15",
     "value": 123.26501,
     "value_": 123.26501
@@ -3750,13 +3575,6 @@
     "date": "2025-03-15",
     "value": 102.52786,
     "value_": 102.52786
-  },
-  {
-    "geoid": "28140",
-    "key": "crime-rate-violent",
-    "date": "2022-03-15",
-    "value": 47.35512,
-    "value_": 47.35512
   },
   {
     "geoid": "28140",
@@ -3782,13 +3600,6 @@
   {
     "geoid": "29820",
     "key": "crime-rate-violent",
-    "date": "2022-03-15",
-    "value": 37.63565,
-    "value_": 37.63565
-  },
-  {
-    "geoid": "29820",
-    "key": "crime-rate-violent",
     "date": "2023-03-15",
     "value": 105.29168,
     "value_": 105.29168
@@ -3806,13 +3617,6 @@
     "date": "2025-03-15",
     "value": 91.25521,
     "value_": 91.25521
-  },
-  {
-    "geoid": "31080",
-    "key": "crime-rate-violent",
-    "date": "2022-03-15",
-    "value": 46.45915,
-    "value_": 46.45915
   },
   {
     "geoid": "31080",
@@ -3838,13 +3642,6 @@
   {
     "geoid": "31140",
     "key": "crime-rate-violent",
-    "date": "2022-03-15",
-    "value": 26.69343,
-    "value_": 26.69343
-  },
-  {
-    "geoid": "31140",
-    "key": "crime-rate-violent",
     "date": "2023-03-15",
     "value": 106.97034,
     "value_": 106.97034
@@ -3862,13 +3659,6 @@
     "date": "2025-03-15",
     "value": 97.73747,
     "value_": 97.73747
-  },
-  {
-    "geoid": "32820",
-    "key": "crime-rate-violent",
-    "date": "2022-03-15",
-    "value": 107.58949,
-    "value_": 107.58949
   },
   {
     "geoid": "32820",
@@ -3894,13 +3684,6 @@
   {
     "geoid": "33100",
     "key": "crime-rate-violent",
-    "date": "2022-03-15",
-    "value": 18.31856,
-    "value_": 18.31856
-  },
-  {
-    "geoid": "33100",
-    "key": "crime-rate-violent",
     "date": "2023-03-15",
     "value": 64.71566,
     "value_": 64.71566
@@ -3918,13 +3701,6 @@
     "date": "2025-03-15",
     "value": 67.72315,
     "value_": 67.72315
-  },
-  {
-    "geoid": "33340",
-    "key": "crime-rate-violent",
-    "date": "2022-03-15",
-    "value": 53.14365,
-    "value_": 53.14365
   },
   {
     "geoid": "33340",
@@ -3950,13 +3726,6 @@
   {
     "geoid": "33460",
     "key": "crime-rate-violent",
-    "date": "2022-03-15",
-    "value": 24.17692,
-    "value_": 24.17692
-  },
-  {
-    "geoid": "33460",
-    "key": "crime-rate-violent",
     "date": "2023-03-15",
     "value": 63.48409,
     "value_": 63.48409
@@ -3974,13 +3743,6 @@
     "date": "2025-03-15",
     "value": 56.03294,
     "value_": 56.03294
-  },
-  {
-    "geoid": "34980",
-    "key": "crime-rate-violent",
-    "date": "2022-03-15",
-    "value": 49.29922,
-    "value_": 49.29922
   },
   {
     "geoid": "34980",
@@ -4006,13 +3768,6 @@
   {
     "geoid": "35620",
     "key": "crime-rate-violent",
-    "date": "2022-03-15",
-    "value": 33.03383,
-    "value_": 33.03383
-  },
-  {
-    "geoid": "35620",
-    "key": "crime-rate-violent",
     "date": "2023-03-15",
     "value": 88.12413,
     "value_": 88.12413
@@ -4030,13 +3785,6 @@
     "date": "2025-03-15",
     "value": 102.97698,
     "value_": 102.97698
-  },
-  {
-    "geoid": "36420",
-    "key": "crime-rate-violent",
-    "date": "2022-03-15",
-    "value": 37.33492,
-    "value_": 37.33492
   },
   {
     "geoid": "36420",
@@ -4062,13 +3810,6 @@
   {
     "geoid": "36540",
     "key": "crime-rate-violent",
-    "date": "2022-03-15",
-    "value": 25.24807,
-    "value_": 25.24807
-  },
-  {
-    "geoid": "36540",
-    "key": "crime-rate-violent",
     "date": "2023-03-15",
     "value": 31.28943,
     "value_": 31.28943
@@ -4086,13 +3827,6 @@
     "date": "2025-03-15",
     "value": 54.46049,
     "value_": 54.46049
-  },
-  {
-    "geoid": "37980",
-    "key": "crime-rate-violent",
-    "date": "2022-03-15",
-    "value": 35.10995,
-    "value_": 35.10995
   },
   {
     "geoid": "37980",
@@ -4118,13 +3852,6 @@
   {
     "geoid": "38060",
     "key": "crime-rate-violent",
-    "date": "2022-03-15",
-    "value": 42.13462,
-    "value_": 42.13462
-  },
-  {
-    "geoid": "38060",
-    "key": "crime-rate-violent",
     "date": "2023-03-15",
     "value": 117.6834,
     "value_": 117.6834
@@ -4142,13 +3869,6 @@
     "date": "2025-03-15",
     "value": 105.86376,
     "value_": 105.86376
-  },
-  {
-    "geoid": "38300",
-    "key": "crime-rate-violent",
-    "date": "2022-03-15",
-    "value": 16.90964,
-    "value_": 16.90964
   },
   {
     "geoid": "38300",
@@ -4174,13 +3894,6 @@
   {
     "geoid": "38900",
     "key": "crime-rate-violent",
-    "date": "2022-03-15",
-    "value": 37.31688,
-    "value_": 37.31688
-  },
-  {
-    "geoid": "38900",
-    "key": "crime-rate-violent",
     "date": "2023-03-15",
     "value": 95.8498,
     "value_": 95.8498
@@ -4198,13 +3911,6 @@
     "date": "2025-03-15",
     "value": 83.82019,
     "value_": 83.82019
-  },
-  {
-    "geoid": "39300",
-    "key": "crime-rate-violent",
-    "date": "2022-03-15",
-    "value": 22.59021,
-    "value_": 22.59021
   },
   {
     "geoid": "39300",
@@ -4230,13 +3936,6 @@
   {
     "geoid": "39580",
     "key": "crime-rate-violent",
-    "date": "2022-03-15",
-    "value": 22.62657,
-    "value_": 22.62657
-  },
-  {
-    "geoid": "39580",
-    "key": "crime-rate-violent",
     "date": "2023-03-15",
     "value": 60.77971,
     "value_": 60.77971
@@ -4254,13 +3953,6 @@
     "date": "2025-03-15",
     "value": 52.01357,
     "value_": 52.01357
-  },
-  {
-    "geoid": "40060",
-    "key": "crime-rate-violent",
-    "date": "2022-03-15",
-    "value": 20.79015,
-    "value_": 20.79015
   },
   {
     "geoid": "40060",
@@ -4286,13 +3978,6 @@
   {
     "geoid": "40140",
     "key": "crime-rate-violent",
-    "date": "2022-03-15",
-    "value": 39.54072,
-    "value_": 39.54072
-  },
-  {
-    "geoid": "40140",
-    "key": "crime-rate-violent",
     "date": "2023-03-15",
     "value": 101.64639,
     "value_": 101.64639
@@ -4310,13 +3995,6 @@
     "date": "2025-03-15",
     "value": 86.4852,
     "value_": 86.4852
-  },
-  {
-    "geoid": "40380",
-    "key": "crime-rate-violent",
-    "date": "2022-03-15",
-    "value": 19.75382,
-    "value_": 19.75382
   },
   {
     "geoid": "40380",
@@ -4342,13 +4020,6 @@
   {
     "geoid": "40900",
     "key": "crime-rate-violent",
-    "date": "2022-03-15",
-    "value": 39.11233,
-    "value_": 39.11233
-  },
-  {
-    "geoid": "40900",
-    "key": "crime-rate-violent",
     "date": "2023-03-15",
     "value": 104.32692,
     "value_": 104.32692
@@ -4366,13 +4037,6 @@
     "date": "2025-03-15",
     "value": 90.13835,
     "value_": 90.13835
-  },
-  {
-    "geoid": "41180",
-    "key": "crime-rate-violent",
-    "date": "2022-03-15",
-    "value": 23.19169,
-    "value_": 23.19169
   },
   {
     "geoid": "41180",
@@ -4398,13 +4062,6 @@
   {
     "geoid": "41620",
     "key": "crime-rate-violent",
-    "date": "2022-03-15",
-    "value": 31.5019,
-    "value_": 31.5019
-  },
-  {
-    "geoid": "41620",
-    "key": "crime-rate-violent",
     "date": "2023-03-15",
     "value": 82.58766,
     "value_": 82.58766
@@ -4422,13 +4079,6 @@
     "date": "2025-03-15",
     "value": 77.92028,
     "value_": 77.92028
-  },
-  {
-    "geoid": "41700",
-    "key": "crime-rate-violent",
-    "date": "2022-03-15",
-    "value": 49.7684,
-    "value_": 49.7684
   },
   {
     "geoid": "41700",
@@ -4454,13 +4104,6 @@
   {
     "geoid": "41740",
     "key": "crime-rate-violent",
-    "date": "2022-03-15",
-    "value": 34.95418,
-    "value_": 34.95418
-  },
-  {
-    "geoid": "41740",
-    "key": "crime-rate-violent",
     "date": "2023-03-15",
     "value": 84.38811,
     "value_": 84.38811
@@ -4478,13 +4121,6 @@
     "date": "2025-03-15",
     "value": 63.97735,
     "value_": 63.97735
-  },
-  {
-    "geoid": "41860",
-    "key": "crime-rate-violent",
-    "date": "2022-03-15",
-    "value": 43.14784,
-    "value_": 43.14784
   },
   {
     "geoid": "41860",
@@ -4510,13 +4146,6 @@
   {
     "geoid": "41940",
     "key": "crime-rate-violent",
-    "date": "2022-03-15",
-    "value": 34.1434,
-    "value_": 34.1434
-  },
-  {
-    "geoid": "41940",
-    "key": "crime-rate-violent",
     "date": "2023-03-15",
     "value": 99.53837,
     "value_": 99.53837
@@ -4534,13 +4163,6 @@
     "date": "2025-03-15",
     "value": 96.3758,
     "value_": 96.3758
-  },
-  {
-    "geoid": "42660",
-    "key": "crime-rate-violent",
-    "date": "2022-03-15",
-    "value": 41.72238,
-    "value_": 41.72238
   },
   {
     "geoid": "42660",
@@ -4566,13 +4188,6 @@
   {
     "geoid": "45300",
     "key": "crime-rate-violent",
-    "date": "2022-03-15",
-    "value": 18.90308,
-    "value_": 18.90308
-  },
-  {
-    "geoid": "45300",
-    "key": "crime-rate-violent",
     "date": "2023-03-15",
     "value": 49.65227,
     "value_": 49.65227
@@ -4590,13 +4205,6 @@
     "date": "2025-03-15",
     "value": 42.55521,
     "value_": 42.55521
-  },
-  {
-    "geoid": "46060",
-    "key": "crime-rate-violent",
-    "date": "2022-03-15",
-    "value": 9.1856,
-    "value_": 9.1856
   },
   {
     "geoid": "46060",
@@ -4622,13 +4230,6 @@
   {
     "geoid": "46140",
     "key": "crime-rate-violent",
-    "date": "2022-03-15",
-    "value": 41.21405,
-    "value_": 41.21405
-  },
-  {
-    "geoid": "46140",
-    "key": "crime-rate-violent",
     "date": "2023-03-15",
     "value": 112.9027,
     "value_": 112.9027
@@ -4646,13 +4247,6 @@
     "date": "2025-03-15",
     "value": 101.73441,
     "value_": 101.73441
-  },
-  {
-    "geoid": "47260",
-    "key": "crime-rate-violent",
-    "date": "2022-03-15",
-    "value": 29.89085,
-    "value_": 29.89085
   },
   {
     "geoid": "47260",
@@ -4678,13 +4272,6 @@
   {
     "geoid": "47900",
     "key": "crime-rate-violent",
-    "date": "2022-03-15",
-    "value": 22.75548,
-    "value_": 22.75548
-  },
-  {
-    "geoid": "47900",
-    "key": "crime-rate-violent",
     "date": "2023-03-15",
     "value": 75.40302,
     "value_": 75.40302
@@ -4702,13 +4289,6 @@
     "date": "2025-03-15",
     "value": 61.0046,
     "value_": 61.0046
-  },
-  {
-    "geoid": "51013",
-    "key": "crime-rate-violent",
-    "date": "2022-03-15",
-    "value": 27.18201,
-    "value_": 27.18201
   },
   {
     "geoid": "51013",
@@ -4734,13 +4314,6 @@
   {
     "geoid": "51043",
     "key": "crime-rate-violent",
-    "date": "2022-03-15",
-    "value": 0,
-    "value_": 0
-  },
-  {
-    "geoid": "51043",
-    "key": "crime-rate-violent",
     "date": "2023-03-15",
     "value": 6.44704,
     "value_": 6.44704
@@ -4758,13 +4331,6 @@
     "date": "2025-03-15",
     "value": 25.29724,
     "value_": 25.29724
-  },
-  {
-    "geoid": "51047",
-    "key": "crime-rate-violent",
-    "date": "2022-03-15",
-    "value": 9.14428,
-    "value_": 9.14428
   },
   {
     "geoid": "51047",
@@ -4790,13 +4356,6 @@
   {
     "geoid": "51059",
     "key": "crime-rate-violent",
-    "date": "2022-03-15",
-    "value": 9.9673,
-    "value_": 9.9673
-  },
-  {
-    "geoid": "51059",
-    "key": "crime-rate-violent",
     "date": "2023-03-15",
     "value": 30.92178,
     "value_": 30.92178
@@ -4814,13 +4373,6 @@
     "date": "2025-03-15",
     "value": 25.82132,
     "value_": 25.82132
-  },
-  {
-    "geoid": "51061",
-    "key": "crime-rate-violent",
-    "date": "2022-03-15",
-    "value": 8.07276,
-    "value_": 8.07276
   },
   {
     "geoid": "51061",
@@ -4846,13 +4398,6 @@
   {
     "geoid": "51107",
     "key": "crime-rate-violent",
-    "date": "2022-03-15",
-    "value": 8.75286,
-    "value_": 8.75286
-  },
-  {
-    "geoid": "51107",
-    "key": "crime-rate-violent",
     "date": "2023-03-15",
     "value": 23.32858,
     "value_": 23.32858
@@ -4870,13 +4415,6 @@
     "date": "2025-03-15",
     "value": 20.70165,
     "value_": 20.70165
-  },
-  {
-    "geoid": "51153",
-    "key": "crime-rate-violent",
-    "date": "2022-03-15",
-    "value": 18.64458,
-    "value_": 18.64458
   },
   {
     "geoid": "51153",
@@ -4902,13 +4440,6 @@
   {
     "geoid": "51157",
     "key": "crime-rate-violent",
-    "date": "2022-03-15",
-    "value": 0,
-    "value_": 0
-  },
-  {
-    "geoid": "51157",
-    "key": "crime-rate-violent",
     "date": "2023-03-15",
     "value": 52.63158,
     "value_": 52.63158
@@ -4926,13 +4457,6 @@
     "date": "2025-03-15",
     "value": 13.32623,
     "value_": 13.32623
-  },
-  {
-    "geoid": "51177",
-    "key": "crime-rate-violent",
-    "date": "2022-03-15",
-    "value": 16.95387,
-    "value_": 16.95387
   },
   {
     "geoid": "51177",
@@ -4958,13 +4482,6 @@
   {
     "geoid": "51179",
     "key": "crime-rate-violent",
-    "date": "2022-03-15",
-    "value": 13.35057,
-    "value_": 13.35057
-  },
-  {
-    "geoid": "51179",
-    "key": "crime-rate-violent",
     "date": "2023-03-15",
     "value": 40.26128,
     "value_": 40.26128
@@ -4982,13 +4499,6 @@
     "date": "2025-03-15",
     "value": 49.59585,
     "value_": 49.59585
-  },
-  {
-    "geoid": "51187",
-    "key": "crime-rate-violent",
-    "date": "2022-03-15",
-    "value": 2.42654,
-    "value_": 2.42654
   },
   {
     "geoid": "51187",
@@ -5014,13 +4524,6 @@
   {
     "geoid": "51510",
     "key": "crime-rate-violent",
-    "date": "2022-03-15",
-    "value": 11.92393,
-    "value_": 11.92393
-  },
-  {
-    "geoid": "51510",
-    "key": "crime-rate-violent",
     "date": "2023-03-15",
     "value": 57.1811,
     "value_": 57.1811
@@ -5031,13 +4534,6 @@
     "date": "2024-03-15",
     "value": 63.16346,
     "value_": 63.16346
-  },
-  {
-    "geoid": "51630",
-    "key": "crime-rate-violent",
-    "date": "2022-03-15",
-    "value": 34.66926,
-    "value_": 34.66926
   },
   {
     "geoid": "51630",
@@ -5063,13 +4559,6 @@
   {
     "geoid": "54037",
     "key": "crime-rate-violent",
-    "date": "2022-03-15",
-    "value": 3.46759,
-    "value_": 3.46759
-  },
-  {
-    "geoid": "54037",
-    "key": "crime-rate-violent",
     "date": "2023-03-15",
     "value": 11.98466,
     "value_": 11.98466
@@ -5091,13 +4580,6 @@
   {
     "geoid": "99997",
     "key": "crime-rate-violent",
-    "date": "2022-03-15",
-    "value": 34.95175,
-    "value_": 34.95175
-  },
-  {
-    "geoid": "99997",
-    "key": "crime-rate-violent",
     "date": "2023-03-15",
     "value": 98.02915,
     "value_": 98.02915
@@ -5115,13 +4597,6 @@
     "date": "2025-03-15",
     "value": 83.92716,
     "value_": 83.92716
-  },
-  {
-    "geoid": "99999",
-    "key": "crime-rate-violent",
-    "date": "2022-03-15",
-    "value": 32.2,
-    "value_": 32.2
   },
   {
     "geoid": "99999",
@@ -5148,8 +4623,8 @@
     "geoid": "11001",
     "key": "crime-rate-violent",
     "date": "2022-04-15",
-    "value": 128.90684,
-    "value_": 128.90684
+    "value": 66.0908,
+    "value_": 66.0908
   },
   {
     "geoid": "11001",
@@ -5176,8 +4651,8 @@
     "geoid": "12060",
     "key": "crime-rate-violent",
     "date": "2022-04-15",
-    "value": 67.25506,
-    "value_": 67.25506
+    "value": 34.89384,
+    "value_": 34.89384
   },
   {
     "geoid": "12060",
@@ -5204,8 +4679,8 @@
     "geoid": "12420",
     "key": "crime-rate-violent",
     "date": "2022-04-15",
-    "value": 61.19165,
-    "value_": 61.19165
+    "value": 30.24462,
+    "value_": 30.24462
   },
   {
     "geoid": "12420",
@@ -5232,8 +4707,8 @@
     "geoid": "12580",
     "key": "crime-rate-violent",
     "date": "2022-04-15",
-    "value": 100.77343,
-    "value_": 100.77343
+    "value": 49.97994,
+    "value_": 49.97994
   },
   {
     "geoid": "12580",
@@ -5260,8 +4735,8 @@
     "geoid": "13820",
     "key": "crime-rate-violent",
     "date": "2022-04-15",
-    "value": 94.6159,
-    "value_": 94.6159
+    "value": 53.48623,
+    "value_": 53.48623
   },
   {
     "geoid": "13820",
@@ -5288,8 +4763,8 @@
     "geoid": "14460",
     "key": "crime-rate-violent",
     "date": "2022-04-15",
-    "value": 44.75755,
-    "value_": 44.75755
+    "value": 21.53932,
+    "value_": 21.53932
   },
   {
     "geoid": "14460",
@@ -5316,8 +4791,8 @@
     "geoid": "15380",
     "key": "crime-rate-violent",
     "date": "2022-04-15",
-    "value": 53.15307,
-    "value_": 53.15307
+    "value": 26.75312,
+    "value_": 26.75312
   },
   {
     "geoid": "15380",
@@ -5344,8 +4819,8 @@
     "geoid": "16740",
     "key": "crime-rate-violent",
     "date": "2022-04-15",
-    "value": 76.17379,
-    "value_": 76.17379
+    "value": 39.19906,
+    "value_": 39.19906
   },
   {
     "geoid": "16740",
@@ -5372,8 +4847,8 @@
     "geoid": "16980",
     "key": "crime-rate-violent",
     "date": "2022-04-15",
-    "value": 45.59567,
-    "value_": 45.59567
+    "value": 22.79784,
+    "value_": 22.79784
   },
   {
     "geoid": "16980",
@@ -5400,8 +4875,8 @@
     "geoid": "17140",
     "key": "crime-rate-violent",
     "date": "2022-04-15",
-    "value": 36.4494,
-    "value_": 36.4494
+    "value": 18.75646,
+    "value_": 18.75646
   },
   {
     "geoid": "17140",
@@ -5428,8 +4903,8 @@
     "geoid": "17410",
     "key": "crime-rate-violent",
     "date": "2022-04-15",
-    "value": 67.40957,
-    "value_": 67.40957
+    "value": 31.91493,
+    "value_": 31.91493
   },
   {
     "geoid": "17410",
@@ -5456,8 +4931,8 @@
     "geoid": "18140",
     "key": "crime-rate-violent",
     "date": "2022-04-15",
-    "value": 59.68353,
-    "value_": 59.68353
+    "value": 30.6483,
+    "value_": 30.6483
   },
   {
     "geoid": "18140",
@@ -5484,8 +4959,8 @@
     "geoid": "19100",
     "key": "crime-rate-violent",
     "date": "2022-04-15",
-    "value": 62.07492,
-    "value_": 62.07492
+    "value": 32.20904,
+    "value_": 32.20904
   },
   {
     "geoid": "19100",
@@ -5512,8 +4987,8 @@
     "geoid": "19740",
     "key": "crime-rate-violent",
     "date": "2022-04-15",
-    "value": 101.54913,
-    "value_": 101.54913
+    "value": 50.97632,
+    "value_": 50.97632
   },
   {
     "geoid": "19740",
@@ -5540,8 +5015,8 @@
     "geoid": "19820",
     "key": "crime-rate-violent",
     "date": "2022-04-15",
-    "value": 85.52443,
-    "value_": 85.52443
+    "value": 43.97168,
+    "value_": 43.97168
   },
   {
     "geoid": "19820",
@@ -5568,8 +5043,8 @@
     "geoid": "23420",
     "key": "crime-rate-violent",
     "date": "2022-04-15",
-    "value": 123.88051,
-    "value_": 123.88051
+    "value": 62.6172,
+    "value_": 62.6172
   },
   {
     "geoid": "23420",
@@ -5596,8 +5071,8 @@
     "geoid": "24017",
     "key": "crime-rate-violent",
     "date": "2022-04-15",
-    "value": 50.31594,
-    "value_": 50.31594
+    "value": 23.40276,
+    "value_": 23.40276
   },
   {
     "geoid": "24017",
@@ -5624,8 +5099,8 @@
     "geoid": "24021",
     "key": "crime-rate-violent",
     "date": "2022-04-15",
-    "value": 33.82485,
-    "value_": 33.82485
+    "value": 13.389,
+    "value_": 13.389
   },
   {
     "geoid": "24021",
@@ -5652,8 +5127,8 @@
     "geoid": "24031",
     "key": "crime-rate-violent",
     "date": "2022-04-15",
-    "value": 28.86905,
-    "value_": 28.86905
+    "value": 12.86245,
+    "value_": 12.86245
   },
   {
     "geoid": "24031",
@@ -5680,8 +5155,8 @@
     "geoid": "24033",
     "key": "crime-rate-violent",
     "date": "2022-04-15",
-    "value": 62.36074,
-    "value_": 62.36074
+    "value": 28.52898,
+    "value_": 28.52898
   },
   {
     "geoid": "24033",
@@ -5708,8 +5183,8 @@
     "geoid": "24340",
     "key": "crime-rate-violent",
     "date": "2022-04-15",
-    "value": 64.64988,
-    "value_": 64.64988
+    "value": 30.48677,
+    "value_": 30.48677
   },
   {
     "geoid": "24340",
@@ -5736,8 +5211,8 @@
     "geoid": "25540",
     "key": "crime-rate-violent",
     "date": "2022-04-15",
-    "value": 20.3086,
-    "value_": 20.3086
+    "value": 8.62606,
+    "value_": 8.62606
   },
   {
     "geoid": "25540",
@@ -5764,8 +5239,8 @@
     "geoid": "26420",
     "key": "crime-rate-violent",
     "date": "2022-04-15",
-    "value": 101.72379,
-    "value_": 101.72379
+    "value": 50.64296,
+    "value_": 50.64296
   },
   {
     "geoid": "26420",
@@ -5792,8 +5267,8 @@
     "geoid": "26900",
     "key": "crime-rate-violent",
     "date": "2022-04-15",
-    "value": 90.42774,
-    "value_": 90.42774
+    "value": 46.49707,
+    "value_": 46.49707
   },
   {
     "geoid": "26900",
@@ -5820,8 +5295,8 @@
     "geoid": "27260",
     "key": "crime-rate-violent",
     "date": "2022-04-15",
-    "value": 88.49166,
-    "value_": 88.49166
+    "value": 45.63203,
+    "value_": 45.63203
   },
   {
     "geoid": "27260",
@@ -5848,8 +5323,8 @@
     "geoid": "28140",
     "key": "crime-rate-violent",
     "date": "2022-04-15",
-    "value": 95.55409,
-    "value_": 95.55409
+    "value": 48.04921,
+    "value_": 48.04921
   },
   {
     "geoid": "28140",
@@ -5876,8 +5351,8 @@
     "geoid": "29820",
     "key": "crime-rate-violent",
     "date": "2022-04-15",
-    "value": 77.51821,
-    "value_": 77.51821
+    "value": 39.88256,
+    "value_": 39.88256
   },
   {
     "geoid": "29820",
@@ -5904,8 +5379,8 @@
     "geoid": "31080",
     "key": "crime-rate-violent",
     "date": "2022-04-15",
-    "value": 93.20735,
-    "value_": 93.20735
+    "value": 46.7482,
+    "value_": 46.7482
   },
   {
     "geoid": "31080",
@@ -5932,8 +5407,8 @@
     "geoid": "31140",
     "key": "crime-rate-violent",
     "date": "2022-04-15",
-    "value": 67.31156,
-    "value_": 67.31156
+    "value": 40.59823,
+    "value_": 40.59823
   },
   {
     "geoid": "31140",
@@ -5960,8 +5435,8 @@
     "geoid": "32820",
     "key": "crime-rate-violent",
     "date": "2022-04-15",
-    "value": 231.77083,
-    "value_": 231.77083
+    "value": 124.38902,
+    "value_": 124.38902
   },
   {
     "geoid": "32820",
@@ -5988,8 +5463,8 @@
     "geoid": "33100",
     "key": "crime-rate-violent",
     "date": "2022-04-15",
-    "value": 37.44716,
-    "value_": 37.44716
+    "value": 18.69831,
+    "value_": 18.69831
   },
   {
     "geoid": "33100",
@@ -6016,8 +5491,8 @@
     "geoid": "33340",
     "key": "crime-rate-violent",
     "date": "2022-04-15",
-    "value": 105.50288,
-    "value_": 105.50288
+    "value": 52.35924,
+    "value_": 52.35924
   },
   {
     "geoid": "33340",
@@ -6044,8 +5519,8 @@
     "geoid": "33460",
     "key": "crime-rate-violent",
     "date": "2022-04-15",
-    "value": 46.13319,
-    "value_": 46.13319
+    "value": 21.95627,
+    "value_": 21.95627
   },
   {
     "geoid": "33460",
@@ -6072,8 +5547,8 @@
     "geoid": "34980",
     "key": "crime-rate-violent",
     "date": "2022-04-15",
-    "value": 100.83384,
-    "value_": 100.83384
+    "value": 51.5103,
+    "value_": 51.5103
   },
   {
     "geoid": "34980",
@@ -6100,8 +5575,8 @@
     "geoid": "35620",
     "key": "crime-rate-violent",
     "date": "2022-04-15",
-    "value": 65.87007,
-    "value_": 65.87007
+    "value": 32.82518,
+    "value_": 32.82518
   },
   {
     "geoid": "35620",
@@ -6128,8 +5603,8 @@
     "geoid": "36420",
     "key": "crime-rate-violent",
     "date": "2022-04-15",
-    "value": 74.24924,
-    "value_": 74.24924
+    "value": 36.91875,
+    "value_": 36.91875
   },
   {
     "geoid": "36420",
@@ -6156,8 +5631,8 @@
     "geoid": "36540",
     "key": "crime-rate-violent",
     "date": "2022-04-15",
-    "value": 57.53195,
-    "value_": 57.53195
+    "value": 32.21378,
+    "value_": 32.21378
   },
   {
     "geoid": "36540",
@@ -6184,8 +5659,8 @@
     "geoid": "37980",
     "key": "crime-rate-violent",
     "date": "2022-04-15",
-    "value": 70.999,
-    "value_": 70.999
+    "value": 35.96471,
+    "value_": 35.96471
   },
   {
     "geoid": "37980",
@@ -6212,8 +5687,8 @@
     "geoid": "38060",
     "key": "crime-rate-violent",
     "date": "2022-04-15",
-    "value": 86.15133,
-    "value_": 86.15133
+    "value": 44.01671,
+    "value_": 44.01671
   },
   {
     "geoid": "38060",
@@ -6240,8 +5715,8 @@
     "geoid": "38300",
     "key": "crime-rate-violent",
     "date": "2022-04-15",
-    "value": 36.87716,
-    "value_": 36.87716
+    "value": 20.7185,
+    "value_": 20.7185
   },
   {
     "geoid": "38300",
@@ -6268,8 +5743,8 @@
     "geoid": "38900",
     "key": "crime-rate-violent",
     "date": "2022-04-15",
-    "value": 70.37586,
-    "value_": 70.37586
+    "value": 33.05898,
+    "value_": 33.05898
   },
   {
     "geoid": "38900",
@@ -6296,8 +5771,8 @@
     "geoid": "39300",
     "key": "crime-rate-violent",
     "date": "2022-04-15",
-    "value": 43.86911,
-    "value_": 43.86911
+    "value": 21.2789,
+    "value_": 21.2789
   },
   {
     "geoid": "39300",
@@ -6324,8 +5799,8 @@
     "geoid": "39580",
     "key": "crime-rate-violent",
     "date": "2022-04-15",
-    "value": 44.71281,
-    "value_": 44.71281
+    "value": 22.08624,
+    "value_": 22.08624
   },
   {
     "geoid": "39580",
@@ -6352,8 +5827,8 @@
     "geoid": "40060",
     "key": "crime-rate-violent",
     "date": "2022-04-15",
-    "value": 43.22555,
-    "value_": 43.22555
+    "value": 22.43541,
+    "value_": 22.43541
   },
   {
     "geoid": "40060",
@@ -6380,8 +5855,8 @@
     "geoid": "40140",
     "key": "crime-rate-violent",
     "date": "2022-04-15",
-    "value": 77.59414,
-    "value_": 77.59414
+    "value": 38.05342,
+    "value_": 38.05342
   },
   {
     "geoid": "40140",
@@ -6408,8 +5883,8 @@
     "geoid": "40380",
     "key": "crime-rate-violent",
     "date": "2022-04-15",
-    "value": 39.12775,
-    "value_": 39.12775
+    "value": 19.37394,
+    "value_": 19.37394
   },
   {
     "geoid": "40380",
@@ -6436,8 +5911,8 @@
     "geoid": "40900",
     "key": "crime-rate-violent",
     "date": "2022-04-15",
-    "value": 74.39173,
-    "value_": 74.39173
+    "value": 35.2794,
+    "value_": 35.2794
   },
   {
     "geoid": "40900",
@@ -6464,8 +5939,8 @@
     "geoid": "41180",
     "key": "crime-rate-violent",
     "date": "2022-04-15",
-    "value": 46.49898,
-    "value_": 46.49898
+    "value": 23.311,
+    "value_": 23.311
   },
   {
     "geoid": "41180",
@@ -6492,8 +5967,8 @@
     "geoid": "41620",
     "key": "crime-rate-violent",
     "date": "2022-04-15",
-    "value": 61.02503,
-    "value_": 61.02503
+    "value": 29.52313,
+    "value_": 29.52313
   },
   {
     "geoid": "41620",
@@ -6520,8 +5995,8 @@
     "geoid": "41700",
     "key": "crime-rate-violent",
     "date": "2022-04-15",
-    "value": 101.53832,
-    "value_": 101.53832
+    "value": 51.76992,
+    "value_": 51.76992
   },
   {
     "geoid": "41700",
@@ -6548,8 +6023,8 @@
     "geoid": "41740",
     "key": "crime-rate-violent",
     "date": "2022-04-15",
-    "value": 70.60988,
-    "value_": 70.60988
+    "value": 35.6557,
+    "value_": 35.6557
   },
   {
     "geoid": "41740",
@@ -6576,8 +6051,8 @@
     "geoid": "41860",
     "key": "crime-rate-violent",
     "date": "2022-04-15",
-    "value": 87.30696,
-    "value_": 87.30696
+    "value": 44.15912,
+    "value_": 44.15912
   },
   {
     "geoid": "41860",
@@ -6604,8 +6079,8 @@
     "geoid": "41940",
     "key": "crime-rate-violent",
     "date": "2022-04-15",
-    "value": 65.25415,
-    "value_": 65.25415
+    "value": 31.11075,
+    "value_": 31.11075
   },
   {
     "geoid": "41940",
@@ -6632,8 +6107,8 @@
     "geoid": "42660",
     "key": "crime-rate-violent",
     "date": "2022-04-15",
-    "value": 77.78707,
-    "value_": 77.78707
+    "value": 36.06469,
+    "value_": 36.06469
   },
   {
     "geoid": "42660",
@@ -6660,8 +6135,8 @@
     "geoid": "45300",
     "key": "crime-rate-violent",
     "date": "2022-04-15",
-    "value": 35.98219,
-    "value_": 35.98219
+    "value": 17.0791,
+    "value_": 17.0791
   },
   {
     "geoid": "45300",
@@ -6688,8 +6163,8 @@
     "geoid": "46060",
     "key": "crime-rate-violent",
     "date": "2022-04-15",
-    "value": 21.2121,
-    "value_": 21.2121
+    "value": 12.0265,
+    "value_": 12.0265
   },
   {
     "geoid": "46060",
@@ -6716,8 +6191,8 @@
     "geoid": "46140",
     "key": "crime-rate-violent",
     "date": "2022-04-15",
-    "value": 85.71749,
-    "value_": 85.71749
+    "value": 44.50344,
+    "value_": 44.50344
   },
   {
     "geoid": "46140",
@@ -6744,8 +6219,8 @@
     "geoid": "47260",
     "key": "crime-rate-violent",
     "date": "2022-04-15",
-    "value": 63.29499,
-    "value_": 63.29499
+    "value": 33.40414,
+    "value_": 33.40414
   },
   {
     "geoid": "47260",
@@ -6772,8 +6247,8 @@
     "geoid": "47900",
     "key": "crime-rate-violent",
     "date": "2022-04-15",
-    "value": 44.84103,
-    "value_": 44.84103
+    "value": 22.07608,
+    "value_": 22.07608
   },
   {
     "geoid": "47900",
@@ -6800,8 +6275,8 @@
     "geoid": "51013",
     "key": "crime-rate-violent",
     "date": "2022-04-15",
-    "value": 47.78773,
-    "value_": 47.78773
+    "value": 20.60572,
+    "value_": 20.60572
   },
   {
     "geoid": "51013",
@@ -6849,8 +6324,8 @@
     "geoid": "51047",
     "key": "crime-rate-violent",
     "date": "2022-04-15",
-    "value": 38.40597,
-    "value_": 38.40597
+    "value": 29.26169,
+    "value_": 29.26169
   },
   {
     "geoid": "51047",
@@ -6877,8 +6352,8 @@
     "geoid": "51059",
     "key": "crime-rate-violent",
     "date": "2022-04-15",
-    "value": 18.40116,
-    "value_": 18.40116
+    "value": 8.43387,
+    "value_": 8.43387
   },
   {
     "geoid": "51059",
@@ -6905,8 +6380,8 @@
     "geoid": "51061",
     "key": "crime-rate-violent",
     "date": "2022-04-15",
-    "value": 16.14552,
-    "value_": 16.14552
+    "value": 8.07276,
+    "value_": 8.07276
   },
   {
     "geoid": "51061",
@@ -6933,8 +6408,8 @@
     "geoid": "51107",
     "key": "crime-rate-violent",
     "date": "2022-04-15",
-    "value": 17.04504,
-    "value_": 17.04504
+    "value": 8.29218,
+    "value_": 8.29218
   },
   {
     "geoid": "51107",
@@ -6961,8 +6436,8 @@
     "geoid": "51153",
     "key": "crime-rate-violent",
     "date": "2022-04-15",
-    "value": 47.936,
-    "value_": 47.936
+    "value": 29.20239,
+    "value_": 29.20239
   },
   {
     "geoid": "51153",
@@ -6988,6 +6463,13 @@
   {
     "geoid": "51157",
     "key": "crime-rate-violent",
+    "date": "2022-04-15",
+    "value": 26.56395,
+    "value_": 26.56395
+  },
+  {
+    "geoid": "51157",
+    "key": "crime-rate-violent",
     "date": "2023-04-15",
     "value": 78.94737,
     "value_": 78.94737
@@ -6998,6 +6480,13 @@
     "date": "2024-04-15",
     "value": 66.63113,
     "value_": 66.63113
+  },
+  {
+    "geoid": "51177",
+    "key": "crime-rate-violent",
+    "date": "2022-04-15",
+    "value": 6.78155,
+    "value_": 6.78155
   },
   {
     "geoid": "51177",
@@ -7024,8 +6513,8 @@
     "geoid": "51179",
     "key": "crime-rate-violent",
     "date": "2022-04-15",
-    "value": 30.3422,
-    "value_": 30.3422
+    "value": 16.99163,
+    "value_": 16.99163
   },
   {
     "geoid": "51179",
@@ -7052,8 +6541,8 @@
     "geoid": "51187",
     "key": "crime-rate-violent",
     "date": "2022-04-15",
-    "value": 4.85307,
-    "value_": 4.85307
+    "value": 2.42654,
+    "value_": 2.42654
   },
   {
     "geoid": "51187",
@@ -7080,8 +6569,8 @@
     "geoid": "51510",
     "key": "crime-rate-violent",
     "date": "2022-04-15",
-    "value": 29.80981,
-    "value_": 29.80981
+    "value": 17.88589,
+    "value_": 17.88589
   },
   {
     "geoid": "51510",
@@ -7108,8 +6597,8 @@
     "geoid": "51630",
     "key": "crime-rate-violent",
     "date": "2022-04-15",
-    "value": 72.80544,
-    "value_": 72.80544
+    "value": 38.13618,
+    "value_": 38.13618
   },
   {
     "geoid": "51630",
@@ -7136,8 +6625,8 @@
     "geoid": "54037",
     "key": "crime-rate-violent",
     "date": "2022-04-15",
-    "value": 19.07173,
-    "value_": 19.07173
+    "value": 15.60414,
+    "value_": 15.60414
   },
   {
     "geoid": "54037",
@@ -7164,8 +6653,8 @@
     "geoid": "99997",
     "key": "crime-rate-violent",
     "date": "2022-04-15",
-    "value": 70.37214,
-    "value_": 70.37214
+    "value": 35.40823,
+    "value_": 35.40823
   },
   {
     "geoid": "99997",
@@ -7192,8 +6681,8 @@
     "geoid": "99999",
     "key": "crime-rate-violent",
     "date": "2022-04-15",
-    "value": 64.64981,
-    "value_": 64.64981
+    "value": 32.44,
+    "value_": 32.44
   },
   {
     "geoid": "99999",
@@ -7220,8 +6709,8 @@
     "geoid": "11001",
     "key": "crime-rate-violent",
     "date": "2022-05-15",
-    "value": 198.12356,
-    "value_": 198.12356
+    "value": 135.30752,
+    "value_": 135.30752
   },
   {
     "geoid": "11001",
@@ -7248,8 +6737,8 @@
     "geoid": "12060",
     "key": "crime-rate-violent",
     "date": "2022-05-15",
-    "value": 107.90819,
-    "value_": 107.90819
+    "value": 75.17576,
+    "value_": 75.17576
   },
   {
     "geoid": "12060",
@@ -7276,8 +6765,8 @@
     "geoid": "12420",
     "key": "crime-rate-violent",
     "date": "2022-05-15",
-    "value": 92.71712,
-    "value_": 92.71712
+    "value": 61.7701,
+    "value_": 61.7701
   },
   {
     "geoid": "12420",
@@ -7304,8 +6793,8 @@
     "geoid": "12580",
     "key": "crime-rate-violent",
     "date": "2022-05-15",
-    "value": 151.46081,
-    "value_": 151.46081
+    "value": 100.66732,
+    "value_": 100.66732
   },
   {
     "geoid": "12580",
@@ -7332,8 +6821,8 @@
     "geoid": "13820",
     "key": "crime-rate-violent",
     "date": "2022-05-15",
-    "value": 145.66501,
-    "value_": 145.66501
+    "value": 104.62517,
+    "value_": 104.62517
   },
   {
     "geoid": "13820",
@@ -7360,8 +6849,8 @@
     "geoid": "14460",
     "key": "crime-rate-violent",
     "date": "2022-05-15",
-    "value": 68.40575,
-    "value_": 68.40575
+    "value": 45.18752,
+    "value_": 45.18752
   },
   {
     "geoid": "14460",
@@ -7388,8 +6877,8 @@
     "geoid": "15380",
     "key": "crime-rate-violent",
     "date": "2022-05-15",
-    "value": 82.8199,
-    "value_": 82.8199
+    "value": 56.41996,
+    "value_": 56.41996
   },
   {
     "geoid": "15380",
@@ -7416,8 +6905,8 @@
     "geoid": "16740",
     "key": "crime-rate-violent",
     "date": "2022-05-15",
-    "value": 118.47231,
-    "value_": 118.47231
+    "value": 81.49757,
+    "value_": 81.49757
   },
   {
     "geoid": "16740",
@@ -7444,8 +6933,8 @@
     "geoid": "16980",
     "key": "crime-rate-violent",
     "date": "2022-05-15",
-    "value": 72.10832,
-    "value_": 72.10832
+    "value": 49.58494,
+    "value_": 49.58494
   },
   {
     "geoid": "16980",
@@ -7472,8 +6961,8 @@
     "geoid": "17140",
     "key": "crime-rate-violent",
     "date": "2022-05-15",
-    "value": 58.08519,
-    "value_": 58.08519
+    "value": 40.77316,
+    "value_": 40.77316
   },
   {
     "geoid": "17140",
@@ -7500,8 +6989,8 @@
     "geoid": "17410",
     "key": "crime-rate-violent",
     "date": "2022-05-15",
-    "value": 107.55679,
-    "value_": 107.55679
+    "value": 70.88852,
+    "value_": 70.88852
   },
   {
     "geoid": "17410",
@@ -7528,8 +7017,8 @@
     "geoid": "18140",
     "key": "crime-rate-violent",
     "date": "2022-05-15",
-    "value": 90.86677,
-    "value_": 90.86677
+    "value": 62.20158,
+    "value_": 62.20158
   },
   {
     "geoid": "18140",
@@ -7556,8 +7045,8 @@
     "geoid": "19100",
     "key": "crime-rate-violent",
     "date": "2022-05-15",
-    "value": 97.79238,
-    "value_": 97.79238
+    "value": 67.92651,
+    "value_": 67.92651
   },
   {
     "geoid": "19100",
@@ -7584,8 +7073,8 @@
     "geoid": "19740",
     "key": "crime-rate-violent",
     "date": "2022-05-15",
-    "value": 154.47573,
-    "value_": 154.47573
+    "value": 103.90292,
+    "value_": 103.90292
   },
   {
     "geoid": "19740",
@@ -7612,8 +7101,8 @@
     "geoid": "19820",
     "key": "crime-rate-violent",
     "date": "2022-05-15",
-    "value": 136.17808,
-    "value_": 136.17808
+    "value": 94.62532,
+    "value_": 94.62532
   },
   {
     "geoid": "19820",
@@ -7640,8 +7129,8 @@
     "geoid": "23420",
     "key": "crime-rate-violent",
     "date": "2022-05-15",
-    "value": 183.53608,
-    "value_": 183.53608
+    "value": 122.27277,
+    "value_": 122.27277
   },
   {
     "geoid": "23420",
@@ -7668,8 +7157,8 @@
     "geoid": "24017",
     "key": "crime-rate-violent",
     "date": "2022-05-15",
-    "value": 88.34542,
-    "value_": 88.34542
+    "value": 61.43225,
+    "value_": 61.43225
   },
   {
     "geoid": "24017",
@@ -7696,8 +7185,8 @@
     "geoid": "24021",
     "key": "crime-rate-violent",
     "date": "2022-05-15",
-    "value": 56.37475,
-    "value_": 56.37475
+    "value": 35.9389,
+    "value_": 35.9389
   },
   {
     "geoid": "24021",
@@ -7724,8 +7213,8 @@
     "geoid": "24031",
     "key": "crime-rate-violent",
     "date": "2022-05-15",
-    "value": 43.35121,
-    "value_": 43.35121
+    "value": 27.34461,
+    "value_": 27.34461
   },
   {
     "geoid": "24031",
@@ -7752,8 +7241,8 @@
     "geoid": "24033",
     "key": "crime-rate-violent",
     "date": "2022-05-15",
-    "value": 90.78366,
-    "value_": 90.78366
+    "value": 56.9519,
+    "value_": 56.9519
   },
   {
     "geoid": "24033",
@@ -7780,8 +7269,8 @@
     "geoid": "24340",
     "key": "crime-rate-violent",
     "date": "2022-05-15",
-    "value": 105.32214,
-    "value_": 105.32214
+    "value": 71.05422,
+    "value_": 71.05422
   },
   {
     "geoid": "24340",
@@ -7808,8 +7297,8 @@
     "geoid": "25540",
     "key": "crime-rate-violent",
     "date": "2022-05-15",
-    "value": 31.24399,
-    "value_": 31.24399
+    "value": 19.56146,
+    "value_": 19.56146
   },
   {
     "geoid": "25540",
@@ -7836,8 +7325,8 @@
     "geoid": "26420",
     "key": "crime-rate-violent",
     "date": "2022-05-15",
-    "value": 157.76708,
-    "value_": 157.76708
+    "value": 106.94343,
+    "value_": 106.94343
   },
   {
     "geoid": "26420",
@@ -7864,8 +7353,8 @@
     "geoid": "26900",
     "key": "crime-rate-violent",
     "date": "2022-05-15",
-    "value": 143.39326,
-    "value_": 143.39326
+    "value": 99.74531,
+    "value_": 99.74531
   },
   {
     "geoid": "26900",
@@ -7892,8 +7381,8 @@
     "geoid": "27260",
     "key": "crime-rate-violent",
     "date": "2022-05-15",
-    "value": 135.99692,
-    "value_": 135.99692
+    "value": 93.13729,
+    "value_": 93.13729
   },
   {
     "geoid": "27260",
@@ -7920,8 +7409,8 @@
     "geoid": "28140",
     "key": "crime-rate-violent",
     "date": "2022-05-15",
-    "value": 147.77136,
-    "value_": 147.77136
+    "value": 100.5632,
+    "value_": 100.5632
   },
   {
     "geoid": "28140",
@@ -7948,8 +7437,8 @@
     "geoid": "29820",
     "key": "crime-rate-violent",
     "date": "2022-05-15",
-    "value": 119.21557,
-    "value_": 119.21557
+    "value": 81.57992,
+    "value_": 81.57992
   },
   {
     "geoid": "29820",
@@ -7976,8 +7465,8 @@
     "geoid": "31080",
     "key": "crime-rate-violent",
     "date": "2022-05-15",
-    "value": 141.56487,
-    "value_": 141.56487
+    "value": 95.10572,
+    "value_": 95.10572
   },
   {
     "geoid": "31080",
@@ -8004,8 +7493,8 @@
     "geoid": "31140",
     "key": "crime-rate-violent",
     "date": "2022-05-15",
-    "value": 116.73877,
-    "value_": 116.73877
+    "value": 90.02544,
+    "value_": 90.02544
   },
   {
     "geoid": "31140",
@@ -8032,8 +7521,8 @@
     "geoid": "32820",
     "key": "crime-rate-violent",
     "date": "2022-05-15",
-    "value": 370.1173,
-    "value_": 370.1173
+    "value": 262.62449,
+    "value_": 262.62449
   },
   {
     "geoid": "32820",
@@ -8060,8 +7549,8 @@
     "geoid": "33100",
     "key": "crime-rate-violent",
     "date": "2022-05-15",
-    "value": 50.27478,
-    "value_": 50.27478
+    "value": 33.584,
+    "value_": 33.584
   },
   {
     "geoid": "33100",
@@ -8088,8 +7577,8 @@
     "geoid": "33340",
     "key": "crime-rate-violent",
     "date": "2022-05-15",
-    "value": 165.05955,
-    "value_": 165.05955
+    "value": 112.16503,
+    "value_": 112.16503
   },
   {
     "geoid": "33340",
@@ -8116,8 +7605,8 @@
     "geoid": "33460",
     "key": "crime-rate-violent",
     "date": "2022-05-15",
-    "value": 77.12844,
-    "value_": 77.12844
+    "value": 52.95152,
+    "value_": 52.95152
   },
   {
     "geoid": "33460",
@@ -8144,8 +7633,8 @@
     "geoid": "34980",
     "key": "crime-rate-violent",
     "date": "2022-05-15",
-    "value": 155.45765,
-    "value_": 155.45765
+    "value": 106.17922,
+    "value_": 106.17922
   },
   {
     "geoid": "34980",
@@ -8172,8 +7661,8 @@
     "geoid": "35620",
     "key": "crime-rate-violent",
     "date": "2022-05-15",
-    "value": 102.48367,
-    "value_": 102.48367
+    "value": 69.73596,
+    "value_": 69.73596
   },
   {
     "geoid": "35620",
@@ -8200,8 +7689,8 @@
     "geoid": "36420",
     "key": "crime-rate-violent",
     "date": "2022-05-15",
-    "value": 116.05395,
-    "value_": 116.05395
+    "value": 78.71903,
+    "value_": 78.71903
   },
   {
     "geoid": "36420",
@@ -8228,8 +7717,8 @@
     "geoid": "36540",
     "key": "crime-rate-violent",
     "date": "2022-05-15",
-    "value": 91.88816,
-    "value_": 91.88816
+    "value": 66.51837,
+    "value_": 66.51837
   },
   {
     "geoid": "36540",
@@ -8256,8 +7745,8 @@
     "geoid": "37980",
     "key": "crime-rate-violent",
     "date": "2022-05-15",
-    "value": 110.34454,
-    "value_": 110.34454
+    "value": 75.49269,
+    "value_": 75.49269
   },
   {
     "geoid": "37980",
@@ -8284,8 +7773,8 @@
     "geoid": "38060",
     "key": "crime-rate-violent",
     "date": "2022-05-15",
-    "value": 131.84776,
-    "value_": 131.84776
+    "value": 89.71314,
+    "value_": 89.71314
   },
   {
     "geoid": "38060",
@@ -8312,8 +7801,8 @@
     "geoid": "38300",
     "key": "crime-rate-violent",
     "date": "2022-05-15",
-    "value": 59.56239,
-    "value_": 59.56239
+    "value": 43.16701,
+    "value_": 43.16701
   },
   {
     "geoid": "38300",
@@ -8340,8 +7829,8 @@
     "geoid": "38900",
     "key": "crime-rate-violent",
     "date": "2022-05-15",
-    "value": 108.16966,
-    "value_": 108.16966
+    "value": 70.65954,
+    "value_": 70.65954
   },
   {
     "geoid": "38900",
@@ -8368,8 +7857,8 @@
     "geoid": "39300",
     "key": "crime-rate-violent",
     "date": "2022-05-15",
-    "value": 70.09521,
-    "value_": 70.09521
+    "value": 47.505,
+    "value_": 47.505
   },
   {
     "geoid": "39300",
@@ -8396,8 +7885,8 @@
     "geoid": "39580",
     "key": "crime-rate-violent",
     "date": "2022-05-15",
-    "value": 65.85346,
-    "value_": 65.85346
+    "value": 43.22689,
+    "value_": 43.22689
   },
   {
     "geoid": "39580",
@@ -8424,8 +7913,8 @@
     "geoid": "40060",
     "key": "crime-rate-violent",
     "date": "2022-05-15",
-    "value": 69.54977,
-    "value_": 69.54977
+    "value": 48.75962,
+    "value_": 48.75962
   },
   {
     "geoid": "40060",
@@ -8452,8 +7941,8 @@
     "geoid": "40140",
     "key": "crime-rate-violent",
     "date": "2022-05-15",
-    "value": 117.62354,
-    "value_": 117.62354
+    "value": 78.08282,
+    "value_": 78.08282
   },
   {
     "geoid": "40140",
@@ -8480,8 +7969,8 @@
     "geoid": "40380",
     "key": "crime-rate-violent",
     "date": "2022-05-15",
-    "value": 58.59666,
-    "value_": 58.59666
+    "value": 38.84284,
+    "value_": 38.84284
   },
   {
     "geoid": "40380",
@@ -8508,8 +7997,8 @@
     "geoid": "40900",
     "key": "crime-rate-violent",
     "date": "2022-05-15",
-    "value": 115.85327,
-    "value_": 115.85327
+    "value": 76.74094,
+    "value_": 76.74094
   },
   {
     "geoid": "40900",
@@ -8536,8 +8025,8 @@
     "geoid": "41180",
     "key": "crime-rate-violent",
     "date": "2022-05-15",
-    "value": 73.80791,
-    "value_": 73.80791
+    "value": 50.61992,
+    "value_": 50.61992
   },
   {
     "geoid": "41180",
@@ -8564,8 +8053,8 @@
     "geoid": "41620",
     "key": "crime-rate-violent",
     "date": "2022-05-15",
-    "value": 95.2344,
-    "value_": 95.2344
+    "value": 63.72709,
+    "value_": 63.72709
   },
   {
     "geoid": "41620",
@@ -8592,8 +8081,8 @@
     "geoid": "41700",
     "key": "crime-rate-violent",
     "date": "2022-05-15",
-    "value": 155.88711,
-    "value_": 155.88711
+    "value": 106.1187,
+    "value_": 106.1187
   },
   {
     "geoid": "41700",
@@ -8620,8 +8109,8 @@
     "geoid": "41740",
     "key": "crime-rate-violent",
     "date": "2022-05-15",
-    "value": 102.66646,
-    "value_": 102.66646
+    "value": 67.71228,
+    "value_": 67.71228
   },
   {
     "geoid": "41740",
@@ -8648,8 +8137,8 @@
     "geoid": "41860",
     "key": "crime-rate-violent",
     "date": "2022-05-15",
-    "value": 127.61349,
-    "value_": 127.61349
+    "value": 85.10518,
+    "value_": 85.10518
   },
   {
     "geoid": "41860",
@@ -8676,8 +8165,8 @@
     "geoid": "41940",
     "key": "crime-rate-violent",
     "date": "2022-05-15",
-    "value": 97.88123,
-    "value_": 97.88123
+    "value": 63.73783,
+    "value_": 63.73783
   },
   {
     "geoid": "41940",
@@ -8704,8 +8193,8 @@
     "geoid": "42660",
     "key": "crime-rate-violent",
     "date": "2022-05-15",
-    "value": 119.16052,
-    "value_": 119.16052
+    "value": 77.43814,
+    "value_": 77.43814
   },
   {
     "geoid": "42660",
@@ -8732,8 +8221,8 @@
     "geoid": "45300",
     "key": "crime-rate-violent",
     "date": "2022-05-15",
-    "value": 55.68119,
-    "value_": 55.68119
+    "value": 36.77811,
+    "value_": 36.77811
   },
   {
     "geoid": "45300",
@@ -8760,8 +8249,8 @@
     "geoid": "46060",
     "key": "crime-rate-violent",
     "date": "2022-05-15",
-    "value": 69.31812,
-    "value_": 69.31812
+    "value": 60.13252,
+    "value_": 60.13252
   },
   {
     "geoid": "46060",
@@ -8788,8 +8277,8 @@
     "geoid": "46140",
     "key": "crime-rate-violent",
     "date": "2022-05-15",
-    "value": 134.38103,
-    "value_": 134.38103
+    "value": 93.16698,
+    "value_": 93.16698
   },
   {
     "geoid": "46140",
@@ -8816,8 +8305,8 @@
     "geoid": "47260",
     "key": "crime-rate-violent",
     "date": "2022-05-15",
-    "value": 97.75869,
-    "value_": 97.75869
+    "value": 67.86784,
+    "value_": 67.86784
   },
   {
     "geoid": "47260",
@@ -8844,8 +8333,8 @@
     "geoid": "47900",
     "key": "crime-rate-violent",
     "date": "2022-05-15",
-    "value": 68.32586,
-    "value_": 68.32586
+    "value": 45.56659,
+    "value_": 45.56659
   },
   {
     "geoid": "47900",
@@ -8872,8 +8361,8 @@
     "geoid": "51013",
     "key": "crime-rate-violent",
     "date": "2022-05-15",
-    "value": 67.95504,
-    "value_": 67.95504
+    "value": 40.77302,
+    "value_": 40.77302
   },
   {
     "geoid": "51013",
@@ -8928,8 +8417,8 @@
     "geoid": "51047",
     "key": "crime-rate-violent",
     "date": "2022-05-15",
-    "value": 53.03681,
-    "value_": 53.03681
+    "value": 43.89254,
+    "value_": 43.89254
   },
   {
     "geoid": "51047",
@@ -8956,8 +8445,8 @@
     "geoid": "51059",
     "key": "crime-rate-violent",
     "date": "2022-05-15",
-    "value": 29.47593,
-    "value_": 29.47593
+    "value": 19.50864,
+    "value_": 19.50864
   },
   {
     "geoid": "51059",
@@ -8984,8 +8473,8 @@
     "geoid": "51061",
     "key": "crime-rate-violent",
     "date": "2022-05-15",
-    "value": 25.56375,
-    "value_": 25.56375
+    "value": 17.49099,
+    "value_": 17.49099
   },
   {
     "geoid": "51061",
@@ -9012,8 +8501,8 @@
     "geoid": "51107",
     "key": "crime-rate-violent",
     "date": "2022-05-15",
-    "value": 25.10688,
-    "value_": 25.10688
+    "value": 16.35402,
+    "value_": 16.35402
   },
   {
     "geoid": "51107",
@@ -9040,8 +8529,8 @@
     "geoid": "51153",
     "key": "crime-rate-violent",
     "date": "2022-05-15",
-    "value": 70.5083,
-    "value_": 70.5083
+    "value": 51.82818,
+    "value_": 51.82818
   },
   {
     "geoid": "51153",
@@ -9096,8 +8585,8 @@
     "geoid": "51177",
     "key": "crime-rate-violent",
     "date": "2022-05-15",
-    "value": 43.40189,
-    "value_": 43.40189
+    "value": 26.44803,
+    "value_": 26.44803
   },
   {
     "geoid": "51177",
@@ -9124,8 +8613,8 @@
     "geoid": "51179",
     "key": "crime-rate-violent",
     "date": "2022-05-15",
-    "value": 47.33383,
-    "value_": 47.33383
+    "value": 33.98326,
+    "value_": 33.98326
   },
   {
     "geoid": "51179",
@@ -9152,8 +8641,8 @@
     "geoid": "51187",
     "key": "crime-rate-violent",
     "date": "2022-05-15",
-    "value": 24.26537,
-    "value_": 24.26537
+    "value": 21.83883,
+    "value_": 21.83883
   },
   {
     "geoid": "51187",
@@ -9180,8 +8669,8 @@
     "geoid": "51510",
     "key": "crime-rate-violent",
     "date": "2022-05-15",
-    "value": 45.04594,
-    "value_": 45.04594
+    "value": 33.12201,
+    "value_": 33.12201
   },
   {
     "geoid": "51510",
@@ -9208,8 +8697,8 @@
     "geoid": "51630",
     "key": "crime-rate-violent",
     "date": "2022-05-15",
-    "value": 107.47469,
-    "value_": 107.47469
+    "value": 72.80544,
+    "value_": 72.80544
   },
   {
     "geoid": "51630",
@@ -9236,8 +8725,8 @@
     "geoid": "54037",
     "key": "crime-rate-violent",
     "date": "2022-05-15",
-    "value": 24.27311,
-    "value_": 24.27311
+    "value": 20.80552,
+    "value_": 20.80552
   },
   {
     "geoid": "54037",
@@ -9264,8 +8753,8 @@
     "geoid": "99997",
     "key": "crime-rate-violent",
     "date": "2022-05-15",
-    "value": 108.75055,
-    "value_": 108.75055
+    "value": 73.94429,
+    "value_": 73.94429
   },
   {
     "geoid": "99997",
@@ -9292,8 +8781,8 @@
     "geoid": "99999",
     "key": "crime-rate-violent",
     "date": "2022-05-15",
-    "value": 99.84181,
-    "value_": 99.84181
+    "value": 67.73064,
+    "value_": 67.73064
   },
   {
     "geoid": "99999",
@@ -9320,8 +8809,8 @@
     "geoid": "11001",
     "key": "crime-rate-violent",
     "date": "2022-06-15",
-    "value": 260.49303,
-    "value_": 260.49303
+    "value": 197.677,
+    "value_": 197.677
   },
   {
     "geoid": "11001",
@@ -9348,8 +8837,8 @@
     "geoid": "12060",
     "key": "crime-rate-violent",
     "date": "2022-06-15",
-    "value": 145.39499,
-    "value_": 145.39499
+    "value": 112.77539,
+    "value_": 112.77539
   },
   {
     "geoid": "12060",
@@ -9376,8 +8865,8 @@
     "geoid": "12420",
     "key": "crime-rate-violent",
     "date": "2022-06-15",
-    "value": 128.00251,
-    "value_": 128.00251
+    "value": 97.05549,
+    "value_": 97.05549
   },
   {
     "geoid": "12420",
@@ -9404,8 +8893,8 @@
     "geoid": "12580",
     "key": "crime-rate-violent",
     "date": "2022-06-15",
-    "value": 205.96831,
-    "value_": 205.96831
+    "value": 155.17482,
+    "value_": 155.17482
   },
   {
     "geoid": "12580",
@@ -9432,8 +8921,8 @@
     "geoid": "13820",
     "key": "crime-rate-violent",
     "date": "2022-06-15",
-    "value": 197.11277,
-    "value_": 197.11277
+    "value": 156.08796,
+    "value_": 156.08796
   },
   {
     "geoid": "13820",
@@ -9460,8 +8949,8 @@
     "geoid": "14460",
     "key": "crime-rate-violent",
     "date": "2022-06-15",
-    "value": 93.48718,
-    "value_": 93.48718
+    "value": 70.26895,
+    "value_": 70.26895
   },
   {
     "geoid": "14460",
@@ -9488,8 +8977,8 @@
     "geoid": "15380",
     "key": "crime-rate-violent",
     "date": "2022-06-15",
-    "value": 114.78238,
-    "value_": 114.78238
+    "value": 88.38243,
+    "value_": 88.38243
   },
   {
     "geoid": "15380",
@@ -9516,8 +9005,8 @@
     "geoid": "16740",
     "key": "crime-rate-violent",
     "date": "2022-06-15",
-    "value": 157.32715,
-    "value_": 157.32715
+    "value": 120.27891,
+    "value_": 120.27891
   },
   {
     "geoid": "16740",
@@ -9544,8 +9033,8 @@
     "geoid": "16980",
     "key": "crime-rate-violent",
     "date": "2022-06-15",
-    "value": 100.29855,
-    "value_": 100.29855
+    "value": 77.6686,
+    "value_": 77.6686
   },
   {
     "geoid": "16980",
@@ -9572,8 +9061,8 @@
     "geoid": "17140",
     "key": "crime-rate-violent",
     "date": "2022-06-15",
-    "value": 79.51809,
-    "value_": 79.51809
+    "value": 62.2151,
+    "value_": 62.2151
   },
   {
     "geoid": "17140",
@@ -9600,8 +9089,8 @@
     "geoid": "17410",
     "key": "crime-rate-violent",
     "date": "2022-06-15",
-    "value": 149.22558,
-    "value_": 149.22558
+    "value": 112.44168,
+    "value_": 112.44168
   },
   {
     "geoid": "17410",
@@ -9628,8 +9117,8 @@
     "geoid": "18140",
     "key": "crime-rate-violent",
     "date": "2022-06-15",
-    "value": 121.50282,
-    "value_": 121.50282
+    "value": 92.47873,
+    "value_": 92.47873
   },
   {
     "geoid": "18140",
@@ -9656,8 +9145,8 @@
     "geoid": "19100",
     "key": "crime-rate-violent",
     "date": "2022-06-15",
-    "value": 128.77285,
-    "value_": 128.77285
+    "value": 98.90697,
+    "value_": 98.90697
   },
   {
     "geoid": "19100",
@@ -9684,8 +9173,8 @@
     "geoid": "19740",
     "key": "crime-rate-violent",
     "date": "2022-06-15",
-    "value": 211.40377,
-    "value_": 211.40377
+    "value": 160.83095,
+    "value_": 160.83095
   },
   {
     "geoid": "19740",
@@ -9712,8 +9201,8 @@
     "geoid": "19820",
     "key": "crime-rate-violent",
     "date": "2022-06-15",
-    "value": 189.63384,
-    "value_": 189.63384
+    "value": 148.08109,
+    "value_": 148.08109
   },
   {
     "geoid": "19820",
@@ -9740,8 +9229,8 @@
     "geoid": "23420",
     "key": "crime-rate-violent",
     "date": "2022-06-15",
-    "value": 241.83776,
-    "value_": 241.83776
+    "value": 180.57445,
+    "value_": 180.57445
   },
   {
     "geoid": "23420",
@@ -9768,8 +9257,8 @@
     "geoid": "24017",
     "key": "crime-rate-violent",
     "date": "2022-06-15",
-    "value": 108.23777,
-    "value_": 108.23777
+    "value": 81.3246,
+    "value_": 81.3246
   },
   {
     "geoid": "24017",
@@ -9796,8 +9285,8 @@
     "geoid": "24021",
     "key": "crime-rate-violent",
     "date": "2022-06-15",
-    "value": 71.17312,
-    "value_": 71.17312
+    "value": 50.73728,
+    "value_": 50.73728
   },
   {
     "geoid": "24021",
@@ -9824,8 +9313,8 @@
     "geoid": "24031",
     "key": "crime-rate-violent",
     "date": "2022-06-15",
-    "value": 60.59642,
-    "value_": 60.59642
+    "value": 44.58982,
+    "value_": 44.58982
   },
   {
     "geoid": "24031",
@@ -9852,8 +9341,8 @@
     "geoid": "24033",
     "key": "crime-rate-violent",
     "date": "2022-06-15",
-    "value": 125.35781,
-    "value_": 125.35781
+    "value": 91.52605,
+    "value_": 91.52605
   },
   {
     "geoid": "24033",
@@ -9880,8 +9369,8 @@
     "geoid": "24340",
     "key": "crime-rate-violent",
     "date": "2022-06-15",
-    "value": 144.71676,
-    "value_": 144.71676
+    "value": 110.44884,
+    "value_": 110.44884
   },
   {
     "geoid": "24340",
@@ -9908,8 +9397,8 @@
     "geoid": "25540",
     "key": "crime-rate-violent",
     "date": "2022-06-15",
-    "value": 41.9077,
-    "value_": 41.9077
+    "value": 30.22517,
+    "value_": 30.22517
   },
   {
     "geoid": "25540",
@@ -9936,8 +9425,8 @@
     "geoid": "26420",
     "key": "crime-rate-violent",
     "date": "2022-06-15",
-    "value": 207.0068,
-    "value_": 207.0068
+    "value": 156.12405,
+    "value_": 156.12405
   },
   {
     "geoid": "26420",
@@ -9964,8 +9453,8 @@
     "geoid": "26900",
     "key": "crime-rate-violent",
     "date": "2022-06-15",
-    "value": 199.17251,
-    "value_": 199.17251
+    "value": 155.24184,
+    "value_": 155.24184
   },
   {
     "geoid": "26900",
@@ -9992,8 +9481,8 @@
     "geoid": "27260",
     "key": "crime-rate-violent",
     "date": "2022-06-15",
-    "value": 180.35515,
-    "value_": 180.35515
+    "value": 137.49551,
+    "value_": 137.49551
   },
   {
     "geoid": "27260",
@@ -10020,8 +9509,8 @@
     "geoid": "28140",
     "key": "crime-rate-violent",
     "date": "2022-06-15",
-    "value": 187.93649,
-    "value_": 187.93649
+    "value": 143.92111,
+    "value_": 143.92111
   },
   {
     "geoid": "28140",
@@ -10048,8 +9537,8 @@
     "geoid": "29820",
     "key": "crime-rate-violent",
     "date": "2022-06-15",
-    "value": 157.36974,
-    "value_": 157.36974
+    "value": 119.73409,
+    "value_": 119.73409
   },
   {
     "geoid": "29820",
@@ -10076,8 +9565,8 @@
     "geoid": "31080",
     "key": "crime-rate-violent",
     "date": "2022-06-15",
-    "value": 194.62624,
-    "value_": 194.62624
+    "value": 146.69704,
+    "value_": 146.69704
   },
   {
     "geoid": "31080",
@@ -10104,8 +9593,8 @@
     "geoid": "31140",
     "key": "crime-rate-violent",
     "date": "2022-06-15",
-    "value": 159.33113,
-    "value_": 159.33113
+    "value": 132.6377,
+    "value_": 132.6377
   },
   {
     "geoid": "31140",
@@ -10132,8 +9621,8 @@
     "geoid": "32820",
     "key": "crime-rate-violent",
     "date": "2022-06-15",
-    "value": 496.35537,
-    "value_": 496.35537
+    "value": 388.6383,
+    "value_": 388.6383
   },
   {
     "geoid": "32820",
@@ -10160,8 +9649,8 @@
     "geoid": "33100",
     "key": "crime-rate-violent",
     "date": "2022-06-15",
-    "value": 67.21299,
-    "value_": 67.21299
+    "value": 50.52222,
+    "value_": 50.52222
   },
   {
     "geoid": "33100",
@@ -10188,8 +9677,8 @@
     "geoid": "33340",
     "key": "crime-rate-violent",
     "date": "2022-06-15",
-    "value": 224.76586,
-    "value_": 224.76586
+    "value": 171.568,
+    "value_": 171.568
   },
   {
     "geoid": "33340",
@@ -10216,8 +9705,8 @@
     "geoid": "33460",
     "key": "crime-rate-violent",
     "date": "2022-06-15",
-    "value": 107.3105,
-    "value_": 107.3105
+    "value": 83.13358,
+    "value_": 83.13358
   },
   {
     "geoid": "33460",
@@ -10244,8 +9733,8 @@
     "geoid": "34980",
     "key": "crime-rate-violent",
     "date": "2022-06-15",
-    "value": 210.40437,
-    "value_": 210.40437
+    "value": 161.08326,
+    "value_": 161.08326
   },
   {
     "geoid": "34980",
@@ -10272,8 +9761,8 @@
     "geoid": "35620",
     "key": "crime-rate-violent",
     "date": "2022-06-15",
-    "value": 141.03201,
-    "value_": 141.03201
+    "value": 108.212,
+    "value_": 108.212
   },
   {
     "geoid": "35620",
@@ -10300,8 +9789,8 @@
     "geoid": "36420",
     "key": "crime-rate-violent",
     "date": "2022-06-15",
-    "value": 153.73202,
-    "value_": 153.73202
+    "value": 116.3971,
+    "value_": 116.3971
   },
   {
     "geoid": "36420",
@@ -10328,8 +9817,8 @@
     "geoid": "36540",
     "key": "crime-rate-violent",
     "date": "2022-06-15",
-    "value": 124.84125,
-    "value_": 124.84125
+    "value": 99.52307,
+    "value_": 99.52307
   },
   {
     "geoid": "36540",
@@ -10356,8 +9845,8 @@
     "geoid": "37980",
     "key": "crime-rate-violent",
     "date": "2022-06-15",
-    "value": 149.97782,
-    "value_": 149.97782
+    "value": 115.20741,
+    "value_": 115.20741
   },
   {
     "geoid": "37980",
@@ -10384,8 +9873,8 @@
     "geoid": "38060",
     "key": "crime-rate-violent",
     "date": "2022-06-15",
-    "value": 174.38713,
-    "value_": 174.38713
+    "value": 132.25251,
+    "value_": 132.25251
   },
   {
     "geoid": "38060",
@@ -10412,8 +9901,8 @@
     "geoid": "38300",
     "key": "crime-rate-violent",
     "date": "2022-06-15",
-    "value": 78.37699,
-    "value_": 78.37699
+    "value": 61.97355,
+    "value_": 61.97355
   },
   {
     "geoid": "38300",
@@ -10440,8 +9929,8 @@
     "geoid": "38900",
     "key": "crime-rate-violent",
     "date": "2022-06-15",
-    "value": 141.80359,
-    "value_": 141.80359
+    "value": 104.29348,
+    "value_": 104.29348
   },
   {
     "geoid": "38900",
@@ -10468,8 +9957,8 @@
     "geoid": "39300",
     "key": "crime-rate-violent",
     "date": "2022-06-15",
-    "value": 91.61254,
-    "value_": 91.61254
+    "value": 69.02233,
+    "value_": 69.02233
   },
   {
     "geoid": "39300",
@@ -10496,8 +9985,8 @@
     "geoid": "39580",
     "key": "crime-rate-violent",
     "date": "2022-06-15",
-    "value": 88.41249,
-    "value_": 88.41249
+    "value": 65.78592,
+    "value_": 65.78592
   },
   {
     "geoid": "39580",
@@ -10524,8 +10013,8 @@
     "geoid": "40060",
     "key": "crime-rate-violent",
     "date": "2022-06-15",
-    "value": 91.83561,
-    "value_": 91.83561
+    "value": 71.04546,
+    "value_": 71.04546
   },
   {
     "geoid": "40060",
@@ -10552,8 +10041,8 @@
     "geoid": "40140",
     "key": "crime-rate-violent",
     "date": "2022-06-15",
-    "value": 157.07926,
-    "value_": 157.07926
+    "value": 117.53855,
+    "value_": 117.53855
   },
   {
     "geoid": "40140",
@@ -10580,8 +10069,8 @@
     "geoid": "40380",
     "key": "crime-rate-violent",
     "date": "2022-06-15",
-    "value": 83.28893,
-    "value_": 83.28893
+    "value": 63.53512,
+    "value_": 63.53512
   },
   {
     "geoid": "40380",
@@ -10608,8 +10097,8 @@
     "geoid": "40900",
     "key": "crime-rate-violent",
     "date": "2022-06-15",
-    "value": 153.93524,
-    "value_": 153.93524
+    "value": 114.82291,
+    "value_": 114.82291
   },
   {
     "geoid": "40900",
@@ -10636,8 +10125,8 @@
     "geoid": "41180",
     "key": "crime-rate-violent",
     "date": "2022-06-15",
-    "value": 93.85632,
-    "value_": 93.85632
+    "value": 71.0133,
+    "value_": 71.0133
   },
   {
     "geoid": "41180",
@@ -10664,8 +10153,8 @@
     "geoid": "41620",
     "key": "crime-rate-violent",
     "date": "2022-06-15",
-    "value": 125.95007,
-    "value_": 125.95007
+    "value": 94.44276,
+    "value_": 94.44276
   },
   {
     "geoid": "41620",
@@ -10692,8 +10181,8 @@
     "geoid": "41700",
     "key": "crime-rate-violent",
     "date": "2022-06-15",
-    "value": 209.8125,
-    "value_": 209.8125
+    "value": 160.04409,
+    "value_": 160.04409
   },
   {
     "geoid": "41700",
@@ -10720,8 +10209,8 @@
     "geoid": "41740",
     "key": "crime-rate-violent",
     "date": "2022-06-15",
-    "value": 134.20452,
-    "value_": 134.20452
+    "value": 99.25035,
+    "value_": 99.25035
   },
   {
     "geoid": "41740",
@@ -10748,8 +10237,8 @@
     "geoid": "41860",
     "key": "crime-rate-violent",
     "date": "2022-06-15",
-    "value": 175.39105,
-    "value_": 175.39105
+    "value": 132.88275,
+    "value_": 132.88275
   },
   {
     "geoid": "41860",
@@ -10776,8 +10265,8 @@
     "geoid": "41940",
     "key": "crime-rate-violent",
     "date": "2022-06-15",
-    "value": 134.5344,
-    "value_": 134.5344
+    "value": 100.391,
+    "value_": 100.391
   },
   {
     "geoid": "41940",
@@ -10804,8 +10293,8 @@
     "geoid": "42660",
     "key": "crime-rate-violent",
     "date": "2022-06-15",
-    "value": 157.4185,
-    "value_": 157.4185
+    "value": 115.69611,
+    "value_": 115.69611
   },
   {
     "geoid": "42660",
@@ -10832,8 +10321,8 @@
     "geoid": "45300",
     "key": "crime-rate-violent",
     "date": "2022-06-15",
-    "value": 72.89294,
-    "value_": 72.89294
+    "value": 53.98986,
+    "value_": 53.98986
   },
   {
     "geoid": "45300",
@@ -10860,8 +10349,8 @@
     "geoid": "46060",
     "key": "crime-rate-violent",
     "date": "2022-06-15",
-    "value": 110.13247,
-    "value_": 110.13247
+    "value": 100.94687,
+    "value_": 100.94687
   },
   {
     "geoid": "46060",
@@ -10888,8 +10377,8 @@
     "geoid": "46140",
     "key": "crime-rate-violent",
     "date": "2022-06-15",
-    "value": 184.39903,
-    "value_": 184.39903
+    "value": 143.18498,
+    "value_": 143.18498
   },
   {
     "geoid": "46140",
@@ -10916,8 +10405,8 @@
     "geoid": "47260",
     "key": "crime-rate-violent",
     "date": "2022-06-15",
-    "value": 133.39349,
-    "value_": 133.39349
+    "value": 103.50264,
+    "value_": 103.50264
   },
   {
     "geoid": "47260",
@@ -10944,8 +10433,8 @@
     "geoid": "47900",
     "key": "crime-rate-violent",
     "date": "2022-06-15",
-    "value": 91.51581,
-    "value_": 91.51581
+    "value": 68.75698,
+    "value_": 68.75698
   },
   {
     "geoid": "47900",
@@ -10972,8 +10461,8 @@
     "geoid": "51013",
     "key": "crime-rate-violent",
     "date": "2022-06-15",
-    "value": 84.17656,
-    "value_": 84.17656
+    "value": 56.99455,
+    "value_": 56.99455
   },
   {
     "geoid": "51013",
@@ -11021,8 +10510,8 @@
     "geoid": "51047",
     "key": "crime-rate-violent",
     "date": "2022-06-15",
-    "value": 54.86567,
-    "value_": 54.86567
+    "value": 45.72139,
+    "value_": 45.72139
   },
   {
     "geoid": "51047",
@@ -11049,8 +10538,8 @@
     "geoid": "51059",
     "key": "crime-rate-violent",
     "date": "2022-06-15",
-    "value": 39.78399,
-    "value_": 39.78399
+    "value": 29.8167,
+    "value_": 29.8167
   },
   {
     "geoid": "51059",
@@ -11077,8 +10566,8 @@
     "geoid": "51061",
     "key": "crime-rate-violent",
     "date": "2022-06-15",
-    "value": 37.35226,
-    "value_": 37.35226
+    "value": 29.3482,
+    "value_": 29.3482
   },
   {
     "geoid": "51061",
@@ -11105,8 +10594,8 @@
     "geoid": "51107",
     "key": "crime-rate-violent",
     "date": "2022-06-15",
-    "value": 36.16312,
-    "value_": 36.16312
+    "value": 27.41026,
+    "value_": 27.41026
   },
   {
     "geoid": "51107",
@@ -11133,8 +10622,8 @@
     "geoid": "51153",
     "key": "crime-rate-violent",
     "date": "2022-06-15",
-    "value": 94.40586,
-    "value_": 94.40586
+    "value": 75.708,
+    "value_": 75.708
   },
   {
     "geoid": "51153",
@@ -11182,8 +10671,8 @@
     "geoid": "51177",
     "key": "crime-rate-violent",
     "date": "2022-06-15",
-    "value": 56.28683,
-    "value_": 56.28683
+    "value": 39.33297,
+    "value_": 39.33297
   },
   {
     "geoid": "51177",
@@ -11210,8 +10699,8 @@
     "geoid": "51179",
     "key": "crime-rate-violent",
     "date": "2022-06-15",
-    "value": 66.75284,
-    "value_": 66.75284
+    "value": 53.40227,
+    "value_": 53.40227
   },
   {
     "geoid": "51179",
@@ -11238,8 +10727,8 @@
     "geoid": "51187",
     "key": "crime-rate-violent",
     "date": "2022-06-15",
-    "value": 38.82459,
-    "value_": 38.82459
+    "value": 36.39805,
+    "value_": 36.39805
   },
   {
     "geoid": "51187",
@@ -11266,8 +10755,8 @@
     "geoid": "51510",
     "key": "crime-rate-violent",
     "date": "2022-06-15",
-    "value": 62.26939,
-    "value_": 62.26939
+    "value": 50.34546,
+    "value_": 50.34546
   },
   {
     "geoid": "51510",
@@ -11294,8 +10783,8 @@
     "geoid": "51630",
     "key": "crime-rate-violent",
     "date": "2022-06-15",
-    "value": 135.2101,
-    "value_": 135.2101
+    "value": 100.54084,
+    "value_": 100.54084
   },
   {
     "geoid": "51630",
@@ -11322,8 +10811,8 @@
     "geoid": "54037",
     "key": "crime-rate-violent",
     "date": "2022-06-15",
-    "value": 38.14345,
-    "value_": 38.14345
+    "value": 34.67587,
+    "value_": 34.67587
   },
   {
     "geoid": "54037",
@@ -11350,8 +10839,8 @@
     "geoid": "99997",
     "key": "crime-rate-violent",
     "date": "2022-06-15",
-    "value": 146.82756,
-    "value_": 146.82756
+    "value": 111.95695,
+    "value_": 111.95695
   },
   {
     "geoid": "99997",
@@ -11378,8 +10867,8 @@
     "geoid": "99999",
     "key": "crime-rate-violent",
     "date": "2022-06-15",
-    "value": 134.23068,
-    "value_": 134.23068
+    "value": 102.1038,
+    "value_": 102.1038
   },
   {
     "geoid": "99999",
@@ -11406,8 +10895,8 @@
     "geoid": "11001",
     "key": "crime-rate-violent",
     "date": "2022-07-15",
-    "value": 327.62581,
-    "value_": 327.62581
+    "value": 264.80977,
+    "value_": 264.80977
   },
   {
     "geoid": "11001",
@@ -11434,8 +10923,8 @@
     "geoid": "12060",
     "key": "crime-rate-violent",
     "date": "2022-07-15",
-    "value": 180.05113,
-    "value_": 180.05113
+    "value": 147.84619,
+    "value_": 147.84619
   },
   {
     "geoid": "12060",
@@ -11462,8 +10951,8 @@
     "geoid": "12420",
     "key": "crime-rate-violent",
     "date": "2022-07-15",
-    "value": 159.5693,
-    "value_": 159.5693
+    "value": 128.62228,
+    "value_": 128.62228
   },
   {
     "geoid": "12420",
@@ -11490,8 +10979,8 @@
     "geoid": "12580",
     "key": "crime-rate-violent",
     "date": "2022-07-15",
-    "value": 262.13826,
-    "value_": 262.13826
+    "value": 211.34478,
+    "value_": 211.34478
   },
   {
     "geoid": "12580",
@@ -11518,8 +11007,8 @@
     "geoid": "13820",
     "key": "crime-rate-violent",
     "date": "2022-07-15",
-    "value": 245.32979,
-    "value_": 245.32979
+    "value": 204.26525,
+    "value_": 204.26525
   },
   {
     "geoid": "13820",
@@ -11546,8 +11035,8 @@
     "geoid": "14460",
     "key": "crime-rate-violent",
     "date": "2022-07-15",
-    "value": 120.3499,
-    "value_": 120.3499
+    "value": 97.13167,
+    "value_": 97.13167
   },
   {
     "geoid": "14460",
@@ -11574,8 +11063,8 @@
     "geoid": "15380",
     "key": "crime-rate-violent",
     "date": "2022-07-15",
-    "value": 146.1268,
-    "value_": 146.1268
+    "value": 119.72685,
+    "value_": 119.72685
   },
   {
     "geoid": "15380",
@@ -11602,8 +11091,8 @@
     "geoid": "16740",
     "key": "crime-rate-violent",
     "date": "2022-07-15",
-    "value": 201.46491,
-    "value_": 201.46491
+    "value": 164.49018,
+    "value_": 164.49018
   },
   {
     "geoid": "16740",
@@ -11630,8 +11119,8 @@
     "geoid": "16980",
     "key": "crime-rate-violent",
     "date": "2022-07-15",
-    "value": 129.0844,
-    "value_": 129.0844
+    "value": 106.79416,
+    "value_": 106.79416
   },
   {
     "geoid": "16980",
@@ -11658,8 +11147,8 @@
     "geoid": "17140",
     "key": "crime-rate-violent",
     "date": "2022-07-15",
-    "value": 107.1251,
-    "value_": 107.1251
+    "value": 89.47188,
+    "value_": 89.47188
   },
   {
     "geoid": "17140",
@@ -11686,8 +11175,8 @@
     "geoid": "17410",
     "key": "crime-rate-violent",
     "date": "2022-07-15",
-    "value": 184.74512,
-    "value_": 184.74512
+    "value": 149.51745,
+    "value_": 149.51745
   },
   {
     "geoid": "17410",
@@ -11714,8 +11203,8 @@
     "geoid": "18140",
     "key": "crime-rate-violent",
     "date": "2022-07-15",
-    "value": 151.62523,
-    "value_": 151.62523
+    "value": 122.56334,
+    "value_": 122.56334
   },
   {
     "geoid": "18140",
@@ -11742,8 +11231,8 @@
     "geoid": "19100",
     "key": "crime-rate-violent",
     "date": "2022-07-15",
-    "value": 160.77095,
-    "value_": 160.77095
+    "value": 130.90661,
+    "value_": 130.90661
   },
   {
     "geoid": "19100",
@@ -11770,8 +11259,8 @@
     "geoid": "19740",
     "key": "crime-rate-violent",
     "date": "2022-07-15",
-    "value": 272.77037,
-    "value_": 272.77037
+    "value": 222.19756,
+    "value_": 222.19756
   },
   {
     "geoid": "19740",
@@ -11798,8 +11287,8 @@
     "geoid": "19820",
     "key": "crime-rate-violent",
     "date": "2022-07-15",
-    "value": 245.36483,
-    "value_": 245.36483
+    "value": 203.81208,
+    "value_": 203.81208
   },
   {
     "geoid": "19820",
@@ -11826,8 +11315,8 @@
     "geoid": "23420",
     "key": "crime-rate-violent",
     "date": "2022-07-15",
-    "value": 306.48579,
-    "value_": 306.48579
+    "value": 245.22248,
+    "value_": 245.22248
   },
   {
     "geoid": "23420",
@@ -11854,8 +11343,8 @@
     "geoid": "24017",
     "key": "crime-rate-violent",
     "date": "2022-07-15",
-    "value": 143.34191,
-    "value_": 143.34191
+    "value": 116.42874,
+    "value_": 116.42874
   },
   {
     "geoid": "24017",
@@ -11882,8 +11371,8 @@
     "geoid": "24021",
     "key": "crime-rate-violent",
     "date": "2022-07-15",
-    "value": 94.78005,
-    "value_": 94.78005
+    "value": 74.3442,
+    "value_": 74.3442
   },
   {
     "geoid": "24021",
@@ -11910,8 +11399,8 @@
     "geoid": "24031",
     "key": "crime-rate-violent",
     "date": "2022-07-15",
-    "value": 75.8408,
-    "value_": 75.8408
+    "value": 59.8342,
+    "value_": 59.8342
   },
   {
     "geoid": "24031",
@@ -11938,8 +11427,8 @@
     "geoid": "24033",
     "key": "crime-rate-violent",
     "date": "2022-07-15",
-    "value": 158.23506,
-    "value_": 158.23506
+    "value": 124.4033,
+    "value_": 124.4033
   },
   {
     "geoid": "24033",
@@ -11966,8 +11455,8 @@
     "geoid": "24340",
     "key": "crime-rate-violent",
     "date": "2022-07-15",
-    "value": 186.44987,
-    "value_": 186.44987
+    "value": 152.18195,
+    "value_": 152.18195
   },
   {
     "geoid": "24340",
@@ -11994,8 +11483,8 @@
     "geoid": "25540",
     "key": "crime-rate-violent",
     "date": "2022-07-15",
-    "value": 55.0166,
-    "value_": 55.0166
+    "value": 43.33406,
+    "value_": 43.33406
   },
   {
     "geoid": "25540",
@@ -12022,8 +11511,8 @@
     "geoid": "26420",
     "key": "crime-rate-violent",
     "date": "2022-07-15",
-    "value": 260.35762,
-    "value_": 260.35762
+    "value": 209.27679,
+    "value_": 209.27679
   },
   {
     "geoid": "26420",
@@ -12050,8 +11539,8 @@
     "geoid": "26900",
     "key": "crime-rate-violent",
     "date": "2022-07-15",
-    "value": 254.10237,
-    "value_": 254.10237
+    "value": 210.47771,
+    "value_": 210.47771
   },
   {
     "geoid": "26900",
@@ -12078,8 +11567,8 @@
     "geoid": "27260",
     "key": "crime-rate-violent",
     "date": "2022-07-15",
-    "value": 225.16295,
-    "value_": 225.16295
+    "value": 182.30332,
+    "value_": 182.30332
   },
   {
     "geoid": "27260",
@@ -12106,8 +11595,8 @@
     "geoid": "28140",
     "key": "crime-rate-violent",
     "date": "2022-07-15",
-    "value": 244.21394,
-    "value_": 244.21394
+    "value": 200.25269,
+    "value_": 200.25269
   },
   {
     "geoid": "28140",
@@ -12134,8 +11623,8 @@
     "geoid": "29820",
     "key": "crime-rate-violent",
     "date": "2022-07-15",
-    "value": 197.7276,
-    "value_": 197.7276
+    "value": 160.09195,
+    "value_": 160.09195
   },
   {
     "geoid": "29820",
@@ -12162,8 +11651,8 @@
     "geoid": "31080",
     "key": "crime-rate-violent",
     "date": "2022-07-15",
-    "value": 239.09953,
-    "value_": 239.09953
+    "value": 192.33491,
+    "value_": 192.33491
   },
   {
     "geoid": "31080",
@@ -12190,8 +11679,8 @@
     "geoid": "31140",
     "key": "crime-rate-violent",
     "date": "2022-07-15",
-    "value": 212.26556,
-    "value_": 212.26556
+    "value": 185.57213,
+    "value_": 185.57213
   },
   {
     "geoid": "31140",
@@ -12218,8 +11707,8 @@
     "geoid": "32820",
     "key": "crime-rate-violent",
     "date": "2022-07-15",
-    "value": 610.76908,
-    "value_": 610.76908
+    "value": 503.27372,
+    "value_": 503.27372
   },
   {
     "geoid": "32820",
@@ -12246,8 +11735,8 @@
     "geoid": "33100",
     "key": "crime-rate-violent",
     "date": "2022-07-15",
-    "value": 83.13927,
-    "value_": 83.13927
+    "value": 67.49796,
+    "value_": 67.49796
   },
   {
     "geoid": "33100",
@@ -12274,8 +11763,8 @@
     "geoid": "33340",
     "key": "crime-rate-violent",
     "date": "2022-07-15",
-    "value": 287.82951,
-    "value_": 287.82951
+    "value": 234.93498,
+    "value_": 234.93498
   },
   {
     "geoid": "33340",
@@ -12302,8 +11791,8 @@
     "geoid": "33460",
     "key": "crime-rate-violent",
     "date": "2022-07-15",
-    "value": 138.83746,
-    "value_": 138.83746
+    "value": 114.66053,
+    "value_": 114.66053
   },
   {
     "geoid": "33460",
@@ -12330,8 +11819,8 @@
     "geoid": "34980",
     "key": "crime-rate-violent",
     "date": "2022-07-15",
-    "value": 263.81371,
-    "value_": 263.81371
+    "value": 214.56395,
+    "value_": 214.56395
   },
   {
     "geoid": "34980",
@@ -12358,8 +11847,8 @@
     "geoid": "35620",
     "key": "crime-rate-violent",
     "date": "2022-07-15",
-    "value": 181.65034,
-    "value_": 181.65034
+    "value": 148.83974,
+    "value_": 148.83974
   },
   {
     "geoid": "35620",
@@ -12386,8 +11875,8 @@
     "geoid": "36420",
     "key": "crime-rate-violent",
     "date": "2022-07-15",
-    "value": 196.48873,
-    "value_": 196.48873
+    "value": 159.15382,
+    "value_": 159.15382
   },
   {
     "geoid": "36420",
@@ -12414,8 +11903,8 @@
     "geoid": "36540",
     "key": "crime-rate-violent",
     "date": "2022-07-15",
-    "value": 161.48056,
-    "value_": 161.48056
+    "value": 136.16238,
+    "value_": 136.16238
   },
   {
     "geoid": "36540",
@@ -12442,8 +11931,8 @@
     "geoid": "37980",
     "key": "crime-rate-violent",
     "date": "2022-07-15",
-    "value": 192.10259,
-    "value_": 192.10259
+    "value": 156.85769,
+    "value_": 156.85769
   },
   {
     "geoid": "37980",
@@ -12470,8 +11959,8 @@
     "geoid": "38060",
     "key": "crime-rate-violent",
     "date": "2022-07-15",
-    "value": 217.75624,
-    "value_": 217.75624
+    "value": 175.62162,
+    "value_": 175.62162
   },
   {
     "geoid": "38060",
@@ -12498,8 +11987,8 @@
     "geoid": "38300",
     "key": "crime-rate-violent",
     "date": "2022-07-15",
-    "value": 102.16766,
-    "value_": 102.16766
+    "value": 85.47509,
+    "value_": 85.47509
   },
   {
     "geoid": "38300",
@@ -12526,8 +12015,8 @@
     "geoid": "38900",
     "key": "crime-rate-violent",
     "date": "2022-07-15",
-    "value": 179.63673,
-    "value_": 179.63673
+    "value": 142.12661,
+    "value_": 142.12661
   },
   {
     "geoid": "38900",
@@ -12554,8 +12043,8 @@
     "geoid": "39300",
     "key": "crime-rate-violent",
     "date": "2022-07-15",
-    "value": 115.03721,
-    "value_": 115.03721
+    "value": 92.447,
+    "value_": 92.447
   },
   {
     "geoid": "39300",
@@ -12582,8 +12071,8 @@
     "geoid": "39580",
     "key": "crime-rate-violent",
     "date": "2022-07-15",
-    "value": 110.36002,
-    "value_": 110.36002
+    "value": 87.77566,
+    "value_": 87.77566
   },
   {
     "geoid": "39580",
@@ -12610,8 +12099,8 @@
     "geoid": "40060",
     "key": "crime-rate-violent",
     "date": "2022-07-15",
-    "value": 116.36499,
-    "value_": 116.36499
+    "value": 95.57484,
+    "value_": 95.57484
   },
   {
     "geoid": "40060",
@@ -12638,8 +12127,8 @@
     "geoid": "40140",
     "key": "crime-rate-violent",
     "date": "2022-07-15",
-    "value": 196.95993,
-    "value_": 196.95993
+    "value": 157.41922,
+    "value_": 157.41922
   },
   {
     "geoid": "40140",
@@ -12666,8 +12155,8 @@
     "geoid": "40380",
     "key": "crime-rate-violent",
     "date": "2022-07-15",
-    "value": 106.27174,
-    "value_": 106.27174
+    "value": 86.51792,
+    "value_": 86.51792
   },
   {
     "geoid": "40380",
@@ -12694,8 +12183,8 @@
     "geoid": "40900",
     "key": "crime-rate-violent",
     "date": "2022-07-15",
-    "value": 194.07792,
-    "value_": 194.07792
+    "value": 154.9656,
+    "value_": 154.9656
   },
   {
     "geoid": "40900",
@@ -12722,8 +12211,8 @@
     "geoid": "41180",
     "key": "crime-rate-violent",
     "date": "2022-07-15",
-    "value": 117.26184,
-    "value_": 117.26184
+    "value": 94.30872,
+    "value_": 94.30872
   },
   {
     "geoid": "41180",
@@ -12750,8 +12239,8 @@
     "geoid": "41620",
     "key": "crime-rate-violent",
     "date": "2022-07-15",
-    "value": 162.25851,
-    "value_": 162.25851
+    "value": 130.75662,
+    "value_": 130.75662
   },
   {
     "geoid": "41620",
@@ -12778,8 +12267,8 @@
     "geoid": "41700",
     "key": "crime-rate-violent",
     "date": "2022-07-15",
-    "value": 262.00581,
-    "value_": 262.00581
+    "value": 212.23741,
+    "value_": 212.23741
   },
   {
     "geoid": "41700",
@@ -12806,8 +12295,8 @@
     "geoid": "41740",
     "key": "crime-rate-violent",
     "date": "2022-07-15",
-    "value": 169.40271,
-    "value_": 169.40271
+    "value": 134.44853,
+    "value_": 134.44853
   },
   {
     "geoid": "41740",
@@ -12834,8 +12323,8 @@
     "geoid": "41860",
     "key": "crime-rate-violent",
     "date": "2022-07-15",
-    "value": 221.97308,
-    "value_": 221.97308
+    "value": 179.46477,
+    "value_": 179.46477
   },
   {
     "geoid": "41860",
@@ -12862,8 +12351,8 @@
     "geoid": "41940",
     "key": "crime-rate-violent",
     "date": "2022-07-15",
-    "value": 170.24641,
-    "value_": 170.24641
+    "value": 136.10301,
+    "value_": 136.10301
   },
   {
     "geoid": "41940",
@@ -12890,8 +12379,8 @@
     "geoid": "42660",
     "key": "crime-rate-violent",
     "date": "2022-07-15",
-    "value": 200.83569,
-    "value_": 200.83569
+    "value": 159.11331,
+    "value_": 159.11331
   },
   {
     "geoid": "42660",
@@ -12918,8 +12407,8 @@
     "geoid": "45300",
     "key": "crime-rate-violent",
     "date": "2022-07-15",
-    "value": 91.56389,
-    "value_": 91.56389
+    "value": 72.6608,
+    "value_": 72.6608
   },
   {
     "geoid": "45300",
@@ -12946,8 +12435,8 @@
     "geoid": "46060",
     "key": "crime-rate-violent",
     "date": "2022-07-15",
-    "value": 151.04152,
-    "value_": 151.04152
+    "value": 141.85593,
+    "value_": 141.85593
   },
   {
     "geoid": "46060",
@@ -12974,8 +12463,8 @@
     "geoid": "46140",
     "key": "crime-rate-violent",
     "date": "2022-07-15",
-    "value": 225.90332,
-    "value_": 225.90332
+    "value": 184.68927,
+    "value_": 184.68927
   },
   {
     "geoid": "46140",
@@ -13002,8 +12491,8 @@
     "geoid": "47260",
     "key": "crime-rate-violent",
     "date": "2022-07-15",
-    "value": 169.02829,
-    "value_": 169.02829
+    "value": 139.13744,
+    "value_": 139.13744
   },
   {
     "geoid": "47260",
@@ -13030,8 +12519,8 @@
     "geoid": "47900",
     "key": "crime-rate-violent",
     "date": "2022-07-15",
-    "value": 115.83043,
-    "value_": 115.83043
+    "value": 93.07116,
+    "value_": 93.07116
   },
   {
     "geoid": "47900",
@@ -13058,8 +12547,8 @@
     "geoid": "51013",
     "key": "crime-rate-violent",
     "date": "2022-07-15",
-    "value": 110.04332,
-    "value_": 110.04332
+    "value": 82.8613,
+    "value_": 82.8613
   },
   {
     "geoid": "51013",
@@ -13100,8 +12589,8 @@
     "geoid": "51047",
     "key": "crime-rate-violent",
     "date": "2022-07-15",
-    "value": 67.66766,
-    "value_": 67.66766
+    "value": 58.52338,
+    "value_": 58.52338
   },
   {
     "geoid": "51047",
@@ -13128,8 +12617,8 @@
     "geoid": "51059",
     "key": "crime-rate-violent",
     "date": "2022-07-15",
-    "value": 52.05143,
-    "value_": 52.05143
+    "value": 42.08414,
+    "value_": 42.08414
   },
   {
     "geoid": "51059",
@@ -13156,8 +12645,8 @@
     "geoid": "51061",
     "key": "crime-rate-violent",
     "date": "2022-07-15",
-    "value": 40.36381,
-    "value_": 40.36381
+    "value": 32.29105,
+    "value_": 32.29105
   },
   {
     "geoid": "51061",
@@ -13184,8 +12673,8 @@
     "geoid": "51107",
     "key": "crime-rate-violent",
     "date": "2022-07-15",
-    "value": 44.68563,
-    "value_": 44.68563
+    "value": 35.93278,
+    "value_": 35.93278
   },
   {
     "geoid": "51107",
@@ -13212,8 +12701,8 @@
     "geoid": "51153",
     "key": "crime-rate-violent",
     "date": "2022-07-15",
-    "value": 118.30743,
-    "value_": 118.30743
+    "value": 99.62731,
+    "value_": 99.62731
   },
   {
     "geoid": "51153",
@@ -13268,8 +12757,8 @@
     "geoid": "51177",
     "key": "crime-rate-violent",
     "date": "2022-07-15",
-    "value": 72.56254,
-    "value_": 72.56254
+    "value": 55.60868,
+    "value_": 55.60868
   },
   {
     "geoid": "51177",
@@ -13296,8 +12785,8 @@
     "geoid": "51179",
     "key": "crime-rate-violent",
     "date": "2022-07-15",
-    "value": 78.88972,
-    "value_": 78.88972
+    "value": 65.53915,
+    "value_": 65.53915
   },
   {
     "geoid": "51179",
@@ -13317,8 +12806,8 @@
     "geoid": "51187",
     "key": "crime-rate-violent",
     "date": "2022-07-15",
-    "value": 48.53073,
-    "value_": 48.53073
+    "value": 46.1042,
+    "value_": 46.1042
   },
   {
     "geoid": "51187",
@@ -13345,8 +12834,8 @@
     "geoid": "51510",
     "key": "crime-rate-violent",
     "date": "2022-07-15",
-    "value": 82.1426,
-    "value_": 82.1426
+    "value": 70.21867,
+    "value_": 70.21867
   },
   {
     "geoid": "51510",
@@ -13373,8 +12862,8 @@
     "geoid": "51630",
     "key": "crime-rate-violent",
     "date": "2022-07-15",
-    "value": 166.41243,
-    "value_": 166.41243
+    "value": 131.74317,
+    "value_": 131.74317
   },
   {
     "geoid": "51630",
@@ -13401,8 +12890,8 @@
     "geoid": "54037",
     "key": "crime-rate-violent",
     "date": "2022-07-15",
-    "value": 39.87725,
-    "value_": 39.87725
+    "value": 36.40966,
+    "value_": 36.40966
   },
   {
     "geoid": "54037",
@@ -13429,8 +12918,8 @@
     "geoid": "99997",
     "key": "crime-rate-violent",
     "date": "2022-07-15",
-    "value": 185.71041,
-    "value_": 185.71041
+    "value": 150.97976,
+    "value_": 150.97976
   },
   {
     "geoid": "99997",
@@ -13457,8 +12946,8 @@
     "geoid": "99999",
     "key": "crime-rate-violent",
     "date": "2022-07-15",
-    "value": 169.99226,
-    "value_": 169.99226
+    "value": 137.9033,
+    "value_": 137.9033
   },
   {
     "geoid": "99999",
@@ -13485,8 +12974,8 @@
     "geoid": "11001",
     "key": "crime-rate-violent",
     "date": "2022-08-15",
-    "value": 402.20124,
-    "value_": 402.20124
+    "value": 339.38521,
+    "value_": 339.38521
   },
   {
     "geoid": "11001",
@@ -13513,8 +13002,8 @@
     "geoid": "12060",
     "key": "crime-rate-violent",
     "date": "2022-08-15",
-    "value": 214.0681,
-    "value_": 214.0681
+    "value": 181.86317,
+    "value_": 181.86317
   },
   {
     "geoid": "12060",
@@ -13541,8 +13030,8 @@
     "geoid": "12420",
     "key": "crime-rate-violent",
     "date": "2022-08-15",
-    "value": 189.23548,
-    "value_": 189.23548
+    "value": 158.28845,
+    "value_": 158.28845
   },
   {
     "geoid": "12420",
@@ -13569,8 +13058,8 @@
     "geoid": "12580",
     "key": "crime-rate-violent",
     "date": "2022-08-15",
-    "value": 315.79685,
-    "value_": 315.79685
+    "value": 265.00336,
+    "value_": 265.00336
   },
   {
     "geoid": "12580",
@@ -13597,8 +13086,8 @@
     "geoid": "13820",
     "key": "crime-rate-violent",
     "date": "2022-08-15",
-    "value": 288.86173,
-    "value_": 288.86173
+    "value": 247.79719,
+    "value_": 247.79719
   },
   {
     "geoid": "13820",
@@ -13625,8 +13114,8 @@
     "geoid": "14460",
     "key": "crime-rate-violent",
     "date": "2022-08-15",
-    "value": 145.6975,
-    "value_": 145.6975
+    "value": 122.47927,
+    "value_": 122.47927
   },
   {
     "geoid": "14460",
@@ -13653,8 +13142,8 @@
     "geoid": "15380",
     "key": "crime-rate-violent",
     "date": "2022-08-15",
-    "value": 175.52875,
-    "value_": 175.52875
+    "value": 149.1288,
+    "value_": 149.1288
   },
   {
     "geoid": "15380",
@@ -13681,8 +13170,8 @@
     "geoid": "16740",
     "key": "crime-rate-violent",
     "date": "2022-08-15",
-    "value": 239.25312,
-    "value_": 239.25312
+    "value": 202.26537,
+    "value_": 202.26537
   },
   {
     "geoid": "16740",
@@ -13709,8 +13198,8 @@
     "geoid": "16980",
     "key": "crime-rate-violent",
     "date": "2022-08-15",
-    "value": 158.08161,
-    "value_": 158.08161
+    "value": 135.78096,
+    "value_": 135.78096
   },
   {
     "geoid": "16980",
@@ -13737,8 +13226,8 @@
     "geoid": "17140",
     "key": "crime-rate-violent",
     "date": "2022-08-15",
-    "value": 125.79609,
-    "value_": 125.79609
+    "value": 108.61006,
+    "value_": 108.61006
   },
   {
     "geoid": "17140",
@@ -13765,8 +13254,8 @@
     "geoid": "17410",
     "key": "crime-rate-violent",
     "date": "2022-08-15",
-    "value": 220.10527,
-    "value_": 220.10527
+    "value": 184.55718,
+    "value_": 184.55718
   },
   {
     "geoid": "17410",
@@ -13793,8 +13282,8 @@
     "geoid": "18140",
     "key": "crime-rate-violent",
     "date": "2022-08-15",
-    "value": 182.53757,
-    "value_": 182.53757
+    "value": 153.51367,
+    "value_": 153.51367
   },
   {
     "geoid": "18140",
@@ -13821,8 +13310,8 @@
     "geoid": "19100",
     "key": "crime-rate-violent",
     "date": "2022-08-15",
-    "value": 191.42053,
-    "value_": 191.42053
+    "value": 161.55619,
+    "value_": 161.55619
   },
   {
     "geoid": "19100",
@@ -13849,8 +13338,8 @@
     "geoid": "19740",
     "key": "crime-rate-violent",
     "date": "2022-08-15",
-    "value": 325.35108,
-    "value_": 325.35108
+    "value": 274.76408,
+    "value_": 274.76408
   },
   {
     "geoid": "19740",
@@ -13877,8 +13366,8 @@
     "geoid": "19820",
     "key": "crime-rate-violent",
     "date": "2022-08-15",
-    "value": 294.12645,
-    "value_": 294.12645
+    "value": 252.5737,
+    "value_": 252.5737
   },
   {
     "geoid": "19820",
@@ -13905,8 +13394,8 @@
     "geoid": "23420",
     "key": "crime-rate-violent",
     "date": "2022-08-15",
-    "value": 362.84126,
-    "value_": 362.84126
+    "value": 301.57795,
+    "value_": 301.57795
   },
   {
     "geoid": "23420",
@@ -13933,8 +13422,8 @@
     "geoid": "24017",
     "key": "crime-rate-violent",
     "date": "2022-08-15",
-    "value": 166.15961,
-    "value_": 166.15961
+    "value": 139.24643,
+    "value_": 139.24643
   },
   {
     "geoid": "24017",
@@ -13961,8 +13450,8 @@
     "geoid": "24021",
     "key": "crime-rate-violent",
     "date": "2022-08-15",
-    "value": 118.03464,
-    "value_": 118.03464
+    "value": 97.59879,
+    "value_": 97.59879
   },
   {
     "geoid": "24021",
@@ -13989,8 +13478,8 @@
     "geoid": "24031",
     "key": "crime-rate-violent",
     "date": "2022-08-15",
-    "value": 90.13241,
-    "value_": 90.13241
+    "value": 74.12581,
+    "value_": 74.12581
   },
   {
     "geoid": "24031",
@@ -14017,8 +13506,8 @@
     "geoid": "24033",
     "key": "crime-rate-violent",
     "date": "2022-08-15",
-    "value": 193.02132,
-    "value_": 193.02132
+    "value": 159.18956,
+    "value_": 159.18956
   },
   {
     "geoid": "24033",
@@ -14045,8 +13534,8 @@
     "geoid": "24340",
     "key": "crime-rate-violent",
     "date": "2022-08-15",
-    "value": 224.04565,
-    "value_": 224.04565
+    "value": 189.77773,
+    "value_": 189.77773
   },
   {
     "geoid": "24340",
@@ -14073,8 +13562,8 @@
     "geoid": "25540",
     "key": "crime-rate-violent",
     "date": "2022-08-15",
-    "value": 65.81615,
-    "value_": 65.81615
+    "value": 54.13361,
+    "value_": 54.13361
   },
   {
     "geoid": "25540",
@@ -14101,8 +13590,8 @@
     "geoid": "26420",
     "key": "crime-rate-violent",
     "date": "2022-08-15",
-    "value": 310.2444,
-    "value_": 310.2444
+    "value": 259.36165,
+    "value_": 259.36165
   },
   {
     "geoid": "26420",
@@ -14129,8 +13618,8 @@
     "geoid": "26900",
     "key": "crime-rate-violent",
     "date": "2022-08-15",
-    "value": 312.65957,
-    "value_": 312.65957
+    "value": 268.74134,
+    "value_": 268.74134
   },
   {
     "geoid": "26900",
@@ -14157,8 +13646,8 @@
     "geoid": "27260",
     "key": "crime-rate-violent",
     "date": "2022-08-15",
-    "value": 271.31948,
-    "value_": 271.31948
+    "value": 228.45985,
+    "value_": 228.45985
   },
   {
     "geoid": "27260",
@@ -14185,8 +13674,8 @@
     "geoid": "28140",
     "key": "crime-rate-violent",
     "date": "2022-08-15",
-    "value": 315.96338,
-    "value_": 315.96338
+    "value": 268.73124,
+    "value_": 268.73124
   },
   {
     "geoid": "28140",
@@ -14213,8 +13702,8 @@
     "geoid": "29820",
     "key": "crime-rate-violent",
     "date": "2022-08-15",
-    "value": 237.73979,
-    "value_": 237.73979
+    "value": 200.10414,
+    "value_": 200.10414
   },
   {
     "geoid": "29820",
@@ -14241,8 +13730,8 @@
     "geoid": "31080",
     "key": "crime-rate-violent",
     "date": "2022-08-15",
-    "value": 287.51239,
-    "value_": 287.51239
+    "value": 241.05323,
+    "value_": 241.05323
   },
   {
     "geoid": "31080",
@@ -14269,8 +13758,8 @@
     "geoid": "31140",
     "key": "crime-rate-violent",
     "date": "2022-08-15",
-    "value": 255.69893,
-    "value_": 255.69893
+    "value": 229.0055,
+    "value_": 229.0055
   },
   {
     "geoid": "31140",
@@ -14297,8 +13786,8 @@
     "geoid": "32820",
     "key": "crime-rate-violent",
     "date": "2022-08-15",
-    "value": 734.22078,
-    "value_": 734.22078
+    "value": 626.72542,
+    "value_": 626.72542
   },
   {
     "geoid": "32820",
@@ -14325,8 +13814,8 @@
     "geoid": "33100",
     "key": "crime-rate-violent",
     "date": "2022-08-15",
-    "value": 100.07218,
-    "value_": 100.07218
+    "value": 84.78738,
+    "value_": 84.78738
   },
   {
     "geoid": "33100",
@@ -14353,8 +13842,8 @@
     "geoid": "33340",
     "key": "crime-rate-violent",
     "date": "2022-08-15",
-    "value": 344.50646,
-    "value_": 344.50646
+    "value": 291.56057,
+    "value_": 291.56057
   },
   {
     "geoid": "33340",
@@ -14381,8 +13870,8 @@
     "geoid": "33460",
     "key": "crime-rate-violent",
     "date": "2022-08-15",
-    "value": 167.5495,
-    "value_": 167.5495
+    "value": 143.37258,
+    "value_": 143.37258
   },
   {
     "geoid": "33460",
@@ -14409,8 +13898,8 @@
     "geoid": "34980",
     "key": "crime-rate-violent",
     "date": "2022-08-15",
-    "value": 317.76486,
-    "value_": 317.76486
+    "value": 268.46322,
+    "value_": 268.46322
   },
   {
     "geoid": "34980",
@@ -14437,8 +13926,8 @@
     "geoid": "35620",
     "key": "crime-rate-violent",
     "date": "2022-08-15",
-    "value": 219.77615,
-    "value_": 219.77615
+    "value": 186.98156,
+    "value_": 186.98156
   },
   {
     "geoid": "35620",
@@ -14465,8 +13954,8 @@
     "geoid": "36420",
     "key": "crime-rate-violent",
     "date": "2022-08-15",
-    "value": 231.53136,
-    "value_": 231.53136
+    "value": 194.20087,
+    "value_": 194.20087
   },
   {
     "geoid": "36420",
@@ -14493,8 +13982,8 @@
     "geoid": "36540",
     "key": "crime-rate-violent",
     "date": "2022-08-15",
-    "value": 194.95361,
-    "value_": 194.95361
+    "value": 169.67233,
+    "value_": 169.67233
   },
   {
     "geoid": "36540",
@@ -14521,8 +14010,8 @@
     "geoid": "37980",
     "key": "crime-rate-violent",
     "date": "2022-08-15",
-    "value": 255.2435,
-    "value_": 255.2435
+    "value": 216.07565,
+    "value_": 216.07565
   },
   {
     "geoid": "37980",
@@ -14549,8 +14038,8 @@
     "geoid": "38060",
     "key": "crime-rate-violent",
     "date": "2022-08-15",
-    "value": 261.16583,
-    "value_": 261.16583
+    "value": 219.03121,
+    "value_": 219.03121
   },
   {
     "geoid": "38060",
@@ -14577,8 +14066,8 @@
     "geoid": "38300",
     "key": "crime-rate-violent",
     "date": "2022-08-15",
-    "value": 132.1501,
-    "value_": 132.1501
+    "value": 113.96202,
+    "value_": 113.96202
   },
   {
     "geoid": "38300",
@@ -14605,8 +14094,8 @@
     "geoid": "38900",
     "key": "crime-rate-violent",
     "date": "2022-08-15",
-    "value": 217.63137,
-    "value_": 217.63137
+    "value": 180.12125,
+    "value_": 180.12125
   },
   {
     "geoid": "38900",
@@ -14633,8 +14122,8 @@
     "geoid": "39300",
     "key": "crime-rate-violent",
     "date": "2022-08-15",
-    "value": 139.65398,
-    "value_": 139.65398
+    "value": 117.06377,
+    "value_": 117.06377
   },
   {
     "geoid": "39300",
@@ -14661,8 +14150,8 @@
     "geoid": "39580",
     "key": "crime-rate-violent",
     "date": "2022-08-15",
-    "value": 130.98932,
-    "value_": 130.98932
+    "value": 108.40496,
+    "value_": 108.40496
   },
   {
     "geoid": "39580",
@@ -14689,8 +14178,8 @@
     "geoid": "40060",
     "key": "crime-rate-violent",
     "date": "2022-08-15",
-    "value": 137.67862,
-    "value_": 137.67862
+    "value": 116.88848,
+    "value_": 116.88848
   },
   {
     "geoid": "40060",
@@ -14717,8 +14206,8 @@
     "geoid": "40140",
     "key": "crime-rate-violent",
     "date": "2022-08-15",
-    "value": 237.03182,
-    "value_": 237.03182
+    "value": 197.49111,
+    "value_": 197.49111
   },
   {
     "geoid": "40140",
@@ -14745,8 +14234,8 @@
     "geoid": "40380",
     "key": "crime-rate-violent",
     "date": "2022-08-15",
-    "value": 127.07023,
-    "value_": 127.07023
+    "value": 107.31642,
+    "value_": 107.31642
   },
   {
     "geoid": "40380",
@@ -14773,8 +14262,8 @@
     "geoid": "40900",
     "key": "crime-rate-violent",
     "date": "2022-08-15",
-    "value": 231.2944,
-    "value_": 231.2944
+    "value": 192.18207,
+    "value_": 192.18207
   },
   {
     "geoid": "40900",
@@ -14801,8 +14290,8 @@
     "geoid": "41180",
     "key": "crime-rate-violent",
     "date": "2022-08-15",
-    "value": 142.50599,
-    "value_": 142.50599
+    "value": 119.5565,
+    "value_": 119.5565
   },
   {
     "geoid": "41180",
@@ -14829,8 +14318,8 @@
     "geoid": "41620",
     "key": "crime-rate-violent",
     "date": "2022-08-15",
-    "value": 200.0133,
-    "value_": 200.0133
+    "value": 168.5114,
+    "value_": 168.5114
   },
   {
     "geoid": "41620",
@@ -14857,8 +14346,8 @@
     "geoid": "41700",
     "key": "crime-rate-violent",
     "date": "2022-08-15",
-    "value": 311.77421,
-    "value_": 311.77421
+    "value": 262.00581,
+    "value_": 262.00581
   },
   {
     "geoid": "41700",
@@ -14885,8 +14374,8 @@
     "geoid": "41740",
     "key": "crime-rate-violent",
     "date": "2022-08-15",
-    "value": 202.22182,
-    "value_": 202.22182
+    "value": 167.26764,
+    "value_": 167.26764
   },
   {
     "geoid": "41740",
@@ -14913,8 +14402,8 @@
     "geoid": "41860",
     "key": "crime-rate-violent",
     "date": "2022-08-15",
-    "value": 272.38527,
-    "value_": 272.38527
+    "value": 229.87697,
+    "value_": 229.87697
   },
   {
     "geoid": "41860",
@@ -14941,8 +14430,8 @@
     "geoid": "41940",
     "key": "crime-rate-violent",
     "date": "2022-08-15",
-    "value": 205.01725,
-    "value_": 205.01725
+    "value": 170.87385,
+    "value_": 170.87385
   },
   {
     "geoid": "41940",
@@ -14969,8 +14458,8 @@
     "geoid": "42660",
     "key": "crime-rate-violent",
     "date": "2022-08-15",
-    "value": 239.81646,
-    "value_": 239.81646
+    "value": 198.09408,
+    "value_": 198.09408
   },
   {
     "geoid": "42660",
@@ -14997,8 +14486,8 @@
     "geoid": "45300",
     "key": "crime-rate-violent",
     "date": "2022-08-15",
-    "value": 108.84197,
-    "value_": 108.84197
+    "value": 89.93888,
+    "value_": 89.93888
   },
   {
     "geoid": "45300",
@@ -15025,8 +14514,8 @@
     "geoid": "46060",
     "key": "crime-rate-violent",
     "date": "2022-08-15",
-    "value": 191.57179,
-    "value_": 191.57179
+    "value": 182.38619,
+    "value_": 182.38619
   },
   {
     "geoid": "46060",
@@ -15053,8 +14542,8 @@
     "geoid": "46140",
     "key": "crime-rate-violent",
     "date": "2022-08-15",
-    "value": 273.21241,
-    "value_": 273.21241
+    "value": 231.99836,
+    "value_": 231.99836
   },
   {
     "geoid": "46140",
@@ -15081,8 +14570,8 @@
     "geoid": "47260",
     "key": "crime-rate-violent",
     "date": "2022-08-15",
-    "value": 205.16498,
-    "value_": 205.16498
+    "value": 175.27413,
+    "value_": 175.27413
   },
   {
     "geoid": "47260",
@@ -15109,8 +14598,8 @@
     "geoid": "47900",
     "key": "crime-rate-violent",
     "date": "2022-08-15",
-    "value": 141.01134,
-    "value_": 141.01134
+    "value": 118.24639,
+    "value_": 118.24639
   },
   {
     "geoid": "47900",
@@ -15137,8 +14626,8 @@
     "geoid": "51013",
     "key": "crime-rate-violent",
     "date": "2022-08-15",
-    "value": 135.03323,
-    "value_": 135.03323
+    "value": 107.85122,
+    "value_": 107.85122
   },
   {
     "geoid": "51013",
@@ -15193,8 +14682,8 @@
     "geoid": "51047",
     "key": "crime-rate-violent",
     "date": "2022-08-15",
-    "value": 84.12736,
-    "value_": 84.12736
+    "value": 74.98308,
+    "value_": 74.98308
   },
   {
     "geoid": "51047",
@@ -15221,8 +14710,8 @@
     "geoid": "51059",
     "key": "crime-rate-violent",
     "date": "2022-08-15",
-    "value": 63.55216,
-    "value_": 63.55216
+    "value": 53.58486,
+    "value_": 53.58486
   },
   {
     "geoid": "51059",
@@ -15249,8 +14738,8 @@
     "geoid": "51061",
     "key": "crime-rate-violent",
     "date": "2022-08-15",
-    "value": 49.78204,
-    "value_": 49.78204
+    "value": 41.70927,
+    "value_": 41.70927
   },
   {
     "geoid": "51061",
@@ -15277,8 +14766,8 @@
     "geoid": "51107",
     "key": "crime-rate-violent",
     "date": "2022-08-15",
-    "value": 55.51154,
-    "value_": 55.51154
+    "value": 46.75868,
+    "value_": 46.75868
   },
   {
     "geoid": "51107",
@@ -15305,8 +14794,8 @@
     "geoid": "51153",
     "key": "crime-rate-violent",
     "date": "2022-08-15",
-    "value": 140.13474,
-    "value_": 140.13474
+    "value": 121.40113,
+    "value_": 121.40113
   },
   {
     "geoid": "51153",
@@ -15347,8 +14836,8 @@
     "geoid": "51177",
     "key": "crime-rate-violent",
     "date": "2022-08-15",
-    "value": 93.58534,
-    "value_": 93.58534
+    "value": 76.63147,
+    "value_": 76.63147
   },
   {
     "geoid": "51177",
@@ -15375,8 +14864,8 @@
     "geoid": "51179",
     "key": "crime-rate-violent",
     "date": "2022-08-15",
-    "value": 99.52241,
-    "value_": 99.52241
+    "value": 86.17185,
+    "value_": 86.17185
   },
   {
     "geoid": "51179",
@@ -15403,8 +14892,8 @@
     "geoid": "51187",
     "key": "crime-rate-violent",
     "date": "2022-08-15",
-    "value": 63.08995,
-    "value_": 63.08995
+    "value": 60.66342,
+    "value_": 60.66342
   },
   {
     "geoid": "51187",
@@ -15431,8 +14920,8 @@
     "geoid": "51510",
     "key": "crime-rate-violent",
     "date": "2022-08-15",
-    "value": 98.04116,
-    "value_": 98.04116
+    "value": 86.11724,
+    "value_": 86.11724
   },
   {
     "geoid": "51510",
@@ -15459,8 +14948,8 @@
     "geoid": "51630",
     "key": "crime-rate-violent",
     "date": "2022-08-15",
-    "value": 208.01553,
-    "value_": 208.01553
+    "value": 173.34628,
+    "value_": 173.34628
   },
   {
     "geoid": "51630",
@@ -15487,8 +14976,8 @@
     "geoid": "54037",
     "key": "crime-rate-violent",
     "date": "2022-08-15",
-    "value": 50.28001,
-    "value_": 50.28001
+    "value": 46.81242,
+    "value_": 46.81242
   },
   {
     "geoid": "54037",
@@ -15515,8 +15004,8 @@
     "geoid": "99997",
     "key": "crime-rate-violent",
     "date": "2022-08-15",
-    "value": 224.2663,
-    "value_": 224.2663
+    "value": 189.40616,
+    "value_": 189.40616
   },
   {
     "geoid": "99997",
@@ -15543,8 +15032,8 @@
     "geoid": "99999",
     "key": "crime-rate-violent",
     "date": "2022-08-15",
-    "value": 204.87583,
-    "value_": 204.87583
+    "value": 172.69936,
+    "value_": 172.69936
   },
   {
     "geoid": "99999",
@@ -15571,8 +15060,8 @@
     "geoid": "11001",
     "key": "crime-rate-violent",
     "date": "2022-09-15",
-    "value": 472.16223,
-    "value_": 472.16223
+    "value": 409.34619,
+    "value_": 409.34619
   },
   {
     "geoid": "11001",
@@ -15599,8 +15088,8 @@
     "geoid": "12060",
     "key": "crime-rate-violent",
     "date": "2022-09-15",
-    "value": 248.74987,
-    "value_": 248.74987
+    "value": 216.54844,
+    "value_": 216.54844
   },
   {
     "geoid": "12060",
@@ -15627,8 +15116,8 @@
     "geoid": "12420",
     "key": "crime-rate-violent",
     "date": "2022-09-15",
-    "value": 217.41421,
-    "value_": 217.41421
+    "value": 186.46718,
+    "value_": 186.46718
   },
   {
     "geoid": "12420",
@@ -15655,8 +15144,8 @@
     "geoid": "12580",
     "key": "crime-rate-violent",
     "date": "2022-09-15",
-    "value": 367.47462,
-    "value_": 367.47462
+    "value": 316.68113,
+    "value_": 316.68113
   },
   {
     "geoid": "12580",
@@ -15683,8 +15172,8 @@
     "geoid": "13820",
     "key": "crime-rate-violent",
     "date": "2022-09-15",
-    "value": 332.30554,
-    "value_": 332.30554
+    "value": 291.241,
+    "value_": 291.241
   },
   {
     "geoid": "13820",
@@ -15711,8 +15200,8 @@
     "geoid": "14460",
     "key": "crime-rate-violent",
     "date": "2022-09-15",
-    "value": 168.97716,
-    "value_": 168.97716
+    "value": 145.75893,
+    "value_": 145.75893
   },
   {
     "geoid": "14460",
@@ -15739,8 +15228,8 @@
     "geoid": "15380",
     "key": "crime-rate-violent",
     "date": "2022-09-15",
-    "value": 203.07652,
-    "value_": 203.07652
+    "value": 176.67657,
+    "value_": 176.67657
   },
   {
     "geoid": "15380",
@@ -15767,8 +15256,8 @@
     "geoid": "16740",
     "key": "crime-rate-violent",
     "date": "2022-09-15",
-    "value": 270.16354,
-    "value_": 270.16354
+    "value": 233.1888,
+    "value_": 233.1888
   },
   {
     "geoid": "16740",
@@ -15795,8 +15284,8 @@
     "geoid": "16980",
     "key": "crime-rate-violent",
     "date": "2022-09-15",
-    "value": 186.93703,
-    "value_": 186.93703
+    "value": 164.65927,
+    "value_": 164.65927
   },
   {
     "geoid": "16980",
@@ -15823,8 +15312,8 @@
     "geoid": "17140",
     "key": "crime-rate-violent",
     "date": "2022-09-15",
-    "value": 144.89974,
-    "value_": 144.89974
+    "value": 127.65314,
+    "value_": 127.65314
   },
   {
     "geoid": "17140",
@@ -15851,8 +15340,8 @@
     "geoid": "17410",
     "key": "crime-rate-violent",
     "date": "2022-09-15",
-    "value": 258.70953,
-    "value_": 258.70953
+    "value": 222.82862,
+    "value_": 222.82862
   },
   {
     "geoid": "17410",
@@ -15879,8 +15368,8 @@
     "geoid": "18140",
     "key": "crime-rate-violent",
     "date": "2022-09-15",
-    "value": 210.81299,
-    "value_": 210.81299
+    "value": 181.71566,
+    "value_": 181.71566
   },
   {
     "geoid": "18140",
@@ -15907,8 +15396,8 @@
     "geoid": "19100",
     "key": "crime-rate-violent",
     "date": "2022-09-15",
-    "value": 219.79038,
-    "value_": 219.79038
+    "value": 189.92604,
+    "value_": 189.92604
   },
   {
     "geoid": "19100",
@@ -15935,8 +15424,8 @@
     "geoid": "19740",
     "key": "crime-rate-violent",
     "date": "2022-09-15",
-    "value": 378.72224,
-    "value_": 378.72224
+    "value": 328.11828,
+    "value_": 328.11828
   },
   {
     "geoid": "19740",
@@ -15963,8 +15452,8 @@
     "geoid": "19820",
     "key": "crime-rate-violent",
     "date": "2022-09-15",
-    "value": 342.07378,
-    "value_": 342.07378
+    "value": 300.52103,
+    "value_": 300.52103
   },
   {
     "geoid": "19820",
@@ -15991,8 +15480,8 @@
     "geoid": "23420",
     "key": "crime-rate-violent",
     "date": "2022-09-15",
-    "value": 422.58145,
-    "value_": 422.58145
+    "value": 361.31814,
+    "value_": 361.31814
   },
   {
     "geoid": "23420",
@@ -16019,8 +15508,8 @@
     "geoid": "24017",
     "key": "crime-rate-violent",
     "date": "2022-09-15",
-    "value": 189.56237,
-    "value_": 189.56237
+    "value": 162.64919,
+    "value_": 162.64919
   },
   {
     "geoid": "24017",
@@ -16047,8 +15536,8 @@
     "geoid": "24021",
     "key": "crime-rate-violent",
     "date": "2022-09-15",
-    "value": 135.2994,
-    "value_": 135.2994
+    "value": 114.86356,
+    "value_": 114.86356
   },
   {
     "geoid": "24021",
@@ -16075,8 +15564,8 @@
     "geoid": "24031",
     "key": "crime-rate-violent",
     "date": "2022-09-15",
-    "value": 105.47207,
-    "value_": 105.47207
+    "value": 89.46547,
+    "value_": 89.46547
   },
   {
     "geoid": "24031",
@@ -16103,8 +15592,8 @@
     "geoid": "24033",
     "key": "crime-rate-violent",
     "date": "2022-09-15",
-    "value": 225.79253,
-    "value_": 225.79253
+    "value": 191.96077,
+    "value_": 191.96077
   },
   {
     "geoid": "24033",
@@ -16131,8 +15620,8 @@
     "geoid": "24340",
     "key": "crime-rate-violent",
     "date": "2022-09-15",
-    "value": 258.86371,
-    "value_": 258.86371
+    "value": 224.4389,
+    "value_": 224.4389
   },
   {
     "geoid": "24340",
@@ -16152,8 +15641,8 @@
     "geoid": "25540",
     "key": "crime-rate-violent",
     "date": "2022-09-15",
-    "value": 76.81947,
-    "value_": 76.81947
+    "value": 65.13693,
+    "value_": 65.13693
   },
   {
     "geoid": "25540",
@@ -16180,8 +15669,8 @@
     "geoid": "26420",
     "key": "crime-rate-violent",
     "date": "2022-09-15",
-    "value": 359.76888,
-    "value_": 359.76888
+    "value": 308.68805,
+    "value_": 308.68805
   },
   {
     "geoid": "26420",
@@ -16208,8 +15697,8 @@
     "geoid": "26900",
     "key": "crime-rate-violent",
     "date": "2022-09-15",
-    "value": 360.5905,
-    "value_": 360.5905
+    "value": 316.96584,
+    "value_": 316.96584
   },
   {
     "geoid": "26900",
@@ -16236,8 +15725,8 @@
     "geoid": "27260",
     "key": "crime-rate-violent",
     "date": "2022-09-15",
-    "value": 321.52221,
-    "value_": 321.52221
+    "value": 278.66257,
+    "value_": 278.66257
   },
   {
     "geoid": "27260",
@@ -16264,8 +15753,8 @@
     "geoid": "28140",
     "key": "crime-rate-violent",
     "date": "2022-09-15",
-    "value": 334.88345,
-    "value_": 334.88345
+    "value": 291.01225,
+    "value_": 291.01225
   },
   {
     "geoid": "28140",
@@ -16292,8 +15781,8 @@
     "geoid": "29820",
     "key": "crime-rate-violent",
     "date": "2022-09-15",
-    "value": 279.48036,
-    "value_": 279.48036
+    "value": 241.84471,
+    "value_": 241.84471
   },
   {
     "geoid": "29820",
@@ -16320,8 +15809,8 @@
     "geoid": "31080",
     "key": "crime-rate-violent",
     "date": "2022-09-15",
-    "value": 336.32301,
-    "value_": 336.32301
+    "value": 289.86386,
+    "value_": 289.86386
   },
   {
     "geoid": "31080",
@@ -16348,8 +15837,8 @@
     "geoid": "31140",
     "key": "crime-rate-violent",
     "date": "2022-09-15",
-    "value": 298.07249,
-    "value_": 298.07249
+    "value": 271.35916,
+    "value_": 271.35916
   },
   {
     "geoid": "31140",
@@ -16376,8 +15865,8 @@
     "geoid": "32820",
     "key": "crime-rate-violent",
     "date": "2022-09-15",
-    "value": 842.78498,
-    "value_": 842.78498
+    "value": 735.28963,
+    "value_": 735.28963
   },
   {
     "geoid": "32820",
@@ -16404,8 +15893,8 @@
     "geoid": "33100",
     "key": "crime-rate-violent",
     "date": "2022-09-15",
-    "value": 121.04243,
-    "value_": 121.04243
+    "value": 105.75763,
+    "value_": 105.75763
   },
   {
     "geoid": "33100",
@@ -16432,8 +15921,8 @@
     "geoid": "33340",
     "key": "crime-rate-violent",
     "date": "2022-09-15",
-    "value": 396.70882,
-    "value_": 396.70882
+    "value": 343.51332,
+    "value_": 343.51332
   },
   {
     "geoid": "33340",
@@ -16453,8 +15942,8 @@
     "geoid": "33460",
     "key": "crime-rate-violent",
     "date": "2022-09-15",
-    "value": 194.97921,
-    "value_": 194.97921
+    "value": 170.80229,
+    "value_": 170.80229
   },
   {
     "geoid": "33460",
@@ -16481,8 +15970,8 @@
     "geoid": "34980",
     "key": "crime-rate-violent",
     "date": "2022-09-15",
-    "value": 366.38161,
-    "value_": 366.38161
+    "value": 317.01517,
+    "value_": 317.01517
   },
   {
     "geoid": "34980",
@@ -16502,8 +15991,8 @@
     "geoid": "35620",
     "key": "crime-rate-violent",
     "date": "2022-09-15",
-    "value": 254.57744,
-    "value_": 254.57744
+    "value": 221.80054,
+    "value_": 221.80054
   },
   {
     "geoid": "35620",
@@ -16530,8 +16019,8 @@
     "geoid": "36420",
     "key": "crime-rate-violent",
     "date": "2022-09-15",
-    "value": 270.64602,
-    "value_": 270.64602
+    "value": 233.31554,
+    "value_": 233.31554
   },
   {
     "geoid": "36420",
@@ -16558,8 +16047,8 @@
     "geoid": "36540",
     "key": "crime-rate-violent",
     "date": "2022-09-15",
-    "value": 229.85715,
-    "value_": 229.85715
+    "value": 204.32899,
+    "value_": 204.32899
   },
   {
     "geoid": "36540",
@@ -16586,8 +16075,8 @@
     "geoid": "37980",
     "key": "crime-rate-violent",
     "date": "2022-09-15",
-    "value": 329.80116,
-    "value_": 329.80116
+    "value": 285.8489,
+    "value_": 285.8489
   },
   {
     "geoid": "37980",
@@ -16614,8 +16103,8 @@
     "geoid": "38060",
     "key": "crime-rate-violent",
     "date": "2022-09-15",
-    "value": 303.76591,
-    "value_": 303.76591
+    "value": 261.63129,
+    "value_": 261.63129
   },
   {
     "geoid": "38060",
@@ -16635,8 +16124,8 @@
     "geoid": "38300",
     "key": "crime-rate-violent",
     "date": "2022-09-15",
-    "value": 166.239,
-    "value_": 166.239
+    "value": 146.51298,
+    "value_": 146.51298
   },
   {
     "geoid": "38300",
@@ -16663,8 +16152,8 @@
     "geoid": "38900",
     "key": "crime-rate-violent",
     "date": "2022-09-15",
-    "value": 251.58239,
-    "value_": 251.58239
+    "value": 214.22902,
+    "value_": 214.22902
   },
   {
     "geoid": "38900",
@@ -16691,8 +16180,8 @@
     "geoid": "39300",
     "key": "crime-rate-violent",
     "date": "2022-09-15",
-    "value": 162.78063,
-    "value_": 162.78063
+    "value": 140.19043,
+    "value_": 140.19043
   },
   {
     "geoid": "39300",
@@ -16719,8 +16208,8 @@
     "geoid": "39580",
     "key": "crime-rate-violent",
     "date": "2022-09-15",
-    "value": 151.21413,
-    "value_": 151.21413
+    "value": 128.62976,
+    "value_": 128.62976
   },
   {
     "geoid": "39580",
@@ -16747,8 +16236,8 @@
     "geoid": "40060",
     "key": "crime-rate-violent",
     "date": "2022-09-15",
-    "value": 162.43236,
-    "value_": 162.43236
+    "value": 141.64221,
+    "value_": 141.64221
   },
   {
     "geoid": "40060",
@@ -16768,8 +16257,8 @@
     "geoid": "40140",
     "key": "crime-rate-violent",
     "date": "2022-09-15",
-    "value": 273.6192,
-    "value_": 273.6192
+    "value": 234.07849,
+    "value_": 234.07849
   },
   {
     "geoid": "40140",
@@ -16796,8 +16285,8 @@
     "geoid": "40380",
     "key": "crime-rate-violent",
     "date": "2022-09-15",
-    "value": 146.0752,
-    "value_": 146.0752
+    "value": 126.2684,
+    "value_": 126.2684
   },
   {
     "geoid": "40380",
@@ -16824,8 +16313,8 @@
     "geoid": "40900",
     "key": "crime-rate-violent",
     "date": "2022-09-15",
-    "value": 273.08565,
-    "value_": 273.08565
+    "value": 233.97332,
+    "value_": 233.97332
   },
   {
     "geoid": "40900",
@@ -16852,8 +16341,8 @@
     "geoid": "41180",
     "key": "crime-rate-violent",
     "date": "2022-09-15",
-    "value": 165.3599,
-    "value_": 165.3599
+    "value": 142.40678,
+    "value_": 142.40678
   },
   {
     "geoid": "41180",
@@ -16880,8 +16369,8 @@
     "geoid": "41620",
     "key": "crime-rate-violent",
     "date": "2022-09-15",
-    "value": 234.91866,
-    "value_": 234.91866
+    "value": 203.41677,
+    "value_": 203.41677
   },
   {
     "geoid": "41620",
@@ -16908,8 +16397,8 @@
     "geoid": "41700",
     "key": "crime-rate-violent",
     "date": "2022-09-15",
-    "value": 360.50337,
-    "value_": 360.50337
+    "value": 310.73496,
+    "value_": 310.73496
   },
   {
     "geoid": "41700",
@@ -16936,8 +16425,8 @@
     "geoid": "41740",
     "key": "crime-rate-violent",
     "date": "2022-09-15",
-    "value": 238.54854,
-    "value_": 238.54854
+    "value": 203.59436,
+    "value_": 203.59436
   },
   {
     "geoid": "41740",
@@ -16964,8 +16453,8 @@
     "geoid": "41860",
     "key": "crime-rate-violent",
     "date": "2022-09-15",
-    "value": 323.06315,
-    "value_": 323.06315
+    "value": 280.55484,
+    "value_": 280.55484
   },
   {
     "geoid": "41860",
@@ -16992,8 +16481,8 @@
     "geoid": "41940",
     "key": "crime-rate-violent",
     "date": "2022-09-15",
-    "value": 239.7358,
-    "value_": 239.7358
+    "value": 205.59241,
+    "value_": 205.59241
   },
   {
     "geoid": "41940",
@@ -17020,8 +16509,8 @@
     "geoid": "42660",
     "key": "crime-rate-violent",
     "date": "2022-09-15",
-    "value": 276.03069,
-    "value_": 276.03069
+    "value": 234.30831,
+    "value_": 234.30831
   },
   {
     "geoid": "42660",
@@ -17048,8 +16537,8 @@
     "geoid": "45300",
     "key": "crime-rate-violent",
     "date": "2022-09-15",
-    "value": 126.12005,
-    "value_": 126.12005
+    "value": 107.21697,
+    "value_": 107.21697
   },
   {
     "geoid": "45300",
@@ -17076,8 +16565,8 @@
     "geoid": "46060",
     "key": "crime-rate-violent",
     "date": "2022-09-15",
-    "value": 231.72327,
-    "value_": 231.72327
+    "value": 222.53767,
+    "value_": 222.53767
   },
   {
     "geoid": "46060",
@@ -17097,8 +16586,8 @@
     "geoid": "46140",
     "key": "crime-rate-violent",
     "date": "2022-09-15",
-    "value": 315.49068,
-    "value_": 315.49068
+    "value": 274.27663,
+    "value_": 274.27663
   },
   {
     "geoid": "46140",
@@ -17125,8 +16614,8 @@
     "geoid": "47260",
     "key": "crime-rate-violent",
     "date": "2022-09-15",
-    "value": 235.7808,
-    "value_": 235.7808
+    "value": 205.88995,
+    "value_": 205.88995
   },
   {
     "geoid": "47260",
@@ -17146,8 +16635,8 @@
     "geoid": "47900",
     "key": "crime-rate-violent",
     "date": "2022-09-15",
-    "value": 165.19584,
-    "value_": 165.19584
+    "value": 142.4185,
+    "value_": 142.4185
   },
   {
     "geoid": "47900",
@@ -17174,8 +16663,8 @@
     "geoid": "51013",
     "key": "crime-rate-violent",
     "date": "2022-09-15",
-    "value": 159.14631,
-    "value_": 159.14631
+    "value": 131.9643,
+    "value_": 131.9643
   },
   {
     "geoid": "51013",
@@ -17230,8 +16719,8 @@
     "geoid": "51047",
     "key": "crime-rate-violent",
     "date": "2022-09-15",
-    "value": 96.92935,
-    "value_": 96.92935
+    "value": 87.78507,
+    "value_": 87.78507
   },
   {
     "geoid": "51047",
@@ -17258,8 +16747,8 @@
     "geoid": "51059",
     "key": "crime-rate-violent",
     "date": "2022-09-15",
-    "value": 73.34907,
-    "value_": 73.34907
+    "value": 63.38178,
+    "value_": 63.38178
   },
   {
     "geoid": "51059",
@@ -17286,8 +16775,8 @@
     "geoid": "51061",
     "key": "crime-rate-violent",
     "date": "2022-09-15",
-    "value": 57.8548,
-    "value_": 57.8548
+    "value": 49.78204,
+    "value_": 49.78204
   },
   {
     "geoid": "51061",
@@ -17314,8 +16803,8 @@
     "geoid": "51107",
     "key": "crime-rate-violent",
     "date": "2022-09-15",
-    "value": 64.72507,
-    "value_": 64.72507
+    "value": 55.97221,
+    "value_": 55.97221
   },
   {
     "geoid": "51107",
@@ -17342,8 +16831,8 @@
     "geoid": "51153",
     "key": "crime-rate-violent",
     "date": "2022-09-15",
-    "value": 167.4356,
-    "value_": 167.4356
+    "value": 148.79103,
+    "value_": 148.79103
   },
   {
     "geoid": "51153",
@@ -17384,8 +16873,8 @@
     "geoid": "51177",
     "key": "crime-rate-violent",
     "date": "2022-09-15",
-    "value": 111.89551,
-    "value_": 111.89551
+    "value": 94.94164,
+    "value_": 94.94164
   },
   {
     "geoid": "51177",
@@ -17405,8 +16894,8 @@
     "geoid": "51179",
     "key": "crime-rate-violent",
     "date": "2022-09-15",
-    "value": 117.12089,
-    "value_": 117.12089
+    "value": 103.77032,
+    "value_": 103.77032
   },
   {
     "geoid": "51179",
@@ -17426,8 +16915,8 @@
     "geoid": "51187",
     "key": "crime-rate-violent",
     "date": "2022-09-15",
-    "value": 70.36956,
-    "value_": 70.36956
+    "value": 67.94302,
+    "value_": 67.94302
   },
   {
     "geoid": "51187",
@@ -17454,8 +16943,8 @@
     "geoid": "51510",
     "key": "crime-rate-violent",
     "date": "2022-09-15",
-    "value": 109.96509,
-    "value_": 109.96509
+    "value": 98.04116,
+    "value_": 98.04116
   },
   {
     "geoid": "51510",
@@ -17475,8 +16964,8 @@
     "geoid": "51630",
     "key": "crime-rate-violent",
     "date": "2022-09-15",
-    "value": 249.61864,
-    "value_": 249.61864
+    "value": 214.94938,
+    "value_": 214.94938
   },
   {
     "geoid": "51630",
@@ -17503,8 +16992,8 @@
     "geoid": "54037",
     "key": "crime-rate-violent",
     "date": "2022-09-15",
-    "value": 69.65675,
-    "value_": 69.65675
+    "value": 65.78693,
+    "value_": 65.78693
   },
   {
     "geoid": "54037",
@@ -17531,8 +17020,8 @@
     "geoid": "99997",
     "key": "crime-rate-violent",
     "date": "2022-09-15",
-    "value": 261.48468,
-    "value_": 261.48468
+    "value": 226.50244,
+    "value_": 226.50244
   },
   {
     "geoid": "99997",
@@ -17559,8 +17048,8 @@
     "geoid": "99999",
     "key": "crime-rate-violent",
     "date": "2022-09-15",
-    "value": 239.4688,
-    "value_": 239.4688
+    "value": 207.12695,
+    "value_": 207.12695
   },
   {
     "geoid": "99999",
@@ -17587,8 +17076,8 @@
     "geoid": "11001",
     "key": "crime-rate-violent",
     "date": "2022-10-15",
-    "value": 542.27206,
-    "value_": 542.27206
+    "value": 479.45603,
+    "value_": 479.45603
   },
   {
     "geoid": "11001",
@@ -17615,8 +17104,8 @@
     "geoid": "12060",
     "key": "crime-rate-violent",
     "date": "2022-10-15",
-    "value": 283.75096,
-    "value_": 283.75096
+    "value": 251.62976,
+    "value_": 251.62976
   },
   {
     "geoid": "12060",
@@ -17643,8 +17132,8 @@
     "geoid": "12420",
     "key": "crime-rate-violent",
     "date": "2022-10-15",
-    "value": 245.09713,
-    "value_": 245.09713
+    "value": 214.1501,
+    "value_": 214.1501
   },
   {
     "geoid": "12420",
@@ -17671,8 +17160,8 @@
     "geoid": "12580",
     "key": "crime-rate-violent",
     "date": "2022-10-15",
-    "value": 418.02051,
-    "value_": 418.02051
+    "value": 367.22702,
+    "value_": 367.22702
   },
   {
     "geoid": "12580",
@@ -17699,8 +17188,8 @@
     "geoid": "13820",
     "key": "crime-rate-violent",
     "date": "2022-10-15",
-    "value": 375.83748,
-    "value_": 375.83748
+    "value": 334.77294,
+    "value_": 334.77294
   },
   {
     "geoid": "13820",
@@ -17727,8 +17216,8 @@
     "geoid": "14460",
     "key": "crime-rate-violent",
     "date": "2022-10-15",
-    "value": 194.82997,
-    "value_": 194.82997
+    "value": 171.51453,
+    "value_": 171.51453
   },
   {
     "geoid": "14460",
@@ -17755,8 +17244,8 @@
     "geoid": "15380",
     "key": "crime-rate-violent",
     "date": "2022-10-15",
-    "value": 233.13817,
-    "value_": 233.13817
+    "value": 206.69344,
+    "value_": 206.69344
   },
   {
     "geoid": "15380",
@@ -17783,8 +17272,8 @@
     "geoid": "16740",
     "key": "crime-rate-violent",
     "date": "2022-10-15",
-    "value": 305.60678,
-    "value_": 305.60678
+    "value": 268.63204,
+    "value_": 268.63204
   },
   {
     "geoid": "16740",
@@ -17811,8 +17300,8 @@
     "geoid": "16980",
     "key": "crime-rate-violent",
     "date": "2022-10-15",
-    "value": 216.09787,
-    "value_": 216.09787
+    "value": 193.91036,
+    "value_": 193.91036
   },
   {
     "geoid": "16980",
@@ -17839,8 +17328,8 @@
     "geoid": "17140",
     "key": "crime-rate-violent",
     "date": "2022-10-15",
-    "value": 163.62618,
-    "value_": 163.62618
+    "value": 146.48126,
+    "value_": 146.48126
   },
   {
     "geoid": "17140",
@@ -17867,8 +17356,8 @@
     "geoid": "17410",
     "key": "crime-rate-violent",
     "date": "2022-10-15",
-    "value": 292.0395,
-    "value_": 292.0395
+    "value": 256.30235,
+    "value_": 256.30235
   },
   {
     "geoid": "17410",
@@ -17895,8 +17384,8 @@
     "geoid": "18140",
     "key": "crime-rate-violent",
     "date": "2022-10-15",
-    "value": 237.28242,
-    "value_": 237.28242
+    "value": 208.5323,
+    "value_": 208.5323
   },
   {
     "geoid": "18140",
@@ -17923,8 +17412,8 @@
     "geoid": "19100",
     "key": "crime-rate-violent",
     "date": "2022-10-15",
-    "value": 248.04625,
-    "value_": 248.04625
+    "value": 218.18191,
+    "value_": 218.18191
   },
   {
     "geoid": "19100",
@@ -17951,8 +17440,8 @@
     "geoid": "19740",
     "key": "crime-rate-violent",
     "date": "2022-10-15",
-    "value": 432.08818,
-    "value_": 432.08818
+    "value": 381.51537,
+    "value_": 381.51537
   },
   {
     "geoid": "19740",
@@ -17979,8 +17468,8 @@
     "geoid": "19820",
     "key": "crime-rate-violent",
     "date": "2022-10-15",
-    "value": 390.06215,
-    "value_": 390.06215
+    "value": 348.38217,
+    "value_": 348.38217
   },
   {
     "geoid": "19820",
@@ -18007,8 +17496,8 @@
     "geoid": "23420",
     "key": "crime-rate-violent",
     "date": "2022-10-15",
-    "value": 481.89855,
-    "value_": 481.89855
+    "value": 420.63524,
+    "value_": 420.63524
   },
   {
     "geoid": "23420",
@@ -18035,8 +17524,8 @@
     "geoid": "24017",
     "key": "crime-rate-violent",
     "date": "2022-10-15",
-    "value": 219.98596,
-    "value_": 219.98596
+    "value": 193.07278,
+    "value_": 193.07278
   },
   {
     "geoid": "24017",
@@ -18063,8 +17552,8 @@
     "geoid": "24021",
     "key": "crime-rate-violent",
     "date": "2022-10-15",
-    "value": 151.1548,
-    "value_": 151.1548
+    "value": 130.71895,
+    "value_": 130.71895
   },
   {
     "geoid": "24021",
@@ -18091,8 +17580,8 @@
     "geoid": "24031",
     "key": "crime-rate-violent",
     "date": "2022-10-15",
-    "value": 122.24089,
-    "value_": 122.24089
+    "value": 106.23429,
+    "value_": 106.23429
   },
   {
     "geoid": "24031",
@@ -18119,8 +17608,8 @@
     "geoid": "24033",
     "key": "crime-rate-violent",
     "date": "2022-10-15",
-    "value": 253.79685,
-    "value_": 253.79685
+    "value": 219.8793,
+    "value_": 219.8793
   },
   {
     "geoid": "24033",
@@ -18147,8 +17636,8 @@
     "geoid": "24340",
     "key": "crime-rate-violent",
     "date": "2022-10-15",
-    "value": 295.45701,
-    "value_": 295.45701
+    "value": 261.0322,
+    "value_": 261.0322
   },
   {
     "geoid": "24340",
@@ -18175,8 +17664,8 @@
     "geoid": "25540",
     "key": "crime-rate-violent",
     "date": "2022-10-15",
-    "value": 87.95863,
-    "value_": 87.95863
+    "value": 76.2761,
+    "value_": 76.2761
   },
   {
     "geoid": "25540",
@@ -18203,8 +17692,8 @@
     "geoid": "26420",
     "key": "crime-rate-violent",
     "date": "2022-10-15",
-    "value": 409.45399,
-    "value_": 409.45399
+    "value": 358.37316,
+    "value_": 358.37316
   },
   {
     "geoid": "26420",
@@ -18231,8 +17720,8 @@
     "geoid": "26900",
     "key": "crime-rate-violent",
     "date": "2022-10-15",
-    "value": 411.89235,
-    "value_": 411.89235
+    "value": 367.9283,
+    "value_": 367.9283
   },
   {
     "geoid": "26900",
@@ -18259,8 +17748,8 @@
     "geoid": "27260",
     "key": "crime-rate-violent",
     "date": "2022-10-15",
-    "value": 366.10522,
-    "value_": 366.10522
+    "value": 323.24558,
+    "value_": 323.24558
   },
   {
     "geoid": "27260",
@@ -18287,8 +17776,8 @@
     "geoid": "28140",
     "key": "crime-rate-violent",
     "date": "2022-10-15",
-    "value": 413.37182,
-    "value_": 413.37182
+    "value": 366.0561,
+    "value_": 366.0561
   },
   {
     "geoid": "28140",
@@ -18315,8 +17804,8 @@
     "geoid": "29820",
     "key": "crime-rate-violent",
     "date": "2022-10-15",
-    "value": 322.04192,
-    "value_": 322.04192
+    "value": 284.40627,
+    "value_": 284.40627
   },
   {
     "geoid": "29820",
@@ -18343,8 +17832,8 @@
     "geoid": "31080",
     "key": "crime-rate-violent",
     "date": "2022-10-15",
-    "value": 383.19621,
-    "value_": 383.19621
+    "value": 336.73706,
+    "value_": 336.73706
   },
   {
     "geoid": "31080",
@@ -18371,8 +17860,8 @@
     "geoid": "31140",
     "key": "crime-rate-violent",
     "date": "2022-10-15",
-    "value": 334.5958,
-    "value_": 334.5958
+    "value": 307.88247,
+    "value_": 307.88247
   },
   {
     "geoid": "31140",
@@ -18399,8 +17888,8 @@
     "geoid": "32820",
     "key": "crime-rate-violent",
     "date": "2022-10-15",
-    "value": 953.41053,
-    "value_": 953.41053
+    "value": 845.91518,
+    "value_": 845.91518
   },
   {
     "geoid": "32820",
@@ -18427,8 +17916,8 @@
     "geoid": "33100",
     "key": "crime-rate-violent",
     "date": "2022-10-15",
-    "value": 148.38806,
-    "value_": 148.38806
+    "value": 132.59803,
+    "value_": 132.59803
   },
   {
     "geoid": "33100",
@@ -18455,8 +17944,8 @@
     "geoid": "33340",
     "key": "crime-rate-violent",
     "date": "2022-10-15",
-    "value": 454.30568,
-    "value_": 454.30568
+    "value": 401.35979,
+    "value_": 401.35979
   },
   {
     "geoid": "33340",
@@ -18483,8 +17972,8 @@
     "geoid": "33460",
     "key": "crime-rate-violent",
     "date": "2022-10-15",
-    "value": 221.2267,
-    "value_": 221.2267
+    "value": 197.073,
+    "value_": 197.073
   },
   {
     "geoid": "33460",
@@ -18511,8 +18000,8 @@
     "geoid": "34980",
     "key": "crime-rate-violent",
     "date": "2022-10-15",
-    "value": 419.95898,
-    "value_": 419.95898
+    "value": 370.68055,
+    "value_": 370.68055
   },
   {
     "geoid": "34980",
@@ -18539,8 +18028,8 @@
     "geoid": "35620",
     "key": "crime-rate-violent",
     "date": "2022-10-15",
-    "value": 289.40391,
-    "value_": 289.40391
+    "value": 256.61466,
+    "value_": 256.61466
   },
   {
     "geoid": "35620",
@@ -18567,8 +18056,8 @@
     "geoid": "36420",
     "key": "crime-rate-violent",
     "date": "2022-10-15",
-    "value": 311.13313,
-    "value_": 311.13313
+    "value": 273.80265,
+    "value_": 273.80265
   },
   {
     "geoid": "36420",
@@ -18595,8 +18084,8 @@
     "geoid": "36540",
     "key": "crime-rate-violent",
     "date": "2022-10-15",
-    "value": 264.32342,
-    "value_": 264.32342
+    "value": 238.72359,
+    "value_": 238.72359
   },
   {
     "geoid": "36540",
@@ -18623,8 +18112,8 @@
     "geoid": "37980",
     "key": "crime-rate-violent",
     "date": "2022-10-15",
-    "value": 369.96018,
-    "value_": 369.96018
+    "value": 326.41195,
+    "value_": 326.41195
   },
   {
     "geoid": "37980",
@@ -18651,8 +18140,8 @@
     "geoid": "38060",
     "key": "crime-rate-violent",
     "date": "2022-10-15",
-    "value": 344.6458,
-    "value_": 344.6458
+    "value": 302.51118,
+    "value_": 302.51118
   },
   {
     "geoid": "38060",
@@ -18679,8 +18168,8 @@
     "geoid": "38300",
     "key": "crime-rate-violent",
     "date": "2022-10-15",
-    "value": 188.28297,
-    "value_": 188.28297
+    "value": 168.7371,
+    "value_": 168.7371
   },
   {
     "geoid": "38300",
@@ -18707,8 +18196,8 @@
     "geoid": "38900",
     "key": "crime-rate-violent",
     "date": "2022-10-15",
-    "value": 285.78754,
-    "value_": 285.78754
+    "value": 248.27742,
+    "value_": 248.27742
   },
   {
     "geoid": "38900",
@@ -18735,8 +18224,8 @@
     "geoid": "39300",
     "key": "crime-rate-violent",
     "date": "2022-10-15",
-    "value": 186.14571,
-    "value_": 186.14571
+    "value": 163.5555,
+    "value_": 163.5555
   },
   {
     "geoid": "39300",
@@ -18763,8 +18252,8 @@
     "geoid": "39580",
     "key": "crime-rate-violent",
     "date": "2022-10-15",
-    "value": 179.46144,
-    "value_": 179.46144
+    "value": 156.87707,
+    "value_": 156.87707
   },
   {
     "geoid": "39580",
@@ -18791,8 +18280,8 @@
     "geoid": "40060",
     "key": "crime-rate-violent",
     "date": "2022-10-15",
-    "value": 186.96174,
-    "value_": 186.96174
+    "value": 166.17159,
+    "value_": 166.17159
   },
   {
     "geoid": "40060",
@@ -18819,8 +18308,8 @@
     "geoid": "40140",
     "key": "crime-rate-violent",
     "date": "2022-10-15",
-    "value": 312.2038,
-    "value_": 312.2038
+    "value": 272.66309,
+    "value_": 272.66309
   },
   {
     "geoid": "40140",
@@ -18847,8 +18336,8 @@
     "geoid": "40380",
     "key": "crime-rate-violent",
     "date": "2022-10-15",
-    "value": 163.25041,
-    "value_": 163.25041
+    "value": 143.38143,
+    "value_": 143.38143
   },
   {
     "geoid": "40380",
@@ -18875,8 +18364,8 @@
     "geoid": "40900",
     "key": "crime-rate-violent",
     "date": "2022-10-15",
-    "value": 311.70341,
-    "value_": 311.70341
+    "value": 272.59108,
+    "value_": 272.59108
   },
   {
     "geoid": "40900",
@@ -18903,8 +18392,8 @@
     "geoid": "41180",
     "key": "crime-rate-violent",
     "date": "2022-10-15",
-    "value": 187.09685,
-    "value_": 187.09685
+    "value": 164.29933,
+    "value_": 164.29933
   },
   {
     "geoid": "41180",
@@ -18931,8 +18420,8 @@
     "geoid": "41620",
     "key": "crime-rate-violent",
     "date": "2022-10-15",
-    "value": 268.79508,
-    "value_": 268.79508
+    "value": 237.29318,
+    "value_": 237.29318
   },
   {
     "geoid": "41620",
@@ -18959,8 +18448,8 @@
     "geoid": "41700",
     "key": "crime-rate-violent",
     "date": "2022-10-15",
-    "value": 410.61818,
-    "value_": 410.61818
+    "value": 360.84978,
+    "value_": 360.84978
   },
   {
     "geoid": "41700",
@@ -18987,8 +18476,8 @@
     "geoid": "41740",
     "key": "crime-rate-violent",
     "date": "2022-10-15",
-    "value": 272.34368,
-    "value_": 272.34368
+    "value": 237.3895,
+    "value_": 237.3895
   },
   {
     "geoid": "41740",
@@ -19015,8 +18504,8 @@
     "geoid": "41860",
     "key": "crime-rate-violent",
     "date": "2022-10-15",
-    "value": 370.37578,
-    "value_": 370.37578
+    "value": 327.86747,
+    "value_": 327.86747
   },
   {
     "geoid": "41860",
@@ -19043,8 +18532,8 @@
     "geoid": "41940",
     "key": "crime-rate-violent",
     "date": "2022-10-15",
-    "value": 274.92494,
-    "value_": 274.92494
+    "value": 240.78154,
+    "value_": 240.78154
   },
   {
     "geoid": "41940",
@@ -19071,8 +18560,8 @@
     "geoid": "42660",
     "key": "crime-rate-violent",
     "date": "2022-10-15",
-    "value": 314.83699,
-    "value_": 314.83699
+    "value": 273.11461,
+    "value_": 273.11461
   },
   {
     "geoid": "42660",
@@ -19099,8 +18588,8 @@
     "geoid": "45300",
     "key": "crime-rate-violent",
     "date": "2022-10-15",
-    "value": 146.04797,
-    "value_": 146.04797
+    "value": 127.12382,
+    "value_": 127.12382
   },
   {
     "geoid": "45300",
@@ -19127,8 +18616,8 @@
     "geoid": "46060",
     "key": "crime-rate-violent",
     "date": "2022-10-15",
-    "value": 269.50732,
-    "value_": 269.50732
+    "value": 260.32172,
+    "value_": 260.32172
   },
   {
     "geoid": "46060",
@@ -19155,8 +18644,8 @@
     "geoid": "46140",
     "key": "crime-rate-violent",
     "date": "2022-10-15",
-    "value": 354.28607,
-    "value_": 354.28607
+    "value": 313.07201,
+    "value_": 313.07201
   },
   {
     "geoid": "46140",
@@ -19183,8 +18672,8 @@
     "geoid": "47260",
     "key": "crime-rate-violent",
     "date": "2022-10-15",
-    "value": 264.27748,
-    "value_": 264.27748
+    "value": 234.38663,
+    "value_": 234.38663
   },
   {
     "geoid": "47260",
@@ -19211,8 +18700,8 @@
     "geoid": "47900",
     "key": "crime-rate-violent",
     "date": "2022-10-15",
-    "value": 189.20965,
-    "value_": 189.20965
+    "value": 166.44168,
+    "value_": 166.44168
   },
   {
     "geoid": "47900",
@@ -19239,8 +18728,8 @@
     "geoid": "51013",
     "key": "crime-rate-violent",
     "date": "2022-10-15",
-    "value": 181.06729,
-    "value_": 181.06729
+    "value": 153.88527,
+    "value_": 153.88527
   },
   {
     "geoid": "51013",
@@ -19295,8 +18784,8 @@
     "geoid": "51047",
     "key": "crime-rate-violent",
     "date": "2022-10-15",
-    "value": 118.87562,
-    "value_": 118.87562
+    "value": 109.73134,
+    "value_": 109.73134
   },
   {
     "geoid": "51047",
@@ -19323,8 +18812,8 @@
     "geoid": "51059",
     "key": "crime-rate-violent",
     "date": "2022-10-15",
-    "value": 84.93499,
-    "value_": 84.93499
+    "value": 74.96769,
+    "value_": 74.96769
   },
   {
     "geoid": "51059",
@@ -19351,8 +18840,8 @@
     "geoid": "51061",
     "key": "crime-rate-violent",
     "date": "2022-10-15",
-    "value": 63.23664,
-    "value_": 63.23664
+    "value": 55.16388,
+    "value_": 55.16388
   },
   {
     "geoid": "51061",
@@ -19379,8 +18868,8 @@
     "geoid": "51107",
     "key": "crime-rate-violent",
     "date": "2022-10-15",
-    "value": 73.47792,
-    "value_": 73.47792
+    "value": 64.72507,
+    "value_": 64.72507
   },
   {
     "geoid": "51107",
@@ -19407,8 +18896,8 @@
     "geoid": "51153",
     "key": "crime-rate-violent",
     "date": "2022-10-15",
-    "value": 195.775,
-    "value_": 195.775
+    "value": 177.09487,
+    "value_": 177.09487
   },
   {
     "geoid": "51153",
@@ -19456,8 +18945,8 @@
     "geoid": "51177",
     "key": "crime-rate-violent",
     "date": "2022-10-15",
-    "value": 128.17122,
-    "value_": 128.17122
+    "value": 111.21736,
+    "value_": 111.21736
   },
   {
     "geoid": "51177",
@@ -19484,8 +18973,8 @@
     "geoid": "51179",
     "key": "crime-rate-violent",
     "date": "2022-10-15",
-    "value": 134.71936,
-    "value_": 134.71936
+    "value": 121.3688,
+    "value_": 121.3688
   },
   {
     "geoid": "51179",
@@ -19505,8 +18994,8 @@
     "geoid": "51187",
     "key": "crime-rate-violent",
     "date": "2022-10-15",
-    "value": 75.22263,
-    "value_": 75.22263
+    "value": 72.7961,
+    "value_": 72.7961
   },
   {
     "geoid": "51187",
@@ -19533,8 +19022,8 @@
     "geoid": "51510",
     "key": "crime-rate-violent",
     "date": "2022-10-15",
-    "value": 127.85098,
-    "value_": 127.85098
+    "value": 115.92705,
+    "value_": 115.92705
   },
   {
     "geoid": "51510",
@@ -19561,8 +19050,8 @@
     "geoid": "51630",
     "key": "crime-rate-violent",
     "date": "2022-10-15",
-    "value": 315.49022,
-    "value_": 315.49022
+    "value": 280.82097,
+    "value_": 280.82097
   },
   {
     "geoid": "51630",
@@ -19589,8 +19078,8 @@
     "geoid": "54037",
     "key": "crime-rate-violent",
     "date": "2022-10-15",
-    "value": 74.55311,
-    "value_": 74.55311
+    "value": 71.08553,
+    "value_": 71.08553
   },
   {
     "geoid": "54037",
@@ -19617,8 +19106,8 @@
     "geoid": "99997",
     "key": "crime-rate-violent",
     "date": "2022-10-15",
-    "value": 298.4935,
-    "value_": 298.4935
+    "value": 263.46983,
+    "value_": 263.46983
   },
   {
     "geoid": "99997",
@@ -19645,8 +19134,8 @@
     "geoid": "99999",
     "key": "crime-rate-violent",
     "date": "2022-10-15",
-    "value": 273.03734,
-    "value_": 273.03734
+    "value": 240.67003,
+    "value_": 240.67003
   },
   {
     "geoid": "99999",
@@ -19673,8 +19162,8 @@
     "geoid": "11001",
     "key": "crime-rate-violent",
     "date": "2022-11-15",
-    "value": 612.67961,
-    "value_": 612.67961
+    "value": 549.86358,
+    "value_": 549.86358
   },
   {
     "geoid": "11001",
@@ -19701,8 +19190,8 @@
     "geoid": "12060",
     "key": "crime-rate-violent",
     "date": "2022-11-15",
-    "value": 314.60059,
-    "value_": 314.60059
+    "value": 282.50016,
+    "value_": 282.50016
   },
   {
     "geoid": "12060",
@@ -19729,8 +19218,8 @@
     "geoid": "12420",
     "key": "crime-rate-violent",
     "date": "2022-11-15",
-    "value": 273.39981,
-    "value_": 273.39981
+    "value": 242.45279,
+    "value_": 242.45279
   },
   {
     "geoid": "12420",
@@ -19757,8 +19246,8 @@
     "geoid": "12580",
     "key": "crime-rate-violent",
     "date": "2022-11-15",
-    "value": 469.23846,
-    "value_": 469.23846
+    "value": 418.44497,
+    "value_": 418.44497
   },
   {
     "geoid": "12580",
@@ -19785,8 +19274,8 @@
     "geoid": "13820",
     "key": "crime-rate-violent",
     "date": "2022-11-15",
-    "value": 415.49208,
-    "value_": 415.49208
+    "value": 374.42754,
+    "value_": 374.42754
   },
   {
     "geoid": "13820",
@@ -19813,8 +19302,8 @@
     "geoid": "14460",
     "key": "crime-rate-violent",
     "date": "2022-11-15",
-    "value": 216.24103,
-    "value_": 216.24103
+    "value": 192.95796,
+    "value_": 192.95796
   },
   {
     "geoid": "14460",
@@ -19841,8 +19330,8 @@
     "geoid": "15380",
     "key": "crime-rate-violent",
     "date": "2022-11-15",
-    "value": 256.22203,
-    "value_": 256.22203
+    "value": 229.7773,
+    "value_": 229.7773
   },
   {
     "geoid": "15380",
@@ -19862,8 +19351,8 @@
     "geoid": "16740",
     "key": "crime-rate-violent",
     "date": "2022-11-15",
-    "value": 335.54392,
-    "value_": 335.54392
+    "value": 298.56918,
+    "value_": 298.56918
   },
   {
     "geoid": "16740",
@@ -19890,8 +19379,8 @@
     "geoid": "16980",
     "key": "crime-rate-violent",
     "date": "2022-11-15",
-    "value": 238.17197,
-    "value_": 238.17197
+    "value": 216.35769,
+    "value_": 216.35769
   },
   {
     "geoid": "16980",
@@ -19918,8 +19407,8 @@
     "geoid": "17140",
     "key": "crime-rate-violent",
     "date": "2022-11-15",
-    "value": 181.10258,
-    "value_": 181.10258
+    "value": 163.98832,
+    "value_": 163.98832
   },
   {
     "geoid": "17140",
@@ -19946,8 +19435,8 @@
     "geoid": "17410",
     "key": "crime-rate-violent",
     "date": "2022-11-15",
-    "value": 324.50714,
-    "value_": 324.50714
+    "value": 288.78903,
+    "value_": 288.78903
   },
   {
     "geoid": "17410",
@@ -19974,8 +19463,8 @@
     "geoid": "18140",
     "key": "crime-rate-violent",
     "date": "2022-11-15",
-    "value": 263.74605,
-    "value_": 263.74605
+    "value": 235.00449,
+    "value_": 235.00449
   },
   {
     "geoid": "18140",
@@ -20002,8 +19491,8 @@
     "geoid": "19100",
     "key": "crime-rate-violent",
     "date": "2022-11-15",
-    "value": 273.61419,
-    "value_": 273.61419
+    "value": 243.73496,
+    "value_": 243.73496
   },
   {
     "geoid": "19100",
@@ -20030,8 +19519,8 @@
     "geoid": "19740",
     "key": "crime-rate-violent",
     "date": "2022-11-15",
-    "value": 481.75641,
-    "value_": 481.75641
+    "value": 431.17972,
+    "value_": 431.17972
   },
   {
     "geoid": "19740",
@@ -20058,8 +19547,8 @@
     "geoid": "19820",
     "key": "crime-rate-violent",
     "date": "2022-11-15",
-    "value": 433.20753,
-    "value_": 433.20753
+    "value": 391.52755,
+    "value_": 391.52755
   },
   {
     "geoid": "19820",
@@ -20086,8 +19575,8 @@
     "geoid": "23420",
     "key": "crime-rate-violent",
     "date": "2022-11-15",
-    "value": 531.73846,
-    "value_": 531.73846
+    "value": 470.47515,
+    "value_": 470.47515
   },
   {
     "geoid": "23420",
@@ -20114,8 +19603,8 @@
     "geoid": "24017",
     "key": "crime-rate-violent",
     "date": "2022-11-15",
-    "value": 245.14393,
-    "value_": 245.14393
+    "value": 218.23075,
+    "value_": 218.23075
   },
   {
     "geoid": "24017",
@@ -20142,8 +19631,8 @@
     "geoid": "24021",
     "key": "crime-rate-violent",
     "date": "2022-11-15",
-    "value": 168.06723,
-    "value_": 168.06723
+    "value": 147.63138,
+    "value_": 147.63138
   },
   {
     "geoid": "24021",
@@ -20170,8 +19659,8 @@
     "geoid": "24031",
     "key": "crime-rate-violent",
     "date": "2022-11-15",
-    "value": 136.34194,
-    "value_": 136.34194
+    "value": 120.33534,
+    "value_": 120.33534
   },
   {
     "geoid": "24031",
@@ -20198,8 +19687,8 @@
     "geoid": "24033",
     "key": "crime-rate-violent",
     "date": "2022-11-15",
-    "value": 286.98665,
-    "value_": 286.98665
+    "value": 253.15489,
+    "value_": 253.15489
   },
   {
     "geoid": "24033",
@@ -20226,8 +19715,8 @@
     "geoid": "24340",
     "key": "crime-rate-violent",
     "date": "2022-11-15",
-    "value": 331.41783,
-    "value_": 331.41783
+    "value": 296.99302,
+    "value_": 296.99302
   },
   {
     "geoid": "24340",
@@ -20254,8 +19743,8 @@
     "geoid": "25540",
     "key": "crime-rate-violent",
     "date": "2022-11-15",
-    "value": 98.75819,
-    "value_": 98.75819
+    "value": 87.07565,
+    "value_": 87.07565
   },
   {
     "geoid": "25540",
@@ -20282,8 +19771,8 @@
     "geoid": "26420",
     "key": "crime-rate-violent",
     "date": "2022-11-15",
-    "value": 453.3104,
-    "value_": 453.3104
+    "value": 402.42765,
+    "value_": 402.42765
   },
   {
     "geoid": "26420",
@@ -20310,8 +19799,8 @@
     "geoid": "26900",
     "key": "crime-rate-violent",
     "date": "2022-11-15",
-    "value": 454.4535,
-    "value_": 454.4535
+    "value": 410.52283,
+    "value_": 410.52283
   },
   {
     "geoid": "26900",
@@ -20338,8 +19827,8 @@
     "geoid": "27260",
     "key": "crime-rate-violent",
     "date": "2022-11-15",
-    "value": 401.6967,
-    "value_": 401.6967
+    "value": 358.83707,
+    "value_": 358.83707
   },
   {
     "geoid": "27260",
@@ -20366,8 +19855,8 @@
     "geoid": "28140",
     "key": "crime-rate-violent",
     "date": "2022-11-15",
-    "value": 423.39077,
-    "value_": 423.39077
+    "value": 379.34969,
+    "value_": 379.34969
   },
   {
     "geoid": "28140",
@@ -20394,8 +19883,8 @@
     "geoid": "29820",
     "key": "crime-rate-violent",
     "date": "2022-11-15",
-    "value": 358.42449,
-    "value_": 358.42449
+    "value": 320.78884,
+    "value_": 320.78884
   },
   {
     "geoid": "29820",
@@ -20422,8 +19911,8 @@
     "geoid": "31080",
     "key": "crime-rate-violent",
     "date": "2022-11-15",
-    "value": 422.81969,
-    "value_": 422.81969
+    "value": 376.36053,
+    "value_": 376.36053
   },
   {
     "geoid": "31080",
@@ -20450,8 +19939,8 @@
     "geoid": "31140",
     "key": "crime-rate-violent",
     "date": "2022-11-15",
-    "value": 370.59089,
-    "value_": 370.59089
+    "value": 343.87755,
+    "value_": 343.87755
   },
   {
     "geoid": "31140",
@@ -20471,8 +19960,8 @@
     "geoid": "32820",
     "key": "crime-rate-violent",
     "date": "2022-11-15",
-    "value": 1057.15265,
-    "value_": 1057.15265
+    "value": 949.43294,
+    "value_": 949.43294
   },
   {
     "geoid": "32820",
@@ -20499,8 +19988,8 @@
     "geoid": "33100",
     "key": "crime-rate-violent",
     "date": "2022-11-15",
-    "value": 170.3392,
-    "value_": 170.3392
+    "value": 154.49667,
+    "value_": 154.49667
   },
   {
     "geoid": "33100",
@@ -20527,8 +20016,8 @@
     "geoid": "33340",
     "key": "crime-rate-violent",
     "date": "2022-11-15",
-    "value": 505.88396,
-    "value_": 505.88396
+    "value": 452.93807,
+    "value_": 452.93807
   },
   {
     "geoid": "33340",
@@ -20555,8 +20044,8 @@
     "geoid": "33460",
     "key": "crime-rate-violent",
     "date": "2022-11-15",
-    "value": 243.86475,
-    "value_": 243.86475
+    "value": 219.68783,
+    "value_": 219.68783
   },
   {
     "geoid": "33460",
@@ -20583,8 +20072,8 @@
     "geoid": "34980",
     "key": "crime-rate-violent",
     "date": "2022-11-15",
-    "value": 464.90472,
-    "value_": 464.90472
+    "value": 415.58118,
+    "value_": 415.58118
   },
   {
     "geoid": "34980",
@@ -20611,8 +20100,8 @@
     "geoid": "35620",
     "key": "crime-rate-violent",
     "date": "2022-11-15",
-    "value": 321.79213,
-    "value_": 321.79213
+    "value": 289.08163,
+    "value_": 289.08163
   },
   {
     "geoid": "35620",
@@ -20639,8 +20128,8 @@
     "geoid": "36420",
     "key": "crime-rate-violent",
     "date": "2022-11-15",
-    "value": 340.84655,
-    "value_": 340.84655
+    "value": 303.51607,
+    "value_": 303.51607
   },
   {
     "geoid": "36420",
@@ -20667,8 +20156,8 @@
     "geoid": "36540",
     "key": "crime-rate-violent",
     "date": "2022-11-15",
-    "value": 288.38005,
-    "value_": 288.38005
+    "value": 262.76941,
+    "value_": 262.76941
   },
   {
     "geoid": "36540",
@@ -20695,8 +20184,8 @@
     "geoid": "37980",
     "key": "crime-rate-violent",
     "date": "2022-11-15",
-    "value": 407.46927,
-    "value_": 407.46927
+    "value": 364.19394,
+    "value_": 364.19394
   },
   {
     "geoid": "37980",
@@ -20723,8 +20212,8 @@
     "geoid": "38060",
     "key": "crime-rate-violent",
     "date": "2022-11-15",
-    "value": 379.89964,
-    "value_": 379.89964
+    "value": 337.76502,
+    "value_": 337.76502
   },
   {
     "geoid": "38060",
@@ -20751,8 +20240,8 @@
     "geoid": "38300",
     "key": "crime-rate-violent",
     "date": "2022-11-15",
-    "value": 209.52299,
-    "value_": 209.52299
+    "value": 189.82286,
+    "value_": 189.82286
   },
   {
     "geoid": "38300",
@@ -20779,8 +20268,8 @@
     "geoid": "38900",
     "key": "crime-rate-violent",
     "date": "2022-11-15",
-    "value": 313.47786,
-    "value_": 313.47786
+    "value": 276.16098,
+    "value_": 276.16098
   },
   {
     "geoid": "38900",
@@ -20807,8 +20296,8 @@
     "geoid": "39300",
     "key": "crime-rate-violent",
     "date": "2022-11-15",
-    "value": 206.88817,
-    "value_": 206.88817
+    "value": 184.29796,
+    "value_": 184.29796
   },
   {
     "geoid": "39300",
@@ -20835,8 +20324,8 @@
     "geoid": "39580",
     "key": "crime-rate-violent",
     "date": "2022-11-15",
-    "value": 198.67501,
-    "value_": 198.67501
+    "value": 176.09064,
+    "value_": 176.09064
   },
   {
     "geoid": "39580",
@@ -20863,8 +20352,8 @@
     "geoid": "40060",
     "key": "crime-rate-violent",
     "date": "2022-11-15",
-    "value": 209.02322,
-    "value_": 209.02322
+    "value": 188.23308,
+    "value_": 188.23308
   },
   {
     "geoid": "40060",
@@ -20891,8 +20380,8 @@
     "geoid": "40140",
     "key": "crime-rate-violent",
     "date": "2022-11-15",
-    "value": 342.86326,
-    "value_": 342.86326
+    "value": 303.32255,
+    "value_": 303.32255
   },
   {
     "geoid": "40140",
@@ -20919,8 +20408,8 @@
     "geoid": "40380",
     "key": "crime-rate-violent",
     "date": "2022-11-15",
-    "value": 191.17228,
-    "value_": 191.17228
+    "value": 169.99878,
+    "value_": 169.99878
   },
   {
     "geoid": "40380",
@@ -20940,8 +20429,8 @@
     "geoid": "40900",
     "key": "crime-rate-violent",
     "date": "2022-11-15",
-    "value": 366.73765,
-    "value_": 366.73765
+    "value": 325.51116,
+    "value_": 325.51116
   },
   {
     "geoid": "40900",
@@ -20968,8 +20457,8 @@
     "geoid": "41180",
     "key": "crime-rate-violent",
     "date": "2022-11-15",
-    "value": 208.43572,
-    "value_": 208.43572
+    "value": 185.61915,
+    "value_": 185.61915
   },
   {
     "geoid": "41180",
@@ -20996,8 +20485,8 @@
     "geoid": "41620",
     "key": "crime-rate-violent",
     "date": "2022-11-15",
-    "value": 297.28925,
-    "value_": 297.28925
+    "value": 265.78736,
+    "value_": 265.78736
   },
   {
     "geoid": "41620",
@@ -21024,8 +20513,8 @@
     "geoid": "41700",
     "key": "crime-rate-violent",
     "date": "2022-11-15",
-    "value": 456.69148,
-    "value_": 456.69148
+    "value": 406.92308,
+    "value_": 406.92308
   },
   {
     "geoid": "41700",
@@ -21052,8 +20541,8 @@
     "geoid": "41740",
     "key": "crime-rate-violent",
     "date": "2022-11-15",
-    "value": 301.86868,
-    "value_": 301.86868
+    "value": 266.9145,
+    "value_": 266.9145
   },
   {
     "geoid": "41740",
@@ -21080,8 +20569,8 @@
     "geoid": "41860",
     "key": "crime-rate-violent",
     "date": "2022-11-15",
-    "value": 412.92837,
-    "value_": 412.92837
+    "value": 370.42006,
+    "value_": 370.42006
   },
   {
     "geoid": "41860",
@@ -21108,8 +20597,8 @@
     "geoid": "41940",
     "key": "crime-rate-violent",
     "date": "2022-11-15",
-    "value": 305.1991,
-    "value_": 305.1991
+    "value": 271.05571,
+    "value_": 271.05571
   },
   {
     "geoid": "41940",
@@ -21136,8 +20625,8 @@
     "geoid": "42660",
     "key": "crime-rate-violent",
     "date": "2022-11-15",
-    "value": 350.92312,
-    "value_": 350.92312
+    "value": 309.18929,
+    "value_": 309.18929
   },
   {
     "geoid": "42660",
@@ -21164,8 +20653,8 @@
     "geoid": "45300",
     "key": "crime-rate-violent",
     "date": "2022-11-15",
-    "value": 163.82673,
-    "value_": 163.82673
+    "value": 144.92364,
+    "value_": 144.92364
   },
   {
     "geoid": "45300",
@@ -21192,8 +20681,8 @@
     "geoid": "46060",
     "key": "crime-rate-violent",
     "date": "2022-11-15",
-    "value": 305.68153,
-    "value_": 305.68153
+    "value": 296.49593,
+    "value_": 296.49593
   },
   {
     "geoid": "46060",
@@ -21220,8 +20709,8 @@
     "geoid": "46140",
     "key": "crime-rate-violent",
     "date": "2022-11-15",
-    "value": 384.18077,
-    "value_": 384.18077
+    "value": 342.96672,
+    "value_": 342.96672
   },
   {
     "geoid": "46140",
@@ -21248,8 +20737,8 @@
     "geoid": "47260",
     "key": "crime-rate-violent",
     "date": "2022-11-15",
-    "value": 292.10497,
-    "value_": 292.10497
+    "value": 262.21412,
+    "value_": 262.21412
   },
   {
     "geoid": "47260",
@@ -21276,8 +20765,8 @@
     "geoid": "47900",
     "key": "crime-rate-violent",
     "date": "2022-11-15",
-    "value": 212.48166,
-    "value_": 212.48166
+    "value": 189.70432,
+    "value_": 189.70432
   },
   {
     "geoid": "47900",
@@ -21304,8 +20793,8 @@
     "geoid": "51013",
     "key": "crime-rate-violent",
     "date": "2022-11-15",
-    "value": 204.74195,
-    "value_": 204.74195
+    "value": 177.55993,
+    "value_": 177.55993
   },
   {
     "geoid": "51013",
@@ -21360,8 +20849,8 @@
     "geoid": "51047",
     "key": "crime-rate-violent",
     "date": "2022-11-15",
-    "value": 133.50647,
-    "value_": 133.50647
+    "value": 124.36219,
+    "value_": 124.36219
   },
   {
     "geoid": "51047",
@@ -21388,8 +20877,8 @@
     "geoid": "51059",
     "key": "crime-rate-violent",
     "date": "2022-11-15",
-    "value": 93.96519,
-    "value_": 93.96519
+    "value": 83.99789,
+    "value_": 83.99789
   },
   {
     "geoid": "51059",
@@ -21416,8 +20905,8 @@
     "geoid": "51061",
     "key": "crime-rate-violent",
     "date": "2022-11-15",
-    "value": 65.92756,
-    "value_": 65.92756
+    "value": 57.8548,
+    "value_": 57.8548
   },
   {
     "geoid": "51061",
@@ -21444,8 +20933,8 @@
     "geoid": "51107",
     "key": "crime-rate-violent",
     "date": "2022-11-15",
-    "value": 81.07909,
-    "value_": 81.07909
+    "value": 72.32623,
+    "value_": 72.32623
   },
   {
     "geoid": "51107",
@@ -21472,8 +20961,8 @@
     "geoid": "51153",
     "key": "crime-rate-violent",
     "date": "2022-11-15",
-    "value": 218.25121,
-    "value_": 218.25121
+    "value": 199.60664,
+    "value_": 199.60664
   },
   {
     "geoid": "51153",
@@ -21521,8 +21010,8 @@
     "geoid": "51177",
     "key": "crime-rate-violent",
     "date": "2022-11-15",
-    "value": 147.15955,
-    "value_": 147.15955
+    "value": 130.20568,
+    "value_": 130.20568
   },
   {
     "geoid": "51177",
@@ -21549,8 +21038,8 @@
     "geoid": "51179",
     "key": "crime-rate-violent",
     "date": "2022-11-15",
-    "value": 143.82202,
-    "value_": 143.82202
+    "value": 130.47146,
+    "value_": 130.47146
   },
   {
     "geoid": "51179",
@@ -21570,8 +21059,8 @@
     "geoid": "51187",
     "key": "crime-rate-violent",
     "date": "2022-11-15",
-    "value": 89.78185,
-    "value_": 89.78185
+    "value": 87.35532,
+    "value_": 87.35532
   },
   {
     "geoid": "51187",
@@ -21598,8 +21087,8 @@
     "geoid": "51510",
     "key": "crime-rate-violent",
     "date": "2022-11-15",
-    "value": 146.39931,
-    "value_": 146.39931
+    "value": 134.47538,
+    "value_": 134.47538
   },
   {
     "geoid": "51510",
@@ -21626,8 +21115,8 @@
     "geoid": "51630",
     "key": "crime-rate-violent",
     "date": "2022-11-15",
-    "value": 346.69255,
-    "value_": 346.69255
+    "value": 312.0233,
+    "value_": 312.0233
   },
   {
     "geoid": "51630",
@@ -21654,8 +21143,8 @@
     "geoid": "54037",
     "key": "crime-rate-violent",
     "date": "2022-11-15",
-    "value": 85.13602,
-    "value_": 85.13602
+    "value": 81.2662,
+    "value_": 81.2662
   },
   {
     "geoid": "54037",
@@ -21682,8 +21171,8 @@
     "geoid": "99997",
     "key": "crime-rate-violent",
     "date": "2022-11-15",
-    "value": 330.94393,
-    "value_": 330.94393
+    "value": 295.95508,
+    "value_": 295.95508
   },
   {
     "geoid": "99997",
@@ -21710,8 +21199,8 @@
     "geoid": "99999",
     "key": "crime-rate-violent",
     "date": "2022-11-15",
-    "value": 302.77213,
-    "value_": 302.77213
+    "value": 270.37699,
+    "value_": 270.37699
   },
   {
     "geoid": "99999",
@@ -21738,8 +21227,8 @@
     "geoid": "11001",
     "key": "crime-rate-violent",
     "date": "2022-12-15",
-    "value": 671.03005,
-    "value_": 671.03005
+    "value": 608.21402,
+    "value_": 608.21402
   },
   {
     "geoid": "11001",
@@ -21756,11 +21245,18 @@
     "value_": 1012.45995
   },
   {
+    "geoid": "11001",
+    "key": "crime-rate-violent",
+    "date": "2025-12-15",
+    "value": 781.48807,
+    "value_": 781.48807
+  },
+  {
     "geoid": "12060",
     "key": "crime-rate-violent",
     "date": "2022-12-15",
-    "value": 346.1692,
-    "value_": 346.1692
+    "value": 314.03584,
+    "value_": 314.03584
   },
   {
     "geoid": "12060",
@@ -21780,8 +21276,8 @@
     "geoid": "12420",
     "key": "crime-rate-violent",
     "date": "2022-12-15",
-    "value": 300.21506,
-    "value_": 300.21506
+    "value": 269.26803,
+    "value_": 269.26803
   },
   {
     "geoid": "12420",
@@ -21798,11 +21294,18 @@
     "value_": 301.32873
   },
   {
+    "geoid": "12420",
+    "key": "crime-rate-violent",
+    "date": "2025-12-15",
+    "value": 332.64712,
+    "value_": 332.64712
+  },
+  {
     "geoid": "12580",
     "key": "crime-rate-violent",
     "date": "2022-12-15",
-    "value": 513.8773,
-    "value_": 513.8773
+    "value": 463.08382,
+    "value_": 463.08382
   },
   {
     "geoid": "12580",
@@ -21819,11 +21322,18 @@
     "value_": 582.40758
   },
   {
+    "geoid": "12580",
+    "key": "crime-rate-violent",
+    "date": "2025-12-15",
+    "value": 734.951,
+    "value_": 734.951
+  },
+  {
     "geoid": "13820",
     "key": "crime-rate-violent",
     "date": "2022-12-15",
-    "value": 461.37709,
-    "value_": 461.37709
+    "value": 420.26778,
+    "value_": 420.26778
   },
   {
     "geoid": "13820",
@@ -21840,11 +21350,18 @@
     "value_": 443.6714
   },
   {
+    "geoid": "13820",
+    "key": "crime-rate-violent",
+    "date": "2025-12-15",
+    "value": 574.63895,
+    "value_": 574.63895
+  },
+  {
     "geoid": "14460",
     "key": "crime-rate-violent",
     "date": "2022-12-15",
-    "value": 236.23634,
-    "value_": 236.23634
+    "value": 213.0181,
+    "value_": 213.0181
   },
   {
     "geoid": "14460",
@@ -21864,8 +21381,8 @@
     "geoid": "15380",
     "key": "crime-rate-violent",
     "date": "2022-12-15",
-    "value": 279.62754,
-    "value_": 279.62754
+    "value": 253.22759,
+    "value_": 253.22759
   },
   {
     "geoid": "15380",
@@ -21885,8 +21402,8 @@
     "geoid": "16740",
     "key": "crime-rate-violent",
     "date": "2022-12-15",
-    "value": 370.22141,
-    "value_": 370.22141
+    "value": 333.24667,
+    "value_": 333.24667
   },
   {
     "geoid": "16740",
@@ -21903,11 +21420,18 @@
     "value_": 429.23902
   },
   {
+    "geoid": "16740",
+    "key": "crime-rate-violent",
+    "date": "2025-12-15",
+    "value": 514.52852,
+    "value_": 514.52852
+  },
+  {
     "geoid": "16980",
     "key": "crime-rate-violent",
     "date": "2022-12-15",
-    "value": 239.64854,
-    "value_": 239.64854
+    "value": 220.02855,
+    "value_": 220.02855
   },
   {
     "geoid": "16980",
@@ -21924,11 +21448,18 @@
     "value_": 279.40912
   },
   {
+    "geoid": "16980",
+    "key": "crime-rate-violent",
+    "date": "2025-12-15",
+    "value": 279.02458,
+    "value_": 279.02458
+  },
+  {
     "geoid": "17140",
     "key": "crime-rate-violent",
     "date": "2022-12-15",
-    "value": 196.50268,
-    "value_": 196.50268
+    "value": 179.27633,
+    "value_": 179.27633
   },
   {
     "geoid": "17140",
@@ -21945,11 +21476,18 @@
     "value_": 239.41661
   },
   {
+    "geoid": "17140",
+    "key": "crime-rate-violent",
+    "date": "2025-12-15",
+    "value": 267.67309,
+    "value_": 267.67309
+  },
+  {
     "geoid": "17410",
     "key": "crime-rate-violent",
     "date": "2022-12-15",
-    "value": 349.75562,
-    "value_": 349.75562
+    "value": 314.60531,
+    "value_": 314.60531
   },
   {
     "geoid": "17410",
@@ -21966,11 +21504,18 @@
     "value_": 398.42415
   },
   {
+    "geoid": "17410",
+    "key": "crime-rate-violent",
+    "date": "2025-12-15",
+    "value": 418.73532,
+    "value_": 418.73532
+  },
+  {
     "geoid": "18140",
     "key": "crime-rate-violent",
     "date": "2022-12-15",
-    "value": 288.35434,
-    "value_": 288.35434
+    "value": 259.62687,
+    "value_": 259.62687
   },
   {
     "geoid": "18140",
@@ -21990,8 +21535,8 @@
     "geoid": "19100",
     "key": "crime-rate-violent",
     "date": "2022-12-15",
-    "value": 301.59271,
-    "value_": 301.59271
+    "value": 271.71348,
+    "value_": 271.71348
   },
   {
     "geoid": "19100",
@@ -22008,11 +21553,18 @@
     "value_": 311.49962
   },
   {
+    "geoid": "19100",
+    "key": "crime-rate-violent",
+    "date": "2025-12-15",
+    "value": 292.52351,
+    "value_": 292.52351
+  },
+  {
     "geoid": "19740",
     "key": "crime-rate-violent",
     "date": "2022-12-15",
-    "value": 528.72798,
-    "value_": 528.72798
+    "value": 478.15517,
+    "value_": 478.15517
   },
   {
     "geoid": "19740",
@@ -22029,11 +21581,18 @@
     "value_": 574.07466
   },
   {
+    "geoid": "19740",
+    "key": "crime-rate-violent",
+    "date": "2025-12-15",
+    "value": 520.22745,
+    "value_": 520.22745
+  },
+  {
     "geoid": "19820",
     "key": "crime-rate-violent",
     "date": "2022-12-15",
-    "value": 474.64728,
-    "value_": 474.64728
+    "value": 432.9673,
+    "value_": 432.9673
   },
   {
     "geoid": "19820",
@@ -22050,11 +21609,18 @@
     "value_": 514.26377
   },
   {
+    "geoid": "19820",
+    "key": "crime-rate-violent",
+    "date": "2025-12-15",
+    "value": 510.80013,
+    "value_": 510.80013
+  },
+  {
     "geoid": "23420",
     "key": "crime-rate-violent",
     "date": "2022-12-15",
-    "value": 584.6246,
-    "value_": 584.6246
+    "value": 523.36129,
+    "value_": 523.36129
   },
   {
     "geoid": "23420",
@@ -22071,11 +21637,18 @@
     "value_": 605.91768
   },
   {
+    "geoid": "23420",
+    "key": "crime-rate-violent",
+    "date": "2025-12-15",
+    "value": 692.20876,
+    "value_": 692.20876
+  },
+  {
     "geoid": "24017",
     "key": "crime-rate-violent",
     "date": "2022-12-15",
-    "value": 261.52586,
-    "value_": 261.52586
+    "value": 234.61268,
+    "value_": 234.61268
   },
   {
     "geoid": "24017",
@@ -22095,8 +21668,8 @@
     "geoid": "24021",
     "key": "crime-rate-violent",
     "date": "2022-12-15",
-    "value": 183.92263,
-    "value_": 183.92263
+    "value": 163.48678,
+    "value_": 163.48678
   },
   {
     "geoid": "24021",
@@ -22113,11 +21686,18 @@
     "value_": 202.42646
   },
   {
+    "geoid": "24021",
+    "key": "crime-rate-violent",
+    "date": "2025-12-15",
+    "value": 213.77607,
+    "value_": 213.77607
+  },
+  {
     "geoid": "24031",
     "key": "crime-rate-violent",
     "date": "2022-12-15",
-    "value": 148.06106,
-    "value_": 148.06106
+    "value": 132.05446,
+    "value_": 132.05446
   },
   {
     "geoid": "24031",
@@ -22137,8 +21717,8 @@
     "geoid": "24033",
     "key": "crime-rate-violent",
     "date": "2022-12-15",
-    "value": 319.82444,
-    "value_": 319.82444
+    "value": 285.90689,
+    "value_": 285.90689
   },
   {
     "geoid": "24033",
@@ -22155,11 +21735,18 @@
     "value_": 427.48172
   },
   {
+    "geoid": "24033",
+    "key": "crime-rate-violent",
+    "date": "2025-12-15",
+    "value": 309.62748,
+    "value_": 309.62748
+  },
+  {
     "geoid": "24340",
     "key": "crime-rate-violent",
     "date": "2022-12-15",
-    "value": 358.43363,
-    "value_": 358.43363
+    "value": 324.00882,
+    "value_": 324.00882
   },
   {
     "geoid": "24340",
@@ -22176,11 +21763,18 @@
     "value_": 368.42491
   },
   {
+    "geoid": "24340",
+    "key": "crime-rate-violent",
+    "date": "2025-12-15",
+    "value": 1694.44262,
+    "value_": 1694.44262
+  },
+  {
     "geoid": "25540",
     "key": "crime-rate-violent",
     "date": "2022-12-15",
-    "value": 107.45217,
-    "value_": 107.45217
+    "value": 95.76963,
+    "value_": 95.76963
   },
   {
     "geoid": "25540",
@@ -22197,11 +21791,18 @@
     "value_": 111.30648
   },
   {
+    "geoid": "25540",
+    "key": "crime-rate-violent",
+    "date": "2025-12-15",
+    "value": 153.53709,
+    "value_": 153.53709
+  },
+  {
     "geoid": "26420",
     "key": "crime-rate-violent",
     "date": "2022-12-15",
-    "value": 500.03934,
-    "value_": 500.03934
+    "value": 448.95851,
+    "value_": 448.95851
   },
   {
     "geoid": "26420",
@@ -22218,11 +21819,18 @@
     "value_": 571.67392
   },
   {
+    "geoid": "26420",
+    "key": "crime-rate-violent",
+    "date": "2025-12-15",
+    "value": 473.65132,
+    "value_": 473.65132
+  },
+  {
     "geoid": "26900",
     "key": "crime-rate-violent",
     "date": "2022-12-15",
-    "value": 496.56209,
-    "value_": 496.56209
+    "value": 452.5967,
+    "value_": 452.5967
   },
   {
     "geoid": "26900",
@@ -22242,8 +21850,8 @@
     "geoid": "27260",
     "key": "crime-rate-violent",
     "date": "2022-12-15",
-    "value": 456.84477,
-    "value_": 456.84477
+    "value": 413.98513,
+    "value_": 413.98513
   },
   {
     "geoid": "27260",
@@ -22260,11 +21868,18 @@
     "value_": 455.81077
   },
   {
+    "geoid": "27260",
+    "key": "crime-rate-violent",
+    "date": "2025-12-15",
+    "value": 471.83083,
+    "value_": 471.83083
+  },
+  {
     "geoid": "28140",
     "key": "crime-rate-violent",
     "date": "2022-12-15",
-    "value": 501.77786,
-    "value_": 501.77786
+    "value": 454.63028,
+    "value_": 454.63028
   },
   {
     "geoid": "28140",
@@ -22284,8 +21899,8 @@
     "geoid": "29820",
     "key": "crime-rate-violent",
     "date": "2022-12-15",
-    "value": 395.71446,
-    "value_": 395.71446
+    "value": 358.07881,
+    "value_": 358.07881
   },
   {
     "geoid": "29820",
@@ -22305,8 +21920,8 @@
     "geoid": "31080",
     "key": "crime-rate-violent",
     "date": "2022-12-15",
-    "value": 463.61499,
-    "value_": 463.61499
+    "value": 417.15584,
+    "value_": 417.15584
   },
   {
     "geoid": "31080",
@@ -22323,11 +21938,18 @@
     "value_": 522.78729
   },
   {
+    "geoid": "31080",
+    "key": "crime-rate-violent",
+    "date": "2025-12-15",
+    "value": 576.43565,
+    "value_": 576.43565
+  },
+  {
     "geoid": "31140",
     "key": "crime-rate-violent",
     "date": "2022-12-15",
-    "value": 405.52901,
-    "value_": 405.52901
+    "value": 378.83558,
+    "value_": 378.83558
   },
   {
     "geoid": "31140",
@@ -22347,8 +21969,8 @@
     "geoid": "32820",
     "key": "crime-rate-violent",
     "date": "2022-12-15",
-    "value": 1169.70461,
-    "value_": 1169.70461
+    "value": 1062.09637,
+    "value_": 1062.09637
   },
   {
     "geoid": "32820",
@@ -22365,11 +21987,18 @@
     "value_": 1384.06035
   },
   {
+    "geoid": "32820",
+    "key": "crime-rate-violent",
+    "date": "2025-12-15",
+    "value": 1050.73028,
+    "value_": 1050.73028
+  },
+  {
     "geoid": "33100",
     "key": "crime-rate-violent",
     "date": "2022-12-15",
-    "value": 291.08394,
-    "value_": 291.08394
+    "value": 275.83835,
+    "value_": 275.83835
   },
   {
     "geoid": "33100",
@@ -22389,8 +22018,8 @@
     "geoid": "33340",
     "key": "crime-rate-violent",
     "date": "2022-12-15",
-    "value": 552.19922,
-    "value_": 552.19922
+    "value": 499.21468,
+    "value_": 499.21468
   },
   {
     "geoid": "33340",
@@ -22410,8 +22039,8 @@
     "geoid": "33460",
     "key": "crime-rate-violent",
     "date": "2022-12-15",
-    "value": 264.3823,
-    "value_": 264.3823
+    "value": 240.20538,
+    "value_": 240.20538
   },
   {
     "geoid": "33460",
@@ -22428,11 +22057,18 @@
     "value_": 287.69414
   },
   {
+    "geoid": "33460",
+    "key": "crime-rate-violent",
+    "date": "2025-12-15",
+    "value": 248.0564,
+    "value_": 248.0564
+  },
+  {
     "geoid": "34980",
     "key": "crime-rate-violent",
     "date": "2022-12-15",
-    "value": 514.65239,
-    "value_": 514.65239
+    "value": 465.3627,
+    "value_": 465.3627
   },
   {
     "geoid": "34980",
@@ -22449,11 +22085,18 @@
     "value_": 565.12606
   },
   {
+    "geoid": "34980",
+    "key": "crime-rate-violent",
+    "date": "2025-12-15",
+    "value": 623.38753,
+    "value_": 623.38753
+  },
+  {
     "geoid": "35620",
     "key": "crime-rate-violent",
     "date": "2022-12-15",
-    "value": 353.63285,
-    "value_": 353.63285
+    "value": 320.85467,
+    "value_": 320.85467
   },
   {
     "geoid": "35620",
@@ -22473,8 +22116,8 @@
     "geoid": "36420",
     "key": "crime-rate-violent",
     "date": "2022-12-15",
-    "value": 373.92246,
-    "value_": 373.92246
+    "value": 336.59197,
+    "value_": 336.59197
   },
   {
     "geoid": "36420",
@@ -22491,11 +22134,18 @@
     "value_": 442.87246
   },
   {
+    "geoid": "36420",
+    "key": "crime-rate-violent",
+    "date": "2025-12-15",
+    "value": 485.1104,
+    "value_": 485.1104
+  },
+  {
     "geoid": "36540",
     "key": "crime-rate-violent",
     "date": "2022-12-15",
-    "value": 307.79065,
-    "value_": 307.79065
+    "value": 282.2625,
+    "value_": 282.2625
   },
   {
     "geoid": "36540",
@@ -22512,11 +22162,18 @@
     "value_": 235.79261
   },
   {
+    "geoid": "36540",
+    "key": "crime-rate-violent",
+    "date": "2025-12-15",
+    "value": 203.57729,
+    "value_": 203.57729
+  },
+  {
     "geoid": "37980",
     "key": "crime-rate-violent",
     "date": "2022-12-15",
-    "value": 443.99131,
-    "value_": 443.99131
+    "value": 400.86453,
+    "value_": 400.86453
   },
   {
     "geoid": "37980",
@@ -22533,11 +22190,18 @@
     "value_": 371.05763
   },
   {
+    "geoid": "37980",
+    "key": "crime-rate-violent",
+    "date": "2025-12-15",
+    "value": 485.04174,
+    "value_": 485.04174
+  },
+  {
     "geoid": "38060",
     "key": "crime-rate-violent",
     "date": "2022-12-15",
-    "value": 417.05582,
-    "value_": 417.05582
+    "value": 374.9212,
+    "value_": 374.9212
   },
   {
     "geoid": "38060",
@@ -22557,8 +22221,8 @@
     "geoid": "38300",
     "key": "crime-rate-violent",
     "date": "2022-12-15",
-    "value": 226.30451,
-    "value_": 226.30451
+    "value": 206.73541,
+    "value_": 206.73541
   },
   {
     "geoid": "38300",
@@ -22575,11 +22239,18 @@
     "value_": 225.67613
   },
   {
+    "geoid": "38300",
+    "key": "crime-rate-violent",
+    "date": "2025-12-15",
+    "value": 268.21011,
+    "value_": 268.21011
+  },
+  {
     "geoid": "38900",
     "key": "crime-rate-violent",
     "date": "2022-12-15",
-    "value": 349.03746,
-    "value_": 349.03746
+    "value": 311.49047,
+    "value_": 311.49047
   },
   {
     "geoid": "38900",
@@ -22596,11 +22267,18 @@
     "value_": 385.25294
   },
   {
+    "geoid": "38900",
+    "key": "crime-rate-violent",
+    "date": "2025-12-15",
+    "value": 469.15043,
+    "value_": 469.15043
+  },
+  {
     "geoid": "39300",
     "key": "crime-rate-violent",
     "date": "2022-12-15",
-    "value": 226.49814,
-    "value_": 226.49814
+    "value": 203.90793,
+    "value_": 203.90793
   },
   {
     "geoid": "39300",
@@ -22620,8 +22298,8 @@
     "geoid": "39580",
     "key": "crime-rate-violent",
     "date": "2022-12-15",
-    "value": 214.58519,
-    "value_": 214.58519
+    "value": 192.00082,
+    "value_": 192.00082
   },
   {
     "geoid": "39580",
@@ -22638,11 +22316,18 @@
     "value_": 246.52345
   },
   {
+    "geoid": "39580",
+    "key": "crime-rate-violent",
+    "date": "2025-12-15",
+    "value": 258.3157,
+    "value_": 258.3157
+  },
+  {
     "geoid": "40060",
     "key": "crime-rate-violent",
     "date": "2022-12-15",
-    "value": 229.36466,
-    "value_": 229.36466
+    "value": 208.57451,
+    "value_": 208.57451
   },
   {
     "geoid": "40060",
@@ -22662,8 +22347,8 @@
     "geoid": "40140",
     "key": "crime-rate-violent",
     "date": "2022-12-15",
-    "value": 375.8174,
-    "value_": 375.8174
+    "value": 336.27668,
+    "value_": 336.27668
   },
   {
     "geoid": "40140",
@@ -22680,11 +22365,18 @@
     "value_": 386.45569
   },
   {
+    "geoid": "40140",
+    "key": "crime-rate-violent",
+    "date": "2025-12-15",
+    "value": 493.21074,
+    "value_": 493.21074
+  },
+  {
     "geoid": "40380",
     "key": "crime-rate-violent",
     "date": "2022-12-15",
-    "value": 210.67831,
-    "value_": 210.67831
+    "value": 189.46772,
+    "value_": 189.46772
   },
   {
     "geoid": "40380",
@@ -22704,8 +22396,8 @@
     "geoid": "40900",
     "key": "crime-rate-violent",
     "date": "2022-12-15",
-    "value": 380.69607,
-    "value_": 380.69607
+    "value": 341.58374,
+    "value_": 341.58374
   },
   {
     "geoid": "40900",
@@ -22722,11 +22414,18 @@
     "value_": 419.62763
   },
   {
+    "geoid": "40900",
+    "key": "crime-rate-violent",
+    "date": "2025-12-15",
+    "value": 728.28141,
+    "value_": 728.28141
+  },
+  {
     "geoid": "41180",
     "key": "crime-rate-violent",
     "date": "2022-12-15",
-    "value": 227.41924,
-    "value_": 227.41924
+    "value": 204.64107,
+    "value_": 204.64107
   },
   {
     "geoid": "41180",
@@ -22746,8 +22445,8 @@
     "geoid": "41620",
     "key": "crime-rate-violent",
     "date": "2022-12-15",
-    "value": 327.84134,
-    "value_": 327.84134
+    "value": 296.33945,
+    "value_": 296.33945
   },
   {
     "geoid": "41620",
@@ -22767,8 +22466,8 @@
     "geoid": "41700",
     "key": "crime-rate-violent",
     "date": "2022-12-15",
-    "value": 506.99875,
-    "value_": 506.99875
+    "value": 457.23035,
+    "value_": 457.23035
   },
   {
     "geoid": "41700",
@@ -22785,11 +22484,18 @@
     "value_": 428.12652
   },
   {
+    "geoid": "41700",
+    "key": "crime-rate-violent",
+    "date": "2025-12-15",
+    "value": 308.37097,
+    "value_": 308.37097
+  },
+  {
     "geoid": "41740",
     "key": "crime-rate-violent",
     "date": "2022-12-15",
-    "value": 331.51568,
-    "value_": 331.51568
+    "value": 296.5615,
+    "value_": 296.5615
   },
   {
     "geoid": "41740",
@@ -22806,11 +22512,18 @@
     "value_": 369.65694
   },
   {
+    "geoid": "41740",
+    "key": "crime-rate-violent",
+    "date": "2025-12-15",
+    "value": 310.05334,
+    "value_": 310.05334
+  },
+  {
     "geoid": "41860",
     "key": "crime-rate-violent",
     "date": "2022-12-15",
-    "value": 454.66179,
-    "value_": 454.66179
+    "value": 412.15348,
+    "value_": 412.15348
   },
   {
     "geoid": "41860",
@@ -22827,11 +22540,18 @@
     "value_": 548.89362
   },
   {
+    "geoid": "41860",
+    "key": "crime-rate-violent",
+    "date": "2025-12-15",
+    "value": 373.16495,
+    "value_": 373.16495
+  },
+  {
     "geoid": "41940",
     "key": "crime-rate-violent",
     "date": "2022-12-15",
-    "value": 338.61048,
-    "value_": 338.61048
+    "value": 304.46709,
+    "value_": 304.46709
   },
   {
     "geoid": "41940",
@@ -22848,11 +22568,18 @@
     "value_": 429.65414
   },
   {
+    "geoid": "41940",
+    "key": "crime-rate-violent",
+    "date": "2025-12-15",
+    "value": 418.43583,
+    "value_": 418.43583
+  },
+  {
     "geoid": "42660",
     "key": "crime-rate-violent",
     "date": "2022-12-15",
-    "value": 385.2217,
-    "value_": 385.2217
+    "value": 343.49932,
+    "value_": 343.49932
   },
   {
     "geoid": "42660",
@@ -22872,8 +22599,8 @@
     "geoid": "45300",
     "key": "crime-rate-violent",
     "date": "2022-12-15",
-    "value": 214.16862,
-    "value_": 214.16862
+    "value": 195.26554,
+    "value_": 195.26554
   },
   {
     "geoid": "45300",
@@ -22890,11 +22617,18 @@
     "value_": 206.47315
   },
   {
+    "geoid": "45300",
+    "key": "crime-rate-violent",
+    "date": "2025-12-15",
+    "value": 268.78818,
+    "value_": 268.78818
+  },
+  {
     "geoid": "46060",
     "key": "crime-rate-violent",
     "date": "2022-12-15",
-    "value": 340.90877,
-    "value_": 340.90877
+    "value": 331.72317,
+    "value_": 331.72317
   },
   {
     "geoid": "46060",
@@ -22907,8 +22641,8 @@
     "geoid": "46140",
     "key": "crime-rate-violent",
     "date": "2022-12-15",
-    "value": 418.52581,
-    "value_": 418.52581
+    "value": 377.31176,
+    "value_": 377.31176
   },
   {
     "geoid": "46140",
@@ -22925,11 +22659,18 @@
     "value_": 491.20655
   },
   {
+    "geoid": "46140",
+    "key": "crime-rate-violent",
+    "date": "2025-12-15",
+    "value": 467.6979,
+    "value_": 467.6979
+  },
+  {
     "geoid": "47260",
     "key": "crime-rate-violent",
     "date": "2022-12-15",
-    "value": 320.71319,
-    "value_": 320.71319
+    "value": 290.82234,
+    "value_": 290.82234
   },
   {
     "geoid": "47260",
@@ -22949,8 +22690,8 @@
     "geoid": "47900",
     "key": "crime-rate-violent",
     "date": "2022-12-15",
-    "value": 233.74452,
-    "value_": 233.74452
+    "value": 210.957,
+    "value_": 210.957
   },
   {
     "geoid": "47900",
@@ -22970,8 +22711,8 @@
     "geoid": "51013",
     "key": "crime-rate-violent",
     "date": "2022-12-15",
-    "value": 231.48554,
-    "value_": 231.48554
+    "value": 204.30353,
+    "value_": 204.30353
   },
   {
     "geoid": "51013",
@@ -22998,8 +22739,8 @@
     "geoid": "51047",
     "key": "crime-rate-violent",
     "date": "2022-12-15",
-    "value": 148.13731,
-    "value_": 148.13731
+    "value": 138.99303,
+    "value_": 138.99303
   },
   {
     "geoid": "51047",
@@ -23019,8 +22760,8 @@
     "geoid": "51059",
     "key": "crime-rate-violent",
     "date": "2022-12-15",
-    "value": 103.7621,
-    "value_": 103.7621
+    "value": 93.7948,
+    "value_": 93.7948
   },
   {
     "geoid": "51059",
@@ -23040,8 +22781,8 @@
     "geoid": "51061",
     "key": "crime-rate-violent",
     "date": "2022-12-15",
-    "value": 73.37051,
-    "value_": 73.37051
+    "value": 65.36645,
+    "value_": 65.36645
   },
   {
     "geoid": "51061",
@@ -23061,8 +22802,8 @@
     "geoid": "51107",
     "key": "crime-rate-violent",
     "date": "2022-12-15",
-    "value": 89.83195,
-    "value_": 89.83195
+    "value": 81.07909,
+    "value_": 81.07909
   },
   {
     "geoid": "51107",
@@ -23082,8 +22823,8 @@
     "geoid": "51153",
     "key": "crime-rate-violent",
     "date": "2022-12-15",
-    "value": 239.54508,
-    "value_": 239.54508
+    "value": 220.86496,
+    "value_": 220.86496
   },
   {
     "geoid": "51153",
@@ -23117,8 +22858,8 @@
     "geoid": "51177",
     "key": "crime-rate-violent",
     "date": "2022-12-15",
-    "value": 165.46972,
-    "value_": 165.46972
+    "value": 148.51586,
+    "value_": 148.51586
   },
   {
     "geoid": "51177",
@@ -23138,8 +22879,8 @@
     "geoid": "51179",
     "key": "crime-rate-violent",
     "date": "2022-12-15",
-    "value": 155.9589,
-    "value_": 155.9589
+    "value": 142.60834,
+    "value_": 142.60834
   },
   {
     "geoid": "51179",
@@ -23159,8 +22900,8 @@
     "geoid": "51187",
     "key": "crime-rate-violent",
     "date": "2022-12-15",
-    "value": 104.34107,
-    "value_": 104.34107
+    "value": 101.91454,
+    "value_": 101.91454
   },
   {
     "geoid": "51187",
@@ -23180,8 +22921,8 @@
     "geoid": "51510",
     "key": "crime-rate-violent",
     "date": "2022-12-15",
-    "value": 164.94763,
-    "value_": 164.94763
+    "value": 153.02371,
+    "value_": 153.02371
   },
   {
     "geoid": "51510",
@@ -23201,8 +22942,8 @@
     "geoid": "51630",
     "key": "crime-rate-violent",
     "date": "2022-12-15",
-    "value": 367.49411,
-    "value_": 367.49411
+    "value": 332.82485,
+    "value_": 332.82485
   },
   {
     "geoid": "51630",
@@ -23222,8 +22963,8 @@
     "geoid": "54037",
     "key": "crime-rate-violent",
     "date": "2022-12-15",
-    "value": 85.13602,
-    "value_": 85.13602
+    "value": 81.2662,
+    "value_": 81.2662
   },
   {
     "geoid": "54037",
@@ -23243,8 +22984,8 @@
     "geoid": "99997",
     "key": "crime-rate-violent",
     "date": "2022-12-15",
-    "value": 370.27914,
-    "value_": 370.27914
+    "value": 335.47879,
+    "value_": 335.47879
   },
   {
     "geoid": "99997",
@@ -23261,11 +23002,18 @@
     "value_": 401.61979
   },
   {
+    "geoid": "99997",
+    "key": "crime-rate-violent",
+    "date": "2025-12-15",
+    "value": 561.05852,
+    "value_": 561.05852
+  },
+  {
     "geoid": "99999",
     "key": "crime-rate-violent",
     "date": "2022-12-15",
-    "value": 339.61639,
-    "value_": 339.61639
+    "value": 307.35454,
+    "value_": 307.35454
   },
   {
     "geoid": "99999",
@@ -23280,5 +23028,12 @@
     "date": "2024-12-15",
     "value": 364.8646,
     "value_": 364.8646
+  },
+  {
+    "geoid": "99999",
+    "key": "crime-rate-violent",
+    "date": "2025-12-15",
+    "value": 501.49976,
+    "value_": 501.49976
   }
 ]

@@ -23121,6 +23121,13 @@
     "value_": 40680451507.12
   },
   {
+    "geoid": "11001",
+    "key": "federal-obligations-grants",
+    "date": "2025-12-15",
+    "value": 16926561063.18,
+    "value_": 16926561063.18
+  },
+  {
     "geoid": "12060",
     "key": "federal-obligations-grants",
     "date": "2022-12-15",
@@ -23140,6 +23147,13 @@
     "date": "2024-12-15",
     "value": 57154913708.32999,
     "value_": 57154913708.32999
+  },
+  {
+    "geoid": "12060",
+    "key": "federal-obligations-grants",
+    "date": "2025-12-15",
+    "value": 61241533364.03,
+    "value_": 61241533364.03
   },
   {
     "geoid": "12420",
@@ -23163,6 +23177,13 @@
     "value_": 74706352515.18001
   },
   {
+    "geoid": "12420",
+    "key": "federal-obligations-grants",
+    "date": "2025-12-15",
+    "value": 72896211304.66,
+    "value_": 72896211304.66
+  },
+  {
     "geoid": "12580",
     "key": "federal-obligations-grants",
     "date": "2022-12-15",
@@ -23182,6 +23203,13 @@
     "date": "2024-12-15",
     "value": 41063749116.88,
     "value_": 41063749116.88
+  },
+  {
+    "geoid": "12580",
+    "key": "federal-obligations-grants",
+    "date": "2025-12-15",
+    "value": 40708668568.84,
+    "value_": 40708668568.84
   },
   {
     "geoid": "13820",
@@ -23205,6 +23233,13 @@
     "value_": 10828592264.49
   },
   {
+    "geoid": "13820",
+    "key": "federal-obligations-grants",
+    "date": "2025-12-15",
+    "value": 10842342772.43,
+    "value_": 10842342772.43
+  },
+  {
     "geoid": "14460",
     "key": "federal-obligations-grants",
     "date": "2022-12-15",
@@ -23224,6 +23259,13 @@
     "date": "2024-12-15",
     "value": 73209431919.16,
     "value_": 73209431919.16
+  },
+  {
+    "geoid": "14460",
+    "key": "federal-obligations-grants",
+    "date": "2025-12-15",
+    "value": 68134383495.35,
+    "value_": 68134383495.35
   },
   {
     "geoid": "15380",
@@ -23247,6 +23289,13 @@
     "value_": 10012120854.74
   },
   {
+    "geoid": "15380",
+    "key": "federal-obligations-grants",
+    "date": "2025-12-15",
+    "value": 10386175659.26,
+    "value_": 10386175659.26
+  },
+  {
     "geoid": "16740",
     "key": "federal-obligations-grants",
     "date": "2022-12-15",
@@ -23266,6 +23315,13 @@
     "date": "2024-12-15",
     "value": 14544673378.35,
     "value_": 14544673378.35
+  },
+  {
+    "geoid": "16740",
+    "key": "federal-obligations-grants",
+    "date": "2025-12-15",
+    "value": 15343329792.23,
+    "value_": 15343329792.23
   },
   {
     "geoid": "16980",
@@ -23289,6 +23345,13 @@
     "value_": 56964624684.38
   },
   {
+    "geoid": "16980",
+    "key": "federal-obligations-grants",
+    "date": "2025-12-15",
+    "value": 60198424630.1,
+    "value_": 60198424630.1
+  },
+  {
     "geoid": "17140",
     "key": "federal-obligations-grants",
     "date": "2022-12-15",
@@ -23308,6 +23371,13 @@
     "date": "2024-12-15",
     "value": 13372657006.23,
     "value_": 13372657006.23
+  },
+  {
+    "geoid": "17140",
+    "key": "federal-obligations-grants",
+    "date": "2025-12-15",
+    "value": 13444511572.24,
+    "value_": 13444511572.24
   },
   {
     "geoid": "17410",
@@ -23331,6 +23401,13 @@
     "value_": 14801133861.05
   },
   {
+    "geoid": "17410",
+    "key": "federal-obligations-grants",
+    "date": "2025-12-15",
+    "value": 15954021916.89,
+    "value_": 15954021916.89
+  },
+  {
     "geoid": "18140",
     "key": "federal-obligations-grants",
     "date": "2022-12-15",
@@ -23350,6 +23427,13 @@
     "date": "2024-12-15",
     "value": 49322014690.26,
     "value_": 49322014690.26
+  },
+  {
+    "geoid": "18140",
+    "key": "federal-obligations-grants",
+    "date": "2025-12-15",
+    "value": 52640974000.27,
+    "value_": 52640974000.27
   },
   {
     "geoid": "19100",
@@ -23373,6 +23457,13 @@
     "value_": 34733065937.29
   },
   {
+    "geoid": "19100",
+    "key": "federal-obligations-grants",
+    "date": "2025-12-15",
+    "value": 37682229279.99,
+    "value_": 37682229279.99
+  },
+  {
     "geoid": "19740",
     "key": "federal-obligations-grants",
     "date": "2022-12-15",
@@ -23392,6 +23483,13 @@
     "date": "2024-12-15",
     "value": 32604002887.99,
     "value_": 32604002887.99
+  },
+  {
+    "geoid": "19740",
+    "key": "federal-obligations-grants",
+    "date": "2025-12-15",
+    "value": 34185012018.54,
+    "value_": 34185012018.54
   },
   {
     "geoid": "19820",
@@ -23415,6 +23513,13 @@
     "value_": 39475751253.63
   },
   {
+    "geoid": "19820",
+    "key": "federal-obligations-grants",
+    "date": "2025-12-15",
+    "value": 41252341153.07,
+    "value_": 41252341153.07
+  },
+  {
     "geoid": "23420",
     "key": "federal-obligations-grants",
     "date": "2022-12-15",
@@ -23434,6 +23539,13 @@
     "date": "2024-12-15",
     "value": 4997633348.32,
     "value_": 4997633348.32
+  },
+  {
+    "geoid": "23420",
+    "key": "federal-obligations-grants",
+    "date": "2025-12-15",
+    "value": 5496761628.52,
+    "value_": 5496761628.52
   },
   {
     "geoid": "24017",
@@ -23457,6 +23569,13 @@
     "value_": 1015317911.43
   },
   {
+    "geoid": "24017",
+    "key": "federal-obligations-grants",
+    "date": "2025-12-15",
+    "value": 1075476263.54,
+    "value_": 1075476263.54
+  },
+  {
     "geoid": "24021",
     "key": "federal-obligations-grants",
     "date": "2022-12-15",
@@ -23476,6 +23595,13 @@
     "date": "2024-12-15",
     "value": 1459741488.9,
     "value_": 1459741488.9
+  },
+  {
+    "geoid": "24021",
+    "key": "federal-obligations-grants",
+    "date": "2025-12-15",
+    "value": 1609349881.88,
+    "value_": 1609349881.88
   },
   {
     "geoid": "24031",
@@ -23499,6 +23625,13 @@
     "value_": 17098364040.87
   },
   {
+    "geoid": "24031",
+    "key": "federal-obligations-grants",
+    "date": "2025-12-15",
+    "value": 7115821961.42,
+    "value_": 7115821961.42
+  },
+  {
     "geoid": "24033",
     "key": "federal-obligations-grants",
     "date": "2022-12-15",
@@ -23518,6 +23651,13 @@
     "date": "2024-12-15",
     "value": 5247498828.79,
     "value_": 5247498828.79
+  },
+  {
+    "geoid": "24033",
+    "key": "federal-obligations-grants",
+    "date": "2025-12-15",
+    "value": 5554384678.88,
+    "value_": 5554384678.88
   },
   {
     "geoid": "24340",
@@ -23541,6 +23681,13 @@
     "value_": 9588175344.6
   },
   {
+    "geoid": "24340",
+    "key": "federal-obligations-grants",
+    "date": "2025-12-15",
+    "value": 10226140036.75,
+    "value_": 10226140036.75
+  },
+  {
     "geoid": "26420",
     "key": "federal-obligations-grants",
     "date": "2022-12-15",
@@ -23560,6 +23707,13 @@
     "date": "2024-12-15",
     "value": 39815390197.59,
     "value_": 39815390197.59
+  },
+  {
+    "geoid": "26420",
+    "key": "federal-obligations-grants",
+    "date": "2025-12-15",
+    "value": 35415666674.21,
+    "value_": 35415666674.21
   },
   {
     "geoid": "26900",
@@ -23583,6 +23737,13 @@
     "value_": 162265682641.17999
   },
   {
+    "geoid": "26900",
+    "key": "federal-obligations-grants",
+    "date": "2025-12-15",
+    "value": 172262686322.97,
+    "value_": 172262686322.97
+  },
+  {
     "geoid": "27260",
     "key": "federal-obligations-grants",
     "date": "2022-12-15",
@@ -23602,6 +23763,13 @@
     "date": "2024-12-15",
     "value": 40045369973.71,
     "value_": 40045369973.71
+  },
+  {
+    "geoid": "27260",
+    "key": "federal-obligations-grants",
+    "date": "2025-12-15",
+    "value": 43699090295.63,
+    "value_": 43699090295.63
   },
   {
     "geoid": "28140",
@@ -23625,6 +23793,13 @@
     "value_": 13108432429.62
   },
   {
+    "geoid": "28140",
+    "key": "federal-obligations-grants",
+    "date": "2025-12-15",
+    "value": 13238716430.1,
+    "value_": 13238716430.1
+  },
+  {
     "geoid": "29820",
     "key": "federal-obligations-grants",
     "date": "2022-12-15",
@@ -23644,6 +23819,13 @@
     "date": "2024-12-15",
     "value": 12299194847.11,
     "value_": 12299194847.11
+  },
+  {
+    "geoid": "29820",
+    "key": "federal-obligations-grants",
+    "date": "2025-12-15",
+    "value": 13327192704.82,
+    "value_": 13327192704.82
   },
   {
     "geoid": "31080",
@@ -23667,6 +23849,13 @@
     "value_": 76634097241.76001
   },
   {
+    "geoid": "31080",
+    "key": "federal-obligations-grants",
+    "date": "2025-12-15",
+    "value": 82362502920.19,
+    "value_": 82362502920.19
+  },
+  {
     "geoid": "31140",
     "key": "federal-obligations-grants",
     "date": "2022-12-15",
@@ -23686,6 +23875,13 @@
     "date": "2024-12-15",
     "value": 118376847923.81999,
     "value_": 118376847923.81999
+  },
+  {
+    "geoid": "31140",
+    "key": "federal-obligations-grants",
+    "date": "2025-12-15",
+    "value": 117884659581.39,
+    "value_": 117884659581.39
   },
   {
     "geoid": "32820",
@@ -23709,6 +23905,13 @@
     "value_": 7660974685.41
   },
   {
+    "geoid": "32820",
+    "key": "federal-obligations-grants",
+    "date": "2025-12-15",
+    "value": 8203612314.64,
+    "value_": 8203612314.64
+  },
+  {
     "geoid": "33100",
     "key": "federal-obligations-grants",
     "date": "2022-12-15",
@@ -23728,6 +23931,13 @@
     "date": "2024-12-15",
     "value": 42507049631.03,
     "value_": 42507049631.03
+  },
+  {
+    "geoid": "33100",
+    "key": "federal-obligations-grants",
+    "date": "2025-12-15",
+    "value": 46093415925.89,
+    "value_": 46093415925.89
   },
   {
     "geoid": "33340",
@@ -23751,6 +23961,13 @@
     "value_": 10021707951.75
   },
   {
+    "geoid": "33340",
+    "key": "federal-obligations-grants",
+    "date": "2025-12-15",
+    "value": 10001861711.27,
+    "value_": 10001861711.27
+  },
+  {
     "geoid": "33460",
     "key": "federal-obligations-grants",
     "date": "2022-12-15",
@@ -23770,6 +23987,13 @@
     "date": "2024-12-15",
     "value": 208213866105.33002,
     "value_": 208213866105.33002
+  },
+  {
+    "geoid": "33460",
+    "key": "federal-obligations-grants",
+    "date": "2025-12-15",
+    "value": 227158868304.44,
+    "value_": 227158868304.44
   },
   {
     "geoid": "34980",
@@ -23793,6 +24017,13 @@
     "value_": 62608357072.88
   },
   {
+    "geoid": "34980",
+    "key": "federal-obligations-grants",
+    "date": "2025-12-15",
+    "value": 75753943777.73,
+    "value_": 75753943777.73
+  },
+  {
     "geoid": "35620",
     "key": "federal-obligations-grants",
     "date": "2022-12-15",
@@ -23812,6 +24043,13 @@
     "date": "2024-12-15",
     "value": 134407557073.25,
     "value_": 134407557073.25
+  },
+  {
+    "geoid": "35620",
+    "key": "federal-obligations-grants",
+    "date": "2025-12-15",
+    "value": 135476722510.59,
+    "value_": 135476722510.59
   },
   {
     "geoid": "36420",
@@ -23835,6 +24073,13 @@
     "value_": 22294073672.49
   },
   {
+    "geoid": "36420",
+    "key": "federal-obligations-grants",
+    "date": "2025-12-15",
+    "value": 22900202226.54,
+    "value_": 22900202226.54
+  },
+  {
     "geoid": "36540",
     "key": "federal-obligations-grants",
     "date": "2022-12-15",
@@ -23854,6 +24099,13 @@
     "date": "2024-12-15",
     "value": 10609107157.46,
     "value_": 10609107157.46
+  },
+  {
+    "geoid": "36540",
+    "key": "federal-obligations-grants",
+    "date": "2025-12-15",
+    "value": 12324890074.85,
+    "value_": 12324890074.85
   },
   {
     "geoid": "36740",
@@ -23877,6 +24129,13 @@
     "value_": 14702180807.26
   },
   {
+    "geoid": "36740",
+    "key": "federal-obligations-grants",
+    "date": "2025-12-15",
+    "value": 15764758922.92,
+    "value_": 15764758922.92
+  },
+  {
     "geoid": "37980",
     "key": "federal-obligations-grants",
     "date": "2022-12-15",
@@ -23896,6 +24155,13 @@
     "date": "2024-12-15",
     "value": 48274281375.12,
     "value_": 48274281375.12
+  },
+  {
+    "geoid": "37980",
+    "key": "federal-obligations-grants",
+    "date": "2025-12-15",
+    "value": 47251904331.87,
+    "value_": 47251904331.87
   },
   {
     "geoid": "38060",
@@ -23919,6 +24185,13 @@
     "value_": 62506177627.99
   },
   {
+    "geoid": "38060",
+    "key": "federal-obligations-grants",
+    "date": "2025-12-15",
+    "value": 68954304320.03999,
+    "value_": 68954304320.03999
+  },
+  {
     "geoid": "38300",
     "key": "federal-obligations-grants",
     "date": "2022-12-15",
@@ -23938,6 +24211,13 @@
     "date": "2024-12-15",
     "value": 26868302599,
     "value_": 26868302599
+  },
+  {
+    "geoid": "38300",
+    "key": "federal-obligations-grants",
+    "date": "2025-12-15",
+    "value": 29563466787.1,
+    "value_": 29563466787.1
   },
   {
     "geoid": "38900",
@@ -23961,6 +24241,13 @@
     "value_": 19429263775.44
   },
   {
+    "geoid": "38900",
+    "key": "federal-obligations-grants",
+    "date": "2025-12-15",
+    "value": 19589730849.1,
+    "value_": 19589730849.1
+  },
+  {
     "geoid": "39300",
     "key": "federal-obligations-grants",
     "date": "2022-12-15",
@@ -23980,6 +24267,13 @@
     "date": "2024-12-15",
     "value": 16983504833.57,
     "value_": 16983504833.57
+  },
+  {
+    "geoid": "39300",
+    "key": "federal-obligations-grants",
+    "date": "2025-12-15",
+    "value": 18156123772.37,
+    "value_": 18156123772.37
   },
   {
     "geoid": "39580",
@@ -24003,6 +24297,13 @@
     "value_": 42310517039.7
   },
   {
+    "geoid": "39580",
+    "key": "federal-obligations-grants",
+    "date": "2025-12-15",
+    "value": 49781946875.42,
+    "value_": 49781946875.42
+  },
+  {
     "geoid": "40060",
     "key": "federal-obligations-grants",
     "date": "2022-12-15",
@@ -24022,6 +24323,13 @@
     "date": "2024-12-15",
     "value": 33481091901.85,
     "value_": 33481091901.85
+  },
+  {
+    "geoid": "40060",
+    "key": "federal-obligations-grants",
+    "date": "2025-12-15",
+    "value": 34812474896.34,
+    "value_": 34812474896.34
   },
   {
     "geoid": "40140",
@@ -24045,6 +24353,13 @@
     "value_": 22298790573.36
   },
   {
+    "geoid": "40140",
+    "key": "federal-obligations-grants",
+    "date": "2025-12-15",
+    "value": 24346281288.39,
+    "value_": 24346281288.39
+  },
+  {
     "geoid": "40380",
     "key": "federal-obligations-grants",
     "date": "2022-12-15",
@@ -24064,6 +24379,13 @@
     "date": "2024-12-15",
     "value": 9491508747.29,
     "value_": 9491508747.29
+  },
+  {
+    "geoid": "40380",
+    "key": "federal-obligations-grants",
+    "date": "2025-12-15",
+    "value": 10462074965.17,
+    "value_": 10462074965.17
   },
   {
     "geoid": "40900",
@@ -24087,6 +24409,13 @@
     "value_": 173128142567.04999
   },
   {
+    "geoid": "40900",
+    "key": "federal-obligations-grants",
+    "date": "2025-12-15",
+    "value": 171881318241.62,
+    "value_": 171881318241.62
+  },
+  {
     "geoid": "41180",
     "key": "federal-obligations-grants",
     "date": "2022-12-15",
@@ -24106,6 +24435,13 @@
     "date": "2024-12-15",
     "value": 37543176543.66,
     "value_": 37543176543.66
+  },
+  {
+    "geoid": "41180",
+    "key": "federal-obligations-grants",
+    "date": "2025-12-15",
+    "value": 39248155410.73,
+    "value_": 39248155410.73
   },
   {
     "geoid": "41620",
@@ -24129,6 +24465,13 @@
     "value_": 14376556958.28
   },
   {
+    "geoid": "41620",
+    "key": "federal-obligations-grants",
+    "date": "2025-12-15",
+    "value": 14870938006.61,
+    "value_": 14870938006.61
+  },
+  {
     "geoid": "41700",
     "key": "federal-obligations-grants",
     "date": "2022-12-15",
@@ -24148,6 +24491,13 @@
     "date": "2024-12-15",
     "value": 16806937643.23,
     "value_": 16806937643.23
+  },
+  {
+    "geoid": "41700",
+    "key": "federal-obligations-grants",
+    "date": "2025-12-15",
+    "value": 17945507959.27,
+    "value_": 17945507959.27
   },
   {
     "geoid": "41740",
@@ -24171,6 +24521,13 @@
     "value_": 20421327883.56
   },
   {
+    "geoid": "41740",
+    "key": "federal-obligations-grants",
+    "date": "2025-12-15",
+    "value": 21775859121.7,
+    "value_": 21775859121.7
+  },
+  {
     "geoid": "41860",
     "key": "federal-obligations-grants",
     "date": "2022-12-15",
@@ -24190,6 +24547,13 @@
     "date": "2024-12-15",
     "value": 57191964149.81,
     "value_": 57191964149.81
+  },
+  {
+    "geoid": "41860",
+    "key": "federal-obligations-grants",
+    "date": "2025-12-15",
+    "value": 56906560332.84,
+    "value_": 56906560332.84
   },
   {
     "geoid": "41940",
@@ -24213,6 +24577,13 @@
     "value_": 9598653306.11
   },
   {
+    "geoid": "41940",
+    "key": "federal-obligations-grants",
+    "date": "2025-12-15",
+    "value": 10086926489.29,
+    "value_": 10086926489.29
+  },
+  {
     "geoid": "42660",
     "key": "federal-obligations-grants",
     "date": "2022-12-15",
@@ -24232,6 +24603,13 @@
     "date": "2024-12-15",
     "value": 25336152207.08,
     "value_": 25336152207.08
+  },
+  {
+    "geoid": "42660",
+    "key": "federal-obligations-grants",
+    "date": "2025-12-15",
+    "value": 24332127485.12,
+    "value_": 24332127485.12
   },
   {
     "geoid": "45300",
@@ -24255,6 +24633,13 @@
     "value_": 52208535348.53
   },
   {
+    "geoid": "45300",
+    "key": "federal-obligations-grants",
+    "date": "2025-12-15",
+    "value": 62875090119.89999,
+    "value_": 62875090119.89999
+  },
+  {
     "geoid": "46060",
     "key": "federal-obligations-grants",
     "date": "2022-12-15",
@@ -24274,6 +24659,13 @@
     "date": "2024-12-15",
     "value": 8280789904.16,
     "value_": 8280789904.16
+  },
+  {
+    "geoid": "46060",
+    "key": "federal-obligations-grants",
+    "date": "2025-12-15",
+    "value": 8851821713.12,
+    "value_": 8851821713.12
   },
   {
     "geoid": "46140",
@@ -24297,6 +24689,13 @@
     "value_": 6850949233.51
   },
   {
+    "geoid": "46140",
+    "key": "federal-obligations-grants",
+    "date": "2025-12-15",
+    "value": 7289429312.17,
+    "value_": 7289429312.17
+  },
+  {
     "geoid": "47260",
     "key": "federal-obligations-grants",
     "date": "2022-12-15",
@@ -24316,6 +24715,13 @@
     "date": "2024-12-15",
     "value": 14301241758.48,
     "value_": 14301241758.48
+  },
+  {
+    "geoid": "47260",
+    "key": "federal-obligations-grants",
+    "date": "2025-12-15",
+    "value": 15141855777.77,
+    "value_": 15141855777.77
   },
   {
     "geoid": "47900",
@@ -24339,6 +24745,13 @@
     "value_": 86338127483.47
   },
   {
+    "geoid": "47900",
+    "key": "federal-obligations-grants",
+    "date": "2025-12-15",
+    "value": 54200584479.45,
+    "value_": 54200584479.45
+  },
+  {
     "geoid": "51013",
     "key": "federal-obligations-grants",
     "date": "2022-12-15",
@@ -24358,6 +24771,13 @@
     "date": "2024-12-15",
     "value": 5663093452.79,
     "value_": 5663093452.79
+  },
+  {
+    "geoid": "51013",
+    "key": "federal-obligations-grants",
+    "date": "2025-12-15",
+    "value": 5802211279.73,
+    "value_": 5802211279.73
   },
   {
     "geoid": "51043",
@@ -24381,6 +24801,13 @@
     "value_": 108089479.45
   },
   {
+    "geoid": "51043",
+    "key": "federal-obligations-grants",
+    "date": "2025-12-15",
+    "value": 120465290.5,
+    "value_": 120465290.5
+  },
+  {
     "geoid": "51047",
     "key": "federal-obligations-grants",
     "date": "2022-12-15",
@@ -24400,6 +24827,13 @@
     "date": "2024-12-15",
     "value": 308318300.73,
     "value_": 308318300.73
+  },
+  {
+    "geoid": "51047",
+    "key": "federal-obligations-grants",
+    "date": "2025-12-15",
+    "value": 341041861.15,
+    "value_": 341041861.15
   },
   {
     "geoid": "51059",
@@ -24423,6 +24857,13 @@
     "value_": 6619832903
   },
   {
+    "geoid": "51059",
+    "key": "federal-obligations-grants",
+    "date": "2025-12-15",
+    "value": 7035683939.32,
+    "value_": 7035683939.32
+  },
+  {
     "geoid": "51061",
     "key": "federal-obligations-grants",
     "date": "2022-12-15",
@@ -24442,6 +24883,13 @@
     "date": "2024-12-15",
     "value": 448044949.89,
     "value_": 448044949.89
+  },
+  {
+    "geoid": "51061",
+    "key": "federal-obligations-grants",
+    "date": "2025-12-15",
+    "value": 520725439.72,
+    "value_": 520725439.72
   },
   {
     "geoid": "51107",
@@ -24465,6 +24913,13 @@
     "value_": 1542836936
   },
   {
+    "geoid": "51107",
+    "key": "federal-obligations-grants",
+    "date": "2025-12-15",
+    "value": 1669058711.32,
+    "value_": 1669058711.32
+  },
+  {
     "geoid": "51153",
     "key": "federal-obligations-grants",
     "date": "2022-12-15",
@@ -24484,6 +24939,13 @@
     "date": "2024-12-15",
     "value": 2350184220.17,
     "value_": 2350184220.17
+  },
+  {
+    "geoid": "51153",
+    "key": "federal-obligations-grants",
+    "date": "2025-12-15",
+    "value": 2673130703.03,
+    "value_": 2673130703.03
   },
   {
     "geoid": "51157",
@@ -24507,6 +24969,13 @@
     "value_": 57156396.26
   },
   {
+    "geoid": "51157",
+    "key": "federal-obligations-grants",
+    "date": "2025-12-15",
+    "value": 63728836.63,
+    "value_": 63728836.63
+  },
+  {
     "geoid": "51177",
     "key": "federal-obligations-grants",
     "date": "2022-12-15",
@@ -24526,6 +24995,13 @@
     "date": "2024-12-15",
     "value": 852454599.42,
     "value_": 852454599.42
+  },
+  {
+    "geoid": "51177",
+    "key": "federal-obligations-grants",
+    "date": "2025-12-15",
+    "value": 960272907.71,
+    "value_": 960272907.71
   },
   {
     "geoid": "51179",
@@ -24549,6 +25025,13 @@
     "value_": 966680427.24
   },
   {
+    "geoid": "51179",
+    "key": "federal-obligations-grants",
+    "date": "2025-12-15",
+    "value": 1091503850.2,
+    "value_": 1091503850.2
+  },
+  {
     "geoid": "51187",
     "key": "federal-obligations-grants",
     "date": "2022-12-15",
@@ -24568,6 +25051,13 @@
     "date": "2024-12-15",
     "value": 235641845.93,
     "value_": 235641845.93
+  },
+  {
+    "geoid": "51187",
+    "key": "federal-obligations-grants",
+    "date": "2025-12-15",
+    "value": 255233550.62,
+    "value_": 255233550.62
   },
   {
     "geoid": "51510",
@@ -24591,6 +25081,13 @@
     "value_": 1046833924.62
   },
   {
+    "geoid": "51510",
+    "key": "federal-obligations-grants",
+    "date": "2025-12-15",
+    "value": 723888689.23,
+    "value_": 723888689.23
+  },
+  {
     "geoid": "51630",
     "key": "federal-obligations-grants",
     "date": "2022-12-15",
@@ -24610,6 +25107,13 @@
     "date": "2024-12-15",
     "value": 196420442.44,
     "value_": 196420442.44
+  },
+  {
+    "geoid": "51630",
+    "key": "federal-obligations-grants",
+    "date": "2025-12-15",
+    "value": 176312636.78,
+    "value_": 176312636.78
   },
   {
     "geoid": "54037",
@@ -24633,6 +25137,13 @@
     "value_": 441165828.42
   },
   {
+    "geoid": "54037",
+    "key": "federal-obligations-grants",
+    "date": "2025-12-15",
+    "value": 485732934.61,
+    "value_": 485732934.61
+  },
+  {
     "geoid": "99997",
     "key": "federal-obligations-grants",
     "date": "2022-12-15",
@@ -24654,6 +25165,13 @@
     "value_": 2316974775642.7798
   },
   {
+    "geoid": "99997",
+    "key": "federal-obligations-grants",
+    "date": "2025-12-15",
+    "value": 2390826334426.7402,
+    "value_": 2390826334426.7402
+  },
+  {
     "geoid": "99999",
     "key": "federal-obligations-grants",
     "date": "2022-12-15",
@@ -24673,5 +25191,12 @@
     "date": "2024-12-15",
     "value": 4196143963109.7598,
     "value_": 4196143963109.7598
+  },
+  {
+    "geoid": "99999",
+    "key": "federal-obligations-grants",
+    "date": "2025-12-15",
+    "value": 4314535440457.2998,
+    "value_": 4314535440457.2998
   }
 ]
