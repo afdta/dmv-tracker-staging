@@ -17,10 +17,6 @@
       "topic": "real-estate"
     },
     {
-      "name": null,
-      "topic": null
-    },
-    {
       "name": "Destination & Travel",
       "topic": "destination-travel"
     },
@@ -87,11 +83,6 @@
       "topic": "real-estate",
       "subtopic": "home-sales",
       "name": "Home sales"
-    },
-    {
-      "topic": null,
-      "subtopic": null,
-      "name": null
     },
     {
       "topic": "real-estate",
@@ -192,20 +183,20 @@
       "map": 1
     },
     {
-      "topic": null,
-      "subtopic": null,
-      "def": null,
-      "source": null,
-      "name": null,
+      "topic": "real-estate",
+      "subtopic": "home-sales",
+      "def": "Residential home sales",
+      "source": "Realtor.com Economic Research and Redfin Data Center",
+      "name": "Median residential listing price",
       "key": "median-listing-price",
-      "interval": null,
-      "format": null,
-      "format_change": null,
-      "note": null,
-      "last_updated": null,
+      "interval": "M",
+      "format": "$123k",
+      "format_change": "pct",
+      "note": "Level",
+      "last_updated": "DMV-2026-04-27",
       "start": "2025-03-15",
       "end": "2026-03-15",
-      "map": null
+      "map": 1
     },
     {
       "topic": "real-estate",
