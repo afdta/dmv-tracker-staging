@@ -17,6 +17,10 @@
       "topic": "real-estate"
     },
     {
+      "name": null,
+      "topic": null
+    },
+    {
       "name": "Destination & Travel",
       "topic": "destination-travel"
     },
@@ -83,6 +87,11 @@
       "topic": "real-estate",
       "subtopic": "home-sales",
       "name": "Home sales"
+    },
+    {
+      "topic": null,
+      "subtopic": null,
+      "name": null
     },
     {
       "topic": "real-estate",
@@ -181,6 +190,22 @@
       "start": "2025-03-15",
       "end": "2026-03-15",
       "map": 1
+    },
+    {
+      "topic": null,
+      "subtopic": null,
+      "def": null,
+      "source": null,
+      "name": null,
+      "key": "median-listing-price",
+      "interval": null,
+      "format": null,
+      "format_change": null,
+      "note": null,
+      "last_updated": null,
+      "start": "2025-03-15",
+      "end": "2026-03-15",
+      "map": null
     },
     {
       "topic": "real-estate",
