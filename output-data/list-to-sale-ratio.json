@@ -280,6 +280,62 @@
     "value_": 95.50904
   },
   {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2019-01-15",
+    "value": 94.61892,
+    "value_": 94.61892
+  },
+  {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2020-01-15",
+    "value": 94.41017,
+    "value_": 94.41017
+  },
+  {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2021-01-15",
+    "value": 95.29915,
+    "value_": 95.29915
+  },
+  {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2022-01-15",
+    "value": 92.98328,
+    "value_": 92.98328
+  },
+  {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2023-01-15",
+    "value": 89.838,
+    "value_": 89.838
+  },
+  {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2024-01-15",
+    "value": 93.06848,
+    "value_": 93.06848
+  },
+  {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2025-01-15",
+    "value": 96.10212,
+    "value_": 96.10212
+  },
+  {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2026-01-15",
+    "value": 97.46328,
+    "value_": 97.46328
+  },
+  {
     "geoid": "15380",
     "key": "list-to-sale-ratio",
     "date": "2019-01-15",
@@ -390,6 +446,62 @@
     "date": "2026-01-15",
     "value": 97.56336,
     "value_": 97.56336
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2019-01-15",
+    "value": 83.64312,
+    "value_": 83.64312
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2020-01-15",
+    "value": 83.60129,
+    "value_": 83.60129
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2021-01-15",
+    "value": 90.03001,
+    "value_": 90.03001
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2022-01-15",
+    "value": 90.90909,
+    "value_": 90.90909
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2023-01-15",
+    "value": 91.96515,
+    "value_": 91.96515
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2024-01-15",
+    "value": 94.83283,
+    "value_": 94.83283
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2025-01-15",
+    "value": 95.71429,
+    "value_": 95.71429
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2026-01-15",
+    "value": 94.03794,
+    "value_": 94.03794
   },
   {
     "geoid": "17140",
@@ -560,6 +672,62 @@
     "value_": 97.90827
   },
   {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2019-01-15",
+    "value": 88.33294,
+    "value_": 88.33294
+  },
+  {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2020-01-15",
+    "value": 90.67441,
+    "value_": 90.67441
+  },
+  {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2021-01-15",
+    "value": 93.29823,
+    "value_": 93.29823
+  },
+  {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2022-01-15",
+    "value": 97.51119,
+    "value_": 97.51119
+  },
+  {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2023-01-15",
+    "value": 94.28796,
+    "value_": 94.28796
+  },
+  {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2024-01-15",
+    "value": 93.67791,
+    "value_": 93.67791
+  },
+  {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2025-01-15",
+    "value": 94.53146,
+    "value_": 94.53146
+  },
+  {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2026-01-15",
+    "value": 93.94856,
+    "value_": 93.94856
+  },
+  {
     "geoid": "19740",
     "key": "list-to-sale-ratio",
     "date": "2019-01-15",
@@ -614,6 +782,62 @@
     "date": "2026-01-15",
     "value": 98.26087,
     "value_": 98.26087
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2019-01-15",
+    "value": 100,
+    "value_": 100
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2020-01-15",
+    "value": 104.25354,
+    "value_": 104.25354
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2021-01-15",
+    "value": 103.33333,
+    "value_": 103.33333
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2022-01-15",
+    "value": 109.07272,
+    "value_": 109.07272
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2023-01-15",
+    "value": 103.51967,
+    "value_": 103.51967
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2024-01-15",
+    "value": 113.40894,
+    "value_": 113.40894
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2025-01-15",
+    "value": 105.21528,
+    "value_": 105.21528
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2026-01-15",
+    "value": 97.77778,
+    "value_": 97.77778
   },
   {
     "geoid": "23420",
@@ -1232,6 +1456,62 @@
     "value_": 96.88688
   },
   {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2019-01-15",
+    "value": 92.48826,
+    "value_": 92.48826
+  },
+  {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2020-01-15",
+    "value": 92.02899,
+    "value_": 92.02899
+  },
+  {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2021-01-15",
+    "value": 96.26667,
+    "value_": 96.26667
+  },
+  {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2022-01-15",
+    "value": 97.17314,
+    "value_": 97.17314
+  },
+  {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2023-01-15",
+    "value": 93.52941,
+    "value_": 93.52941
+  },
+  {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2024-01-15",
+    "value": 93.68567,
+    "value_": 93.68567
+  },
+  {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2025-01-15",
+    "value": 88.94472,
+    "value_": 88.94472
+  },
+  {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2026-01-15",
+    "value": 92.64133,
+    "value_": 92.64133
+  },
+  {
     "geoid": "31140",
     "key": "list-to-sale-ratio",
     "date": "2019-01-15",
@@ -1342,6 +1622,62 @@
     "date": "2026-01-15",
     "value": 105.66038,
     "value_": 105.66038
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2019-01-15",
+    "value": 83.57349,
+    "value_": 83.57349
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2020-01-15",
+    "value": 86.95652,
+    "value_": 86.95652
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2021-01-15",
+    "value": 94.43038,
+    "value_": 94.43038
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2022-01-15",
+    "value": 91.73684,
+    "value_": 91.73684
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2023-01-15",
+    "value": 88.84688,
+    "value_": 88.84688
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2024-01-15",
+    "value": 98.18182,
+    "value_": 98.18182
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2025-01-15",
+    "value": 95.7265,
+    "value_": 95.7265
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2026-01-15",
+    "value": 97.3913,
+    "value_": 97.3913
   },
   {
     "geoid": "33340",
@@ -1512,6 +1848,62 @@
     "value_": 95.83247
   },
   {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2019-01-15",
+    "value": 84.1285,
+    "value_": 84.1285
+  },
+  {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2020-01-15",
+    "value": 87.94992,
+    "value_": 87.94992
+  },
+  {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2021-01-15",
+    "value": 92.86822,
+    "value_": 92.86822
+  },
+  {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2022-01-15",
+    "value": 98.89543,
+    "value_": 98.89543
+  },
+  {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2023-01-15",
+    "value": 95,
+    "value_": 95
+  },
+  {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2024-01-15",
+    "value": 90.32258,
+    "value_": 90.32258
+  },
+  {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2025-01-15",
+    "value": 96.87512,
+    "value_": 96.87512
+  },
+  {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2026-01-15",
+    "value": 97.62203,
+    "value_": 97.62203
+  },
+  {
     "geoid": "36420",
     "key": "list-to-sale-ratio",
     "date": "2019-01-15",
@@ -1678,6 +2070,62 @@
     "date": "2026-01-15",
     "value": 96.38554,
     "value_": 96.38554
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2019-01-15",
+    "value": 92.91457,
+    "value_": 92.91457
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2020-01-15",
+    "value": 92.48555,
+    "value_": 92.48555
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2021-01-15",
+    "value": 97.91667,
+    "value_": 97.91667
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2022-01-15",
+    "value": 100,
+    "value_": 100
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2023-01-15",
+    "value": 100.04168,
+    "value_": 100.04168
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2024-01-15",
+    "value": 98.11321,
+    "value_": 98.11321
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2025-01-15",
+    "value": 98.86792,
+    "value_": 98.86792
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2026-01-15",
+    "value": 102.90909,
+    "value_": 102.90909
   },
   {
     "geoid": "38060",
@@ -2408,6 +2856,62 @@
     "value_": 100
   },
   {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2019-01-15",
+    "value": 92.8,
+    "value_": 92.8
+  },
+  {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2020-01-15",
+    "value": 96.2963,
+    "value_": 96.2963
+  },
+  {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2021-01-15",
+    "value": 103.00231,
+    "value_": 103.00231
+  },
+  {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2022-01-15",
+    "value": 104.21818,
+    "value_": 104.21818
+  },
+  {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2023-01-15",
+    "value": 86.55914,
+    "value_": 86.55914
+  },
+  {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2024-01-15",
+    "value": 100.85837,
+    "value_": 100.85837
+  },
+  {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2025-01-15",
+    "value": 106.73595,
+    "value_": 106.73595
+  },
+  {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2026-01-15",
+    "value": 100.35842,
+    "value_": 100.35842
+  },
+  {
     "geoid": "41940",
     "key": "list-to-sale-ratio",
     "date": "2019-01-15",
@@ -2462,6 +2966,62 @@
     "date": "2026-01-15",
     "value": 93.99127,
     "value_": 93.99127
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2019-01-15",
+    "value": 89.65517,
+    "value_": 89.65517
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2020-01-15",
+    "value": 92.44474,
+    "value_": 92.44474
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2021-01-15",
+    "value": 96.30769,
+    "value_": 96.30769
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2022-01-15",
+    "value": 96.12817,
+    "value_": 96.12817
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2023-01-15",
+    "value": 95.99973,
+    "value_": 95.99973
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2024-01-15",
+    "value": 96.12965,
+    "value_": 96.12965
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2025-01-15",
+    "value": 96.87561,
+    "value_": 96.87561
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2026-01-15",
+    "value": 92.74458,
+    "value_": 92.74458
   },
   {
     "geoid": "45300",
@@ -2686,6 +3246,62 @@
     "date": "2026-01-15",
     "value": 94.62017,
     "value_": 94.62017
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2019-01-15",
+    "value": 96.27407,
+    "value_": 96.27407
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2020-01-15",
+    "value": 95,
+    "value_": 95
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2021-01-15",
+    "value": 97.77778,
+    "value_": 97.77778
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2022-01-15",
+    "value": 94.41888,
+    "value_": 94.41888
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2023-01-15",
+    "value": 91.36372,
+    "value_": 91.36372
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2024-01-15",
+    "value": 96.26168,
+    "value_": 96.26168
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2025-01-15",
+    "value": 93.75167,
+    "value_": 93.75167
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2026-01-15",
+    "value": 99.09091,
+    "value_": 99.09091
   },
   {
     "geoid": "51013",
@@ -3475,57 +4091,57 @@
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2019-01-15",
-    "value": 92.32732,
-    "value_": 92.32732
+    "value": 90.48962,
+    "value_": 90.48962
   },
   {
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2020-01-15",
-    "value": 93.38452,
-    "value_": 93.38452
+    "value": 91.72618,
+    "value_": 91.72618
   },
   {
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2021-01-15",
-    "value": 96.2586,
-    "value_": 96.2586
+    "value": 95.45499,
+    "value_": 95.45499
   },
   {
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2022-01-15",
-    "value": 97.10185,
-    "value_": 97.10185
+    "value": 96.77362,
+    "value_": 96.77362
   },
   {
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2023-01-15",
-    "value": 94.89853,
-    "value_": 94.89853
+    "value": 94.19952,
+    "value_": 94.19952
   },
   {
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2024-01-15",
-    "value": 95.08267,
-    "value_": 95.08267
+    "value": 94.79919,
+    "value_": 94.79919
   },
   {
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2025-01-15",
-    "value": 96.18079,
-    "value_": 96.18079
+    "value": 95.68437,
+    "value_": 95.68437
   },
   {
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2026-01-15",
-    "value": 95.92139,
-    "value_": 95.92139
+    "value": 95.90429,
+    "value_": 95.90429
   },
   {
     "geoid": "99999",
@@ -3864,6 +4480,62 @@
     "value_": 90.03198
   },
   {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2019-02-15",
+    "value": 85.99244,
+    "value_": 85.99244
+  },
+  {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2020-02-15",
+    "value": 86.16153,
+    "value_": 86.16153
+  },
+  {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2021-02-15",
+    "value": 91.8197,
+    "value_": 91.8197
+  },
+  {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2022-02-15",
+    "value": 88.93871,
+    "value_": 88.93871
+  },
+  {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2023-02-15",
+    "value": 85.1216,
+    "value_": 85.1216
+  },
+  {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2024-02-15",
+    "value": 91.10837,
+    "value_": 91.10837
+  },
+  {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2025-02-15",
+    "value": 89.01515,
+    "value_": 89.01515
+  },
+  {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2026-02-15",
+    "value": 86.35795,
+    "value_": 86.35795
+  },
+  {
     "geoid": "15380",
     "key": "list-to-sale-ratio",
     "date": "2019-02-15",
@@ -3974,6 +4646,62 @@
     "date": "2026-02-15",
     "value": 94.48472,
     "value_": 94.48472
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2019-02-15",
+    "value": 77.7592,
+    "value_": 77.7592
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2020-02-15",
+    "value": 80.6668,
+    "value_": 80.6668
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2021-02-15",
+    "value": 85.13622,
+    "value_": 85.13622
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2022-02-15",
+    "value": 88.99083,
+    "value_": 88.99083
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2023-02-15",
+    "value": 87.90543,
+    "value_": 87.90543
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2024-02-15",
+    "value": 89.6027,
+    "value_": 89.6027
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2025-02-15",
+    "value": 92,
+    "value_": 92
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2026-02-15",
+    "value": 94.73684,
+    "value_": 94.73684
   },
   {
     "geoid": "17140",
@@ -4144,6 +4872,62 @@
     "value_": 94.84138
   },
   {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2019-02-15",
+    "value": 87.30159,
+    "value_": 87.30159
+  },
+  {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2020-02-15",
+    "value": 89.6875,
+    "value_": 89.6875
+  },
+  {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2021-02-15",
+    "value": 98.51099,
+    "value_": 98.51099
+  },
+  {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2022-02-15",
+    "value": 98.02469,
+    "value_": 98.02469
+  },
+  {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2023-02-15",
+    "value": 96.09419,
+    "value_": 96.09419
+  },
+  {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2024-02-15",
+    "value": 95.91492,
+    "value_": 95.91492
+  },
+  {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2025-02-15",
+    "value": 97.64936,
+    "value_": 97.64936
+  },
+  {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2026-02-15",
+    "value": 92.55825,
+    "value_": 92.55825
+  },
+  {
     "geoid": "19740",
     "key": "list-to-sale-ratio",
     "date": "2019-02-15",
@@ -4198,6 +4982,62 @@
     "date": "2026-02-15",
     "value": 96.87855,
     "value_": 96.87855
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2019-02-15",
+    "value": 104.21184,
+    "value_": 104.21184
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2020-02-15",
+    "value": 95.81171,
+    "value_": 95.81171
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2021-02-15",
+    "value": 98.7734,
+    "value_": 98.7734
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2022-02-15",
+    "value": 103.18949,
+    "value_": 103.18949
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2023-02-15",
+    "value": 108.47458,
+    "value_": 108.47458
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2024-02-15",
+    "value": 94.73734,
+    "value_": 94.73734
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2025-02-15",
+    "value": 103.80735,
+    "value_": 103.80735
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2026-02-15",
+    "value": 100.02779,
+    "value_": 100.02779
   },
   {
     "geoid": "23420",
@@ -4816,6 +5656,62 @@
     "value_": 94.62366
   },
   {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2019-02-15",
+    "value": 90.92287,
+    "value_": 90.92287
+  },
+  {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2020-02-15",
+    "value": 90.72725,
+    "value_": 90.72725
+  },
+  {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2021-02-15",
+    "value": 96.75325,
+    "value_": 96.75325
+  },
+  {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2022-02-15",
+    "value": 97.78813,
+    "value_": 97.78813
+  },
+  {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2023-02-15",
+    "value": 90.85714,
+    "value_": 90.85714
+  },
+  {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2024-02-15",
+    "value": 97.22233,
+    "value_": 97.22233
+  },
+  {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2025-02-15",
+    "value": 92.31156,
+    "value_": 92.31156
+  },
+  {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2026-02-15",
+    "value": 95.26316,
+    "value_": 95.26316
+  },
+  {
     "geoid": "31140",
     "key": "list-to-sale-ratio",
     "date": "2019-02-15",
@@ -4926,6 +5822,62 @@
     "date": "2026-02-15",
     "value": 94.31271,
     "value_": 94.31271
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2019-02-15",
+    "value": 84.42254,
+    "value_": 84.42254
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2020-02-15",
+    "value": 88.88889,
+    "value_": 88.88889
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2021-02-15",
+    "value": 93.75234,
+    "value_": 93.75234
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2022-02-15",
+    "value": 90.27987,
+    "value_": 90.27987
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2023-02-15",
+    "value": 88.18182,
+    "value_": 88.18182
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2024-02-15",
+    "value": 90.98276,
+    "value_": 90.98276
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2025-02-15",
+    "value": 98.2906,
+    "value_": 98.2906
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2026-02-15",
+    "value": 96.52174,
+    "value_": 96.52174
   },
   {
     "geoid": "33340",
@@ -5096,6 +6048,62 @@
     "value_": 93.8763
   },
   {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2019-02-15",
+    "value": 82.8125,
+    "value_": 82.8125
+  },
+  {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2020-02-15",
+    "value": 88.44376,
+    "value_": 88.44376
+  },
+  {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2021-02-15",
+    "value": 91.04704,
+    "value_": 91.04704
+  },
+  {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2022-02-15",
+    "value": 98.68996,
+    "value_": 98.68996
+  },
+  {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2023-02-15",
+    "value": 86.89833,
+    "value_": 86.89833
+  },
+  {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2024-02-15",
+    "value": 88.05031,
+    "value_": 88.05031
+  },
+  {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2025-02-15",
+    "value": 95.625,
+    "value_": 95.625
+  },
+  {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2026-02-15",
+    "value": 94.63007,
+    "value_": 94.63007
+  },
+  {
     "geoid": "36420",
     "key": "list-to-sale-ratio",
     "date": "2019-02-15",
@@ -5262,6 +6270,62 @@
     "date": "2026-02-15",
     "value": 95.24036,
     "value_": 95.24036
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2019-02-15",
+    "value": 82.17796,
+    "value_": 82.17796
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2020-02-15",
+    "value": 91.48936,
+    "value_": 91.48936
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2021-02-15",
+    "value": 90.57692,
+    "value_": 90.57692
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2022-02-15",
+    "value": 90.90909,
+    "value_": 90.90909
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2023-02-15",
+    "value": 91.6358,
+    "value_": 91.6358
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2024-02-15",
+    "value": 92.70909,
+    "value_": 92.70909
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2025-02-15",
+    "value": 96.14035,
+    "value_": 96.14035
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2026-02-15",
+    "value": 100,
+    "value_": 100
   },
   {
     "geoid": "38060",
@@ -5992,6 +7056,62 @@
     "value_": 95.99573
   },
   {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2019-02-15",
+    "value": 94.22571,
+    "value_": 94.22571
+  },
+  {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2020-02-15",
+    "value": 95.58316,
+    "value_": 95.58316
+  },
+  {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2021-02-15",
+    "value": 100,
+    "value_": 100
+  },
+  {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2022-02-15",
+    "value": 111.15082,
+    "value_": 111.15082
+  },
+  {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2023-02-15",
+    "value": 101.5092,
+    "value_": 101.5092
+  },
+  {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2024-02-15",
+    "value": 98.27586,
+    "value_": 98.27586
+  },
+  {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2025-02-15",
+    "value": 107.29614,
+    "value_": 107.29614
+  },
+  {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2026-02-15",
+    "value": 107.4386,
+    "value_": 107.4386
+  },
+  {
     "geoid": "41940",
     "key": "list-to-sale-ratio",
     "date": "2019-02-15",
@@ -6046,6 +7166,62 @@
     "date": "2026-02-15",
     "value": 104.13337,
     "value_": 104.13337
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2019-02-15",
+    "value": 91.66997,
+    "value_": 91.66997
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2020-02-15",
+    "value": 96.32298,
+    "value_": 96.32298
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2021-02-15",
+    "value": 96.33061,
+    "value_": 96.33061
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2022-02-15",
+    "value": 95.66879,
+    "value_": 95.66879
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2023-02-15",
+    "value": 94.66667,
+    "value_": 94.66667
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2024-02-15",
+    "value": 96.72727,
+    "value_": 96.72727
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2025-02-15",
+    "value": 96.9697,
+    "value_": 96.9697
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2026-02-15",
+    "value": 96.9697,
+    "value_": 96.9697
   },
   {
     "geoid": "45300",
@@ -6270,6 +7446,62 @@
     "date": "2026-02-15",
     "value": 95.97333,
     "value_": 95.97333
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2019-02-15",
+    "value": 90.88235,
+    "value_": 90.88235
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2020-02-15",
+    "value": 92.80845,
+    "value_": 92.80845
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2021-02-15",
+    "value": 94.75679,
+    "value_": 94.75679
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2022-02-15",
+    "value": 95.19231,
+    "value_": 95.19231
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2023-02-15",
+    "value": 92.37104,
+    "value_": 92.37104
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2024-02-15",
+    "value": 96.3964,
+    "value_": 96.3964
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2025-02-15",
+    "value": 94.87179,
+    "value_": 94.87179
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2026-02-15",
+    "value": 97.47826,
+    "value_": 97.47826
   },
   {
     "geoid": "51013",
@@ -7059,57 +8291,57 @@
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2019-02-15",
-    "value": 90.6775,
-    "value_": 90.6775
+    "value": 88.53688,
+    "value_": 88.53688
   },
   {
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2020-02-15",
-    "value": 92.43886,
-    "value_": 92.43886
+    "value": 90.76132,
+    "value_": 90.76132
   },
   {
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2021-02-15",
-    "value": 94.8515,
-    "value_": 94.8515
+    "value": 94.00539,
+    "value_": 94.00539
   },
   {
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2022-02-15",
-    "value": 97.01617,
-    "value_": 97.01617
+    "value": 96.46087,
+    "value_": 96.46087
   },
   {
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2023-02-15",
-    "value": 94.20844,
-    "value_": 94.20844
+    "value": 92.63421,
+    "value_": 92.63421
   },
   {
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2024-02-15",
-    "value": 96.01656,
-    "value_": 96.01656
+    "value": 94.78003,
+    "value_": 94.78003
   },
   {
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2025-02-15",
-    "value": 96.4362,
-    "value_": 96.4362
+    "value": 96.06679,
+    "value_": 96.06679
   },
   {
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2026-02-15",
-    "value": 95.04841,
-    "value_": 95.04841
+    "value": 95.103,
+    "value_": 95.103
   },
   {
     "geoid": "99999",
@@ -7448,6 +8680,62 @@
     "value_": 93.85711
   },
   {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2019-03-15",
+    "value": 87.17196,
+    "value_": 87.17196
+  },
+  {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2020-03-15",
+    "value": 93.25901,
+    "value_": 93.25901
+  },
+  {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2021-03-15",
+    "value": 96.08493,
+    "value_": 96.08493
+  },
+  {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2022-03-15",
+    "value": 93.69025,
+    "value_": 93.69025
+  },
+  {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2023-03-15",
+    "value": 89.65517,
+    "value_": 89.65517
+  },
+  {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2024-03-15",
+    "value": 94.93333,
+    "value_": 94.93333
+  },
+  {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2025-03-15",
+    "value": 90.63633,
+    "value_": 90.63633
+  },
+  {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2026-03-15",
+    "value": 93.5,
+    "value_": 93.5
+  },
+  {
     "geoid": "15380",
     "key": "list-to-sale-ratio",
     "date": "2019-03-15",
@@ -7558,6 +8846,62 @@
     "date": "2026-03-15",
     "value": 95.69077,
     "value_": 95.69077
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2019-03-15",
+    "value": 83.7356,
+    "value_": 83.7356
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2020-03-15",
+    "value": 92.98246,
+    "value_": 92.98246
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2021-03-15",
+    "value": 93.77931,
+    "value_": 93.77931
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2022-03-15",
+    "value": 93.96787,
+    "value_": 93.96787
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2023-03-15",
+    "value": 91.15044,
+    "value_": 91.15044
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2024-03-15",
+    "value": 96.85714,
+    "value_": 96.85714
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2025-03-15",
+    "value": 96,
+    "value_": 96
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2026-03-15",
+    "value": 94.96075,
+    "value_": 94.96075
   },
   {
     "geoid": "17140",
@@ -7728,6 +9072,62 @@
     "value_": 97.15779
   },
   {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2019-03-15",
+    "value": 89.23077,
+    "value_": 89.23077
+  },
+  {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2020-03-15",
+    "value": 93.76465,
+    "value_": 93.76465
+  },
+  {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2021-03-15",
+    "value": 96.09122,
+    "value_": 96.09122
+  },
+  {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2022-03-15",
+    "value": 98.82329,
+    "value_": 98.82329
+  },
+  {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2023-03-15",
+    "value": 94.3184,
+    "value_": 94.3184
+  },
+  {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2024-03-15",
+    "value": 95.37528,
+    "value_": 95.37528
+  },
+  {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2025-03-15",
+    "value": 94.19752,
+    "value_": 94.19752
+  },
+  {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2026-03-15",
+    "value": 88.90865,
+    "value_": 88.90865
+  },
+  {
     "geoid": "19740",
     "key": "list-to-sale-ratio",
     "date": "2019-03-15",
@@ -7782,6 +9182,62 @@
     "date": "2026-03-15",
     "value": 96.55738,
     "value_": 96.55738
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2019-03-15",
+    "value": 93.40252,
+    "value_": 93.40252
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2020-03-15",
+    "value": 93.3956,
+    "value_": 93.3956
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2021-03-15",
+    "value": 94.11765,
+    "value_": 94.11765
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2022-03-15",
+    "value": 97.05882,
+    "value_": 97.05882
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2023-03-15",
+    "value": 105.96026,
+    "value_": 105.96026
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2024-03-15",
+    "value": 102.94118,
+    "value_": 102.94118
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2025-03-15",
+    "value": 100,
+    "value_": 100
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2026-03-15",
+    "value": 108.16658,
+    "value_": 108.16658
   },
   {
     "geoid": "23420",
@@ -8400,6 +9856,62 @@
     "value_": 95.9654
   },
   {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2019-03-15",
+    "value": 94.15338,
+    "value_": 94.15338
+  },
+  {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2020-03-15",
+    "value": 94.96403,
+    "value_": 94.96403
+  },
+  {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2021-03-15",
+    "value": 98.2256,
+    "value_": 98.2256
+  },
+  {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2022-03-15",
+    "value": 102.94118,
+    "value_": 102.94118
+  },
+  {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2023-03-15",
+    "value": 93.71429,
+    "value_": 93.71429
+  },
+  {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2024-03-15",
+    "value": 97.55556,
+    "value_": 97.55556
+  },
+  {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2025-03-15",
+    "value": 94.87179,
+    "value_": 94.87179
+  },
+  {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2026-03-15",
+    "value": 92.69036,
+    "value_": 92.69036
+  },
+  {
     "geoid": "31140",
     "key": "list-to-sale-ratio",
     "date": "2019-03-15",
@@ -8510,6 +10022,62 @@
     "date": "2026-03-15",
     "value": 101.72906,
     "value_": 101.72906
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2019-03-15",
+    "value": 87.54192,
+    "value_": 87.54192
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2020-03-15",
+    "value": 95.42857,
+    "value_": 95.42857
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2021-03-15",
+    "value": 90.69767,
+    "value_": 90.69767
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2022-03-15",
+    "value": 90.19231,
+    "value_": 90.19231
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2023-03-15",
+    "value": 93.45794,
+    "value_": 93.45794
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2024-03-15",
+    "value": 99.11504,
+    "value_": 99.11504
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2025-03-15",
+    "value": 96.77419,
+    "value_": 96.77419
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2026-03-15",
+    "value": 99.14547,
+    "value_": 99.14547
   },
   {
     "geoid": "33340",
@@ -8680,6 +10248,62 @@
     "value_": 93.0186
   },
   {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2019-03-15",
+    "value": 81.01852,
+    "value_": 81.01852
+  },
+  {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2020-03-15",
+    "value": 92.00015,
+    "value_": 92.00015
+  },
+  {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2021-03-15",
+    "value": 94.84067,
+    "value_": 94.84067
+  },
+  {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2022-03-15",
+    "value": 97.99714,
+    "value_": 97.99714
+  },
+  {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2023-03-15",
+    "value": 89.07854,
+    "value_": 89.07854
+  },
+  {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2024-03-15",
+    "value": 89.48686,
+    "value_": 89.48686
+  },
+  {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2025-03-15",
+    "value": 88.67059,
+    "value_": 88.67059
+  },
+  {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2026-03-15",
+    "value": 93.05065,
+    "value_": 93.05065
+  },
+  {
     "geoid": "36420",
     "key": "list-to-sale-ratio",
     "date": "2019-03-15",
@@ -8846,6 +10470,62 @@
     "date": "2026-03-15",
     "value": 96.35111,
     "value_": 96.35111
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2019-03-15",
+    "value": 86.95652,
+    "value_": 86.95652
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2020-03-15",
+    "value": 97.95748,
+    "value_": 97.95748
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2021-03-15",
+    "value": 97.73585,
+    "value_": 97.73585
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2022-03-15",
+    "value": 94.67667,
+    "value_": 94.67667
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2023-03-15",
+    "value": 92.85747,
+    "value_": 92.85747
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2024-03-15",
+    "value": 93.13556,
+    "value_": 93.13556
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2025-03-15",
+    "value": 98.30976,
+    "value_": 98.30976
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2026-03-15",
+    "value": 96.6989,
+    "value_": 96.6989
   },
   {
     "geoid": "38060",
@@ -9576,6 +11256,62 @@
     "value_": 96.31584
   },
   {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2019-03-15",
+    "value": 100.03573,
+    "value_": 100.03573
+  },
+  {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2020-03-15",
+    "value": 103.94265,
+    "value_": 103.94265
+  },
+  {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2021-03-15",
+    "value": 102.50896,
+    "value_": 102.50896
+  },
+  {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2022-03-15",
+    "value": 109.15371,
+    "value_": 109.15371
+  },
+  {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2023-03-15",
+    "value": 101.85847,
+    "value_": 101.85847
+  },
+  {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2024-03-15",
+    "value": 106.97032,
+    "value_": 106.97032
+  },
+  {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2025-03-15",
+    "value": 107.52264,
+    "value_": 107.52264
+  },
+  {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2026-03-15",
+    "value": 115.5914,
+    "value_": 115.5914
+  },
+  {
     "geoid": "41940",
     "key": "list-to-sale-ratio",
     "date": "2019-03-15",
@@ -9630,6 +11366,62 @@
     "date": "2026-03-15",
     "value": 104.83395,
     "value_": 104.83395
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2019-03-15",
+    "value": 93.33333,
+    "value_": 93.33333
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2020-03-15",
+    "value": 95.61556,
+    "value_": 95.61556
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2021-03-15",
+    "value": 101.74419,
+    "value_": 101.74419
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2022-03-15",
+    "value": 103.13145,
+    "value_": 103.13145
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2023-03-15",
+    "value": 92.61577,
+    "value_": 92.61577
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2024-03-15",
+    "value": 98.33919,
+    "value_": 98.33919
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2025-03-15",
+    "value": 97.64706,
+    "value_": 97.64706
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2026-03-15",
+    "value": 98.00577,
+    "value_": 98.00577
   },
   {
     "geoid": "45300",
@@ -9854,6 +11646,62 @@
     "date": "2026-03-15",
     "value": 92.99873,
     "value_": 92.99873
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2019-03-15",
+    "value": 92.25513,
+    "value_": 92.25513
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2020-03-15",
+    "value": 95.42484,
+    "value_": 95.42484
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2021-03-15",
+    "value": 97.7553,
+    "value_": 97.7553
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2022-03-15",
+    "value": 97.24023,
+    "value_": 97.24023
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2023-03-15",
+    "value": 92.58267,
+    "value_": 92.58267
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2024-03-15",
+    "value": 97.40824,
+    "value_": 97.40824
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2025-03-15",
+    "value": 97.5,
+    "value_": 97.5
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2026-03-15",
+    "value": 97.66277,
+    "value_": 97.66277
   },
   {
     "geoid": "51013",
@@ -10643,57 +12491,57 @@
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2019-03-15",
-    "value": 91.29675,
-    "value_": 91.29675
+    "value": 89.52927,
+    "value_": 89.52927
   },
   {
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2020-03-15",
-    "value": 94.95295,
-    "value_": 94.95295
+    "value": 94.54874,
+    "value_": 94.54874
   },
   {
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2021-03-15",
-    "value": 96.48516,
-    "value_": 96.48516
+    "value": 96.20767,
+    "value_": 96.20767
   },
   {
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2022-03-15",
-    "value": 97.14529,
-    "value_": 97.14529
+    "value": 97.46389,
+    "value_": 97.46389
   },
   {
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2023-03-15",
-    "value": 93.8992,
-    "value_": 93.8992
+    "value": 93.2381,
+    "value_": 93.2381
   },
   {
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2024-03-15",
-    "value": 96.45303,
-    "value_": 96.45303
+    "value": 96.13825,
+    "value_": 96.13825
   },
   {
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2025-03-15",
-    "value": 95.87418,
-    "value_": 95.87418
+    "value": 95.32215,
+    "value_": 95.32215
   },
   {
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2026-03-15",
-    "value": 94.9073,
-    "value_": 94.9073
+    "value": 94.93976,
+    "value_": 94.93976
   },
   {
     "geoid": "99999",
@@ -10997,6 +12845,55 @@
     "value_": 91.34784
   },
   {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2019-04-15",
+    "value": 88.18198,
+    "value_": 88.18198
+  },
+  {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2020-04-15",
+    "value": 97.90528,
+    "value_": 97.90528
+  },
+  {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2021-04-15",
+    "value": 96.16,
+    "value_": 96.16
+  },
+  {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2022-04-15",
+    "value": 98.54015,
+    "value_": 98.54015
+  },
+  {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2023-04-15",
+    "value": 91.59122,
+    "value_": 91.59122
+  },
+  {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2024-04-15",
+    "value": 92.35751,
+    "value_": 92.35751
+  },
+  {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2025-04-15",
+    "value": 93.76172,
+    "value_": 93.76172
+  },
+  {
     "geoid": "15380",
     "key": "list-to-sale-ratio",
     "date": "2019-04-15",
@@ -11093,6 +12990,55 @@
     "date": "2025-04-15",
     "value": 90.69682,
     "value_": 90.69682
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2019-04-15",
+    "value": 89.47368,
+    "value_": 89.47368
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2020-04-15",
+    "value": 101.88959,
+    "value_": 101.88959
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2021-04-15",
+    "value": 98.78576,
+    "value_": 98.78576
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2022-04-15",
+    "value": 99.39394,
+    "value_": 99.39394
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2023-04-15",
+    "value": 92.75362,
+    "value_": 92.75362
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2024-04-15",
+    "value": 95.09537,
+    "value_": 95.09537
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2025-04-15",
+    "value": 98.66667,
+    "value_": 98.66667
   },
   {
     "geoid": "17140",
@@ -11242,6 +13188,55 @@
     "value_": 91.37605
   },
   {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2019-04-15",
+    "value": 91.57824,
+    "value_": 91.57824
+  },
+  {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2020-04-15",
+    "value": 95.2381,
+    "value_": 95.2381
+  },
+  {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2021-04-15",
+    "value": 97.2973,
+    "value_": 97.2973
+  },
+  {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2022-04-15",
+    "value": 98.84056,
+    "value_": 98.84056
+  },
+  {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2023-04-15",
+    "value": 94.70444,
+    "value_": 94.70444
+  },
+  {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2024-04-15",
+    "value": 93.40937,
+    "value_": 93.40937
+  },
+  {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2025-04-15",
+    "value": 96.59091,
+    "value_": 96.59091
+  },
+  {
     "geoid": "19740",
     "key": "list-to-sale-ratio",
     "date": "2019-04-15",
@@ -11289,6 +13284,55 @@
     "date": "2025-04-15",
     "value": 97.56098,
     "value_": 97.56098
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2019-04-15",
+    "value": 90.06433,
+    "value_": 90.06433
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2020-04-15",
+    "value": 103.59736,
+    "value_": 103.59736
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2021-04-15",
+    "value": 102.94118,
+    "value_": 102.94118
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2022-04-15",
+    "value": 102.94118,
+    "value_": 102.94118
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2023-04-15",
+    "value": 101.81818,
+    "value_": 101.81818
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2024-04-15",
+    "value": 102.7027,
+    "value_": 102.7027
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2025-04-15",
+    "value": 96.54827,
+    "value_": 96.54827
   },
   {
     "geoid": "23420",
@@ -11830,6 +13874,55 @@
     "value_": 96.55914
   },
   {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2019-04-15",
+    "value": 92.59259,
+    "value_": 92.59259
+  },
+  {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2020-04-15",
+    "value": 96.2963,
+    "value_": 96.2963
+  },
+  {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2021-04-15",
+    "value": 98.78742,
+    "value_": 98.78742
+  },
+  {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2022-04-15",
+    "value": 102.85714,
+    "value_": 102.85714
+  },
+  {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2023-04-15",
+    "value": 92.88526,
+    "value_": 92.88526
+  },
+  {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2024-04-15",
+    "value": 94.83667,
+    "value_": 94.83667
+  },
+  {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2025-04-15",
+    "value": 92.84985,
+    "value_": 92.84985
+  },
+  {
     "geoid": "31140",
     "key": "list-to-sale-ratio",
     "date": "2019-04-15",
@@ -11926,6 +14019,55 @@
     "date": "2025-04-15",
     "value": 94.32258,
     "value_": 94.32258
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2019-04-15",
+    "value": 84.95822,
+    "value_": 84.95822
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2020-04-15",
+    "value": 93.82925,
+    "value_": 93.82925
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2021-04-15",
+    "value": 94.25287,
+    "value_": 94.25287
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2022-04-15",
+    "value": 88.78505,
+    "value_": 88.78505
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2023-04-15",
+    "value": 90.90909,
+    "value_": 90.90909
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2024-04-15",
+    "value": 96.56013,
+    "value_": 96.56013
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2025-04-15",
+    "value": 98.47899,
+    "value_": 98.47899
   },
   {
     "geoid": "33340",
@@ -12075,6 +14217,55 @@
     "value_": 92.13906
   },
   {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2019-04-15",
+    "value": 84.74576,
+    "value_": 84.74576
+  },
+  {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2020-04-15",
+    "value": 99.30915,
+    "value_": 99.30915
+  },
+  {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2021-04-15",
+    "value": 95.59533,
+    "value_": 95.59533
+  },
+  {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2022-04-15",
+    "value": 95.96662,
+    "value_": 95.96662
+  },
+  {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2023-04-15",
+    "value": 86.0828,
+    "value_": 86.0828
+  },
+  {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2024-04-15",
+    "value": 91.61452,
+    "value_": 91.61452
+  },
+  {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2025-04-15",
+    "value": 92.0739,
+    "value_": 92.0739
+  },
+  {
     "geoid": "36420",
     "key": "list-to-sale-ratio",
     "date": "2019-04-15",
@@ -12220,6 +14411,55 @@
     "date": "2025-04-15",
     "value": 96.69918,
     "value_": 96.69918
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2019-04-15",
+    "value": 88.42105,
+    "value_": 88.42105
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2020-04-15",
+    "value": 100.55181,
+    "value_": 100.55181
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2021-04-15",
+    "value": 96.01449,
+    "value_": 96.01449
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2022-04-15",
+    "value": 94.82759,
+    "value_": 94.82759
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2023-04-15",
+    "value": 93.78349,
+    "value_": 93.78349
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2024-04-15",
+    "value": 91.66667,
+    "value_": 91.66667
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2025-04-15",
+    "value": 95.633,
+    "value_": 95.633
   },
   {
     "geoid": "38060",
@@ -12859,6 +15099,55 @@
     "value_": 96.8523
   },
   {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2019-04-15",
+    "value": 100,
+    "value_": 100
+  },
+  {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2020-04-15",
+    "value": 96.65171,
+    "value_": 96.65171
+  },
+  {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2021-04-15",
+    "value": 107.0922,
+    "value_": 107.0922
+  },
+  {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2022-04-15",
+    "value": 112.75168,
+    "value_": 112.75168
+  },
+  {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2023-04-15",
+    "value": 100.56003,
+    "value_": 100.56003
+  },
+  {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2024-04-15",
+    "value": 111.65118,
+    "value_": 111.65118
+  },
+  {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2025-04-15",
+    "value": 103.67893,
+    "value_": 103.67893
+  },
+  {
     "geoid": "41940",
     "key": "list-to-sale-ratio",
     "date": "2019-04-15",
@@ -12906,6 +15195,55 @@
     "date": "2025-04-15",
     "value": 106.95564,
     "value_": 106.95564
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2019-04-15",
+    "value": 95.1586,
+    "value_": 95.1586
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2020-04-15",
+    "value": 100.16694,
+    "value_": 100.16694
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2021-04-15",
+    "value": 102.85714,
+    "value_": 102.85714
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2022-04-15",
+    "value": 101.79641,
+    "value_": 101.79641
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2023-04-15",
+    "value": 99.35833,
+    "value_": 99.35833
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2024-04-15",
+    "value": 102.40964,
+    "value_": 102.40964
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2025-04-15",
+    "value": 98.95349,
+    "value_": 98.95349
   },
   {
     "geoid": "45300",
@@ -13102,6 +15440,55 @@
     "date": "2025-04-15",
     "value": 93.42105,
     "value_": 93.42105
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2019-04-15",
+    "value": 96.55172,
+    "value_": 96.55172
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2020-04-15",
+    "value": 99.13314,
+    "value_": 99.13314
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2021-04-15",
+    "value": 101.0202,
+    "value_": 101.0202
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2022-04-15",
+    "value": 100.18215,
+    "value_": 100.18215
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2023-04-15",
+    "value": 98.67273,
+    "value_": 98.67273
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2024-04-15",
+    "value": 98.30517,
+    "value_": 98.30517
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2025-04-15",
+    "value": 99.17437,
+    "value_": 99.17437
   },
   {
     "geoid": "51013",
@@ -13793,50 +16180,50 @@
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2019-04-15",
-    "value": 92.17137,
-    "value_": 92.17137
+    "value": 90.89322,
+    "value_": 90.89322
   },
   {
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2020-04-15",
-    "value": 97.03071,
-    "value_": 97.03071
+    "value": 97.47432,
+    "value_": 97.47432
   },
   {
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2021-04-15",
-    "value": 96.60229,
-    "value_": 96.60229
+    "value": 97.13677,
+    "value_": 97.13677
   },
   {
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2022-04-15",
-    "value": 98.15327,
-    "value_": 98.15327
+    "value": 98.40967,
+    "value_": 98.40967
   },
   {
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2023-04-15",
-    "value": 94.69481,
-    "value_": 94.69481
+    "value": 93.59524,
+    "value_": 93.59524
   },
   {
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2024-04-15",
-    "value": 96.18236,
-    "value_": 96.18236
+    "value": 95.81703,
+    "value_": 95.81703
   },
   {
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2025-04-15",
-    "value": 95.4224,
-    "value_": 95.4224
+    "value": 95.51057,
+    "value_": 95.51057
   },
   {
     "geoid": "99999",
@@ -14133,6 +16520,55 @@
     "value_": 88.45109
   },
   {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2019-05-15",
+    "value": 94.71767,
+    "value_": 94.71767
+  },
+  {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2020-05-15",
+    "value": 90.59829,
+    "value_": 90.59829
+  },
+  {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2021-05-15",
+    "value": 98.42832,
+    "value_": 98.42832
+  },
+  {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2022-05-15",
+    "value": 99.20144,
+    "value_": 99.20144
+  },
+  {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2023-05-15",
+    "value": 93.34578,
+    "value_": 93.34578
+  },
+  {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2024-05-15",
+    "value": 96.72325,
+    "value_": 96.72325
+  },
+  {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2025-05-15",
+    "value": 96.99625,
+    "value_": 96.99625
+  },
+  {
     "geoid": "15380",
     "key": "list-to-sale-ratio",
     "date": "2019-05-15",
@@ -14229,6 +16665,55 @@
     "date": "2025-05-15",
     "value": 93.97202,
     "value_": 93.97202
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2019-05-15",
+    "value": 93.60486,
+    "value_": 93.60486
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2020-05-15",
+    "value": 91.41083,
+    "value_": 91.41083
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2021-05-15",
+    "value": 100,
+    "value_": 100
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2022-05-15",
+    "value": 99.69605,
+    "value_": 99.69605
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2023-05-15",
+    "value": 97.05882,
+    "value_": 97.05882
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2024-05-15",
+    "value": 97.26027,
+    "value_": 97.26027
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2025-05-15",
+    "value": 99.4709,
+    "value_": 99.4709
   },
   {
     "geoid": "17140",
@@ -14378,6 +16863,55 @@
     "value_": 95.80969
   },
   {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2019-05-15",
+    "value": 95.10719,
+    "value_": 95.10719
+  },
+  {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2020-05-15",
+    "value": 90.73962,
+    "value_": 90.73962
+  },
+  {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2021-05-15",
+    "value": 100,
+    "value_": 100
+  },
+  {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2022-05-15",
+    "value": 100.56534,
+    "value_": 100.56534
+  },
+  {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2023-05-15",
+    "value": 95.55556,
+    "value_": 95.55556
+  },
+  {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2024-05-15",
+    "value": 96.38096,
+    "value_": 96.38096
+  },
+  {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2025-05-15",
+    "value": 92.39633,
+    "value_": 92.39633
+  },
+  {
     "geoid": "19740",
     "key": "list-to-sale-ratio",
     "date": "2019-05-15",
@@ -14425,6 +16959,55 @@
     "date": "2025-05-15",
     "value": 99.98333,
     "value_": 99.98333
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2019-05-15",
+    "value": 97.99862,
+    "value_": 97.99862
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2020-05-15",
+    "value": 81.8678,
+    "value_": 81.8678
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2021-05-15",
+    "value": 98.94386,
+    "value_": 98.94386
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2022-05-15",
+    "value": 102.18579,
+    "value_": 102.18579
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2023-05-15",
+    "value": 105.88266,
+    "value_": 105.88266
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2024-05-15",
+    "value": 105.82011,
+    "value_": 105.82011
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2025-05-15",
+    "value": 107.55378,
+    "value_": 107.55378
   },
   {
     "geoid": "23420",
@@ -14966,6 +17549,55 @@
     "value_": 96.57991
   },
   {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2019-05-15",
+    "value": 91.74312,
+    "value_": 91.74312
+  },
+  {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2020-05-15",
+    "value": 86.04336,
+    "value_": 86.04336
+  },
+  {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2021-05-15",
+    "value": 101.26266,
+    "value_": 101.26266
+  },
+  {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2022-05-15",
+    "value": 102.27273,
+    "value_": 102.27273
+  },
+  {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2023-05-15",
+    "value": 94.69101,
+    "value_": 94.69101
+  },
+  {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2024-05-15",
+    "value": 93.29897,
+    "value_": 93.29897
+  },
+  {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2025-05-15",
+    "value": 95.97523,
+    "value_": 95.97523
+  },
+  {
     "geoid": "31140",
     "key": "list-to-sale-ratio",
     "date": "2019-05-15",
@@ -15062,6 +17694,55 @@
     "date": "2025-05-15",
     "value": 96.80542,
     "value_": 96.80542
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2019-05-15",
+    "value": 86.17688,
+    "value_": 86.17688
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2020-05-15",
+    "value": 88.94879,
+    "value_": 88.94879
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2021-05-15",
+    "value": 91.91011,
+    "value_": 91.91011
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2022-05-15",
+    "value": 90.82569,
+    "value_": 90.82569
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2023-05-15",
+    "value": 93.65339,
+    "value_": 93.65339
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2024-05-15",
+    "value": 91.68081,
+    "value_": 91.68081
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2025-05-15",
+    "value": 99.12069,
+    "value_": 99.12069
   },
   {
     "geoid": "33340",
@@ -15211,6 +17892,55 @@
     "value_": 96.0192
   },
   {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2019-05-15",
+    "value": 86.85446,
+    "value_": 86.85446
+  },
+  {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2020-05-15",
+    "value": 89.38792,
+    "value_": 89.38792
+  },
+  {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2021-05-15",
+    "value": 97.0852,
+    "value_": 97.0852
+  },
+  {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2022-05-15",
+    "value": 99.42857,
+    "value_": 99.42857
+  },
+  {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2023-05-15",
+    "value": 92.15686,
+    "value_": 92.15686
+  },
+  {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2024-05-15",
+    "value": 93.86733,
+    "value_": 93.86733
+  },
+  {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2025-05-15",
+    "value": 98.14815,
+    "value_": 98.14815
+  },
+  {
     "geoid": "36420",
     "key": "list-to-sale-ratio",
     "date": "2019-05-15",
@@ -15356,6 +18086,55 @@
     "date": "2025-05-15",
     "value": 98.82353,
     "value_": 98.82353
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2019-05-15",
+    "value": 93.13305,
+    "value_": 93.13305
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2020-05-15",
+    "value": 89.88462,
+    "value_": 89.88462
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2021-05-15",
+    "value": 98.59207,
+    "value_": 98.59207
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2022-05-15",
+    "value": 104,
+    "value_": 104
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2023-05-15",
+    "value": 98.24937,
+    "value_": 98.24937
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2024-05-15",
+    "value": 90.35173,
+    "value_": 90.35173
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2025-05-15",
+    "value": 95.41397,
+    "value_": 95.41397
   },
   {
     "geoid": "38060",
@@ -15995,6 +18774,55 @@
     "value_": 96.71063
   },
   {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2019-05-15",
+    "value": 107.52688,
+    "value_": 107.52688
+  },
+  {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2020-05-15",
+    "value": 100.33445,
+    "value_": 100.33445
+  },
+  {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2021-05-15",
+    "value": 105,
+    "value_": 105
+  },
+  {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2022-05-15",
+    "value": 112.06897,
+    "value_": 112.06897
+  },
+  {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2023-05-15",
+    "value": 103.41379,
+    "value_": 103.41379
+  },
+  {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2024-05-15",
+    "value": 109.20974,
+    "value_": 109.20974
+  },
+  {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2025-05-15",
+    "value": 107.52688,
+    "value_": 107.52688
+  },
+  {
     "geoid": "41940",
     "key": "list-to-sale-ratio",
     "date": "2019-05-15",
@@ -16042,6 +18870,55 @@
     "date": "2025-05-15",
     "value": 109.81912,
     "value_": 109.81912
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2019-05-15",
+    "value": 99.15966,
+    "value_": 99.15966
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2020-05-15",
+    "value": 94.19355,
+    "value_": 94.19355
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2021-05-15",
+    "value": 105.71429,
+    "value_": 105.71429
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2022-05-15",
+    "value": 104.02439,
+    "value_": 104.02439
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2023-05-15",
+    "value": 100.12516,
+    "value_": 100.12516
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2024-05-15",
+    "value": 101.17647,
+    "value_": 101.17647
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2025-05-15",
+    "value": 97.14286,
+    "value_": 97.14286
   },
   {
     "geoid": "45300",
@@ -16238,6 +19115,55 @@
     "date": "2025-05-15",
     "value": 96.55844,
     "value_": 96.55844
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2019-05-15",
+    "value": 98.13976,
+    "value_": 98.13976
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2020-05-15",
+    "value": 97.77778,
+    "value_": 97.77778
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2021-05-15",
+    "value": 103.01022,
+    "value_": 103.01022
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2022-05-15",
+    "value": 100.80455,
+    "value_": 100.80455
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2023-05-15",
+    "value": 101.81818,
+    "value_": 101.81818
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2024-05-15",
+    "value": 100.51107,
+    "value_": 100.51107
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2025-05-15",
+    "value": 98.93561,
+    "value_": 98.93561
   },
   {
     "geoid": "51013",
@@ -16929,50 +19855,50 @@
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2019-05-15",
-    "value": 95.41994,
-    "value_": 95.41994
+    "value": 93.86924,
+    "value_": 93.86924
   },
   {
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2020-05-15",
-    "value": 92.96424,
-    "value_": 92.96424
+    "value": 91.91459,
+    "value_": 91.91459
   },
   {
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2021-05-15",
-    "value": 99.16396,
-    "value_": 99.16396
+    "value": 99.08602,
+    "value_": 99.08602
   },
   {
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2022-05-15",
-    "value": 99.72338,
-    "value_": 99.72338
+    "value": 100.01409,
+    "value_": 100.01409
   },
   {
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2023-05-15",
-    "value": 96.3082,
-    "value_": 96.3082
+    "value": 95.97279,
+    "value_": 95.97279
   },
   {
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2024-05-15",
-    "value": 97.42982,
-    "value_": 97.42982
+    "value": 96.86765,
+    "value_": 96.86765
   },
   {
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2025-05-15",
-    "value": 97.18631,
-    "value_": 97.18631
+    "value": 97.30103,
+    "value_": 97.30103
   },
   {
     "geoid": "99999",
@@ -17269,6 +20195,55 @@
     "value_": 99.15503
   },
   {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2019-06-15",
+    "value": 99.95274,
+    "value_": 99.95274
+  },
+  {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2020-06-15",
+    "value": 91.68081,
+    "value_": 91.68081
+  },
+  {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2021-06-15",
+    "value": 105.00808,
+    "value_": 105.00808
+  },
+  {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2022-06-15",
+    "value": 102.18132,
+    "value_": 102.18132
+  },
+  {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2023-06-15",
+    "value": 102.0979,
+    "value_": 102.0979
+  },
+  {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2024-06-15",
+    "value": 102.90387,
+    "value_": 102.90387
+  },
+  {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2025-06-15",
+    "value": 106.53333,
+    "value_": 106.53333
+  },
+  {
     "geoid": "15380",
     "key": "list-to-sale-ratio",
     "date": "2019-06-15",
@@ -17365,6 +20340,55 @@
     "date": "2025-06-15",
     "value": 99.12587,
     "value_": 99.12587
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2019-06-15",
+    "value": 100,
+    "value_": 100
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2020-06-15",
+    "value": 89.96656,
+    "value_": 89.96656
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2021-06-15",
+    "value": 103.25912,
+    "value_": 103.25912
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2022-06-15",
+    "value": 104.64758,
+    "value_": 104.64758
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2023-06-15",
+    "value": 102.98507,
+    "value_": 102.98507
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2024-06-15",
+    "value": 104.88112,
+    "value_": 104.88112
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2025-06-15",
+    "value": 105.47945,
+    "value_": 105.47945
   },
   {
     "geoid": "17140",
@@ -17514,6 +20538,55 @@
     "value_": 100.01352
   },
   {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2019-06-15",
+    "value": 100,
+    "value_": 100
+  },
+  {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2020-06-15",
+    "value": 94.83283,
+    "value_": 94.83283
+  },
+  {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2021-06-15",
+    "value": 99.80263,
+    "value_": 99.80263
+  },
+  {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2022-06-15",
+    "value": 101.11111,
+    "value_": 101.11111
+  },
+  {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2023-06-15",
+    "value": 97.99555,
+    "value_": 97.99555
+  },
+  {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2024-06-15",
+    "value": 95.7461,
+    "value_": 95.7461
+  },
+  {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2025-06-15",
+    "value": 97.67442,
+    "value_": 97.67442
+  },
+  {
     "geoid": "19740",
     "key": "list-to-sale-ratio",
     "date": "2019-06-15",
@@ -17561,6 +20634,55 @@
     "date": "2025-06-15",
     "value": 100.83333,
     "value_": 100.83333
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2019-06-15",
+    "value": 100,
+    "value_": 100
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2020-06-15",
+    "value": 94.906,
+    "value_": 94.906
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2021-06-15",
+    "value": 101.72318,
+    "value_": 101.72318
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2022-06-15",
+    "value": 110.81081,
+    "value_": 110.81081
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2023-06-15",
+    "value": 108.82353,
+    "value_": 108.82353
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2024-06-15",
+    "value": 102.10364,
+    "value_": 102.10364
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2025-06-15",
+    "value": 104.09756,
+    "value_": 104.09756
   },
   {
     "geoid": "23420",
@@ -18102,6 +21224,55 @@
     "value_": 99.97778
   },
   {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2019-06-15",
+    "value": 93.38235,
+    "value_": 93.38235
+  },
+  {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2020-06-15",
+    "value": 88.51363,
+    "value_": 88.51363
+  },
+  {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2021-06-15",
+    "value": 100.89645,
+    "value_": 100.89645
+  },
+  {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2022-06-15",
+    "value": 102.28571,
+    "value_": 102.28571
+  },
+  {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2023-06-15",
+    "value": 96.53631,
+    "value_": 96.53631
+  },
+  {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2024-06-15",
+    "value": 97.47102,
+    "value_": 97.47102
+  },
+  {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2025-06-15",
+    "value": 98.86447,
+    "value_": 98.86447
+  },
+  {
     "geoid": "31140",
     "key": "list-to-sale-ratio",
     "date": "2019-06-15",
@@ -18198,6 +21369,55 @@
     "date": "2025-06-15",
     "value": 103.46611,
     "value_": 103.46611
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2019-06-15",
+    "value": 91.42857,
+    "value_": 91.42857
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2020-06-15",
+    "value": 90.66667,
+    "value_": 90.66667
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2021-06-15",
+    "value": 95.86207,
+    "value_": 95.86207
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2022-06-15",
+    "value": 91.50943,
+    "value_": 91.50943
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2023-06-15",
+    "value": 94.54545,
+    "value_": 94.54545
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2024-06-15",
+    "value": 97.3913,
+    "value_": 97.3913
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2025-06-15",
+    "value": 100.86957,
+    "value_": 100.86957
   },
   {
     "geoid": "33340",
@@ -18347,6 +21567,55 @@
     "value_": 97.19439
   },
   {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2019-06-15",
+    "value": 96.88013,
+    "value_": 96.88013
+  },
+  {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2020-06-15",
+    "value": 87.19136,
+    "value_": 87.19136
+  },
+  {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2021-06-15",
+    "value": 103.84615,
+    "value_": 103.84615
+  },
+  {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2022-06-15",
+    "value": 101.93133,
+    "value_": 101.93133
+  },
+  {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2023-06-15",
+    "value": 98.07956,
+    "value_": 98.07956
+  },
+  {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2024-06-15",
+    "value": 98.70968,
+    "value_": 98.70968
+  },
+  {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2025-06-15",
+    "value": 102.62829,
+    "value_": 102.62829
+  },
+  {
     "geoid": "36420",
     "key": "list-to-sale-ratio",
     "date": "2019-06-15",
@@ -18492,6 +21761,55 @@
     "date": "2025-06-15",
     "value": 97.87449,
     "value_": 97.87449
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2019-06-15",
+    "value": 107.09413,
+    "value_": 107.09413
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2020-06-15",
+    "value": 96.89922,
+    "value_": 96.89922
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2021-06-15",
+    "value": 103.74213,
+    "value_": 103.74213
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2022-06-15",
+    "value": 108,
+    "value_": 108
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2023-06-15",
+    "value": 103.63636,
+    "value_": 103.63636
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2024-06-15",
+    "value": 101.00334,
+    "value_": 101.00334
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2025-06-15",
+    "value": 105,
+    "value_": 105
   },
   {
     "geoid": "38060",
@@ -19131,6 +22449,55 @@
     "value_": 98.65597
   },
   {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2019-06-15",
+    "value": 106.30096,
+    "value_": 106.30096
+  },
+  {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2020-06-15",
+    "value": 106.93821,
+    "value_": 106.93821
+  },
+  {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2021-06-15",
+    "value": 114.36741,
+    "value_": 114.36741
+  },
+  {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2022-06-15",
+    "value": 108.57143,
+    "value_": 108.57143
+  },
+  {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2023-06-15",
+    "value": 104.27989,
+    "value_": 104.27989
+  },
+  {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2024-06-15",
+    "value": 114.2132,
+    "value_": 114.2132
+  },
+  {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2025-06-15",
+    "value": 115.49708,
+    "value_": 115.49708
+  },
+  {
     "geoid": "41940",
     "key": "list-to-sale-ratio",
     "date": "2019-06-15",
@@ -19178,6 +22545,55 @@
     "date": "2025-06-15",
     "value": 112.75168,
     "value_": 112.75168
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2019-06-15",
+    "value": 100.88272,
+    "value_": 100.88272
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2020-06-15",
+    "value": 98.392,
+    "value_": 98.392
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2021-06-15",
+    "value": 104.42077,
+    "value_": 104.42077
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2022-06-15",
+    "value": 103.25407,
+    "value_": 103.25407
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2023-06-15",
+    "value": 100.00625,
+    "value_": 100.00625
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2024-06-15",
+    "value": 103.0303,
+    "value_": 103.0303
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2025-06-15",
+    "value": 103.57143,
+    "value_": 103.57143
   },
   {
     "geoid": "45300",
@@ -19374,6 +22790,55 @@
     "date": "2025-06-15",
     "value": 101.06667,
     "value_": 101.06667
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2019-06-15",
+    "value": 101.45273,
+    "value_": 101.45273
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2020-06-15",
+    "value": 94.62366,
+    "value_": 94.62366
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2021-06-15",
+    "value": 104.00021,
+    "value_": 104.00021
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2022-06-15",
+    "value": 101.85185,
+    "value_": 101.85185
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2023-06-15",
+    "value": 100.40378,
+    "value_": 100.40378
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2024-06-15",
+    "value": 105.14411,
+    "value_": 105.14411
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2025-06-15",
+    "value": 103.05603,
+    "value_": 103.05603
   },
   {
     "geoid": "51013",
@@ -20065,50 +23530,50 @@
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2019-06-15",
-    "value": 98.57749,
-    "value_": 98.57749
+    "value": 98.23355,
+    "value_": 98.23355
   },
   {
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2020-06-15",
-    "value": 95.12321,
-    "value_": 95.12321
+    "value": 93.29728,
+    "value_": 93.29728
   },
   {
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2021-06-15",
-    "value": 101.11239,
-    "value_": 101.11239
+    "value": 101.9664,
+    "value_": 101.9664
   },
   {
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2022-06-15",
-    "value": 101.03681,
-    "value_": 101.03681
+    "value": 101.4699,
+    "value_": 101.4699
   },
   {
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2023-06-15",
-    "value": 98.46007,
-    "value_": 98.46007
+    "value": 98.70323,
+    "value_": 98.70323
   },
   {
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2024-06-15",
-    "value": 100.14316,
-    "value_": 100.14316
+    "value": 100.17499,
+    "value_": 100.17499
   },
   {
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2025-06-15",
-    "value": 99.51966,
-    "value_": 99.51966
+    "value": 100.44843,
+    "value_": 100.44843
   },
   {
     "geoid": "99999",
@@ -20405,6 +23870,55 @@
     "value_": 104.58348
   },
   {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2019-07-15",
+    "value": 106.3723,
+    "value_": 106.3723
+  },
+  {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2020-07-15",
+    "value": 98.03887,
+    "value_": 98.03887
+  },
+  {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2021-07-15",
+    "value": 107.64536,
+    "value_": 107.64536
+  },
+  {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2022-07-15",
+    "value": 105.86244,
+    "value_": 105.86244
+  },
+  {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2023-07-15",
+    "value": 107.29927,
+    "value_": 107.29927
+  },
+  {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2024-07-15",
+    "value": 104.31154,
+    "value_": 104.31154
+  },
+  {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2025-07-15",
+    "value": 106.89655,
+    "value_": 106.89655
+  },
+  {
     "geoid": "15380",
     "key": "list-to-sale-ratio",
     "date": "2019-07-15",
@@ -20501,6 +24015,55 @@
     "date": "2025-07-15",
     "value": 101.45336,
     "value_": 101.45336
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2019-07-15",
+    "value": 100.7722,
+    "value_": 100.7722
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2020-07-15",
+    "value": 94.94744,
+    "value_": 94.94744
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2021-07-15",
+    "value": 104.03468,
+    "value_": 104.03468
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2022-07-15",
+    "value": 103.20737,
+    "value_": 103.20737
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2023-07-15",
+    "value": 102.21212,
+    "value_": 102.21212
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2024-07-15",
+    "value": 104.31552,
+    "value_": 104.31552
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2025-07-15",
+    "value": 104.16696,
+    "value_": 104.16696
   },
   {
     "geoid": "17140",
@@ -20650,6 +24213,55 @@
     "value_": 100.02779
   },
   {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2019-07-15",
+    "value": 100.54462,
+    "value_": 100.54462
+  },
+  {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2020-07-15",
+    "value": 98.46154,
+    "value_": 98.46154
+  },
+  {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2021-07-15",
+    "value": 100,
+    "value_": 100
+  },
+  {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2022-07-15",
+    "value": 98.88611,
+    "value_": 98.88611
+  },
+  {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2023-07-15",
+    "value": 98.85057,
+    "value_": 98.85057
+  },
+  {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2024-07-15",
+    "value": 98.81395,
+    "value_": 98.81395
+  },
+  {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2025-07-15",
+    "value": 100.23866,
+    "value_": 100.23866
+  },
+  {
     "geoid": "19740",
     "key": "list-to-sale-ratio",
     "date": "2019-07-15",
@@ -20697,6 +24309,55 @@
     "date": "2025-07-15",
     "value": 100.01724,
     "value_": 100.01724
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2019-07-15",
+    "value": 107.33333,
+    "value_": 107.33333
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2020-07-15",
+    "value": 98.84779,
+    "value_": 98.84779
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2021-07-15",
+    "value": 107.77587,
+    "value_": 107.77587
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2022-07-15",
+    "value": 114.35106,
+    "value_": 114.35106
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2023-07-15",
+    "value": 108.82353,
+    "value_": 108.82353
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2024-07-15",
+    "value": 110.5557,
+    "value_": 110.5557
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2025-07-15",
+    "value": 108.50054,
+    "value_": 108.50054
   },
   {
     "geoid": "23420",
@@ -21238,6 +24899,55 @@
     "value_": 98.88889
   },
   {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2019-07-15",
+    "value": 97.74436,
+    "value_": 97.74436
+  },
+  {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2020-07-15",
+    "value": 93.95973,
+    "value_": 93.95973
+  },
+  {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2021-07-15",
+    "value": 102.62829,
+    "value_": 102.62829
+  },
+  {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2022-07-15",
+    "value": 101.76471,
+    "value_": 101.76471
+  },
+  {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2023-07-15",
+    "value": 95.66185,
+    "value_": 95.66185
+  },
+  {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2024-07-15",
+    "value": 99.45946,
+    "value_": 99.45946
+  },
+  {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2025-07-15",
+    "value": 103.00948,
+    "value_": 103.00948
+  },
+  {
     "geoid": "31140",
     "key": "list-to-sale-ratio",
     "date": "2019-07-15",
@@ -21334,6 +25044,55 @@
     "date": "2025-07-15",
     "value": 100.03391,
     "value_": 100.03391
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2019-07-15",
+    "value": 91.11748,
+    "value_": 91.11748
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2020-07-15",
+    "value": 90.52632,
+    "value_": 90.52632
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2021-07-15",
+    "value": 96.52296,
+    "value_": 96.52296
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2022-07-15",
+    "value": 89.62264,
+    "value_": 89.62264
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2023-07-15",
+    "value": 95.62842,
+    "value_": 95.62842
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2024-07-15",
+    "value": 99.19643,
+    "value_": 99.19643
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2025-07-15",
+    "value": 98.22314,
+    "value_": 98.22314
   },
   {
     "geoid": "33340",
@@ -21483,6 +25242,55 @@
     "value_": 98.17959
   },
   {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2019-07-15",
+    "value": 93.23873,
+    "value_": 93.23873
+  },
+  {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2020-07-15",
+    "value": 87.69231,
+    "value_": 87.69231
+  },
+  {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2021-07-15",
+    "value": 104.00616,
+    "value_": 104.00616
+  },
+  {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2022-07-15",
+    "value": 105.92593,
+    "value_": 105.92593
+  },
+  {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2023-07-15",
+    "value": 101.68303,
+    "value_": 101.68303
+  },
+  {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2024-07-15",
+    "value": 103.31126,
+    "value_": 103.31126
+  },
+  {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2025-07-15",
+    "value": 105.88427,
+    "value_": 105.88427
+  },
+  {
     "geoid": "36420",
     "key": "list-to-sale-ratio",
     "date": "2019-07-15",
@@ -21628,6 +25436,55 @@
     "date": "2025-07-15",
     "value": 98.80333,
     "value_": 98.80333
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2019-07-15",
+    "value": 105.63405,
+    "value_": 105.63405
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2020-07-15",
+    "value": 94.78764,
+    "value_": 94.78764
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2021-07-15",
+    "value": 106.63048,
+    "value_": 106.63048
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2022-07-15",
+    "value": 107.69231,
+    "value_": 107.69231
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2023-07-15",
+    "value": 108.77896,
+    "value_": 108.77896
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2024-07-15",
+    "value": 107.52688,
+    "value_": 107.52688
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2025-07-15",
+    "value": 104.91345,
+    "value_": 104.91345
   },
   {
     "geoid": "38060",
@@ -22267,6 +26124,55 @@
     "value_": 102.00011
   },
   {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2019-07-15",
+    "value": 108.14672,
+    "value_": 108.14672
+  },
+  {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2020-07-15",
+    "value": 106.32447,
+    "value_": 106.32447
+  },
+  {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2021-07-15",
+    "value": 114.69534,
+    "value_": 114.69534
+  },
+  {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2022-07-15",
+    "value": 111.11111,
+    "value_": 111.11111
+  },
+  {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2023-07-15",
+    "value": 105.38182,
+    "value_": 105.38182
+  },
+  {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2024-07-15",
+    "value": 108.90732,
+    "value_": 108.90732
+  },
+  {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2025-07-15",
+    "value": 108.42939,
+    "value_": 108.42939
+  },
+  {
     "geoid": "41940",
     "key": "list-to-sale-ratio",
     "date": "2019-07-15",
@@ -22314,6 +26220,55 @@
     "date": "2025-07-15",
     "value": 106.80908,
     "value_": 106.80908
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2019-07-15",
+    "value": 101.81818,
+    "value_": 101.81818
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2020-07-15",
+    "value": 99.3152,
+    "value_": 99.3152
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2021-07-15",
+    "value": 107.15051,
+    "value_": 107.15051
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2022-07-15",
+    "value": 100.76365,
+    "value_": 100.76365
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2023-07-15",
+    "value": 98.85932,
+    "value_": 98.85932
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2024-07-15",
+    "value": 103.65854,
+    "value_": 103.65854
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2025-07-15",
+    "value": 103.06135,
+    "value_": 103.06135
   },
   {
     "geoid": "45300",
@@ -22510,6 +26465,55 @@
     "date": "2025-07-15",
     "value": 98.66667,
     "value_": 98.66667
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2019-07-15",
+    "value": 103.7037,
+    "value_": 103.7037
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2020-07-15",
+    "value": 102.17391,
+    "value_": 102.17391
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2021-07-15",
+    "value": 104.3299,
+    "value_": 104.3299
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2022-07-15",
+    "value": 102.91262,
+    "value_": 102.91262
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2023-07-15",
+    "value": 100.92593,
+    "value_": 100.92593
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2024-07-15",
+    "value": 104.54545,
+    "value_": 104.54545
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2025-07-15",
+    "value": 105.75893,
+    "value_": 105.75893
   },
   {
     "geoid": "51013",
@@ -23201,50 +27205,50 @@
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2019-07-15",
-    "value": 99.68296,
-    "value_": 99.68296
+    "value": 99.06004,
+    "value_": 99.06004
   },
   {
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2020-07-15",
-    "value": 98.34463,
-    "value_": 98.34463
+    "value": 96.15528,
+    "value_": 96.15528
   },
   {
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2021-07-15",
-    "value": 100.92714,
-    "value_": 100.92714
+    "value": 102.2457,
+    "value_": 102.2457
   },
   {
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2022-07-15",
-    "value": 100.98175,
-    "value_": 100.98175
+    "value": 101.64899,
+    "value_": 101.64899
   },
   {
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2023-07-15",
-    "value": 99.61338,
-    "value_": 99.61338
+    "value": 99.92045,
+    "value_": 99.92045
   },
   {
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2024-07-15",
-    "value": 100.47171,
-    "value_": 100.47171
+    "value": 101.0966,
+    "value_": 101.0966
   },
   {
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2025-07-15",
-    "value": 100.14407,
-    "value_": 100.14407
+    "value": 101.34389,
+    "value_": 101.34389
   },
   {
     "geoid": "99999",
@@ -23541,6 +27545,55 @@
     "value_": 102.81375
   },
   {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2019-08-15",
+    "value": 107.51566,
+    "value_": 107.51566
+  },
+  {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2020-08-15",
+    "value": 103.47336,
+    "value_": 103.47336
+  },
+  {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2021-08-15",
+    "value": 107.94473,
+    "value_": 107.94473
+  },
+  {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2022-08-15",
+    "value": 108.88063,
+    "value_": 108.88063
+  },
+  {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2023-08-15",
+    "value": 107.20301,
+    "value_": 107.20301
+  },
+  {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2024-08-15",
+    "value": 107.3531,
+    "value_": 107.3531
+  },
+  {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2025-08-15",
+    "value": 108.72675,
+    "value_": 108.72675
+  },
+  {
     "geoid": "15380",
     "key": "list-to-sale-ratio",
     "date": "2019-08-15",
@@ -23637,6 +27690,55 @@
     "date": "2025-08-15",
     "value": 103.8625,
     "value_": 103.8625
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2019-08-15",
+    "value": 101.2,
+    "value_": 101.2
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2020-08-15",
+    "value": 98.30976,
+    "value_": 98.30976
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2021-08-15",
+    "value": 105.20869,
+    "value_": 105.20869
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2022-08-15",
+    "value": 103.36779,
+    "value_": 103.36779
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2023-08-15",
+    "value": 103.10865,
+    "value_": 103.10865
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2024-08-15",
+    "value": 103.23529,
+    "value_": 103.23529
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2025-08-15",
+    "value": 107.14286,
+    "value_": 107.14286
   },
   {
     "geoid": "17140",
@@ -23786,6 +27888,55 @@
     "value_": 104.31884
   },
   {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2019-08-15",
+    "value": 98.32215,
+    "value_": 98.32215
+  },
+  {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2020-08-15",
+    "value": 100.09136,
+    "value_": 100.09136
+  },
+  {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2021-08-15",
+    "value": 101.68919,
+    "value_": 101.68919
+  },
+  {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2022-08-15",
+    "value": 101.41844,
+    "value_": 101.41844
+  },
+  {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2023-08-15",
+    "value": 100,
+    "value_": 100
+  },
+  {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2024-08-15",
+    "value": 100.16691,
+    "value_": 100.16691
+  },
+  {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2025-08-15",
+    "value": 101.25025,
+    "value_": 101.25025
+  },
+  {
     "geoid": "19740",
     "key": "list-to-sale-ratio",
     "date": "2019-08-15",
@@ -23833,6 +27984,55 @@
     "date": "2025-08-15",
     "value": 100.34247,
     "value_": 100.34247
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2019-08-15",
+    "value": 105.45455,
+    "value_": 105.45455
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2020-08-15",
+    "value": 100,
+    "value_": 100
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2021-08-15",
+    "value": 104.37808,
+    "value_": 104.37808
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2022-08-15",
+    "value": 108.82353,
+    "value_": 108.82353
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2023-08-15",
+    "value": 111.83049,
+    "value_": 111.83049
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2024-08-15",
+    "value": 108.16658,
+    "value_": 108.16658
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2025-08-15",
+    "value": 113.15789,
+    "value_": 113.15789
   },
   {
     "geoid": "23420",
@@ -24374,6 +28574,55 @@
     "value_": 98.35165
   },
   {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2019-08-15",
+    "value": 97.84284,
+    "value_": 97.84284
+  },
+  {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2020-08-15",
+    "value": 94.79306,
+    "value_": 94.79306
+  },
+  {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2021-08-15",
+    "value": 104.34645,
+    "value_": 104.34645
+  },
+  {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2022-08-15",
+    "value": 99.52886,
+    "value_": 99.52886
+  },
+  {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2023-08-15",
+    "value": 99.77064,
+    "value_": 99.77064
+  },
+  {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2024-08-15",
+    "value": 100.11123,
+    "value_": 100.11123
+  },
+  {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2025-08-15",
+    "value": 100.94837,
+    "value_": 100.94837
+  },
+  {
     "geoid": "31140",
     "key": "list-to-sale-ratio",
     "date": "2019-08-15",
@@ -24470,6 +28719,55 @@
     "date": "2025-08-15",
     "value": 106.76124,
     "value_": 106.76124
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2019-08-15",
+    "value": 90.29412,
+    "value_": 90.29412
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2020-08-15",
+    "value": 92.23175,
+    "value_": 92.23175
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2021-08-15",
+    "value": 93.39408,
+    "value_": 93.39408
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2022-08-15",
+    "value": 92,
+    "value_": 92
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2023-08-15",
+    "value": 95.45455,
+    "value_": 95.45455
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2024-08-15",
+    "value": 93.91304,
+    "value_": 93.91304
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2025-08-15",
+    "value": 101.81818,
+    "value_": 101.81818
   },
   {
     "geoid": "33340",
@@ -24619,6 +28917,55 @@
     "value_": 100.97127
   },
   {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2019-08-15",
+    "value": 98.79102,
+    "value_": 98.79102
+  },
+  {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2020-08-15",
+    "value": 89.0625,
+    "value_": 89.0625
+  },
+  {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2021-08-15",
+    "value": 108,
+    "value_": 108
+  },
+  {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2022-08-15",
+    "value": 106.02152,
+    "value_": 106.02152
+  },
+  {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2023-08-15",
+    "value": 104.43491,
+    "value_": 104.43491
+  },
+  {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2024-08-15",
+    "value": 100.13351,
+    "value_": 100.13351
+  },
+  {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2025-08-15",
+    "value": 106.84,
+    "value_": 106.84
+  },
+  {
     "geoid": "36420",
     "key": "list-to-sale-ratio",
     "date": "2019-08-15",
@@ -24764,6 +29111,55 @@
     "date": "2025-08-15",
     "value": 99.022,
     "value_": 99.022
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2019-08-15",
+    "value": 105.71429,
+    "value_": 105.71429
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2020-08-15",
+    "value": 98,
+    "value_": 98
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2021-08-15",
+    "value": 106.74046,
+    "value_": 106.74046
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2022-08-15",
+    "value": 110,
+    "value_": 110
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2023-08-15",
+    "value": 107.84314,
+    "value_": 107.84314
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2024-08-15",
+    "value": 109.76288,
+    "value_": 109.76288
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2025-08-15",
+    "value": 107.31175,
+    "value_": 107.31175
   },
   {
     "geoid": "38060",
@@ -25403,6 +29799,55 @@
     "value_": 103.52673
   },
   {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2019-08-15",
+    "value": 106.17761,
+    "value_": 106.17761
+  },
+  {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2020-08-15",
+    "value": 108.78963,
+    "value_": 108.78963
+  },
+  {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2021-08-15",
+    "value": 109.13978,
+    "value_": 109.13978
+  },
+  {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2022-08-15",
+    "value": 97.12105,
+    "value_": 97.12105
+  },
+  {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2023-08-15",
+    "value": 106.47007,
+    "value_": 106.47007
+  },
+  {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2024-08-15",
+    "value": 104.6595,
+    "value_": 104.6595
+  },
+  {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2025-08-15",
+    "value": 105.07505,
+    "value_": 105.07505
+  },
+  {
     "geoid": "41940",
     "key": "list-to-sale-ratio",
     "date": "2019-08-15",
@@ -25450,6 +29895,55 @@
     "date": "2025-08-15",
     "value": 101.7334,
     "value_": 101.7334
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2019-08-15",
+    "value": 102.74312,
+    "value_": 102.74312
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2020-08-15",
+    "value": 100.8,
+    "value_": 100.8
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2021-08-15",
+    "value": 104.30061,
+    "value_": 104.30061
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2022-08-15",
+    "value": 103.86667,
+    "value_": 103.86667
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2023-08-15",
+    "value": 101.74842,
+    "value_": 101.74842
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2024-08-15",
+    "value": 100.92135,
+    "value_": 100.92135
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2025-08-15",
+    "value": 103.59642,
+    "value_": 103.59642
   },
   {
     "geoid": "45300",
@@ -25646,6 +30140,55 @@
     "date": "2025-08-15",
     "value": 100.83806,
     "value_": 100.83806
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2019-08-15",
+    "value": 104.01003,
+    "value_": 104.01003
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2020-08-15",
+    "value": 103.06735,
+    "value_": 103.06735
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2021-08-15",
+    "value": 103.15789,
+    "value_": 103.15789
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2022-08-15",
+    "value": 104.0008,
+    "value_": 104.0008
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2023-08-15",
+    "value": 103.97172,
+    "value_": 103.97172
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2024-08-15",
+    "value": 104.82375,
+    "value_": 104.82375
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2025-08-15",
+    "value": 106.36364,
+    "value_": 106.36364
   },
   {
     "geoid": "51013",
@@ -26337,50 +30880,50 @@
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2019-08-15",
-    "value": 99.67518,
-    "value_": 99.67518
+    "value": 99.72579,
+    "value_": 99.72579
   },
   {
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2020-08-15",
-    "value": 99.4852,
-    "value_": 99.4852
+    "value": 97.54231,
+    "value_": 97.54231
   },
   {
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2021-08-15",
-    "value": 100.58727,
-    "value_": 100.58727
+    "value": 102.40855,
+    "value_": 102.40855
   },
   {
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2022-08-15",
-    "value": 101.38241,
-    "value_": 101.38241
+    "value": 101.82798,
+    "value_": 101.82798
   },
   {
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2023-08-15",
-    "value": 100.51238,
-    "value_": 100.51238
+    "value": 101.22658,
+    "value_": 101.22658
   },
   {
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2024-08-15",
-    "value": 99.63107,
-    "value_": 99.63107
+    "value": 100.08687,
+    "value_": 100.08687
   },
   {
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2025-08-15",
-    "value": 101.32719,
-    "value_": 101.32719
+    "value": 102.35016,
+    "value_": 102.35016
   },
   {
     "geoid": "99999",
@@ -26677,6 +31220,55 @@
     "value_": 105.13528
   },
   {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2019-09-15",
+    "value": 90.74074,
+    "value_": 90.74074
+  },
+  {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2020-09-15",
+    "value": 96.56837,
+    "value_": 96.56837
+  },
+  {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2021-09-15",
+    "value": 96.8,
+    "value_": 96.8
+  },
+  {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2022-09-15",
+    "value": 95.58174,
+    "value_": 95.58174
+  },
+  {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2023-09-15",
+    "value": 94.48276,
+    "value_": 94.48276
+  },
+  {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2024-09-15",
+    "value": 92.69542,
+    "value_": 92.69542
+  },
+  {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2025-09-15",
+    "value": 91.25475,
+    "value_": 91.25475
+  },
+  {
     "geoid": "15380",
     "key": "list-to-sale-ratio",
     "date": "2019-09-15",
@@ -26773,6 +31365,55 @@
     "date": "2025-09-15",
     "value": 97.61905,
     "value_": 97.61905
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2019-09-15",
+    "value": 93.30512,
+    "value_": 93.30512
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2020-09-15",
+    "value": 95.20524,
+    "value_": 95.20524
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2021-09-15",
+    "value": 97.99331,
+    "value_": 97.99331
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2022-09-15",
+    "value": 101.66667,
+    "value_": 101.66667
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2023-09-15",
+    "value": 100.03126,
+    "value_": 100.03126
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2024-09-15",
+    "value": 100,
+    "value_": 100
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2025-09-15",
+    "value": 98.63014,
+    "value_": 98.63014
   },
   {
     "geoid": "17140",
@@ -26922,6 +31563,55 @@
     "value_": 101.50044
   },
   {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2019-09-15",
+    "value": 94.29321,
+    "value_": 94.29321
+  },
+  {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2020-09-15",
+    "value": 98.4632,
+    "value_": 98.4632
+  },
+  {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2021-09-15",
+    "value": 99.44,
+    "value_": 99.44
+  },
+  {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2022-09-15",
+    "value": 98.82353,
+    "value_": 98.82353
+  },
+  {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2023-09-15",
+    "value": 99.23213,
+    "value_": 99.23213
+  },
+  {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2024-09-15",
+    "value": 97.64576,
+    "value_": 97.64576
+  },
+  {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2025-09-15",
+    "value": 97.56098,
+    "value_": 97.56098
+  },
+  {
     "geoid": "19740",
     "key": "list-to-sale-ratio",
     "date": "2019-09-15",
@@ -26969,6 +31659,55 @@
     "date": "2025-09-15",
     "value": 99.16935,
     "value_": 99.16935
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2019-09-15",
+    "value": 107.48703,
+    "value_": 107.48703
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2020-09-15",
+    "value": 103.18949,
+    "value_": 103.18949
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2021-09-15",
+    "value": 112.12121,
+    "value_": 112.12121
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2022-09-15",
+    "value": 110.11905,
+    "value_": 110.11905
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2023-09-15",
+    "value": 110.85091,
+    "value_": 110.85091
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2024-09-15",
+    "value": 109.78321,
+    "value_": 109.78321
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2025-09-15",
+    "value": 112.97297,
+    "value_": 112.97297
   },
   {
     "geoid": "23420",
@@ -27510,6 +32249,55 @@
     "value_": 96.70542
   },
   {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2019-09-15",
+    "value": 94.81481,
+    "value_": 94.81481
+  },
+  {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2020-09-15",
+    "value": 97.46328,
+    "value_": 97.46328
+  },
+  {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2021-09-15",
+    "value": 102.62829,
+    "value_": 102.62829
+  },
+  {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2022-09-15",
+    "value": 98.82353,
+    "value_": 98.82353
+  },
+  {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2023-09-15",
+    "value": 96.66677,
+    "value_": 96.66677
+  },
+  {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2024-09-15",
+    "value": 95.16129,
+    "value_": 95.16129
+  },
+  {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2025-09-15",
+    "value": 95.46724,
+    "value_": 95.46724
+  },
+  {
     "geoid": "31140",
     "key": "list-to-sale-ratio",
     "date": "2019-09-15",
@@ -27606,6 +32394,55 @@
     "date": "2025-09-15",
     "value": 104.91228,
     "value_": 104.91228
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2019-09-15",
+    "value": 89.28571,
+    "value_": 89.28571
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2020-09-15",
+    "value": 93.42105,
+    "value_": 93.42105
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2021-09-15",
+    "value": 93.46873,
+    "value_": 93.46873
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2022-09-15",
+    "value": 90.85714,
+    "value_": 90.85714
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2023-09-15",
+    "value": 89.5601,
+    "value_": 89.5601
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2024-09-15",
+    "value": 95.07347,
+    "value_": 95.07347
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2025-09-15",
+    "value": 97.41379,
+    "value_": 97.41379
   },
   {
     "geoid": "33340",
@@ -27755,6 +32592,55 @@
     "value_": 91.10021
   },
   {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2019-09-15",
+    "value": 78.79656,
+    "value_": 78.79656
+  },
+  {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2020-09-15",
+    "value": 87.78626,
+    "value_": 87.78626
+  },
+  {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2021-09-15",
+    "value": 97.0731,
+    "value_": 97.0731
+  },
+  {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2022-09-15",
+    "value": 93.96433,
+    "value_": 93.96433
+  },
+  {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2023-09-15",
+    "value": 88.61076,
+    "value_": 88.61076
+  },
+  {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2024-09-15",
+    "value": 89.04767,
+    "value_": 89.04767
+  },
+  {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2025-09-15",
+    "value": 92.87926,
+    "value_": 92.87926
+  },
+  {
     "geoid": "36420",
     "key": "list-to-sale-ratio",
     "date": "2019-09-15",
@@ -27900,6 +32786,55 @@
     "date": "2025-09-15",
     "value": 98.55181,
     "value_": 98.55181
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2019-09-15",
+    "value": 84.03361,
+    "value_": 84.03361
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2020-09-15",
+    "value": 93.46154,
+    "value_": 93.46154
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2021-09-15",
+    "value": 97.01493,
+    "value_": 97.01493
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2022-09-15",
+    "value": 94.19912,
+    "value_": 94.19912
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2023-09-15",
+    "value": 96.46302,
+    "value_": 96.46302
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2024-09-15",
+    "value": 96.49123,
+    "value_": 96.49123
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2025-09-15",
+    "value": 92.66698,
+    "value_": 92.66698
   },
   {
     "geoid": "38060",
@@ -28539,6 +33474,55 @@
     "value_": 100.11123
   },
   {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2019-09-15",
+    "value": 97.56272,
+    "value_": 97.56272
+  },
+  {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2020-09-15",
+    "value": 107.48703,
+    "value_": 107.48703
+  },
+  {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2021-09-15",
+    "value": 102.65457,
+    "value_": 102.65457
+  },
+  {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2022-09-15",
+    "value": 99.83278,
+    "value_": 99.83278
+  },
+  {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2023-09-15",
+    "value": 96.98997,
+    "value_": 96.98997
+  },
+  {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2024-09-15",
+    "value": 106.57613,
+    "value_": 106.57613
+  },
+  {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2025-09-15",
+    "value": 104.74504,
+    "value_": 104.74504
+  },
+  {
     "geoid": "41940",
     "key": "list-to-sale-ratio",
     "date": "2019-09-15",
@@ -28586,6 +33570,55 @@
     "date": "2025-09-15",
     "value": 100.62893,
     "value_": 100.62893
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2019-09-15",
+    "value": 93.11104,
+    "value_": 93.11104
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2020-09-15",
+    "value": 101.58017,
+    "value_": 101.58017
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2021-09-15",
+    "value": 98.62439,
+    "value_": 98.62439
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2022-09-15",
+    "value": 98.70968,
+    "value_": 98.70968
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2023-09-15",
+    "value": 97.71757,
+    "value_": 97.71757
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2024-09-15",
+    "value": 99.39759,
+    "value_": 99.39759
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2025-09-15",
+    "value": 97.76207,
+    "value_": 97.76207
   },
   {
     "geoid": "45300",
@@ -28782,6 +33815,55 @@
     "date": "2025-09-15",
     "value": 101.73697,
     "value_": 101.73697
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2019-09-15",
+    "value": 91.95276,
+    "value_": 91.95276
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2020-09-15",
+    "value": 99.33769,
+    "value_": 99.33769
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2021-09-15",
+    "value": 96.0192,
+    "value_": 96.0192
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2022-09-15",
+    "value": 94.51796,
+    "value_": 94.51796
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2023-09-15",
+    "value": 94.71767,
+    "value_": 94.71767
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2024-09-15",
+    "value": 97.13362,
+    "value_": 97.13362
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2025-09-15",
+    "value": 95.79832,
+    "value_": 95.79832
   },
   {
     "geoid": "51013",
@@ -29473,50 +34555,50 @@
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2019-09-15",
-    "value": 97.92228,
-    "value_": 97.92228
+    "value": 93.65268,
+    "value_": 93.65268
   },
   {
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2020-09-15",
-    "value": 98.74274,
-    "value_": 98.74274
+    "value": 96.58548,
+    "value_": 96.58548
   },
   {
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2021-09-15",
-    "value": 98.90249,
-    "value_": 98.90249
+    "value": 98.64366,
+    "value_": 98.64366
   },
   {
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2022-09-15",
-    "value": 99.61823,
-    "value_": 99.61823
+    "value": 98.49076,
+    "value_": 98.49076
   },
   {
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2023-09-15",
-    "value": 98.17602,
-    "value_": 98.17602
+    "value": 96.62325,
+    "value_": 96.62325
   },
   {
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2024-09-15",
-    "value": 98.62585,
-    "value_": 98.62585
+    "value": 97.41895,
+    "value_": 97.41895
   },
   {
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2025-09-15",
-    "value": 98.32964,
-    "value_": 98.32964
+    "value": 97.43989,
+    "value_": 97.43989
   },
   {
     "geoid": "99999",
@@ -29813,6 +34895,55 @@
     "value_": 100.78874
   },
   {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2019-10-15",
+    "value": 92.38975,
+    "value_": 92.38975
+  },
+  {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2020-10-15",
+    "value": 97.34513,
+    "value_": 97.34513
+  },
+  {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2021-10-15",
+    "value": 99.98333,
+    "value_": 99.98333
+  },
+  {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2022-10-15",
+    "value": 96.78412,
+    "value_": 96.78412
+  },
+  {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2023-10-15",
+    "value": 99.27543,
+    "value_": 99.27543
+  },
+  {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2024-10-15",
+    "value": 98.62481,
+    "value_": 98.62481
+  },
+  {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2025-10-15",
+    "value": 100,
+    "value_": 100
+  },
+  {
     "geoid": "15380",
     "key": "list-to-sale-ratio",
     "date": "2019-10-15",
@@ -29909,6 +35040,55 @@
     "date": "2025-10-15",
     "value": 101.65247,
     "value_": 101.65247
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2019-10-15",
+    "value": 96.38554,
+    "value_": 96.38554
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2020-10-15",
+    "value": 98.56631,
+    "value_": 98.56631
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2021-10-15",
+    "value": 102.80702,
+    "value_": 102.80702
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2022-10-15",
+    "value": 100.33445,
+    "value_": 100.33445
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2023-10-15",
+    "value": 98.74608,
+    "value_": 98.74608
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2024-10-15",
+    "value": 101.64425,
+    "value_": 101.64425
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2025-10-15",
+    "value": 104.81566,
+    "value_": 104.81566
   },
   {
     "geoid": "17140",
@@ -30058,6 +35238,55 @@
     "value_": 101.95392
   },
   {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2019-10-15",
+    "value": 96.32107,
+    "value_": 96.32107
+  },
+  {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2020-10-15",
+    "value": 99.56777,
+    "value_": 99.56777
+  },
+  {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2021-10-15",
+    "value": 99.60422,
+    "value_": 99.60422
+  },
+  {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2022-10-15",
+    "value": 100.02382,
+    "value_": 100.02382
+  },
+  {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2023-10-15",
+    "value": 98.35294,
+    "value_": 98.35294
+  },
+  {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2024-10-15",
+    "value": 99.29078,
+    "value_": 99.29078
+  },
+  {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2025-10-15",
+    "value": 100.90023,
+    "value_": 100.90023
+  },
+  {
     "geoid": "19740",
     "key": "list-to-sale-ratio",
     "date": "2019-10-15",
@@ -30105,6 +35334,55 @@
     "date": "2025-10-15",
     "value": 101.74305,
     "value_": 101.74305
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2019-10-15",
+    "value": 107.77521,
+    "value_": 107.77521
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2020-10-15",
+    "value": 102.90323,
+    "value_": 102.90323
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2021-10-15",
+    "value": 103.00177,
+    "value_": 103.00177
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2022-10-15",
+    "value": 112.89379,
+    "value_": 112.89379
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2023-10-15",
+    "value": 108.4991,
+    "value_": 108.4991
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2024-10-15",
+    "value": 107.52688,
+    "value_": 107.52688
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2025-10-15",
+    "value": 110,
+    "value_": 110
   },
   {
     "geoid": "23420",
@@ -30646,6 +35924,55 @@
     "value_": 97.77778
   },
   {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2019-10-15",
+    "value": 96.41538,
+    "value_": 96.41538
+  },
+  {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2020-10-15",
+    "value": 98.13084,
+    "value_": 98.13084
+  },
+  {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2021-10-15",
+    "value": 101.25013,
+    "value_": 101.25013
+  },
+  {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2022-10-15",
+    "value": 97.17314,
+    "value_": 97.17314
+  },
+  {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2023-10-15",
+    "value": 97.88654,
+    "value_": 97.88654
+  },
+  {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2024-10-15",
+    "value": 97.2973,
+    "value_": 97.2973
+  },
+  {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2025-10-15",
+    "value": 97.32229,
+    "value_": 97.32229
+  },
+  {
     "geoid": "31140",
     "key": "list-to-sale-ratio",
     "date": "2019-10-15",
@@ -30742,6 +36069,55 @@
     "date": "2025-10-15",
     "value": 99.20914,
     "value_": 99.20914
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2019-10-15",
+    "value": 87.5,
+    "value_": 87.5
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2020-10-15",
+    "value": 89.74382,
+    "value_": 89.74382
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2021-10-15",
+    "value": 90.53333,
+    "value_": 90.53333
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2022-10-15",
+    "value": 89.79206,
+    "value_": 89.79206
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2023-10-15",
+    "value": 90.9051,
+    "value_": 90.9051
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2024-10-15",
+    "value": 93.23873,
+    "value_": 93.23873
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2025-10-15",
+    "value": 94.01709,
+    "value_": 94.01709
   },
   {
     "geoid": "33340",
@@ -30891,6 +36267,55 @@
     "value_": 98.59596
   },
   {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2019-10-15",
+    "value": 86.07199,
+    "value_": 86.07199
+  },
+  {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2020-10-15",
+    "value": 90.76682,
+    "value_": 90.76682
+  },
+  {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2021-10-15",
+    "value": 98.49624,
+    "value_": 98.49624
+  },
+  {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2022-10-15",
+    "value": 93.19224,
+    "value_": 93.19224
+  },
+  {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2023-10-15",
+    "value": 89.35611,
+    "value_": 89.35611
+  },
+  {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2024-10-15",
+    "value": 91.98999,
+    "value_": 91.98999
+  },
+  {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2025-10-15",
+    "value": 95.74468,
+    "value_": 95.74468
+  },
+  {
     "geoid": "36420",
     "key": "list-to-sale-ratio",
     "date": "2019-10-15",
@@ -31036,6 +36461,55 @@
     "date": "2025-10-15",
     "value": 99.54428,
     "value_": 99.54428
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2019-10-15",
+    "value": 91.3242,
+    "value_": 91.3242
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2020-10-15",
+    "value": 91.18892,
+    "value_": 91.18892
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2021-10-15",
+    "value": 100.03848,
+    "value_": 100.03848
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2022-10-15",
+    "value": 98.8417,
+    "value_": 98.8417
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2023-10-15",
+    "value": 98.14815,
+    "value_": 98.14815
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2024-10-15",
+    "value": 100.35842,
+    "value_": 100.35842
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2025-10-15",
+    "value": 100.17241,
+    "value_": 100.17241
   },
   {
     "geoid": "38060",
@@ -31675,6 +37149,55 @@
     "value_": 98.88765
   },
   {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2019-10-15",
+    "value": 104.86891,
+    "value_": 104.86891
+  },
+  {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2020-10-15",
+    "value": 101.79211,
+    "value_": 101.79211
+  },
+  {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2021-10-15",
+    "value": 111.82796,
+    "value_": 111.82796
+  },
+  {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2022-10-15",
+    "value": 107.21944,
+    "value_": 107.21944
+  },
+  {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2023-10-15",
+    "value": 106.09244,
+    "value_": 106.09244
+  },
+  {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2024-10-15",
+    "value": 112.25876,
+    "value_": 112.25876
+  },
+  {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2025-10-15",
+    "value": 106.82759,
+    "value_": 106.82759
+  },
+  {
     "geoid": "41940",
     "key": "list-to-sale-ratio",
     "date": "2019-10-15",
@@ -31722,6 +37245,55 @@
     "date": "2025-10-15",
     "value": 106.40491,
     "value_": 106.40491
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2019-10-15",
+    "value": 99.37447,
+    "value_": 99.37447
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2020-10-15",
+    "value": 101.6,
+    "value_": 101.6
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2021-10-15",
+    "value": 103.69114,
+    "value_": 103.69114
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2022-10-15",
+    "value": 104.18435,
+    "value_": 104.18435
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2023-10-15",
+    "value": 101.31579,
+    "value_": 101.31579
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2024-10-15",
+    "value": 105.03681,
+    "value_": 105.03681
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2025-10-15",
+    "value": 103.86518,
+    "value_": 103.86518
   },
   {
     "geoid": "45300",
@@ -31918,6 +37490,55 @@
     "date": "2025-10-15",
     "value": 100,
     "value_": 100
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2019-10-15",
+    "value": 96.49329,
+    "value_": 96.49329
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2020-10-15",
+    "value": 102.24494,
+    "value_": 102.24494
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2021-10-15",
+    "value": 101.04103,
+    "value_": 101.04103
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2022-10-15",
+    "value": 101.5104,
+    "value_": 101.5104
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2023-10-15",
+    "value": 100,
+    "value_": 100
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2024-10-15",
+    "value": 102.23133,
+    "value_": 102.23133
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2025-10-15",
+    "value": 106.36364,
+    "value_": 106.36364
   },
   {
     "geoid": "51013",
@@ -32609,50 +38230,50 @@
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2019-10-15",
-    "value": 97.51054,
-    "value_": 97.51054
+    "value": 95.32844,
+    "value_": 95.32844
   },
   {
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2020-10-15",
-    "value": 100.041,
-    "value_": 100.041
+    "value": 97.7741,
+    "value_": 97.7741
   },
   {
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2021-10-15",
-    "value": 99.33016,
-    "value_": 99.33016
+    "value": 99.62083,
+    "value_": 99.62083
   },
   {
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2022-10-15",
-    "value": 99.72666,
-    "value_": 99.72666
+    "value": 98.88064,
+    "value_": 98.88064
   },
   {
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2023-10-15",
-    "value": 98.83623,
-    "value_": 98.83623
+    "value": 97.76709,
+    "value_": 97.76709
   },
   {
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2024-10-15",
-    "value": 99.91039,
-    "value_": 99.91039
+    "value": 99.18128,
+    "value_": 99.18128
   },
   {
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2025-10-15",
-    "value": 99.57689,
-    "value_": 99.57689
+    "value": 99.54411,
+    "value_": 99.54411
   },
   {
     "geoid": "99999",
@@ -32949,6 +38570,55 @@
     "value_": 102.01303
   },
   {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2019-11-15",
+    "value": 100.48569,
+    "value_": 100.48569
+  },
+  {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2020-11-15",
+    "value": 100.18215,
+    "value_": 100.18215
+  },
+  {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2021-11-15",
+    "value": 105.35406,
+    "value_": 105.35406
+  },
+  {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2022-11-15",
+    "value": 101.74881,
+    "value_": 101.74881
+  },
+  {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2023-11-15",
+    "value": 103.84615,
+    "value_": 103.84615
+  },
+  {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2024-11-15",
+    "value": 101.57368,
+    "value_": 101.57368
+  },
+  {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2025-11-15",
+    "value": 105.80083,
+    "value_": 105.80083
+  },
+  {
     "geoid": "15380",
     "key": "list-to-sale-ratio",
     "date": "2019-11-15",
@@ -33045,6 +38715,55 @@
     "date": "2025-11-15",
     "value": 101.54422,
     "value_": 101.54422
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2019-11-15",
+    "value": 105,
+    "value_": 105
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2020-11-15",
+    "value": 100.37175,
+    "value_": 100.37175
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2021-11-15",
+    "value": 104.68024,
+    "value_": 104.68024
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2022-11-15",
+    "value": 105.17857,
+    "value_": 105.17857
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2023-11-15",
+    "value": 101.61956,
+    "value_": 101.61956
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2024-11-15",
+    "value": 106.67214,
+    "value_": 106.67214
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2025-11-15",
+    "value": 105.29265,
+    "value_": 105.29265
   },
   {
     "geoid": "17140",
@@ -33194,6 +38913,55 @@
     "value_": 102.98507
   },
   {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2019-11-15",
+    "value": 97.62712,
+    "value_": 97.62712
+  },
+  {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2020-11-15",
+    "value": 102.06032,
+    "value_": 102.06032
+  },
+  {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2021-11-15",
+    "value": 100.66667,
+    "value_": 100.66667
+  },
+  {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2022-11-15",
+    "value": 102.31416,
+    "value_": 102.31416
+  },
+  {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2023-11-15",
+    "value": 96.94118,
+    "value_": 96.94118
+  },
+  {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2024-11-15",
+    "value": 97.96894,
+    "value_": 97.96894
+  },
+  {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2025-11-15",
+    "value": 98.73434,
+    "value_": 98.73434
+  },
+  {
     "geoid": "19740",
     "key": "list-to-sale-ratio",
     "date": "2019-11-15",
@@ -33241,6 +39009,55 @@
     "date": "2025-11-15",
     "value": 106.67904,
     "value_": 106.67904
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2019-11-15",
+    "value": 110.23622,
+    "value_": 110.23622
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2020-11-15",
+    "value": 106.73783,
+    "value_": 106.73783
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2021-11-15",
+    "value": 119.33333,
+    "value_": 119.33333
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2022-11-15",
+    "value": 111.68496,
+    "value_": 111.68496
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2023-11-15",
+    "value": 114.66667,
+    "value_": 114.66667
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2024-11-15",
+    "value": 112.42604,
+    "value_": 112.42604
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2025-11-15",
+    "value": 117.14286,
+    "value_": 117.14286
   },
   {
     "geoid": "23420",
@@ -33782,6 +39599,55 @@
     "value_": 101.1236
   },
   {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2019-11-15",
+    "value": 98.39975,
+    "value_": 98.39975
+  },
+  {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2020-11-15",
+    "value": 96.50538,
+    "value_": 96.50538
+  },
+  {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2021-11-15",
+    "value": 102.23223,
+    "value_": 102.23223
+  },
+  {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2022-11-15",
+    "value": 95.29412,
+    "value_": 95.29412
+  },
+  {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2023-11-15",
+    "value": 98.96444,
+    "value_": 98.96444
+  },
+  {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2024-11-15",
+    "value": 100,
+    "value_": 100
+  },
+  {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2025-11-15",
+    "value": 100.00344,
+    "value_": 100.00344
+  },
+  {
     "geoid": "31140",
     "key": "list-to-sale-ratio",
     "date": "2019-11-15",
@@ -33878,6 +39744,55 @@
     "date": "2025-11-15",
     "value": 109.05455,
     "value_": 109.05455
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2019-11-15",
+    "value": 88.73239,
+    "value_": 88.73239
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2020-11-15",
+    "value": 88.97243,
+    "value_": 88.97243
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2021-11-15",
+    "value": 89.3617,
+    "value_": 89.3617
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2022-11-15",
+    "value": 89.62264,
+    "value_": 89.62264
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2023-11-15",
+    "value": 91.15044,
+    "value_": 91.15044
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2024-11-15",
+    "value": 95.01584,
+    "value_": 95.01584
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2025-11-15",
+    "value": 90.61964,
+    "value_": 90.61964
   },
   {
     "geoid": "33340",
@@ -34027,6 +39942,55 @@
     "value_": 98.95987
   },
   {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2019-11-15",
+    "value": 89.15858,
+    "value_": 89.15858
+  },
+  {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2020-11-15",
+    "value": 95.12195,
+    "value_": 95.12195
+  },
+  {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2021-11-15",
+    "value": 100.654,
+    "value_": 100.654
+  },
+  {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2022-11-15",
+    "value": 96.56652,
+    "value_": 96.56652
+  },
+  {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2023-11-15",
+    "value": 93.49593,
+    "value_": 93.49593
+  },
+  {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2024-11-15",
+    "value": 94.99358,
+    "value_": 94.99358
+  },
+  {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2025-11-15",
+    "value": 96.375,
+    "value_": 96.375
+  },
+  {
     "geoid": "36420",
     "key": "list-to-sale-ratio",
     "date": "2019-11-15",
@@ -34172,6 +40136,55 @@
     "date": "2025-11-15",
     "value": 101.21951,
     "value_": 101.21951
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2019-11-15",
+    "value": 105.36585,
+    "value_": 105.36585
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2020-11-15",
+    "value": 102.12589,
+    "value_": 102.12589
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2021-11-15",
+    "value": 109.09839,
+    "value_": 109.09839
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2022-11-15",
+    "value": 104.04162,
+    "value_": 104.04162
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2023-11-15",
+    "value": 92.15686,
+    "value_": 92.15686
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2024-11-15",
+    "value": 105.66038,
+    "value_": 105.66038
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2025-11-15",
+    "value": 113.27762,
+    "value_": 113.27762
   },
   {
     "geoid": "38060",
@@ -34811,6 +40824,55 @@
     "value_": 99.47297
   },
   {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2019-11-15",
+    "value": 104.69592,
+    "value_": 104.69592
+  },
+  {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2020-11-15",
+    "value": 105.66038,
+    "value_": 105.66038
+  },
+  {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2021-11-15",
+    "value": 118.23573,
+    "value_": 118.23573
+  },
+  {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2022-11-15",
+    "value": 103.85757,
+    "value_": 103.85757
+  },
+  {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2023-11-15",
+    "value": 114.28571,
+    "value_": 114.28571
+  },
+  {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2024-11-15",
+    "value": 111.11111,
+    "value_": 111.11111
+  },
+  {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2025-11-15",
+    "value": 112.22222,
+    "value_": 112.22222
+  },
+  {
     "geoid": "41940",
     "key": "list-to-sale-ratio",
     "date": "2019-11-15",
@@ -34858,6 +40920,55 @@
     "date": "2025-11-15",
     "value": 115.36232,
     "value_": 115.36232
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2019-11-15",
+    "value": 99.85786,
+    "value_": 99.85786
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2020-11-15",
+    "value": 100.80806,
+    "value_": 100.80806
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2021-11-15",
+    "value": 102.12766,
+    "value_": 102.12766
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2022-11-15",
+    "value": 103.88767,
+    "value_": 103.88767
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2023-11-15",
+    "value": 103.34711,
+    "value_": 103.34711
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2024-11-15",
+    "value": 104.42564,
+    "value_": 104.42564
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2025-11-15",
+    "value": 104.53333,
+    "value_": 104.53333
   },
   {
     "geoid": "45300",
@@ -35054,6 +41165,55 @@
     "date": "2025-11-15",
     "value": 101.46369,
     "value_": 101.46369
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2019-11-15",
+    "value": 102.46914,
+    "value_": 102.46914
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2020-11-15",
+    "value": 102.27273,
+    "value_": 102.27273
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2021-11-15",
+    "value": 104.20825,
+    "value_": 104.20825
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2022-11-15",
+    "value": 102.04102,
+    "value_": 102.04102
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2023-11-15",
+    "value": 101.83299,
+    "value_": 101.83299
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2024-11-15",
+    "value": 105.54301,
+    "value_": 105.54301
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2025-11-15",
+    "value": 108.5009,
+    "value_": 108.5009
   },
   {
     "geoid": "51013",
@@ -35745,50 +41905,50 @@
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2019-11-15",
-    "value": 98.66877,
-    "value_": 98.66877
+    "value": 97.50159,
+    "value_": 97.50159
   },
   {
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2020-11-15",
-    "value": 101.20236,
-    "value_": 101.20236
+    "value": 99.27513,
+    "value_": 99.27513
   },
   {
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2021-11-15",
-    "value": 100.93785,
-    "value_": 100.93785
+    "value": 101.37072,
+    "value_": 101.37072
   },
   {
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2022-11-15",
-    "value": 99.98742,
-    "value_": 99.98742
+    "value": 99.51944,
+    "value_": 99.51944
   },
   {
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2023-11-15",
-    "value": 98.67174,
-    "value_": 98.67174
+    "value": 98.42445,
+    "value_": 98.42445
   },
   {
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2024-11-15",
-    "value": 100.46565,
-    "value_": 100.46565
+    "value": 100.23963,
+    "value_": 100.23963
   },
   {
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2025-11-15",
-    "value": 100.84361,
-    "value_": 100.84361
+    "value": 100.6268,
+    "value_": 100.6268
   },
   {
     "geoid": "99999",
@@ -36085,6 +42245,55 @@
     "value_": 95.45326
   },
   {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2019-12-15",
+    "value": 104.18837,
+    "value_": 104.18837
+  },
+  {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2020-12-15",
+    "value": 103.79317,
+    "value_": 103.79317
+  },
+  {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2021-12-15",
+    "value": 110.73406,
+    "value_": 110.73406
+  },
+  {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2022-12-15",
+    "value": 101.00167,
+    "value_": 101.00167
+  },
+  {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2023-12-15",
+    "value": 104.70386,
+    "value_": 104.70386
+  },
+  {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2024-12-15",
+    "value": 110.76923,
+    "value_": 110.76923
+  },
+  {
+    "geoid": "14460",
+    "key": "list-to-sale-ratio",
+    "date": "2025-12-15",
+    "value": 105.22496,
+    "value_": 105.22496
+  },
+  {
     "geoid": "15380",
     "key": "list-to-sale-ratio",
     "date": "2019-12-15",
@@ -36181,6 +42390,55 @@
     "date": "2025-12-15",
     "value": 106.49351,
     "value_": 106.49351
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2019-12-15",
+    "value": 104.80349,
+    "value_": 104.80349
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2020-12-15",
+    "value": 103.66795,
+    "value_": 103.66795
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2021-12-15",
+    "value": 109.06356,
+    "value_": 109.06356
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2022-12-15",
+    "value": 105.59466,
+    "value_": 105.59466
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2023-12-15",
+    "value": 102.26923,
+    "value_": 102.26923
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2024-12-15",
+    "value": 109.67742,
+    "value_": 109.67742
+  },
+  {
+    "geoid": "16980",
+    "key": "list-to-sale-ratio",
+    "date": "2025-12-15",
+    "value": 105.97015,
+    "value_": 105.97015
   },
   {
     "geoid": "17140",
@@ -36330,6 +42588,55 @@
     "value_": 106.28321
   },
   {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2019-12-15",
+    "value": 103.89259,
+    "value_": 103.89259
+  },
+  {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2020-12-15",
+    "value": 101.5873,
+    "value_": 101.5873
+  },
+  {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2021-12-15",
+    "value": 101.7592,
+    "value_": 101.7592
+  },
+  {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2022-12-15",
+    "value": 102.5641,
+    "value_": 102.5641
+  },
+  {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2023-12-15",
+    "value": 102.52563,
+    "value_": 102.52563
+  },
+  {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2024-12-15",
+    "value": 105.50026,
+    "value_": 105.50026
+  },
+  {
+    "geoid": "19100",
+    "key": "list-to-sale-ratio",
+    "date": "2025-12-15",
+    "value": 99.36559,
+    "value_": 99.36559
+  },
+  {
     "geoid": "19740",
     "key": "list-to-sale-ratio",
     "date": "2019-12-15",
@@ -36377,6 +42684,55 @@
     "date": "2025-12-15",
     "value": 109.61538,
     "value_": 109.61538
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2019-12-15",
+    "value": 128.63268,
+    "value_": 128.63268
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2020-12-15",
+    "value": 106.89655,
+    "value_": 106.89655
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2021-12-15",
+    "value": 118.91707,
+    "value_": 118.91707
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2022-12-15",
+    "value": 129.6,
+    "value_": 129.6
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2023-12-15",
+    "value": 113.04203,
+    "value_": 113.04203
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2024-12-15",
+    "value": 115.39703,
+    "value_": 115.39703
+  },
+  {
+    "geoid": "19820",
+    "key": "list-to-sale-ratio",
+    "date": "2025-12-15",
+    "value": 120.09456,
+    "value_": 120.09456
   },
   {
     "geoid": "23420",
@@ -36918,6 +43274,55 @@
     "value_": 101.13636
   },
   {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2019-12-15",
+    "value": 104.84653,
+    "value_": 104.84653
+  },
+  {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2020-12-15",
+    "value": 104.30061,
+    "value_": 104.30061
+  },
+  {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2021-12-15",
+    "value": 105.37736,
+    "value_": 105.37736
+  },
+  {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2022-12-15",
+    "value": 99.75698,
+    "value_": 99.75698
+  },
+  {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2023-12-15",
+    "value": 100.11779,
+    "value_": 100.11779
+  },
+  {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2024-12-15",
+    "value": 104.14269,
+    "value_": 104.14269
+  },
+  {
+    "geoid": "31080",
+    "key": "list-to-sale-ratio",
+    "date": "2025-12-15",
+    "value": 102.47553,
+    "value_": 102.47553
+  },
+  {
     "geoid": "31140",
     "key": "list-to-sale-ratio",
     "date": "2019-12-15",
@@ -37014,6 +43419,55 @@
     "date": "2025-12-15",
     "value": 113.68543,
     "value_": 113.68543
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2019-12-15",
+    "value": 86.30137,
+    "value_": 86.30137
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2020-12-15",
+    "value": 93.58974,
+    "value_": 93.58974
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2021-12-15",
+    "value": 94.62366,
+    "value_": 94.62366
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2022-12-15",
+    "value": 85.92453,
+    "value_": 85.92453
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2023-12-15",
+    "value": 91.07143,
+    "value_": 91.07143
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2024-12-15",
+    "value": 101.93322,
+    "value_": 101.93322
+  },
+  {
+    "geoid": "33100",
+    "key": "list-to-sale-ratio",
+    "date": "2025-12-15",
+    "value": 93.27731,
+    "value_": 93.27731
   },
   {
     "geoid": "33340",
@@ -37163,6 +43617,55 @@
     "value_": 100.45662
   },
   {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2019-12-15",
+    "value": 90.48414,
+    "value_": 90.48414
+  },
+  {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2020-12-15",
+    "value": 95.93496,
+    "value_": 95.93496
+  },
+  {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2021-12-15",
+    "value": 100,
+    "value_": 100
+  },
+  {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2022-12-15",
+    "value": 101.73036,
+    "value_": 101.73036
+  },
+  {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2023-12-15",
+    "value": 99.37979,
+    "value_": 99.37979
+  },
+  {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2024-12-15",
+    "value": 98.66667,
+    "value_": 98.66667
+  },
+  {
+    "geoid": "35620",
+    "key": "list-to-sale-ratio",
+    "date": "2025-12-15",
+    "value": 99.2703,
+    "value_": 99.2703
+  },
+  {
     "geoid": "36420",
     "key": "list-to-sale-ratio",
     "date": "2019-12-15",
@@ -37308,6 +43811,55 @@
     "date": "2025-12-15",
     "value": 96.38554,
     "value_": 96.38554
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2019-12-15",
+    "value": 110.91149,
+    "value_": 110.91149
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2020-12-15",
+    "value": 106.7141,
+    "value_": 106.7141
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2021-12-15",
+    "value": 108.98255,
+    "value_": 108.98255
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2022-12-15",
+    "value": 112.00522,
+    "value_": 112.00522
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2023-12-15",
+    "value": 108.69565,
+    "value_": 108.69565
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2024-12-15",
+    "value": 112.4498,
+    "value_": 112.4498
+  },
+  {
+    "geoid": "37980",
+    "key": "list-to-sale-ratio",
+    "date": "2025-12-15",
+    "value": 113.62725,
+    "value_": 113.62725
   },
   {
     "geoid": "38060",
@@ -37947,6 +44499,55 @@
     "value_": 102.27983
   },
   {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2019-12-15",
+    "value": 100.53867,
+    "value_": 100.53867
+  },
+  {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2020-12-15",
+    "value": 103.9261,
+    "value_": 103.9261
+  },
+  {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2021-12-15",
+    "value": 113.8462,
+    "value_": 113.8462
+  },
+  {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2022-12-15",
+    "value": 101.32769,
+    "value_": 101.32769
+  },
+  {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2023-12-15",
+    "value": 108.33333,
+    "value_": 108.33333
+  },
+  {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2024-12-15",
+    "value": 112,
+    "value_": 112
+  },
+  {
+    "geoid": "41860",
+    "key": "list-to-sale-ratio",
+    "date": "2025-12-15",
+    "value": 111.5903,
+    "value_": 111.5903
+  },
+  {
     "geoid": "41940",
     "key": "list-to-sale-ratio",
     "date": "2019-12-15",
@@ -37994,6 +44595,55 @@
     "date": "2025-12-15",
     "value": 101.46429,
     "value_": 101.46429
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2019-12-15",
+    "value": 105.55483,
+    "value_": 105.55483
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2020-12-15",
+    "value": 100,
+    "value_": 100
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2021-12-15",
+    "value": 104.28615,
+    "value_": 104.28615
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2022-12-15",
+    "value": 101.42872,
+    "value_": 101.42872
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2023-12-15",
+    "value": 100.67114,
+    "value_": 100.67114
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2024-12-15",
+    "value": 101.86774,
+    "value_": 101.86774
+  },
+  {
+    "geoid": "42660",
+    "key": "list-to-sale-ratio",
+    "date": "2025-12-15",
+    "value": 106.39752,
+    "value_": 106.39752
   },
   {
     "geoid": "45300",
@@ -38190,6 +44840,55 @@
     "date": "2025-12-15",
     "value": 102.84587,
     "value_": 102.84587
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2019-12-15",
+    "value": 108.20413,
+    "value_": 108.20413
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2020-12-15",
+    "value": 104.67551,
+    "value_": 104.67551
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2021-12-15",
+    "value": 105.81533,
+    "value_": 105.81533
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2022-12-15",
+    "value": 106.40608,
+    "value_": 106.40608
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2023-12-15",
+    "value": 106.62667,
+    "value_": 106.62667
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2024-12-15",
+    "value": 108.48233,
+    "value_": 108.48233
+  },
+  {
+    "geoid": "47900",
+    "key": "list-to-sale-ratio",
+    "date": "2025-12-15",
+    "value": 112.74435,
+    "value_": 112.74435
   },
   {
     "geoid": "51013",
@@ -38881,50 +45580,50 @@
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2019-12-15",
-    "value": 101.28968,
-    "value_": 101.28968
+    "value": 99.9165,
+    "value_": 99.9165
   },
   {
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2020-12-15",
-    "value": 100.91497,
-    "value_": 100.91497
+    "value": 100.26595,
+    "value_": 100.26595
   },
   {
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2021-12-15",
-    "value": 102.56351,
-    "value_": 102.56351
+    "value": 102.83221,
+    "value_": 102.83221
   },
   {
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2022-12-15",
-    "value": 100.45749,
-    "value_": 100.45749
+    "value": 100.55787,
+    "value_": 100.55787
   },
   {
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2023-12-15",
-    "value": 100.7611,
-    "value_": 100.7611
+    "value": 100.6414,
+    "value_": 100.6414
   },
   {
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2024-12-15",
-    "value": 102.69165,
-    "value_": 102.69165
+    "value": 103.16777,
+    "value_": 103.16777
   },
   {
     "geoid": "99997",
     "key": "list-to-sale-ratio",
     "date": "2025-12-15",
-    "value": 102.12925,
-    "value_": 102.12925
+    "value": 102.05556,
+    "value_": 102.05556
   },
   {
     "geoid": "99999",

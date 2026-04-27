@@ -280,6 +280,62 @@
     "value_": 16.35514
   },
   {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2019-01-15",
+    "value": 0.2645,
+    "value_": 26.45045
+  },
+  {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2020-01-15",
+    "value": 0.27978,
+    "value_": 27.97775
+  },
+  {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2021-01-15",
+    "value": 0.45746,
+    "value_": 45.74625
+  },
+  {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2022-01-15",
+    "value": 0.51613,
+    "value_": 51.6129
+  },
+  {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2023-01-15",
+    "value": 0.34212,
+    "value_": 34.21174
+  },
+  {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2024-01-15",
+    "value": 0.42391,
+    "value_": 42.39076
+  },
+  {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2025-01-15",
+    "value": 0.3935,
+    "value_": 39.35018
+  },
+  {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2026-01-15",
+    "value": 0.31118,
+    "value_": 31.11753
+  },
+  {
     "geoid": "15380",
     "key": "homes-sold-above-list",
     "date": "2019-01-15",
@@ -390,6 +446,62 @@
     "date": "2026-01-15",
     "value": 0.14064,
     "value_": 14.06397
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2019-01-15",
+    "value": 0.16161,
+    "value_": 16.16052
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2020-01-15",
+    "value": 0.15857,
+    "value_": 15.85748
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2021-01-15",
+    "value": 0.25069,
+    "value_": 25.06896
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2022-01-15",
+    "value": 0.2969,
+    "value_": 29.68971
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2023-01-15",
+    "value": 0.23411,
+    "value_": 23.41085
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2024-01-15",
+    "value": 0.31922,
+    "value_": 31.92182
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2025-01-15",
+    "value": 0.29533,
+    "value_": 29.53297
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2026-01-15",
+    "value": 0.28652,
+    "value_": 28.65199
   },
   {
     "geoid": "17140",
@@ -560,6 +672,62 @@
     "value_": 20.61856
   },
   {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2019-01-15",
+    "value": 0.14594,
+    "value_": 14.59426
+  },
+  {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2020-01-15",
+    "value": 0.13679,
+    "value_": 13.67865
+  },
+  {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2021-01-15",
+    "value": 0.29984,
+    "value_": 29.98375
+  },
+  {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2022-01-15",
+    "value": 0.5118,
+    "value_": 51.17998
+  },
+  {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2023-01-15",
+    "value": 0.1455,
+    "value_": 14.54951
+  },
+  {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2024-01-15",
+    "value": 0.14434,
+    "value_": 14.43355
+  },
+  {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2025-01-15",
+    "value": 0.11167,
+    "value_": 11.16738
+  },
+  {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2026-01-15",
+    "value": 0.11305,
+    "value_": 11.30485
+  },
+  {
     "geoid": "19740",
     "key": "homes-sold-above-list",
     "date": "2019-01-15",
@@ -614,6 +782,62 @@
     "date": "2026-01-15",
     "value": 0.17015,
     "value_": 17.01507
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2019-01-15",
+    "value": 0.18038,
+    "value_": 18.03774
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2020-01-15",
+    "value": 0.18413,
+    "value_": 18.41317
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2021-01-15",
+    "value": 0.31202,
+    "value_": 31.20222
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2022-01-15",
+    "value": 0.3616,
+    "value_": 36.16011
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2023-01-15",
+    "value": 0.24144,
+    "value_": 24.14414
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2024-01-15",
+    "value": 0.29295,
+    "value_": 29.29533
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2025-01-15",
+    "value": 0.28422,
+    "value_": 28.4219
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2026-01-15",
+    "value": 0.24584,
+    "value_": 24.58443
   },
   {
     "geoid": "23420",
@@ -1288,6 +1512,62 @@
     "value_": 15.04425
   },
   {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2019-01-15",
+    "value": 0.29094,
+    "value_": 29.09376
+  },
+  {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2020-01-15",
+    "value": 0.34608,
+    "value_": 34.60773
+  },
+  {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2021-01-15",
+    "value": 0.49576,
+    "value_": 49.57611
+  },
+  {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2022-01-15",
+    "value": 0.5789,
+    "value_": 57.89037
+  },
+  {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2023-01-15",
+    "value": 0.29982,
+    "value_": 29.98243
+  },
+  {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2024-01-15",
+    "value": 0.39489,
+    "value_": 39.48919
+  },
+  {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2025-01-15",
+    "value": 0.37689,
+    "value_": 37.68927
+  },
+  {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2026-01-15",
+    "value": 0.32034,
+    "value_": 32.03448
+  },
+  {
     "geoid": "31140",
     "key": "homes-sold-above-list",
     "date": "2019-01-15",
@@ -1398,6 +1678,62 @@
     "date": "2026-01-15",
     "value": 0.11339,
     "value_": 11.3388
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2019-01-15",
+    "value": 0.07493,
+    "value_": 7.49296
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2020-01-15",
+    "value": 0.07348,
+    "value_": 7.34793
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2021-01-15",
+    "value": 0.10454,
+    "value_": 10.45398
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2022-01-15",
+    "value": 0.17274,
+    "value_": 17.274
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2023-01-15",
+    "value": 0.10585,
+    "value_": 10.58514
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2024-01-15",
+    "value": 0.11075,
+    "value_": 11.07492
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2025-01-15",
+    "value": 0.07361,
+    "value_": 7.36074
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2026-01-15",
+    "value": 0.07452,
+    "value_": 7.45176
   },
   {
     "geoid": "33340",
@@ -1568,6 +1904,62 @@
     "value_": 10.87457
   },
   {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2019-01-15",
+    "value": 0.16153,
+    "value_": 16.15322
+  },
+  {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2020-01-15",
+    "value": 0.16256,
+    "value_": 16.25578
+  },
+  {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2021-01-15",
+    "value": 0.16083,
+    "value_": 16.08333
+  },
+  {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2022-01-15",
+    "value": 0.23944,
+    "value_": 23.94388
+  },
+  {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2023-01-15",
+    "value": 0.19908,
+    "value_": 19.90786
+  },
+  {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2024-01-15",
+    "value": 0.26754,
+    "value_": 26.75395
+  },
+  {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2025-01-15",
+    "value": 0.28082,
+    "value_": 28.08234
+  },
+  {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2026-01-15",
+    "value": 0.2612,
+    "value_": 26.1203
+  },
+  {
     "geoid": "36420",
     "key": "homes-sold-above-list",
     "date": "2019-01-15",
@@ -1734,6 +2126,62 @@
     "date": "2026-01-15",
     "value": 0.10778,
     "value_": 10.77818
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2019-01-15",
+    "value": 0.1521,
+    "value_": 15.20967
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2020-01-15",
+    "value": 0.15645,
+    "value_": 15.64545
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2021-01-15",
+    "value": 0.23118,
+    "value_": 23.11799
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2022-01-15",
+    "value": 0.27299,
+    "value_": 27.29927
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2023-01-15",
+    "value": 0.19368,
+    "value_": 19.36759
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2024-01-15",
+    "value": 0.24296,
+    "value_": 24.29606
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2025-01-15",
+    "value": 0.23618,
+    "value_": 23.61847
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2026-01-15",
+    "value": 0.21091,
+    "value_": 21.09121
   },
   {
     "geoid": "38060",
@@ -2464,6 +2912,62 @@
     "value_": 28.78151
   },
   {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2019-01-15",
+    "value": 0.48096,
+    "value_": 48.09619
+  },
+  {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2020-01-15",
+    "value": 0.42989,
+    "value_": 42.98893
+  },
+  {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2021-01-15",
+    "value": 0.40245,
+    "value_": 40.2454
+  },
+  {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2022-01-15",
+    "value": 0.59459,
+    "value_": 59.45946
+  },
+  {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2023-01-15",
+    "value": 0.27991,
+    "value_": 27.99097
+  },
+  {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2024-01-15",
+    "value": 0.32373,
+    "value_": 32.37251
+  },
+  {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2025-01-15",
+    "value": 0.41434,
+    "value_": 41.43426
+  },
+  {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2026-01-15",
+    "value": 0.46102,
+    "value_": 46.10245
+  },
+  {
     "geoid": "41940",
     "key": "homes-sold-above-list",
     "date": "2019-01-15",
@@ -2518,6 +3022,62 @@
     "date": "2026-01-15",
     "value": 0.47126,
     "value_": 47.12644
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2019-01-15",
+    "value": 0.18412,
+    "value_": 18.41202
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2020-01-15",
+    "value": 0.2521,
+    "value_": 25.21042
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2021-01-15",
+    "value": 0.4526,
+    "value_": 45.25952
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2022-01-15",
+    "value": 0.56028,
+    "value_": 56.02806
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2023-01-15",
+    "value": 0.17492,
+    "value_": 17.49196
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2024-01-15",
+    "value": 0.23832,
+    "value_": 23.83205
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2025-01-15",
+    "value": 0.21598,
+    "value_": 21.5978
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2026-01-15",
+    "value": 0.16005,
+    "value_": 16.00504
   },
   {
     "geoid": "45300",
@@ -2742,6 +3302,62 @@
     "date": "2026-01-15",
     "value": 0.28298,
     "value_": 28.2984
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2019-01-15",
+    "value": 0.23111,
+    "value_": 23.11089
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2020-01-15",
+    "value": 0.2536,
+    "value_": 25.36002
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2021-01-15",
+    "value": 0.41108,
+    "value_": 41.10811
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2022-01-15",
+    "value": 0.39306,
+    "value_": 39.30609
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2023-01-15",
+    "value": 0.25017,
+    "value_": 25.0173
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2024-01-15",
+    "value": 0.29942,
+    "value_": 29.94216
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2025-01-15",
+    "value": 0.30651,
+    "value_": 30.65074
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2026-01-15",
+    "value": 0.24295,
+    "value_": 24.29478
   },
   {
     "geoid": "51013",
@@ -3531,57 +4147,57 @@
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2019-01-15",
-    "value": 0.17113,
-    "value_": 17.11314
+    "value": 0.17808,
+    "value_": 17.80787
   },
   {
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2020-01-15",
-    "value": 0.18605,
-    "value_": 18.60473
+    "value": 0.19268,
+    "value_": 19.26766
   },
   {
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2021-01-15",
-    "value": 0.33364,
-    "value_": 33.36401
+    "value": 0.33071,
+    "value_": 33.07125
   },
   {
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2022-01-15",
-    "value": 0.42715,
-    "value_": 42.7149
+    "value": 0.41634,
+    "value_": 41.63392
   },
   {
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2023-01-15",
-    "value": 0.19704,
-    "value_": 19.70398
+    "value": 0.20403,
+    "value_": 20.40252
   },
   {
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2024-01-15",
-    "value": 0.21772,
-    "value_": 21.77203
+    "value": 0.23384,
+    "value_": 23.38419
   },
   {
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2025-01-15",
-    "value": 0.20062,
-    "value_": 20.06222
+    "value": 0.21861,
+    "value_": 21.86115
   },
   {
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2026-01-15",
-    "value": 0.18969,
-    "value_": 18.96857
+    "value": 0.20194,
+    "value_": 20.19434
   },
   {
     "geoid": "99999",
@@ -3920,6 +4536,62 @@
     "value_": 20.11494
   },
   {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2019-02-15",
+    "value": 0.27061,
+    "value_": 27.06072
+  },
+  {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2020-02-15",
+    "value": 0.29155,
+    "value_": 29.15464
+  },
+  {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2021-02-15",
+    "value": 0.44367,
+    "value_": 44.36702
+  },
+  {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2022-02-15",
+    "value": 0.54089,
+    "value_": 54.08947
+  },
+  {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2023-02-15",
+    "value": 0.39703,
+    "value_": 39.70346
+  },
+  {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2024-02-15",
+    "value": 0.47039,
+    "value_": 47.03929
+  },
+  {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2025-02-15",
+    "value": 0.45014,
+    "value_": 45.01362
+  },
+  {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2026-02-15",
+    "value": 0.367,
+    "value_": 36.69994
+  },
+  {
     "geoid": "15380",
     "key": "homes-sold-above-list",
     "date": "2019-02-15",
@@ -4030,6 +4702,62 @@
     "date": "2026-02-15",
     "value": 0.15554,
     "value_": 15.55375
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2019-02-15",
+    "value": 0.17142,
+    "value_": 17.14169
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2020-02-15",
+    "value": 0.15881,
+    "value_": 15.88056
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2021-02-15",
+    "value": 0.26296,
+    "value_": 26.29587
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2022-02-15",
+    "value": 0.35098,
+    "value_": 35.09848
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2023-02-15",
+    "value": 0.27673,
+    "value_": 27.67339
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2024-02-15",
+    "value": 0.35419,
+    "value_": 35.41899
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2025-02-15",
+    "value": 0.34227,
+    "value_": 34.22699
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2026-02-15",
+    "value": 0.32832,
+    "value_": 32.83184
   },
   {
     "geoid": "17140",
@@ -4200,6 +4928,62 @@
     "value_": 22.3917
   },
   {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2019-02-15",
+    "value": 0.15313,
+    "value_": 15.3125
+  },
+  {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2020-02-15",
+    "value": 0.15316,
+    "value_": 15.31569
+  },
+  {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2021-02-15",
+    "value": 0.39132,
+    "value_": 39.13239
+  },
+  {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2022-02-15",
+    "value": 0.59098,
+    "value_": 59.09801
+  },
+  {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2023-02-15",
+    "value": 0.17664,
+    "value_": 17.66382
+  },
+  {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2024-02-15",
+    "value": 0.17416,
+    "value_": 17.41635
+  },
+  {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2025-02-15",
+    "value": 0.13304,
+    "value_": 13.30443
+  },
+  {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2026-02-15",
+    "value": 0.11624,
+    "value_": 11.62385
+  },
+  {
     "geoid": "19740",
     "key": "homes-sold-above-list",
     "date": "2019-02-15",
@@ -4254,6 +5038,62 @@
     "date": "2026-02-15",
     "value": 0.22806,
     "value_": 22.80578
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2019-02-15",
+    "value": 0.16245,
+    "value_": 16.24521
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2020-02-15",
+    "value": 0.18671,
+    "value_": 18.67133
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2021-02-15",
+    "value": 0.34794,
+    "value_": 34.79434
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2022-02-15",
+    "value": 0.42545,
+    "value_": 42.54545
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2023-02-15",
+    "value": 0.26384,
+    "value_": 26.38436
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2024-02-15",
+    "value": 0.3174,
+    "value_": 31.7401
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2025-02-15",
+    "value": 0.29799,
+    "value_": 29.7992
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2026-02-15",
+    "value": 0.31384,
+    "value_": 31.38435
   },
   {
     "geoid": "23420",
@@ -4928,6 +5768,62 @@
     "value_": 15.41992
   },
   {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2019-02-15",
+    "value": 0.31258,
+    "value_": 31.25801
+  },
+  {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2020-02-15",
+    "value": 0.39269,
+    "value_": 39.26857
+  },
+  {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2021-02-15",
+    "value": 0.51003,
+    "value_": 51.00258
+  },
+  {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2022-02-15",
+    "value": 0.61983,
+    "value_": 61.98294
+  },
+  {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2023-02-15",
+    "value": 0.35317,
+    "value_": 35.31707
+  },
+  {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2024-02-15",
+    "value": 0.45012,
+    "value_": 45.01209
+  },
+  {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2025-02-15",
+    "value": 0.40651,
+    "value_": 40.65064
+  },
+  {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2026-02-15",
+    "value": 0.36414,
+    "value_": 36.41371
+  },
+  {
     "geoid": "31140",
     "key": "homes-sold-above-list",
     "date": "2019-02-15",
@@ -5038,6 +5934,62 @@
     "date": "2026-02-15",
     "value": 0.12363,
     "value_": 12.36324
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2019-02-15",
+    "value": 0.08407,
+    "value_": 8.40685
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2020-02-15",
+    "value": 0.08694,
+    "value_": 8.69352
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2021-02-15",
+    "value": 0.11194,
+    "value_": 11.19403
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2022-02-15",
+    "value": 0.2071,
+    "value_": 20.71026
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2023-02-15",
+    "value": 0.11117,
+    "value_": 11.11711
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2024-02-15",
+    "value": 0.12218,
+    "value_": 12.21794
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2025-02-15",
+    "value": 0.07505,
+    "value_": 7.50481
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2026-02-15",
+    "value": 0.07235,
+    "value_": 7.23454
   },
   {
     "geoid": "33340",
@@ -5208,6 +6160,62 @@
     "value_": 11.8579
   },
   {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2019-02-15",
+    "value": 0.15978,
+    "value_": 15.97776
+  },
+  {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2020-02-15",
+    "value": 0.1525,
+    "value_": 15.24978
+  },
+  {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2021-02-15",
+    "value": 0.15131,
+    "value_": 15.13053
+  },
+  {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2022-02-15",
+    "value": 0.22896,
+    "value_": 22.89562
+  },
+  {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2023-02-15",
+    "value": 0.18904,
+    "value_": 18.90403
+  },
+  {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2024-02-15",
+    "value": 0.24671,
+    "value_": 24.67096
+  },
+  {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2025-02-15",
+    "value": 0.2651,
+    "value_": 26.51025
+  },
+  {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2026-02-15",
+    "value": 0.24843,
+    "value_": 24.84313
+  },
+  {
     "geoid": "36420",
     "key": "homes-sold-above-list",
     "date": "2019-02-15",
@@ -5374,6 +6382,62 @@
     "date": "2026-02-15",
     "value": 0.12049,
     "value_": 12.04912
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2019-02-15",
+    "value": 0.1479,
+    "value_": 14.79029
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2020-02-15",
+    "value": 0.18072,
+    "value_": 18.07229
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2021-02-15",
+    "value": 0.24784,
+    "value_": 24.78386
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2022-02-15",
+    "value": 0.29236,
+    "value_": 29.23588
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2023-02-15",
+    "value": 0.20435,
+    "value_": 20.43512
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2024-02-15",
+    "value": 0.23428,
+    "value_": 23.42767
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2025-02-15",
+    "value": 0.25041,
+    "value_": 25.04065
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2026-02-15",
+    "value": 0.22544,
+    "value_": 22.54386
   },
   {
     "geoid": "38060",
@@ -6104,6 +7168,62 @@
     "value_": 33.56322
   },
   {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2019-02-15",
+    "value": 0.59308,
+    "value_": 59.30807
+  },
+  {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2020-02-15",
+    "value": 0.5888,
+    "value_": 58.88
+  },
+  {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2021-02-15",
+    "value": 0.50227,
+    "value_": 50.22676
+  },
+  {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2022-02-15",
+    "value": 0.72821,
+    "value_": 72.82051
+  },
+  {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2023-02-15",
+    "value": 0.36628,
+    "value_": 36.62791
+  },
+  {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2024-02-15",
+    "value": 0.4855,
+    "value_": 48.54962
+  },
+  {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2025-02-15",
+    "value": 0.57638,
+    "value_": 57.6378
+  },
+  {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2026-02-15",
+    "value": 0.61194,
+    "value_": 61.19403
+  },
+  {
     "geoid": "41940",
     "key": "homes-sold-above-list",
     "date": "2019-02-15",
@@ -6158,6 +7278,62 @@
     "date": "2026-02-15",
     "value": 0.60412,
     "value_": 60.41162
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2019-02-15",
+    "value": 0.23965,
+    "value_": 23.96491
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2020-02-15",
+    "value": 0.37001,
+    "value_": 37.00101
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2021-02-15",
+    "value": 0.54356,
+    "value_": 54.35606
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2022-02-15",
+    "value": 0.65331,
+    "value_": 65.33088
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2023-02-15",
+    "value": 0.25921,
+    "value_": 25.92087
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2024-02-15",
+    "value": 0.36465,
+    "value_": 36.46483
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2025-02-15",
+    "value": 0.35478,
+    "value_": 35.47826
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2026-02-15",
+    "value": 0.25577,
+    "value_": 25.57701
   },
   {
     "geoid": "45300",
@@ -6382,6 +7558,62 @@
     "date": "2026-02-15",
     "value": 0.31469,
     "value_": 31.46936
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2019-02-15",
+    "value": 0.27538,
+    "value_": 27.53798
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2020-02-15",
+    "value": 0.32781,
+    "value_": 32.78073
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2021-02-15",
+    "value": 0.45548,
+    "value_": 45.54814
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2022-02-15",
+    "value": 0.51112,
+    "value_": 51.11203
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2023-02-15",
+    "value": 0.32435,
+    "value_": 32.43471
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2024-02-15",
+    "value": 0.39455,
+    "value_": 39.45465
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2025-02-15",
+    "value": 0.38608,
+    "value_": 38.60797
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2026-02-15",
+    "value": 0.31954,
+    "value_": 31.95389
   },
   {
     "geoid": "51013",
@@ -7171,57 +8403,57 @@
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2019-02-15",
-    "value": 0.18804,
-    "value_": 18.804
+    "value": 0.19448,
+    "value_": 19.44766
   },
   {
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2020-02-15",
-    "value": 0.21247,
-    "value_": 21.2467
+    "value": 0.21987,
+    "value_": 21.98676
   },
   {
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2021-02-15",
-    "value": 0.36757,
-    "value_": 36.7572
+    "value": 0.36346,
+    "value_": 36.3461
   },
   {
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2022-02-15",
-    "value": 0.47289,
-    "value_": 47.28874
+    "value": 0.46557,
+    "value_": 46.55662
   },
   {
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2023-02-15",
-    "value": 0.2216,
-    "value_": 22.16017
+    "value": 0.23043,
+    "value_": 23.04266
   },
   {
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2024-02-15",
-    "value": 0.23739,
-    "value_": 23.73905
+    "value": 0.25718,
+    "value_": 25.71811
   },
   {
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2025-02-15",
-    "value": 0.21862,
-    "value_": 21.86162
+    "value": 0.24069,
+    "value_": 24.06923
   },
   {
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2026-02-15",
-    "value": 0.20564,
-    "value_": 20.56401
+    "value": 0.22194,
+    "value_": 22.19366
   },
   {
     "geoid": "99999",
@@ -7560,6 +8792,62 @@
     "value_": 20.32838
   },
   {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2019-03-15",
+    "value": 0.33464,
+    "value_": 33.46397
+  },
+  {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2020-03-15",
+    "value": 0.40961,
+    "value_": 40.96089
+  },
+  {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2021-03-15",
+    "value": 0.54836,
+    "value_": 54.83607
+  },
+  {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2022-03-15",
+    "value": 0.65395,
+    "value_": 65.39535
+  },
+  {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2023-03-15",
+    "value": 0.46018,
+    "value_": 46.01803
+  },
+  {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2024-03-15",
+    "value": 0.50588,
+    "value_": 50.58776
+  },
+  {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2025-03-15",
+    "value": 0.51764,
+    "value_": 51.76367
+  },
+  {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2026-03-15",
+    "value": 0.4153,
+    "value_": 41.52957
+  },
+  {
     "geoid": "15380",
     "key": "homes-sold-above-list",
     "date": "2019-03-15",
@@ -7670,6 +8958,62 @@
     "date": "2026-03-15",
     "value": 0.17685,
     "value_": 17.68479
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2019-03-15",
+    "value": 0.19237,
+    "value_": 19.23686
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2020-03-15",
+    "value": 0.18616,
+    "value_": 18.61628
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2021-03-15",
+    "value": 0.31669,
+    "value_": 31.66935
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2022-03-15",
+    "value": 0.43073,
+    "value_": 43.0729
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2023-03-15",
+    "value": 0.34089,
+    "value_": 34.08891
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2024-03-15",
+    "value": 0.40623,
+    "value_": 40.62341
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2025-03-15",
+    "value": 0.40014,
+    "value_": 40.01392
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2026-03-15",
+    "value": 0.40126,
+    "value_": 40.12576
   },
   {
     "geoid": "17140",
@@ -7840,6 +9184,62 @@
     "value_": 27.83608
   },
   {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2019-03-15",
+    "value": 0.16028,
+    "value_": 16.02762
+  },
+  {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2020-03-15",
+    "value": 0.17975,
+    "value_": 17.97481
+  },
+  {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2021-03-15",
+    "value": 0.44598,
+    "value_": 44.59797
+  },
+  {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2022-03-15",
+    "value": 0.65773,
+    "value_": 65.77263
+  },
+  {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2023-03-15",
+    "value": 0.2331,
+    "value_": 23.3101
+  },
+  {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2024-03-15",
+    "value": 0.19438,
+    "value_": 19.43758
+  },
+  {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2025-03-15",
+    "value": 0.15063,
+    "value_": 15.06332
+  },
+  {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2026-03-15",
+    "value": 0.14498,
+    "value_": 14.49821
+  },
+  {
     "geoid": "19740",
     "key": "homes-sold-above-list",
     "date": "2019-03-15",
@@ -7894,6 +9294,62 @@
     "date": "2026-03-15",
     "value": 0.27768,
     "value_": 27.76765
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2019-03-15",
+    "value": 0.2,
+    "value_": 20
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2020-03-15",
+    "value": 0.23108,
+    "value_": 23.10757
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2021-03-15",
+    "value": 0.3661,
+    "value_": 36.61017
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2022-03-15",
+    "value": 0.4567,
+    "value_": 45.66975
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2023-03-15",
+    "value": 0.3094,
+    "value_": 30.93956
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2024-03-15",
+    "value": 0.38066,
+    "value_": 38.06584
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2025-03-15",
+    "value": 0.33094,
+    "value_": 33.09353
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2026-03-15",
+    "value": 0.30978,
+    "value_": 30.97826
   },
   {
     "geoid": "23420",
@@ -8568,6 +10024,62 @@
     "value_": 17.73859
   },
   {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2019-03-15",
+    "value": 0.33048,
+    "value_": 33.04849
+  },
+  {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2020-03-15",
+    "value": 0.45006,
+    "value_": 45.00578
+  },
+  {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2021-03-15",
+    "value": 0.56236,
+    "value_": 56.23596
+  },
+  {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2022-03-15",
+    "value": 0.68289,
+    "value_": 68.28935
+  },
+  {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2023-03-15",
+    "value": 0.40717,
+    "value_": 40.71683
+  },
+  {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2024-03-15",
+    "value": 0.4774,
+    "value_": 47.73956
+  },
+  {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2025-03-15",
+    "value": 0.43568,
+    "value_": 43.56775
+  },
+  {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2026-03-15",
+    "value": 0.39609,
+    "value_": 39.60886
+  },
+  {
     "geoid": "31140",
     "key": "homes-sold-above-list",
     "date": "2019-03-15",
@@ -8678,6 +10190,62 @@
     "date": "2026-03-15",
     "value": 0.13321,
     "value_": 13.32117
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2019-03-15",
+    "value": 0.07205,
+    "value_": 7.20541
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2020-03-15",
+    "value": 0.08549,
+    "value_": 8.54932
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2021-03-15",
+    "value": 0.11598,
+    "value_": 11.5982
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2022-03-15",
+    "value": 0.2644,
+    "value_": 26.43979
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2023-03-15",
+    "value": 0.13383,
+    "value_": 13.3829
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2024-03-15",
+    "value": 0.12412,
+    "value_": 12.41228
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2025-03-15",
+    "value": 0.0844,
+    "value_": 8.44037
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2026-03-15",
+    "value": 0.08703,
+    "value_": 8.70337
   },
   {
     "geoid": "33340",
@@ -8848,6 +10416,62 @@
     "value_": 12.52805
   },
   {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2019-03-15",
+    "value": 0.14969,
+    "value_": 14.96945
+  },
+  {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2020-03-15",
+    "value": 0.15475,
+    "value_": 15.47479
+  },
+  {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2021-03-15",
+    "value": 0.18359,
+    "value_": 18.35926
+  },
+  {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2022-03-15",
+    "value": 0.25331,
+    "value_": 25.33095
+  },
+  {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2023-03-15",
+    "value": 0.21685,
+    "value_": 21.68455
+  },
+  {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2024-03-15",
+    "value": 0.27369,
+    "value_": 27.36898
+  },
+  {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2025-03-15",
+    "value": 0.26789,
+    "value_": 26.78922
+  },
+  {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2026-03-15",
+    "value": 0.26359,
+    "value_": 26.3589
+  },
+  {
     "geoid": "36420",
     "key": "homes-sold-above-list",
     "date": "2019-03-15",
@@ -9014,6 +10638,62 @@
     "date": "2026-03-15",
     "value": 0.12032,
     "value_": 12.03168
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2019-03-15",
+    "value": 0.1588,
+    "value_": 15.88007
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2020-03-15",
+    "value": 0.18287,
+    "value_": 18.28729
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2021-03-15",
+    "value": 0.28553,
+    "value_": 28.55252
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2022-03-15",
+    "value": 0.32765,
+    "value_": 32.76492
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2023-03-15",
+    "value": 0.25677,
+    "value_": 25.6772
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2024-03-15",
+    "value": 0.29369,
+    "value_": 29.36893
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2025-03-15",
+    "value": 0.29178,
+    "value_": 29.17755
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2026-03-15",
+    "value": 0.25458,
+    "value_": 25.45839
   },
   {
     "geoid": "38060",
@@ -9744,6 +11424,62 @@
     "value_": 37.35687
   },
   {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2019-03-15",
+    "value": 0.59865,
+    "value_": 59.86471
+  },
+  {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2020-03-15",
+    "value": 0.65839,
+    "value_": 65.83924
+  },
+  {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2021-03-15",
+    "value": 0.59088,
+    "value_": 59.08756
+  },
+  {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2022-03-15",
+    "value": 0.75248,
+    "value_": 75.24752
+  },
+  {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2023-03-15",
+    "value": 0.44678,
+    "value_": 44.67822
+  },
+  {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2024-03-15",
+    "value": 0.55628,
+    "value_": 55.62827
+  },
+  {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2025-03-15",
+    "value": 0.60956,
+    "value_": 60.95571
+  },
+  {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2026-03-15",
+    "value": 0.67991,
+    "value_": 67.99117
+  },
+  {
     "geoid": "41940",
     "key": "homes-sold-above-list",
     "date": "2019-03-15",
@@ -9798,6 +11534,62 @@
     "date": "2026-03-15",
     "value": 0.63964,
     "value_": 63.96396
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2019-03-15",
+    "value": 0.28777,
+    "value_": 28.77741
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2020-03-15",
+    "value": 0.46174,
+    "value_": 46.17414
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2021-03-15",
+    "value": 0.61262,
+    "value_": 61.26227
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2022-03-15",
+    "value": 0.7258,
+    "value_": 72.57992
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2023-03-15",
+    "value": 0.33171,
+    "value_": 33.17141
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2024-03-15",
+    "value": 0.42535,
+    "value_": 42.53491
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2025-03-15",
+    "value": 0.36521,
+    "value_": 36.52114
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2026-03-15",
+    "value": 0.30335,
+    "value_": 30.33547
   },
   {
     "geoid": "45300",
@@ -10022,6 +11814,62 @@
     "date": "2026-03-15",
     "value": 0.33364,
     "value_": 33.36397
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2019-03-15",
+    "value": 0.31532,
+    "value_": 31.53169
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2020-03-15",
+    "value": 0.4045,
+    "value_": 40.4498
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2021-03-15",
+    "value": 0.52903,
+    "value_": 52.90313
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2022-03-15",
+    "value": 0.58294,
+    "value_": 58.29448
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2023-03-15",
+    "value": 0.40279,
+    "value_": 40.27927
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2024-03-15",
+    "value": 0.4628,
+    "value_": 46.2804
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2025-03-15",
+    "value": 0.41226,
+    "value_": 41.2257
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2026-03-15",
+    "value": 0.35919,
+    "value_": 35.91894
   },
   {
     "geoid": "51013",
@@ -10811,57 +12659,57 @@
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2019-03-15",
-    "value": 0.20681,
-    "value_": 20.68079
+    "value": 0.21443,
+    "value_": 21.44341
   },
   {
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2020-03-15",
-    "value": 0.25128,
-    "value_": 25.12844
+    "value": 0.26149,
+    "value_": 26.14879
   },
   {
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2021-03-15",
-    "value": 0.43269,
-    "value_": 43.26911
+    "value": 0.4259,
+    "value_": 42.5897
   },
   {
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2022-03-15",
-    "value": 0.53576,
-    "value_": 53.57648
+    "value": 0.53006,
+    "value_": 53.00614
   },
   {
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2023-03-15",
-    "value": 0.26514,
-    "value_": 26.51449
+    "value": 0.27803,
+    "value_": 27.80334
   },
   {
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2024-03-15",
-    "value": 0.27274,
-    "value_": 27.27416
+    "value": 0.29478,
+    "value_": 29.47808
   },
   {
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2025-03-15",
-    "value": 0.24107,
-    "value_": 24.1069
+    "value": 0.26436,
+    "value_": 26.43646
   },
   {
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2026-03-15",
-    "value": 0.23105,
-    "value_": 23.10549
+    "value": 0.25086,
+    "value_": 25.08631
   },
   {
     "geoid": "99999",
@@ -11165,6 +13013,55 @@
     "value_": 24.48378
   },
   {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2019-04-15",
+    "value": 0.38654,
+    "value_": 38.65369
+  },
+  {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2020-04-15",
+    "value": 0.46363,
+    "value_": 46.36278
+  },
+  {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2021-04-15",
+    "value": 0.61266,
+    "value_": 61.26629
+  },
+  {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2022-04-15",
+    "value": 0.7241,
+    "value_": 72.40997
+  },
+  {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2023-04-15",
+    "value": 0.54909,
+    "value_": 54.90881
+  },
+  {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2024-04-15",
+    "value": 0.59518,
+    "value_": 59.51815
+  },
+  {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2025-04-15",
+    "value": 0.57824,
+    "value_": 57.82383
+  },
+  {
     "geoid": "15380",
     "key": "homes-sold-above-list",
     "date": "2019-04-15",
@@ -11261,6 +13158,55 @@
     "date": "2025-04-15",
     "value": 0.22157,
     "value_": 22.1567
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2019-04-15",
+    "value": 0.20252,
+    "value_": 20.25198
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2020-04-15",
+    "value": 0.1954,
+    "value_": 19.54023
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2021-04-15",
+    "value": 0.38671,
+    "value_": 38.67098
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2022-04-15",
+    "value": 0.49418,
+    "value_": 49.41793
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2023-04-15",
+    "value": 0.41345,
+    "value_": 41.34471
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2024-04-15",
+    "value": 0.46363,
+    "value_": 46.363
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2025-04-15",
+    "value": 0.45336,
+    "value_": 45.33588
   },
   {
     "geoid": "17140",
@@ -11410,6 +13356,55 @@
     "value_": 36.99346
   },
   {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2019-04-15",
+    "value": 0.19107,
+    "value_": 19.10744
+  },
+  {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2020-04-15",
+    "value": 0.20004,
+    "value_": 20.00409
+  },
+  {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2021-04-15",
+    "value": 0.54745,
+    "value_": 54.74521
+  },
+  {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2022-04-15",
+    "value": 0.71453,
+    "value_": 71.45326
+  },
+  {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2023-04-15",
+    "value": 0.2889,
+    "value_": 28.89015
+  },
+  {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2024-04-15",
+    "value": 0.22745,
+    "value_": 22.74469
+  },
+  {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2025-04-15",
+    "value": 0.17035,
+    "value_": 17.03544
+  },
+  {
     "geoid": "19740",
     "key": "homes-sold-above-list",
     "date": "2019-04-15",
@@ -11457,6 +13452,55 @@
     "date": "2025-04-15",
     "value": 0.28946,
     "value_": 28.94609
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2019-04-15",
+    "value": 0.22517,
+    "value_": 22.51656
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2020-04-15",
+    "value": 0.26864,
+    "value_": 26.86424
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2021-04-15",
+    "value": 0.48601,
+    "value_": 48.60121
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2022-04-15",
+    "value": 0.51433,
+    "value_": 51.43321
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2023-04-15",
+    "value": 0.39714,
+    "value_": 39.7139
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2024-04-15",
+    "value": 0.40629,
+    "value_": 40.62878
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2025-04-15",
+    "value": 0.39714,
+    "value_": 39.71411
   },
   {
     "geoid": "23420",
@@ -12047,6 +14091,55 @@
     "value_": 18.93324
   },
   {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2019-04-15",
+    "value": 0.36962,
+    "value_": 36.96156
+  },
+  {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2020-04-15",
+    "value": 0.45843,
+    "value_": 45.84311
+  },
+  {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2021-04-15",
+    "value": 0.61653,
+    "value_": 61.65333
+  },
+  {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2022-04-15",
+    "value": 0.68903,
+    "value_": 68.90349
+  },
+  {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2023-04-15",
+    "value": 0.46365,
+    "value_": 46.36502
+  },
+  {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2024-04-15",
+    "value": 0.51243,
+    "value_": 51.24266
+  },
+  {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2025-04-15",
+    "value": 0.44111,
+    "value_": 44.11071
+  },
+  {
     "geoid": "31140",
     "key": "homes-sold-above-list",
     "date": "2019-04-15",
@@ -12143,6 +14236,55 @@
     "date": "2025-04-15",
     "value": 0.16299,
     "value_": 16.29855
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2019-04-15",
+    "value": 0.07912,
+    "value_": 7.9124
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2020-04-15",
+    "value": 0.0941,
+    "value_": 9.4097
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2021-04-15",
+    "value": 0.14702,
+    "value_": 14.70174
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2022-04-15",
+    "value": 0.29679,
+    "value_": 29.67914
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2023-04-15",
+    "value": 0.16168,
+    "value_": 16.16842
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2024-04-15",
+    "value": 0.12411,
+    "value_": 12.41135
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2025-04-15",
+    "value": 0.07964,
+    "value_": 7.96418
   },
   {
     "geoid": "33340",
@@ -12292,6 +14434,55 @@
     "value_": 15.69038
   },
   {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2019-04-15",
+    "value": 0.17043,
+    "value_": 17.04324
+  },
+  {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2020-04-15",
+    "value": 0.18244,
+    "value_": 18.24413
+  },
+  {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2021-04-15",
+    "value": 0.21715,
+    "value_": 21.71463
+  },
+  {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2022-04-15",
+    "value": 0.30418,
+    "value_": 30.41775
+  },
+  {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2023-04-15",
+    "value": 0.23235,
+    "value_": 23.23457
+  },
+  {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2024-04-15",
+    "value": 0.29642,
+    "value_": 29.64169
+  },
+  {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2025-04-15",
+    "value": 0.30807,
+    "value_": 30.8069
+  },
+  {
     "geoid": "36420",
     "key": "homes-sold-above-list",
     "date": "2019-04-15",
@@ -12437,6 +14628,55 @@
     "date": "2025-04-15",
     "value": 0.12464,
     "value_": 12.46427
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2019-04-15",
+    "value": 0.19281,
+    "value_": 19.28105
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2020-04-15",
+    "value": 0.22446,
+    "value_": 22.44624
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2021-04-15",
+    "value": 0.32324,
+    "value_": 32.32363
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2022-04-15",
+    "value": 0.39272,
+    "value_": 39.27211
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2023-04-15",
+    "value": 0.28,
+    "value_": 28
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2024-04-15",
+    "value": 0.30769,
+    "value_": 30.76923
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2025-04-15",
+    "value": 0.30075,
+    "value_": 30.07476
   },
   {
     "geoid": "38060",
@@ -13076,6 +15316,55 @@
     "value_": 39.95708
   },
   {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2019-04-15",
+    "value": 0.64507,
+    "value_": 64.5073
+  },
+  {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2020-04-15",
+    "value": 0.62573,
+    "value_": 62.5731
+  },
+  {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2021-04-15",
+    "value": 0.63267,
+    "value_": 63.26662
+  },
+  {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2022-04-15",
+    "value": 0.76682,
+    "value_": 76.68196
+  },
+  {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2023-04-15",
+    "value": 0.47214,
+    "value_": 47.21448
+  },
+  {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2024-04-15",
+    "value": 0.59752,
+    "value_": 59.75232
+  },
+  {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2025-04-15",
+    "value": 0.60634,
+    "value_": 60.63395
+  },
+  {
     "geoid": "41940",
     "key": "homes-sold-above-list",
     "date": "2019-04-15",
@@ -13123,6 +15412,55 @@
     "date": "2025-04-15",
     "value": 0.67206,
     "value_": 67.20648
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2019-04-15",
+    "value": 0.36453,
+    "value_": 36.45285
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2020-04-15",
+    "value": 0.48502,
+    "value_": 48.50181
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2021-04-15",
+    "value": 0.67384,
+    "value_": 67.38351
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2022-04-15",
+    "value": 0.73892,
+    "value_": 73.89206
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2023-04-15",
+    "value": 0.40051,
+    "value_": 40.0514
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2024-04-15",
+    "value": 0.48685,
+    "value_": 48.68503
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2025-04-15",
+    "value": 0.40723,
+    "value_": 40.72327
   },
   {
     "geoid": "45300",
@@ -13319,6 +15657,55 @@
     "date": "2025-04-15",
     "value": 0.3892,
     "value_": 38.91985
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2019-04-15",
+    "value": 0.35696,
+    "value_": 35.69631
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2020-04-15",
+    "value": 0.40907,
+    "value_": 40.90749
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2021-04-15",
+    "value": 0.56413,
+    "value_": 56.41337
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2022-04-15",
+    "value": 0.62061,
+    "value_": 62.06052
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2023-04-15",
+    "value": 0.46546,
+    "value_": 46.54584
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2024-04-15",
+    "value": 0.50429,
+    "value_": 50.42918
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2025-04-15",
+    "value": 0.42831,
+    "value_": 42.83114
   },
   {
     "geoid": "51013",
@@ -14010,50 +16397,50 @@
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2019-04-15",
-    "value": 0.23105,
-    "value_": 23.10542
+    "value": 0.24166,
+    "value_": 24.16587
   },
   {
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2020-04-15",
-    "value": 0.28037,
-    "value_": 28.03695
+    "value": 0.2877,
+    "value_": 28.76961
   },
   {
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2021-04-15",
-    "value": 0.49796,
-    "value_": 49.79616
+    "value": 0.49034,
+    "value_": 49.03369
   },
   {
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2022-04-15",
-    "value": 0.57918,
-    "value_": 57.91773
+    "value": 0.57486,
+    "value_": 57.48569
   },
   {
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2023-04-15",
-    "value": 0.31119,
-    "value_": 31.11894
+    "value": 0.3272,
+    "value_": 32.71996
   },
   {
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2024-04-15",
-    "value": 0.30078,
-    "value_": 30.0784
+    "value": 0.32812,
+    "value_": 32.81198
   },
   {
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2025-04-15",
-    "value": 0.26777,
-    "value_": 26.77739
+    "value": 0.29445,
+    "value_": 29.44541
   },
   {
     "geoid": "99999",
@@ -14350,6 +16737,55 @@
     "value_": 26.72357
   },
   {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2019-05-15",
+    "value": 0.4417,
+    "value_": 44.16982
+  },
+  {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2020-05-15",
+    "value": 0.42294,
+    "value_": 42.29402
+  },
+  {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2021-05-15",
+    "value": 0.66694,
+    "value_": 66.69396
+  },
+  {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2022-05-15",
+    "value": 0.74729,
+    "value_": 74.72916
+  },
+  {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2023-05-15",
+    "value": 0.60747,
+    "value_": 60.74739
+  },
+  {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2024-05-15",
+    "value": 0.62944,
+    "value_": 62.9436
+  },
+  {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2025-05-15",
+    "value": 0.58269,
+    "value_": 58.26877
+  },
+  {
     "geoid": "15380",
     "key": "homes-sold-above-list",
     "date": "2019-05-15",
@@ -14446,6 +16882,55 @@
     "date": "2025-05-15",
     "value": 0.21257,
     "value_": 21.25654
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2019-05-15",
+    "value": 0.21027,
+    "value_": 21.02668
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2020-05-15",
+    "value": 0.18351,
+    "value_": 18.35094
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2021-05-15",
+    "value": 0.44774,
+    "value_": 44.77393
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2022-05-15",
+    "value": 0.53127,
+    "value_": 53.12714
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2023-05-15",
+    "value": 0.47069,
+    "value_": 47.06855
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2024-05-15",
+    "value": 0.48395,
+    "value_": 48.39494
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2025-05-15",
+    "value": 0.47386,
+    "value_": 47.38606
   },
   {
     "geoid": "17140",
@@ -14595,6 +17080,55 @@
     "value_": 36.88818
   },
   {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2019-05-15",
+    "value": 0.18731,
+    "value_": 18.73061
+  },
+  {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2020-05-15",
+    "value": 0.17837,
+    "value_": 17.83689
+  },
+  {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2021-05-15",
+    "value": 0.62706,
+    "value_": 62.70607
+  },
+  {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2022-05-15",
+    "value": 0.71658,
+    "value_": 71.65759
+  },
+  {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2023-05-15",
+    "value": 0.30821,
+    "value_": 30.82148
+  },
+  {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2024-05-15",
+    "value": 0.22316,
+    "value_": 22.31638
+  },
+  {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2025-05-15",
+    "value": 0.15702,
+    "value_": 15.70195
+  },
+  {
     "geoid": "19740",
     "key": "homes-sold-above-list",
     "date": "2019-05-15",
@@ -14642,6 +17176,55 @@
     "date": "2025-05-15",
     "value": 0.28321,
     "value_": 28.32086
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2019-05-15",
+    "value": 0.27102,
+    "value_": 27.10235
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2020-05-15",
+    "value": 0.21377,
+    "value_": 21.37681
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2021-05-15",
+    "value": 0.51633,
+    "value_": 51.63297
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2022-05-15",
+    "value": 0.5233,
+    "value_": 52.33029
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2023-05-15",
+    "value": 0.46209,
+    "value_": 46.20879
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2024-05-15",
+    "value": 0.43152,
+    "value_": 43.15217
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2025-05-15",
+    "value": 0.40729,
+    "value_": 40.72866
   },
   {
     "geoid": "23420",
@@ -15232,6 +17815,55 @@
     "value_": 19.44343
   },
   {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2019-05-15",
+    "value": 0.37798,
+    "value_": 37.79825
+  },
+  {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2020-05-15",
+    "value": 0.38954,
+    "value_": 38.95404
+  },
+  {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2021-05-15",
+    "value": 0.63242,
+    "value_": 63.24178
+  },
+  {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2022-05-15",
+    "value": 0.70316,
+    "value_": 70.31638
+  },
+  {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2023-05-15",
+    "value": 0.5081,
+    "value_": 50.80954
+  },
+  {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2024-05-15",
+    "value": 0.52337,
+    "value_": 52.33665
+  },
+  {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2025-05-15",
+    "value": 0.43287,
+    "value_": 43.28662
+  },
+  {
     "geoid": "31140",
     "key": "homes-sold-above-list",
     "date": "2019-05-15",
@@ -15328,6 +17960,55 @@
     "date": "2025-05-15",
     "value": 0.1371,
     "value_": 13.70968
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2019-05-15",
+    "value": 0.08572,
+    "value_": 8.57238
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2020-05-15",
+    "value": 0.07778,
+    "value_": 7.77778
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2021-05-15",
+    "value": 0.15866,
+    "value_": 15.86551
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2022-05-15",
+    "value": 0.32871,
+    "value_": 32.87146
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2023-05-15",
+    "value": 0.16189,
+    "value_": 16.189
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2024-05-15",
+    "value": 0.11885,
+    "value_": 11.88462
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2025-05-15",
+    "value": 0.07831,
+    "value_": 7.83104
   },
   {
     "geoid": "33340",
@@ -15477,6 +18158,55 @@
     "value_": 14.89431
   },
   {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2019-05-15",
+    "value": 0.17093,
+    "value_": 17.093
+  },
+  {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2020-05-15",
+    "value": 0.1942,
+    "value_": 19.41971
+  },
+  {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2021-05-15",
+    "value": 0.25568,
+    "value_": 25.5675
+  },
+  {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2022-05-15",
+    "value": 0.3239,
+    "value_": 32.39017
+  },
+  {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2023-05-15",
+    "value": 0.26415,
+    "value_": 26.41547
+  },
+  {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2024-05-15",
+    "value": 0.32205,
+    "value_": 32.20541
+  },
+  {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2025-05-15",
+    "value": 0.32972,
+    "value_": 32.97162
+  },
+  {
     "geoid": "36420",
     "key": "homes-sold-above-list",
     "date": "2019-05-15",
@@ -15622,6 +18352,55 @@
     "date": "2025-05-15",
     "value": 0.13477,
     "value_": 13.47694
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2019-05-15",
+    "value": 0.20535,
+    "value_": 20.53468
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2020-05-15",
+    "value": 0.18435,
+    "value_": 18.43525
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2021-05-15",
+    "value": 0.36719,
+    "value_": 36.71937
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2022-05-15",
+    "value": 0.39479,
+    "value_": 39.47888
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2023-05-15",
+    "value": 0.31604,
+    "value_": 31.60377
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2024-05-15",
+    "value": 0.33571,
+    "value_": 33.57143
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2025-05-15",
+    "value": 0.32086,
+    "value_": 32.08611
   },
   {
     "geoid": "38060",
@@ -16261,6 +19040,55 @@
     "value_": 38.28808
   },
   {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2019-05-15",
+    "value": 0.68253,
+    "value_": 68.2526
+  },
+  {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2020-05-15",
+    "value": 0.47217,
+    "value_": 47.21689
+  },
+  {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2021-05-15",
+    "value": 0.67498,
+    "value_": 67.49827
+  },
+  {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2022-05-15",
+    "value": 0.75305,
+    "value_": 75.30488
+  },
+  {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2023-05-15",
+    "value": 0.55664,
+    "value_": 55.66449
+  },
+  {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2024-05-15",
+    "value": 0.63408,
+    "value_": 63.40755
+  },
+  {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2025-05-15",
+    "value": 0.59322,
+    "value_": 59.32203
+  },
+  {
     "geoid": "41940",
     "key": "homes-sold-above-list",
     "date": "2019-05-15",
@@ -16308,6 +19136,55 @@
     "date": "2025-05-15",
     "value": 0.5964,
     "value_": 59.63964
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2019-05-15",
+    "value": 0.37643,
+    "value_": 37.64321
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2020-05-15",
+    "value": 0.36743,
+    "value_": 36.74342
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2021-05-15",
+    "value": 0.67495,
+    "value_": 67.49474
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2022-05-15",
+    "value": 0.6752,
+    "value_": 67.52013
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2023-05-15",
+    "value": 0.45037,
+    "value_": 45.03722
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2024-05-15",
+    "value": 0.47417,
+    "value_": 47.41667
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2025-05-15",
+    "value": 0.34246,
+    "value_": 34.24572
   },
   {
     "geoid": "45300",
@@ -16504,6 +19381,55 @@
     "date": "2025-05-15",
     "value": 0.38906,
     "value_": 38.90625
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2019-05-15",
+    "value": 0.36357,
+    "value_": 36.35682
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2020-05-15",
+    "value": 0.33303,
+    "value_": 33.30305
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2021-05-15",
+    "value": 0.61326,
+    "value_": 61.32642
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2022-05-15",
+    "value": 0.61064,
+    "value_": 61.06417
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2023-05-15",
+    "value": 0.50461,
+    "value_": 50.46063
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2024-05-15",
+    "value": 0.51981,
+    "value_": 51.98107
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2025-05-15",
+    "value": 0.4072,
+    "value_": 40.71966
   },
   {
     "geoid": "51013",
@@ -17195,50 +20121,50 @@
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2019-05-15",
-    "value": 0.24913,
-    "value_": 24.91267
+    "value": 0.25835,
+    "value_": 25.83505
   },
   {
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2020-05-15",
-    "value": 0.25732,
-    "value_": 25.73172
+    "value": 0.2596,
+    "value_": 25.95954
   },
   {
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2021-05-15",
-    "value": 0.53708,
-    "value_": 53.7084
+    "value": 0.53112,
+    "value_": 53.11206
   },
   {
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2022-05-15",
-    "value": 0.57847,
-    "value_": 57.84718
+    "value": 0.5772,
+    "value_": 57.72006
   },
   {
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2023-05-15",
-    "value": 0.34429,
-    "value_": 34.42901
+    "value": 0.36309,
+    "value_": 36.30899
   },
   {
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2024-05-15",
-    "value": 0.31233,
-    "value_": 31.23303
+    "value": 0.34073,
+    "value_": 34.07305
   },
   {
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2025-05-15",
-    "value": 0.27697,
-    "value_": 27.69717
+    "value": 0.30107,
+    "value_": 30.10661
   },
   {
     "geoid": "99999",
@@ -17535,6 +20461,55 @@
     "value_": 24.68227
   },
   {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2019-06-15",
+    "value": 0.44657,
+    "value_": 44.65715
+  },
+  {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2020-06-15",
+    "value": 0.41281,
+    "value_": 41.28062
+  },
+  {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2021-06-15",
+    "value": 0.71126,
+    "value_": 71.12632
+  },
+  {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2022-06-15",
+    "value": 0.73513,
+    "value_": 73.51295
+  },
+  {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2023-06-15",
+    "value": 0.64808,
+    "value_": 64.80821
+  },
+  {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2024-06-15",
+    "value": 0.61887,
+    "value_": 61.88725
+  },
+  {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2025-06-15",
+    "value": 0.56589,
+    "value_": 56.58897
+  },
+  {
     "geoid": "15380",
     "key": "homes-sold-above-list",
     "date": "2019-06-15",
@@ -17631,6 +20606,55 @@
     "date": "2025-06-15",
     "value": 0.19969,
     "value_": 19.9692
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2019-06-15",
+    "value": 0.20888,
+    "value_": 20.88814
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2020-06-15",
+    "value": 0.19688,
+    "value_": 19.68835
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2021-06-15",
+    "value": 0.46913,
+    "value_": 46.91311
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2022-06-15",
+    "value": 0.52725,
+    "value_": 52.72497
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2023-06-15",
+    "value": 0.49617,
+    "value_": 49.61657
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2024-06-15",
+    "value": 0.50275,
+    "value_": 50.27461
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2025-06-15",
+    "value": 0.48134,
+    "value_": 48.13396
   },
   {
     "geoid": "17140",
@@ -17780,6 +20804,55 @@
     "value_": 38.1997
   },
   {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2019-06-15",
+    "value": 0.1816,
+    "value_": 18.16034
+  },
+  {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2020-06-15",
+    "value": 0.20354,
+    "value_": 20.35374
+  },
+  {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2021-06-15",
+    "value": 0.64936,
+    "value_": 64.93631
+  },
+  {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2022-06-15",
+    "value": 0.64802,
+    "value_": 64.80172
+  },
+  {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2023-06-15",
+    "value": 0.30157,
+    "value_": 30.15722
+  },
+  {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2024-06-15",
+    "value": 0.18862,
+    "value_": 18.86173
+  },
+  {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2025-06-15",
+    "value": 0.1503,
+    "value_": 15.03003
+  },
+  {
     "geoid": "19740",
     "key": "homes-sold-above-list",
     "date": "2019-06-15",
@@ -17827,6 +20900,55 @@
     "date": "2025-06-15",
     "value": 0.246,
     "value_": 24.6001
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2019-06-15",
+    "value": 0.25602,
+    "value_": 25.60241
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2020-06-15",
+    "value": 0.2972,
+    "value_": 29.72028
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2021-06-15",
+    "value": 0.54381,
+    "value_": 54.38121
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2022-06-15",
+    "value": 0.54086,
+    "value_": 54.0856
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2023-06-15",
+    "value": 0.46629,
+    "value_": 46.62863
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2024-06-15",
+    "value": 0.45895,
+    "value_": 45.89532
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2025-06-15",
+    "value": 0.42444,
+    "value_": 42.44444
   },
   {
     "geoid": "23420",
@@ -18417,6 +21539,55 @@
     "value_": 17.13606
   },
   {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2019-06-15",
+    "value": 0.3897,
+    "value_": 38.96966
+  },
+  {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2020-06-15",
+    "value": 0.38068,
+    "value_": 38.06843
+  },
+  {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2021-06-15",
+    "value": 0.6453,
+    "value_": 64.53036
+  },
+  {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2022-06-15",
+    "value": 0.65902,
+    "value_": 65.90207
+  },
+  {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2023-06-15",
+    "value": 0.53056,
+    "value_": 53.05618
+  },
+  {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2024-06-15",
+    "value": 0.51552,
+    "value_": 51.55236
+  },
+  {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2025-06-15",
+    "value": 0.41465,
+    "value_": 41.46512
+  },
+  {
     "geoid": "31140",
     "key": "homes-sold-above-list",
     "date": "2019-06-15",
@@ -18513,6 +21684,55 @@
     "date": "2025-06-15",
     "value": 0.17924,
     "value_": 17.92382
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2019-06-15",
+    "value": 0.08545,
+    "value_": 8.54478
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2020-06-15",
+    "value": 0.07829,
+    "value_": 7.82866
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2021-06-15",
+    "value": 0.18926,
+    "value_": 18.92636
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2022-06-15",
+    "value": 0.32289,
+    "value_": 32.2887
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2023-06-15",
+    "value": 0.17536,
+    "value_": 17.53555
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2024-06-15",
+    "value": 0.11298,
+    "value_": 11.29764
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2025-06-15",
+    "value": 0.07556,
+    "value_": 7.55578
   },
   {
     "geoid": "33340",
@@ -18662,6 +21882,55 @@
     "value_": 16.79487
   },
   {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2019-06-15",
+    "value": 0.16329,
+    "value_": 16.32876
+  },
+  {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2020-06-15",
+    "value": 0.16048,
+    "value_": 16.04758
+  },
+  {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2021-06-15",
+    "value": 0.29598,
+    "value_": 29.59763
+  },
+  {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2022-06-15",
+    "value": 0.35662,
+    "value_": 35.66247
+  },
+  {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2023-06-15",
+    "value": 0.31191,
+    "value_": 31.19093
+  },
+  {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2024-06-15",
+    "value": 0.34987,
+    "value_": 34.98715
+  },
+  {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2025-06-15",
+    "value": 0.34416,
+    "value_": 34.41558
+  },
+  {
     "geoid": "36420",
     "key": "homes-sold-above-list",
     "date": "2019-06-15",
@@ -18807,6 +22076,55 @@
     "date": "2025-06-15",
     "value": 0.1282,
     "value_": 12.81978
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2019-06-15",
+    "value": 0.2176,
+    "value_": 21.75981
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2020-06-15",
+    "value": 0.22365,
+    "value_": 22.36504
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2021-06-15",
+    "value": 0.37843,
+    "value_": 37.84301
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2022-06-15",
+    "value": 0.40856,
+    "value_": 40.85631
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2023-06-15",
+    "value": 0.33442,
+    "value_": 33.44186
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2024-06-15",
+    "value": 0.34903,
+    "value_": 34.90319
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2025-06-15",
+    "value": 0.34023,
+    "value_": 34.02256
   },
   {
     "geoid": "38060",
@@ -19446,6 +22764,55 @@
     "value_": 32.55929
   },
   {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2019-06-15",
+    "value": 0.64811,
+    "value_": 64.81113
+  },
+  {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2020-06-15",
+    "value": 0.44784,
+    "value_": 44.78372
+  },
+  {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2021-06-15",
+    "value": 0.69622,
+    "value_": 69.62182
+  },
+  {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2022-06-15",
+    "value": 0.6991,
+    "value_": 69.90991
+  },
+  {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2023-06-15",
+    "value": 0.54478,
+    "value_": 54.4784
+  },
+  {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2024-06-15",
+    "value": 0.59977,
+    "value_": 59.97693
+  },
+  {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2025-06-15",
+    "value": 0.57592,
+    "value_": 57.59162
+  },
+  {
     "geoid": "41940",
     "key": "homes-sold-above-list",
     "date": "2019-06-15",
@@ -19493,6 +22860,55 @@
     "date": "2025-06-15",
     "value": 0.54698,
     "value_": 54.69799
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2019-06-15",
+    "value": 0.36254,
+    "value_": 36.2539
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2020-06-15",
+    "value": 0.41242,
+    "value_": 41.24179
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2021-06-15",
+    "value": 0.68225,
+    "value_": 68.22507
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2022-06-15",
+    "value": 0.51601,
+    "value_": 51.60096
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2023-06-15",
+    "value": 0.43383,
+    "value_": 43.38344
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2024-06-15",
+    "value": 0.40641,
+    "value_": 40.64138
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2025-06-15",
+    "value": 0.29947,
+    "value_": 29.94746
   },
   {
     "geoid": "45300",
@@ -19689,6 +23105,55 @@
     "date": "2025-06-15",
     "value": 0.37395,
     "value_": 37.39496
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2019-06-15",
+    "value": 0.34767,
+    "value_": 34.76674
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2020-06-15",
+    "value": 0.36846,
+    "value_": 36.84648
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2021-06-15",
+    "value": 0.58568,
+    "value_": 58.56769
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2022-06-15",
+    "value": 0.52855,
+    "value_": 52.85499
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2023-06-15",
+    "value": 0.48966,
+    "value_": 48.96621
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2024-06-15",
+    "value": 0.47772,
+    "value_": 47.77214
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2025-06-15",
+    "value": 0.35624,
+    "value_": 35.62355
   },
   {
     "geoid": "51013",
@@ -20380,50 +23845,50 @@
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2019-06-15",
-    "value": 0.25484,
-    "value_": 25.48355
+    "value": 0.26212,
+    "value_": 26.2123
   },
   {
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2020-06-15",
-    "value": 0.27123,
-    "value_": 27.12325
+    "value": 0.27415,
+    "value_": 27.41485
   },
   {
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2021-06-15",
-    "value": 0.56476,
-    "value_": 56.47623
+    "value": 0.55521,
+    "value_": 55.52117
   },
   {
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2022-06-15",
-    "value": 0.53398,
-    "value_": 53.39774
+    "value": 0.53522,
+    "value_": 53.52209
   },
   {
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2023-06-15",
-    "value": 0.36325,
-    "value_": 36.32457
+    "value": 0.38239,
+    "value_": 38.23874
   },
   {
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2024-06-15",
-    "value": 0.30909,
-    "value_": 30.90886
+    "value": 0.33804,
+    "value_": 33.80417
   },
   {
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2025-06-15",
-    "value": 0.2723,
-    "value_": 27.23048
+    "value": 0.29711,
+    "value_": 29.71059
   },
   {
     "geoid": "99999",
@@ -20720,6 +24185,55 @@
     "value_": 24.69304
   },
   {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2019-07-15",
+    "value": 0.43164,
+    "value_": 43.16447
+  },
+  {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2020-07-15",
+    "value": 0.47139,
+    "value_": 47.13896
+  },
+  {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2021-07-15",
+    "value": 0.67684,
+    "value_": 67.68448
+  },
+  {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2022-07-15",
+    "value": 0.66938,
+    "value_": 66.93808
+  },
+  {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2023-07-15",
+    "value": 0.60671,
+    "value_": 60.67081
+  },
+  {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2024-07-15",
+    "value": 0.59582,
+    "value_": 59.58163
+  },
+  {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2025-07-15",
+    "value": 0.52365,
+    "value_": 52.36518
+  },
+  {
     "geoid": "15380",
     "key": "homes-sold-above-list",
     "date": "2019-07-15",
@@ -20816,6 +24330,55 @@
     "date": "2025-07-15",
     "value": 0.17567,
     "value_": 17.56683
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2019-07-15",
+    "value": 0.20674,
+    "value_": 20.67404
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2020-07-15",
+    "value": 0.23184,
+    "value_": 23.18387
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2021-07-15",
+    "value": 0.45222,
+    "value_": 45.22184
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2022-07-15",
+    "value": 0.46367,
+    "value_": 46.36697
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2023-07-15",
+    "value": 0.4853,
+    "value_": 48.52982
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2024-07-15",
+    "value": 0.47826,
+    "value_": 47.82609
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2025-07-15",
+    "value": 0.44729,
+    "value_": 44.72897
   },
   {
     "geoid": "17140",
@@ -20965,6 +24528,55 @@
     "value_": 30.83397
   },
   {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2019-07-15",
+    "value": 0.1761,
+    "value_": 17.61015
+  },
+  {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2020-07-15",
+    "value": 0.23291,
+    "value_": 23.29057
+  },
+  {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2021-07-15",
+    "value": 0.64237,
+    "value_": 64.23746
+  },
+  {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2022-07-15",
+    "value": 0.52216,
+    "value_": 52.21563
+  },
+  {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2023-07-15",
+    "value": 0.29058,
+    "value_": 29.05793
+  },
+  {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2024-07-15",
+    "value": 0.16616,
+    "value_": 16.61621
+  },
+  {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2025-07-15",
+    "value": 0.13687,
+    "value_": 13.6872
+  },
+  {
     "geoid": "19740",
     "key": "homes-sold-above-list",
     "date": "2019-07-15",
@@ -21012,6 +24624,55 @@
     "date": "2025-07-15",
     "value": 0.20983,
     "value_": 20.98318
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2019-07-15",
+    "value": 0.25108,
+    "value_": 25.1076
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2020-07-15",
+    "value": 0.32048,
+    "value_": 32.04799
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2021-07-15",
+    "value": 0.54301,
+    "value_": 54.30108
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2022-07-15",
+    "value": 0.49597,
+    "value_": 49.59656
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2023-07-15",
+    "value": 0.45,
+    "value_": 45
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2024-07-15",
+    "value": 0.45571,
+    "value_": 45.5711
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2025-07-15",
+    "value": 0.4153,
+    "value_": 41.52975
   },
   {
     "geoid": "23420",
@@ -21602,6 +25263,55 @@
     "value_": 16.30353
   },
   {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2019-07-15",
+    "value": 0.37047,
+    "value_": 37.04663
+  },
+  {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2020-07-15",
+    "value": 0.42869,
+    "value_": 42.86859
+  },
+  {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2021-07-15",
+    "value": 0.65047,
+    "value_": 65.04709
+  },
+  {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2022-07-15",
+    "value": 0.56831,
+    "value_": 56.83093
+  },
+  {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2023-07-15",
+    "value": 0.55642,
+    "value_": 55.64202
+  },
+  {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2024-07-15",
+    "value": 0.49656,
+    "value_": 49.65621
+  },
+  {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2025-07-15",
+    "value": 0.40104,
+    "value_": 40.10383
+  },
+  {
     "geoid": "31140",
     "key": "homes-sold-above-list",
     "date": "2019-07-15",
@@ -21698,6 +25408,55 @@
     "date": "2025-07-15",
     "value": 0.14027,
     "value_": 14.02748
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2019-07-15",
+    "value": 0.08425,
+    "value_": 8.42451
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2020-07-15",
+    "value": 0.09372,
+    "value_": 9.37155
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2021-07-15",
+    "value": 0.19546,
+    "value_": 19.54603
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2022-07-15",
+    "value": 0.27928,
+    "value_": 27.92793
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2023-07-15",
+    "value": 0.18945,
+    "value_": 18.94495
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2024-07-15",
+    "value": 0.11292,
+    "value_": 11.29246
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2025-07-15",
+    "value": 0.07856,
+    "value_": 7.8564
   },
   {
     "geoid": "33340",
@@ -21847,6 +25606,55 @@
     "value_": 13.38978
   },
   {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2019-07-15",
+    "value": 0.18286,
+    "value_": 18.28623
+  },
+  {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2020-07-15",
+    "value": 0.20253,
+    "value_": 20.25261
+  },
+  {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2021-07-15",
+    "value": 0.31406,
+    "value_": 31.40584
+  },
+  {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2022-07-15",
+    "value": 0.36042,
+    "value_": 36.04161
+  },
+  {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2023-07-15",
+    "value": 0.32661,
+    "value_": 32.66052
+  },
+  {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2024-07-15",
+    "value": 0.35628,
+    "value_": 35.62782
+  },
+  {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2025-07-15",
+    "value": 0.35105,
+    "value_": 35.1049
+  },
+  {
     "geoid": "36420",
     "key": "homes-sold-above-list",
     "date": "2019-07-15",
@@ -21992,6 +25800,55 @@
     "date": "2025-07-15",
     "value": 0.11654,
     "value_": 11.65368
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2019-07-15",
+    "value": 0.20739,
+    "value_": 20.73922
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2020-07-15",
+    "value": 0.23492,
+    "value_": 23.49206
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2021-07-15",
+    "value": 0.39519,
+    "value_": 39.51878
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2022-07-15",
+    "value": 0.36591,
+    "value_": 36.59091
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2023-07-15",
+    "value": 0.30905,
+    "value_": 30.90495
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2024-07-15",
+    "value": 0.3318,
+    "value_": 33.17972
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2025-07-15",
+    "value": 0.30446,
+    "value_": 30.44648
   },
   {
     "geoid": "38060",
@@ -22631,6 +26488,55 @@
     "value_": 31.79027
   },
   {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2019-07-15",
+    "value": 0.67451,
+    "value_": 67.45098
+  },
+  {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2020-07-15",
+    "value": 0.51007,
+    "value_": 51.00671
+  },
+  {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2021-07-15",
+    "value": 0.69389,
+    "value_": 69.38926
+  },
+  {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2022-07-15",
+    "value": 0.56527,
+    "value_": 56.52655
+  },
+  {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2023-07-15",
+    "value": 0.51902,
+    "value_": 51.90217
+  },
+  {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2024-07-15",
+    "value": 0.562,
+    "value_": 56.20023
+  },
+  {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2025-07-15",
+    "value": 0.48964,
+    "value_": 48.96401
+  },
+  {
     "geoid": "41940",
     "key": "homes-sold-above-list",
     "date": "2019-07-15",
@@ -22678,6 +26584,55 @@
     "date": "2025-07-15",
     "value": 0.5014,
     "value_": 50.13953
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2019-07-15",
+    "value": 0.32216,
+    "value_": 32.21574
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2020-07-15",
+    "value": 0.44281,
+    "value_": 44.28147
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2021-07-15",
+    "value": 0.63942,
+    "value_": 63.94189
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2022-07-15",
+    "value": 0.34127,
+    "value_": 34.12654
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2023-07-15",
+    "value": 0.39827,
+    "value_": 39.82684
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2024-07-15",
+    "value": 0.35823,
+    "value_": 35.82267
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2025-07-15",
+    "value": 0.24445,
+    "value_": 24.44512
   },
   {
     "geoid": "45300",
@@ -22874,6 +26829,55 @@
     "date": "2025-07-15",
     "value": 0.3562,
     "value_": 35.61974
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2019-07-15",
+    "value": 0.31986,
+    "value_": 31.98554
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2020-07-15",
+    "value": 0.41143,
+    "value_": 41.14307
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2021-07-15",
+    "value": 0.54191,
+    "value_": 54.19112
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2022-07-15",
+    "value": 0.4378,
+    "value_": 43.7801
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2023-07-15",
+    "value": 0.46127,
+    "value_": 46.12698
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2024-07-15",
+    "value": 0.42865,
+    "value_": 42.86517
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2025-07-15",
+    "value": 0.31921,
+    "value_": 31.92139
   },
   {
     "geoid": "51013",
@@ -23565,50 +27569,50 @@
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2019-07-15",
-    "value": 0.24465,
-    "value_": 24.46532
+    "value": 0.25172,
+    "value_": 25.17152
   },
   {
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2020-07-15",
-    "value": 0.30415,
-    "value_": 30.41542
+    "value": 0.30809,
+    "value_": 30.80908
   },
   {
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2021-07-15",
-    "value": 0.55506,
-    "value_": 55.50631
+    "value": 0.54418,
+    "value_": 54.41777
   },
   {
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2022-07-15",
-    "value": 0.45023,
-    "value_": 45.02261
+    "value": 0.45366,
+    "value_": 45.3661
   },
   {
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2023-07-15",
-    "value": 0.35067,
-    "value_": 35.06704
+    "value": 0.36954,
+    "value_": 36.95364
   },
   {
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2024-07-15",
-    "value": 0.2945,
-    "value_": 29.44959
+    "value": 0.32133,
+    "value_": 32.13294
   },
   {
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2025-07-15",
-    "value": 0.25502,
-    "value_": 25.50195
+    "value": 0.27789,
+    "value_": 27.78895
   },
   {
     "geoid": "99999",
@@ -23905,6 +27909,55 @@
     "value_": 21.21673
   },
   {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2019-08-15",
+    "value": 0.38837,
+    "value_": 38.83681
+  },
+  {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2020-08-15",
+    "value": 0.48717,
+    "value_": 48.71703
+  },
+  {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2021-08-15",
+    "value": 0.63712,
+    "value_": 63.71152
+  },
+  {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2022-08-15",
+    "value": 0.56254,
+    "value_": 56.25381
+  },
+  {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2023-08-15",
+    "value": 0.60069,
+    "value_": 60.0688
+  },
+  {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2024-08-15",
+    "value": 0.51872,
+    "value_": 51.87193
+  },
+  {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2025-08-15",
+    "value": 0.47022,
+    "value_": 47.02227
+  },
+  {
     "geoid": "15380",
     "key": "homes-sold-above-list",
     "date": "2019-08-15",
@@ -24001,6 +28054,55 @@
     "date": "2025-08-15",
     "value": 0.16506,
     "value_": 16.50596
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2019-08-15",
+    "value": 0.19264,
+    "value_": 19.26439
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2020-08-15",
+    "value": 0.23759,
+    "value_": 23.75861
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2021-08-15",
+    "value": 0.41185,
+    "value_": 41.18486
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2022-08-15",
+    "value": 0.37779,
+    "value_": 37.77901
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2023-08-15",
+    "value": 0.4597,
+    "value_": 45.96992
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2024-08-15",
+    "value": 0.42718,
+    "value_": 42.71779
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2025-08-15",
+    "value": 0.41152,
+    "value_": 41.15174
   },
   {
     "geoid": "17140",
@@ -24150,6 +28252,55 @@
     "value_": 28.63981
   },
   {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2019-08-15",
+    "value": 0.16687,
+    "value_": 16.68682
+  },
+  {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2020-08-15",
+    "value": 0.24851,
+    "value_": 24.85071
+  },
+  {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2021-08-15",
+    "value": 0.60003,
+    "value_": 60.0029
+  },
+  {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2022-08-15",
+    "value": 0.37418,
+    "value_": 37.41841
+  },
+  {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2023-08-15",
+    "value": 0.23147,
+    "value_": 23.14699
+  },
+  {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2024-08-15",
+    "value": 0.14058,
+    "value_": 14.05826
+  },
+  {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2025-08-15",
+    "value": 0.1239,
+    "value_": 12.3897
+  },
+  {
     "geoid": "19740",
     "key": "homes-sold-above-list",
     "date": "2019-08-15",
@@ -24197,6 +28348,55 @@
     "date": "2025-08-15",
     "value": 0.19552,
     "value_": 19.55154
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2019-08-15",
+    "value": 0.23612,
+    "value_": 23.61242
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2020-08-15",
+    "value": 0.34486,
+    "value_": 34.4857
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2021-08-15",
+    "value": 0.49478,
+    "value_": 49.47846
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2022-08-15",
+    "value": 0.41023,
+    "value_": 41.02302
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2023-08-15",
+    "value": 0.45278,
+    "value_": 45.2782
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2024-08-15",
+    "value": 0.41795,
+    "value_": 41.79515
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2025-08-15",
+    "value": 0.39037,
+    "value_": 39.03683
   },
   {
     "geoid": "23420",
@@ -24787,6 +28987,55 @@
     "value_": 17.02217
   },
   {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2019-08-15",
+    "value": 0.38107,
+    "value_": 38.10742
+  },
+  {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2020-08-15",
+    "value": 0.4646,
+    "value_": 46.46032
+  },
+  {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2021-08-15",
+    "value": 0.6346,
+    "value_": 63.46044
+  },
+  {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2022-08-15",
+    "value": 0.46689,
+    "value_": 46.68881
+  },
+  {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2023-08-15",
+    "value": 0.54637,
+    "value_": 54.63718
+  },
+  {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2024-08-15",
+    "value": 0.46493,
+    "value_": 46.49255
+  },
+  {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2025-08-15",
+    "value": 0.37021,
+    "value_": 37.02138
+  },
+  {
     "geoid": "31140",
     "key": "homes-sold-above-list",
     "date": "2019-08-15",
@@ -24883,6 +29132,55 @@
     "date": "2025-08-15",
     "value": 0.14309,
     "value_": 14.30881
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2019-08-15",
+    "value": 0.09363,
+    "value_": 9.36286
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2020-08-15",
+    "value": 0.09946,
+    "value_": 9.94555
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2021-08-15",
+    "value": 0.20131,
+    "value_": 20.13061
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2022-08-15",
+    "value": 0.21281,
+    "value_": 21.28067
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2023-08-15",
+    "value": 0.17945,
+    "value_": 17.94549
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2024-08-15",
+    "value": 0.11705,
+    "value_": 11.7046
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2025-08-15",
+    "value": 0.07797,
+    "value_": 7.79696
   },
   {
     "geoid": "33340",
@@ -25032,6 +29330,55 @@
     "value_": 12.61682
   },
   {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2019-08-15",
+    "value": 0.17547,
+    "value_": 17.54748
+  },
+  {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2020-08-15",
+    "value": 0.25019,
+    "value_": 25.01925
+  },
+  {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2021-08-15",
+    "value": 0.31288,
+    "value_": 31.28814
+  },
+  {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2022-08-15",
+    "value": 0.32105,
+    "value_": 32.10498
+  },
+  {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2023-08-15",
+    "value": 0.32462,
+    "value_": 32.46195
+  },
+  {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2024-08-15",
+    "value": 0.35428,
+    "value_": 35.42805
+  },
+  {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2025-08-15",
+    "value": 0.35441,
+    "value_": 35.44051
+  },
+  {
     "geoid": "36420",
     "key": "homes-sold-above-list",
     "date": "2019-08-15",
@@ -25177,6 +29524,55 @@
     "date": "2025-08-15",
     "value": 0.1109,
     "value_": 11.0904
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2019-08-15",
+    "value": 0.18316,
+    "value_": 18.31597
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2020-08-15",
+    "value": 0.25413,
+    "value_": 25.41306
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2021-08-15",
+    "value": 0.36236,
+    "value_": 36.23585
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2022-08-15",
+    "value": 0.31935,
+    "value_": 31.93505
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2023-08-15",
+    "value": 0.31384,
+    "value_": 31.38412
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2024-08-15",
+    "value": 0.3013,
+    "value_": 30.13029
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2025-08-15",
+    "value": 0.29942,
+    "value_": 29.9422
   },
   {
     "geoid": "38060",
@@ -25816,6 +30212,55 @@
     "value_": 29.51583
   },
   {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2019-08-15",
+    "value": 0.60023,
+    "value_": 60.02252
+  },
+  {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2020-08-15",
+    "value": 0.50512,
+    "value_": 50.5123
+  },
+  {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2021-08-15",
+    "value": 0.70745,
+    "value_": 70.74468
+  },
+  {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2022-08-15",
+    "value": 0.48879,
+    "value_": 48.8794
+  },
+  {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2023-08-15",
+    "value": 0.48843,
+    "value_": 48.84319
+  },
+  {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2024-08-15",
+    "value": 0.54708,
+    "value_": 54.70799
+  },
+  {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2025-08-15",
+    "value": 0.452,
+    "value_": 45.20049
+  },
+  {
     "geoid": "41940",
     "key": "homes-sold-above-list",
     "date": "2019-08-15",
@@ -25863,6 +30308,55 @@
     "date": "2025-08-15",
     "value": 0.45403,
     "value_": 45.40284
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2019-08-15",
+    "value": 0.29289,
+    "value_": 29.28898
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2020-08-15",
+    "value": 0.46752,
+    "value_": 46.75169
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2021-08-15",
+    "value": 0.60033,
+    "value_": 60.03308
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2022-08-15",
+    "value": 0.24638,
+    "value_": 24.63768
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2023-08-15",
+    "value": 0.38699,
+    "value_": 38.69949
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2024-08-15",
+    "value": 0.3208,
+    "value_": 32.0802
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2025-08-15",
+    "value": 0.22296,
+    "value_": 22.29617
   },
   {
     "geoid": "45300",
@@ -26059,6 +30553,55 @@
     "date": "2025-08-15",
     "value": 0.33936,
     "value_": 33.93565
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2019-08-15",
+    "value": 0.3106,
+    "value_": 31.05995
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2020-08-15",
+    "value": 0.43369,
+    "value_": 43.36931
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2021-08-15",
+    "value": 0.47641,
+    "value_": 47.64081
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2022-08-15",
+    "value": 0.33722,
+    "value_": 33.72191
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2023-08-15",
+    "value": 0.43632,
+    "value_": 43.63175
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2024-08-15",
+    "value": 0.38243,
+    "value_": 38.243
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2025-08-15",
+    "value": 0.29874,
+    "value_": 29.87389
   },
   {
     "geoid": "51013",
@@ -26750,50 +31293,50 @@
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2019-08-15",
-    "value": 0.23235,
-    "value_": 23.23505
+    "value": 0.23897,
+    "value_": 23.89715
   },
   {
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2020-08-15",
-    "value": 0.3294,
-    "value_": 32.94048
+    "value": 0.33217,
+    "value_": 33.21718
   },
   {
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2021-08-15",
-    "value": 0.51816,
-    "value_": 51.81587
+    "value": 0.50881,
+    "value_": 50.88109
   },
   {
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2022-08-15",
-    "value": 0.35584,
-    "value_": 35.5844
+    "value": 0.36066,
+    "value_": 36.06636
   },
   {
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2023-08-15",
-    "value": 0.33127,
-    "value_": 33.12735
+    "value": 0.35035,
+    "value_": 35.03492
   },
   {
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2024-08-15",
-    "value": 0.26667,
-    "value_": 26.6674
+    "value": 0.29136,
+    "value_": 29.13568
   },
   {
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2025-08-15",
-    "value": 0.23843,
-    "value_": 23.84283
+    "value": 0.25916,
+    "value_": 25.91561
   },
   {
     "geoid": "99999",
@@ -27090,6 +31633,55 @@
     "value_": 17.68388
   },
   {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2019-09-15",
+    "value": 0.3666,
+    "value_": 36.66031
+  },
+  {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2020-09-15",
+    "value": 0.51643,
+    "value_": 51.6431
+  },
+  {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2021-09-15",
+    "value": 0.59977,
+    "value_": 59.97659
+  },
+  {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2022-09-15",
+    "value": 0.51431,
+    "value_": 51.4307
+  },
+  {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2023-09-15",
+    "value": 0.55704,
+    "value_": 55.70448
+  },
+  {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2024-09-15",
+    "value": 0.47947,
+    "value_": 47.94654
+  },
+  {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2025-09-15",
+    "value": 0.40884,
+    "value_": 40.88381
+  },
+  {
     "geoid": "15380",
     "key": "homes-sold-above-list",
     "date": "2019-09-15",
@@ -27186,6 +31778,55 @@
     "date": "2025-09-15",
     "value": 0.15303,
     "value_": 15.30281
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2019-09-15",
+    "value": 0.18588,
+    "value_": 18.5878
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2020-09-15",
+    "value": 0.25977,
+    "value_": 25.9773
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2021-09-15",
+    "value": 0.36231,
+    "value_": 36.2313
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2022-09-15",
+    "value": 0.31846,
+    "value_": 31.84584
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2023-09-15",
+    "value": 0.41996,
+    "value_": 41.99575
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2024-09-15",
+    "value": 0.37996,
+    "value_": 37.99569
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2025-09-15",
+    "value": 0.38243,
+    "value_": 38.24349
   },
   {
     "geoid": "17140",
@@ -27335,6 +31976,55 @@
     "value_": 24.57699
   },
   {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2019-09-15",
+    "value": 0.15075,
+    "value_": 15.07538
+  },
+  {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2020-09-15",
+    "value": 0.26214,
+    "value_": 26.21429
+  },
+  {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2021-09-15",
+    "value": 0.53017,
+    "value_": 53.01659
+  },
+  {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2022-09-15",
+    "value": 0.26999,
+    "value_": 26.99945
+  },
+  {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2023-09-15",
+    "value": 0.19838,
+    "value_": 19.83814
+  },
+  {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2024-09-15",
+    "value": 0.13585,
+    "value_": 13.58543
+  },
+  {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2025-09-15",
+    "value": 0.11309,
+    "value_": 11.3085
+  },
+  {
     "geoid": "19740",
     "key": "homes-sold-above-list",
     "date": "2019-09-15",
@@ -27382,6 +32072,55 @@
     "date": "2025-09-15",
     "value": 0.19696,
     "value_": 19.69613
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2019-09-15",
+    "value": 0.21652,
+    "value_": 21.65167
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2020-09-15",
+    "value": 0.37655,
+    "value_": 37.65517
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2021-09-15",
+    "value": 0.43816,
+    "value_": 43.81561
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2022-09-15",
+    "value": 0.38261,
+    "value_": 38.26132
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2023-09-15",
+    "value": 0.42051,
+    "value_": 42.05128
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2024-09-15",
+    "value": 0.37733,
+    "value_": 37.73256
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2025-09-15",
+    "value": 0.36196,
+    "value_": 36.19559
   },
   {
     "geoid": "23420",
@@ -27972,6 +32711,55 @@
     "value_": 15.89431
   },
   {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2019-09-15",
+    "value": 0.37463,
+    "value_": 37.46338
+  },
+  {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2020-09-15",
+    "value": 0.49791,
+    "value_": 49.79129
+  },
+  {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2021-09-15",
+    "value": 0.60697,
+    "value_": 60.69687
+  },
+  {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2022-09-15",
+    "value": 0.39822,
+    "value_": 39.82191
+  },
+  {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2023-09-15",
+    "value": 0.50808,
+    "value_": 50.8079
+  },
+  {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2024-09-15",
+    "value": 0.4484,
+    "value_": 44.84048
+  },
+  {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2025-09-15",
+    "value": 0.35602,
+    "value_": 35.60186
+  },
+  {
     "geoid": "31140",
     "key": "homes-sold-above-list",
     "date": "2019-09-15",
@@ -28068,6 +32856,55 @@
     "date": "2025-09-15",
     "value": 0.12942,
     "value_": 12.94212
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2019-09-15",
+    "value": 0.07708,
+    "value_": 7.70825
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2020-09-15",
+    "value": 0.11347,
+    "value_": 11.347
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2021-09-15",
+    "value": 0.1957,
+    "value_": 19.56983
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2022-09-15",
+    "value": 0.18115,
+    "value_": 18.11468
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2023-09-15",
+    "value": 0.18762,
+    "value_": 18.76173
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2024-09-15",
+    "value": 0.0983,
+    "value_": 9.82976
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2025-09-15",
+    "value": 0.0688,
+    "value_": 6.88
   },
   {
     "geoid": "33340",
@@ -28217,6 +33054,55 @@
     "value_": 13.50871
   },
   {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2019-09-15",
+    "value": 0.16382,
+    "value_": 16.38164
+  },
+  {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2020-09-15",
+    "value": 0.18226,
+    "value_": 18.22624
+  },
+  {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2021-09-15",
+    "value": 0.28566,
+    "value_": 28.56551
+  },
+  {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2022-09-15",
+    "value": 0.27766,
+    "value_": 27.76618
+  },
+  {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2023-09-15",
+    "value": 0.31626,
+    "value_": 31.62566
+  },
+  {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2024-09-15",
+    "value": 0.31849,
+    "value_": 31.8491
+  },
+  {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2025-09-15",
+    "value": 0.30985,
+    "value_": 30.98454
+  },
+  {
     "geoid": "36420",
     "key": "homes-sold-above-list",
     "date": "2019-09-15",
@@ -28362,6 +33248,55 @@
     "date": "2025-09-15",
     "value": 0.11177,
     "value_": 11.17705
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2019-09-15",
+    "value": 0.18177,
+    "value_": 18.17732
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2020-09-15",
+    "value": 0.26773,
+    "value_": 26.77291
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2021-09-15",
+    "value": 0.33347,
+    "value_": 33.34714
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2022-09-15",
+    "value": 0.26459,
+    "value_": 26.45855
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2023-09-15",
+    "value": 0.29523,
+    "value_": 29.52323
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2024-09-15",
+    "value": 0.28827,
+    "value_": 28.82716
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2025-09-15",
+    "value": 0.26445,
+    "value_": 26.44483
   },
   {
     "geoid": "38060",
@@ -29001,6 +33936,55 @@
     "value_": 30.17891
   },
   {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2019-09-15",
+    "value": 0.61886,
+    "value_": 61.88579
+  },
+  {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2020-09-15",
+    "value": 0.49911,
+    "value_": 49.91071
+  },
+  {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2021-09-15",
+    "value": 0.69858,
+    "value_": 69.85759
+  },
+  {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2022-09-15",
+    "value": 0.46128,
+    "value_": 46.12832
+  },
+  {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2023-09-15",
+    "value": 0.52233,
+    "value_": 52.23275
+  },
+  {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2024-09-15",
+    "value": 0.55723,
+    "value_": 55.72327
+  },
+  {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2025-09-15",
+    "value": 0.51404,
+    "value_": 51.40389
+  },
+  {
     "geoid": "41940",
     "key": "homes-sold-above-list",
     "date": "2019-09-15",
@@ -29048,6 +34032,55 @@
     "date": "2025-09-15",
     "value": 0.51092,
     "value_": 51.09212
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2019-09-15",
+    "value": 0.26891,
+    "value_": 26.89098
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2020-09-15",
+    "value": 0.482,
+    "value_": 48.20022
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2021-09-15",
+    "value": 0.55755,
+    "value_": 55.75519
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2022-09-15",
+    "value": 0.2117,
+    "value_": 21.1703
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2023-09-15",
+    "value": 0.31958,
+    "value_": 31.95763
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2024-09-15",
+    "value": 0.29121,
+    "value_": 29.12068
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2025-09-15",
+    "value": 0.21286,
+    "value_": 21.28611
   },
   {
     "geoid": "45300",
@@ -29244,6 +34277,55 @@
     "date": "2025-09-15",
     "value": 0.30959,
     "value_": 30.9589
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2019-09-15",
+    "value": 0.27694,
+    "value_": 27.69415
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2020-09-15",
+    "value": 0.44631,
+    "value_": 44.63144
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2021-09-15",
+    "value": 0.43835,
+    "value_": 43.83466
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2022-09-15",
+    "value": 0.31038,
+    "value_": 31.03844
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2023-09-15",
+    "value": 0.4052,
+    "value_": 40.51991
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2024-09-15",
+    "value": 0.36721,
+    "value_": 36.72093
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2025-09-15",
+    "value": 0.28412,
+    "value_": 28.41163
   },
   {
     "geoid": "51013",
@@ -29935,50 +35017,50 @@
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2019-09-15",
-    "value": 0.22137,
-    "value_": 22.13685
+    "value": 0.22639,
+    "value_": 22.63892
   },
   {
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2020-09-15",
-    "value": 0.34477,
-    "value_": 34.47726
+    "value": 0.3471,
+    "value_": 34.71035
   },
   {
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2021-09-15",
-    "value": 0.47709,
-    "value_": 47.70886
+    "value": 0.46992,
+    "value_": 46.99201
   },
   {
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2022-09-15",
-    "value": 0.29717,
-    "value_": 29.71688
+    "value": 0.30312,
+    "value_": 30.31206
   },
   {
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2023-09-15",
-    "value": 0.30457,
-    "value_": 30.45712
+    "value": 0.32192,
+    "value_": 32.19247
   },
   {
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2024-09-15",
-    "value": 0.25565,
-    "value_": 25.5652
+    "value": 0.2755,
+    "value_": 27.54958
   },
   {
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2025-09-15",
-    "value": 0.22991,
-    "value_": 22.99144
+    "value": 0.24612,
+    "value_": 24.61207
   },
   {
     "geoid": "99999",
@@ -30275,6 +35357,55 @@
     "value_": 20.11494
   },
   {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2019-10-15",
+    "value": 0.36,
+    "value_": 36
+  },
+  {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2020-10-15",
+    "value": 0.53668,
+    "value_": 53.66781
+  },
+  {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2021-10-15",
+    "value": 0.58346,
+    "value_": 58.34644
+  },
+  {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2022-10-15",
+    "value": 0.47189,
+    "value_": 47.18905
+  },
+  {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2023-10-15",
+    "value": 0.55633,
+    "value_": 55.63264
+  },
+  {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2024-10-15",
+    "value": 0.51362,
+    "value_": 51.36164
+  },
+  {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2025-10-15",
+    "value": 0.43666,
+    "value_": 43.66647
+  },
+  {
     "geoid": "15380",
     "key": "homes-sold-above-list",
     "date": "2019-10-15",
@@ -30371,6 +35502,55 @@
     "date": "2025-10-15",
     "value": 0.1385,
     "value_": 13.85025
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2019-10-15",
+    "value": 0.18278,
+    "value_": 18.27804
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2020-10-15",
+    "value": 0.26762,
+    "value_": 26.76151
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2021-10-15",
+    "value": 0.34179,
+    "value_": 34.17946
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2022-10-15",
+    "value": 0.28413,
+    "value_": 28.4134
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2023-10-15",
+    "value": 0.39778,
+    "value_": 39.77767
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2024-10-15",
+    "value": 0.36259,
+    "value_": 36.25942
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2025-10-15",
+    "value": 0.35452,
+    "value_": 35.45181
   },
   {
     "geoid": "17140",
@@ -30520,6 +35700,55 @@
     "value_": 23.84026
   },
   {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2019-10-15",
+    "value": 0.15464,
+    "value_": 15.46448
+  },
+  {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2020-10-15",
+    "value": 0.27241,
+    "value_": 27.24093
+  },
+  {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2021-10-15",
+    "value": 0.50485,
+    "value_": 50.48497
+  },
+  {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2022-10-15",
+    "value": 0.23815,
+    "value_": 23.8147
+  },
+  {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2023-10-15",
+    "value": 0.19048,
+    "value_": 19.04762
+  },
+  {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2024-10-15",
+    "value": 0.1359,
+    "value_": 13.59014
+  },
+  {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2025-10-15",
+    "value": 0.11267,
+    "value_": 11.26733
+  },
+  {
     "geoid": "19740",
     "key": "homes-sold-above-list",
     "date": "2019-10-15",
@@ -30567,6 +35796,55 @@
     "date": "2025-10-15",
     "value": 0.19487,
     "value_": 19.48704
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2019-10-15",
+    "value": 0.20435,
+    "value_": 20.435
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2020-10-15",
+    "value": 0.35472,
+    "value_": 35.47154
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2021-10-15",
+    "value": 0.424,
+    "value_": 42.4
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2022-10-15",
+    "value": 0.32817,
+    "value_": 32.81698
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2023-10-15",
+    "value": 0.41011,
+    "value_": 41.01058
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2024-10-15",
+    "value": 0.371,
+    "value_": 37.10033
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2025-10-15",
+    "value": 0.316,
+    "value_": 31.59955
   },
   {
     "geoid": "23420",
@@ -31157,6 +36435,55 @@
     "value_": 14.32914
   },
   {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2019-10-15",
+    "value": 0.36834,
+    "value_": 36.83368
+  },
+  {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2020-10-15",
+    "value": 0.51992,
+    "value_": 51.99197
+  },
+  {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2021-10-15",
+    "value": 0.61191,
+    "value_": 61.19051
+  },
+  {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2022-10-15",
+    "value": 0.3698,
+    "value_": 36.98004
+  },
+  {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2023-10-15",
+    "value": 0.49071,
+    "value_": 49.07101
+  },
+  {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2024-10-15",
+    "value": 0.43475,
+    "value_": 43.47538
+  },
+  {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2025-10-15",
+    "value": 0.36387,
+    "value_": 36.38693
+  },
+  {
     "geoid": "31140",
     "key": "homes-sold-above-list",
     "date": "2019-10-15",
@@ -31253,6 +36580,55 @@
     "date": "2025-10-15",
     "value": 0.12716,
     "value_": 12.71626
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2019-10-15",
+    "value": 0.08584,
+    "value_": 8.58369
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2020-10-15",
+    "value": 0.11771,
+    "value_": 11.77056
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2021-10-15",
+    "value": 0.19817,
+    "value_": 19.81727
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2022-10-15",
+    "value": 0.16235,
+    "value_": 16.23465
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2023-10-15",
+    "value": 0.17326,
+    "value_": 17.32625
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2024-10-15",
+    "value": 0.09448,
+    "value_": 9.4476
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2025-10-15",
+    "value": 0.06809,
+    "value_": 6.80915
   },
   {
     "geoid": "33340",
@@ -31402,6 +36778,55 @@
     "value_": 13.11943
   },
   {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2019-10-15",
+    "value": 0.15554,
+    "value_": 15.55404
+  },
+  {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2020-10-15",
+    "value": 0.16599,
+    "value_": 16.5987
+  },
+  {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2021-10-15",
+    "value": 0.26897,
+    "value_": 26.8971
+  },
+  {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2022-10-15",
+    "value": 0.24912,
+    "value_": 24.91222
+  },
+  {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2023-10-15",
+    "value": 0.28883,
+    "value_": 28.88345
+  },
+  {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2024-10-15",
+    "value": 0.31535,
+    "value_": 31.53543
+  },
+  {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2025-10-15",
+    "value": 0.30236,
+    "value_": 30.23578
+  },
+  {
     "geoid": "36420",
     "key": "homes-sold-above-list",
     "date": "2019-10-15",
@@ -31547,6 +36972,55 @@
     "date": "2025-10-15",
     "value": 0.10533,
     "value_": 10.53304
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2019-10-15",
+    "value": 0.17807,
+    "value_": 17.80684
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2020-10-15",
+    "value": 0.26184,
+    "value_": 26.18395
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2021-10-15",
+    "value": 0.29368,
+    "value_": 29.36819
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2022-10-15",
+    "value": 0.26304,
+    "value_": 26.30372
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2023-10-15",
+    "value": 0.29799,
+    "value_": 29.79925
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2024-10-15",
+    "value": 0.28245,
+    "value_": 28.24513
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2025-10-15",
+    "value": 0.26272,
+    "value_": 26.27219
   },
   {
     "geoid": "38060",
@@ -32186,6 +37660,55 @@
     "value_": 29.37699
   },
   {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2019-10-15",
+    "value": 0.64601,
+    "value_": 64.60094
+  },
+  {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2020-10-15",
+    "value": 0.56325,
+    "value_": 56.32458
+  },
+  {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2021-10-15",
+    "value": 0.71574,
+    "value_": 71.5736
+  },
+  {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2022-10-15",
+    "value": 0.4486,
+    "value_": 44.85981
+  },
+  {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2023-10-15",
+    "value": 0.52747,
+    "value_": 52.74725
+  },
+  {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2024-10-15",
+    "value": 0.59533,
+    "value_": 59.53347
+  },
+  {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2025-10-15",
+    "value": 0.58218,
+    "value_": 58.21799
+  },
+  {
     "geoid": "41940",
     "key": "homes-sold-above-list",
     "date": "2019-10-15",
@@ -32233,6 +37756,55 @@
     "date": "2025-10-15",
     "value": 0.53846,
     "value_": 53.84615
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2019-10-15",
+    "value": 0.27669,
+    "value_": 27.66943
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2020-10-15",
+    "value": 0.47789,
+    "value_": 47.78887
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2021-10-15",
+    "value": 0.55612,
+    "value_": 55.61153
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2022-10-15",
+    "value": 0.2043,
+    "value_": 20.43011
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2023-10-15",
+    "value": 0.33269,
+    "value_": 33.26945
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2024-10-15",
+    "value": 0.29872,
+    "value_": 29.87206
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2025-10-15",
+    "value": 0.21403,
+    "value_": 21.40317
   },
   {
     "geoid": "45300",
@@ -32429,6 +38001,55 @@
     "date": "2025-10-15",
     "value": 0.31778,
     "value_": 31.77788
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2019-10-15",
+    "value": 0.29842,
+    "value_": 29.84242
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2020-10-15",
+    "value": 0.4552,
+    "value_": 45.52008
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2021-10-15",
+    "value": 0.41365,
+    "value_": 41.36473
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2022-10-15",
+    "value": 0.29978,
+    "value_": 29.97845
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2023-10-15",
+    "value": 0.38545,
+    "value_": 38.54467
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2024-10-15",
+    "value": 0.36857,
+    "value_": 36.8566
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2025-10-15",
+    "value": 0.28529,
+    "value_": 28.52853
   },
   {
     "geoid": "51013",
@@ -33120,50 +38741,50 @@
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2019-10-15",
-    "value": 0.21225,
-    "value_": 21.22476
+    "value": 0.22096,
+    "value_": 22.096
   },
   {
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2020-10-15",
-    "value": 0.35167,
-    "value_": 35.16672
+    "value": 0.35328,
+    "value_": 35.32799
   },
   {
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2021-10-15",
-    "value": 0.45974,
-    "value_": 45.97379
+    "value": 0.45262,
+    "value_": 45.26162
   },
   {
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2022-10-15",
-    "value": 0.26924,
-    "value_": 26.92394
+    "value": 0.27558,
+    "value_": 27.5581
   },
   {
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2023-10-15",
-    "value": 0.28779,
-    "value_": 28.77947
+    "value": 0.30698,
+    "value_": 30.69783
   },
   {
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2024-10-15",
-    "value": 0.24447,
-    "value_": 24.44653
+    "value": 0.26832,
+    "value_": 26.83179
   },
   {
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2025-10-15",
-    "value": 0.22745,
-    "value_": 22.74488
+    "value": 0.24452,
+    "value_": 24.45245
   },
   {
     "geoid": "99999",
@@ -33460,6 +39081,55 @@
     "value_": 20.29126
   },
   {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2019-11-15",
+    "value": 0.34143,
+    "value_": 34.14279
+  },
+  {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2020-11-15",
+    "value": 0.54738,
+    "value_": 54.73842
+  },
+  {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2021-11-15",
+    "value": 0.57356,
+    "value_": 57.35572
+  },
+  {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2022-11-15",
+    "value": 0.43824,
+    "value_": 43.82362
+  },
+  {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2023-11-15",
+    "value": 0.51472,
+    "value_": 51.47205
+  },
+  {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2024-11-15",
+    "value": 0.48023,
+    "value_": 48.02333
+  },
+  {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2025-11-15",
+    "value": 0.39247,
+    "value_": 39.24695
+  },
+  {
     "geoid": "15380",
     "key": "homes-sold-above-list",
     "date": "2019-11-15",
@@ -33556,6 +39226,55 @@
     "date": "2025-11-15",
     "value": 0.14216,
     "value_": 14.21642
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2019-11-15",
+    "value": 0.16181,
+    "value_": 16.18098
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2020-11-15",
+    "value": 0.26495,
+    "value_": 26.49491
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2021-11-15",
+    "value": 0.32047,
+    "value_": 32.04728
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2022-11-15",
+    "value": 0.27093,
+    "value_": 27.09292
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2023-11-15",
+    "value": 0.34974,
+    "value_": 34.9738
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2024-11-15",
+    "value": 0.34533,
+    "value_": 34.53301
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2025-11-15",
+    "value": 0.3388,
+    "value_": 33.8801
   },
   {
     "geoid": "17140",
@@ -33705,6 +39424,55 @@
     "value_": 23.99588
   },
   {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2019-11-15",
+    "value": 0.14148,
+    "value_": 14.14791
+  },
+  {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2020-11-15",
+    "value": 0.28789,
+    "value_": 28.78944
+  },
+  {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2021-11-15",
+    "value": 0.51195,
+    "value_": 51.19518
+  },
+  {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2022-11-15",
+    "value": 0.20078,
+    "value_": 20.07778
+  },
+  {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2023-11-15",
+    "value": 0.16136,
+    "value_": 16.13614
+  },
+  {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2024-11-15",
+    "value": 0.13182,
+    "value_": 13.18172
+  },
+  {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2025-11-15",
+    "value": 0.11035,
+    "value_": 11.03497
+  },
+  {
     "geoid": "19740",
     "key": "homes-sold-above-list",
     "date": "2019-11-15",
@@ -33752,6 +39520,55 @@
     "date": "2025-11-15",
     "value": 0.18919,
     "value_": 18.91892
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2019-11-15",
+    "value": 0.19503,
+    "value_": 19.50311
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2020-11-15",
+    "value": 0.35066,
+    "value_": 35.06626
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2021-11-15",
+    "value": 0.38705,
+    "value_": 38.70474
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2022-11-15",
+    "value": 0.26915,
+    "value_": 26.91525
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2023-11-15",
+    "value": 0.36684,
+    "value_": 36.68374
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2024-11-15",
+    "value": 0.32825,
+    "value_": 32.82489
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2025-11-15",
+    "value": 0.28332,
+    "value_": 28.33217
   },
   {
     "geoid": "23420",
@@ -34342,6 +40159,55 @@
     "value_": 14.53373
   },
   {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2019-11-15",
+    "value": 0.38939,
+    "value_": 38.93934
+  },
+  {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2020-11-15",
+    "value": 0.5272,
+    "value_": 52.71987
+  },
+  {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2021-11-15",
+    "value": 0.60068,
+    "value_": 60.06753
+  },
+  {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2022-11-15",
+    "value": 0.35474,
+    "value_": 35.47433
+  },
+  {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2023-11-15",
+    "value": 0.46617,
+    "value_": 46.6174
+  },
+  {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2024-11-15",
+    "value": 0.41738,
+    "value_": 41.73778
+  },
+  {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2025-11-15",
+    "value": 0.36192,
+    "value_": 36.19202
+  },
+  {
     "geoid": "31140",
     "key": "homes-sold-above-list",
     "date": "2019-11-15",
@@ -34438,6 +40304,55 @@
     "date": "2025-11-15",
     "value": 0.11753,
     "value_": 11.75279
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2019-11-15",
+    "value": 0.08835,
+    "value_": 8.83534
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2020-11-15",
+    "value": 0.13494,
+    "value_": 13.49442
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2021-11-15",
+    "value": 0.19515,
+    "value_": 19.51515
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2022-11-15",
+    "value": 0.15451,
+    "value_": 15.4513
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2023-11-15",
+    "value": 0.14896,
+    "value_": 14.89601
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2024-11-15",
+    "value": 0.07729,
+    "value_": 7.72947
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2025-11-15",
+    "value": 0.07532,
+    "value_": 7.53165
   },
   {
     "geoid": "33340",
@@ -34587,6 +40502,55 @@
     "value_": 12.76224
   },
   {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2019-11-15",
+    "value": 0.16315,
+    "value_": 16.31474
+  },
+  {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2020-11-15",
+    "value": 0.17311,
+    "value_": 17.31061
+  },
+  {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2021-11-15",
+    "value": 0.25395,
+    "value_": 25.39492
+  },
+  {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2022-11-15",
+    "value": 0.24251,
+    "value_": 24.25096
+  },
+  {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2023-11-15",
+    "value": 0.3013,
+    "value_": 30.12987
+  },
+  {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2024-11-15",
+    "value": 0.31081,
+    "value_": 31.08108
+  },
+  {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2025-11-15",
+    "value": 0.31093,
+    "value_": 31.09345
+  },
+  {
     "geoid": "36420",
     "key": "homes-sold-above-list",
     "date": "2019-11-15",
@@ -34732,6 +40696,55 @@
     "date": "2025-11-15",
     "value": 0.10889,
     "value_": 10.8888
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2019-11-15",
+    "value": 0.17357,
+    "value_": 17.35669
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2020-11-15",
+    "value": 0.28939,
+    "value_": 28.93933
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2021-11-15",
+    "value": 0.31363,
+    "value_": 31.36268
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2022-11-15",
+    "value": 0.24123,
+    "value_": 24.12281
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2023-11-15",
+    "value": 0.27262,
+    "value_": 27.26198
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2024-11-15",
+    "value": 0.27367,
+    "value_": 27.36706
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2025-11-15",
+    "value": 0.28245,
+    "value_": 28.24527
   },
   {
     "geoid": "38060",
@@ -35371,6 +41384,55 @@
     "value_": 29.94836
   },
   {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2019-11-15",
+    "value": 0.61768,
+    "value_": 61.76784
+  },
+  {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2020-11-15",
+    "value": 0.49066,
+    "value_": 49.06621
+  },
+  {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2021-11-15",
+    "value": 0.68973,
+    "value_": 68.9729
+  },
+  {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2022-11-15",
+    "value": 0.36732,
+    "value_": 36.73203
+  },
+  {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2023-11-15",
+    "value": 0.49123,
+    "value_": 49.12281
+  },
+  {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2024-11-15",
+    "value": 0.53196,
+    "value_": 53.19635
+  },
+  {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2025-11-15",
+    "value": 0.56305,
+    "value_": 56.30531
+  },
+  {
     "geoid": "41940",
     "key": "homes-sold-above-list",
     "date": "2019-11-15",
@@ -35418,6 +41480,55 @@
     "date": "2025-11-15",
     "value": 0.52023,
     "value_": 52.02312
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2019-11-15",
+    "value": 0.26256,
+    "value_": 26.25558
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2020-11-15",
+    "value": 0.47987,
+    "value_": 47.98665
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2021-11-15",
+    "value": 0.54669,
+    "value_": 54.6693
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2022-11-15",
+    "value": 0.18258,
+    "value_": 18.25809
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2023-11-15",
+    "value": 0.27141,
+    "value_": 27.14092
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2024-11-15",
+    "value": 0.26442,
+    "value_": 26.44195
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2025-11-15",
+    "value": 0.20349,
+    "value_": 20.34934
   },
   {
     "geoid": "45300",
@@ -35614,6 +41725,55 @@
     "date": "2025-11-15",
     "value": 0.30597,
     "value_": 30.59743
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2019-11-15",
+    "value": 0.28332,
+    "value_": 28.33171
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2020-11-15",
+    "value": 0.43629,
+    "value_": 43.62883
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2021-11-15",
+    "value": 0.3982,
+    "value_": 39.82015
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2022-11-15",
+    "value": 0.26806,
+    "value_": 26.80641
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2023-11-15",
+    "value": 0.3351,
+    "value_": 33.51007
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2024-11-15",
+    "value": 0.35755,
+    "value_": 35.75474
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2025-11-15",
+    "value": 0.25992,
+    "value_": 25.99222
   },
   {
     "geoid": "51013",
@@ -36305,50 +42465,50 @@
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2019-11-15",
-    "value": 0.20752,
-    "value_": 20.75179
+    "value": 0.21596,
+    "value_": 21.59649
   },
   {
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2020-11-15",
-    "value": 0.35028,
-    "value_": 35.02782
+    "value": 0.35286,
+    "value_": 35.28638
   },
   {
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2021-11-15",
-    "value": 0.44355,
-    "value_": 44.35492
+    "value": 0.4383,
+    "value_": 43.8304
   },
   {
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2022-11-15",
-    "value": 0.24087,
-    "value_": 24.08657
+    "value": 0.24893,
+    "value_": 24.89272
   },
   {
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2023-11-15",
-    "value": 0.26153,
-    "value_": 26.15293
+    "value": 0.27942,
+    "value_": 27.94173
   },
   {
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2024-11-15",
-    "value": 0.23733,
-    "value_": 23.73325
+    "value": 0.25787,
+    "value_": 25.78696
   },
   {
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2025-11-15",
-    "value": 0.2175,
-    "value_": 21.74988
+    "value": 0.23425,
+    "value_": 23.42461
   },
   {
     "geoid": "99999",
@@ -36645,6 +42805,55 @@
     "value_": 19.48168
   },
   {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2019-12-15",
+    "value": 0.30929,
+    "value_": 30.92876
+  },
+  {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2020-12-15",
+    "value": 0.49367,
+    "value_": 49.36709
+  },
+  {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2021-12-15",
+    "value": 0.54388,
+    "value_": 54.38776
+  },
+  {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2022-12-15",
+    "value": 0.39665,
+    "value_": 39.66514
+  },
+  {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2023-12-15",
+    "value": 0.4825,
+    "value_": 48.25019
+  },
+  {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2024-12-15",
+    "value": 0.42394,
+    "value_": 42.3937
+  },
+  {
+    "geoid": "14460",
+    "key": "homes-sold-above-list",
+    "date": "2025-12-15",
+    "value": 0.37402,
+    "value_": 37.40229
+  },
+  {
     "geoid": "15380",
     "key": "homes-sold-above-list",
     "date": "2019-12-15",
@@ -36741,6 +42950,55 @@
     "date": "2025-12-15",
     "value": 0.15081,
     "value_": 15.08057
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2019-12-15",
+    "value": 0.16027,
+    "value_": 16.02732
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2020-12-15",
+    "value": 0.26416,
+    "value_": 26.41613
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2021-12-15",
+    "value": 0.31777,
+    "value_": 31.77693
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2022-12-15",
+    "value": 0.25018,
+    "value_": 25.01796
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2023-12-15",
+    "value": 0.32449,
+    "value_": 32.44871
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2024-12-15",
+    "value": 0.30973,
+    "value_": 30.97345
+  },
+  {
+    "geoid": "16980",
+    "key": "homes-sold-above-list",
+    "date": "2025-12-15",
+    "value": 0.30624,
+    "value_": 30.62414
   },
   {
     "geoid": "17140",
@@ -36890,6 +43148,55 @@
     "value_": 19.14272
   },
   {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2019-12-15",
+    "value": 0.13962,
+    "value_": 13.96181
+  },
+  {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2020-12-15",
+    "value": 0.28141,
+    "value_": 28.14146
+  },
+  {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2021-12-15",
+    "value": 0.49713,
+    "value_": 49.71283
+  },
+  {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2022-12-15",
+    "value": 0.15814,
+    "value_": 15.81406
+  },
+  {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2023-12-15",
+    "value": 0.13989,
+    "value_": 13.98927
+  },
+  {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2024-12-15",
+    "value": 0.12689,
+    "value_": 12.68894
+  },
+  {
+    "geoid": "19100",
+    "key": "homes-sold-above-list",
+    "date": "2025-12-15",
+    "value": 0.10357,
+    "value_": 10.35721
+  },
+  {
     "geoid": "19740",
     "key": "homes-sold-above-list",
     "date": "2019-12-15",
@@ -36937,6 +43244,55 @@
     "date": "2025-12-15",
     "value": 0.17727,
     "value_": 17.72741
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2019-12-15",
+    "value": 0.16987,
+    "value_": 16.98662
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2020-12-15",
+    "value": 0.33659,
+    "value_": 33.65949
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2021-12-15",
+    "value": 0.38481,
+    "value_": 38.48051
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2022-12-15",
+    "value": 0.26296,
+    "value_": 26.29559
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2023-12-15",
+    "value": 0.33264,
+    "value_": 33.26403
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2024-12-15",
+    "value": 0.3053,
+    "value_": 30.5304
+  },
+  {
+    "geoid": "19820",
+    "key": "homes-sold-above-list",
+    "date": "2025-12-15",
+    "value": 0.30087,
+    "value_": 30.08672
   },
   {
     "geoid": "23420",
@@ -37527,6 +43883,55 @@
     "value_": 16.40167
   },
   {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2019-12-15",
+    "value": 0.37391,
+    "value_": 37.391
+  },
+  {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2020-12-15",
+    "value": 0.51411,
+    "value_": 51.41061
+  },
+  {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2021-12-15",
+    "value": 0.58741,
+    "value_": 58.74085
+  },
+  {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2022-12-15",
+    "value": 0.30986,
+    "value_": 30.98592
+  },
+  {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2023-12-15",
+    "value": 0.42505,
+    "value_": 42.5049
+  },
+  {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2024-12-15",
+    "value": 0.3984,
+    "value_": 39.83977
+  },
+  {
+    "geoid": "31080",
+    "key": "homes-sold-above-list",
+    "date": "2025-12-15",
+    "value": 0.34169,
+    "value_": 34.16905
+  },
+  {
     "geoid": "31140",
     "key": "homes-sold-above-list",
     "date": "2019-12-15",
@@ -37623,6 +44028,55 @@
     "date": "2025-12-15",
     "value": 0.14605,
     "value_": 14.60481
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2019-12-15",
+    "value": 0.08694,
+    "value_": 8.694
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2020-12-15",
+    "value": 0.12077,
+    "value_": 12.07729
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2021-12-15",
+    "value": 0.20475,
+    "value_": 20.47517
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2022-12-15",
+    "value": 0.12088,
+    "value_": 12.08791
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2023-12-15",
+    "value": 0.12232,
+    "value_": 12.23176
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2024-12-15",
+    "value": 0.06913,
+    "value_": 6.91268
+  },
+  {
+    "geoid": "33100",
+    "key": "homes-sold-above-list",
+    "date": "2025-12-15",
+    "value": 0.0617,
+    "value_": 6.17042
   },
   {
     "geoid": "33340",
@@ -37772,6 +44226,55 @@
     "value_": 11.91961
   },
   {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2019-12-15",
+    "value": 0.1629,
+    "value_": 16.29007
+  },
+  {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2020-12-15",
+    "value": 0.16033,
+    "value_": 16.03264
+  },
+  {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2021-12-15",
+    "value": 0.25788,
+    "value_": 25.78774
+  },
+  {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2022-12-15",
+    "value": 0.23165,
+    "value_": 23.16523
+  },
+  {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2023-12-15",
+    "value": 0.30645,
+    "value_": 30.64516
+  },
+  {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2024-12-15",
+    "value": 0.31177,
+    "value_": 31.17705
+  },
+  {
+    "geoid": "35620",
+    "key": "homes-sold-above-list",
+    "date": "2025-12-15",
+    "value": 0.31416,
+    "value_": 31.41584
+  },
+  {
     "geoid": "36420",
     "key": "homes-sold-above-list",
     "date": "2019-12-15",
@@ -37917,6 +44420,55 @@
     "date": "2025-12-15",
     "value": 0.11529,
     "value_": 11.52882
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2019-12-15",
+    "value": 0.17024,
+    "value_": 17.02432
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2020-12-15",
+    "value": 0.26272,
+    "value_": 26.27189
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2021-12-15",
+    "value": 0.29984,
+    "value_": 29.98405
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2022-12-15",
+    "value": 0.233,
+    "value_": 23.30033
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2023-12-15",
+    "value": 0.25747,
+    "value_": 25.74698
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2024-12-15",
+    "value": 0.25044,
+    "value_": 25.04399
+  },
+  {
+    "geoid": "37980",
+    "key": "homes-sold-above-list",
+    "date": "2025-12-15",
+    "value": 0.25573,
+    "value_": 25.57298
   },
   {
     "geoid": "38060",
@@ -38556,6 +45108,55 @@
     "value_": 30.42122
   },
   {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2019-12-15",
+    "value": 0.50587,
+    "value_": 50.58685
+  },
+  {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2020-12-15",
+    "value": 0.4392,
+    "value_": 43.92
+  },
+  {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2021-12-15",
+    "value": 0.61687,
+    "value_": 61.68717
+  },
+  {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2022-12-15",
+    "value": 0.31522,
+    "value_": 31.52174
+  },
+  {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2023-12-15",
+    "value": 0.37975,
+    "value_": 37.97468
+  },
+  {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2024-12-15",
+    "value": 0.47413,
+    "value_": 47.41259
+  },
+  {
+    "geoid": "41860",
+    "key": "homes-sold-above-list",
+    "date": "2025-12-15",
+    "value": 0.4598,
+    "value_": 45.9799
+  },
+  {
     "geoid": "41940",
     "key": "homes-sold-above-list",
     "date": "2019-12-15",
@@ -38603,6 +45204,55 @@
     "date": "2025-12-15",
     "value": 0.47088,
     "value_": 47.08798
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2019-12-15",
+    "value": 0.2425,
+    "value_": 24.24973
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2020-12-15",
+    "value": 0.43922,
+    "value_": 43.92166
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2021-12-15",
+    "value": 0.54411,
+    "value_": 54.411
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2022-12-15",
+    "value": 0.16991,
+    "value_": 16.99074
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2023-12-15",
+    "value": 0.23097,
+    "value_": 23.09658
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2024-12-15",
+    "value": 0.22106,
+    "value_": 22.10614
+  },
+  {
+    "geoid": "42660",
+    "key": "homes-sold-above-list",
+    "date": "2025-12-15",
+    "value": 0.16769,
+    "value_": 16.76942
   },
   {
     "geoid": "45300",
@@ -38799,6 +45449,55 @@
     "date": "2025-12-15",
     "value": 0.29697,
     "value_": 29.69697
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2019-12-15",
+    "value": 0.27595,
+    "value_": 27.59543
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2020-12-15",
+    "value": 0.41011,
+    "value_": 41.01131
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2021-12-15",
+    "value": 0.39148,
+    "value_": 39.14763
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2022-12-15",
+    "value": 0.24383,
+    "value_": 24.38335
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2023-12-15",
+    "value": 0.30568,
+    "value_": 30.56805
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2024-12-15",
+    "value": 0.32427,
+    "value_": 32.42745
+  },
+  {
+    "geoid": "47900",
+    "key": "homes-sold-above-list",
+    "date": "2025-12-15",
+    "value": 0.25333,
+    "value_": 25.33333
   },
   {
     "geoid": "51013",
@@ -39490,50 +46189,50 @@
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2019-12-15",
-    "value": 0.19263,
-    "value_": 19.26254
+    "value": 0.20086,
+    "value_": 20.08609
   },
   {
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2020-12-15",
-    "value": 0.33432,
-    "value_": 33.43182
+    "value": 0.33475,
+    "value_": 33.47452
   },
   {
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2021-12-15",
-    "value": 0.4269,
-    "value_": 42.68955
+    "value": 0.42219,
+    "value_": 42.21854
   },
   {
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2022-12-15",
-    "value": 0.21364,
-    "value_": 21.36414
+    "value": 0.22155,
+    "value_": 22.15486
   },
   {
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2023-12-15",
-    "value": 0.23083,
-    "value_": 23.08308
+    "value": 0.24884,
+    "value_": 24.88445
   },
   {
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2024-12-15",
-    "value": 0.21673,
-    "value_": 21.673
+    "value": 0.23541,
+    "value_": 23.54082
   },
   {
     "geoid": "99997",
     "key": "homes-sold-above-list",
     "date": "2025-12-15",
-    "value": 0.20255,
-    "value_": 20.25457
+    "value": 0.21741,
+    "value_": 21.74125
   },
   {
     "geoid": "99999",

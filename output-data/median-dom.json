@@ -280,6 +280,62 @@
     "value_": 69.5
   },
   {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2019-01-15",
+    "value": 34,
+    "value_": 34
+  },
+  {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2020-01-15",
+    "value": 42,
+    "value_": 42
+  },
+  {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2021-01-15",
+    "value": 24,
+    "value_": 24
+  },
+  {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2022-01-15",
+    "value": 22,
+    "value_": 22
+  },
+  {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2023-01-15",
+    "value": 32,
+    "value_": 32
+  },
+  {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2024-01-15",
+    "value": 26,
+    "value_": 26
+  },
+  {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2025-01-15",
+    "value": 32,
+    "value_": 32
+  },
+  {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2026-01-15",
+    "value": 37,
+    "value_": 37
+  },
+  {
     "geoid": "15380",
     "key": "median-dom",
     "date": "2019-01-15",
@@ -390,6 +446,62 @@
     "date": "2026-01-15",
     "value": 85,
     "value_": 85
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2019-01-15",
+    "value": 86,
+    "value_": 86
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2020-01-15",
+    "value": 96,
+    "value_": 96
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2021-01-15",
+    "value": 33,
+    "value_": 33
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2022-01-15",
+    "value": 32,
+    "value_": 32
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2023-01-15",
+    "value": 76,
+    "value_": 76
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2024-01-15",
+    "value": 65,
+    "value_": 65
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2025-01-15",
+    "value": 70,
+    "value_": 70
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2026-01-15",
+    "value": 70,
+    "value_": 70
   },
   {
     "geoid": "17140",
@@ -560,6 +672,62 @@
     "value_": 69
   },
   {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2019-01-15",
+    "value": 54,
+    "value_": 54
+  },
+  {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2020-01-15",
+    "value": 60,
+    "value_": 60
+  },
+  {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2021-01-15",
+    "value": 34,
+    "value_": 34
+  },
+  {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2022-01-15",
+    "value": 22,
+    "value_": 22
+  },
+  {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2023-01-15",
+    "value": 54,
+    "value_": 54
+  },
+  {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2024-01-15",
+    "value": 55,
+    "value_": 55
+  },
+  {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2025-01-15",
+    "value": 74,
+    "value_": 74
+  },
+  {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2026-01-15",
+    "value": 85,
+    "value_": 85
+  },
+  {
     "geoid": "19740",
     "key": "median-dom",
     "date": "2019-01-15",
@@ -614,6 +782,62 @@
     "date": "2026-01-15",
     "value": 68,
     "value_": 68
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2019-01-15",
+    "value": 36,
+    "value_": 36
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2020-01-15",
+    "value": 41,
+    "value_": 41
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2021-01-15",
+    "value": 28,
+    "value_": 28
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2022-01-15",
+    "value": 27,
+    "value_": 27
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2023-01-15",
+    "value": 37,
+    "value_": 37
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2024-01-15",
+    "value": 35,
+    "value_": 35
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2025-01-15",
+    "value": 38,
+    "value_": 38
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2026-01-15",
+    "value": 48,
+    "value_": 48
   },
   {
     "geoid": "23420",
@@ -1232,6 +1456,62 @@
     "value_": 78
   },
   {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2019-01-15",
+    "value": 60,
+    "value_": 60
+  },
+  {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2020-01-15",
+    "value": 58,
+    "value_": 58
+  },
+  {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2021-01-15",
+    "value": 43,
+    "value_": 43
+  },
+  {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2022-01-15",
+    "value": 39,
+    "value_": 39
+  },
+  {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2023-01-15",
+    "value": 60,
+    "value_": 60
+  },
+  {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2024-01-15",
+    "value": 51,
+    "value_": 51
+  },
+  {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2025-01-15",
+    "value": 60,
+    "value_": 60
+  },
+  {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2026-01-15",
+    "value": 69,
+    "value_": 69
+  },
+  {
     "geoid": "31140",
     "key": "median-dom",
     "date": "2019-01-15",
@@ -1342,6 +1622,62 @@
     "date": "2026-01-15",
     "value": 57,
     "value_": 57
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2019-01-15",
+    "value": 69,
+    "value_": 69
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2020-01-15",
+    "value": 85,
+    "value_": 85
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2021-01-15",
+    "value": 78,
+    "value_": 78
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2022-01-15",
+    "value": 64,
+    "value_": 64
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2023-01-15",
+    "value": 72,
+    "value_": 72
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2024-01-15",
+    "value": 70,
+    "value_": 70
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2025-01-15",
+    "value": 90,
+    "value_": 90
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2026-01-15",
+    "value": 98,
+    "value_": 98
   },
   {
     "geoid": "33340",
@@ -1512,6 +1848,62 @@
     "value_": 91
   },
   {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2019-01-15",
+    "value": 105,
+    "value_": 105
+  },
+  {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2020-01-15",
+    "value": 112,
+    "value_": 112
+  },
+  {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2021-01-15",
+    "value": 93,
+    "value_": 93
+  },
+  {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2022-01-15",
+    "value": 74,
+    "value_": 74
+  },
+  {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2023-01-15",
+    "value": 70,
+    "value_": 70
+  },
+  {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2024-01-15",
+    "value": 64,
+    "value_": 64
+  },
+  {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2025-01-15",
+    "value": 57,
+    "value_": 57
+  },
+  {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2026-01-15",
+    "value": 65,
+    "value_": 65
+  },
+  {
     "geoid": "36420",
     "key": "median-dom",
     "date": "2019-01-15",
@@ -1678,6 +2070,62 @@
     "date": "2026-01-15",
     "value": 70,
     "value_": 70
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2019-01-15",
+    "value": 48,
+    "value_": 48
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2020-01-15",
+    "value": 54,
+    "value_": 54
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2021-01-15",
+    "value": 41,
+    "value_": 41
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2022-01-15",
+    "value": 45,
+    "value_": 45
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2023-01-15",
+    "value": 54,
+    "value_": 54
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2024-01-15",
+    "value": 52,
+    "value_": 52
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2025-01-15",
+    "value": 53,
+    "value_": 53
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2026-01-15",
+    "value": 61,
+    "value_": 61
   },
   {
     "geoid": "38060",
@@ -2408,6 +2856,62 @@
     "value_": 46
   },
   {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2019-01-15",
+    "value": 44,
+    "value_": 44
+  },
+  {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2020-01-15",
+    "value": 52,
+    "value_": 52
+  },
+  {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2021-01-15",
+    "value": 49,
+    "value_": 49
+  },
+  {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2022-01-15",
+    "value": 33,
+    "value_": 33
+  },
+  {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2023-01-15",
+    "value": 55,
+    "value_": 55
+  },
+  {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2024-01-15",
+    "value": 62,
+    "value_": 62
+  },
+  {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2025-01-15",
+    "value": 51,
+    "value_": 51
+  },
+  {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2026-01-15",
+    "value": 40,
+    "value_": 40
+  },
+  {
     "geoid": "41940",
     "key": "median-dom",
     "date": "2019-01-15",
@@ -2462,6 +2966,62 @@
     "date": "2026-01-15",
     "value": 33,
     "value_": 33
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2019-01-15",
+    "value": 48,
+    "value_": 48
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2020-01-15",
+    "value": 39,
+    "value_": 39
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2021-01-15",
+    "value": 10,
+    "value_": 10
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2022-01-15",
+    "value": 7,
+    "value_": 7
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2023-01-15",
+    "value": 44,
+    "value_": 44
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2024-01-15",
+    "value": 36,
+    "value_": 36
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2025-01-15",
+    "value": 39,
+    "value_": 39
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2026-01-15",
+    "value": 56,
+    "value_": 56
   },
   {
     "geoid": "45300",
@@ -2686,6 +3246,62 @@
     "date": "2026-01-15",
     "value": 48,
     "value_": 48
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2019-01-15",
+    "value": 60,
+    "value_": 60
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2020-01-15",
+    "value": 51,
+    "value_": 51
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2021-01-15",
+    "value": 34,
+    "value_": 34
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2022-01-15",
+    "value": 39,
+    "value_": 39
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2023-01-15",
+    "value": 59,
+    "value_": 59
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2024-01-15",
+    "value": 48,
+    "value_": 48
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2025-01-15",
+    "value": 51,
+    "value_": 51
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2026-01-15",
+    "value": 66,
+    "value_": 66
   },
   {
     "geoid": "51013",
@@ -3475,57 +4091,57 @@
     "geoid": "99997",
     "key": "median-dom",
     "date": "2019-01-15",
-    "value": 59.71581,
-    "value_": 59.71581
+    "value": 63.50848,
+    "value_": 63.50848
   },
   {
     "geoid": "99997",
     "key": "median-dom",
     "date": "2020-01-15",
-    "value": 57.09506,
-    "value_": 57.09506
+    "value": 64.27773,
+    "value_": 64.27773
   },
   {
     "geoid": "99997",
     "key": "median-dom",
     "date": "2021-01-15",
-    "value": 37.22205,
-    "value_": 37.22205
+    "value": 44.45931,
+    "value_": 44.45931
   },
   {
     "geoid": "99997",
     "key": "median-dom",
     "date": "2022-01-15",
-    "value": 31.07813,
-    "value_": 31.07813
+    "value": 36.52208,
+    "value_": 36.52208
   },
   {
     "geoid": "99997",
     "key": "median-dom",
     "date": "2023-01-15",
-    "value": 55.60158,
-    "value_": 55.60158
+    "value": 57.6615,
+    "value_": 57.6615
   },
   {
     "geoid": "99997",
     "key": "median-dom",
     "date": "2024-01-15",
-    "value": 52.06318,
-    "value_": 52.06318
+    "value": 53.4079,
+    "value_": 53.4079
   },
   {
     "geoid": "99997",
     "key": "median-dom",
     "date": "2025-01-15",
-    "value": 62.36134,
-    "value_": 62.36134
+    "value": 62.88598,
+    "value_": 62.88598
   },
   {
     "geoid": "99997",
     "key": "median-dom",
     "date": "2026-01-15",
-    "value": 72.11715,
-    "value_": 72.11715
+    "value": 72.0752,
+    "value_": 72.0752
   },
   {
     "geoid": "99999",
@@ -3864,6 +4480,62 @@
     "value_": 82
   },
   {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2019-02-15",
+    "value": 39,
+    "value_": 39
+  },
+  {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2020-02-15",
+    "value": 49,
+    "value_": 49
+  },
+  {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2021-02-15",
+    "value": 27,
+    "value_": 27
+  },
+  {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2022-02-15",
+    "value": 22,
+    "value_": 22
+  },
+  {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2023-02-15",
+    "value": 31,
+    "value_": 31
+  },
+  {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2024-02-15",
+    "value": 23,
+    "value_": 23
+  },
+  {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2025-02-15",
+    "value": 25,
+    "value_": 25
+  },
+  {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2026-02-15",
+    "value": 36,
+    "value_": 36
+  },
+  {
     "geoid": "15380",
     "key": "median-dom",
     "date": "2019-02-15",
@@ -3974,6 +4646,62 @@
     "date": "2026-02-15",
     "value": 90,
     "value_": 90
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2019-02-15",
+    "value": 92,
+    "value_": 92
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2020-02-15",
+    "value": 102,
+    "value_": 102
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2021-02-15",
+    "value": 38,
+    "value_": 38
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2022-02-15",
+    "value": 52,
+    "value_": 52
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2023-02-15",
+    "value": 76,
+    "value_": 76
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2024-02-15",
+    "value": 65,
+    "value_": 65
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2025-02-15",
+    "value": 68,
+    "value_": 68
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2026-02-15",
+    "value": 69,
+    "value_": 69
   },
   {
     "geoid": "17140",
@@ -4144,6 +4872,62 @@
     "value_": 64
   },
   {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2019-02-15",
+    "value": 56,
+    "value_": 56
+  },
+  {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2020-02-15",
+    "value": 59,
+    "value_": 59
+  },
+  {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2021-02-15",
+    "value": 28,
+    "value_": 28
+  },
+  {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2022-02-15",
+    "value": 18,
+    "value_": 18
+  },
+  {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2023-02-15",
+    "value": 55,
+    "value_": 55
+  },
+  {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2024-02-15",
+    "value": 53,
+    "value_": 53
+  },
+  {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2025-02-15",
+    "value": 71,
+    "value_": 71
+  },
+  {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2026-02-15",
+    "value": 87,
+    "value_": 87
+  },
+  {
     "geoid": "19740",
     "key": "median-dom",
     "date": "2019-02-15",
@@ -4198,6 +4982,62 @@
     "date": "2026-02-15",
     "value": 52,
     "value_": 52
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2019-02-15",
+    "value": 41,
+    "value_": 41
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2020-02-15",
+    "value": 46,
+    "value_": 46
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2021-02-15",
+    "value": 27,
+    "value_": 27
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2022-02-15",
+    "value": 22,
+    "value_": 22
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2023-02-15",
+    "value": 37,
+    "value_": 37
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2024-02-15",
+    "value": 32,
+    "value_": 32
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2025-02-15",
+    "value": 39,
+    "value_": 39
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2026-02-15",
+    "value": 46,
+    "value_": 46
   },
   {
     "geoid": "23420",
@@ -4816,6 +5656,62 @@
     "value_": 81
   },
   {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2019-02-15",
+    "value": 60,
+    "value_": 60
+  },
+  {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2020-02-15",
+    "value": 49,
+    "value_": 49
+  },
+  {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2021-02-15",
+    "value": 41,
+    "value_": 41
+  },
+  {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2022-02-15",
+    "value": 32,
+    "value_": 32
+  },
+  {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2023-02-15",
+    "value": 57,
+    "value_": 57
+  },
+  {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2024-02-15",
+    "value": 43,
+    "value_": 43
+  },
+  {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2025-02-15",
+    "value": 55,
+    "value_": 55
+  },
+  {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2026-02-15",
+    "value": 63,
+    "value_": 63
+  },
+  {
     "geoid": "31140",
     "key": "median-dom",
     "date": "2019-02-15",
@@ -4926,6 +5822,62 @@
     "date": "2026-02-15",
     "value": 60,
     "value_": 60
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2019-02-15",
+    "value": 76,
+    "value_": 76
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2020-02-15",
+    "value": 88,
+    "value_": 88
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2021-02-15",
+    "value": 77,
+    "value_": 77
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2022-02-15",
+    "value": 62,
+    "value_": 62
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2023-02-15",
+    "value": 74,
+    "value_": 74
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2024-02-15",
+    "value": 73,
+    "value_": 73
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2025-02-15",
+    "value": 94,
+    "value_": 94
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2026-02-15",
+    "value": 105,
+    "value_": 105
   },
   {
     "geoid": "33340",
@@ -5096,6 +6048,62 @@
     "value_": 97
   },
   {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2019-02-15",
+    "value": 121,
+    "value_": 121
+  },
+  {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2020-02-15",
+    "value": 118,
+    "value_": 118
+  },
+  {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2021-02-15",
+    "value": 104,
+    "value_": 104
+  },
+  {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2022-02-15",
+    "value": 78,
+    "value_": 78
+  },
+  {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2023-02-15",
+    "value": 76,
+    "value_": 76
+  },
+  {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2024-02-15",
+    "value": 69,
+    "value_": 69
+  },
+  {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2025-02-15",
+    "value": 65,
+    "value_": 65
+  },
+  {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2026-02-15",
+    "value": 70,
+    "value_": 70
+  },
+  {
     "geoid": "36420",
     "key": "median-dom",
     "date": "2019-02-15",
@@ -5262,6 +6270,62 @@
     "date": "2026-02-15",
     "value": 68,
     "value_": 68
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2019-02-15",
+    "value": 55,
+    "value_": 55
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2020-02-15",
+    "value": 58,
+    "value_": 58
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2021-02-15",
+    "value": 42,
+    "value_": 42
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2022-02-15",
+    "value": 49,
+    "value_": 49
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2023-02-15",
+    "value": 59,
+    "value_": 59
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2024-02-15",
+    "value": 54,
+    "value_": 54
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2025-02-15",
+    "value": 58,
+    "value_": 58
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2026-02-15",
+    "value": 62,
+    "value_": 62
   },
   {
     "geoid": "38060",
@@ -5992,6 +7056,62 @@
     "value_": 35
   },
   {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2019-02-15",
+    "value": 22,
+    "value_": 22
+  },
+  {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2020-02-15",
+    "value": 20,
+    "value_": 20
+  },
+  {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2021-02-15",
+    "value": 32,
+    "value_": 32
+  },
+  {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2022-02-15",
+    "value": 13,
+    "value_": 13
+  },
+  {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2023-02-15",
+    "value": 28,
+    "value_": 28
+  },
+  {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2024-02-15",
+    "value": 19,
+    "value_": 19
+  },
+  {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2025-02-15",
+    "value": 15,
+    "value_": 15
+  },
+  {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2026-02-15",
+    "value": 14,
+    "value_": 14
+  },
+  {
     "geoid": "41940",
     "key": "median-dom",
     "date": "2019-02-15",
@@ -6046,6 +7166,62 @@
     "date": "2026-02-15",
     "value": 12,
     "value_": 12
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2019-02-15",
+    "value": 39,
+    "value_": 39
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2020-02-15",
+    "value": 17,
+    "value_": 17
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2021-02-15",
+    "value": 6,
+    "value_": 6
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2022-02-15",
+    "value": 5,
+    "value_": 5
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2023-02-15",
+    "value": 33,
+    "value_": 33
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2024-02-15",
+    "value": 12,
+    "value_": 12
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2025-02-15",
+    "value": 13,
+    "value_": 13
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2026-02-15",
+    "value": 26,
+    "value_": 26
   },
   {
     "geoid": "45300",
@@ -6270,6 +7446,62 @@
     "date": "2026-02-15",
     "value": 46,
     "value_": 46
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2019-02-15",
+    "value": 47,
+    "value_": 47
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2020-02-15",
+    "value": 37,
+    "value_": 37
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2021-02-15",
+    "value": 28,
+    "value_": 28
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2022-02-15",
+    "value": 28,
+    "value_": 28
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2023-02-15",
+    "value": 46,
+    "value_": 46
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2024-02-15",
+    "value": 35,
+    "value_": 35
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2025-02-15",
+    "value": 36,
+    "value_": 36
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2026-02-15",
+    "value": 53,
+    "value_": 53
   },
   {
     "geoid": "51013",
@@ -7059,57 +8291,57 @@
     "geoid": "99997",
     "key": "median-dom",
     "date": "2019-02-15",
-    "value": 61.18023,
-    "value_": 61.18023
+    "value": 66.243,
+    "value_": 66.243
   },
   {
     "geoid": "99997",
     "key": "median-dom",
     "date": "2020-02-15",
-    "value": 56.17545,
-    "value_": 56.17545
+    "value": 64.2043,
+    "value_": 64.2043
   },
   {
     "geoid": "99997",
     "key": "median-dom",
     "date": "2021-02-15",
-    "value": 34.82074,
-    "value_": 34.82074
+    "value": 43.79253,
+    "value_": 43.79253
   },
   {
     "geoid": "99997",
     "key": "median-dom",
     "date": "2022-02-15",
-    "value": 27.82154,
-    "value_": 27.82154
+    "value": 35.75173,
+    "value_": 35.75173
   },
   {
     "geoid": "99997",
     "key": "median-dom",
     "date": "2023-02-15",
-    "value": 56.31525,
-    "value_": 56.31525
+    "value": 58.26827,
+    "value_": 58.26827
   },
   {
     "geoid": "99997",
     "key": "median-dom",
     "date": "2024-02-15",
-    "value": 52.55404,
-    "value_": 52.55404
+    "value": 53.13455,
+    "value_": 53.13455
   },
   {
     "geoid": "99997",
     "key": "median-dom",
     "date": "2025-02-15",
-    "value": 62.3017,
-    "value_": 62.3017
+    "value": 62.2768,
+    "value_": 62.2768
   },
   {
     "geoid": "99997",
     "key": "median-dom",
     "date": "2026-02-15",
-    "value": 72.77501,
-    "value_": 72.77501
+    "value": 72.11297,
+    "value_": 72.11297
   },
   {
     "geoid": "99999",
@@ -7448,6 +8680,62 @@
     "value_": 53
   },
   {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2019-03-15",
+    "value": 23,
+    "value_": 23
+  },
+  {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2020-03-15",
+    "value": 25,
+    "value_": 25
+  },
+  {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2021-03-15",
+    "value": 20,
+    "value_": 20
+  },
+  {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2022-03-15",
+    "value": 19,
+    "value_": 19
+  },
+  {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2023-03-15",
+    "value": 22,
+    "value_": 22
+  },
+  {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2024-03-15",
+    "value": 20,
+    "value_": 20
+  },
+  {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2025-03-15",
+    "value": 20,
+    "value_": 20
+  },
+  {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2026-03-15",
+    "value": 26,
+    "value_": 26
+  },
+  {
     "geoid": "15380",
     "key": "median-dom",
     "date": "2019-03-15",
@@ -7558,6 +8846,62 @@
     "date": "2026-03-15",
     "value": 74,
     "value_": 74
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2019-03-15",
+    "value": 75,
+    "value_": 75
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2020-03-15",
+    "value": 77,
+    "value_": 77
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2021-03-15",
+    "value": 27,
+    "value_": 27
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2022-03-15",
+    "value": 53,
+    "value_": 53
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2023-03-15",
+    "value": 57,
+    "value_": 57
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2024-03-15",
+    "value": 50,
+    "value_": 50
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2025-03-15",
+    "value": 53,
+    "value_": 53
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2026-03-15",
+    "value": 51,
+    "value_": 51
   },
   {
     "geoid": "17140",
@@ -7728,6 +9072,62 @@
     "value_": 51
   },
   {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2019-03-15",
+    "value": 45,
+    "value_": 45
+  },
+  {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2020-03-15",
+    "value": 41,
+    "value_": 41
+  },
+  {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2021-03-15",
+    "value": 24,
+    "value_": 24
+  },
+  {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2022-03-15",
+    "value": 16,
+    "value_": 16
+  },
+  {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2023-03-15",
+    "value": 40,
+    "value_": 40
+  },
+  {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2024-03-15",
+    "value": 40,
+    "value_": 40
+  },
+  {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2025-03-15",
+    "value": 52,
+    "value_": 52
+  },
+  {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2026-03-15",
+    "value": 66,
+    "value_": 66
+  },
+  {
     "geoid": "19740",
     "key": "median-dom",
     "date": "2019-03-15",
@@ -7782,6 +9182,62 @@
     "date": "2026-03-15",
     "value": 24,
     "value_": 24
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2019-03-15",
+    "value": 36,
+    "value_": 36
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2020-03-15",
+    "value": 33,
+    "value_": 33
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2021-03-15",
+    "value": 20,
+    "value_": 20
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2022-03-15",
+    "value": 14,
+    "value_": 14
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2023-03-15",
+    "value": 34,
+    "value_": 34
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2024-03-15",
+    "value": 23,
+    "value_": 23
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2025-03-15",
+    "value": 31,
+    "value_": 31
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2026-03-15",
+    "value": 37,
+    "value_": 37
   },
   {
     "geoid": "23420",
@@ -8400,6 +9856,62 @@
     "value_": 62
   },
   {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2019-03-15",
+    "value": 52,
+    "value_": 52
+  },
+  {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2020-03-15",
+    "value": 42,
+    "value_": 42
+  },
+  {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2021-03-15",
+    "value": 35,
+    "value_": 35
+  },
+  {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2022-03-15",
+    "value": 28,
+    "value_": 28
+  },
+  {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2023-03-15",
+    "value": 44,
+    "value_": 44
+  },
+  {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2024-03-15",
+    "value": 37,
+    "value_": 37
+  },
+  {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2025-03-15",
+    "value": 42,
+    "value_": 42
+  },
+  {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2026-03-15",
+    "value": 45,
+    "value_": 45
+  },
+  {
     "geoid": "31140",
     "key": "median-dom",
     "date": "2019-03-15",
@@ -8510,6 +10022,62 @@
     "date": "2026-03-15",
     "value": 63,
     "value_": 63
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2019-03-15",
+    "value": 75,
+    "value_": 75
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2020-03-15",
+    "value": 83,
+    "value_": 83
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2021-03-15",
+    "value": 77,
+    "value_": 77
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2022-03-15",
+    "value": 53,
+    "value_": 53
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2023-03-15",
+    "value": 67,
+    "value_": 67
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2024-03-15",
+    "value": 66,
+    "value_": 66
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2025-03-15",
+    "value": 86,
+    "value_": 86
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2026-03-15",
+    "value": 95,
+    "value_": 95
   },
   {
     "geoid": "33340",
@@ -8680,6 +10248,62 @@
     "value_": 91
   },
   {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2019-03-15",
+    "value": 121,
+    "value_": 121
+  },
+  {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2020-03-15",
+    "value": 117,
+    "value_": 117
+  },
+  {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2021-03-15",
+    "value": 110,
+    "value_": 110
+  },
+  {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2022-03-15",
+    "value": 76,
+    "value_": 76
+  },
+  {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2023-03-15",
+    "value": 81,
+    "value_": 81
+  },
+  {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2024-03-15",
+    "value": 68,
+    "value_": 68
+  },
+  {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2025-03-15",
+    "value": 67,
+    "value_": 67
+  },
+  {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2026-03-15",
+    "value": 68,
+    "value_": 68
+  },
+  {
     "geoid": "36420",
     "key": "median-dom",
     "date": "2019-03-15",
@@ -8846,6 +10470,62 @@
     "date": "2026-03-15",
     "value": 59,
     "value_": 59
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2019-03-15",
+    "value": 50,
+    "value_": 50
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2020-03-15",
+    "value": 46,
+    "value_": 46
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2021-03-15",
+    "value": 39,
+    "value_": 39
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2022-03-15",
+    "value": 35,
+    "value_": 35
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2023-03-15",
+    "value": 46,
+    "value_": 46
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2024-03-15",
+    "value": 43,
+    "value_": 43
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2025-03-15",
+    "value": 44,
+    "value_": 44
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2026-03-15",
+    "value": 56,
+    "value_": 56
   },
   {
     "geoid": "38060",
@@ -9576,6 +11256,62 @@
     "value_": 27
   },
   {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2019-03-15",
+    "value": 20,
+    "value_": 20
+  },
+  {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2020-03-15",
+    "value": 16,
+    "value_": 16
+  },
+  {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2021-03-15",
+    "value": 20,
+    "value_": 20
+  },
+  {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2022-03-15",
+    "value": 12,
+    "value_": 12
+  },
+  {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2023-03-15",
+    "value": 25,
+    "value_": 25
+  },
+  {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2024-03-15",
+    "value": 17,
+    "value_": 17
+  },
+  {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2025-03-15",
+    "value": 16,
+    "value_": 16
+  },
+  {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2026-03-15",
+    "value": 13,
+    "value_": 13
+  },
+  {
     "geoid": "41940",
     "key": "median-dom",
     "date": "2019-03-15",
@@ -9630,6 +11366,62 @@
     "date": "2026-03-15",
     "value": 10,
     "value_": 10
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2019-03-15",
+    "value": 20,
+    "value_": 20
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2020-03-15",
+    "value": 7,
+    "value_": 7
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2021-03-15",
+    "value": 6,
+    "value_": 6
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2022-03-15",
+    "value": 5,
+    "value_": 5
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2023-03-15",
+    "value": 13,
+    "value_": 13
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2024-03-15",
+    "value": 6,
+    "value_": 6
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2025-03-15",
+    "value": 8,
+    "value_": 8
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2026-03-15",
+    "value": 12,
+    "value_": 12
   },
   {
     "geoid": "45300",
@@ -9854,6 +11646,62 @@
     "date": "2026-03-15",
     "value": 36,
     "value_": 36
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2019-03-15",
+    "value": 32,
+    "value_": 32
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2020-03-15",
+    "value": 27,
+    "value_": 27
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2021-03-15",
+    "value": 21,
+    "value_": 21
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2022-03-15",
+    "value": 17,
+    "value_": 17
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2023-03-15",
+    "value": 32,
+    "value_": 32
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2024-03-15",
+    "value": 28,
+    "value_": 28
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2025-03-15",
+    "value": 31,
+    "value_": 31
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2026-03-15",
+    "value": 38,
+    "value_": 38
   },
   {
     "geoid": "51013",
@@ -10643,57 +12491,57 @@
     "geoid": "99997",
     "key": "median-dom",
     "date": "2019-03-15",
-    "value": 51.01609,
-    "value_": 51.01609
+    "value": 56.71946,
+    "value_": 56.71946
   },
   {
     "geoid": "99997",
     "key": "median-dom",
     "date": "2020-03-15",
-    "value": 43.40502,
-    "value_": 43.40502
+    "value": 50.99117,
+    "value_": 50.99117
   },
   {
     "geoid": "99997",
     "key": "median-dom",
     "date": "2021-03-15",
-    "value": 28.81321,
-    "value_": 28.81321
+    "value": 39.04108,
+    "value_": 39.04108
   },
   {
     "geoid": "99997",
     "key": "median-dom",
     "date": "2022-03-15",
-    "value": 21.89877,
-    "value_": 21.89877
+    "value": 30.52611,
+    "value_": 30.52611
   },
   {
     "geoid": "99997",
     "key": "median-dom",
     "date": "2023-03-15",
-    "value": 44.82161,
-    "value_": 44.82161
+    "value": 47.27675,
+    "value_": 47.27675
   },
   {
     "geoid": "99997",
     "key": "median-dom",
     "date": "2024-03-15",
-    "value": 42.87799,
-    "value_": 42.87799
+    "value": 43.89907,
+    "value_": 43.89907
   },
   {
     "geoid": "99997",
     "key": "median-dom",
     "date": "2025-03-15",
-    "value": 52.48387,
-    "value_": 52.48387
+    "value": 52.34514,
+    "value_": 52.34514
   },
   {
     "geoid": "99997",
     "key": "median-dom",
     "date": "2026-03-15",
-    "value": 60.14137,
-    "value_": 60.14137
+    "value": 59.06084,
+    "value_": 59.06084
   },
   {
     "geoid": "99999",
@@ -10997,6 +12845,55 @@
     "value_": 71
   },
   {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2019-04-15",
+    "value": 15,
+    "value_": 15
+  },
+  {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2020-04-15",
+    "value": 21,
+    "value_": 21
+  },
+  {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2021-04-15",
+    "value": 19,
+    "value_": 19
+  },
+  {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2022-04-15",
+    "value": 17,
+    "value_": 17
+  },
+  {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2023-04-15",
+    "value": 19,
+    "value_": 19
+  },
+  {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2024-04-15",
+    "value": 18,
+    "value_": 18
+  },
+  {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2025-04-15",
+    "value": 19,
+    "value_": 19
+  },
+  {
     "geoid": "15380",
     "key": "median-dom",
     "date": "2019-04-15",
@@ -11093,6 +12990,55 @@
     "date": "2025-04-15",
     "value": 48,
     "value_": 48
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2019-04-15",
+    "value": 58,
+    "value_": 58
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2020-04-15",
+    "value": 60,
+    "value_": 60
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2021-04-15",
+    "value": 15,
+    "value_": 15
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2022-04-15",
+    "value": 49,
+    "value_": 49
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2023-04-15",
+    "value": 51,
+    "value_": 51
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2024-04-15",
+    "value": 47,
+    "value_": 47
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2025-04-15",
+    "value": 47,
+    "value_": 47
   },
   {
     "geoid": "17140",
@@ -11242,6 +13188,55 @@
     "value_": 40
   },
   {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2019-04-15",
+    "value": 39,
+    "value_": 39
+  },
+  {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2020-04-15",
+    "value": 37,
+    "value_": 37
+  },
+  {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2021-04-15",
+    "value": 18,
+    "value_": 18
+  },
+  {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2022-04-15",
+    "value": 14,
+    "value_": 14
+  },
+  {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2023-04-15",
+    "value": 31,
+    "value_": 31
+  },
+  {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2024-04-15",
+    "value": 35,
+    "value_": 35
+  },
+  {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2025-04-15",
+    "value": 47,
+    "value_": 47
+  },
+  {
     "geoid": "19740",
     "key": "median-dom",
     "date": "2019-04-15",
@@ -11289,6 +13284,55 @@
     "date": "2025-04-15",
     "value": 19,
     "value_": 19
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2019-04-15",
+    "value": 29,
+    "value_": 29
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2020-04-15",
+    "value": 21,
+    "value_": 21
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2021-04-15",
+    "value": 12,
+    "value_": 12
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2022-04-15",
+    "value": 11,
+    "value_": 11
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2023-04-15",
+    "value": 21,
+    "value_": 21
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2024-04-15",
+    "value": 21,
+    "value_": 21
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2025-04-15",
+    "value": 22,
+    "value_": 22
   },
   {
     "geoid": "23420",
@@ -11830,6 +13874,55 @@
     "value_": 47
   },
   {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2019-04-15",
+    "value": 48,
+    "value_": 48
+  },
+  {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2020-04-15",
+    "value": 39,
+    "value_": 39
+  },
+  {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2021-04-15",
+    "value": 33,
+    "value_": 33
+  },
+  {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2022-04-15",
+    "value": 27,
+    "value_": 27
+  },
+  {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2023-04-15",
+    "value": 38,
+    "value_": 38
+  },
+  {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2024-04-15",
+    "value": 35,
+    "value_": 35
+  },
+  {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2025-04-15",
+    "value": 41,
+    "value_": 41
+  },
+  {
     "geoid": "31140",
     "key": "median-dom",
     "date": "2019-04-15",
@@ -11926,6 +14019,55 @@
     "date": "2025-04-15",
     "value": 35,
     "value_": 35
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2019-04-15",
+    "value": 68,
+    "value_": 68
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2020-04-15",
+    "value": 74,
+    "value_": 74
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2021-04-15",
+    "value": 69,
+    "value_": 69
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2022-04-15",
+    "value": 48,
+    "value_": 48
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2023-04-15",
+    "value": 61,
+    "value_": 61
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2024-04-15",
+    "value": 66,
+    "value_": 66
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2025-04-15",
+    "value": 83,
+    "value_": 83
   },
   {
     "geoid": "33340",
@@ -12075,6 +14217,55 @@
     "value_": 57
   },
   {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2019-04-15",
+    "value": 112,
+    "value_": 112
+  },
+  {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2020-04-15",
+    "value": 102,
+    "value_": 102
+  },
+  {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2021-04-15",
+    "value": 98,
+    "value_": 98
+  },
+  {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2022-04-15",
+    "value": 71,
+    "value_": 71
+  },
+  {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2023-04-15",
+    "value": 78,
+    "value_": 78
+  },
+  {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2024-04-15",
+    "value": 64,
+    "value_": 64
+  },
+  {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2025-04-15",
+    "value": 62,
+    "value_": 62
+  },
+  {
     "geoid": "36420",
     "key": "median-dom",
     "date": "2019-04-15",
@@ -12220,6 +14411,55 @@
     "date": "2025-04-15",
     "value": 48,
     "value_": 48
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2019-04-15",
+    "value": 42,
+    "value_": 42
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2020-04-15",
+    "value": 39,
+    "value_": 39
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2021-04-15",
+    "value": 32,
+    "value_": 32
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2022-04-15",
+    "value": 29,
+    "value_": 29
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2023-04-15",
+    "value": 41,
+    "value_": 41
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2024-04-15",
+    "value": 38,
+    "value_": 38
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2025-04-15",
+    "value": 40,
+    "value_": 40
   },
   {
     "geoid": "38060",
@@ -12859,6 +15099,55 @@
     "value_": 23
   },
   {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2019-04-15",
+    "value": 17,
+    "value_": 17
+  },
+  {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2020-04-15",
+    "value": 16,
+    "value_": 16
+  },
+  {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2021-04-15",
+    "value": 15,
+    "value_": 15
+  },
+  {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2022-04-15",
+    "value": 13,
+    "value_": 13
+  },
+  {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2023-04-15",
+    "value": 22,
+    "value_": 22
+  },
+  {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2024-04-15",
+    "value": 17,
+    "value_": 17
+  },
+  {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2025-04-15",
+    "value": 15,
+    "value_": 15
+  },
+  {
     "geoid": "41940",
     "key": "median-dom",
     "date": "2019-04-15",
@@ -12906,6 +15195,55 @@
     "date": "2025-04-15",
     "value": 12,
     "value_": 12
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2019-04-15",
+    "value": 10,
+    "value_": 10
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2020-04-15",
+    "value": 6,
+    "value_": 6
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2021-04-15",
+    "value": 6,
+    "value_": 6
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2022-04-15",
+    "value": 5,
+    "value_": 5
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2023-04-15",
+    "value": 7,
+    "value_": 7
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2024-04-15",
+    "value": 6,
+    "value_": 6
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2025-04-15",
+    "value": 7,
+    "value_": 7
   },
   {
     "geoid": "45300",
@@ -13098,6 +15436,55 @@
   },
   {
     "geoid": "47260",
+    "key": "median-dom",
+    "date": "2025-04-15",
+    "value": 29,
+    "value_": 29
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2019-04-15",
+    "value": 25,
+    "value_": 25
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2020-04-15",
+    "value": 24,
+    "value_": 24
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2021-04-15",
+    "value": 15,
+    "value_": 15
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2022-04-15",
+    "value": 13,
+    "value_": 13
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2023-04-15",
+    "value": 27,
+    "value_": 27
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2024-04-15",
+    "value": 24,
+    "value_": 24
+  },
+  {
+    "geoid": "47900",
     "key": "median-dom",
     "date": "2025-04-15",
     "value": 29,
@@ -13793,50 +16180,50 @@
     "geoid": "99997",
     "key": "median-dom",
     "date": "2019-04-15",
-    "value": 43.05495,
-    "value_": 43.05495
+    "value": 48.46021,
+    "value_": 48.46021
   },
   {
     "geoid": "99997",
     "key": "median-dom",
     "date": "2020-04-15",
-    "value": 36.4821,
-    "value_": 36.4821
+    "value": 42.5738,
+    "value_": 42.5738
   },
   {
     "geoid": "99997",
     "key": "median-dom",
     "date": "2021-04-15",
-    "value": 24.55701,
-    "value_": 24.55701
+    "value": 32.99891,
+    "value_": 32.99891
   },
   {
     "geoid": "99997",
     "key": "median-dom",
     "date": "2022-04-15",
-    "value": 19.27811,
-    "value_": 19.27811
+    "value": 26.93573,
+    "value_": 26.93573
   },
   {
     "geoid": "99997",
     "key": "median-dom",
     "date": "2023-04-15",
-    "value": 35.84065,
-    "value_": 35.84065
+    "value": 39.39729,
+    "value_": 39.39729
   },
   {
     "geoid": "99997",
     "key": "median-dom",
     "date": "2024-04-15",
-    "value": 36.65316,
-    "value_": 36.65316
+    "value": 38.50006,
+    "value_": 38.50006
   },
   {
     "geoid": "99997",
     "key": "median-dom",
     "date": "2025-04-15",
-    "value": 43.3424,
-    "value_": 43.3424
+    "value": 44.46755,
+    "value_": 44.46755
   },
   {
     "geoid": "99999",
@@ -14133,6 +16520,55 @@
     "value_": 61.5
   },
   {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2019-05-15",
+    "value": 11,
+    "value_": 11
+  },
+  {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2020-05-15",
+    "value": 21,
+    "value_": 21
+  },
+  {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2021-05-15",
+    "value": 18,
+    "value_": 18
+  },
+  {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2022-05-15",
+    "value": 16,
+    "value_": 16
+  },
+  {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2023-05-15",
+    "value": 18,
+    "value_": 18
+  },
+  {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2024-05-15",
+    "value": 18,
+    "value_": 18
+  },
+  {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2025-05-15",
+    "value": 19,
+    "value_": 19
+  },
+  {
     "geoid": "15380",
     "key": "median-dom",
     "date": "2019-05-15",
@@ -14229,6 +16665,55 @@
     "date": "2025-05-15",
     "value": 50,
     "value_": 50
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2019-05-15",
+    "value": 56,
+    "value_": 56
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2020-05-15",
+    "value": 37,
+    "value_": 37
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2021-05-15",
+    "value": 11,
+    "value_": 11
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2022-05-15",
+    "value": 49,
+    "value_": 49
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2023-05-15",
+    "value": 49,
+    "value_": 49
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2024-05-15",
+    "value": 47,
+    "value_": 47
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2025-05-15",
+    "value": 47,
+    "value_": 47
   },
   {
     "geoid": "17140",
@@ -14378,6 +16863,55 @@
     "value_": 38
   },
   {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2019-05-15",
+    "value": 37,
+    "value_": 37
+  },
+  {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2020-05-15",
+    "value": 40,
+    "value_": 40
+  },
+  {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2021-05-15",
+    "value": 17,
+    "value_": 17
+  },
+  {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2022-05-15",
+    "value": 14,
+    "value_": 14
+  },
+  {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2023-05-15",
+    "value": 28,
+    "value_": 28
+  },
+  {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2024-05-15",
+    "value": 34,
+    "value_": 34
+  },
+  {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2025-05-15",
+    "value": 46,
+    "value_": 46
+  },
+  {
     "geoid": "19740",
     "key": "median-dom",
     "date": "2019-05-15",
@@ -14421,6 +16955,55 @@
   },
   {
     "geoid": "19740",
+    "key": "median-dom",
+    "date": "2025-05-15",
+    "value": 19,
+    "value_": 19
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2019-05-15",
+    "value": 17,
+    "value_": 17
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2020-05-15",
+    "value": 39,
+    "value_": 39
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2021-05-15",
+    "value": 11,
+    "value_": 11
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2022-05-15",
+    "value": 11,
+    "value_": 11
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2023-05-15",
+    "value": 16,
+    "value_": 16
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2024-05-15",
+    "value": 18,
+    "value_": 18
+  },
+  {
+    "geoid": "19820",
     "key": "median-dom",
     "date": "2025-05-15",
     "value": 19,
@@ -14966,6 +17549,55 @@
     "value_": 47
   },
   {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2019-05-15",
+    "value": 46,
+    "value_": 46
+  },
+  {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2020-05-15",
+    "value": 44,
+    "value_": 44
+  },
+  {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2021-05-15",
+    "value": 32,
+    "value_": 32
+  },
+  {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2022-05-15",
+    "value": 27,
+    "value_": 27
+  },
+  {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2023-05-15",
+    "value": 35,
+    "value_": 35
+  },
+  {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2024-05-15",
+    "value": 35,
+    "value_": 35
+  },
+  {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2025-05-15",
+    "value": 41,
+    "value_": 41
+  },
+  {
     "geoid": "31140",
     "key": "median-dom",
     "date": "2019-05-15",
@@ -15062,6 +17694,55 @@
     "date": "2025-05-15",
     "value": 33,
     "value_": 33
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2019-05-15",
+    "value": 74,
+    "value_": 74
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2020-05-15",
+    "value": 81,
+    "value_": 81
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2021-05-15",
+    "value": 64,
+    "value_": 64
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2022-05-15",
+    "value": 45,
+    "value_": 45
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2023-05-15",
+    "value": 61,
+    "value_": 61
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2024-05-15",
+    "value": 68,
+    "value_": 68
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2025-05-15",
+    "value": 85,
+    "value_": 85
   },
   {
     "geoid": "33340",
@@ -15211,6 +17892,55 @@
     "value_": 55
   },
   {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2019-05-15",
+    "value": 105,
+    "value_": 105
+  },
+  {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2020-05-15",
+    "value": 103,
+    "value_": 103
+  },
+  {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2021-05-15",
+    "value": 83,
+    "value_": 83
+  },
+  {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2022-05-15",
+    "value": 62,
+    "value_": 62
+  },
+  {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2023-05-15",
+    "value": 64,
+    "value_": 64
+  },
+  {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2024-05-15",
+    "value": 55,
+    "value_": 55
+  },
+  {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2025-05-15",
+    "value": 54,
+    "value_": 54
+  },
+  {
     "geoid": "36420",
     "key": "median-dom",
     "date": "2019-05-15",
@@ -15356,6 +18086,55 @@
     "date": "2025-05-15",
     "value": 52,
     "value_": 52
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2019-05-15",
+    "value": 37,
+    "value_": 37
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2020-05-15",
+    "value": 42,
+    "value_": 42
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2021-05-15",
+    "value": 27,
+    "value_": 27
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2022-05-15",
+    "value": 26,
+    "value_": 26
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2023-05-15",
+    "value": 36,
+    "value_": 36
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2024-05-15",
+    "value": 37,
+    "value_": 37
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2025-05-15",
+    "value": 36,
+    "value_": 36
   },
   {
     "geoid": "38060",
@@ -15995,6 +18774,55 @@
     "value_": 22
   },
   {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2019-05-15",
+    "value": 15,
+    "value_": 15
+  },
+  {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2020-05-15",
+    "value": 29,
+    "value_": 29
+  },
+  {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2021-05-15",
+    "value": 14,
+    "value_": 14
+  },
+  {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2022-05-15",
+    "value": 13,
+    "value_": 13
+  },
+  {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2023-05-15",
+    "value": 18,
+    "value_": 18
+  },
+  {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2024-05-15",
+    "value": 16,
+    "value_": 16
+  },
+  {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2025-05-15",
+    "value": 15,
+    "value_": 15
+  },
+  {
     "geoid": "41940",
     "key": "median-dom",
     "date": "2019-05-15",
@@ -16042,6 +18870,55 @@
     "date": "2025-05-15",
     "value": 15,
     "value_": 15
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2019-05-15",
+    "value": 9,
+    "value_": 9
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2020-05-15",
+    "value": 10,
+    "value_": 10
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2021-05-15",
+    "value": 6,
+    "value_": 6
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2022-05-15",
+    "value": 5,
+    "value_": 5
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2023-05-15",
+    "value": 6,
+    "value_": 6
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2024-05-15",
+    "value": 6,
+    "value_": 6
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2025-05-15",
+    "value": 8,
+    "value_": 8
   },
   {
     "geoid": "45300",
@@ -16238,6 +19115,55 @@
     "date": "2025-05-15",
     "value": 26,
     "value_": 26
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2019-05-15",
+    "value": 24,
+    "value_": 24
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2020-05-15",
+    "value": 30,
+    "value_": 30
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2021-05-15",
+    "value": 12,
+    "value_": 12
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2022-05-15",
+    "value": 13,
+    "value_": 13
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2023-05-15",
+    "value": 24,
+    "value_": 24
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2024-05-15",
+    "value": 23,
+    "value_": 23
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2025-05-15",
+    "value": 32,
+    "value_": 32
   },
   {
     "geoid": "51013",
@@ -16929,50 +19855,50 @@
     "geoid": "99997",
     "key": "median-dom",
     "date": "2019-05-15",
-    "value": 38.66185,
-    "value_": 38.66185
+    "value": 44.36962,
+    "value_": 44.36962
   },
   {
     "geoid": "99997",
     "key": "median-dom",
     "date": "2020-05-15",
-    "value": 40.72485,
-    "value_": 40.72485
+    "value": 45.42814,
+    "value_": 45.42814
   },
   {
     "geoid": "99997",
     "key": "median-dom",
     "date": "2021-05-15",
-    "value": 22.68463,
-    "value_": 22.68463
+    "value": 29.43611,
+    "value_": 29.43611
   },
   {
     "geoid": "99997",
     "key": "median-dom",
     "date": "2022-05-15",
-    "value": 18.67291,
-    "value_": 18.67291
+    "value": 25.16017,
+    "value_": 25.16017
   },
   {
     "geoid": "99997",
     "key": "median-dom",
     "date": "2023-05-15",
-    "value": 31.31015,
-    "value_": 31.31015
+    "value": 34.72843,
+    "value_": 34.72843
   },
   {
     "geoid": "99997",
     "key": "median-dom",
     "date": "2024-05-15",
-    "value": 34.69991,
-    "value_": 34.69991
+    "value": 36.27999,
+    "value_": 36.27999
   },
   {
     "geoid": "99997",
     "key": "median-dom",
     "date": "2025-05-15",
-    "value": 41.48686,
-    "value_": 41.48686
+    "value": 42.58068,
+    "value_": 42.58068
   },
   {
     "geoid": "99999",
@@ -17269,6 +20195,55 @@
     "value_": 58.5
   },
   {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2019-06-15",
+    "value": 10,
+    "value_": 10
+  },
+  {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2020-06-15",
+    "value": 22,
+    "value_": 22
+  },
+  {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2021-06-15",
+    "value": 17,
+    "value_": 17
+  },
+  {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2022-06-15",
+    "value": 16,
+    "value_": 16
+  },
+  {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2023-06-15",
+    "value": 18,
+    "value_": 18
+  },
+  {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2024-06-15",
+    "value": 18,
+    "value_": 18
+  },
+  {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2025-06-15",
+    "value": 19,
+    "value_": 19
+  },
+  {
     "geoid": "15380",
     "key": "median-dom",
     "date": "2019-06-15",
@@ -17365,6 +20340,55 @@
     "date": "2025-06-15",
     "value": 53,
     "value_": 53
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2019-06-15",
+    "value": 56,
+    "value_": 56
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2020-06-15",
+    "value": 33,
+    "value_": 33
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2021-06-15",
+    "value": 9,
+    "value_": 9
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2022-06-15",
+    "value": 48,
+    "value_": 48
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2023-06-15",
+    "value": 48,
+    "value_": 48
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2024-06-15",
+    "value": 48,
+    "value_": 48
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2025-06-15",
+    "value": 48,
+    "value_": 48
   },
   {
     "geoid": "17140",
@@ -17514,6 +20538,55 @@
     "value_": 40
   },
   {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2019-06-15",
+    "value": 38,
+    "value_": 38
+  },
+  {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2020-06-15",
+    "value": 38,
+    "value_": 38
+  },
+  {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2021-06-15",
+    "value": 17,
+    "value_": 17
+  },
+  {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2022-06-15",
+    "value": 17,
+    "value_": 17
+  },
+  {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2023-06-15",
+    "value": 28,
+    "value_": 28
+  },
+  {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2024-06-15",
+    "value": 38,
+    "value_": 38
+  },
+  {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2025-06-15",
+    "value": 47,
+    "value_": 47
+  },
+  {
     "geoid": "19740",
     "key": "median-dom",
     "date": "2019-06-15",
@@ -17561,6 +20634,55 @@
     "date": "2025-06-15",
     "value": 24,
     "value_": 24
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2019-06-15",
+    "value": 18,
+    "value_": 18
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2020-06-15",
+    "value": 27,
+    "value_": 27
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2021-06-15",
+    "value": 9,
+    "value_": 9
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2022-06-15",
+    "value": 11,
+    "value_": 11
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2023-06-15",
+    "value": 14,
+    "value_": 14
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2024-06-15",
+    "value": 19,
+    "value_": 19
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2025-06-15",
+    "value": 19,
+    "value_": 19
   },
   {
     "geoid": "23420",
@@ -18102,6 +21224,55 @@
     "value_": 50
   },
   {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2019-06-15",
+    "value": 46,
+    "value_": 46
+  },
+  {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2020-06-15",
+    "value": 43,
+    "value_": 43
+  },
+  {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2021-06-15",
+    "value": 31,
+    "value_": 31
+  },
+  {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2022-06-15",
+    "value": 30,
+    "value_": 30
+  },
+  {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2023-06-15",
+    "value": 34,
+    "value_": 34
+  },
+  {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2024-06-15",
+    "value": 36,
+    "value_": 36
+  },
+  {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2025-06-15",
+    "value": 43,
+    "value_": 43
+  },
+  {
     "geoid": "31140",
     "key": "median-dom",
     "date": "2019-06-15",
@@ -18198,6 +21369,55 @@
     "date": "2025-06-15",
     "value": 33,
     "value_": 33
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2019-06-15",
+    "value": 65,
+    "value_": 65
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2020-06-15",
+    "value": 92,
+    "value_": 92
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2021-06-15",
+    "value": 62,
+    "value_": 62
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2022-06-15",
+    "value": 46,
+    "value_": 46
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2023-06-15",
+    "value": 57,
+    "value_": 57
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2024-06-15",
+    "value": 66,
+    "value_": 66
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2025-06-15",
+    "value": 88,
+    "value_": 88
   },
   {
     "geoid": "33340",
@@ -18347,6 +21567,55 @@
     "value_": 57
   },
   {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2019-06-15",
+    "value": 95,
+    "value_": 95
+  },
+  {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2020-06-15",
+    "value": 109,
+    "value_": 109
+  },
+  {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2021-06-15",
+    "value": 72,
+    "value_": 72
+  },
+  {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2022-06-15",
+    "value": 56,
+    "value_": 56
+  },
+  {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2023-06-15",
+    "value": 54,
+    "value_": 54
+  },
+  {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2024-06-15",
+    "value": 49,
+    "value_": 49
+  },
+  {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2025-06-15",
+    "value": 49,
+    "value_": 49
+  },
+  {
     "geoid": "36420",
     "key": "median-dom",
     "date": "2019-06-15",
@@ -18492,6 +21761,55 @@
     "date": "2025-06-15",
     "value": 50,
     "value_": 50
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2019-06-15",
+    "value": 39,
+    "value_": 39
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2020-06-15",
+    "value": 47,
+    "value_": 47
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2021-06-15",
+    "value": 26,
+    "value_": 26
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2022-06-15",
+    "value": 28,
+    "value_": 28
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2023-06-15",
+    "value": 35,
+    "value_": 35
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2024-06-15",
+    "value": 36,
+    "value_": 36
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2025-06-15",
+    "value": 39,
+    "value_": 39
   },
   {
     "geoid": "38060",
@@ -19131,6 +22449,55 @@
     "value_": 29
   },
   {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2019-06-15",
+    "value": 16,
+    "value_": 16
+  },
+  {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2020-06-15",
+    "value": 25,
+    "value_": 25
+  },
+  {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2021-06-15",
+    "value": 13,
+    "value_": 13
+  },
+  {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2022-06-15",
+    "value": 15,
+    "value_": 15
+  },
+  {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2023-06-15",
+    "value": 18,
+    "value_": 18
+  },
+  {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2024-06-15",
+    "value": 18,
+    "value_": 18
+  },
+  {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2025-06-15",
+    "value": 21,
+    "value_": 21
+  },
+  {
     "geoid": "41940",
     "key": "median-dom",
     "date": "2019-06-15",
@@ -19178,6 +22545,55 @@
     "date": "2025-06-15",
     "value": 17,
     "value_": 17
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2019-06-15",
+    "value": 11,
+    "value_": 11
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2020-06-15",
+    "value": 9,
+    "value_": 9
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2021-06-15",
+    "value": 6,
+    "value_": 6
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2022-06-15",
+    "value": 6,
+    "value_": 6
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2023-06-15",
+    "value": 7,
+    "value_": 7
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2024-06-15",
+    "value": 7,
+    "value_": 7
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2025-06-15",
+    "value": 12,
+    "value_": 12
   },
   {
     "geoid": "45300",
@@ -19374,6 +22790,55 @@
     "date": "2025-06-15",
     "value": 27,
     "value_": 27
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2019-06-15",
+    "value": 26,
+    "value_": 26
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2020-06-15",
+    "value": 32,
+    "value_": 32
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2021-06-15",
+    "value": 13,
+    "value_": 13
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2022-06-15",
+    "value": 19,
+    "value_": 19
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2023-06-15",
+    "value": 25,
+    "value_": 25
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2024-06-15",
+    "value": 26,
+    "value_": 26
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2025-06-15",
+    "value": 36,
+    "value_": 36
   },
   {
     "geoid": "51013",
@@ -20065,50 +23530,50 @@
     "geoid": "99997",
     "key": "median-dom",
     "date": "2019-06-15",
-    "value": 37.54293,
-    "value_": 37.54293
+    "value": 42.545,
+    "value_": 42.545
   },
   {
     "geoid": "99997",
     "key": "median-dom",
     "date": "2020-06-15",
-    "value": 41.0795,
-    "value_": 41.0795
+    "value": 46.99927,
+    "value_": 46.99927
   },
   {
     "geoid": "99997",
     "key": "median-dom",
     "date": "2021-06-15",
-    "value": 21.55282,
-    "value_": 21.55282
+    "value": 26.80576,
+    "value_": 26.80576
   },
   {
     "geoid": "99997",
     "key": "median-dom",
     "date": "2022-06-15",
-    "value": 19.43622,
-    "value_": 19.43622
+    "value": 24.75904,
+    "value_": 24.75904
   },
   {
     "geoid": "99997",
     "key": "median-dom",
     "date": "2023-06-15",
-    "value": 28.93955,
-    "value_": 28.93955
+    "value": 31.95713,
+    "value_": 31.95713
   },
   {
     "geoid": "99997",
     "key": "median-dom",
     "date": "2024-06-15",
-    "value": 35.46442,
-    "value_": 35.46442
+    "value": 36.75529,
+    "value_": 36.75529
   },
   {
     "geoid": "99997",
     "key": "median-dom",
     "date": "2025-06-15",
-    "value": 43.94358,
-    "value_": 43.94358
+    "value": 44.53649,
+    "value_": 44.53649
   },
   {
     "geoid": "99999",
@@ -20405,6 +23870,55 @@
     "value_": 59
   },
   {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2019-07-15",
+    "value": 15,
+    "value_": 15
+  },
+  {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2020-07-15",
+    "value": 20,
+    "value_": 20
+  },
+  {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2021-07-15",
+    "value": 18,
+    "value_": 18
+  },
+  {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2022-07-15",
+    "value": 18,
+    "value_": 18
+  },
+  {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2023-07-15",
+    "value": 19,
+    "value_": 19
+  },
+  {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2024-07-15",
+    "value": 19,
+    "value_": 19
+  },
+  {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2025-07-15",
+    "value": 20,
+    "value_": 20
+  },
+  {
     "geoid": "15380",
     "key": "median-dom",
     "date": "2019-07-15",
@@ -20501,6 +24015,55 @@
     "date": "2025-07-15",
     "value": 55,
     "value_": 55
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2019-07-15",
+    "value": 59,
+    "value_": 59
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2020-07-15",
+    "value": 25,
+    "value_": 25
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2021-07-15",
+    "value": 11,
+    "value_": 11
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2022-07-15",
+    "value": 49,
+    "value_": 49
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2023-07-15",
+    "value": 49,
+    "value_": 49
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2024-07-15",
+    "value": 49,
+    "value_": 49
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2025-07-15",
+    "value": 50,
+    "value_": 50
   },
   {
     "geoid": "17140",
@@ -20650,6 +24213,55 @@
     "value_": 43
   },
   {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2019-07-15",
+    "value": 39,
+    "value_": 39
+  },
+  {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2020-07-15",
+    "value": 36,
+    "value_": 36
+  },
+  {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2021-07-15",
+    "value": 18,
+    "value_": 18
+  },
+  {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2022-07-15",
+    "value": 20,
+    "value_": 20
+  },
+  {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2023-07-15",
+    "value": 29,
+    "value_": 29
+  },
+  {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2024-07-15",
+    "value": 40,
+    "value_": 40
+  },
+  {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2025-07-15",
+    "value": 53,
+    "value_": 53
+  },
+  {
     "geoid": "19740",
     "key": "median-dom",
     "date": "2019-07-15",
@@ -20697,6 +24309,55 @@
     "date": "2025-07-15",
     "value": 32,
     "value_": 32
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2019-07-15",
+    "value": 18,
+    "value_": 18
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2020-07-15",
+    "value": 20,
+    "value_": 20
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2021-07-15",
+    "value": 10,
+    "value_": 10
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2022-07-15",
+    "value": 14,
+    "value_": 14
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2023-07-15",
+    "value": 15,
+    "value_": 15
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2024-07-15",
+    "value": 17,
+    "value_": 17
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2025-07-15",
+    "value": 20,
+    "value_": 20
   },
   {
     "geoid": "23420",
@@ -21238,6 +24899,55 @@
     "value_": 55
   },
   {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2019-07-15",
+    "value": 46,
+    "value_": 46
+  },
+  {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2020-07-15",
+    "value": 42,
+    "value_": 42
+  },
+  {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2021-07-15",
+    "value": 31,
+    "value_": 31
+  },
+  {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2022-07-15",
+    "value": 34,
+    "value_": 34
+  },
+  {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2023-07-15",
+    "value": 32,
+    "value_": 32
+  },
+  {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2024-07-15",
+    "value": 36,
+    "value_": 36
+  },
+  {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2025-07-15",
+    "value": 52,
+    "value_": 52
+  },
+  {
     "geoid": "31140",
     "key": "median-dom",
     "date": "2019-07-15",
@@ -21334,6 +25044,55 @@
     "date": "2025-07-15",
     "value": 37,
     "value_": 37
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2019-07-15",
+    "value": 66,
+    "value_": 66
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2020-07-15",
+    "value": 91,
+    "value_": 91
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2021-07-15",
+    "value": 57,
+    "value_": 57
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2022-07-15",
+    "value": 44,
+    "value_": 44
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2023-07-15",
+    "value": 55,
+    "value_": 55
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2024-07-15",
+    "value": 69,
+    "value_": 69
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2025-07-15",
+    "value": 88,
+    "value_": 88
   },
   {
     "geoid": "33340",
@@ -21483,6 +25242,55 @@
     "value_": 61
   },
   {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2019-07-15",
+    "value": 89,
+    "value_": 89
+  },
+  {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2020-07-15",
+    "value": 100,
+    "value_": 100
+  },
+  {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2021-07-15",
+    "value": 68,
+    "value_": 68
+  },
+  {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2022-07-15",
+    "value": 55,
+    "value_": 55
+  },
+  {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2023-07-15",
+    "value": 50,
+    "value_": 50
+  },
+  {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2024-07-15",
+    "value": 45,
+    "value_": 45
+  },
+  {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2025-07-15",
+    "value": 50,
+    "value_": 50
+  },
+  {
     "geoid": "36420",
     "key": "median-dom",
     "date": "2019-07-15",
@@ -21628,6 +25436,55 @@
     "date": "2025-07-15",
     "value": 50,
     "value_": 50
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2019-07-15",
+    "value": 40,
+    "value_": 40
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2020-07-15",
+    "value": 40,
+    "value_": 40
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2021-07-15",
+    "value": 26,
+    "value_": 26
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2022-07-15",
+    "value": 31,
+    "value_": 31
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2023-07-15",
+    "value": 36,
+    "value_": 36
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2024-07-15",
+    "value": 35,
+    "value_": 35
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2025-07-15",
+    "value": 41,
+    "value_": 41
   },
   {
     "geoid": "38060",
@@ -22267,6 +26124,55 @@
     "value_": 36
   },
   {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2019-07-15",
+    "value": 20,
+    "value_": 20
+  },
+  {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2020-07-15",
+    "value": 22,
+    "value_": 22
+  },
+  {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2021-07-15",
+    "value": 14,
+    "value_": 14
+  },
+  {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2022-07-15",
+    "value": 22,
+    "value_": 22
+  },
+  {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2023-07-15",
+    "value": 22,
+    "value_": 22
+  },
+  {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2024-07-15",
+    "value": 21,
+    "value_": 21
+  },
+  {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2025-07-15",
+    "value": 24,
+    "value_": 24
+  },
+  {
     "geoid": "41940",
     "key": "median-dom",
     "date": "2019-07-15",
@@ -22314,6 +26220,55 @@
     "date": "2025-07-15",
     "value": 20,
     "value_": 20
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2019-07-15",
+    "value": 14,
+    "value_": 14
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2020-07-15",
+    "value": 8,
+    "value_": 8
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2021-07-15",
+    "value": 6,
+    "value_": 6
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2022-07-15",
+    "value": 9,
+    "value_": 9
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2023-07-15",
+    "value": 8,
+    "value_": 8
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2024-07-15",
+    "value": 8,
+    "value_": 8
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2025-07-15",
+    "value": 18,
+    "value_": 18
   },
   {
     "geoid": "45300",
@@ -22510,6 +26465,55 @@
     "date": "2025-07-15",
     "value": 29,
     "value_": 29
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2019-07-15",
+    "value": 28,
+    "value_": 28
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2020-07-15",
+    "value": 29,
+    "value_": 29
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2021-07-15",
+    "value": 18,
+    "value_": 18
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2022-07-15",
+    "value": 26,
+    "value_": 26
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2023-07-15",
+    "value": 27,
+    "value_": 27
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2024-07-15",
+    "value": 30,
+    "value_": 30
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2025-07-15",
+    "value": 40,
+    "value_": 40
   },
   {
     "geoid": "51013",
@@ -23201,50 +27205,50 @@
     "geoid": "99997",
     "key": "median-dom",
     "date": "2019-07-15",
-    "value": 38.56122,
-    "value_": 38.56122
+    "value": 43.27948,
+    "value_": 43.27948
   },
   {
     "geoid": "99997",
     "key": "median-dom",
     "date": "2020-07-15",
-    "value": 37.73417,
-    "value_": 37.73417
+    "value": 43.67242,
+    "value_": 43.67242
   },
   {
     "geoid": "99997",
     "key": "median-dom",
     "date": "2021-07-15",
-    "value": 21.28914,
-    "value_": 21.28914
+    "value": 25.80091,
+    "value_": 25.80091
   },
   {
     "geoid": "99997",
     "key": "median-dom",
     "date": "2022-07-15",
-    "value": 22.45012,
-    "value_": 22.45012
+    "value": 26.9729,
+    "value_": 26.9729
   },
   {
     "geoid": "99997",
     "key": "median-dom",
     "date": "2023-07-15",
-    "value": 28.8191,
-    "value_": 28.8191
+    "value": 31.64833,
+    "value_": 31.64833
   },
   {
     "geoid": "99997",
     "key": "median-dom",
     "date": "2024-07-15",
-    "value": 37.20388,
-    "value_": 37.20388
+    "value": 38.12519,
+    "value_": 38.12519
   },
   {
     "geoid": "99997",
     "key": "median-dom",
     "date": "2025-07-15",
-    "value": 47.6611,
-    "value_": 47.6611
+    "value": 48.17327,
+    "value_": 48.17327
   },
   {
     "geoid": "99999",
@@ -23541,6 +27545,55 @@
     "value_": 55
   },
   {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2019-08-15",
+    "value": 24,
+    "value_": 24
+  },
+  {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2020-08-15",
+    "value": 21,
+    "value_": 21
+  },
+  {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2021-08-15",
+    "value": 19,
+    "value_": 19
+  },
+  {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2022-08-15",
+    "value": 20,
+    "value_": 20
+  },
+  {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2023-08-15",
+    "value": 19,
+    "value_": 19
+  },
+  {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2024-08-15",
+    "value": 20,
+    "value_": 20
+  },
+  {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2025-08-15",
+    "value": 22,
+    "value_": 22
+  },
+  {
     "geoid": "15380",
     "key": "median-dom",
     "date": "2019-08-15",
@@ -23637,6 +27690,55 @@
     "date": "2025-08-15",
     "value": 60,
     "value_": 60
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2019-08-15",
+    "value": 65,
+    "value_": 65
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2020-08-15",
+    "value": 22,
+    "value_": 22
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2021-08-15",
+    "value": 14,
+    "value_": 14
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2022-08-15",
+    "value": 53,
+    "value_": 53
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2023-08-15",
+    "value": 49,
+    "value_": 49
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2024-08-15",
+    "value": 50,
+    "value_": 50
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2025-08-15",
+    "value": 51,
+    "value_": 51
   },
   {
     "geoid": "17140",
@@ -23786,6 +27888,55 @@
     "value_": 44
   },
   {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2019-08-15",
+    "value": 42,
+    "value_": 42
+  },
+  {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2020-08-15",
+    "value": 33,
+    "value_": 33
+  },
+  {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2021-08-15",
+    "value": 19,
+    "value_": 19
+  },
+  {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2022-08-15",
+    "value": 25,
+    "value_": 25
+  },
+  {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2023-08-15",
+    "value": 33,
+    "value_": 33
+  },
+  {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2024-08-15",
+    "value": 47,
+    "value_": 47
+  },
+  {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2025-08-15",
+    "value": 60,
+    "value_": 60
+  },
+  {
     "geoid": "19740",
     "key": "median-dom",
     "date": "2019-08-15",
@@ -23833,6 +27984,55 @@
     "date": "2025-08-15",
     "value": 41,
     "value_": 41
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2019-08-15",
+    "value": 22,
+    "value_": 22
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2020-08-15",
+    "value": 19,
+    "value_": 19
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2021-08-15",
+    "value": 13,
+    "value_": 13
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2022-08-15",
+    "value": 16,
+    "value_": 16
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2023-08-15",
+    "value": 16,
+    "value_": 16
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2024-08-15",
+    "value": 20,
+    "value_": 20
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2025-08-15",
+    "value": 23,
+    "value_": 23
   },
   {
     "geoid": "23420",
@@ -24374,6 +28574,55 @@
     "value_": 56
   },
   {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2019-08-15",
+    "value": 48,
+    "value_": 48
+  },
+  {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2020-08-15",
+    "value": 40,
+    "value_": 40
+  },
+  {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2021-08-15",
+    "value": 32,
+    "value_": 32
+  },
+  {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2022-08-15",
+    "value": 38,
+    "value_": 38
+  },
+  {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2023-08-15",
+    "value": 34,
+    "value_": 34
+  },
+  {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2024-08-15",
+    "value": 39,
+    "value_": 39
+  },
+  {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2025-08-15",
+    "value": 52,
+    "value_": 52
+  },
+  {
     "geoid": "31140",
     "key": "median-dom",
     "date": "2019-08-15",
@@ -24470,6 +28719,55 @@
     "date": "2025-08-15",
     "value": 39,
     "value_": 39
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2019-08-15",
+    "value": 64,
+    "value_": 64
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2020-08-15",
+    "value": 85,
+    "value_": 85
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2021-08-15",
+    "value": 55,
+    "value_": 55
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2022-08-15",
+    "value": 45,
+    "value_": 45
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2023-08-15",
+    "value": 54,
+    "value_": 54
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2024-08-15",
+    "value": 66,
+    "value_": 66
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2025-08-15",
+    "value": 89,
+    "value_": 89
   },
   {
     "geoid": "33340",
@@ -24619,6 +28917,55 @@
     "value_": 62
   },
   {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2019-08-15",
+    "value": 93,
+    "value_": 93
+  },
+  {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2020-08-15",
+    "value": 84,
+    "value_": 84
+  },
+  {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2021-08-15",
+    "value": 65,
+    "value_": 65
+  },
+  {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2022-08-15",
+    "value": 55,
+    "value_": 55
+  },
+  {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2023-08-15",
+    "value": 50,
+    "value_": 50
+  },
+  {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2024-08-15",
+    "value": 48,
+    "value_": 48
+  },
+  {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2025-08-15",
+    "value": 52,
+    "value_": 52
+  },
+  {
     "geoid": "36420",
     "key": "median-dom",
     "date": "2019-08-15",
@@ -24764,6 +29111,55 @@
     "date": "2025-08-15",
     "value": 56,
     "value_": 56
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2019-08-15",
+    "value": 40,
+    "value_": 40
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2020-08-15",
+    "value": 35,
+    "value_": 35
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2021-08-15",
+    "value": 28,
+    "value_": 28
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2022-08-15",
+    "value": 32,
+    "value_": 32
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2023-08-15",
+    "value": 39,
+    "value_": 39
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2024-08-15",
+    "value": 41,
+    "value_": 41
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2025-08-15",
+    "value": 42,
+    "value_": 42
   },
   {
     "geoid": "38060",
@@ -25403,6 +29799,55 @@
     "value_": 42
   },
   {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2019-08-15",
+    "value": 23,
+    "value_": 23
+  },
+  {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2020-08-15",
+    "value": 24,
+    "value_": 24
+  },
+  {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2021-08-15",
+    "value": 15,
+    "value_": 15
+  },
+  {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2022-08-15",
+    "value": 28,
+    "value_": 28
+  },
+  {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2023-08-15",
+    "value": 27,
+    "value_": 27
+  },
+  {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2024-08-15",
+    "value": 27,
+    "value_": 27
+  },
+  {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2025-08-15",
+    "value": 28,
+    "value_": 28
+  },
+  {
     "geoid": "41940",
     "key": "median-dom",
     "date": "2019-08-15",
@@ -25450,6 +29895,55 @@
     "date": "2025-08-15",
     "value": 22,
     "value_": 22
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2019-08-15",
+    "value": 19,
+    "value_": 19
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2020-08-15",
+    "value": 7,
+    "value_": 7
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2021-08-15",
+    "value": 6,
+    "value_": 6
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2022-08-15",
+    "value": 16,
+    "value_": 16
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2023-08-15",
+    "value": 8,
+    "value_": 8
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2024-08-15",
+    "value": 12,
+    "value_": 12
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2025-08-15",
+    "value": 23,
+    "value_": 23
   },
   {
     "geoid": "45300",
@@ -25646,6 +30140,55 @@
     "date": "2025-08-15",
     "value": 33,
     "value_": 33
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2019-08-15",
+    "value": 33,
+    "value_": 33
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2020-08-15",
+    "value": 26,
+    "value_": 26
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2021-08-15",
+    "value": 25,
+    "value_": 25
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2022-08-15",
+    "value": 32,
+    "value_": 32
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2023-08-15",
+    "value": 28,
+    "value_": 28
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2024-08-15",
+    "value": 32,
+    "value_": 32
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2025-08-15",
+    "value": 42,
+    "value_": 42
   },
   {
     "geoid": "51013",
@@ -26337,50 +30880,50 @@
     "geoid": "99997",
     "key": "median-dom",
     "date": "2019-08-15",
-    "value": 40.74481,
-    "value_": 40.74481
+    "value": 45.84519,
+    "value_": 45.84519
   },
   {
     "geoid": "99997",
     "key": "median-dom",
     "date": "2020-08-15",
-    "value": 34.26006,
-    "value_": 34.26006
+    "value": 39.53,
+    "value_": 39.53
   },
   {
     "geoid": "99997",
     "key": "median-dom",
     "date": "2021-08-15",
-    "value": 22.77335,
-    "value_": 22.77335
+    "value": 26.91769,
+    "value_": 26.91769
   },
   {
     "geoid": "99997",
     "key": "median-dom",
     "date": "2022-08-15",
-    "value": 27.32018,
-    "value_": 27.32018
+    "value": 31.1591,
+    "value_": 31.1591
   },
   {
     "geoid": "99997",
     "key": "median-dom",
     "date": "2023-08-15",
-    "value": 30.51064,
-    "value_": 30.51064
+    "value": 33.06886,
+    "value_": 33.06886
   },
   {
     "geoid": "99997",
     "key": "median-dom",
     "date": "2024-08-15",
-    "value": 41.523,
-    "value_": 41.523
+    "value": 42.01857,
+    "value_": 42.01857
   },
   {
     "geoid": "99997",
     "key": "median-dom",
     "date": "2025-08-15",
-    "value": 52.37723,
-    "value_": 52.37723
+    "value": 52.33353,
+    "value_": 52.33353
   },
   {
     "geoid": "99999",
@@ -26677,6 +31220,55 @@
     "value_": 59
   },
   {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2019-09-15",
+    "value": 27,
+    "value_": 27
+  },
+  {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2020-09-15",
+    "value": 20,
+    "value_": 20
+  },
+  {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2021-09-15",
+    "value": 20,
+    "value_": 20
+  },
+  {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2022-09-15",
+    "value": 21,
+    "value_": 21
+  },
+  {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2023-09-15",
+    "value": 20,
+    "value_": 20
+  },
+  {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2024-09-15",
+    "value": 21,
+    "value_": 21
+  },
+  {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2025-09-15",
+    "value": 25,
+    "value_": 25
+  },
+  {
     "geoid": "15380",
     "key": "median-dom",
     "date": "2019-09-15",
@@ -26773,6 +31365,55 @@
     "date": "2025-09-15",
     "value": 66,
     "value_": 66
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2019-09-15",
+    "value": 71,
+    "value_": 71
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2020-09-15",
+    "value": 22,
+    "value_": 22
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2021-09-15",
+    "value": 15,
+    "value_": 15
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2022-09-15",
+    "value": 57,
+    "value_": 57
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2023-09-15",
+    "value": 50,
+    "value_": 50
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2024-09-15",
+    "value": 53,
+    "value_": 53
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2025-09-15",
+    "value": 52,
+    "value_": 52
   },
   {
     "geoid": "17140",
@@ -26922,6 +31563,55 @@
     "value_": 47
   },
   {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2019-09-15",
+    "value": 48,
+    "value_": 48
+  },
+  {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2020-09-15",
+    "value": 32,
+    "value_": 32
+  },
+  {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2021-09-15",
+    "value": 21,
+    "value_": 21
+  },
+  {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2022-09-15",
+    "value": 32,
+    "value_": 32
+  },
+  {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2023-09-15",
+    "value": 37,
+    "value_": 37
+  },
+  {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2024-09-15",
+    "value": 53,
+    "value_": 53
+  },
+  {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2025-09-15",
+    "value": 67,
+    "value_": 67
+  },
+  {
     "geoid": "19740",
     "key": "median-dom",
     "date": "2019-09-15",
@@ -26969,6 +31659,55 @@
     "date": "2025-09-15",
     "value": 47,
     "value_": 47
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2019-09-15",
+    "value": 25,
+    "value_": 25
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2020-09-15",
+    "value": 19,
+    "value_": 19
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2021-09-15",
+    "value": 15,
+    "value_": 15
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2022-09-15",
+    "value": 21,
+    "value_": 21
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2023-09-15",
+    "value": 17,
+    "value_": 17
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2024-09-15",
+    "value": 25,
+    "value_": 25
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2025-09-15",
+    "value": 26,
+    "value_": 26
   },
   {
     "geoid": "23420",
@@ -27510,6 +32249,55 @@
     "value_": 63
   },
   {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2019-09-15",
+    "value": 49,
+    "value_": 49
+  },
+  {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2020-09-15",
+    "value": 39,
+    "value_": 39
+  },
+  {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2021-09-15",
+    "value": 34,
+    "value_": 34
+  },
+  {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2022-09-15",
+    "value": 43,
+    "value_": 43
+  },
+  {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2023-09-15",
+    "value": 37,
+    "value_": 37
+  },
+  {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2024-09-15",
+    "value": 43,
+    "value_": 43
+  },
+  {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2025-09-15",
+    "value": 54,
+    "value_": 54
+  },
+  {
     "geoid": "31140",
     "key": "median-dom",
     "date": "2019-09-15",
@@ -27606,6 +32394,55 @@
     "date": "2025-09-15",
     "value": 44,
     "value_": 44
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2019-09-15",
+    "value": 70,
+    "value_": 70
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2020-09-15",
+    "value": 77,
+    "value_": 77
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2021-09-15",
+    "value": 55,
+    "value_": 55
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2022-09-15",
+    "value": 52,
+    "value_": 52
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2023-09-15",
+    "value": 51,
+    "value_": 51
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2024-09-15",
+    "value": 69,
+    "value_": 69
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2025-09-15",
+    "value": 94,
+    "value_": 94
   },
   {
     "geoid": "33340",
@@ -27755,6 +32592,55 @@
     "value_": 68
   },
   {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2019-09-15",
+    "value": 96,
+    "value_": 96
+  },
+  {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2020-09-15",
+    "value": 84,
+    "value_": 84
+  },
+  {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2021-09-15",
+    "value": 66,
+    "value_": 66
+  },
+  {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2022-09-15",
+    "value": 59,
+    "value_": 59
+  },
+  {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2023-09-15",
+    "value": 54,
+    "value_": 54
+  },
+  {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2024-09-15",
+    "value": 52,
+    "value_": 52
+  },
+  {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2025-09-15",
+    "value": 58,
+    "value_": 58
+  },
+  {
     "geoid": "36420",
     "key": "median-dom",
     "date": "2019-09-15",
@@ -27900,6 +32786,55 @@
     "date": "2025-09-15",
     "value": 58,
     "value_": 58
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2019-09-15",
+    "value": 38,
+    "value_": 38
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2020-09-15",
+    "value": 33,
+    "value_": 33
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2021-09-15",
+    "value": 33,
+    "value_": 33
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2022-09-15",
+    "value": 40,
+    "value_": 40
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2023-09-15",
+    "value": 36,
+    "value_": 36
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2024-09-15",
+    "value": 42,
+    "value_": 42
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2025-09-15",
+    "value": 45,
+    "value_": 45
   },
   {
     "geoid": "38060",
@@ -28539,6 +33474,55 @@
     "value_": 38
   },
   {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2019-09-15",
+    "value": 24,
+    "value_": 24
+  },
+  {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2020-09-15",
+    "value": 26,
+    "value_": 26
+  },
+  {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2021-09-15",
+    "value": 15,
+    "value_": 15
+  },
+  {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2022-09-15",
+    "value": 29,
+    "value_": 29
+  },
+  {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2023-09-15",
+    "value": 25,
+    "value_": 25
+  },
+  {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2024-09-15",
+    "value": 24,
+    "value_": 24
+  },
+  {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2025-09-15",
+    "value": 21,
+    "value_": 21
+  },
+  {
     "geoid": "41940",
     "key": "median-dom",
     "date": "2019-09-15",
@@ -28586,6 +33570,55 @@
     "date": "2025-09-15",
     "value": 19,
     "value_": 19
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2019-09-15",
+    "value": 22,
+    "value_": 22
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2020-09-15",
+    "value": 7,
+    "value_": 7
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2021-09-15",
+    "value": 7,
+    "value_": 7
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2022-09-15",
+    "value": 21,
+    "value_": 21
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2023-09-15",
+    "value": 12,
+    "value_": 12
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2024-09-15",
+    "value": 18,
+    "value_": 18
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2025-09-15",
+    "value": 28,
+    "value_": 28
   },
   {
     "geoid": "45300",
@@ -28782,6 +33815,55 @@
     "date": "2025-09-15",
     "value": 36,
     "value_": 36
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2019-09-15",
+    "value": 35,
+    "value_": 35
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2020-09-15",
+    "value": 27,
+    "value_": 27
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2021-09-15",
+    "value": 29,
+    "value_": 29
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2022-09-15",
+    "value": 37,
+    "value_": 37
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2023-09-15",
+    "value": 30,
+    "value_": 30
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2024-09-15",
+    "value": 34,
+    "value_": 34
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2025-09-15",
+    "value": 46,
+    "value_": 46
   },
   {
     "geoid": "51013",
@@ -29473,50 +34555,50 @@
     "geoid": "99997",
     "key": "median-dom",
     "date": "2019-09-15",
-    "value": 42.96802,
-    "value_": 42.96802
+    "value": 48.63074,
+    "value_": 48.63074
   },
   {
     "geoid": "99997",
     "key": "median-dom",
     "date": "2020-09-15",
-    "value": 32.92023,
-    "value_": 32.92023
+    "value": 38.43496,
+    "value_": 38.43496
   },
   {
     "geoid": "99997",
     "key": "median-dom",
     "date": "2021-09-15",
-    "value": 24.46664,
-    "value_": 24.46664
+    "value": 28.44705,
+    "value_": 28.44705
   },
   {
     "geoid": "99997",
     "key": "median-dom",
     "date": "2022-09-15",
-    "value": 32.8366,
-    "value_": 32.8366
+    "value": 36.311,
+    "value_": 36.311
   },
   {
     "geoid": "99997",
     "key": "median-dom",
     "date": "2023-09-15",
-    "value": 33.31423,
-    "value_": 33.31423
+    "value": 35.47568,
+    "value_": 35.47568
   },
   {
     "geoid": "99997",
     "key": "median-dom",
     "date": "2024-09-15",
-    "value": 44.96673,
-    "value_": 44.96673
+    "value": 45.43809,
+    "value_": 45.43809
   },
   {
     "geoid": "99997",
     "key": "median-dom",
     "date": "2025-09-15",
-    "value": 55.65648,
-    "value_": 55.65648
+    "value": 55.68347,
+    "value_": 55.68347
   },
   {
     "geoid": "99999",
@@ -29813,6 +34895,55 @@
     "value_": 66.5
   },
   {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2019-10-15",
+    "value": 27,
+    "value_": 27
+  },
+  {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2020-10-15",
+    "value": 20,
+    "value_": 20
+  },
+  {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2021-10-15",
+    "value": 20,
+    "value_": 20
+  },
+  {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2022-10-15",
+    "value": 21,
+    "value_": 21
+  },
+  {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2023-10-15",
+    "value": 19,
+    "value_": 19
+  },
+  {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2024-10-15",
+    "value": 21,
+    "value_": 21
+  },
+  {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2025-10-15",
+    "value": 23,
+    "value_": 23
+  },
+  {
     "geoid": "15380",
     "key": "median-dom",
     "date": "2019-10-15",
@@ -29909,6 +35040,55 @@
     "date": "2025-10-15",
     "value": 68,
     "value_": 68
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2019-10-15",
+    "value": 76,
+    "value_": 76
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2020-10-15",
+    "value": 20,
+    "value_": 20
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2021-10-15",
+    "value": 20,
+    "value_": 20
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2022-10-15",
+    "value": 61,
+    "value_": 61
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2023-10-15",
+    "value": 52,
+    "value_": 52
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2024-10-15",
+    "value": 54,
+    "value_": 54
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2025-10-15",
+    "value": 54,
+    "value_": 54
   },
   {
     "geoid": "17140",
@@ -30058,6 +35238,55 @@
     "value_": 51
   },
   {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2019-10-15",
+    "value": 50,
+    "value_": 50
+  },
+  {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2020-10-15",
+    "value": 31,
+    "value_": 31
+  },
+  {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2021-10-15",
+    "value": 22,
+    "value_": 22
+  },
+  {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2022-10-15",
+    "value": 33,
+    "value_": 33
+  },
+  {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2023-10-15",
+    "value": 38,
+    "value_": 38
+  },
+  {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2024-10-15",
+    "value": 55,
+    "value_": 55
+  },
+  {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2025-10-15",
+    "value": 67,
+    "value_": 67
+  },
+  {
     "geoid": "19740",
     "key": "median-dom",
     "date": "2019-10-15",
@@ -30105,6 +35334,55 @@
     "date": "2025-10-15",
     "value": 46,
     "value_": 46
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2019-10-15",
+    "value": 30,
+    "value_": 30
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2020-10-15",
+    "value": 19,
+    "value_": 19
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2021-10-15",
+    "value": 19,
+    "value_": 19
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2022-10-15",
+    "value": 23,
+    "value_": 23
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2023-10-15",
+    "value": 20,
+    "value_": 20
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2024-10-15",
+    "value": 25,
+    "value_": 25
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2025-10-15",
+    "value": 29,
+    "value_": 29
   },
   {
     "geoid": "23420",
@@ -30646,6 +35924,55 @@
     "value_": 63
   },
   {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2019-10-15",
+    "value": 49,
+    "value_": 49
+  },
+  {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2020-10-15",
+    "value": 38,
+    "value_": 38
+  },
+  {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2021-10-15",
+    "value": 35,
+    "value_": 35
+  },
+  {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2022-10-15",
+    "value": 45,
+    "value_": 45
+  },
+  {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2023-10-15",
+    "value": 38,
+    "value_": 38
+  },
+  {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2024-10-15",
+    "value": 45,
+    "value_": 45
+  },
+  {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2025-10-15",
+    "value": 55,
+    "value_": 55
+  },
+  {
     "geoid": "31140",
     "key": "median-dom",
     "date": "2019-10-15",
@@ -30742,6 +36069,55 @@
     "date": "2025-10-15",
     "value": 46,
     "value_": 46
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2019-10-15",
+    "value": 71,
+    "value_": 71
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2020-10-15",
+    "value": 74,
+    "value_": 74
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2021-10-15",
+    "value": 56,
+    "value_": 56
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2022-10-15",
+    "value": 56,
+    "value_": 56
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2023-10-15",
+    "value": 56,
+    "value_": 56
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2024-10-15",
+    "value": 69,
+    "value_": 69
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2025-10-15",
+    "value": 97,
+    "value_": 97
   },
   {
     "geoid": "33340",
@@ -30891,6 +36267,55 @@
     "value_": 71
   },
   {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2019-10-15",
+    "value": 100,
+    "value_": 100
+  },
+  {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2020-10-15",
+    "value": 80,
+    "value_": 80
+  },
+  {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2021-10-15",
+    "value": 70,
+    "value_": 70
+  },
+  {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2022-10-15",
+    "value": 63,
+    "value_": 63
+  },
+  {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2023-10-15",
+    "value": 75,
+    "value_": 75
+  },
+  {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2024-10-15",
+    "value": 54,
+    "value_": 54
+  },
+  {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2025-10-15",
+    "value": 61,
+    "value_": 61
+  },
+  {
     "geoid": "36420",
     "key": "median-dom",
     "date": "2019-10-15",
@@ -31036,6 +36461,55 @@
     "date": "2025-10-15",
     "value": 64,
     "value_": 64
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2019-10-15",
+    "value": 39,
+    "value_": 39
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2020-10-15",
+    "value": 35,
+    "value_": 35
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2021-10-15",
+    "value": 37,
+    "value_": 37
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2022-10-15",
+    "value": 38,
+    "value_": 38
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2023-10-15",
+    "value": 38,
+    "value_": 38
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2024-10-15",
+    "value": 42,
+    "value_": 42
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2025-10-15",
+    "value": 45,
+    "value_": 45
   },
   {
     "geoid": "38060",
@@ -31675,6 +37149,55 @@
     "value_": 40
   },
   {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2019-10-15",
+    "value": 20,
+    "value_": 20
+  },
+  {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2020-10-15",
+    "value": 24,
+    "value_": 24
+  },
+  {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2021-10-15",
+    "value": 15,
+    "value_": 15
+  },
+  {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2022-10-15",
+    "value": 26,
+    "value_": 26
+  },
+  {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2023-10-15",
+    "value": 21,
+    "value_": 21
+  },
+  {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2024-10-15",
+    "value": 19,
+    "value_": 19
+  },
+  {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2025-10-15",
+    "value": 17,
+    "value_": 17
+  },
+  {
     "geoid": "41940",
     "key": "median-dom",
     "date": "2019-10-15",
@@ -31722,6 +37245,55 @@
     "date": "2025-10-15",
     "value": 17,
     "value_": 17
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2019-10-15",
+    "value": 20,
+    "value_": 20
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2020-10-15",
+    "value": 7,
+    "value_": 7
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2021-10-15",
+    "value": 7,
+    "value_": 7
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2022-10-15",
+    "value": 21,
+    "value_": 21
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2023-10-15",
+    "value": 12,
+    "value_": 12
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2024-10-15",
+    "value": 16,
+    "value_": 16
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2025-10-15",
+    "value": 25,
+    "value_": 25
   },
   {
     "geoid": "45300",
@@ -31918,6 +37490,55 @@
     "date": "2025-10-15",
     "value": 38,
     "value_": 38
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2019-10-15",
+    "value": 34,
+    "value_": 34
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2020-10-15",
+    "value": 25,
+    "value_": 25
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2021-10-15",
+    "value": 30,
+    "value_": 30
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2022-10-15",
+    "value": 37,
+    "value_": 37
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2023-10-15",
+    "value": 32,
+    "value_": 32
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2024-10-15",
+    "value": 34,
+    "value_": 34
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2025-10-15",
+    "value": 44,
+    "value_": 44
   },
   {
     "geoid": "51013",
@@ -32609,50 +38230,50 @@
     "geoid": "99997",
     "key": "median-dom",
     "date": "2019-10-15",
-    "value": 44.69124,
-    "value_": 44.69124
+    "value": 50.59929,
+    "value_": 50.59929
   },
   {
     "geoid": "99997",
     "key": "median-dom",
     "date": "2020-10-15",
-    "value": 31.88672,
-    "value_": 31.88672
+    "value": 37.16642,
+    "value_": 37.16642
   },
   {
     "geoid": "99997",
     "key": "median-dom",
     "date": "2021-10-15",
-    "value": 26.68075,
-    "value_": 26.68075
+    "value": 30.90095,
+    "value_": 30.90095
   },
   {
     "geoid": "99997",
     "key": "median-dom",
     "date": "2022-10-15",
-    "value": 36.21437,
-    "value_": 36.21437
+    "value": 39.29636,
+    "value_": 39.29636
   },
   {
     "geoid": "99997",
     "key": "median-dom",
     "date": "2023-10-15",
-    "value": 35.38511,
-    "value_": 35.38511
+    "value": 38.49114,
+    "value_": 38.49114
   },
   {
     "geoid": "99997",
     "key": "median-dom",
     "date": "2024-10-15",
-    "value": 47.57503,
-    "value_": 47.57503
+    "value": 47.62724,
+    "value_": 47.62724
   },
   {
     "geoid": "99997",
     "key": "median-dom",
     "date": "2025-10-15",
-    "value": 57.66994,
-    "value_": 57.66994
+    "value": 57.43564,
+    "value_": 57.43564
   },
   {
     "geoid": "99999",
@@ -32949,6 +38570,55 @@
     "value_": 55.5
   },
   {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2019-11-15",
+    "value": 28,
+    "value_": 28
+  },
+  {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2020-11-15",
+    "value": 21,
+    "value_": 21
+  },
+  {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2021-11-15",
+    "value": 20,
+    "value_": 20
+  },
+  {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2022-11-15",
+    "value": 22,
+    "value_": 22
+  },
+  {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2023-11-15",
+    "value": 20,
+    "value_": 20
+  },
+  {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2024-11-15",
+    "value": 21,
+    "value_": 21
+  },
+  {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2025-11-15",
+    "value": 25,
+    "value_": 25
+  },
+  {
     "geoid": "15380",
     "key": "median-dom",
     "date": "2019-11-15",
@@ -33045,6 +38715,55 @@
     "date": "2025-11-15",
     "value": 68,
     "value_": 68
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2019-11-15",
+    "value": 79,
+    "value_": 79
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2020-11-15",
+    "value": 21,
+    "value_": 21
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2021-11-15",
+    "value": 22,
+    "value_": 22
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2022-11-15",
+    "value": 61,
+    "value_": 61
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2023-11-15",
+    "value": 53,
+    "value_": 53
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2024-11-15",
+    "value": 56,
+    "value_": 56
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2025-11-15",
+    "value": 56,
+    "value_": 56
   },
   {
     "geoid": "17140",
@@ -33194,6 +38913,55 @@
     "value_": 54
   },
   {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2019-11-15",
+    "value": 52,
+    "value_": 52
+  },
+  {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2020-11-15",
+    "value": 29,
+    "value_": 29
+  },
+  {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2021-11-15",
+    "value": 21,
+    "value_": 21
+  },
+  {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2022-11-15",
+    "value": 38,
+    "value_": 38
+  },
+  {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2023-11-15",
+    "value": 40,
+    "value_": 40
+  },
+  {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2024-11-15",
+    "value": 56,
+    "value_": 56
+  },
+  {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2025-11-15",
+    "value": 71,
+    "value_": 71
+  },
+  {
     "geoid": "19740",
     "key": "median-dom",
     "date": "2019-11-15",
@@ -33241,6 +39009,55 @@
     "date": "2025-11-15",
     "value": 50,
     "value_": 50
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2019-11-15",
+    "value": 28,
+    "value_": 28
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2020-11-15",
+    "value": 22,
+    "value_": 22
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2021-11-15",
+    "value": 20,
+    "value_": 20
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2022-11-15",
+    "value": 30,
+    "value_": 30
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2023-11-15",
+    "value": 20,
+    "value_": 20
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2024-11-15",
+    "value": 27,
+    "value_": 27
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2025-11-15",
+    "value": 32,
+    "value_": 32
   },
   {
     "geoid": "23420",
@@ -33782,6 +39599,55 @@
     "value_": 71
   },
   {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2019-11-15",
+    "value": 49,
+    "value_": 49
+  },
+  {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2020-11-15",
+    "value": 39,
+    "value_": 39
+  },
+  {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2021-11-15",
+    "value": 35,
+    "value_": 35
+  },
+  {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2022-11-15",
+    "value": 48,
+    "value_": 48
+  },
+  {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2023-11-15",
+    "value": 39,
+    "value_": 39
+  },
+  {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2024-11-15",
+    "value": 47,
+    "value_": 47
+  },
+  {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2025-11-15",
+    "value": 56,
+    "value_": 56
+  },
+  {
     "geoid": "31140",
     "key": "median-dom",
     "date": "2019-11-15",
@@ -33878,6 +39744,55 @@
     "date": "2025-11-15",
     "value": 47,
     "value_": 47
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2019-11-15",
+    "value": 76,
+    "value_": 76
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2020-11-15",
+    "value": 66,
+    "value_": 66
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2021-11-15",
+    "value": 56,
+    "value_": 56
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2022-11-15",
+    "value": 59,
+    "value_": 59
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2023-11-15",
+    "value": 55,
+    "value_": 55
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2024-11-15",
+    "value": 78,
+    "value_": 78
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2025-11-15",
+    "value": 92,
+    "value_": 92
   },
   {
     "geoid": "33340",
@@ -34027,6 +39942,55 @@
     "value_": 77
   },
   {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2019-11-15",
+    "value": 101,
+    "value_": 101
+  },
+  {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2020-11-15",
+    "value": 80,
+    "value_": 80
+  },
+  {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2021-11-15",
+    "value": 70,
+    "value_": 70
+  },
+  {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2022-11-15",
+    "value": 66,
+    "value_": 66
+  },
+  {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2023-11-15",
+    "value": 71,
+    "value_": 71
+  },
+  {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2024-11-15",
+    "value": 55,
+    "value_": 55
+  },
+  {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2025-11-15",
+    "value": 63,
+    "value_": 63
+  },
+  {
     "geoid": "36420",
     "key": "median-dom",
     "date": "2019-11-15",
@@ -34172,6 +40136,55 @@
     "date": "2025-11-15",
     "value": 60,
     "value_": 60
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2019-11-15",
+    "value": 42,
+    "value_": 42
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2020-11-15",
+    "value": 33,
+    "value_": 33
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2021-11-15",
+    "value": 37,
+    "value_": 37
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2022-11-15",
+    "value": 39,
+    "value_": 39
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2023-11-15",
+    "value": 41,
+    "value_": 41
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2024-11-15",
+    "value": 42,
+    "value_": 42
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2025-11-15",
+    "value": 47,
+    "value_": 47
   },
   {
     "geoid": "38060",
@@ -34811,6 +40824,55 @@
     "value_": 42
   },
   {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2019-11-15",
+    "value": 27,
+    "value_": 27
+  },
+  {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2020-11-15",
+    "value": 31,
+    "value_": 31
+  },
+  {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2021-11-15",
+    "value": 17,
+    "value_": 17
+  },
+  {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2022-11-15",
+    "value": 34,
+    "value_": 34
+  },
+  {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2023-11-15",
+    "value": 28,
+    "value_": 28
+  },
+  {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2024-11-15",
+    "value": 28,
+    "value_": 28
+  },
+  {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2025-11-15",
+    "value": 22,
+    "value_": 22
+  },
+  {
     "geoid": "41940",
     "key": "median-dom",
     "date": "2019-11-15",
@@ -34858,6 +40920,55 @@
     "date": "2025-11-15",
     "value": 19,
     "value_": 19
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2019-11-15",
+    "value": 24,
+    "value_": 24
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2020-11-15",
+    "value": 7,
+    "value_": 7
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2021-11-15",
+    "value": 7,
+    "value_": 7
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2022-11-15",
+    "value": 25,
+    "value_": 25
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2023-11-15",
+    "value": 17,
+    "value_": 17
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2024-11-15",
+    "value": 23,
+    "value_": 23
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2025-11-15",
+    "value": 31,
+    "value_": 31
   },
   {
     "geoid": "45300",
@@ -35054,6 +41165,55 @@
     "date": "2025-11-15",
     "value": 38,
     "value_": 38
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2019-11-15",
+    "value": 37,
+    "value_": 37
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2020-11-15",
+    "value": 26,
+    "value_": 26
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2021-11-15",
+    "value": 33,
+    "value_": 33
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2022-11-15",
+    "value": 42,
+    "value_": 42
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2023-11-15",
+    "value": 35,
+    "value_": 35
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2024-11-15",
+    "value": 36,
+    "value_": 36
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2025-11-15",
+    "value": 48,
+    "value_": 48
   },
   {
     "geoid": "51013",
@@ -35745,50 +41905,50 @@
     "geoid": "99997",
     "key": "median-dom",
     "date": "2019-11-15",
-    "value": 46.70909,
-    "value_": 46.70909
+    "value": 52.93373,
+    "value_": 52.93373
   },
   {
     "geoid": "99997",
     "key": "median-dom",
     "date": "2020-11-15",
-    "value": 31.53848,
-    "value_": 31.53848
+    "value": 37.35978,
+    "value_": 37.35978
   },
   {
     "geoid": "99997",
     "key": "median-dom",
     "date": "2021-11-15",
-    "value": 27.8327,
-    "value_": 27.8327
+    "value": 32.21302,
+    "value_": 32.21302
   },
   {
     "geoid": "99997",
     "key": "median-dom",
     "date": "2022-11-15",
-    "value": 39.99317,
-    "value_": 39.99317
+    "value": 42.87486,
+    "value_": 42.87486
   },
   {
     "geoid": "99997",
     "key": "median-dom",
     "date": "2023-11-15",
-    "value": 37.44625,
-    "value_": 37.44625
+    "value": 40.03156,
+    "value_": 40.03156
   },
   {
     "geoid": "99997",
     "key": "median-dom",
     "date": "2024-11-15",
-    "value": 50.12878,
-    "value_": 50.12878
+    "value": 50.41624,
+    "value_": 50.41624
   },
   {
     "geoid": "99997",
     "key": "median-dom",
     "date": "2025-11-15",
-    "value": 58.76696,
-    "value_": 58.76696
+    "value": 58.96194,
+    "value_": 58.96194
   },
   {
     "geoid": "99999",
@@ -36085,6 +42245,55 @@
     "value_": 68.5
   },
   {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2019-12-15",
+    "value": 34,
+    "value_": 34
+  },
+  {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2020-12-15",
+    "value": 22,
+    "value_": 22
+  },
+  {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2021-12-15",
+    "value": 21,
+    "value_": 21
+  },
+  {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2022-12-15",
+    "value": 25,
+    "value_": 25
+  },
+  {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2023-12-15",
+    "value": 22,
+    "value_": 22
+  },
+  {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2024-12-15",
+    "value": 25,
+    "value_": 25
+  },
+  {
+    "geoid": "14460",
+    "key": "median-dom",
+    "date": "2025-12-15",
+    "value": 30,
+    "value_": 30
+  },
+  {
     "geoid": "15380",
     "key": "median-dom",
     "date": "2019-12-15",
@@ -36181,6 +42390,55 @@
     "date": "2025-12-15",
     "value": 77,
     "value_": 77
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2019-12-15",
+    "value": 84,
+    "value_": 84
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2020-12-15",
+    "value": 25,
+    "value_": 25
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2021-12-15",
+    "value": 26,
+    "value_": 26
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2022-12-15",
+    "value": 65,
+    "value_": 65
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2023-12-15",
+    "value": 57,
+    "value_": 57
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2024-12-15",
+    "value": 61,
+    "value_": 61
+  },
+  {
+    "geoid": "16980",
+    "key": "median-dom",
+    "date": "2025-12-15",
+    "value": 61,
+    "value_": 61
   },
   {
     "geoid": "17140",
@@ -36330,6 +42588,55 @@
     "value_": 59
   },
   {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2019-12-15",
+    "value": 58,
+    "value_": 58
+  },
+  {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2020-12-15",
+    "value": 31,
+    "value_": 31
+  },
+  {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2021-12-15",
+    "value": 22,
+    "value_": 22
+  },
+  {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2022-12-15",
+    "value": 46,
+    "value_": 46
+  },
+  {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2023-12-15",
+    "value": 49,
+    "value_": 49
+  },
+  {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2024-12-15",
+    "value": 66,
+    "value_": 66
+  },
+  {
+    "geoid": "19100",
+    "key": "median-dom",
+    "date": "2025-12-15",
+    "value": 77,
+    "value_": 77
+  },
+  {
     "geoid": "19740",
     "key": "median-dom",
     "date": "2019-12-15",
@@ -36377,6 +42684,55 @@
     "date": "2025-12-15",
     "value": 57,
     "value_": 57
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2019-12-15",
+    "value": 36,
+    "value_": 36
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2020-12-15",
+    "value": 23,
+    "value_": 23
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2021-12-15",
+    "value": 23,
+    "value_": 23
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2022-12-15",
+    "value": 31,
+    "value_": 31
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2023-12-15",
+    "value": 28,
+    "value_": 28
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2024-12-15",
+    "value": 32,
+    "value_": 32
+  },
+  {
+    "geoid": "19820",
+    "key": "median-dom",
+    "date": "2025-12-15",
+    "value": 36,
+    "value_": 36
   },
   {
     "geoid": "23420",
@@ -36918,6 +43274,55 @@
     "value_": 72
   },
   {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2019-12-15",
+    "value": 54,
+    "value_": 54
+  },
+  {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2020-12-15",
+    "value": 40,
+    "value_": 40
+  },
+  {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2021-12-15",
+    "value": 36,
+    "value_": 36
+  },
+  {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2022-12-15",
+    "value": 52,
+    "value_": 52
+  },
+  {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2023-12-15",
+    "value": 42,
+    "value_": 42
+  },
+  {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2024-12-15",
+    "value": 51,
+    "value_": 51
+  },
+  {
+    "geoid": "31080",
+    "key": "median-dom",
+    "date": "2025-12-15",
+    "value": 60,
+    "value_": 60
+  },
+  {
     "geoid": "31140",
     "key": "median-dom",
     "date": "2019-12-15",
@@ -37014,6 +43419,55 @@
     "date": "2025-12-15",
     "value": 54,
     "value_": 54
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2019-12-15",
+    "value": 75,
+    "value_": 75
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2020-12-15",
+    "value": 70,
+    "value_": 70
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2021-12-15",
+    "value": 57,
+    "value_": 57
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2022-12-15",
+    "value": 60,
+    "value_": 60
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2023-12-15",
+    "value": 60,
+    "value_": 60
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2024-12-15",
+    "value": 81,
+    "value_": 81
+  },
+  {
+    "geoid": "33100",
+    "key": "median-dom",
+    "date": "2025-12-15",
+    "value": 95,
+    "value_": 95
   },
   {
     "geoid": "33340",
@@ -37163,6 +43617,55 @@
     "value_": 86
   },
   {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2019-12-15",
+    "value": 101,
+    "value_": 101
+  },
+  {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2020-12-15",
+    "value": 84,
+    "value_": 84
+  },
+  {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2021-12-15",
+    "value": 72,
+    "value_": 72
+  },
+  {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2022-12-15",
+    "value": 66,
+    "value_": 66
+  },
+  {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2023-12-15",
+    "value": 64,
+    "value_": 64
+  },
+  {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2024-12-15",
+    "value": 54,
+    "value_": 54
+  },
+  {
+    "geoid": "35620",
+    "key": "median-dom",
+    "date": "2025-12-15",
+    "value": 60,
+    "value_": 60
+  },
+  {
     "geoid": "36420",
     "key": "median-dom",
     "date": "2019-12-15",
@@ -37308,6 +43811,55 @@
     "date": "2025-12-15",
     "value": 63,
     "value_": 63
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2019-12-15",
+    "value": 43,
+    "value_": 43
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2020-12-15",
+    "value": 35,
+    "value_": 35
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2021-12-15",
+    "value": 40,
+    "value_": 40
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2022-12-15",
+    "value": 46,
+    "value_": 46
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2023-12-15",
+    "value": 45,
+    "value_": 45
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2024-12-15",
+    "value": 45,
+    "value_": 45
+  },
+  {
+    "geoid": "37980",
+    "key": "median-dom",
+    "date": "2025-12-15",
+    "value": 50,
+    "value_": 50
   },
   {
     "geoid": "38060",
@@ -37947,6 +44499,55 @@
     "value_": 42
   },
   {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2019-12-15",
+    "value": 38,
+    "value_": 38
+  },
+  {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2020-12-15",
+    "value": 39,
+    "value_": 39
+  },
+  {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2021-12-15",
+    "value": 24,
+    "value_": 24
+  },
+  {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2022-12-15",
+    "value": 47,
+    "value_": 47
+  },
+  {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2023-12-15",
+    "value": 42,
+    "value_": 42
+  },
+  {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2024-12-15",
+    "value": 40,
+    "value_": 40
+  },
+  {
+    "geoid": "41860",
+    "key": "median-dom",
+    "date": "2025-12-15",
+    "value": 33,
+    "value_": 33
+  },
+  {
     "geoid": "41940",
     "key": "median-dom",
     "date": "2019-12-15",
@@ -37994,6 +44595,55 @@
     "date": "2025-12-15",
     "value": 26,
     "value_": 26
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2019-12-15",
+    "value": 32,
+    "value_": 32
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2020-12-15",
+    "value": 10,
+    "value_": 10
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2021-12-15",
+    "value": 7,
+    "value_": 7
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2022-12-15",
+    "value": 32,
+    "value_": 32
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2023-12-15",
+    "value": 28,
+    "value_": 28
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2024-12-15",
+    "value": 29,
+    "value_": 29
+  },
+  {
+    "geoid": "42660",
+    "key": "median-dom",
+    "date": "2025-12-15",
+    "value": 41,
+    "value_": 41
   },
   {
     "geoid": "45300",
@@ -38190,6 +44840,55 @@
     "date": "2025-12-15",
     "value": 44,
     "value_": 44
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2019-12-15",
+    "value": 42,
+    "value_": 42
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2020-12-15",
+    "value": 30,
+    "value_": 30
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2021-12-15",
+    "value": 35,
+    "value_": 35
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2022-12-15",
+    "value": 46,
+    "value_": 46
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2023-12-15",
+    "value": 40,
+    "value_": 40
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2024-12-15",
+    "value": 42,
+    "value_": 42
+  },
+  {
+    "geoid": "47900",
+    "key": "median-dom",
+    "date": "2025-12-15",
+    "value": 55,
+    "value_": 55
   },
   {
     "geoid": "51013",
@@ -38881,50 +45580,50 @@
     "geoid": "99997",
     "key": "median-dom",
     "date": "2019-12-15",
-    "value": 51.1125,
-    "value_": 51.1125
+    "value": 57.29573,
+    "value_": 57.29573
   },
   {
     "geoid": "99997",
     "key": "median-dom",
     "date": "2020-12-15",
-    "value": 34.16511,
-    "value_": 34.16511
+    "value": 40.72754,
+    "value_": 40.72754
   },
   {
     "geoid": "99997",
     "key": "median-dom",
     "date": "2021-12-15",
-    "value": 28.12455,
-    "value_": 28.12455
+    "value": 33.3389,
+    "value_": 33.3389
   },
   {
     "geoid": "99997",
     "key": "median-dom",
     "date": "2022-12-15",
-    "value": 46.8318,
-    "value_": 46.8318
+    "value": 48.82191,
+    "value_": 48.82191
   },
   {
     "geoid": "99997",
     "key": "median-dom",
     "date": "2023-12-15",
-    "value": 45.21029,
-    "value_": 45.21029
+    "value": 46.62415,
+    "value_": 46.62415
   },
   {
     "geoid": "99997",
     "key": "median-dom",
     "date": "2024-12-15",
-    "value": 56.26254,
-    "value_": 56.26254
+    "value": 56.38826,
+    "value_": 56.38826
   },
   {
     "geoid": "99997",
     "key": "median-dom",
     "date": "2025-12-15",
-    "value": 65.71594,
-    "value_": 65.71594
+    "value": 65.33867,
+    "value_": 65.33867
   },
   {
     "geoid": "99999",
