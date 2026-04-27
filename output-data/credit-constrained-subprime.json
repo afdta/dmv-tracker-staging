@@ -2,6 +2,27 @@
   {
     "geoid": "11001",
     "key": "credit-constrained-subprime",
+    "date": "2019-03-15",
+    "value": 0.1518,
+    "value_": 15.18029
+  },
+  {
+    "geoid": "11001",
+    "key": "credit-constrained-subprime",
+    "date": "2020-03-15",
+    "value": 0.15046,
+    "value_": 15.04636
+  },
+  {
+    "geoid": "11001",
+    "key": "credit-constrained-subprime",
+    "date": "2021-03-15",
+    "value": 0.11984,
+    "value_": 11.98404
+  },
+  {
+    "geoid": "11001",
+    "key": "credit-constrained-subprime",
     "date": "2022-03-15",
     "value": 0.11519,
     "value_": 11.51929
@@ -26,6 +47,27 @@
     "date": "2025-03-15",
     "value": 0.14367,
     "value_": 14.3672
+  },
+  {
+    "geoid": "12060",
+    "key": "credit-constrained-subprime",
+    "date": "2019-03-15",
+    "value": 0.211,
+    "value_": 21.1
+  },
+  {
+    "geoid": "12060",
+    "key": "credit-constrained-subprime",
+    "date": "2020-03-15",
+    "value": 0.21,
+    "value_": 21
+  },
+  {
+    "geoid": "12060",
+    "key": "credit-constrained-subprime",
+    "date": "2021-03-15",
+    "value": 0.173,
+    "value_": 17.3
   },
   {
     "geoid": "12060",
@@ -58,6 +100,27 @@
   {
     "geoid": "12420",
     "key": "credit-constrained-subprime",
+    "date": "2019-03-15",
+    "value": 0.154,
+    "value_": 15.4
+  },
+  {
+    "geoid": "12420",
+    "key": "credit-constrained-subprime",
+    "date": "2020-03-15",
+    "value": 0.152,
+    "value_": 15.2
+  },
+  {
+    "geoid": "12420",
+    "key": "credit-constrained-subprime",
+    "date": "2021-03-15",
+    "value": 0.126,
+    "value_": 12.6
+  },
+  {
+    "geoid": "12420",
+    "key": "credit-constrained-subprime",
     "date": "2022-03-15",
     "value": 0.115,
     "value_": 11.5
@@ -86,6 +149,27 @@
   {
     "geoid": "12580",
     "key": "credit-constrained-subprime",
+    "date": "2019-03-15",
+    "value": 0.158,
+    "value_": 15.8
+  },
+  {
+    "geoid": "12580",
+    "key": "credit-constrained-subprime",
+    "date": "2020-03-15",
+    "value": 0.157,
+    "value_": 15.7
+  },
+  {
+    "geoid": "12580",
+    "key": "credit-constrained-subprime",
+    "date": "2021-03-15",
+    "value": 0.126,
+    "value_": 12.6
+  },
+  {
+    "geoid": "12580",
+    "key": "credit-constrained-subprime",
     "date": "2022-03-15",
     "value": 0.12,
     "value_": 12
@@ -110,6 +194,27 @@
     "date": "2025-03-15",
     "value": 0.146,
     "value_": 14.6
+  },
+  {
+    "geoid": "13820",
+    "key": "credit-constrained-subprime",
+    "date": "2019-03-15",
+    "value": 0.208,
+    "value_": 20.80001
+  },
+  {
+    "geoid": "13820",
+    "key": "credit-constrained-subprime",
+    "date": "2020-03-15",
+    "value": 0.208,
+    "value_": 20.79999
+  },
+  {
+    "geoid": "13820",
+    "key": "credit-constrained-subprime",
+    "date": "2021-03-15",
+    "value": 0.178,
+    "value_": 17.8
   },
   {
     "geoid": "13820",
@@ -142,6 +247,27 @@
   {
     "geoid": "14460",
     "key": "credit-constrained-subprime",
+    "date": "2019-03-15",
+    "value": 0.099,
+    "value_": 9.9
+  },
+  {
+    "geoid": "14460",
+    "key": "credit-constrained-subprime",
+    "date": "2020-03-15",
+    "value": 0.099,
+    "value_": 9.9
+  },
+  {
+    "geoid": "14460",
+    "key": "credit-constrained-subprime",
+    "date": "2021-03-15",
+    "value": 0.075,
+    "value_": 7.5
+  },
+  {
+    "geoid": "14460",
+    "key": "credit-constrained-subprime",
     "date": "2022-03-15",
     "value": 0.07,
     "value_": 7
@@ -166,6 +292,27 @@
     "date": "2025-03-15",
     "value": 0.086,
     "value_": 8.6
+  },
+  {
+    "geoid": "15380",
+    "key": "credit-constrained-subprime",
+    "date": "2019-03-15",
+    "value": 0.128,
+    "value_": 12.8
+  },
+  {
+    "geoid": "15380",
+    "key": "credit-constrained-subprime",
+    "date": "2020-03-15",
+    "value": 0.128,
+    "value_": 12.79999
+  },
+  {
+    "geoid": "15380",
+    "key": "credit-constrained-subprime",
+    "date": "2021-03-15",
+    "value": 0.1,
+    "value_": 10
   },
   {
     "geoid": "15380",
@@ -198,6 +345,27 @@
   {
     "geoid": "16740",
     "key": "credit-constrained-subprime",
+    "date": "2019-03-15",
+    "value": 0.194,
+    "value_": 19.4
+  },
+  {
+    "geoid": "16740",
+    "key": "credit-constrained-subprime",
+    "date": "2020-03-15",
+    "value": 0.191,
+    "value_": 19.1
+  },
+  {
+    "geoid": "16740",
+    "key": "credit-constrained-subprime",
+    "date": "2021-03-15",
+    "value": 0.159,
+    "value_": 15.9
+  },
+  {
+    "geoid": "16740",
+    "key": "credit-constrained-subprime",
     "date": "2022-03-15",
     "value": 0.151,
     "value_": 15.1
@@ -222,6 +390,27 @@
     "date": "2025-03-15",
     "value": 0.162,
     "value_": 16.2
+  },
+  {
+    "geoid": "16980",
+    "key": "credit-constrained-subprime",
+    "date": "2019-03-15",
+    "value": 0.136,
+    "value_": 13.6
+  },
+  {
+    "geoid": "16980",
+    "key": "credit-constrained-subprime",
+    "date": "2020-03-15",
+    "value": 0.137,
+    "value_": 13.7
+  },
+  {
+    "geoid": "16980",
+    "key": "credit-constrained-subprime",
+    "date": "2021-03-15",
+    "value": 0.109,
+    "value_": 10.9
   },
   {
     "geoid": "16980",
@@ -254,6 +443,27 @@
   {
     "geoid": "17140",
     "key": "credit-constrained-subprime",
+    "date": "2019-03-15",
+    "value": 0.156,
+    "value_": 15.6
+  },
+  {
+    "geoid": "17140",
+    "key": "credit-constrained-subprime",
+    "date": "2020-03-15",
+    "value": 0.153,
+    "value_": 15.3
+  },
+  {
+    "geoid": "17140",
+    "key": "credit-constrained-subprime",
+    "date": "2021-03-15",
+    "value": 0.123,
+    "value_": 12.3
+  },
+  {
+    "geoid": "17140",
+    "key": "credit-constrained-subprime",
     "date": "2022-03-15",
     "value": 0.115,
     "value_": 11.5
@@ -278,6 +488,27 @@
     "date": "2025-03-15",
     "value": 0.135,
     "value_": 13.50001
+  },
+  {
+    "geoid": "17410",
+    "key": "credit-constrained-subprime",
+    "date": "2019-03-15",
+    "value": 0.155,
+    "value_": 15.5
+  },
+  {
+    "geoid": "17410",
+    "key": "credit-constrained-subprime",
+    "date": "2020-03-15",
+    "value": 0.153,
+    "value_": 15.3
+  },
+  {
+    "geoid": "17410",
+    "key": "credit-constrained-subprime",
+    "date": "2021-03-15",
+    "value": 0.125,
+    "value_": 12.5
   },
   {
     "geoid": "17410",
@@ -310,6 +541,27 @@
   {
     "geoid": "18140",
     "key": "credit-constrained-subprime",
+    "date": "2019-03-15",
+    "value": 0.156,
+    "value_": 15.6
+  },
+  {
+    "geoid": "18140",
+    "key": "credit-constrained-subprime",
+    "date": "2020-03-15",
+    "value": 0.155,
+    "value_": 15.5
+  },
+  {
+    "geoid": "18140",
+    "key": "credit-constrained-subprime",
+    "date": "2021-03-15",
+    "value": 0.125,
+    "value_": 12.5
+  },
+  {
+    "geoid": "18140",
+    "key": "credit-constrained-subprime",
     "date": "2022-03-15",
     "value": 0.12,
     "value_": 12
@@ -334,6 +586,27 @@
     "date": "2025-03-15",
     "value": 0.141,
     "value_": 14.1
+  },
+  {
+    "geoid": "19100",
+    "key": "credit-constrained-subprime",
+    "date": "2019-03-15",
+    "value": 0.189,
+    "value_": 18.9
+  },
+  {
+    "geoid": "19100",
+    "key": "credit-constrained-subprime",
+    "date": "2020-03-15",
+    "value": 0.188,
+    "value_": 18.8
+  },
+  {
+    "geoid": "19100",
+    "key": "credit-constrained-subprime",
+    "date": "2021-03-15",
+    "value": 0.157,
+    "value_": 15.7
   },
   {
     "geoid": "19100",
@@ -366,6 +639,27 @@
   {
     "geoid": "19740",
     "key": "credit-constrained-subprime",
+    "date": "2019-03-15",
+    "value": 0.113,
+    "value_": 11.3
+  },
+  {
+    "geoid": "19740",
+    "key": "credit-constrained-subprime",
+    "date": "2020-03-15",
+    "value": 0.112,
+    "value_": 11.2
+  },
+  {
+    "geoid": "19740",
+    "key": "credit-constrained-subprime",
+    "date": "2021-03-15",
+    "value": 0.089,
+    "value_": 8.9
+  },
+  {
+    "geoid": "19740",
+    "key": "credit-constrained-subprime",
     "date": "2022-03-15",
     "value": 0.085,
     "value_": 8.5
@@ -394,6 +688,27 @@
   {
     "geoid": "19820",
     "key": "credit-constrained-subprime",
+    "date": "2019-03-15",
+    "value": 0.153,
+    "value_": 15.3
+  },
+  {
+    "geoid": "19820",
+    "key": "credit-constrained-subprime",
+    "date": "2020-03-15",
+    "value": 0.153,
+    "value_": 15.3
+  },
+  {
+    "geoid": "19820",
+    "key": "credit-constrained-subprime",
+    "date": "2021-03-15",
+    "value": 0.12,
+    "value_": 12
+  },
+  {
+    "geoid": "19820",
+    "key": "credit-constrained-subprime",
     "date": "2022-03-15",
     "value": 0.117,
     "value_": 11.7
@@ -418,6 +733,27 @@
     "date": "2025-03-15",
     "value": 0.147,
     "value_": 14.7
+  },
+  {
+    "geoid": "23420",
+    "key": "credit-constrained-subprime",
+    "date": "2019-03-15",
+    "value": 0.162,
+    "value_": 16.20001
+  },
+  {
+    "geoid": "23420",
+    "key": "credit-constrained-subprime",
+    "date": "2020-03-15",
+    "value": 0.163,
+    "value_": 16.3
+  },
+  {
+    "geoid": "23420",
+    "key": "credit-constrained-subprime",
+    "date": "2021-03-15",
+    "value": 0.125,
+    "value_": 12.5
   },
   {
     "geoid": "23420",
@@ -450,6 +786,27 @@
   {
     "geoid": "24017",
     "key": "credit-constrained-subprime",
+    "date": "2019-03-15",
+    "value": 0.19445,
+    "value_": 19.44501
+  },
+  {
+    "geoid": "24017",
+    "key": "credit-constrained-subprime",
+    "date": "2020-03-15",
+    "value": 0.19391,
+    "value_": 19.39128
+  },
+  {
+    "geoid": "24017",
+    "key": "credit-constrained-subprime",
+    "date": "2021-03-15",
+    "value": 0.15415,
+    "value_": 15.41528
+  },
+  {
+    "geoid": "24017",
+    "key": "credit-constrained-subprime",
     "date": "2022-03-15",
     "value": 0.14194,
     "value_": 14.19382
@@ -474,6 +831,27 @@
     "date": "2025-03-15",
     "value": 0.17993,
     "value_": 17.99349
+  },
+  {
+    "geoid": "24021",
+    "key": "credit-constrained-subprime",
+    "date": "2019-03-15",
+    "value": 0.11742,
+    "value_": 11.74154
+  },
+  {
+    "geoid": "24021",
+    "key": "credit-constrained-subprime",
+    "date": "2020-03-15",
+    "value": 0.11655,
+    "value_": 11.65491
+  },
+  {
+    "geoid": "24021",
+    "key": "credit-constrained-subprime",
+    "date": "2021-03-15",
+    "value": 0.09056,
+    "value_": 9.05566
   },
   {
     "geoid": "24021",
@@ -506,6 +884,27 @@
   {
     "geoid": "24031",
     "key": "credit-constrained-subprime",
+    "date": "2019-03-15",
+    "value": 0.1068,
+    "value_": 10.68015
+  },
+  {
+    "geoid": "24031",
+    "key": "credit-constrained-subprime",
+    "date": "2020-03-15",
+    "value": 0.10624,
+    "value_": 10.62434
+  },
+  {
+    "geoid": "24031",
+    "key": "credit-constrained-subprime",
+    "date": "2021-03-15",
+    "value": 0.082,
+    "value_": 8.19974
+  },
+  {
+    "geoid": "24031",
+    "key": "credit-constrained-subprime",
     "date": "2022-03-15",
     "value": 0.07727,
     "value_": 7.72742
@@ -530,6 +929,27 @@
     "date": "2025-03-15",
     "value": 0.09487,
     "value_": 9.48714
+  },
+  {
+    "geoid": "24033",
+    "key": "credit-constrained-subprime",
+    "date": "2019-03-15",
+    "value": 0.22467,
+    "value_": 22.46676
+  },
+  {
+    "geoid": "24033",
+    "key": "credit-constrained-subprime",
+    "date": "2020-03-15",
+    "value": 0.22352,
+    "value_": 22.35184
+  },
+  {
+    "geoid": "24033",
+    "key": "credit-constrained-subprime",
+    "date": "2021-03-15",
+    "value": 0.17671,
+    "value_": 17.67145
   },
   {
     "geoid": "24033",
@@ -562,6 +982,27 @@
   {
     "geoid": "24340",
     "key": "credit-constrained-subprime",
+    "date": "2019-03-15",
+    "value": 0.118,
+    "value_": 11.80001
+  },
+  {
+    "geoid": "24340",
+    "key": "credit-constrained-subprime",
+    "date": "2020-03-15",
+    "value": 0.116,
+    "value_": 11.6
+  },
+  {
+    "geoid": "24340",
+    "key": "credit-constrained-subprime",
+    "date": "2021-03-15",
+    "value": 0.086,
+    "value_": 8.6
+  },
+  {
+    "geoid": "24340",
+    "key": "credit-constrained-subprime",
     "date": "2022-03-15",
     "value": 0.082,
     "value_": 8.2
@@ -586,6 +1027,27 @@
     "date": "2025-03-15",
     "value": 0.103,
     "value_": 10.3
+  },
+  {
+    "geoid": "26420",
+    "key": "credit-constrained-subprime",
+    "date": "2019-03-15",
+    "value": 0.206,
+    "value_": 20.6
+  },
+  {
+    "geoid": "26420",
+    "key": "credit-constrained-subprime",
+    "date": "2020-03-15",
+    "value": 0.203,
+    "value_": 20.3
+  },
+  {
+    "geoid": "26420",
+    "key": "credit-constrained-subprime",
+    "date": "2021-03-15",
+    "value": 0.174,
+    "value_": 17.4
   },
   {
     "geoid": "26420",
@@ -618,6 +1080,27 @@
   {
     "geoid": "26900",
     "key": "credit-constrained-subprime",
+    "date": "2019-03-15",
+    "value": 0.167,
+    "value_": 16.7
+  },
+  {
+    "geoid": "26900",
+    "key": "credit-constrained-subprime",
+    "date": "2020-03-15",
+    "value": 0.163,
+    "value_": 16.3
+  },
+  {
+    "geoid": "26900",
+    "key": "credit-constrained-subprime",
+    "date": "2021-03-15",
+    "value": 0.132,
+    "value_": 13.2
+  },
+  {
+    "geoid": "26900",
+    "key": "credit-constrained-subprime",
     "date": "2022-03-15",
     "value": 0.127,
     "value_": 12.7
@@ -642,6 +1125,27 @@
     "date": "2025-03-15",
     "value": 0.152,
     "value_": 15.2
+  },
+  {
+    "geoid": "27260",
+    "key": "credit-constrained-subprime",
+    "date": "2019-03-15",
+    "value": 0.198,
+    "value_": 19.8
+  },
+  {
+    "geoid": "27260",
+    "key": "credit-constrained-subprime",
+    "date": "2020-03-15",
+    "value": 0.197,
+    "value_": 19.7
+  },
+  {
+    "geoid": "27260",
+    "key": "credit-constrained-subprime",
+    "date": "2021-03-15",
+    "value": 0.165,
+    "value_": 16.5
   },
   {
     "geoid": "27260",
@@ -674,6 +1178,27 @@
   {
     "geoid": "28140",
     "key": "credit-constrained-subprime",
+    "date": "2019-03-15",
+    "value": 0.148,
+    "value_": 14.8
+  },
+  {
+    "geoid": "28140",
+    "key": "credit-constrained-subprime",
+    "date": "2020-03-15",
+    "value": 0.146,
+    "value_": 14.6
+  },
+  {
+    "geoid": "28140",
+    "key": "credit-constrained-subprime",
+    "date": "2021-03-15",
+    "value": 0.12,
+    "value_": 12
+  },
+  {
+    "geoid": "28140",
+    "key": "credit-constrained-subprime",
     "date": "2022-03-15",
     "value": 0.116,
     "value_": 11.6
@@ -698,6 +1223,27 @@
     "date": "2025-03-15",
     "value": 0.134,
     "value_": 13.4
+  },
+  {
+    "geoid": "29820",
+    "key": "credit-constrained-subprime",
+    "date": "2019-03-15",
+    "value": 0.187,
+    "value_": 18.7
+  },
+  {
+    "geoid": "29820",
+    "key": "credit-constrained-subprime",
+    "date": "2020-03-15",
+    "value": 0.187,
+    "value_": 18.7
+  },
+  {
+    "geoid": "29820",
+    "key": "credit-constrained-subprime",
+    "date": "2021-03-15",
+    "value": 0.155,
+    "value_": 15.49999
   },
   {
     "geoid": "29820",
@@ -730,6 +1276,27 @@
   {
     "geoid": "31080",
     "key": "credit-constrained-subprime",
+    "date": "2019-03-15",
+    "value": 0.125,
+    "value_": 12.5
+  },
+  {
+    "geoid": "31080",
+    "key": "credit-constrained-subprime",
+    "date": "2020-03-15",
+    "value": 0.127,
+    "value_": 12.7
+  },
+  {
+    "geoid": "31080",
+    "key": "credit-constrained-subprime",
+    "date": "2021-03-15",
+    "value": 0.099,
+    "value_": 9.9
+  },
+  {
+    "geoid": "31080",
+    "key": "credit-constrained-subprime",
     "date": "2022-03-15",
     "value": 0.089,
     "value_": 8.9
@@ -754,6 +1321,27 @@
     "date": "2025-03-15",
     "value": 0.112,
     "value_": 11.2
+  },
+  {
+    "geoid": "32820",
+    "key": "credit-constrained-subprime",
+    "date": "2019-03-15",
+    "value": 0.264,
+    "value_": 26.4
+  },
+  {
+    "geoid": "32820",
+    "key": "credit-constrained-subprime",
+    "date": "2020-03-15",
+    "value": 0.264,
+    "value_": 26.4
+  },
+  {
+    "geoid": "32820",
+    "key": "credit-constrained-subprime",
+    "date": "2021-03-15",
+    "value": 0.222,
+    "value_": 22.20001
   },
   {
     "geoid": "32820",
@@ -786,6 +1374,27 @@
   {
     "geoid": "33100",
     "key": "credit-constrained-subprime",
+    "date": "2019-03-15",
+    "value": 0.178,
+    "value_": 17.8
+  },
+  {
+    "geoid": "33100",
+    "key": "credit-constrained-subprime",
+    "date": "2020-03-15",
+    "value": 0.178,
+    "value_": 17.8
+  },
+  {
+    "geoid": "33100",
+    "key": "credit-constrained-subprime",
+    "date": "2021-03-15",
+    "value": 0.144,
+    "value_": 14.4
+  },
+  {
+    "geoid": "33100",
+    "key": "credit-constrained-subprime",
     "date": "2022-03-15",
     "value": 0.132,
     "value_": 13.2
@@ -810,6 +1419,27 @@
     "date": "2025-03-15",
     "value": 0.158,
     "value_": 15.8
+  },
+  {
+    "geoid": "33340",
+    "key": "credit-constrained-subprime",
+    "date": "2019-03-15",
+    "value": 0.128,
+    "value_": 12.79999
+  },
+  {
+    "geoid": "33340",
+    "key": "credit-constrained-subprime",
+    "date": "2020-03-15",
+    "value": 0.127,
+    "value_": 12.7
+  },
+  {
+    "geoid": "33340",
+    "key": "credit-constrained-subprime",
+    "date": "2021-03-15",
+    "value": 0.097,
+    "value_": 9.7
   },
   {
     "geoid": "33340",
@@ -842,6 +1472,27 @@
   {
     "geoid": "34980",
     "key": "credit-constrained-subprime",
+    "date": "2019-03-15",
+    "value": 0.163,
+    "value_": 16.3
+  },
+  {
+    "geoid": "34980",
+    "key": "credit-constrained-subprime",
+    "date": "2020-03-15",
+    "value": 0.159,
+    "value_": 15.9
+  },
+  {
+    "geoid": "34980",
+    "key": "credit-constrained-subprime",
+    "date": "2021-03-15",
+    "value": 0.134,
+    "value_": 13.4
+  },
+  {
+    "geoid": "34980",
+    "key": "credit-constrained-subprime",
     "date": "2022-03-15",
     "value": 0.125,
     "value_": 12.49999
@@ -870,6 +1521,27 @@
   {
     "geoid": "35620",
     "key": "credit-constrained-subprime",
+    "date": "2019-03-15",
+    "value": 0.124,
+    "value_": 12.4
+  },
+  {
+    "geoid": "35620",
+    "key": "credit-constrained-subprime",
+    "date": "2020-03-15",
+    "value": 0.123,
+    "value_": 12.3
+  },
+  {
+    "geoid": "35620",
+    "key": "credit-constrained-subprime",
+    "date": "2021-03-15",
+    "value": 0.093,
+    "value_": 9.3
+  },
+  {
+    "geoid": "35620",
+    "key": "credit-constrained-subprime",
     "date": "2022-03-15",
     "value": 0.09,
     "value_": 9
@@ -894,6 +1566,27 @@
     "date": "2025-03-15",
     "value": 0.116,
     "value_": 11.6
+  },
+  {
+    "geoid": "36420",
+    "key": "credit-constrained-subprime",
+    "date": "2019-03-15",
+    "value": 0.185,
+    "value_": 18.5
+  },
+  {
+    "geoid": "36420",
+    "key": "credit-constrained-subprime",
+    "date": "2020-03-15",
+    "value": 0.184,
+    "value_": 18.4
+  },
+  {
+    "geoid": "36420",
+    "key": "credit-constrained-subprime",
+    "date": "2021-03-15",
+    "value": 0.159,
+    "value_": 15.90001
   },
   {
     "geoid": "36420",
@@ -926,6 +1619,27 @@
   {
     "geoid": "36540",
     "key": "credit-constrained-subprime",
+    "date": "2019-03-15",
+    "value": 0.125,
+    "value_": 12.5
+  },
+  {
+    "geoid": "36540",
+    "key": "credit-constrained-subprime",
+    "date": "2020-03-15",
+    "value": 0.127,
+    "value_": 12.7
+  },
+  {
+    "geoid": "36540",
+    "key": "credit-constrained-subprime",
+    "date": "2021-03-15",
+    "value": 0.097,
+    "value_": 9.70001
+  },
+  {
+    "geoid": "36540",
+    "key": "credit-constrained-subprime",
     "date": "2022-03-15",
     "value": 0.089,
     "value_": 8.9
@@ -950,6 +1664,27 @@
     "date": "2025-03-15",
     "value": 0.112,
     "value_": 11.2
+  },
+  {
+    "geoid": "36740",
+    "key": "credit-constrained-subprime",
+    "date": "2019-03-15",
+    "value": 0.191,
+    "value_": 19.1
+  },
+  {
+    "geoid": "36740",
+    "key": "credit-constrained-subprime",
+    "date": "2020-03-15",
+    "value": 0.192,
+    "value_": 19.2
+  },
+  {
+    "geoid": "36740",
+    "key": "credit-constrained-subprime",
+    "date": "2021-03-15",
+    "value": 0.155,
+    "value_": 15.5
   },
   {
     "geoid": "36740",
@@ -982,6 +1717,27 @@
   {
     "geoid": "37980",
     "key": "credit-constrained-subprime",
+    "date": "2019-03-15",
+    "value": 0.154,
+    "value_": 15.4
+  },
+  {
+    "geoid": "37980",
+    "key": "credit-constrained-subprime",
+    "date": "2020-03-15",
+    "value": 0.15,
+    "value_": 15
+  },
+  {
+    "geoid": "37980",
+    "key": "credit-constrained-subprime",
+    "date": "2021-03-15",
+    "value": 0.115,
+    "value_": 11.5
+  },
+  {
+    "geoid": "37980",
+    "key": "credit-constrained-subprime",
     "date": "2022-03-15",
     "value": 0.112,
     "value_": 11.2
@@ -1006,6 +1762,27 @@
     "date": "2025-03-15",
     "value": 0.14,
     "value_": 14
+  },
+  {
+    "geoid": "38060",
+    "key": "credit-constrained-subprime",
+    "date": "2019-03-15",
+    "value": 0.155,
+    "value_": 15.5
+  },
+  {
+    "geoid": "38060",
+    "key": "credit-constrained-subprime",
+    "date": "2020-03-15",
+    "value": 0.154,
+    "value_": 15.4
+  },
+  {
+    "geoid": "38060",
+    "key": "credit-constrained-subprime",
+    "date": "2021-03-15",
+    "value": 0.12,
+    "value_": 12
   },
   {
     "geoid": "38060",
@@ -1038,6 +1815,27 @@
   {
     "geoid": "38300",
     "key": "credit-constrained-subprime",
+    "date": "2019-03-15",
+    "value": 0.126,
+    "value_": 12.6
+  },
+  {
+    "geoid": "38300",
+    "key": "credit-constrained-subprime",
+    "date": "2020-03-15",
+    "value": 0.125,
+    "value_": 12.5
+  },
+  {
+    "geoid": "38300",
+    "key": "credit-constrained-subprime",
+    "date": "2021-03-15",
+    "value": 0.1,
+    "value_": 10
+  },
+  {
+    "geoid": "38300",
+    "key": "credit-constrained-subprime",
     "date": "2022-03-15",
     "value": 0.097,
     "value_": 9.7
@@ -1066,6 +1864,27 @@
   {
     "geoid": "38900",
     "key": "credit-constrained-subprime",
+    "date": "2019-03-15",
+    "value": 0.107,
+    "value_": 10.7
+  },
+  {
+    "geoid": "38900",
+    "key": "credit-constrained-subprime",
+    "date": "2020-03-15",
+    "value": 0.105,
+    "value_": 10.5
+  },
+  {
+    "geoid": "38900",
+    "key": "credit-constrained-subprime",
+    "date": "2021-03-15",
+    "value": 0.078,
+    "value_": 7.8
+  },
+  {
+    "geoid": "38900",
+    "key": "credit-constrained-subprime",
     "date": "2022-03-15",
     "value": 0.071,
     "value_": 7.1
@@ -1090,6 +1909,27 @@
     "date": "2025-03-15",
     "value": 0.09,
     "value_": 9
+  },
+  {
+    "geoid": "39300",
+    "key": "credit-constrained-subprime",
+    "date": "2019-03-15",
+    "value": 0.135,
+    "value_": 13.5
+  },
+  {
+    "geoid": "39300",
+    "key": "credit-constrained-subprime",
+    "date": "2020-03-15",
+    "value": 0.135,
+    "value_": 13.50001
+  },
+  {
+    "geoid": "39300",
+    "key": "credit-constrained-subprime",
+    "date": "2021-03-15",
+    "value": 0.103,
+    "value_": 10.3
   },
   {
     "geoid": "39300",
@@ -1122,6 +1962,27 @@
   {
     "geoid": "39580",
     "key": "credit-constrained-subprime",
+    "date": "2019-03-15",
+    "value": 0.154,
+    "value_": 15.4
+  },
+  {
+    "geoid": "39580",
+    "key": "credit-constrained-subprime",
+    "date": "2020-03-15",
+    "value": 0.155,
+    "value_": 15.5
+  },
+  {
+    "geoid": "39580",
+    "key": "credit-constrained-subprime",
+    "date": "2021-03-15",
+    "value": 0.127,
+    "value_": 12.7
+  },
+  {
+    "geoid": "39580",
+    "key": "credit-constrained-subprime",
     "date": "2022-03-15",
     "value": 0.12,
     "value_": 12
@@ -1146,6 +2007,27 @@
     "date": "2025-03-15",
     "value": 0.138,
     "value_": 13.8
+  },
+  {
+    "geoid": "40060",
+    "key": "credit-constrained-subprime",
+    "date": "2019-03-15",
+    "value": 0.17,
+    "value_": 17
+  },
+  {
+    "geoid": "40060",
+    "key": "credit-constrained-subprime",
+    "date": "2020-03-15",
+    "value": 0.165,
+    "value_": 16.5
+  },
+  {
+    "geoid": "40060",
+    "key": "credit-constrained-subprime",
+    "date": "2021-03-15",
+    "value": 0.136,
+    "value_": 13.6
   },
   {
     "geoid": "40060",
@@ -1178,6 +2060,27 @@
   {
     "geoid": "40140",
     "key": "credit-constrained-subprime",
+    "date": "2019-03-15",
+    "value": 0.18,
+    "value_": 18
+  },
+  {
+    "geoid": "40140",
+    "key": "credit-constrained-subprime",
+    "date": "2020-03-15",
+    "value": 0.18,
+    "value_": 18
+  },
+  {
+    "geoid": "40140",
+    "key": "credit-constrained-subprime",
+    "date": "2021-03-15",
+    "value": 0.143,
+    "value_": 14.3
+  },
+  {
+    "geoid": "40140",
+    "key": "credit-constrained-subprime",
     "date": "2022-03-15",
     "value": 0.127,
     "value_": 12.7
@@ -1202,6 +2105,27 @@
     "date": "2025-03-15",
     "value": 0.165,
     "value_": 16.5
+  },
+  {
+    "geoid": "40380",
+    "key": "credit-constrained-subprime",
+    "date": "2019-03-15",
+    "value": 0.14,
+    "value_": 14
+  },
+  {
+    "geoid": "40380",
+    "key": "credit-constrained-subprime",
+    "date": "2020-03-15",
+    "value": 0.136,
+    "value_": 13.59999
+  },
+  {
+    "geoid": "40380",
+    "key": "credit-constrained-subprime",
+    "date": "2021-03-15",
+    "value": 0.106,
+    "value_": 10.6
   },
   {
     "geoid": "40380",
@@ -1234,6 +2158,27 @@
   {
     "geoid": "40900",
     "key": "credit-constrained-subprime",
+    "date": "2019-03-15",
+    "value": 0.118,
+    "value_": 11.8
+  },
+  {
+    "geoid": "40900",
+    "key": "credit-constrained-subprime",
+    "date": "2020-03-15",
+    "value": 0.119,
+    "value_": 11.9
+  },
+  {
+    "geoid": "40900",
+    "key": "credit-constrained-subprime",
+    "date": "2021-03-15",
+    "value": 0.093,
+    "value_": 9.3
+  },
+  {
+    "geoid": "40900",
+    "key": "credit-constrained-subprime",
     "date": "2022-03-15",
     "value": 0.088,
     "value_": 8.8
@@ -1262,6 +2207,27 @@
   {
     "geoid": "41620",
     "key": "credit-constrained-subprime",
+    "date": "2019-03-15",
+    "value": 0.116,
+    "value_": 11.60001
+  },
+  {
+    "geoid": "41620",
+    "key": "credit-constrained-subprime",
+    "date": "2020-03-15",
+    "value": 0.114,
+    "value_": 11.39999
+  },
+  {
+    "geoid": "41620",
+    "key": "credit-constrained-subprime",
+    "date": "2021-03-15",
+    "value": 0.093,
+    "value_": 9.30001
+  },
+  {
+    "geoid": "41620",
+    "key": "credit-constrained-subprime",
     "date": "2022-03-15",
     "value": 0.088,
     "value_": 8.8
@@ -1286,6 +2252,27 @@
     "date": "2025-03-15",
     "value": 0.106,
     "value_": 10.6
+  },
+  {
+    "geoid": "41700",
+    "key": "credit-constrained-subprime",
+    "date": "2019-03-15",
+    "value": 0.221,
+    "value_": 22.1
+  },
+  {
+    "geoid": "41700",
+    "key": "credit-constrained-subprime",
+    "date": "2020-03-15",
+    "value": 0.216,
+    "value_": 21.6
+  },
+  {
+    "geoid": "41700",
+    "key": "credit-constrained-subprime",
+    "date": "2021-03-15",
+    "value": 0.18,
+    "value_": 18
   },
   {
     "geoid": "41700",
@@ -1318,6 +2305,27 @@
   {
     "geoid": "41740",
     "key": "credit-constrained-subprime",
+    "date": "2019-03-15",
+    "value": 0.113,
+    "value_": 11.3
+  },
+  {
+    "geoid": "41740",
+    "key": "credit-constrained-subprime",
+    "date": "2020-03-15",
+    "value": 0.112,
+    "value_": 11.2
+  },
+  {
+    "geoid": "41740",
+    "key": "credit-constrained-subprime",
+    "date": "2021-03-15",
+    "value": 0.086,
+    "value_": 8.6
+  },
+  {
+    "geoid": "41740",
+    "key": "credit-constrained-subprime",
     "date": "2022-03-15",
     "value": 0.081,
     "value_": 8.1
@@ -1346,6 +2354,27 @@
   {
     "geoid": "41860",
     "key": "credit-constrained-subprime",
+    "date": "2019-03-15",
+    "value": 0.078,
+    "value_": 7.8
+  },
+  {
+    "geoid": "41860",
+    "key": "credit-constrained-subprime",
+    "date": "2020-03-15",
+    "value": 0.079,
+    "value_": 7.9
+  },
+  {
+    "geoid": "41860",
+    "key": "credit-constrained-subprime",
+    "date": "2021-03-15",
+    "value": 0.062,
+    "value_": 6.2
+  },
+  {
+    "geoid": "41860",
+    "key": "credit-constrained-subprime",
     "date": "2022-03-15",
     "value": 0.059,
     "value_": 5.9
@@ -1370,6 +2399,27 @@
     "date": "2025-03-15",
     "value": 0.075,
     "value_": 7.5
+  },
+  {
+    "geoid": "41940",
+    "key": "credit-constrained-subprime",
+    "date": "2019-03-15",
+    "value": 0.069,
+    "value_": 6.9
+  },
+  {
+    "geoid": "41940",
+    "key": "credit-constrained-subprime",
+    "date": "2020-03-15",
+    "value": 0.069,
+    "value_": 6.9
+  },
+  {
+    "geoid": "41940",
+    "key": "credit-constrained-subprime",
+    "date": "2021-03-15",
+    "value": 0.053,
+    "value_": 5.3
   },
   {
     "geoid": "41940",
@@ -1402,6 +2452,27 @@
   {
     "geoid": "42660",
     "key": "credit-constrained-subprime",
+    "date": "2019-03-15",
+    "value": 0.096,
+    "value_": 9.6
+  },
+  {
+    "geoid": "42660",
+    "key": "credit-constrained-subprime",
+    "date": "2020-03-15",
+    "value": 0.096,
+    "value_": 9.6
+  },
+  {
+    "geoid": "42660",
+    "key": "credit-constrained-subprime",
+    "date": "2021-03-15",
+    "value": 0.074,
+    "value_": 7.4
+  },
+  {
+    "geoid": "42660",
+    "key": "credit-constrained-subprime",
     "date": "2022-03-15",
     "value": 0.071,
     "value_": 7.1
@@ -1430,6 +2501,27 @@
   {
     "geoid": "46060",
     "key": "credit-constrained-subprime",
+    "date": "2019-03-15",
+    "value": 0.148,
+    "value_": 14.79999
+  },
+  {
+    "geoid": "46060",
+    "key": "credit-constrained-subprime",
+    "date": "2020-03-15",
+    "value": 0.146,
+    "value_": 14.60001
+  },
+  {
+    "geoid": "46060",
+    "key": "credit-constrained-subprime",
+    "date": "2021-03-15",
+    "value": 0.119,
+    "value_": 11.89999
+  },
+  {
+    "geoid": "46060",
+    "key": "credit-constrained-subprime",
     "date": "2022-03-15",
     "value": 0.11,
     "value_": 11
@@ -1454,6 +2546,27 @@
     "date": "2025-03-15",
     "value": 0.136,
     "value_": 13.6
+  },
+  {
+    "geoid": "46140",
+    "key": "credit-constrained-subprime",
+    "date": "2019-03-15",
+    "value": 0.19,
+    "value_": 19
+  },
+  {
+    "geoid": "46140",
+    "key": "credit-constrained-subprime",
+    "date": "2020-03-15",
+    "value": 0.188,
+    "value_": 18.8
+  },
+  {
+    "geoid": "46140",
+    "key": "credit-constrained-subprime",
+    "date": "2021-03-15",
+    "value": 0.158,
+    "value_": 15.80001
   },
   {
     "geoid": "46140",
@@ -1486,6 +2599,27 @@
   {
     "geoid": "47260",
     "key": "credit-constrained-subprime",
+    "date": "2019-03-15",
+    "value": 0.204,
+    "value_": 20.4
+  },
+  {
+    "geoid": "47260",
+    "key": "credit-constrained-subprime",
+    "date": "2020-03-15",
+    "value": 0.199,
+    "value_": 19.90001
+  },
+  {
+    "geoid": "47260",
+    "key": "credit-constrained-subprime",
+    "date": "2021-03-15",
+    "value": 0.161,
+    "value_": 16.10001
+  },
+  {
+    "geoid": "47260",
+    "key": "credit-constrained-subprime",
     "date": "2022-03-15",
     "value": 0.153,
     "value_": 15.29999
@@ -1514,6 +2648,27 @@
   {
     "geoid": "47900",
     "key": "credit-constrained-subprime",
+    "date": "2019-03-15",
+    "value": 0.131,
+    "value_": 13.1
+  },
+  {
+    "geoid": "47900",
+    "key": "credit-constrained-subprime",
+    "date": "2020-03-15",
+    "value": 0.13,
+    "value_": 13
+  },
+  {
+    "geoid": "47900",
+    "key": "credit-constrained-subprime",
+    "date": "2021-03-15",
+    "value": 0.101,
+    "value_": 10.1
+  },
+  {
+    "geoid": "47900",
+    "key": "credit-constrained-subprime",
     "date": "2022-03-15",
     "value": 0.095,
     "value_": 9.5
@@ -1538,6 +2693,27 @@
     "date": "2025-03-15",
     "value": 0.116,
     "value_": 11.6
+  },
+  {
+    "geoid": "51013",
+    "key": "credit-constrained-subprime",
+    "date": "2019-03-15",
+    "value": 0.07363,
+    "value_": 7.36307
+  },
+  {
+    "geoid": "51013",
+    "key": "credit-constrained-subprime",
+    "date": "2020-03-15",
+    "value": 0.07093,
+    "value_": 7.09298
+  },
+  {
+    "geoid": "51013",
+    "key": "credit-constrained-subprime",
+    "date": "2021-03-15",
+    "value": 0.05585,
+    "value_": 5.58473
   },
   {
     "geoid": "51013",
@@ -1570,6 +2746,27 @@
   {
     "geoid": "51043",
     "key": "credit-constrained-subprime",
+    "date": "2019-03-15",
+    "value": 0.09533,
+    "value_": 9.5325
+  },
+  {
+    "geoid": "51043",
+    "key": "credit-constrained-subprime",
+    "date": "2020-03-15",
+    "value": 0.09187,
+    "value_": 9.18714
+  },
+  {
+    "geoid": "51043",
+    "key": "credit-constrained-subprime",
+    "date": "2021-03-15",
+    "value": 0.07114,
+    "value_": 7.11366
+  },
+  {
+    "geoid": "51043",
+    "key": "credit-constrained-subprime",
     "date": "2022-03-15",
     "value": 0.07008,
     "value_": 7.00764
@@ -1594,6 +2791,27 @@
     "date": "2025-03-15",
     "value": 0.0882,
     "value_": 8.81988
+  },
+  {
+    "geoid": "51047",
+    "key": "credit-constrained-subprime",
+    "date": "2019-03-15",
+    "value": 0.16895,
+    "value_": 16.89458
+  },
+  {
+    "geoid": "51047",
+    "key": "credit-constrained-subprime",
+    "date": "2020-03-15",
+    "value": 0.16797,
+    "value_": 16.79732
+  },
+  {
+    "geoid": "51047",
+    "key": "credit-constrained-subprime",
+    "date": "2021-03-15",
+    "value": 0.13722,
+    "value_": 13.72179
   },
   {
     "geoid": "51047",
@@ -1626,6 +2844,27 @@
   {
     "geoid": "51059",
     "key": "credit-constrained-subprime",
+    "date": "2019-03-15",
+    "value": 0.08452,
+    "value_": 8.4518
+  },
+  {
+    "geoid": "51059",
+    "key": "credit-constrained-subprime",
+    "date": "2020-03-15",
+    "value": 0.08315,
+    "value_": 8.31503
+  },
+  {
+    "geoid": "51059",
+    "key": "credit-constrained-subprime",
+    "date": "2021-03-15",
+    "value": 0.0632,
+    "value_": 6.32029
+  },
+  {
+    "geoid": "51059",
+    "key": "credit-constrained-subprime",
     "date": "2022-03-15",
     "value": 0.0583,
     "value_": 5.82973
@@ -1650,6 +2889,27 @@
     "date": "2025-03-15",
     "value": 0.07315,
     "value_": 7.31455
+  },
+  {
+    "geoid": "51061",
+    "key": "credit-constrained-subprime",
+    "date": "2019-03-15",
+    "value": 0.11249,
+    "value_": 11.24907
+  },
+  {
+    "geoid": "51061",
+    "key": "credit-constrained-subprime",
+    "date": "2020-03-15",
+    "value": 0.11093,
+    "value_": 11.09331
+  },
+  {
+    "geoid": "51061",
+    "key": "credit-constrained-subprime",
+    "date": "2021-03-15",
+    "value": 0.08672,
+    "value_": 8.67152
   },
   {
     "geoid": "51061",
@@ -1682,6 +2942,27 @@
   {
     "geoid": "51107",
     "key": "credit-constrained-subprime",
+    "date": "2019-03-15",
+    "value": 0.08909,
+    "value_": 8.90856
+  },
+  {
+    "geoid": "51107",
+    "key": "credit-constrained-subprime",
+    "date": "2020-03-15",
+    "value": 0.08677,
+    "value_": 8.67709
+  },
+  {
+    "geoid": "51107",
+    "key": "credit-constrained-subprime",
+    "date": "2021-03-15",
+    "value": 0.06408,
+    "value_": 6.40827
+  },
+  {
+    "geoid": "51107",
+    "key": "credit-constrained-subprime",
     "date": "2022-03-15",
     "value": 0.06091,
     "value_": 6.09134
@@ -1706,6 +2987,27 @@
     "date": "2025-03-15",
     "value": 0.07371,
     "value_": 7.37062
+  },
+  {
+    "geoid": "51153",
+    "key": "credit-constrained-subprime",
+    "date": "2019-03-15",
+    "value": 0.14992,
+    "value_": 14.99209
+  },
+  {
+    "geoid": "51153",
+    "key": "credit-constrained-subprime",
+    "date": "2020-03-15",
+    "value": 0.1506,
+    "value_": 15.06034
+  },
+  {
+    "geoid": "51153",
+    "key": "credit-constrained-subprime",
+    "date": "2021-03-15",
+    "value": 0.11593,
+    "value_": 11.59302
   },
   {
     "geoid": "51153",
@@ -1738,6 +3040,27 @@
   {
     "geoid": "51157",
     "key": "credit-constrained-subprime",
+    "date": "2019-03-15",
+    "value": 0.11727,
+    "value_": 11.72654
+  },
+  {
+    "geoid": "51157",
+    "key": "credit-constrained-subprime",
+    "date": "2020-03-15",
+    "value": 0.09995,
+    "value_": 9.99502
+  },
+  {
+    "geoid": "51157",
+    "key": "credit-constrained-subprime",
+    "date": "2021-03-15",
+    "value": 0.06821,
+    "value_": 6.82122
+  },
+  {
+    "geoid": "51157",
+    "key": "credit-constrained-subprime",
     "date": "2022-03-15",
     "value": 0.06142,
     "value_": 6.14192
@@ -1762,6 +3085,27 @@
     "date": "2025-03-15",
     "value": 0.09705,
     "value_": 9.7052
+  },
+  {
+    "geoid": "51177",
+    "key": "credit-constrained-subprime",
+    "date": "2019-03-15",
+    "value": 0.16484,
+    "value_": 16.4838
+  },
+  {
+    "geoid": "51177",
+    "key": "credit-constrained-subprime",
+    "date": "2020-03-15",
+    "value": 0.15993,
+    "value_": 15.99305
+  },
+  {
+    "geoid": "51177",
+    "key": "credit-constrained-subprime",
+    "date": "2021-03-15",
+    "value": 0.12856,
+    "value_": 12.85591
   },
   {
     "geoid": "51177",
@@ -1794,6 +3138,27 @@
   {
     "geoid": "51179",
     "key": "credit-constrained-subprime",
+    "date": "2019-03-15",
+    "value": 0.14976,
+    "value_": 14.97581
+  },
+  {
+    "geoid": "51179",
+    "key": "credit-constrained-subprime",
+    "date": "2020-03-15",
+    "value": 0.14953,
+    "value_": 14.95291
+  },
+  {
+    "geoid": "51179",
+    "key": "credit-constrained-subprime",
+    "date": "2021-03-15",
+    "value": 0.11467,
+    "value_": 11.46703
+  },
+  {
+    "geoid": "51179",
+    "key": "credit-constrained-subprime",
     "date": "2022-03-15",
     "value": 0.1064,
     "value_": 10.64031
@@ -1818,6 +3183,27 @@
     "date": "2025-03-15",
     "value": 0.12656,
     "value_": 12.65648
+  },
+  {
+    "geoid": "51187",
+    "key": "credit-constrained-subprime",
+    "date": "2019-03-15",
+    "value": 0.14877,
+    "value_": 14.87689
+  },
+  {
+    "geoid": "51187",
+    "key": "credit-constrained-subprime",
+    "date": "2020-03-15",
+    "value": 0.14992,
+    "value_": 14.99237
+  },
+  {
+    "geoid": "51187",
+    "key": "credit-constrained-subprime",
+    "date": "2021-03-15",
+    "value": 0.12529,
+    "value_": 12.52862
   },
   {
     "geoid": "51187",
@@ -1850,6 +3236,27 @@
   {
     "geoid": "51510",
     "key": "credit-constrained-subprime",
+    "date": "2019-03-15",
+    "value": 0.11098,
+    "value_": 11.09827
+  },
+  {
+    "geoid": "51510",
+    "key": "credit-constrained-subprime",
+    "date": "2020-03-15",
+    "value": 0.10913,
+    "value_": 10.91252
+  },
+  {
+    "geoid": "51510",
+    "key": "credit-constrained-subprime",
+    "date": "2021-03-15",
+    "value": 0.08591,
+    "value_": 8.59052
+  },
+  {
+    "geoid": "51510",
+    "key": "credit-constrained-subprime",
     "date": "2022-03-15",
     "value": 0.08336,
     "value_": 8.33593
@@ -1874,6 +3281,27 @@
     "date": "2025-03-15",
     "value": 0.10299,
     "value_": 10.29919
+  },
+  {
+    "geoid": "51630",
+    "key": "credit-constrained-subprime",
+    "date": "2019-03-15",
+    "value": 0.18269,
+    "value_": 18.26866
+  },
+  {
+    "geoid": "51630",
+    "key": "credit-constrained-subprime",
+    "date": "2020-03-15",
+    "value": 0.18247,
+    "value_": 18.24696
+  },
+  {
+    "geoid": "51630",
+    "key": "credit-constrained-subprime",
+    "date": "2021-03-15",
+    "value": 0.14862,
+    "value_": 14.86172
   },
   {
     "geoid": "51630",
@@ -1906,6 +3334,27 @@
   {
     "geoid": "54037",
     "key": "credit-constrained-subprime",
+    "date": "2019-03-15",
+    "value": 0.16888,
+    "value_": 16.88762
+  },
+  {
+    "geoid": "54037",
+    "key": "credit-constrained-subprime",
+    "date": "2020-03-15",
+    "value": 0.16383,
+    "value_": 16.38325
+  },
+  {
+    "geoid": "54037",
+    "key": "credit-constrained-subprime",
+    "date": "2021-03-15",
+    "value": 0.13097,
+    "value_": 13.0968
+  },
+  {
+    "geoid": "54037",
+    "key": "credit-constrained-subprime",
     "date": "2022-03-15",
     "value": 0.12417,
     "value_": 12.41693
@@ -1930,6 +3379,27 @@
     "date": "2025-03-15",
     "value": 0.1194,
     "value_": 11.94028
+  },
+  {
+    "geoid": "99997",
+    "key": "credit-constrained-subprime",
+    "date": "2019-03-15",
+    "value": 0.14871,
+    "value_": 14.8706
+  },
+  {
+    "geoid": "99997",
+    "key": "credit-constrained-subprime",
+    "date": "2020-03-15",
+    "value": 0.14794,
+    "value_": 14.7944
+  },
+  {
+    "geoid": "99997",
+    "key": "credit-constrained-subprime",
+    "date": "2021-03-15",
+    "value": 0.11855,
+    "value_": 11.8553
   },
   {
     "geoid": "99997",
@@ -1962,6 +3432,27 @@
   {
     "geoid": "99999",
     "key": "credit-constrained-subprime",
+    "date": "2019-03-15",
+    "value": 0.155,
+    "value_": 15.5
+  },
+  {
+    "geoid": "99999",
+    "key": "credit-constrained-subprime",
+    "date": "2020-03-15",
+    "value": 0.154,
+    "value_": 15.4
+  },
+  {
+    "geoid": "99999",
+    "key": "credit-constrained-subprime",
+    "date": "2021-03-15",
+    "value": 0.125,
+    "value_": 12.5
+  },
+  {
+    "geoid": "99999",
+    "key": "credit-constrained-subprime",
     "date": "2022-03-15",
     "value": 0.118,
     "value_": 11.8
@@ -1990,6 +3481,27 @@
   {
     "geoid": "11001",
     "key": "credit-constrained-subprime",
+    "date": "2019-06-15",
+    "value": 0.1514,
+    "value_": 15.13991
+  },
+  {
+    "geoid": "11001",
+    "key": "credit-constrained-subprime",
+    "date": "2020-06-15",
+    "value": 0.13841,
+    "value_": 13.84061
+  },
+  {
+    "geoid": "11001",
+    "key": "credit-constrained-subprime",
+    "date": "2021-06-15",
+    "value": 0.11493,
+    "value_": 11.49331
+  },
+  {
+    "geoid": "11001",
+    "key": "credit-constrained-subprime",
     "date": "2022-06-15",
     "value": 0.11967,
     "value_": 11.96682
@@ -2007,6 +3519,27 @@
     "date": "2024-06-15",
     "value": 0.13306,
     "value_": 13.30598
+  },
+  {
+    "geoid": "12060",
+    "key": "credit-constrained-subprime",
+    "date": "2019-06-15",
+    "value": 0.21,
+    "value_": 21
+  },
+  {
+    "geoid": "12060",
+    "key": "credit-constrained-subprime",
+    "date": "2020-06-15",
+    "value": 0.194,
+    "value_": 19.4
+  },
+  {
+    "geoid": "12060",
+    "key": "credit-constrained-subprime",
+    "date": "2021-06-15",
+    "value": 0.166,
+    "value_": 16.6
   },
   {
     "geoid": "12060",
@@ -2032,6 +3565,27 @@
   {
     "geoid": "12420",
     "key": "credit-constrained-subprime",
+    "date": "2019-06-15",
+    "value": 0.154,
+    "value_": 15.4
+  },
+  {
+    "geoid": "12420",
+    "key": "credit-constrained-subprime",
+    "date": "2020-06-15",
+    "value": 0.142,
+    "value_": 14.2
+  },
+  {
+    "geoid": "12420",
+    "key": "credit-constrained-subprime",
+    "date": "2021-06-15",
+    "value": 0.119,
+    "value_": 11.9
+  },
+  {
+    "geoid": "12420",
+    "key": "credit-constrained-subprime",
     "date": "2022-06-15",
     "value": 0.118,
     "value_": 11.8
@@ -2053,6 +3607,27 @@
   {
     "geoid": "12580",
     "key": "credit-constrained-subprime",
+    "date": "2019-06-15",
+    "value": 0.156,
+    "value_": 15.6
+  },
+  {
+    "geoid": "12580",
+    "key": "credit-constrained-subprime",
+    "date": "2020-06-15",
+    "value": 0.145,
+    "value_": 14.5
+  },
+  {
+    "geoid": "12580",
+    "key": "credit-constrained-subprime",
+    "date": "2021-06-15",
+    "value": 0.121,
+    "value_": 12.1
+  },
+  {
+    "geoid": "12580",
+    "key": "credit-constrained-subprime",
     "date": "2022-06-15",
     "value": 0.124,
     "value_": 12.4
@@ -2070,6 +3645,27 @@
     "date": "2024-06-15",
     "value": 0.136,
     "value_": 13.6
+  },
+  {
+    "geoid": "13820",
+    "key": "credit-constrained-subprime",
+    "date": "2019-06-15",
+    "value": 0.205,
+    "value_": 20.5
+  },
+  {
+    "geoid": "13820",
+    "key": "credit-constrained-subprime",
+    "date": "2020-06-15",
+    "value": 0.196,
+    "value_": 19.59999
+  },
+  {
+    "geoid": "13820",
+    "key": "credit-constrained-subprime",
+    "date": "2021-06-15",
+    "value": 0.171,
+    "value_": 17.10001
   },
   {
     "geoid": "13820",
@@ -2095,6 +3691,27 @@
   {
     "geoid": "14460",
     "key": "credit-constrained-subprime",
+    "date": "2019-06-15",
+    "value": 0.098,
+    "value_": 9.8
+  },
+  {
+    "geoid": "14460",
+    "key": "credit-constrained-subprime",
+    "date": "2020-06-15",
+    "value": 0.09,
+    "value_": 9
+  },
+  {
+    "geoid": "14460",
+    "key": "credit-constrained-subprime",
+    "date": "2021-06-15",
+    "value": 0.071,
+    "value_": 7.1
+  },
+  {
+    "geoid": "14460",
+    "key": "credit-constrained-subprime",
     "date": "2022-06-15",
     "value": 0.071,
     "value_": 7.1
@@ -2112,6 +3729,27 @@
     "date": "2024-06-15",
     "value": 0.079,
     "value_": 7.9
+  },
+  {
+    "geoid": "15380",
+    "key": "credit-constrained-subprime",
+    "date": "2019-06-15",
+    "value": 0.128,
+    "value_": 12.80001
+  },
+  {
+    "geoid": "15380",
+    "key": "credit-constrained-subprime",
+    "date": "2020-06-15",
+    "value": 0.116,
+    "value_": 11.60001
+  },
+  {
+    "geoid": "15380",
+    "key": "credit-constrained-subprime",
+    "date": "2021-06-15",
+    "value": 0.095,
+    "value_": 9.49999
   },
   {
     "geoid": "15380",
@@ -2137,6 +3775,27 @@
   {
     "geoid": "16740",
     "key": "credit-constrained-subprime",
+    "date": "2019-06-15",
+    "value": 0.192,
+    "value_": 19.2
+  },
+  {
+    "geoid": "16740",
+    "key": "credit-constrained-subprime",
+    "date": "2020-06-15",
+    "value": 0.175,
+    "value_": 17.5
+  },
+  {
+    "geoid": "16740",
+    "key": "credit-constrained-subprime",
+    "date": "2021-06-15",
+    "value": 0.153,
+    "value_": 15.3
+  },
+  {
+    "geoid": "16740",
+    "key": "credit-constrained-subprime",
     "date": "2022-06-15",
     "value": 0.154,
     "value_": 15.4
@@ -2154,6 +3813,27 @@
     "date": "2024-06-15",
     "value": 0.158,
     "value_": 15.8
+  },
+  {
+    "geoid": "16980",
+    "key": "credit-constrained-subprime",
+    "date": "2019-06-15",
+    "value": 0.135,
+    "value_": 13.5
+  },
+  {
+    "geoid": "16980",
+    "key": "credit-constrained-subprime",
+    "date": "2020-06-15",
+    "value": 0.126,
+    "value_": 12.6
+  },
+  {
+    "geoid": "16980",
+    "key": "credit-constrained-subprime",
+    "date": "2021-06-15",
+    "value": 0.104,
+    "value_": 10.4
   },
   {
     "geoid": "16980",
@@ -2179,6 +3859,27 @@
   {
     "geoid": "17140",
     "key": "credit-constrained-subprime",
+    "date": "2019-06-15",
+    "value": 0.154,
+    "value_": 15.4
+  },
+  {
+    "geoid": "17140",
+    "key": "credit-constrained-subprime",
+    "date": "2020-06-15",
+    "value": 0.141,
+    "value_": 14.1
+  },
+  {
+    "geoid": "17140",
+    "key": "credit-constrained-subprime",
+    "date": "2021-06-15",
+    "value": 0.119,
+    "value_": 11.9
+  },
+  {
+    "geoid": "17140",
+    "key": "credit-constrained-subprime",
     "date": "2022-06-15",
     "value": 0.118,
     "value_": 11.8
@@ -2196,6 +3897,27 @@
     "date": "2024-06-15",
     "value": 0.125,
     "value_": 12.5
+  },
+  {
+    "geoid": "17410",
+    "key": "credit-constrained-subprime",
+    "date": "2019-06-15",
+    "value": 0.153,
+    "value_": 15.3
+  },
+  {
+    "geoid": "17410",
+    "key": "credit-constrained-subprime",
+    "date": "2020-06-15",
+    "value": 0.142,
+    "value_": 14.2
+  },
+  {
+    "geoid": "17410",
+    "key": "credit-constrained-subprime",
+    "date": "2021-06-15",
+    "value": 0.12,
+    "value_": 12
   },
   {
     "geoid": "17410",
@@ -2221,6 +3943,27 @@
   {
     "geoid": "18140",
     "key": "credit-constrained-subprime",
+    "date": "2019-06-15",
+    "value": 0.155,
+    "value_": 15.49999
+  },
+  {
+    "geoid": "18140",
+    "key": "credit-constrained-subprime",
+    "date": "2020-06-15",
+    "value": 0.143,
+    "value_": 14.3
+  },
+  {
+    "geoid": "18140",
+    "key": "credit-constrained-subprime",
+    "date": "2021-06-15",
+    "value": 0.121,
+    "value_": 12.1
+  },
+  {
+    "geoid": "18140",
+    "key": "credit-constrained-subprime",
     "date": "2022-06-15",
     "value": 0.122,
     "value_": 12.2
@@ -2238,6 +3981,27 @@
     "date": "2024-06-15",
     "value": 0.129,
     "value_": 12.9
+  },
+  {
+    "geoid": "19100",
+    "key": "credit-constrained-subprime",
+    "date": "2019-06-15",
+    "value": 0.188,
+    "value_": 18.8
+  },
+  {
+    "geoid": "19100",
+    "key": "credit-constrained-subprime",
+    "date": "2020-06-15",
+    "value": 0.175,
+    "value_": 17.5
+  },
+  {
+    "geoid": "19100",
+    "key": "credit-constrained-subprime",
+    "date": "2021-06-15",
+    "value": 0.151,
+    "value_": 15.1
   },
   {
     "geoid": "19100",
@@ -2263,6 +4027,27 @@
   {
     "geoid": "19740",
     "key": "credit-constrained-subprime",
+    "date": "2019-06-15",
+    "value": 0.112,
+    "value_": 11.2
+  },
+  {
+    "geoid": "19740",
+    "key": "credit-constrained-subprime",
+    "date": "2020-06-15",
+    "value": 0.104,
+    "value_": 10.4
+  },
+  {
+    "geoid": "19740",
+    "key": "credit-constrained-subprime",
+    "date": "2021-06-15",
+    "value": 0.085,
+    "value_": 8.5
+  },
+  {
+    "geoid": "19740",
+    "key": "credit-constrained-subprime",
     "date": "2022-06-15",
     "value": 0.087,
     "value_": 8.7
@@ -2284,6 +4069,27 @@
   {
     "geoid": "19820",
     "key": "credit-constrained-subprime",
+    "date": "2019-06-15",
+    "value": 0.153,
+    "value_": 15.3
+  },
+  {
+    "geoid": "19820",
+    "key": "credit-constrained-subprime",
+    "date": "2020-06-15",
+    "value": 0.139,
+    "value_": 13.9
+  },
+  {
+    "geoid": "19820",
+    "key": "credit-constrained-subprime",
+    "date": "2021-06-15",
+    "value": 0.115,
+    "value_": 11.5
+  },
+  {
+    "geoid": "19820",
+    "key": "credit-constrained-subprime",
     "date": "2022-06-15",
     "value": 0.12,
     "value_": 12
@@ -2301,6 +4107,27 @@
     "date": "2024-06-15",
     "value": 0.132,
     "value_": 13.2
+  },
+  {
+    "geoid": "23420",
+    "key": "credit-constrained-subprime",
+    "date": "2019-06-15",
+    "value": 0.161,
+    "value_": 16.09999
+  },
+  {
+    "geoid": "23420",
+    "key": "credit-constrained-subprime",
+    "date": "2020-06-15",
+    "value": 0.149,
+    "value_": 14.9
+  },
+  {
+    "geoid": "23420",
+    "key": "credit-constrained-subprime",
+    "date": "2021-06-15",
+    "value": 0.119,
+    "value_": 11.89999
   },
   {
     "geoid": "23420",
@@ -2326,6 +4153,27 @@
   {
     "geoid": "24017",
     "key": "credit-constrained-subprime",
+    "date": "2019-06-15",
+    "value": 0.19068,
+    "value_": 19.06849
+  },
+  {
+    "geoid": "24017",
+    "key": "credit-constrained-subprime",
+    "date": "2020-06-15",
+    "value": 0.18004,
+    "value_": 18.00356
+  },
+  {
+    "geoid": "24017",
+    "key": "credit-constrained-subprime",
+    "date": "2021-06-15",
+    "value": 0.14596,
+    "value_": 14.59636
+  },
+  {
+    "geoid": "24017",
+    "key": "credit-constrained-subprime",
     "date": "2022-06-15",
     "value": 0.14422,
     "value_": 14.42161
@@ -2343,6 +4191,27 @@
     "date": "2024-06-15",
     "value": 0.16098,
     "value_": 16.09819
+  },
+  {
+    "geoid": "24021",
+    "key": "credit-constrained-subprime",
+    "date": "2019-06-15",
+    "value": 0.11452,
+    "value_": 11.45188
+  },
+  {
+    "geoid": "24021",
+    "key": "credit-constrained-subprime",
+    "date": "2020-06-15",
+    "value": 0.10667,
+    "value_": 10.66668
+  },
+  {
+    "geoid": "24021",
+    "key": "credit-constrained-subprime",
+    "date": "2021-06-15",
+    "value": 0.08548,
+    "value_": 8.54839
   },
   {
     "geoid": "24021",
@@ -2368,6 +4237,27 @@
   {
     "geoid": "24031",
     "key": "credit-constrained-subprime",
+    "date": "2019-06-15",
+    "value": 0.10524,
+    "value_": 10.52369
+  },
+  {
+    "geoid": "24031",
+    "key": "credit-constrained-subprime",
+    "date": "2020-06-15",
+    "value": 0.09678,
+    "value_": 9.67761
+  },
+  {
+    "geoid": "24031",
+    "key": "credit-constrained-subprime",
+    "date": "2021-06-15",
+    "value": 0.07803,
+    "value_": 7.80259
+  },
+  {
+    "geoid": "24031",
+    "key": "credit-constrained-subprime",
     "date": "2022-06-15",
     "value": 0.07853,
     "value_": 7.85312
@@ -2385,6 +4275,27 @@
     "date": "2024-06-15",
     "value": 0.08692,
     "value_": 8.6922
+  },
+  {
+    "geoid": "24033",
+    "key": "credit-constrained-subprime",
+    "date": "2019-06-15",
+    "value": 0.22186,
+    "value_": 22.18614
+  },
+  {
+    "geoid": "24033",
+    "key": "credit-constrained-subprime",
+    "date": "2020-06-15",
+    "value": 0.20605,
+    "value_": 20.60517
+  },
+  {
+    "geoid": "24033",
+    "key": "credit-constrained-subprime",
+    "date": "2021-06-15",
+    "value": 0.16815,
+    "value_": 16.8151
   },
   {
     "geoid": "24033",
@@ -2410,6 +4321,27 @@
   {
     "geoid": "24340",
     "key": "credit-constrained-subprime",
+    "date": "2019-06-15",
+    "value": 0.116,
+    "value_": 11.60001
+  },
+  {
+    "geoid": "24340",
+    "key": "credit-constrained-subprime",
+    "date": "2020-06-15",
+    "value": 0.102,
+    "value_": 10.19999
+  },
+  {
+    "geoid": "24340",
+    "key": "credit-constrained-subprime",
+    "date": "2021-06-15",
+    "value": 0.081,
+    "value_": 8.1
+  },
+  {
+    "geoid": "24340",
+    "key": "credit-constrained-subprime",
     "date": "2022-06-15",
     "value": 0.084,
     "value_": 8.40001
@@ -2427,6 +4359,27 @@
     "date": "2024-06-15",
     "value": 0.093,
     "value_": 9.3
+  },
+  {
+    "geoid": "26420",
+    "key": "credit-constrained-subprime",
+    "date": "2019-06-15",
+    "value": 0.204,
+    "value_": 20.4
+  },
+  {
+    "geoid": "26420",
+    "key": "credit-constrained-subprime",
+    "date": "2020-06-15",
+    "value": 0.192,
+    "value_": 19.2
+  },
+  {
+    "geoid": "26420",
+    "key": "credit-constrained-subprime",
+    "date": "2021-06-15",
+    "value": 0.167,
+    "value_": 16.7
   },
   {
     "geoid": "26420",
@@ -2452,6 +4405,27 @@
   {
     "geoid": "26900",
     "key": "credit-constrained-subprime",
+    "date": "2019-06-15",
+    "value": 0.165,
+    "value_": 16.5
+  },
+  {
+    "geoid": "26900",
+    "key": "credit-constrained-subprime",
+    "date": "2020-06-15",
+    "value": 0.15,
+    "value_": 15
+  },
+  {
+    "geoid": "26900",
+    "key": "credit-constrained-subprime",
+    "date": "2021-06-15",
+    "value": 0.127,
+    "value_": 12.7
+  },
+  {
+    "geoid": "26900",
+    "key": "credit-constrained-subprime",
     "date": "2022-06-15",
     "value": 0.13,
     "value_": 13
@@ -2469,6 +4443,27 @@
     "date": "2024-06-15",
     "value": 0.141,
     "value_": 14.1
+  },
+  {
+    "geoid": "27260",
+    "key": "credit-constrained-subprime",
+    "date": "2019-06-15",
+    "value": 0.198,
+    "value_": 19.79999
+  },
+  {
+    "geoid": "27260",
+    "key": "credit-constrained-subprime",
+    "date": "2020-06-15",
+    "value": 0.185,
+    "value_": 18.5
+  },
+  {
+    "geoid": "27260",
+    "key": "credit-constrained-subprime",
+    "date": "2021-06-15",
+    "value": 0.158,
+    "value_": 15.79999
   },
   {
     "geoid": "27260",
@@ -2494,6 +4489,27 @@
   {
     "geoid": "28140",
     "key": "credit-constrained-subprime",
+    "date": "2019-06-15",
+    "value": 0.147,
+    "value_": 14.7
+  },
+  {
+    "geoid": "28140",
+    "key": "credit-constrained-subprime",
+    "date": "2020-06-15",
+    "value": 0.135,
+    "value_": 13.5
+  },
+  {
+    "geoid": "28140",
+    "key": "credit-constrained-subprime",
+    "date": "2021-06-15",
+    "value": 0.116,
+    "value_": 11.6
+  },
+  {
+    "geoid": "28140",
+    "key": "credit-constrained-subprime",
     "date": "2022-06-15",
     "value": 0.118,
     "value_": 11.8
@@ -2511,6 +4527,27 @@
     "date": "2024-06-15",
     "value": 0.124,
     "value_": 12.4
+  },
+  {
+    "geoid": "29820",
+    "key": "credit-constrained-subprime",
+    "date": "2019-06-15",
+    "value": 0.187,
+    "value_": 18.7
+  },
+  {
+    "geoid": "29820",
+    "key": "credit-constrained-subprime",
+    "date": "2020-06-15",
+    "value": 0.174,
+    "value_": 17.4
+  },
+  {
+    "geoid": "29820",
+    "key": "credit-constrained-subprime",
+    "date": "2021-06-15",
+    "value": 0.148,
+    "value_": 14.8
   },
   {
     "geoid": "29820",
@@ -2536,6 +4573,27 @@
   {
     "geoid": "31080",
     "key": "credit-constrained-subprime",
+    "date": "2019-06-15",
+    "value": 0.125,
+    "value_": 12.5
+  },
+  {
+    "geoid": "31080",
+    "key": "credit-constrained-subprime",
+    "date": "2020-06-15",
+    "value": 0.118,
+    "value_": 11.8
+  },
+  {
+    "geoid": "31080",
+    "key": "credit-constrained-subprime",
+    "date": "2021-06-15",
+    "value": 0.091,
+    "value_": 9.1
+  },
+  {
+    "geoid": "31080",
+    "key": "credit-constrained-subprime",
     "date": "2022-06-15",
     "value": 0.093,
     "value_": 9.3
@@ -2553,6 +4611,27 @@
     "date": "2024-06-15",
     "value": 0.106,
     "value_": 10.6
+  },
+  {
+    "geoid": "32820",
+    "key": "credit-constrained-subprime",
+    "date": "2019-06-15",
+    "value": 0.263,
+    "value_": 26.3
+  },
+  {
+    "geoid": "32820",
+    "key": "credit-constrained-subprime",
+    "date": "2020-06-15",
+    "value": 0.25,
+    "value_": 25
+  },
+  {
+    "geoid": "32820",
+    "key": "credit-constrained-subprime",
+    "date": "2021-06-15",
+    "value": 0.212,
+    "value_": 21.2
   },
   {
     "geoid": "32820",
@@ -2578,6 +4657,27 @@
   {
     "geoid": "33100",
     "key": "credit-constrained-subprime",
+    "date": "2019-06-15",
+    "value": 0.177,
+    "value_": 17.7
+  },
+  {
+    "geoid": "33100",
+    "key": "credit-constrained-subprime",
+    "date": "2020-06-15",
+    "value": 0.166,
+    "value_": 16.6
+  },
+  {
+    "geoid": "33100",
+    "key": "credit-constrained-subprime",
+    "date": "2021-06-15",
+    "value": 0.135,
+    "value_": 13.5
+  },
+  {
+    "geoid": "33100",
+    "key": "credit-constrained-subprime",
     "date": "2022-06-15",
     "value": 0.134,
     "value_": 13.4
@@ -2595,6 +4695,27 @@
     "date": "2024-06-15",
     "value": 0.147,
     "value_": 14.7
+  },
+  {
+    "geoid": "33340",
+    "key": "credit-constrained-subprime",
+    "date": "2019-06-15",
+    "value": 0.126,
+    "value_": 12.6
+  },
+  {
+    "geoid": "33340",
+    "key": "credit-constrained-subprime",
+    "date": "2020-06-15",
+    "value": 0.113,
+    "value_": 11.3
+  },
+  {
+    "geoid": "33340",
+    "key": "credit-constrained-subprime",
+    "date": "2021-06-15",
+    "value": 0.096,
+    "value_": 9.6
   },
   {
     "geoid": "33340",
@@ -2620,6 +4741,27 @@
   {
     "geoid": "34980",
     "key": "credit-constrained-subprime",
+    "date": "2019-06-15",
+    "value": 0.161,
+    "value_": 16.1
+  },
+  {
+    "geoid": "34980",
+    "key": "credit-constrained-subprime",
+    "date": "2020-06-15",
+    "value": 0.149,
+    "value_": 14.90001
+  },
+  {
+    "geoid": "34980",
+    "key": "credit-constrained-subprime",
+    "date": "2021-06-15",
+    "value": 0.128,
+    "value_": 12.8
+  },
+  {
+    "geoid": "34980",
+    "key": "credit-constrained-subprime",
     "date": "2022-06-15",
     "value": 0.126,
     "value_": 12.6
@@ -2637,6 +4779,27 @@
     "date": "2024-06-15",
     "value": 0.127,
     "value_": 12.7
+  },
+  {
+    "geoid": "35620",
+    "key": "credit-constrained-subprime",
+    "date": "2019-06-15",
+    "value": 0.122,
+    "value_": 12.2
+  },
+  {
+    "geoid": "35620",
+    "key": "credit-constrained-subprime",
+    "date": "2020-06-15",
+    "value": 0.113,
+    "value_": 11.3
+  },
+  {
+    "geoid": "35620",
+    "key": "credit-constrained-subprime",
+    "date": "2021-06-15",
+    "value": 0.089,
+    "value_": 8.9
   },
   {
     "geoid": "35620",
@@ -2662,6 +4825,27 @@
   {
     "geoid": "36420",
     "key": "credit-constrained-subprime",
+    "date": "2019-06-15",
+    "value": 0.183,
+    "value_": 18.29999
+  },
+  {
+    "geoid": "36420",
+    "key": "credit-constrained-subprime",
+    "date": "2020-06-15",
+    "value": 0.174,
+    "value_": 17.40001
+  },
+  {
+    "geoid": "36420",
+    "key": "credit-constrained-subprime",
+    "date": "2021-06-15",
+    "value": 0.153,
+    "value_": 15.3
+  },
+  {
+    "geoid": "36420",
+    "key": "credit-constrained-subprime",
     "date": "2022-06-15",
     "value": 0.151,
     "value_": 15.1
@@ -2679,6 +4863,27 @@
     "date": "2024-06-15",
     "value": 0.154,
     "value_": 15.40001
+  },
+  {
+    "geoid": "36540",
+    "key": "credit-constrained-subprime",
+    "date": "2019-06-15",
+    "value": 0.122,
+    "value_": 12.20001
+  },
+  {
+    "geoid": "36540",
+    "key": "credit-constrained-subprime",
+    "date": "2020-06-15",
+    "value": 0.114,
+    "value_": 11.40001
+  },
+  {
+    "geoid": "36540",
+    "key": "credit-constrained-subprime",
+    "date": "2021-06-15",
+    "value": 0.092,
+    "value_": 9.2
   },
   {
     "geoid": "36540",
@@ -2704,6 +4909,27 @@
   {
     "geoid": "36740",
     "key": "credit-constrained-subprime",
+    "date": "2019-06-15",
+    "value": 0.189,
+    "value_": 18.9
+  },
+  {
+    "geoid": "36740",
+    "key": "credit-constrained-subprime",
+    "date": "2020-06-15",
+    "value": 0.176,
+    "value_": 17.6
+  },
+  {
+    "geoid": "36740",
+    "key": "credit-constrained-subprime",
+    "date": "2021-06-15",
+    "value": 0.147,
+    "value_": 14.7
+  },
+  {
+    "geoid": "36740",
+    "key": "credit-constrained-subprime",
     "date": "2022-06-15",
     "value": 0.149,
     "value_": 14.9
@@ -2721,6 +4947,27 @@
     "date": "2024-06-15",
     "value": 0.165,
     "value_": 16.5
+  },
+  {
+    "geoid": "37980",
+    "key": "credit-constrained-subprime",
+    "date": "2019-06-15",
+    "value": 0.151,
+    "value_": 15.1
+  },
+  {
+    "geoid": "37980",
+    "key": "credit-constrained-subprime",
+    "date": "2020-06-15",
+    "value": 0.137,
+    "value_": 13.7
+  },
+  {
+    "geoid": "37980",
+    "key": "credit-constrained-subprime",
+    "date": "2021-06-15",
+    "value": 0.111,
+    "value_": 11.1
   },
   {
     "geoid": "37980",
@@ -2746,6 +4993,27 @@
   {
     "geoid": "38060",
     "key": "credit-constrained-subprime",
+    "date": "2019-06-15",
+    "value": 0.154,
+    "value_": 15.4
+  },
+  {
+    "geoid": "38060",
+    "key": "credit-constrained-subprime",
+    "date": "2020-06-15",
+    "value": 0.141,
+    "value_": 14.1
+  },
+  {
+    "geoid": "38060",
+    "key": "credit-constrained-subprime",
+    "date": "2021-06-15",
+    "value": 0.114,
+    "value_": 11.4
+  },
+  {
+    "geoid": "38060",
+    "key": "credit-constrained-subprime",
     "date": "2022-06-15",
     "value": 0.116,
     "value_": 11.6
@@ -2763,6 +5031,27 @@
     "date": "2024-06-15",
     "value": 0.131,
     "value_": 13.1
+  },
+  {
+    "geoid": "38300",
+    "key": "credit-constrained-subprime",
+    "date": "2019-06-15",
+    "value": 0.125,
+    "value_": 12.5
+  },
+  {
+    "geoid": "38300",
+    "key": "credit-constrained-subprime",
+    "date": "2020-06-15",
+    "value": 0.116,
+    "value_": 11.6
+  },
+  {
+    "geoid": "38300",
+    "key": "credit-constrained-subprime",
+    "date": "2021-06-15",
+    "value": 0.095,
+    "value_": 9.5
   },
   {
     "geoid": "38300",
@@ -2788,6 +5077,27 @@
   {
     "geoid": "38900",
     "key": "credit-constrained-subprime",
+    "date": "2019-06-15",
+    "value": 0.106,
+    "value_": 10.6
+  },
+  {
+    "geoid": "38900",
+    "key": "credit-constrained-subprime",
+    "date": "2020-06-15",
+    "value": 0.094,
+    "value_": 9.4
+  },
+  {
+    "geoid": "38900",
+    "key": "credit-constrained-subprime",
+    "date": "2021-06-15",
+    "value": 0.074,
+    "value_": 7.4
+  },
+  {
+    "geoid": "38900",
+    "key": "credit-constrained-subprime",
     "date": "2022-06-15",
     "value": 0.072,
     "value_": 7.2
@@ -2805,6 +5115,27 @@
     "date": "2024-06-15",
     "value": 0.081,
     "value_": 8.1
+  },
+  {
+    "geoid": "39300",
+    "key": "credit-constrained-subprime",
+    "date": "2019-06-15",
+    "value": 0.133,
+    "value_": 13.3
+  },
+  {
+    "geoid": "39300",
+    "key": "credit-constrained-subprime",
+    "date": "2020-06-15",
+    "value": 0.122,
+    "value_": 12.20001
+  },
+  {
+    "geoid": "39300",
+    "key": "credit-constrained-subprime",
+    "date": "2021-06-15",
+    "value": 0.098,
+    "value_": 9.8
   },
   {
     "geoid": "39300",
@@ -2830,6 +5161,27 @@
   {
     "geoid": "39580",
     "key": "credit-constrained-subprime",
+    "date": "2019-06-15",
+    "value": 0.154,
+    "value_": 15.40001
+  },
+  {
+    "geoid": "39580",
+    "key": "credit-constrained-subprime",
+    "date": "2020-06-15",
+    "value": 0.141,
+    "value_": 14.09999
+  },
+  {
+    "geoid": "39580",
+    "key": "credit-constrained-subprime",
+    "date": "2021-06-15",
+    "value": 0.121,
+    "value_": 12.09999
+  },
+  {
+    "geoid": "39580",
+    "key": "credit-constrained-subprime",
     "date": "2022-06-15",
     "value": 0.121,
     "value_": 12.1
@@ -2847,6 +5199,27 @@
     "date": "2024-06-15",
     "value": 0.126,
     "value_": 12.6
+  },
+  {
+    "geoid": "40060",
+    "key": "credit-constrained-subprime",
+    "date": "2019-06-15",
+    "value": 0.168,
+    "value_": 16.79999
+  },
+  {
+    "geoid": "40060",
+    "key": "credit-constrained-subprime",
+    "date": "2020-06-15",
+    "value": 0.152,
+    "value_": 15.19999
+  },
+  {
+    "geoid": "40060",
+    "key": "credit-constrained-subprime",
+    "date": "2021-06-15",
+    "value": 0.132,
+    "value_": 13.19999
   },
   {
     "geoid": "40060",
@@ -2872,6 +5245,27 @@
   {
     "geoid": "40140",
     "key": "credit-constrained-subprime",
+    "date": "2019-06-15",
+    "value": 0.178,
+    "value_": 17.8
+  },
+  {
+    "geoid": "40140",
+    "key": "credit-constrained-subprime",
+    "date": "2020-06-15",
+    "value": 0.17,
+    "value_": 17
+  },
+  {
+    "geoid": "40140",
+    "key": "credit-constrained-subprime",
+    "date": "2021-06-15",
+    "value": 0.128,
+    "value_": 12.8
+  },
+  {
+    "geoid": "40140",
+    "key": "credit-constrained-subprime",
     "date": "2022-06-15",
     "value": 0.132,
     "value_": 13.2
@@ -2889,6 +5283,27 @@
     "date": "2024-06-15",
     "value": 0.151,
     "value_": 15.1
+  },
+  {
+    "geoid": "40380",
+    "key": "credit-constrained-subprime",
+    "date": "2019-06-15",
+    "value": 0.139,
+    "value_": 13.9
+  },
+  {
+    "geoid": "40380",
+    "key": "credit-constrained-subprime",
+    "date": "2020-06-15",
+    "value": 0.124,
+    "value_": 12.4
+  },
+  {
+    "geoid": "40380",
+    "key": "credit-constrained-subprime",
+    "date": "2021-06-15",
+    "value": 0.103,
+    "value_": 10.30001
   },
   {
     "geoid": "40380",
@@ -2914,6 +5329,27 @@
   {
     "geoid": "40900",
     "key": "credit-constrained-subprime",
+    "date": "2019-06-15",
+    "value": 0.12,
+    "value_": 12
+  },
+  {
+    "geoid": "40900",
+    "key": "credit-constrained-subprime",
+    "date": "2020-06-15",
+    "value": 0.11,
+    "value_": 11
+  },
+  {
+    "geoid": "40900",
+    "key": "credit-constrained-subprime",
+    "date": "2021-06-15",
+    "value": 0.088,
+    "value_": 8.8
+  },
+  {
+    "geoid": "40900",
+    "key": "credit-constrained-subprime",
     "date": "2022-06-15",
     "value": 0.093,
     "value_": 9.3
@@ -2931,6 +5367,27 @@
     "date": "2024-06-15",
     "value": 0.104,
     "value_": 10.4
+  },
+  {
+    "geoid": "41620",
+    "key": "credit-constrained-subprime",
+    "date": "2019-06-15",
+    "value": 0.114,
+    "value_": 11.39999
+  },
+  {
+    "geoid": "41620",
+    "key": "credit-constrained-subprime",
+    "date": "2020-06-15",
+    "value": 0.106,
+    "value_": 10.60001
+  },
+  {
+    "geoid": "41620",
+    "key": "credit-constrained-subprime",
+    "date": "2021-06-15",
+    "value": 0.089,
+    "value_": 8.9
   },
   {
     "geoid": "41620",
@@ -2956,6 +5413,27 @@
   {
     "geoid": "41700",
     "key": "credit-constrained-subprime",
+    "date": "2019-06-15",
+    "value": 0.219,
+    "value_": 21.89999
+  },
+  {
+    "geoid": "41700",
+    "key": "credit-constrained-subprime",
+    "date": "2020-06-15",
+    "value": 0.202,
+    "value_": 20.2
+  },
+  {
+    "geoid": "41700",
+    "key": "credit-constrained-subprime",
+    "date": "2021-06-15",
+    "value": 0.173,
+    "value_": 17.3
+  },
+  {
+    "geoid": "41700",
+    "key": "credit-constrained-subprime",
     "date": "2022-06-15",
     "value": 0.172,
     "value_": 17.2
@@ -2977,6 +5455,27 @@
   {
     "geoid": "41740",
     "key": "credit-constrained-subprime",
+    "date": "2019-06-15",
+    "value": 0.113,
+    "value_": 11.3
+  },
+  {
+    "geoid": "41740",
+    "key": "credit-constrained-subprime",
+    "date": "2020-06-15",
+    "value": 0.102,
+    "value_": 10.2
+  },
+  {
+    "geoid": "41740",
+    "key": "credit-constrained-subprime",
+    "date": "2021-06-15",
+    "value": 0.081,
+    "value_": 8.1
+  },
+  {
+    "geoid": "41740",
+    "key": "credit-constrained-subprime",
     "date": "2022-06-15",
     "value": 0.084,
     "value_": 8.4
@@ -2994,6 +5493,27 @@
     "date": "2024-06-15",
     "value": 0.093,
     "value_": 9.3
+  },
+  {
+    "geoid": "41860",
+    "key": "credit-constrained-subprime",
+    "date": "2019-06-15",
+    "value": 0.077,
+    "value_": 7.7
+  },
+  {
+    "geoid": "41860",
+    "key": "credit-constrained-subprime",
+    "date": "2020-06-15",
+    "value": 0.073,
+    "value_": 7.3
+  },
+  {
+    "geoid": "41860",
+    "key": "credit-constrained-subprime",
+    "date": "2021-06-15",
+    "value": 0.059,
+    "value_": 5.9
   },
   {
     "geoid": "41860",
@@ -3019,6 +5539,27 @@
   {
     "geoid": "41940",
     "key": "credit-constrained-subprime",
+    "date": "2019-06-15",
+    "value": 0.069,
+    "value_": 6.9
+  },
+  {
+    "geoid": "41940",
+    "key": "credit-constrained-subprime",
+    "date": "2020-06-15",
+    "value": 0.064,
+    "value_": 6.4
+  },
+  {
+    "geoid": "41940",
+    "key": "credit-constrained-subprime",
+    "date": "2021-06-15",
+    "value": 0.051,
+    "value_": 5.1
+  },
+  {
+    "geoid": "41940",
+    "key": "credit-constrained-subprime",
     "date": "2022-06-15",
     "value": 0.054,
     "value_": 5.4
@@ -3040,6 +5581,27 @@
   {
     "geoid": "42660",
     "key": "credit-constrained-subprime",
+    "date": "2019-06-15",
+    "value": 0.096,
+    "value_": 9.6
+  },
+  {
+    "geoid": "42660",
+    "key": "credit-constrained-subprime",
+    "date": "2020-06-15",
+    "value": 0.087,
+    "value_": 8.7
+  },
+  {
+    "geoid": "42660",
+    "key": "credit-constrained-subprime",
+    "date": "2021-06-15",
+    "value": 0.07,
+    "value_": 7
+  },
+  {
+    "geoid": "42660",
+    "key": "credit-constrained-subprime",
     "date": "2022-06-15",
     "value": 0.072,
     "value_": 7.2
@@ -3057,6 +5619,27 @@
     "date": "2024-06-15",
     "value": 0.079,
     "value_": 7.9
+  },
+  {
+    "geoid": "46060",
+    "key": "credit-constrained-subprime",
+    "date": "2019-06-15",
+    "value": 0.146,
+    "value_": 14.6
+  },
+  {
+    "geoid": "46060",
+    "key": "credit-constrained-subprime",
+    "date": "2020-06-15",
+    "value": 0.135,
+    "value_": 13.5
+  },
+  {
+    "geoid": "46060",
+    "key": "credit-constrained-subprime",
+    "date": "2021-06-15",
+    "value": 0.112,
+    "value_": 11.2
   },
   {
     "geoid": "46060",
@@ -3082,6 +5665,27 @@
   {
     "geoid": "46140",
     "key": "credit-constrained-subprime",
+    "date": "2019-06-15",
+    "value": 0.188,
+    "value_": 18.8
+  },
+  {
+    "geoid": "46140",
+    "key": "credit-constrained-subprime",
+    "date": "2020-06-15",
+    "value": 0.175,
+    "value_": 17.49999
+  },
+  {
+    "geoid": "46140",
+    "key": "credit-constrained-subprime",
+    "date": "2021-06-15",
+    "value": 0.151,
+    "value_": 15.1
+  },
+  {
+    "geoid": "46140",
+    "key": "credit-constrained-subprime",
     "date": "2022-06-15",
     "value": 0.152,
     "value_": 15.2
@@ -3099,6 +5703,27 @@
     "date": "2024-06-15",
     "value": 0.157,
     "value_": 15.7
+  },
+  {
+    "geoid": "47260",
+    "key": "credit-constrained-subprime",
+    "date": "2019-06-15",
+    "value": 0.202,
+    "value_": 20.20001
+  },
+  {
+    "geoid": "47260",
+    "key": "credit-constrained-subprime",
+    "date": "2020-06-15",
+    "value": 0.184,
+    "value_": 18.39999
+  },
+  {
+    "geoid": "47260",
+    "key": "credit-constrained-subprime",
+    "date": "2021-06-15",
+    "value": 0.155,
+    "value_": 15.49999
   },
   {
     "geoid": "47260",
@@ -3124,6 +5749,27 @@
   {
     "geoid": "47900",
     "key": "credit-constrained-subprime",
+    "date": "2019-06-15",
+    "value": 0.129,
+    "value_": 12.9
+  },
+  {
+    "geoid": "47900",
+    "key": "credit-constrained-subprime",
+    "date": "2020-06-15",
+    "value": 0.118,
+    "value_": 11.8
+  },
+  {
+    "geoid": "47900",
+    "key": "credit-constrained-subprime",
+    "date": "2021-06-15",
+    "value": 0.096,
+    "value_": 9.6
+  },
+  {
+    "geoid": "47900",
+    "key": "credit-constrained-subprime",
     "date": "2022-06-15",
     "value": 0.097,
     "value_": 9.7
@@ -3141,6 +5787,27 @@
     "date": "2024-06-15",
     "value": 0.106,
     "value_": 10.6
+  },
+  {
+    "geoid": "51013",
+    "key": "credit-constrained-subprime",
+    "date": "2019-06-15",
+    "value": 0.0727,
+    "value_": 7.26998
+  },
+  {
+    "geoid": "51013",
+    "key": "credit-constrained-subprime",
+    "date": "2020-06-15",
+    "value": 0.06373,
+    "value_": 6.37258
+  },
+  {
+    "geoid": "51013",
+    "key": "credit-constrained-subprime",
+    "date": "2021-06-15",
+    "value": 0.05329,
+    "value_": 5.32942
   },
   {
     "geoid": "51013",
@@ -3166,6 +5833,27 @@
   {
     "geoid": "51043",
     "key": "credit-constrained-subprime",
+    "date": "2019-06-15",
+    "value": 0.09569,
+    "value_": 9.56947
+  },
+  {
+    "geoid": "51043",
+    "key": "credit-constrained-subprime",
+    "date": "2020-06-15",
+    "value": 0.08168,
+    "value_": 8.16792
+  },
+  {
+    "geoid": "51043",
+    "key": "credit-constrained-subprime",
+    "date": "2021-06-15",
+    "value": 0.06514,
+    "value_": 6.51418
+  },
+  {
+    "geoid": "51043",
+    "key": "credit-constrained-subprime",
     "date": "2022-06-15",
     "value": 0.07704,
     "value_": 7.70366
@@ -3183,6 +5871,27 @@
     "date": "2024-06-15",
     "value": 0.09024,
     "value_": 9.02401
+  },
+  {
+    "geoid": "51047",
+    "key": "credit-constrained-subprime",
+    "date": "2019-06-15",
+    "value": 0.16772,
+    "value_": 16.77191
+  },
+  {
+    "geoid": "51047",
+    "key": "credit-constrained-subprime",
+    "date": "2020-06-15",
+    "value": 0.15673,
+    "value_": 15.673
+  },
+  {
+    "geoid": "51047",
+    "key": "credit-constrained-subprime",
+    "date": "2021-06-15",
+    "value": 0.13102,
+    "value_": 13.10155
   },
   {
     "geoid": "51047",
@@ -3208,6 +5917,27 @@
   {
     "geoid": "51059",
     "key": "credit-constrained-subprime",
+    "date": "2019-06-15",
+    "value": 0.08295,
+    "value_": 8.2953
+  },
+  {
+    "geoid": "51059",
+    "key": "credit-constrained-subprime",
+    "date": "2020-06-15",
+    "value": 0.07402,
+    "value_": 7.40193
+  },
+  {
+    "geoid": "51059",
+    "key": "credit-constrained-subprime",
+    "date": "2021-06-15",
+    "value": 0.06012,
+    "value_": 6.01206
+  },
+  {
+    "geoid": "51059",
+    "key": "credit-constrained-subprime",
     "date": "2022-06-15",
     "value": 0.05964,
     "value_": 5.96425
@@ -3225,6 +5955,27 @@
     "date": "2024-06-15",
     "value": 0.06714,
     "value_": 6.71389
+  },
+  {
+    "geoid": "51061",
+    "key": "credit-constrained-subprime",
+    "date": "2019-06-15",
+    "value": 0.10729,
+    "value_": 10.72915
+  },
+  {
+    "geoid": "51061",
+    "key": "credit-constrained-subprime",
+    "date": "2020-06-15",
+    "value": 0.10135,
+    "value_": 10.13541
+  },
+  {
+    "geoid": "51061",
+    "key": "credit-constrained-subprime",
+    "date": "2021-06-15",
+    "value": 0.08242,
+    "value_": 8.24158
   },
   {
     "geoid": "51061",
@@ -3250,6 +6001,27 @@
   {
     "geoid": "51107",
     "key": "credit-constrained-subprime",
+    "date": "2019-06-15",
+    "value": 0.08884,
+    "value_": 8.88398
+  },
+  {
+    "geoid": "51107",
+    "key": "credit-constrained-subprime",
+    "date": "2020-06-15",
+    "value": 0.07841,
+    "value_": 7.84112
+  },
+  {
+    "geoid": "51107",
+    "key": "credit-constrained-subprime",
+    "date": "2021-06-15",
+    "value": 0.06103,
+    "value_": 6.10285
+  },
+  {
+    "geoid": "51107",
+    "key": "credit-constrained-subprime",
     "date": "2022-06-15",
     "value": 0.06071,
     "value_": 6.07126
@@ -3267,6 +6039,27 @@
     "date": "2024-06-15",
     "value": 0.06496,
     "value_": 6.49587
+  },
+  {
+    "geoid": "51153",
+    "key": "credit-constrained-subprime",
+    "date": "2019-06-15",
+    "value": 0.14742,
+    "value_": 14.74191
+  },
+  {
+    "geoid": "51153",
+    "key": "credit-constrained-subprime",
+    "date": "2020-06-15",
+    "value": 0.13667,
+    "value_": 13.66693
+  },
+  {
+    "geoid": "51153",
+    "key": "credit-constrained-subprime",
+    "date": "2021-06-15",
+    "value": 0.10952,
+    "value_": 10.95191
   },
   {
     "geoid": "51153",
@@ -3292,6 +6085,27 @@
   {
     "geoid": "51157",
     "key": "credit-constrained-subprime",
+    "date": "2019-06-15",
+    "value": 0.11176,
+    "value_": 11.17581
+  },
+  {
+    "geoid": "51157",
+    "key": "credit-constrained-subprime",
+    "date": "2020-06-15",
+    "value": 0.08617,
+    "value_": 8.61708
+  },
+  {
+    "geoid": "51157",
+    "key": "credit-constrained-subprime",
+    "date": "2021-06-15",
+    "value": 0.06491,
+    "value_": 6.49106
+  },
+  {
+    "geoid": "51157",
+    "key": "credit-constrained-subprime",
     "date": "2022-06-15",
     "value": 0.06868,
     "value_": 6.86771
@@ -3309,6 +6123,27 @@
     "date": "2024-06-15",
     "value": 0.08966,
     "value_": 8.96563
+  },
+  {
+    "geoid": "51177",
+    "key": "credit-constrained-subprime",
+    "date": "2019-06-15",
+    "value": 0.16274,
+    "value_": 16.27414
+  },
+  {
+    "geoid": "51177",
+    "key": "credit-constrained-subprime",
+    "date": "2020-06-15",
+    "value": 0.14617,
+    "value_": 14.61667
+  },
+  {
+    "geoid": "51177",
+    "key": "credit-constrained-subprime",
+    "date": "2021-06-15",
+    "value": 0.12092,
+    "value_": 12.09242
   },
   {
     "geoid": "51177",
@@ -3334,6 +6169,27 @@
   {
     "geoid": "51179",
     "key": "credit-constrained-subprime",
+    "date": "2019-06-15",
+    "value": 0.14837,
+    "value_": 14.8368
+  },
+  {
+    "geoid": "51179",
+    "key": "credit-constrained-subprime",
+    "date": "2020-06-15",
+    "value": 0.13393,
+    "value_": 13.39327
+  },
+  {
+    "geoid": "51179",
+    "key": "credit-constrained-subprime",
+    "date": "2021-06-15",
+    "value": 0.10716,
+    "value_": 10.71584
+  },
+  {
+    "geoid": "51179",
+    "key": "credit-constrained-subprime",
     "date": "2022-06-15",
     "value": 0.10832,
     "value_": 10.83234
@@ -3351,6 +6207,27 @@
     "date": "2024-06-15",
     "value": 0.11833,
     "value_": 11.83257
+  },
+  {
+    "geoid": "51187",
+    "key": "credit-constrained-subprime",
+    "date": "2019-06-15",
+    "value": 0.15201,
+    "value_": 15.20052
+  },
+  {
+    "geoid": "51187",
+    "key": "credit-constrained-subprime",
+    "date": "2020-06-15",
+    "value": 0.1372,
+    "value_": 13.72036
+  },
+  {
+    "geoid": "51187",
+    "key": "credit-constrained-subprime",
+    "date": "2021-06-15",
+    "value": 0.11936,
+    "value_": 11.93561
   },
   {
     "geoid": "51187",
@@ -3376,6 +6253,27 @@
   {
     "geoid": "51510",
     "key": "credit-constrained-subprime",
+    "date": "2019-06-15",
+    "value": 0.11006,
+    "value_": 11.00563
+  },
+  {
+    "geoid": "51510",
+    "key": "credit-constrained-subprime",
+    "date": "2020-06-15",
+    "value": 0.09928,
+    "value_": 9.92781
+  },
+  {
+    "geoid": "51510",
+    "key": "credit-constrained-subprime",
+    "date": "2021-06-15",
+    "value": 0.08475,
+    "value_": 8.47465
+  },
+  {
+    "geoid": "51510",
+    "key": "credit-constrained-subprime",
     "date": "2022-06-15",
     "value": 0.08825,
     "value_": 8.82481
@@ -3393,6 +6291,27 @@
     "date": "2024-06-15",
     "value": 0.09511,
     "value_": 9.51131
+  },
+  {
+    "geoid": "51630",
+    "key": "credit-constrained-subprime",
+    "date": "2019-06-15",
+    "value": 0.17974,
+    "value_": 17.97422
+  },
+  {
+    "geoid": "51630",
+    "key": "credit-constrained-subprime",
+    "date": "2020-06-15",
+    "value": 0.16832,
+    "value_": 16.83162
+  },
+  {
+    "geoid": "51630",
+    "key": "credit-constrained-subprime",
+    "date": "2021-06-15",
+    "value": 0.14532,
+    "value_": 14.53185
   },
   {
     "geoid": "51630",
@@ -3418,6 +6337,27 @@
   {
     "geoid": "54037",
     "key": "credit-constrained-subprime",
+    "date": "2019-06-15",
+    "value": 0.16489,
+    "value_": 16.48932
+  },
+  {
+    "geoid": "54037",
+    "key": "credit-constrained-subprime",
+    "date": "2020-06-15",
+    "value": 0.14896,
+    "value_": 14.89644
+  },
+  {
+    "geoid": "54037",
+    "key": "credit-constrained-subprime",
+    "date": "2021-06-15",
+    "value": 0.12499,
+    "value_": 12.49938
+  },
+  {
+    "geoid": "54037",
+    "key": "credit-constrained-subprime",
     "date": "2022-06-15",
     "value": 0.12563,
     "value_": 12.56269
@@ -3435,6 +6375,27 @@
     "date": "2024-06-15",
     "value": 0.12196,
     "value_": 12.19622
+  },
+  {
+    "geoid": "99997",
+    "key": "credit-constrained-subprime",
+    "date": "2019-06-15",
+    "value": 0.14749,
+    "value_": 14.74896
+  },
+  {
+    "geoid": "99997",
+    "key": "credit-constrained-subprime",
+    "date": "2020-06-15",
+    "value": 0.13671,
+    "value_": 13.67073
+  },
+  {
+    "geoid": "99997",
+    "key": "credit-constrained-subprime",
+    "date": "2021-06-15",
+    "value": 0.11288,
+    "value_": 11.28817
   },
   {
     "geoid": "99997",
@@ -3460,6 +6421,27 @@
   {
     "geoid": "99999",
     "key": "credit-constrained-subprime",
+    "date": "2019-06-15",
+    "value": 0.154,
+    "value_": 15.4
+  },
+  {
+    "geoid": "99999",
+    "key": "credit-constrained-subprime",
+    "date": "2020-06-15",
+    "value": 0.143,
+    "value_": 14.3
+  },
+  {
+    "geoid": "99999",
+    "key": "credit-constrained-subprime",
+    "date": "2021-06-15",
+    "value": 0.119,
+    "value_": 11.9
+  },
+  {
+    "geoid": "99999",
+    "key": "credit-constrained-subprime",
     "date": "2022-06-15",
     "value": 0.121,
     "value_": 12.1
@@ -3477,6 +6459,27 @@
     "date": "2024-06-15",
     "value": 0.129,
     "value_": 12.9
+  },
+  {
+    "geoid": "11001",
+    "key": "credit-constrained-subprime",
+    "date": "2019-09-15",
+    "value": 0.15106,
+    "value_": 15.10631
+  },
+  {
+    "geoid": "11001",
+    "key": "credit-constrained-subprime",
+    "date": "2020-09-15",
+    "value": 0.13053,
+    "value_": 13.05261
+  },
+  {
+    "geoid": "11001",
+    "key": "credit-constrained-subprime",
+    "date": "2021-09-15",
+    "value": 0.11277,
+    "value_": 11.27661
   },
   {
     "geoid": "11001",
@@ -3502,6 +6505,27 @@
   {
     "geoid": "12060",
     "key": "credit-constrained-subprime",
+    "date": "2019-09-15",
+    "value": 0.21,
+    "value_": 21
+  },
+  {
+    "geoid": "12060",
+    "key": "credit-constrained-subprime",
+    "date": "2020-09-15",
+    "value": 0.185,
+    "value_": 18.5
+  },
+  {
+    "geoid": "12060",
+    "key": "credit-constrained-subprime",
+    "date": "2021-09-15",
+    "value": 0.165,
+    "value_": 16.5
+  },
+  {
+    "geoid": "12060",
+    "key": "credit-constrained-subprime",
     "date": "2022-09-15",
     "value": 0.172,
     "value_": 17.2
@@ -3519,6 +6543,27 @@
     "date": "2024-09-15",
     "value": 0.184,
     "value_": 18.4
+  },
+  {
+    "geoid": "12420",
+    "key": "credit-constrained-subprime",
+    "date": "2019-09-15",
+    "value": 0.152,
+    "value_": 15.2
+  },
+  {
+    "geoid": "12420",
+    "key": "credit-constrained-subprime",
+    "date": "2020-09-15",
+    "value": 0.134,
+    "value_": 13.4
+  },
+  {
+    "geoid": "12420",
+    "key": "credit-constrained-subprime",
+    "date": "2021-09-15",
+    "value": 0.117,
+    "value_": 11.7
   },
   {
     "geoid": "12420",
@@ -3544,6 +6589,27 @@
   {
     "geoid": "12580",
     "key": "credit-constrained-subprime",
+    "date": "2019-09-15",
+    "value": 0.157,
+    "value_": 15.7
+  },
+  {
+    "geoid": "12580",
+    "key": "credit-constrained-subprime",
+    "date": "2020-09-15",
+    "value": 0.137,
+    "value_": 13.7
+  },
+  {
+    "geoid": "12580",
+    "key": "credit-constrained-subprime",
+    "date": "2021-09-15",
+    "value": 0.12,
+    "value_": 12
+  },
+  {
+    "geoid": "12580",
+    "key": "credit-constrained-subprime",
     "date": "2022-09-15",
     "value": 0.127,
     "value_": 12.7
@@ -3561,6 +6627,27 @@
     "date": "2024-09-15",
     "value": 0.139,
     "value_": 13.9
+  },
+  {
+    "geoid": "13820",
+    "key": "credit-constrained-subprime",
+    "date": "2019-09-15",
+    "value": 0.207,
+    "value_": 20.70001
+  },
+  {
+    "geoid": "13820",
+    "key": "credit-constrained-subprime",
+    "date": "2020-09-15",
+    "value": 0.187,
+    "value_": 18.7
+  },
+  {
+    "geoid": "13820",
+    "key": "credit-constrained-subprime",
+    "date": "2021-09-15",
+    "value": 0.166,
+    "value_": 16.6
   },
   {
     "geoid": "13820",
@@ -3586,6 +6673,27 @@
   {
     "geoid": "14460",
     "key": "credit-constrained-subprime",
+    "date": "2019-09-15",
+    "value": 0.099,
+    "value_": 9.9
+  },
+  {
+    "geoid": "14460",
+    "key": "credit-constrained-subprime",
+    "date": "2020-09-15",
+    "value": 0.083,
+    "value_": 8.3
+  },
+  {
+    "geoid": "14460",
+    "key": "credit-constrained-subprime",
+    "date": "2021-09-15",
+    "value": 0.07,
+    "value_": 7
+  },
+  {
+    "geoid": "14460",
+    "key": "credit-constrained-subprime",
     "date": "2022-09-15",
     "value": 0.072,
     "value_": 7.2
@@ -3603,6 +6711,27 @@
     "date": "2024-09-15",
     "value": 0.08,
     "value_": 8
+  },
+  {
+    "geoid": "15380",
+    "key": "credit-constrained-subprime",
+    "date": "2019-09-15",
+    "value": 0.128,
+    "value_": 12.8
+  },
+  {
+    "geoid": "15380",
+    "key": "credit-constrained-subprime",
+    "date": "2020-09-15",
+    "value": 0.11,
+    "value_": 11
+  },
+  {
+    "geoid": "15380",
+    "key": "credit-constrained-subprime",
+    "date": "2021-09-15",
+    "value": 0.096,
+    "value_": 9.6
   },
   {
     "geoid": "15380",
@@ -3628,6 +6757,27 @@
   {
     "geoid": "16740",
     "key": "credit-constrained-subprime",
+    "date": "2019-09-15",
+    "value": 0.192,
+    "value_": 19.2
+  },
+  {
+    "geoid": "16740",
+    "key": "credit-constrained-subprime",
+    "date": "2020-09-15",
+    "value": 0.169,
+    "value_": 16.9
+  },
+  {
+    "geoid": "16740",
+    "key": "credit-constrained-subprime",
+    "date": "2021-09-15",
+    "value": 0.153,
+    "value_": 15.3
+  },
+  {
+    "geoid": "16740",
+    "key": "credit-constrained-subprime",
     "date": "2022-09-15",
     "value": 0.154,
     "value_": 15.4
@@ -3645,6 +6795,27 @@
     "date": "2024-09-15",
     "value": 0.159,
     "value_": 15.9
+  },
+  {
+    "geoid": "16980",
+    "key": "credit-constrained-subprime",
+    "date": "2019-09-15",
+    "value": 0.136,
+    "value_": 13.6
+  },
+  {
+    "geoid": "16980",
+    "key": "credit-constrained-subprime",
+    "date": "2020-09-15",
+    "value": 0.12,
+    "value_": 12
+  },
+  {
+    "geoid": "16980",
+    "key": "credit-constrained-subprime",
+    "date": "2021-09-15",
+    "value": 0.104,
+    "value_": 10.4
   },
   {
     "geoid": "16980",
@@ -3670,6 +6841,27 @@
   {
     "geoid": "17140",
     "key": "credit-constrained-subprime",
+    "date": "2019-09-15",
+    "value": 0.155,
+    "value_": 15.49999
+  },
+  {
+    "geoid": "17140",
+    "key": "credit-constrained-subprime",
+    "date": "2020-09-15",
+    "value": 0.135,
+    "value_": 13.5
+  },
+  {
+    "geoid": "17140",
+    "key": "credit-constrained-subprime",
+    "date": "2021-09-15",
+    "value": 0.117,
+    "value_": 11.7
+  },
+  {
+    "geoid": "17140",
+    "key": "credit-constrained-subprime",
     "date": "2022-09-15",
     "value": 0.121,
     "value_": 12.1
@@ -3687,6 +6879,27 @@
     "date": "2024-09-15",
     "value": 0.127,
     "value_": 12.7
+  },
+  {
+    "geoid": "17410",
+    "key": "credit-constrained-subprime",
+    "date": "2019-09-15",
+    "value": 0.155,
+    "value_": 15.5
+  },
+  {
+    "geoid": "17410",
+    "key": "credit-constrained-subprime",
+    "date": "2020-09-15",
+    "value": 0.137,
+    "value_": 13.7
+  },
+  {
+    "geoid": "17410",
+    "key": "credit-constrained-subprime",
+    "date": "2021-09-15",
+    "value": 0.12,
+    "value_": 12
   },
   {
     "geoid": "17410",
@@ -3712,6 +6925,27 @@
   {
     "geoid": "18140",
     "key": "credit-constrained-subprime",
+    "date": "2019-09-15",
+    "value": 0.157,
+    "value_": 15.7
+  },
+  {
+    "geoid": "18140",
+    "key": "credit-constrained-subprime",
+    "date": "2020-09-15",
+    "value": 0.137,
+    "value_": 13.7
+  },
+  {
+    "geoid": "18140",
+    "key": "credit-constrained-subprime",
+    "date": "2021-09-15",
+    "value": 0.12,
+    "value_": 12
+  },
+  {
+    "geoid": "18140",
+    "key": "credit-constrained-subprime",
     "date": "2022-09-15",
     "value": 0.124,
     "value_": 12.4
@@ -3729,6 +6963,27 @@
     "date": "2024-09-15",
     "value": 0.132,
     "value_": 13.2
+  },
+  {
+    "geoid": "19100",
+    "key": "credit-constrained-subprime",
+    "date": "2019-09-15",
+    "value": 0.189,
+    "value_": 18.9
+  },
+  {
+    "geoid": "19100",
+    "key": "credit-constrained-subprime",
+    "date": "2020-09-15",
+    "value": 0.168,
+    "value_": 16.8
+  },
+  {
+    "geoid": "19100",
+    "key": "credit-constrained-subprime",
+    "date": "2021-09-15",
+    "value": 0.15,
+    "value_": 15
   },
   {
     "geoid": "19100",
@@ -3754,6 +7009,27 @@
   {
     "geoid": "19740",
     "key": "credit-constrained-subprime",
+    "date": "2019-09-15",
+    "value": 0.112,
+    "value_": 11.2
+  },
+  {
+    "geoid": "19740",
+    "key": "credit-constrained-subprime",
+    "date": "2020-09-15",
+    "value": 0.097,
+    "value_": 9.7
+  },
+  {
+    "geoid": "19740",
+    "key": "credit-constrained-subprime",
+    "date": "2021-09-15",
+    "value": 0.085,
+    "value_": 8.5
+  },
+  {
+    "geoid": "19740",
+    "key": "credit-constrained-subprime",
     "date": "2022-09-15",
     "value": 0.087,
     "value_": 8.7
@@ -3775,6 +7051,27 @@
   {
     "geoid": "19820",
     "key": "credit-constrained-subprime",
+    "date": "2019-09-15",
+    "value": 0.154,
+    "value_": 15.4
+  },
+  {
+    "geoid": "19820",
+    "key": "credit-constrained-subprime",
+    "date": "2020-09-15",
+    "value": 0.131,
+    "value_": 13.1
+  },
+  {
+    "geoid": "19820",
+    "key": "credit-constrained-subprime",
+    "date": "2021-09-15",
+    "value": 0.115,
+    "value_": 11.5
+  },
+  {
+    "geoid": "19820",
+    "key": "credit-constrained-subprime",
     "date": "2022-09-15",
     "value": 0.125,
     "value_": 12.5
@@ -3792,6 +7089,27 @@
     "date": "2024-09-15",
     "value": 0.135,
     "value_": 13.5
+  },
+  {
+    "geoid": "23420",
+    "key": "credit-constrained-subprime",
+    "date": "2019-09-15",
+    "value": 0.161,
+    "value_": 16.10001
+  },
+  {
+    "geoid": "23420",
+    "key": "credit-constrained-subprime",
+    "date": "2020-09-15",
+    "value": 0.138,
+    "value_": 13.8
+  },
+  {
+    "geoid": "23420",
+    "key": "credit-constrained-subprime",
+    "date": "2021-09-15",
+    "value": 0.119,
+    "value_": 11.9
   },
   {
     "geoid": "23420",
@@ -3817,6 +7135,27 @@
   {
     "geoid": "24017",
     "key": "credit-constrained-subprime",
+    "date": "2019-09-15",
+    "value": 0.19232,
+    "value_": 19.23218
+  },
+  {
+    "geoid": "24017",
+    "key": "credit-constrained-subprime",
+    "date": "2020-09-15",
+    "value": 0.1688,
+    "value_": 16.88026
+  },
+  {
+    "geoid": "24017",
+    "key": "credit-constrained-subprime",
+    "date": "2021-09-15",
+    "value": 0.14376,
+    "value_": 14.37606
+  },
+  {
+    "geoid": "24017",
+    "key": "credit-constrained-subprime",
     "date": "2022-09-15",
     "value": 0.14491,
     "value_": 14.49069
@@ -3834,6 +7173,27 @@
     "date": "2024-09-15",
     "value": 0.1656,
     "value_": 16.55974
+  },
+  {
+    "geoid": "24021",
+    "key": "credit-constrained-subprime",
+    "date": "2019-09-15",
+    "value": 0.11896,
+    "value_": 11.89632
+  },
+  {
+    "geoid": "24021",
+    "key": "credit-constrained-subprime",
+    "date": "2020-09-15",
+    "value": 0.1006,
+    "value_": 10.05974
+  },
+  {
+    "geoid": "24021",
+    "key": "credit-constrained-subprime",
+    "date": "2021-09-15",
+    "value": 0.08426,
+    "value_": 8.42612
   },
   {
     "geoid": "24021",
@@ -3859,6 +7219,27 @@
   {
     "geoid": "24031",
     "key": "credit-constrained-subprime",
+    "date": "2019-09-15",
+    "value": 0.10653,
+    "value_": 10.65334
+  },
+  {
+    "geoid": "24031",
+    "key": "credit-constrained-subprime",
+    "date": "2020-09-15",
+    "value": 0.09088,
+    "value_": 9.08772
+  },
+  {
+    "geoid": "24031",
+    "key": "credit-constrained-subprime",
+    "date": "2021-09-15",
+    "value": 0.07757,
+    "value_": 7.75712
+  },
+  {
+    "geoid": "24031",
+    "key": "credit-constrained-subprime",
     "date": "2022-09-15",
     "value": 0.07962,
     "value_": 7.96168
@@ -3876,6 +7257,27 @@
     "date": "2024-09-15",
     "value": 0.08898,
     "value_": 8.89767
+  },
+  {
+    "geoid": "24033",
+    "key": "credit-constrained-subprime",
+    "date": "2019-09-15",
+    "value": 0.22222,
+    "value_": 22.22212
+  },
+  {
+    "geoid": "24033",
+    "key": "credit-constrained-subprime",
+    "date": "2020-09-15",
+    "value": 0.19335,
+    "value_": 19.33547
+  },
+  {
+    "geoid": "24033",
+    "key": "credit-constrained-subprime",
+    "date": "2021-09-15",
+    "value": 0.16585,
+    "value_": 16.58458
   },
   {
     "geoid": "24033",
@@ -3901,6 +7303,27 @@
   {
     "geoid": "24340",
     "key": "credit-constrained-subprime",
+    "date": "2019-09-15",
+    "value": 0.117,
+    "value_": 11.69999
+  },
+  {
+    "geoid": "24340",
+    "key": "credit-constrained-subprime",
+    "date": "2020-09-15",
+    "value": 0.095,
+    "value_": 9.5
+  },
+  {
+    "geoid": "24340",
+    "key": "credit-constrained-subprime",
+    "date": "2021-09-15",
+    "value": 0.083,
+    "value_": 8.30001
+  },
+  {
+    "geoid": "24340",
+    "key": "credit-constrained-subprime",
     "date": "2022-09-15",
     "value": 0.088,
     "value_": 8.8
@@ -3918,6 +7341,27 @@
     "date": "2024-09-15",
     "value": 0.094,
     "value_": 9.4
+  },
+  {
+    "geoid": "26420",
+    "key": "credit-constrained-subprime",
+    "date": "2019-09-15",
+    "value": 0.204,
+    "value_": 20.4
+  },
+  {
+    "geoid": "26420",
+    "key": "credit-constrained-subprime",
+    "date": "2020-09-15",
+    "value": 0.184,
+    "value_": 18.4
+  },
+  {
+    "geoid": "26420",
+    "key": "credit-constrained-subprime",
+    "date": "2021-09-15",
+    "value": 0.166,
+    "value_": 16.6
   },
   {
     "geoid": "26420",
@@ -3943,6 +7387,27 @@
   {
     "geoid": "26900",
     "key": "credit-constrained-subprime",
+    "date": "2019-09-15",
+    "value": 0.165,
+    "value_": 16.5
+  },
+  {
+    "geoid": "26900",
+    "key": "credit-constrained-subprime",
+    "date": "2020-09-15",
+    "value": 0.144,
+    "value_": 14.4
+  },
+  {
+    "geoid": "26900",
+    "key": "credit-constrained-subprime",
+    "date": "2021-09-15",
+    "value": 0.127,
+    "value_": 12.7
+  },
+  {
+    "geoid": "26900",
+    "key": "credit-constrained-subprime",
     "date": "2022-09-15",
     "value": 0.132,
     "value_": 13.2
@@ -3960,6 +7425,27 @@
     "date": "2024-09-15",
     "value": 0.142,
     "value_": 14.2
+  },
+  {
+    "geoid": "27260",
+    "key": "credit-constrained-subprime",
+    "date": "2019-09-15",
+    "value": 0.198,
+    "value_": 19.8
+  },
+  {
+    "geoid": "27260",
+    "key": "credit-constrained-subprime",
+    "date": "2020-09-15",
+    "value": 0.176,
+    "value_": 17.60001
+  },
+  {
+    "geoid": "27260",
+    "key": "credit-constrained-subprime",
+    "date": "2021-09-15",
+    "value": 0.158,
+    "value_": 15.8
   },
   {
     "geoid": "27260",
@@ -3985,6 +7471,27 @@
   {
     "geoid": "28140",
     "key": "credit-constrained-subprime",
+    "date": "2019-09-15",
+    "value": 0.146,
+    "value_": 14.6
+  },
+  {
+    "geoid": "28140",
+    "key": "credit-constrained-subprime",
+    "date": "2020-09-15",
+    "value": 0.13,
+    "value_": 13
+  },
+  {
+    "geoid": "28140",
+    "key": "credit-constrained-subprime",
+    "date": "2021-09-15",
+    "value": 0.116,
+    "value_": 11.6
+  },
+  {
+    "geoid": "28140",
+    "key": "credit-constrained-subprime",
     "date": "2022-09-15",
     "value": 0.12,
     "value_": 12
@@ -4002,6 +7509,27 @@
     "date": "2024-09-15",
     "value": 0.124,
     "value_": 12.4
+  },
+  {
+    "geoid": "29820",
+    "key": "credit-constrained-subprime",
+    "date": "2019-09-15",
+    "value": 0.188,
+    "value_": 18.8
+  },
+  {
+    "geoid": "29820",
+    "key": "credit-constrained-subprime",
+    "date": "2020-09-15",
+    "value": 0.166,
+    "value_": 16.6
+  },
+  {
+    "geoid": "29820",
+    "key": "credit-constrained-subprime",
+    "date": "2021-09-15",
+    "value": 0.146,
+    "value_": 14.6
   },
   {
     "geoid": "29820",
@@ -4027,6 +7555,27 @@
   {
     "geoid": "31080",
     "key": "credit-constrained-subprime",
+    "date": "2019-09-15",
+    "value": 0.126,
+    "value_": 12.6
+  },
+  {
+    "geoid": "31080",
+    "key": "credit-constrained-subprime",
+    "date": "2020-09-15",
+    "value": 0.11,
+    "value_": 11
+  },
+  {
+    "geoid": "31080",
+    "key": "credit-constrained-subprime",
+    "date": "2021-09-15",
+    "value": 0.089,
+    "value_": 8.9
+  },
+  {
+    "geoid": "31080",
+    "key": "credit-constrained-subprime",
     "date": "2022-09-15",
     "value": 0.095,
     "value_": 9.5
@@ -4044,6 +7593,27 @@
     "date": "2024-09-15",
     "value": 0.107,
     "value_": 10.7
+  },
+  {
+    "geoid": "32820",
+    "key": "credit-constrained-subprime",
+    "date": "2019-09-15",
+    "value": 0.266,
+    "value_": 26.6
+  },
+  {
+    "geoid": "32820",
+    "key": "credit-constrained-subprime",
+    "date": "2020-09-15",
+    "value": 0.241,
+    "value_": 24.1
+  },
+  {
+    "geoid": "32820",
+    "key": "credit-constrained-subprime",
+    "date": "2021-09-15",
+    "value": 0.209,
+    "value_": 20.90001
   },
   {
     "geoid": "32820",
@@ -4069,6 +7639,27 @@
   {
     "geoid": "33100",
     "key": "credit-constrained-subprime",
+    "date": "2019-09-15",
+    "value": 0.178,
+    "value_": 17.8
+  },
+  {
+    "geoid": "33100",
+    "key": "credit-constrained-subprime",
+    "date": "2020-09-15",
+    "value": 0.158,
+    "value_": 15.8
+  },
+  {
+    "geoid": "33100",
+    "key": "credit-constrained-subprime",
+    "date": "2021-09-15",
+    "value": 0.132,
+    "value_": 13.2
+  },
+  {
+    "geoid": "33100",
+    "key": "credit-constrained-subprime",
     "date": "2022-09-15",
     "value": 0.136,
     "value_": 13.6
@@ -4086,6 +7677,27 @@
     "date": "2024-09-15",
     "value": 0.15,
     "value_": 15
+  },
+  {
+    "geoid": "33340",
+    "key": "credit-constrained-subprime",
+    "date": "2019-09-15",
+    "value": 0.128,
+    "value_": 12.8
+  },
+  {
+    "geoid": "33340",
+    "key": "credit-constrained-subprime",
+    "date": "2020-09-15",
+    "value": 0.107,
+    "value_": 10.7
+  },
+  {
+    "geoid": "33340",
+    "key": "credit-constrained-subprime",
+    "date": "2021-09-15",
+    "value": 0.097,
+    "value_": 9.7
   },
   {
     "geoid": "33340",
@@ -4111,6 +7723,27 @@
   {
     "geoid": "34980",
     "key": "credit-constrained-subprime",
+    "date": "2019-09-15",
+    "value": 0.161,
+    "value_": 16.1
+  },
+  {
+    "geoid": "34980",
+    "key": "credit-constrained-subprime",
+    "date": "2020-09-15",
+    "value": 0.144,
+    "value_": 14.4
+  },
+  {
+    "geoid": "34980",
+    "key": "credit-constrained-subprime",
+    "date": "2021-09-15",
+    "value": 0.127,
+    "value_": 12.7
+  },
+  {
+    "geoid": "34980",
+    "key": "credit-constrained-subprime",
     "date": "2022-09-15",
     "value": 0.126,
     "value_": 12.6
@@ -4132,6 +7765,27 @@
   {
     "geoid": "35620",
     "key": "credit-constrained-subprime",
+    "date": "2019-09-15",
+    "value": 0.124,
+    "value_": 12.4
+  },
+  {
+    "geoid": "35620",
+    "key": "credit-constrained-subprime",
+    "date": "2020-09-15",
+    "value": 0.105,
+    "value_": 10.5
+  },
+  {
+    "geoid": "35620",
+    "key": "credit-constrained-subprime",
+    "date": "2021-09-15",
+    "value": 0.088,
+    "value_": 8.8
+  },
+  {
+    "geoid": "35620",
+    "key": "credit-constrained-subprime",
     "date": "2022-09-15",
     "value": 0.095,
     "value_": 9.5
@@ -4149,6 +7803,27 @@
     "date": "2024-09-15",
     "value": 0.108,
     "value_": 10.8
+  },
+  {
+    "geoid": "36420",
+    "key": "credit-constrained-subprime",
+    "date": "2019-09-15",
+    "value": 0.184,
+    "value_": 18.40001
+  },
+  {
+    "geoid": "36420",
+    "key": "credit-constrained-subprime",
+    "date": "2020-09-15",
+    "value": 0.168,
+    "value_": 16.8
+  },
+  {
+    "geoid": "36420",
+    "key": "credit-constrained-subprime",
+    "date": "2021-09-15",
+    "value": 0.154,
+    "value_": 15.4
   },
   {
     "geoid": "36420",
@@ -4174,6 +7849,27 @@
   {
     "geoid": "36540",
     "key": "credit-constrained-subprime",
+    "date": "2019-09-15",
+    "value": 0.122,
+    "value_": 12.20001
+  },
+  {
+    "geoid": "36540",
+    "key": "credit-constrained-subprime",
+    "date": "2020-09-15",
+    "value": 0.106,
+    "value_": 10.6
+  },
+  {
+    "geoid": "36540",
+    "key": "credit-constrained-subprime",
+    "date": "2021-09-15",
+    "value": 0.093,
+    "value_": 9.3
+  },
+  {
+    "geoid": "36540",
+    "key": "credit-constrained-subprime",
     "date": "2022-09-15",
     "value": 0.093,
     "value_": 9.29999
@@ -4195,6 +7891,27 @@
   {
     "geoid": "36740",
     "key": "credit-constrained-subprime",
+    "date": "2019-09-15",
+    "value": 0.191,
+    "value_": 19.1
+  },
+  {
+    "geoid": "36740",
+    "key": "credit-constrained-subprime",
+    "date": "2020-09-15",
+    "value": 0.168,
+    "value_": 16.8
+  },
+  {
+    "geoid": "36740",
+    "key": "credit-constrained-subprime",
+    "date": "2021-09-15",
+    "value": 0.146,
+    "value_": 14.6
+  },
+  {
+    "geoid": "36740",
+    "key": "credit-constrained-subprime",
     "date": "2022-09-15",
     "value": 0.153,
     "value_": 15.3
@@ -4212,6 +7929,27 @@
     "date": "2024-09-15",
     "value": 0.169,
     "value_": 16.9
+  },
+  {
+    "geoid": "37980",
+    "key": "credit-constrained-subprime",
+    "date": "2019-09-15",
+    "value": 0.152,
+    "value_": 15.2
+  },
+  {
+    "geoid": "37980",
+    "key": "credit-constrained-subprime",
+    "date": "2020-09-15",
+    "value": 0.128,
+    "value_": 12.8
+  },
+  {
+    "geoid": "37980",
+    "key": "credit-constrained-subprime",
+    "date": "2021-09-15",
+    "value": 0.11,
+    "value_": 11
   },
   {
     "geoid": "37980",
@@ -4237,6 +7975,27 @@
   {
     "geoid": "38060",
     "key": "credit-constrained-subprime",
+    "date": "2019-09-15",
+    "value": 0.155,
+    "value_": 15.5
+  },
+  {
+    "geoid": "38060",
+    "key": "credit-constrained-subprime",
+    "date": "2020-09-15",
+    "value": 0.132,
+    "value_": 13.2
+  },
+  {
+    "geoid": "38060",
+    "key": "credit-constrained-subprime",
+    "date": "2021-09-15",
+    "value": 0.113,
+    "value_": 11.3
+  },
+  {
+    "geoid": "38060",
+    "key": "credit-constrained-subprime",
     "date": "2022-09-15",
     "value": 0.118,
     "value_": 11.8
@@ -4258,6 +8017,27 @@
   {
     "geoid": "38300",
     "key": "credit-constrained-subprime",
+    "date": "2019-09-15",
+    "value": 0.126,
+    "value_": 12.6
+  },
+  {
+    "geoid": "38300",
+    "key": "credit-constrained-subprime",
+    "date": "2020-09-15",
+    "value": 0.11,
+    "value_": 11
+  },
+  {
+    "geoid": "38300",
+    "key": "credit-constrained-subprime",
+    "date": "2021-09-15",
+    "value": 0.094,
+    "value_": 9.4
+  },
+  {
+    "geoid": "38300",
+    "key": "credit-constrained-subprime",
     "date": "2022-09-15",
     "value": 0.101,
     "value_": 10.1
@@ -4275,6 +8055,27 @@
     "date": "2024-09-15",
     "value": 0.109,
     "value_": 10.9
+  },
+  {
+    "geoid": "38900",
+    "key": "credit-constrained-subprime",
+    "date": "2019-09-15",
+    "value": 0.106,
+    "value_": 10.6
+  },
+  {
+    "geoid": "38900",
+    "key": "credit-constrained-subprime",
+    "date": "2020-09-15",
+    "value": 0.089,
+    "value_": 8.9
+  },
+  {
+    "geoid": "38900",
+    "key": "credit-constrained-subprime",
+    "date": "2021-09-15",
+    "value": 0.073,
+    "value_": 7.3
   },
   {
     "geoid": "38900",
@@ -4300,6 +8101,27 @@
   {
     "geoid": "39300",
     "key": "credit-constrained-subprime",
+    "date": "2019-09-15",
+    "value": 0.136,
+    "value_": 13.60001
+  },
+  {
+    "geoid": "39300",
+    "key": "credit-constrained-subprime",
+    "date": "2020-09-15",
+    "value": 0.115,
+    "value_": 11.5
+  },
+  {
+    "geoid": "39300",
+    "key": "credit-constrained-subprime",
+    "date": "2021-09-15",
+    "value": 0.097,
+    "value_": 9.7
+  },
+  {
+    "geoid": "39300",
+    "key": "credit-constrained-subprime",
     "date": "2022-09-15",
     "value": 0.103,
     "value_": 10.3
@@ -4317,6 +8139,27 @@
     "date": "2024-09-15",
     "value": 0.117,
     "value_": 11.7
+  },
+  {
+    "geoid": "39580",
+    "key": "credit-constrained-subprime",
+    "date": "2019-09-15",
+    "value": 0.156,
+    "value_": 15.6
+  },
+  {
+    "geoid": "39580",
+    "key": "credit-constrained-subprime",
+    "date": "2020-09-15",
+    "value": 0.135,
+    "value_": 13.5
+  },
+  {
+    "geoid": "39580",
+    "key": "credit-constrained-subprime",
+    "date": "2021-09-15",
+    "value": 0.121,
+    "value_": 12.10001
   },
   {
     "geoid": "39580",
@@ -4342,6 +8185,27 @@
   {
     "geoid": "40060",
     "key": "credit-constrained-subprime",
+    "date": "2019-09-15",
+    "value": 0.167,
+    "value_": 16.69999
+  },
+  {
+    "geoid": "40060",
+    "key": "credit-constrained-subprime",
+    "date": "2020-09-15",
+    "value": 0.145,
+    "value_": 14.5
+  },
+  {
+    "geoid": "40060",
+    "key": "credit-constrained-subprime",
+    "date": "2021-09-15",
+    "value": 0.129,
+    "value_": 12.90001
+  },
+  {
+    "geoid": "40060",
+    "key": "credit-constrained-subprime",
     "date": "2022-09-15",
     "value": 0.135,
     "value_": 13.5
@@ -4363,6 +8227,27 @@
   {
     "geoid": "40140",
     "key": "credit-constrained-subprime",
+    "date": "2019-09-15",
+    "value": 0.18,
+    "value_": 18
+  },
+  {
+    "geoid": "40140",
+    "key": "credit-constrained-subprime",
+    "date": "2020-09-15",
+    "value": 0.16,
+    "value_": 16
+  },
+  {
+    "geoid": "40140",
+    "key": "credit-constrained-subprime",
+    "date": "2021-09-15",
+    "value": 0.126,
+    "value_": 12.6
+  },
+  {
+    "geoid": "40140",
+    "key": "credit-constrained-subprime",
     "date": "2022-09-15",
     "value": 0.135,
     "value_": 13.5
@@ -4380,6 +8265,27 @@
     "date": "2024-09-15",
     "value": 0.154,
     "value_": 15.4
+  },
+  {
+    "geoid": "40380",
+    "key": "credit-constrained-subprime",
+    "date": "2019-09-15",
+    "value": 0.14,
+    "value_": 14
+  },
+  {
+    "geoid": "40380",
+    "key": "credit-constrained-subprime",
+    "date": "2020-09-15",
+    "value": 0.118,
+    "value_": 11.8
+  },
+  {
+    "geoid": "40380",
+    "key": "credit-constrained-subprime",
+    "date": "2021-09-15",
+    "value": 0.104,
+    "value_": 10.40001
   },
   {
     "geoid": "40380",
@@ -4405,6 +8311,27 @@
   {
     "geoid": "40900",
     "key": "credit-constrained-subprime",
+    "date": "2019-09-15",
+    "value": 0.12,
+    "value_": 12
+  },
+  {
+    "geoid": "40900",
+    "key": "credit-constrained-subprime",
+    "date": "2020-09-15",
+    "value": 0.103,
+    "value_": 10.3
+  },
+  {
+    "geoid": "40900",
+    "key": "credit-constrained-subprime",
+    "date": "2021-09-15",
+    "value": 0.087,
+    "value_": 8.69999
+  },
+  {
+    "geoid": "40900",
+    "key": "credit-constrained-subprime",
     "date": "2022-09-15",
     "value": 0.095,
     "value_": 9.50001
@@ -4422,6 +8349,27 @@
     "date": "2024-09-15",
     "value": 0.106,
     "value_": 10.6
+  },
+  {
+    "geoid": "41620",
+    "key": "credit-constrained-subprime",
+    "date": "2019-09-15",
+    "value": 0.115,
+    "value_": 11.50001
+  },
+  {
+    "geoid": "41620",
+    "key": "credit-constrained-subprime",
+    "date": "2020-09-15",
+    "value": 0.102,
+    "value_": 10.2
+  },
+  {
+    "geoid": "41620",
+    "key": "credit-constrained-subprime",
+    "date": "2021-09-15",
+    "value": 0.089,
+    "value_": 8.9
   },
   {
     "geoid": "41620",
@@ -4447,6 +8395,27 @@
   {
     "geoid": "41700",
     "key": "credit-constrained-subprime",
+    "date": "2019-09-15",
+    "value": 0.217,
+    "value_": 21.7
+  },
+  {
+    "geoid": "41700",
+    "key": "credit-constrained-subprime",
+    "date": "2020-09-15",
+    "value": 0.193,
+    "value_": 19.3
+  },
+  {
+    "geoid": "41700",
+    "key": "credit-constrained-subprime",
+    "date": "2021-09-15",
+    "value": 0.17,
+    "value_": 17
+  },
+  {
+    "geoid": "41700",
+    "key": "credit-constrained-subprime",
     "date": "2022-09-15",
     "value": 0.175,
     "value_": 17.5
@@ -4464,6 +8433,27 @@
     "date": "2024-09-15",
     "value": 0.182,
     "value_": 18.2
+  },
+  {
+    "geoid": "41740",
+    "key": "credit-constrained-subprime",
+    "date": "2019-09-15",
+    "value": 0.113,
+    "value_": 11.3
+  },
+  {
+    "geoid": "41740",
+    "key": "credit-constrained-subprime",
+    "date": "2020-09-15",
+    "value": 0.095,
+    "value_": 9.5
+  },
+  {
+    "geoid": "41740",
+    "key": "credit-constrained-subprime",
+    "date": "2021-09-15",
+    "value": 0.08,
+    "value_": 8
   },
   {
     "geoid": "41740",
@@ -4489,6 +8479,27 @@
   {
     "geoid": "41860",
     "key": "credit-constrained-subprime",
+    "date": "2019-09-15",
+    "value": 0.078,
+    "value_": 7.8
+  },
+  {
+    "geoid": "41860",
+    "key": "credit-constrained-subprime",
+    "date": "2020-09-15",
+    "value": 0.068,
+    "value_": 6.8
+  },
+  {
+    "geoid": "41860",
+    "key": "credit-constrained-subprime",
+    "date": "2021-09-15",
+    "value": 0.058,
+    "value_": 5.8
+  },
+  {
+    "geoid": "41860",
+    "key": "credit-constrained-subprime",
     "date": "2022-09-15",
     "value": 0.062,
     "value_": 6.2
@@ -4506,6 +8517,27 @@
     "date": "2024-09-15",
     "value": 0.071,
     "value_": 7.1
+  },
+  {
+    "geoid": "41940",
+    "key": "credit-constrained-subprime",
+    "date": "2019-09-15",
+    "value": 0.069,
+    "value_": 6.9
+  },
+  {
+    "geoid": "41940",
+    "key": "credit-constrained-subprime",
+    "date": "2020-09-15",
+    "value": 0.06,
+    "value_": 6
+  },
+  {
+    "geoid": "41940",
+    "key": "credit-constrained-subprime",
+    "date": "2021-09-15",
+    "value": 0.05,
+    "value_": 5
   },
   {
     "geoid": "41940",
@@ -4531,6 +8563,27 @@
   {
     "geoid": "42660",
     "key": "credit-constrained-subprime",
+    "date": "2019-09-15",
+    "value": 0.096,
+    "value_": 9.6
+  },
+  {
+    "geoid": "42660",
+    "key": "credit-constrained-subprime",
+    "date": "2020-09-15",
+    "value": 0.083,
+    "value_": 8.3
+  },
+  {
+    "geoid": "42660",
+    "key": "credit-constrained-subprime",
+    "date": "2021-09-15",
+    "value": 0.07,
+    "value_": 7
+  },
+  {
+    "geoid": "42660",
+    "key": "credit-constrained-subprime",
     "date": "2022-09-15",
     "value": 0.073,
     "value_": 7.3
@@ -4548,6 +8601,27 @@
     "date": "2024-09-15",
     "value": 0.08,
     "value_": 8
+  },
+  {
+    "geoid": "46060",
+    "key": "credit-constrained-subprime",
+    "date": "2019-09-15",
+    "value": 0.148,
+    "value_": 14.80001
+  },
+  {
+    "geoid": "46060",
+    "key": "credit-constrained-subprime",
+    "date": "2020-09-15",
+    "value": 0.127,
+    "value_": 12.69999
+  },
+  {
+    "geoid": "46060",
+    "key": "credit-constrained-subprime",
+    "date": "2021-09-15",
+    "value": 0.111,
+    "value_": 11.1
   },
   {
     "geoid": "46060",
@@ -4573,6 +8647,27 @@
   {
     "geoid": "46140",
     "key": "credit-constrained-subprime",
+    "date": "2019-09-15",
+    "value": 0.188,
+    "value_": 18.79999
+  },
+  {
+    "geoid": "46140",
+    "key": "credit-constrained-subprime",
+    "date": "2020-09-15",
+    "value": 0.17,
+    "value_": 17
+  },
+  {
+    "geoid": "46140",
+    "key": "credit-constrained-subprime",
+    "date": "2021-09-15",
+    "value": 0.151,
+    "value_": 15.1
+  },
+  {
+    "geoid": "46140",
+    "key": "credit-constrained-subprime",
     "date": "2022-09-15",
     "value": 0.154,
     "value_": 15.4
@@ -4590,6 +8685,27 @@
     "date": "2024-09-15",
     "value": 0.158,
     "value_": 15.8
+  },
+  {
+    "geoid": "47260",
+    "key": "credit-constrained-subprime",
+    "date": "2019-09-15",
+    "value": 0.202,
+    "value_": 20.2
+  },
+  {
+    "geoid": "47260",
+    "key": "credit-constrained-subprime",
+    "date": "2020-09-15",
+    "value": 0.175,
+    "value_": 17.5
+  },
+  {
+    "geoid": "47260",
+    "key": "credit-constrained-subprime",
+    "date": "2021-09-15",
+    "value": 0.153,
+    "value_": 15.30001
   },
   {
     "geoid": "47260",
@@ -4615,6 +8731,27 @@
   {
     "geoid": "47900",
     "key": "credit-constrained-subprime",
+    "date": "2019-09-15",
+    "value": 0.13,
+    "value_": 13
+  },
+  {
+    "geoid": "47900",
+    "key": "credit-constrained-subprime",
+    "date": "2020-09-15",
+    "value": 0.111,
+    "value_": 11.1
+  },
+  {
+    "geoid": "47900",
+    "key": "credit-constrained-subprime",
+    "date": "2021-09-15",
+    "value": 0.095,
+    "value_": 9.5
+  },
+  {
+    "geoid": "47900",
+    "key": "credit-constrained-subprime",
     "date": "2022-09-15",
     "value": 0.098,
     "value_": 9.8
@@ -4632,6 +8769,27 @@
     "date": "2024-09-15",
     "value": 0.108,
     "value_": 10.8
+  },
+  {
+    "geoid": "51013",
+    "key": "credit-constrained-subprime",
+    "date": "2019-09-15",
+    "value": 0.07125,
+    "value_": 7.12539
+  },
+  {
+    "geoid": "51013",
+    "key": "credit-constrained-subprime",
+    "date": "2020-09-15",
+    "value": 0.06103,
+    "value_": 6.10306
+  },
+  {
+    "geoid": "51013",
+    "key": "credit-constrained-subprime",
+    "date": "2021-09-15",
+    "value": 0.05359,
+    "value_": 5.35876
   },
   {
     "geoid": "51013",
@@ -4657,6 +8815,27 @@
   {
     "geoid": "51043",
     "key": "credit-constrained-subprime",
+    "date": "2019-09-15",
+    "value": 0.09644,
+    "value_": 9.64352
+  },
+  {
+    "geoid": "51043",
+    "key": "credit-constrained-subprime",
+    "date": "2020-09-15",
+    "value": 0.07452,
+    "value_": 7.45162
+  },
+  {
+    "geoid": "51043",
+    "key": "credit-constrained-subprime",
+    "date": "2021-09-15",
+    "value": 0.06803,
+    "value_": 6.80256
+  },
+  {
+    "geoid": "51043",
+    "key": "credit-constrained-subprime",
     "date": "2022-09-15",
     "value": 0.07936,
     "value_": 7.93579
@@ -4674,6 +8853,27 @@
     "date": "2024-09-15",
     "value": 0.08755,
     "value_": 8.75489
+  },
+  {
+    "geoid": "51047",
+    "key": "credit-constrained-subprime",
+    "date": "2019-09-15",
+    "value": 0.17173,
+    "value_": 17.1729
+  },
+  {
+    "geoid": "51047",
+    "key": "credit-constrained-subprime",
+    "date": "2020-09-15",
+    "value": 0.14648,
+    "value_": 14.64759
+  },
+  {
+    "geoid": "51047",
+    "key": "credit-constrained-subprime",
+    "date": "2021-09-15",
+    "value": 0.12271,
+    "value_": 12.27107
   },
   {
     "geoid": "51047",
@@ -4699,6 +8899,27 @@
   {
     "geoid": "51059",
     "key": "credit-constrained-subprime",
+    "date": "2019-09-15",
+    "value": 0.08408,
+    "value_": 8.40849
+  },
+  {
+    "geoid": "51059",
+    "key": "credit-constrained-subprime",
+    "date": "2020-09-15",
+    "value": 0.07031,
+    "value_": 7.03065
+  },
+  {
+    "geoid": "51059",
+    "key": "credit-constrained-subprime",
+    "date": "2021-09-15",
+    "value": 0.05916,
+    "value_": 5.91627
+  },
+  {
+    "geoid": "51059",
+    "key": "credit-constrained-subprime",
     "date": "2022-09-15",
     "value": 0.06161,
     "value_": 6.16059
@@ -4716,6 +8937,27 @@
     "date": "2024-09-15",
     "value": 0.06859,
     "value_": 6.85945
+  },
+  {
+    "geoid": "51061",
+    "key": "credit-constrained-subprime",
+    "date": "2019-09-15",
+    "value": 0.10959,
+    "value_": 10.9592
+  },
+  {
+    "geoid": "51061",
+    "key": "credit-constrained-subprime",
+    "date": "2020-09-15",
+    "value": 0.09737,
+    "value_": 9.73685
+  },
+  {
+    "geoid": "51061",
+    "key": "credit-constrained-subprime",
+    "date": "2021-09-15",
+    "value": 0.08229,
+    "value_": 8.22873
   },
   {
     "geoid": "51061",
@@ -4741,6 +8983,27 @@
   {
     "geoid": "51107",
     "key": "credit-constrained-subprime",
+    "date": "2019-09-15",
+    "value": 0.09031,
+    "value_": 9.03097
+  },
+  {
+    "geoid": "51107",
+    "key": "credit-constrained-subprime",
+    "date": "2020-09-15",
+    "value": 0.07369,
+    "value_": 7.36901
+  },
+  {
+    "geoid": "51107",
+    "key": "credit-constrained-subprime",
+    "date": "2021-09-15",
+    "value": 0.0621,
+    "value_": 6.21038
+  },
+  {
+    "geoid": "51107",
+    "key": "credit-constrained-subprime",
     "date": "2022-09-15",
     "value": 0.06249,
     "value_": 6.2492
@@ -4758,6 +9021,27 @@
     "date": "2024-09-15",
     "value": 0.06713,
     "value_": 6.71276
+  },
+  {
+    "geoid": "51153",
+    "key": "credit-constrained-subprime",
+    "date": "2019-09-15",
+    "value": 0.14975,
+    "value_": 14.97487
+  },
+  {
+    "geoid": "51153",
+    "key": "credit-constrained-subprime",
+    "date": "2020-09-15",
+    "value": 0.12728,
+    "value_": 12.72757
+  },
+  {
+    "geoid": "51153",
+    "key": "credit-constrained-subprime",
+    "date": "2021-09-15",
+    "value": 0.10951,
+    "value_": 10.95114
   },
   {
     "geoid": "51153",
@@ -4783,6 +9067,27 @@
   {
     "geoid": "51157",
     "key": "credit-constrained-subprime",
+    "date": "2019-09-15",
+    "value": 0.10808,
+    "value_": 10.8084
+  },
+  {
+    "geoid": "51157",
+    "key": "credit-constrained-subprime",
+    "date": "2020-09-15",
+    "value": 0.07648,
+    "value_": 7.64815
+  },
+  {
+    "geoid": "51157",
+    "key": "credit-constrained-subprime",
+    "date": "2021-09-15",
+    "value": 0.05512,
+    "value_": 5.51248
+  },
+  {
+    "geoid": "51157",
+    "key": "credit-constrained-subprime",
     "date": "2022-09-15",
     "value": 0.08182,
     "value_": 8.1817
@@ -4800,6 +9105,27 @@
     "date": "2024-09-15",
     "value": 0.09552,
     "value_": 9.55221
+  },
+  {
+    "geoid": "51177",
+    "key": "credit-constrained-subprime",
+    "date": "2019-09-15",
+    "value": 0.16271,
+    "value_": 16.27074
+  },
+  {
+    "geoid": "51177",
+    "key": "credit-constrained-subprime",
+    "date": "2020-09-15",
+    "value": 0.14053,
+    "value_": 14.0532
+  },
+  {
+    "geoid": "51177",
+    "key": "credit-constrained-subprime",
+    "date": "2021-09-15",
+    "value": 0.12051,
+    "value_": 12.05059
   },
   {
     "geoid": "51177",
@@ -4825,6 +9151,27 @@
   {
     "geoid": "51179",
     "key": "credit-constrained-subprime",
+    "date": "2019-09-15",
+    "value": 0.14762,
+    "value_": 14.76156
+  },
+  {
+    "geoid": "51179",
+    "key": "credit-constrained-subprime",
+    "date": "2020-09-15",
+    "value": 0.1258,
+    "value_": 12.57984
+  },
+  {
+    "geoid": "51179",
+    "key": "credit-constrained-subprime",
+    "date": "2021-09-15",
+    "value": 0.11086,
+    "value_": 11.08582
+  },
+  {
+    "geoid": "51179",
+    "key": "credit-constrained-subprime",
     "date": "2022-09-15",
     "value": 0.111,
     "value_": 11.09964
@@ -4842,6 +9189,27 @@
     "date": "2024-09-15",
     "value": 0.12005,
     "value_": 12.00516
+  },
+  {
+    "geoid": "51187",
+    "key": "credit-constrained-subprime",
+    "date": "2019-09-15",
+    "value": 0.1486,
+    "value_": 14.85965
+  },
+  {
+    "geoid": "51187",
+    "key": "credit-constrained-subprime",
+    "date": "2020-09-15",
+    "value": 0.13292,
+    "value_": 13.2916
+  },
+  {
+    "geoid": "51187",
+    "key": "credit-constrained-subprime",
+    "date": "2021-09-15",
+    "value": 0.11715,
+    "value_": 11.71498
   },
   {
     "geoid": "51187",
@@ -4867,6 +9235,27 @@
   {
     "geoid": "51510",
     "key": "credit-constrained-subprime",
+    "date": "2019-09-15",
+    "value": 0.10828,
+    "value_": 10.82771
+  },
+  {
+    "geoid": "51510",
+    "key": "credit-constrained-subprime",
+    "date": "2020-09-15",
+    "value": 0.09204,
+    "value_": 9.20442
+  },
+  {
+    "geoid": "51510",
+    "key": "credit-constrained-subprime",
+    "date": "2021-09-15",
+    "value": 0.0836,
+    "value_": 8.3596
+  },
+  {
+    "geoid": "51510",
+    "key": "credit-constrained-subprime",
     "date": "2022-09-15",
     "value": 0.0888,
     "value_": 8.88041
@@ -4884,6 +9273,27 @@
     "date": "2024-09-15",
     "value": 0.09427,
     "value_": 9.4266
+  },
+  {
+    "geoid": "51630",
+    "key": "credit-constrained-subprime",
+    "date": "2019-09-15",
+    "value": 0.17624,
+    "value_": 17.62403
+  },
+  {
+    "geoid": "51630",
+    "key": "credit-constrained-subprime",
+    "date": "2020-09-15",
+    "value": 0.16189,
+    "value_": 16.18886
+  },
+  {
+    "geoid": "51630",
+    "key": "credit-constrained-subprime",
+    "date": "2021-09-15",
+    "value": 0.14068,
+    "value_": 14.06825
   },
   {
     "geoid": "51630",
@@ -4909,6 +9319,27 @@
   {
     "geoid": "54037",
     "key": "credit-constrained-subprime",
+    "date": "2019-09-15",
+    "value": 0.16509,
+    "value_": 16.50866
+  },
+  {
+    "geoid": "54037",
+    "key": "credit-constrained-subprime",
+    "date": "2020-09-15",
+    "value": 0.13716,
+    "value_": 13.71553
+  },
+  {
+    "geoid": "54037",
+    "key": "credit-constrained-subprime",
+    "date": "2021-09-15",
+    "value": 0.12246,
+    "value_": 12.24559
+  },
+  {
+    "geoid": "54037",
+    "key": "credit-constrained-subprime",
     "date": "2022-09-15",
     "value": 0.12506,
     "value_": 12.50553
@@ -4926,6 +9357,27 @@
     "date": "2024-09-15",
     "value": 0.1194,
     "value_": 11.93982
+  },
+  {
+    "geoid": "99997",
+    "key": "credit-constrained-subprime",
+    "date": "2019-09-15",
+    "value": 0.1484,
+    "value_": 14.83966
+  },
+  {
+    "geoid": "99997",
+    "key": "credit-constrained-subprime",
+    "date": "2020-09-15",
+    "value": 0.12948,
+    "value_": 12.94754
+  },
+  {
+    "geoid": "99997",
+    "key": "credit-constrained-subprime",
+    "date": "2021-09-15",
+    "value": 0.11191,
+    "value_": 11.19088
   },
   {
     "geoid": "99997",
@@ -4951,6 +9403,27 @@
   {
     "geoid": "99999",
     "key": "credit-constrained-subprime",
+    "date": "2019-09-15",
+    "value": 0.154,
+    "value_": 15.4
+  },
+  {
+    "geoid": "99999",
+    "key": "credit-constrained-subprime",
+    "date": "2020-09-15",
+    "value": 0.136,
+    "value_": 13.6
+  },
+  {
+    "geoid": "99999",
+    "key": "credit-constrained-subprime",
+    "date": "2021-09-15",
+    "value": 0.119,
+    "value_": 11.9
+  },
+  {
+    "geoid": "99999",
+    "key": "credit-constrained-subprime",
     "date": "2022-09-15",
     "value": 0.123,
     "value_": 12.3
@@ -4968,6 +9441,27 @@
     "date": "2024-09-15",
     "value": 0.131,
     "value_": 13.1
+  },
+  {
+    "geoid": "11001",
+    "key": "credit-constrained-subprime",
+    "date": "2019-12-15",
+    "value": 0.15256,
+    "value_": 15.25629
+  },
+  {
+    "geoid": "11001",
+    "key": "credit-constrained-subprime",
+    "date": "2020-12-15",
+    "value": 0.1241,
+    "value_": 12.40986
+  },
+  {
+    "geoid": "11001",
+    "key": "credit-constrained-subprime",
+    "date": "2021-12-15",
+    "value": 0.11551,
+    "value_": 11.55137
   },
   {
     "geoid": "11001",
@@ -4993,6 +9487,27 @@
   {
     "geoid": "12060",
     "key": "credit-constrained-subprime",
+    "date": "2019-12-15",
+    "value": 0.212,
+    "value_": 21.2
+  },
+  {
+    "geoid": "12060",
+    "key": "credit-constrained-subprime",
+    "date": "2020-12-15",
+    "value": 0.18,
+    "value_": 18
+  },
+  {
+    "geoid": "12060",
+    "key": "credit-constrained-subprime",
+    "date": "2021-12-15",
+    "value": 0.168,
+    "value_": 16.8
+  },
+  {
+    "geoid": "12060",
+    "key": "credit-constrained-subprime",
     "date": "2022-12-15",
     "value": 0.174,
     "value_": 17.4
@@ -5014,6 +9529,27 @@
   {
     "geoid": "12420",
     "key": "credit-constrained-subprime",
+    "date": "2019-12-15",
+    "value": 0.155,
+    "value_": 15.49999
+  },
+  {
+    "geoid": "12420",
+    "key": "credit-constrained-subprime",
+    "date": "2020-12-15",
+    "value": 0.132,
+    "value_": 13.2
+  },
+  {
+    "geoid": "12420",
+    "key": "credit-constrained-subprime",
+    "date": "2021-12-15",
+    "value": 0.118,
+    "value_": 11.8
+  },
+  {
+    "geoid": "12420",
+    "key": "credit-constrained-subprime",
     "date": "2022-12-15",
     "value": 0.119,
     "value_": 11.9
@@ -5031,6 +9567,27 @@
     "date": "2024-12-15",
     "value": 0.13,
     "value_": 13
+  },
+  {
+    "geoid": "12580",
+    "key": "credit-constrained-subprime",
+    "date": "2019-12-15",
+    "value": 0.16,
+    "value_": 16
+  },
+  {
+    "geoid": "12580",
+    "key": "credit-constrained-subprime",
+    "date": "2020-12-15",
+    "value": 0.132,
+    "value_": 13.2
+  },
+  {
+    "geoid": "12580",
+    "key": "credit-constrained-subprime",
+    "date": "2021-12-15",
+    "value": 0.123,
+    "value_": 12.3
   },
   {
     "geoid": "12580",
@@ -5056,6 +9613,27 @@
   {
     "geoid": "13820",
     "key": "credit-constrained-subprime",
+    "date": "2019-12-15",
+    "value": 0.208,
+    "value_": 20.8
+  },
+  {
+    "geoid": "13820",
+    "key": "credit-constrained-subprime",
+    "date": "2020-12-15",
+    "value": 0.183,
+    "value_": 18.29999
+  },
+  {
+    "geoid": "13820",
+    "key": "credit-constrained-subprime",
+    "date": "2021-12-15",
+    "value": 0.168,
+    "value_": 16.8
+  },
+  {
+    "geoid": "13820",
+    "key": "credit-constrained-subprime",
     "date": "2022-12-15",
     "value": 0.174,
     "value_": 17.4
@@ -5073,6 +9651,27 @@
     "date": "2024-12-15",
     "value": 0.182,
     "value_": 18.2
+  },
+  {
+    "geoid": "14460",
+    "key": "credit-constrained-subprime",
+    "date": "2019-12-15",
+    "value": 0.1,
+    "value_": 10
+  },
+  {
+    "geoid": "14460",
+    "key": "credit-constrained-subprime",
+    "date": "2020-12-15",
+    "value": 0.08,
+    "value_": 8
+  },
+  {
+    "geoid": "14460",
+    "key": "credit-constrained-subprime",
+    "date": "2021-12-15",
+    "value": 0.071,
+    "value_": 7.1
   },
   {
     "geoid": "14460",
@@ -5098,6 +9697,27 @@
   {
     "geoid": "15380",
     "key": "credit-constrained-subprime",
+    "date": "2019-12-15",
+    "value": 0.131,
+    "value_": 13.10001
+  },
+  {
+    "geoid": "15380",
+    "key": "credit-constrained-subprime",
+    "date": "2020-12-15",
+    "value": 0.106,
+    "value_": 10.59999
+  },
+  {
+    "geoid": "15380",
+    "key": "credit-constrained-subprime",
+    "date": "2021-12-15",
+    "value": 0.099,
+    "value_": 9.9
+  },
+  {
+    "geoid": "15380",
+    "key": "credit-constrained-subprime",
     "date": "2022-12-15",
     "value": 0.106,
     "value_": 10.6
@@ -5115,6 +9735,27 @@
     "date": "2024-12-15",
     "value": 0.113,
     "value_": 11.3
+  },
+  {
+    "geoid": "16740",
+    "key": "credit-constrained-subprime",
+    "date": "2019-12-15",
+    "value": 0.194,
+    "value_": 19.4
+  },
+  {
+    "geoid": "16740",
+    "key": "credit-constrained-subprime",
+    "date": "2020-12-15",
+    "value": 0.167,
+    "value_": 16.7
+  },
+  {
+    "geoid": "16740",
+    "key": "credit-constrained-subprime",
+    "date": "2021-12-15",
+    "value": 0.153,
+    "value_": 15.3
   },
   {
     "geoid": "16740",
@@ -5140,6 +9781,27 @@
   {
     "geoid": "16980",
     "key": "credit-constrained-subprime",
+    "date": "2019-12-15",
+    "value": 0.139,
+    "value_": 13.9
+  },
+  {
+    "geoid": "16980",
+    "key": "credit-constrained-subprime",
+    "date": "2020-12-15",
+    "value": 0.115,
+    "value_": 11.5
+  },
+  {
+    "geoid": "16980",
+    "key": "credit-constrained-subprime",
+    "date": "2021-12-15",
+    "value": 0.106,
+    "value_": 10.6
+  },
+  {
+    "geoid": "16980",
+    "key": "credit-constrained-subprime",
     "date": "2022-12-15",
     "value": 0.113,
     "value_": 11.3
@@ -5157,6 +9819,27 @@
     "date": "2024-12-15",
     "value": 0.121,
     "value_": 12.1
+  },
+  {
+    "geoid": "17140",
+    "key": "credit-constrained-subprime",
+    "date": "2019-12-15",
+    "value": 0.157,
+    "value_": 15.70001
+  },
+  {
+    "geoid": "17140",
+    "key": "credit-constrained-subprime",
+    "date": "2020-12-15",
+    "value": 0.131,
+    "value_": 13.1
+  },
+  {
+    "geoid": "17140",
+    "key": "credit-constrained-subprime",
+    "date": "2021-12-15",
+    "value": 0.117,
+    "value_": 11.7
   },
   {
     "geoid": "17140",
@@ -5182,6 +9865,27 @@
   {
     "geoid": "17410",
     "key": "credit-constrained-subprime",
+    "date": "2019-12-15",
+    "value": 0.156,
+    "value_": 15.6
+  },
+  {
+    "geoid": "17410",
+    "key": "credit-constrained-subprime",
+    "date": "2020-12-15",
+    "value": 0.132,
+    "value_": 13.2
+  },
+  {
+    "geoid": "17410",
+    "key": "credit-constrained-subprime",
+    "date": "2021-12-15",
+    "value": 0.122,
+    "value_": 12.2
+  },
+  {
+    "geoid": "17410",
+    "key": "credit-constrained-subprime",
     "date": "2022-12-15",
     "value": 0.129,
     "value_": 12.9
@@ -5199,6 +9903,27 @@
     "date": "2024-12-15",
     "value": 0.139,
     "value_": 13.9
+  },
+  {
+    "geoid": "18140",
+    "key": "credit-constrained-subprime",
+    "date": "2019-12-15",
+    "value": 0.158,
+    "value_": 15.8
+  },
+  {
+    "geoid": "18140",
+    "key": "credit-constrained-subprime",
+    "date": "2020-12-15",
+    "value": 0.133,
+    "value_": 13.3
+  },
+  {
+    "geoid": "18140",
+    "key": "credit-constrained-subprime",
+    "date": "2021-12-15",
+    "value": 0.122,
+    "value_": 12.2
   },
   {
     "geoid": "18140",
@@ -5224,6 +9949,27 @@
   {
     "geoid": "19100",
     "key": "credit-constrained-subprime",
+    "date": "2019-12-15",
+    "value": 0.19,
+    "value_": 19
+  },
+  {
+    "geoid": "19100",
+    "key": "credit-constrained-subprime",
+    "date": "2020-12-15",
+    "value": 0.164,
+    "value_": 16.4
+  },
+  {
+    "geoid": "19100",
+    "key": "credit-constrained-subprime",
+    "date": "2021-12-15",
+    "value": 0.15,
+    "value_": 15
+  },
+  {
+    "geoid": "19100",
+    "key": "credit-constrained-subprime",
     "date": "2022-12-15",
     "value": 0.157,
     "value_": 15.7
@@ -5241,6 +9987,27 @@
     "date": "2024-12-15",
     "value": 0.169,
     "value_": 16.9
+  },
+  {
+    "geoid": "19740",
+    "key": "credit-constrained-subprime",
+    "date": "2019-12-15",
+    "value": 0.114,
+    "value_": 11.4
+  },
+  {
+    "geoid": "19740",
+    "key": "credit-constrained-subprime",
+    "date": "2020-12-15",
+    "value": 0.094,
+    "value_": 9.4
+  },
+  {
+    "geoid": "19740",
+    "key": "credit-constrained-subprime",
+    "date": "2021-12-15",
+    "value": 0.085,
+    "value_": 8.5
   },
   {
     "geoid": "19740",
@@ -5266,6 +10033,27 @@
   {
     "geoid": "19820",
     "key": "credit-constrained-subprime",
+    "date": "2019-12-15",
+    "value": 0.155,
+    "value_": 15.5
+  },
+  {
+    "geoid": "19820",
+    "key": "credit-constrained-subprime",
+    "date": "2020-12-15",
+    "value": 0.126,
+    "value_": 12.6
+  },
+  {
+    "geoid": "19820",
+    "key": "credit-constrained-subprime",
+    "date": "2021-12-15",
+    "value": 0.117,
+    "value_": 11.7
+  },
+  {
+    "geoid": "19820",
+    "key": "credit-constrained-subprime",
     "date": "2022-12-15",
     "value": 0.127,
     "value_": 12.7
@@ -5283,6 +10071,27 @@
     "date": "2024-12-15",
     "value": 0.138,
     "value_": 13.8
+  },
+  {
+    "geoid": "23420",
+    "key": "credit-constrained-subprime",
+    "date": "2019-12-15",
+    "value": 0.165,
+    "value_": 16.50001
+  },
+  {
+    "geoid": "23420",
+    "key": "credit-constrained-subprime",
+    "date": "2020-12-15",
+    "value": 0.133,
+    "value_": 13.30001
+  },
+  {
+    "geoid": "23420",
+    "key": "credit-constrained-subprime",
+    "date": "2021-12-15",
+    "value": 0.12,
+    "value_": 12
   },
   {
     "geoid": "23420",
@@ -5308,6 +10117,27 @@
   {
     "geoid": "24017",
     "key": "credit-constrained-subprime",
+    "date": "2019-12-15",
+    "value": 0.19648,
+    "value_": 19.64806
+  },
+  {
+    "geoid": "24017",
+    "key": "credit-constrained-subprime",
+    "date": "2020-12-15",
+    "value": 0.16143,
+    "value_": 16.14295
+  },
+  {
+    "geoid": "24017",
+    "key": "credit-constrained-subprime",
+    "date": "2021-12-15",
+    "value": 0.14355,
+    "value_": 14.35529
+  },
+  {
+    "geoid": "24017",
+    "key": "credit-constrained-subprime",
     "date": "2022-12-15",
     "value": 0.15183,
     "value_": 15.18326
@@ -5325,6 +10155,27 @@
     "date": "2024-12-15",
     "value": 0.16838,
     "value_": 16.83833
+  },
+  {
+    "geoid": "24021",
+    "key": "credit-constrained-subprime",
+    "date": "2019-12-15",
+    "value": 0.12042,
+    "value_": 12.04159
+  },
+  {
+    "geoid": "24021",
+    "key": "credit-constrained-subprime",
+    "date": "2020-12-15",
+    "value": 0.09629,
+    "value_": 9.62904
+  },
+  {
+    "geoid": "24021",
+    "key": "credit-constrained-subprime",
+    "date": "2021-12-15",
+    "value": 0.08517,
+    "value_": 8.51708
   },
   {
     "geoid": "24021",
@@ -5350,6 +10201,27 @@
   {
     "geoid": "24031",
     "key": "credit-constrained-subprime",
+    "date": "2019-12-15",
+    "value": 0.10851,
+    "value_": 10.85139
+  },
+  {
+    "geoid": "24031",
+    "key": "credit-constrained-subprime",
+    "date": "2020-12-15",
+    "value": 0.08654,
+    "value_": 8.65447
+  },
+  {
+    "geoid": "24031",
+    "key": "credit-constrained-subprime",
+    "date": "2021-12-15",
+    "value": 0.07849,
+    "value_": 7.84865
+  },
+  {
+    "geoid": "24031",
+    "key": "credit-constrained-subprime",
     "date": "2022-12-15",
     "value": 0.08291,
     "value_": 8.29147
@@ -5367,6 +10239,27 @@
     "date": "2024-12-15",
     "value": 0.09057,
     "value_": 9.05709
+  },
+  {
+    "geoid": "24033",
+    "key": "credit-constrained-subprime",
+    "date": "2019-12-15",
+    "value": 0.22509,
+    "value_": 22.50926
+  },
+  {
+    "geoid": "24033",
+    "key": "credit-constrained-subprime",
+    "date": "2020-12-15",
+    "value": 0.1833,
+    "value_": 18.33027
+  },
+  {
+    "geoid": "24033",
+    "key": "credit-constrained-subprime",
+    "date": "2021-12-15",
+    "value": 0.16624,
+    "value_": 16.62409
   },
   {
     "geoid": "24033",
@@ -5392,6 +10285,27 @@
   {
     "geoid": "24340",
     "key": "credit-constrained-subprime",
+    "date": "2019-12-15",
+    "value": 0.12,
+    "value_": 12
+  },
+  {
+    "geoid": "24340",
+    "key": "credit-constrained-subprime",
+    "date": "2020-12-15",
+    "value": 0.091,
+    "value_": 9.1
+  },
+  {
+    "geoid": "24340",
+    "key": "credit-constrained-subprime",
+    "date": "2021-12-15",
+    "value": 0.083,
+    "value_": 8.3
+  },
+  {
+    "geoid": "24340",
+    "key": "credit-constrained-subprime",
     "date": "2022-12-15",
     "value": 0.09,
     "value_": 9
@@ -5409,6 +10323,27 @@
     "date": "2024-12-15",
     "value": 0.097,
     "value_": 9.69999
+  },
+  {
+    "geoid": "26420",
+    "key": "credit-constrained-subprime",
+    "date": "2019-12-15",
+    "value": 0.205,
+    "value_": 20.5
+  },
+  {
+    "geoid": "26420",
+    "key": "credit-constrained-subprime",
+    "date": "2020-12-15",
+    "value": 0.18,
+    "value_": 18
+  },
+  {
+    "geoid": "26420",
+    "key": "credit-constrained-subprime",
+    "date": "2021-12-15",
+    "value": 0.168,
+    "value_": 16.8
   },
   {
     "geoid": "26420",
@@ -5434,6 +10369,27 @@
   {
     "geoid": "26900",
     "key": "credit-constrained-subprime",
+    "date": "2019-12-15",
+    "value": 0.167,
+    "value_": 16.7
+  },
+  {
+    "geoid": "26900",
+    "key": "credit-constrained-subprime",
+    "date": "2020-12-15",
+    "value": 0.14,
+    "value_": 14
+  },
+  {
+    "geoid": "26900",
+    "key": "credit-constrained-subprime",
+    "date": "2021-12-15",
+    "value": 0.128,
+    "value_": 12.8
+  },
+  {
+    "geoid": "26900",
+    "key": "credit-constrained-subprime",
     "date": "2022-12-15",
     "value": 0.135,
     "value_": 13.50001
@@ -5451,6 +10407,27 @@
     "date": "2024-12-15",
     "value": 0.145,
     "value_": 14.5
+  },
+  {
+    "geoid": "27260",
+    "key": "credit-constrained-subprime",
+    "date": "2019-12-15",
+    "value": 0.2,
+    "value_": 20
+  },
+  {
+    "geoid": "27260",
+    "key": "credit-constrained-subprime",
+    "date": "2020-12-15",
+    "value": 0.173,
+    "value_": 17.3
+  },
+  {
+    "geoid": "27260",
+    "key": "credit-constrained-subprime",
+    "date": "2021-12-15",
+    "value": 0.159,
+    "value_": 15.9
   },
   {
     "geoid": "27260",
@@ -5476,6 +10453,27 @@
   {
     "geoid": "28140",
     "key": "credit-constrained-subprime",
+    "date": "2019-12-15",
+    "value": 0.148,
+    "value_": 14.8
+  },
+  {
+    "geoid": "28140",
+    "key": "credit-constrained-subprime",
+    "date": "2020-12-15",
+    "value": 0.126,
+    "value_": 12.6
+  },
+  {
+    "geoid": "28140",
+    "key": "credit-constrained-subprime",
+    "date": "2021-12-15",
+    "value": 0.117,
+    "value_": 11.7
+  },
+  {
+    "geoid": "28140",
+    "key": "credit-constrained-subprime",
     "date": "2022-12-15",
     "value": 0.122,
     "value_": 12.2
@@ -5493,6 +10491,27 @@
     "date": "2024-12-15",
     "value": 0.127,
     "value_": 12.7
+  },
+  {
+    "geoid": "29820",
+    "key": "credit-constrained-subprime",
+    "date": "2019-12-15",
+    "value": 0.191,
+    "value_": 19.1
+  },
+  {
+    "geoid": "29820",
+    "key": "credit-constrained-subprime",
+    "date": "2020-12-15",
+    "value": 0.163,
+    "value_": 16.3
+  },
+  {
+    "geoid": "29820",
+    "key": "credit-constrained-subprime",
+    "date": "2021-12-15",
+    "value": 0.148,
+    "value_": 14.8
   },
   {
     "geoid": "29820",
@@ -5518,6 +10537,27 @@
   {
     "geoid": "31080",
     "key": "credit-constrained-subprime",
+    "date": "2019-12-15",
+    "value": 0.128,
+    "value_": 12.8
+  },
+  {
+    "geoid": "31080",
+    "key": "credit-constrained-subprime",
+    "date": "2020-12-15",
+    "value": 0.105,
+    "value_": 10.5
+  },
+  {
+    "geoid": "31080",
+    "key": "credit-constrained-subprime",
+    "date": "2021-12-15",
+    "value": 0.09,
+    "value_": 9
+  },
+  {
+    "geoid": "31080",
+    "key": "credit-constrained-subprime",
     "date": "2022-12-15",
     "value": 0.097,
     "value_": 9.7
@@ -5535,6 +10575,27 @@
     "date": "2024-12-15",
     "value": 0.109,
     "value_": 10.9
+  },
+  {
+    "geoid": "32820",
+    "key": "credit-constrained-subprime",
+    "date": "2019-12-15",
+    "value": 0.267,
+    "value_": 26.7
+  },
+  {
+    "geoid": "32820",
+    "key": "credit-constrained-subprime",
+    "date": "2020-12-15",
+    "value": 0.231,
+    "value_": 23.09999
+  },
+  {
+    "geoid": "32820",
+    "key": "credit-constrained-subprime",
+    "date": "2021-12-15",
+    "value": 0.212,
+    "value_": 21.2
   },
   {
     "geoid": "32820",
@@ -5560,6 +10621,27 @@
   {
     "geoid": "33100",
     "key": "credit-constrained-subprime",
+    "date": "2019-12-15",
+    "value": 0.181,
+    "value_": 18.1
+  },
+  {
+    "geoid": "33100",
+    "key": "credit-constrained-subprime",
+    "date": "2020-12-15",
+    "value": 0.152,
+    "value_": 15.2
+  },
+  {
+    "geoid": "33100",
+    "key": "credit-constrained-subprime",
+    "date": "2021-12-15",
+    "value": 0.134,
+    "value_": 13.4
+  },
+  {
+    "geoid": "33100",
+    "key": "credit-constrained-subprime",
     "date": "2022-12-15",
     "value": 0.139,
     "value_": 13.9
@@ -5577,6 +10659,27 @@
     "date": "2024-12-15",
     "value": 0.154,
     "value_": 15.4
+  },
+  {
+    "geoid": "33340",
+    "key": "credit-constrained-subprime",
+    "date": "2019-12-15",
+    "value": 0.128,
+    "value_": 12.8
+  },
+  {
+    "geoid": "33340",
+    "key": "credit-constrained-subprime",
+    "date": "2020-12-15",
+    "value": 0.102,
+    "value_": 10.2
+  },
+  {
+    "geoid": "33340",
+    "key": "credit-constrained-subprime",
+    "date": "2021-12-15",
+    "value": 0.098,
+    "value_": 9.8
   },
   {
     "geoid": "33340",
@@ -5602,6 +10705,27 @@
   {
     "geoid": "34980",
     "key": "credit-constrained-subprime",
+    "date": "2019-12-15",
+    "value": 0.162,
+    "value_": 16.2
+  },
+  {
+    "geoid": "34980",
+    "key": "credit-constrained-subprime",
+    "date": "2020-12-15",
+    "value": 0.14,
+    "value_": 14
+  },
+  {
+    "geoid": "34980",
+    "key": "credit-constrained-subprime",
+    "date": "2021-12-15",
+    "value": 0.127,
+    "value_": 12.7
+  },
+  {
+    "geoid": "34980",
+    "key": "credit-constrained-subprime",
     "date": "2022-12-15",
     "value": 0.126,
     "value_": 12.6
@@ -5619,6 +10743,27 @@
     "date": "2024-12-15",
     "value": 0.128,
     "value_": 12.8
+  },
+  {
+    "geoid": "35620",
+    "key": "credit-constrained-subprime",
+    "date": "2019-12-15",
+    "value": 0.126,
+    "value_": 12.6
+  },
+  {
+    "geoid": "35620",
+    "key": "credit-constrained-subprime",
+    "date": "2020-12-15",
+    "value": 0.1,
+    "value_": 10
+  },
+  {
+    "geoid": "35620",
+    "key": "credit-constrained-subprime",
+    "date": "2021-12-15",
+    "value": 0.09,
+    "value_": 9
   },
   {
     "geoid": "35620",
@@ -5644,6 +10789,27 @@
   {
     "geoid": "36420",
     "key": "credit-constrained-subprime",
+    "date": "2019-12-15",
+    "value": 0.185,
+    "value_": 18.5
+  },
+  {
+    "geoid": "36420",
+    "key": "credit-constrained-subprime",
+    "date": "2020-12-15",
+    "value": 0.164,
+    "value_": 16.4
+  },
+  {
+    "geoid": "36420",
+    "key": "credit-constrained-subprime",
+    "date": "2021-12-15",
+    "value": 0.153,
+    "value_": 15.3
+  },
+  {
+    "geoid": "36420",
+    "key": "credit-constrained-subprime",
     "date": "2022-12-15",
     "value": 0.154,
     "value_": 15.4
@@ -5661,6 +10827,27 @@
     "date": "2024-12-15",
     "value": 0.159,
     "value_": 15.9
+  },
+  {
+    "geoid": "36540",
+    "key": "credit-constrained-subprime",
+    "date": "2019-12-15",
+    "value": 0.128,
+    "value_": 12.8
+  },
+  {
+    "geoid": "36540",
+    "key": "credit-constrained-subprime",
+    "date": "2020-12-15",
+    "value": 0.103,
+    "value_": 10.29999
+  },
+  {
+    "geoid": "36540",
+    "key": "credit-constrained-subprime",
+    "date": "2021-12-15",
+    "value": 0.091,
+    "value_": 9.09999
   },
   {
     "geoid": "36540",
@@ -5686,6 +10873,27 @@
   {
     "geoid": "36740",
     "key": "credit-constrained-subprime",
+    "date": "2019-12-15",
+    "value": 0.194,
+    "value_": 19.4
+  },
+  {
+    "geoid": "36740",
+    "key": "credit-constrained-subprime",
+    "date": "2020-12-15",
+    "value": 0.164,
+    "value_": 16.4
+  },
+  {
+    "geoid": "36740",
+    "key": "credit-constrained-subprime",
+    "date": "2021-12-15",
+    "value": 0.148,
+    "value_": 14.8
+  },
+  {
+    "geoid": "36740",
+    "key": "credit-constrained-subprime",
     "date": "2022-12-15",
     "value": 0.156,
     "value_": 15.6
@@ -5703,6 +10911,27 @@
     "date": "2024-12-15",
     "value": 0.172,
     "value_": 17.2
+  },
+  {
+    "geoid": "37980",
+    "key": "credit-constrained-subprime",
+    "date": "2019-12-15",
+    "value": 0.153,
+    "value_": 15.3
+  },
+  {
+    "geoid": "37980",
+    "key": "credit-constrained-subprime",
+    "date": "2020-12-15",
+    "value": 0.123,
+    "value_": 12.3
+  },
+  {
+    "geoid": "37980",
+    "key": "credit-constrained-subprime",
+    "date": "2021-12-15",
+    "value": 0.112,
+    "value_": 11.2
   },
   {
     "geoid": "37980",
@@ -5728,6 +10957,27 @@
   {
     "geoid": "38060",
     "key": "credit-constrained-subprime",
+    "date": "2019-12-15",
+    "value": 0.157,
+    "value_": 15.7
+  },
+  {
+    "geoid": "38060",
+    "key": "credit-constrained-subprime",
+    "date": "2020-12-15",
+    "value": 0.128,
+    "value_": 12.8
+  },
+  {
+    "geoid": "38060",
+    "key": "credit-constrained-subprime",
+    "date": "2021-12-15",
+    "value": 0.114,
+    "value_": 11.4
+  },
+  {
+    "geoid": "38060",
+    "key": "credit-constrained-subprime",
     "date": "2022-12-15",
     "value": 0.121,
     "value_": 12.1
@@ -5749,6 +10999,27 @@
   {
     "geoid": "38300",
     "key": "credit-constrained-subprime",
+    "date": "2019-12-15",
+    "value": 0.128,
+    "value_": 12.8
+  },
+  {
+    "geoid": "38300",
+    "key": "credit-constrained-subprime",
+    "date": "2020-12-15",
+    "value": 0.107,
+    "value_": 10.7
+  },
+  {
+    "geoid": "38300",
+    "key": "credit-constrained-subprime",
+    "date": "2021-12-15",
+    "value": 0.096,
+    "value_": 9.6
+  },
+  {
+    "geoid": "38300",
+    "key": "credit-constrained-subprime",
     "date": "2022-12-15",
     "value": 0.103,
     "value_": 10.3
@@ -5766,6 +11037,27 @@
     "date": "2024-12-15",
     "value": 0.11,
     "value_": 11
+  },
+  {
+    "geoid": "38900",
+    "key": "credit-constrained-subprime",
+    "date": "2019-12-15",
+    "value": 0.106,
+    "value_": 10.6
+  },
+  {
+    "geoid": "38900",
+    "key": "credit-constrained-subprime",
+    "date": "2020-12-15",
+    "value": 0.084,
+    "value_": 8.4
+  },
+  {
+    "geoid": "38900",
+    "key": "credit-constrained-subprime",
+    "date": "2021-12-15",
+    "value": 0.073,
+    "value_": 7.3
   },
   {
     "geoid": "38900",
@@ -5791,6 +11083,27 @@
   {
     "geoid": "39300",
     "key": "credit-constrained-subprime",
+    "date": "2019-12-15",
+    "value": 0.138,
+    "value_": 13.8
+  },
+  {
+    "geoid": "39300",
+    "key": "credit-constrained-subprime",
+    "date": "2020-12-15",
+    "value": 0.111,
+    "value_": 11.1
+  },
+  {
+    "geoid": "39300",
+    "key": "credit-constrained-subprime",
+    "date": "2021-12-15",
+    "value": 0.099,
+    "value_": 9.9
+  },
+  {
+    "geoid": "39300",
+    "key": "credit-constrained-subprime",
     "date": "2022-12-15",
     "value": 0.106,
     "value_": 10.6
@@ -5808,6 +11121,27 @@
     "date": "2024-12-15",
     "value": 0.118,
     "value_": 11.8
+  },
+  {
+    "geoid": "39580",
+    "key": "credit-constrained-subprime",
+    "date": "2019-12-15",
+    "value": 0.158,
+    "value_": 15.8
+  },
+  {
+    "geoid": "39580",
+    "key": "credit-constrained-subprime",
+    "date": "2020-12-15",
+    "value": 0.133,
+    "value_": 13.3
+  },
+  {
+    "geoid": "39580",
+    "key": "credit-constrained-subprime",
+    "date": "2021-12-15",
+    "value": 0.122,
+    "value_": 12.2
   },
   {
     "geoid": "39580",
@@ -5833,6 +11167,27 @@
   {
     "geoid": "40060",
     "key": "credit-constrained-subprime",
+    "date": "2019-12-15",
+    "value": 0.169,
+    "value_": 16.9
+  },
+  {
+    "geoid": "40060",
+    "key": "credit-constrained-subprime",
+    "date": "2020-12-15",
+    "value": 0.142,
+    "value_": 14.2
+  },
+  {
+    "geoid": "40060",
+    "key": "credit-constrained-subprime",
+    "date": "2021-12-15",
+    "value": 0.131,
+    "value_": 13.1
+  },
+  {
+    "geoid": "40060",
+    "key": "credit-constrained-subprime",
     "date": "2022-12-15",
     "value": 0.137,
     "value_": 13.70001
@@ -5850,6 +11205,27 @@
     "date": "2024-12-15",
     "value": 0.144,
     "value_": 14.39999
+  },
+  {
+    "geoid": "40140",
+    "key": "credit-constrained-subprime",
+    "date": "2019-12-15",
+    "value": 0.183,
+    "value_": 18.3
+  },
+  {
+    "geoid": "40140",
+    "key": "credit-constrained-subprime",
+    "date": "2020-12-15",
+    "value": 0.152,
+    "value_": 15.2
+  },
+  {
+    "geoid": "40140",
+    "key": "credit-constrained-subprime",
+    "date": "2021-12-15",
+    "value": 0.128,
+    "value_": 12.8
   },
   {
     "geoid": "40140",
@@ -5875,6 +11251,27 @@
   {
     "geoid": "40380",
     "key": "credit-constrained-subprime",
+    "date": "2019-12-15",
+    "value": 0.14,
+    "value_": 14
+  },
+  {
+    "geoid": "40380",
+    "key": "credit-constrained-subprime",
+    "date": "2020-12-15",
+    "value": 0.112,
+    "value_": 11.2
+  },
+  {
+    "geoid": "40380",
+    "key": "credit-constrained-subprime",
+    "date": "2021-12-15",
+    "value": 0.106,
+    "value_": 10.60001
+  },
+  {
+    "geoid": "40380",
+    "key": "credit-constrained-subprime",
     "date": "2022-12-15",
     "value": 0.112,
     "value_": 11.20001
@@ -5892,6 +11289,27 @@
     "date": "2024-12-15",
     "value": 0.119,
     "value_": 11.89999
+  },
+  {
+    "geoid": "40900",
+    "key": "credit-constrained-subprime",
+    "date": "2019-12-15",
+    "value": 0.121,
+    "value_": 12.09999
+  },
+  {
+    "geoid": "40900",
+    "key": "credit-constrained-subprime",
+    "date": "2020-12-15",
+    "value": 0.099,
+    "value_": 9.9
+  },
+  {
+    "geoid": "40900",
+    "key": "credit-constrained-subprime",
+    "date": "2021-12-15",
+    "value": 0.089,
+    "value_": 8.9
   },
   {
     "geoid": "40900",
@@ -5917,6 +11335,27 @@
   {
     "geoid": "41620",
     "key": "credit-constrained-subprime",
+    "date": "2019-12-15",
+    "value": 0.117,
+    "value_": 11.70001
+  },
+  {
+    "geoid": "41620",
+    "key": "credit-constrained-subprime",
+    "date": "2020-12-15",
+    "value": 0.099,
+    "value_": 9.9
+  },
+  {
+    "geoid": "41620",
+    "key": "credit-constrained-subprime",
+    "date": "2021-12-15",
+    "value": 0.09,
+    "value_": 9
+  },
+  {
+    "geoid": "41620",
+    "key": "credit-constrained-subprime",
     "date": "2022-12-15",
     "value": 0.088,
     "value_": 8.8
@@ -5934,6 +11373,27 @@
     "date": "2024-12-15",
     "value": 0.102,
     "value_": 10.20001
+  },
+  {
+    "geoid": "41700",
+    "key": "credit-constrained-subprime",
+    "date": "2019-12-15",
+    "value": 0.22,
+    "value_": 22
+  },
+  {
+    "geoid": "41700",
+    "key": "credit-constrained-subprime",
+    "date": "2020-12-15",
+    "value": 0.188,
+    "value_": 18.8
+  },
+  {
+    "geoid": "41700",
+    "key": "credit-constrained-subprime",
+    "date": "2021-12-15",
+    "value": 0.172,
+    "value_": 17.2
   },
   {
     "geoid": "41700",
@@ -5959,6 +11419,27 @@
   {
     "geoid": "41740",
     "key": "credit-constrained-subprime",
+    "date": "2019-12-15",
+    "value": 0.115,
+    "value_": 11.5
+  },
+  {
+    "geoid": "41740",
+    "key": "credit-constrained-subprime",
+    "date": "2020-12-15",
+    "value": 0.091,
+    "value_": 9.1
+  },
+  {
+    "geoid": "41740",
+    "key": "credit-constrained-subprime",
+    "date": "2021-12-15",
+    "value": 0.081,
+    "value_": 8.1
+  },
+  {
+    "geoid": "41740",
+    "key": "credit-constrained-subprime",
     "date": "2022-12-15",
     "value": 0.088,
     "value_": 8.8
@@ -5976,6 +11457,27 @@
     "date": "2024-12-15",
     "value": 0.095,
     "value_": 9.5
+  },
+  {
+    "geoid": "41860",
+    "key": "credit-constrained-subprime",
+    "date": "2019-12-15",
+    "value": 0.08,
+    "value_": 8
+  },
+  {
+    "geoid": "41860",
+    "key": "credit-constrained-subprime",
+    "date": "2020-12-15",
+    "value": 0.065,
+    "value_": 6.5
+  },
+  {
+    "geoid": "41860",
+    "key": "credit-constrained-subprime",
+    "date": "2021-12-15",
+    "value": 0.059,
+    "value_": 5.9
   },
   {
     "geoid": "41860",
@@ -6001,6 +11503,27 @@
   {
     "geoid": "41940",
     "key": "credit-constrained-subprime",
+    "date": "2019-12-15",
+    "value": 0.07,
+    "value_": 7
+  },
+  {
+    "geoid": "41940",
+    "key": "credit-constrained-subprime",
+    "date": "2020-12-15",
+    "value": 0.057,
+    "value_": 5.7
+  },
+  {
+    "geoid": "41940",
+    "key": "credit-constrained-subprime",
+    "date": "2021-12-15",
+    "value": 0.05,
+    "value_": 5
+  },
+  {
+    "geoid": "41940",
+    "key": "credit-constrained-subprime",
     "date": "2022-12-15",
     "value": 0.056,
     "value_": 5.6
@@ -6018,6 +11541,27 @@
     "date": "2024-12-15",
     "value": 0.062,
     "value_": 6.2
+  },
+  {
+    "geoid": "42660",
+    "key": "credit-constrained-subprime",
+    "date": "2019-12-15",
+    "value": 0.097,
+    "value_": 9.7
+  },
+  {
+    "geoid": "42660",
+    "key": "credit-constrained-subprime",
+    "date": "2020-12-15",
+    "value": 0.078,
+    "value_": 7.8
+  },
+  {
+    "geoid": "42660",
+    "key": "credit-constrained-subprime",
+    "date": "2021-12-15",
+    "value": 0.071,
+    "value_": 7.1
   },
   {
     "geoid": "42660",
@@ -6043,6 +11587,27 @@
   {
     "geoid": "46060",
     "key": "credit-constrained-subprime",
+    "date": "2019-12-15",
+    "value": 0.15,
+    "value_": 15
+  },
+  {
+    "geoid": "46060",
+    "key": "credit-constrained-subprime",
+    "date": "2020-12-15",
+    "value": 0.125,
+    "value_": 12.50001
+  },
+  {
+    "geoid": "46060",
+    "key": "credit-constrained-subprime",
+    "date": "2021-12-15",
+    "value": 0.112,
+    "value_": 11.2
+  },
+  {
+    "geoid": "46060",
+    "key": "credit-constrained-subprime",
     "date": "2022-12-15",
     "value": 0.119,
     "value_": 11.9
@@ -6060,6 +11625,27 @@
     "date": "2024-12-15",
     "value": 0.13,
     "value_": 13
+  },
+  {
+    "geoid": "46140",
+    "key": "credit-constrained-subprime",
+    "date": "2019-12-15",
+    "value": 0.19,
+    "value_": 19
+  },
+  {
+    "geoid": "46140",
+    "key": "credit-constrained-subprime",
+    "date": "2020-12-15",
+    "value": 0.163,
+    "value_": 16.3
+  },
+  {
+    "geoid": "46140",
+    "key": "credit-constrained-subprime",
+    "date": "2021-12-15",
+    "value": 0.152,
+    "value_": 15.2
   },
   {
     "geoid": "46140",
@@ -6085,6 +11671,27 @@
   {
     "geoid": "47260",
     "key": "credit-constrained-subprime",
+    "date": "2019-12-15",
+    "value": 0.203,
+    "value_": 20.3
+  },
+  {
+    "geoid": "47260",
+    "key": "credit-constrained-subprime",
+    "date": "2020-12-15",
+    "value": 0.169,
+    "value_": 16.9
+  },
+  {
+    "geoid": "47260",
+    "key": "credit-constrained-subprime",
+    "date": "2021-12-15",
+    "value": 0.154,
+    "value_": 15.39999
+  },
+  {
+    "geoid": "47260",
+    "key": "credit-constrained-subprime",
     "date": "2022-12-15",
     "value": 0.158,
     "value_": 15.80001
@@ -6102,6 +11709,27 @@
     "date": "2024-12-15",
     "value": 0.162,
     "value_": 16.2
+  },
+  {
+    "geoid": "47900",
+    "key": "credit-constrained-subprime",
+    "date": "2019-12-15",
+    "value": 0.132,
+    "value_": 13.2
+  },
+  {
+    "geoid": "47900",
+    "key": "credit-constrained-subprime",
+    "date": "2020-12-15",
+    "value": 0.106,
+    "value_": 10.6
+  },
+  {
+    "geoid": "47900",
+    "key": "credit-constrained-subprime",
+    "date": "2021-12-15",
+    "value": 0.096,
+    "value_": 9.6
   },
   {
     "geoid": "47900",
@@ -6127,6 +11755,27 @@
   {
     "geoid": "51013",
     "key": "credit-constrained-subprime",
+    "date": "2019-12-15",
+    "value": 0.07416,
+    "value_": 7.41605
+  },
+  {
+    "geoid": "51013",
+    "key": "credit-constrained-subprime",
+    "date": "2020-12-15",
+    "value": 0.05915,
+    "value_": 5.91454
+  },
+  {
+    "geoid": "51013",
+    "key": "credit-constrained-subprime",
+    "date": "2021-12-15",
+    "value": 0.05271,
+    "value_": 5.27071
+  },
+  {
+    "geoid": "51013",
+    "key": "credit-constrained-subprime",
     "date": "2022-12-15",
     "value": 0.05914,
     "value_": 5.91434
@@ -6144,6 +11793,27 @@
     "date": "2024-12-15",
     "value": 0.0637,
     "value_": 6.36969
+  },
+  {
+    "geoid": "51043",
+    "key": "credit-constrained-subprime",
+    "date": "2019-12-15",
+    "value": 0.0986,
+    "value_": 9.86048
+  },
+  {
+    "geoid": "51043",
+    "key": "credit-constrained-subprime",
+    "date": "2020-12-15",
+    "value": 0.07384,
+    "value_": 7.38369
+  },
+  {
+    "geoid": "51043",
+    "key": "credit-constrained-subprime",
+    "date": "2021-12-15",
+    "value": 0.06702,
+    "value_": 6.7021
   },
   {
     "geoid": "51043",
@@ -6169,6 +11839,27 @@
   {
     "geoid": "51047",
     "key": "credit-constrained-subprime",
+    "date": "2019-12-15",
+    "value": 0.16799,
+    "value_": 16.79852
+  },
+  {
+    "geoid": "51047",
+    "key": "credit-constrained-subprime",
+    "date": "2020-12-15",
+    "value": 0.1412,
+    "value_": 14.12044
+  },
+  {
+    "geoid": "51047",
+    "key": "credit-constrained-subprime",
+    "date": "2021-12-15",
+    "value": 0.12264,
+    "value_": 12.2638
+  },
+  {
+    "geoid": "51047",
+    "key": "credit-constrained-subprime",
     "date": "2022-12-15",
     "value": 0.12965,
     "value_": 12.96546
@@ -6186,6 +11877,27 @@
     "date": "2024-12-15",
     "value": 0.12914,
     "value_": 12.9137
+  },
+  {
+    "geoid": "51059",
+    "key": "credit-constrained-subprime",
+    "date": "2019-12-15",
+    "value": 0.08578,
+    "value_": 8.57806
+  },
+  {
+    "geoid": "51059",
+    "key": "credit-constrained-subprime",
+    "date": "2020-12-15",
+    "value": 0.06707,
+    "value_": 6.7071
+  },
+  {
+    "geoid": "51059",
+    "key": "credit-constrained-subprime",
+    "date": "2021-12-15",
+    "value": 0.05958,
+    "value_": 5.95754
   },
   {
     "geoid": "51059",
@@ -6211,6 +11923,27 @@
   {
     "geoid": "51061",
     "key": "credit-constrained-subprime",
+    "date": "2019-12-15",
+    "value": 0.11549,
+    "value_": 11.54872
+  },
+  {
+    "geoid": "51061",
+    "key": "credit-constrained-subprime",
+    "date": "2020-12-15",
+    "value": 0.09209,
+    "value_": 9.20883
+  },
+  {
+    "geoid": "51061",
+    "key": "credit-constrained-subprime",
+    "date": "2021-12-15",
+    "value": 0.08351,
+    "value_": 8.35059
+  },
+  {
+    "geoid": "51061",
+    "key": "credit-constrained-subprime",
     "date": "2022-12-15",
     "value": 0.08402,
     "value_": 8.40166
@@ -6228,6 +11961,27 @@
     "date": "2024-12-15",
     "value": 0.09071,
     "value_": 9.07139
+  },
+  {
+    "geoid": "51107",
+    "key": "credit-constrained-subprime",
+    "date": "2019-12-15",
+    "value": 0.09145,
+    "value_": 9.14513
+  },
+  {
+    "geoid": "51107",
+    "key": "credit-constrained-subprime",
+    "date": "2020-12-15",
+    "value": 0.07091,
+    "value_": 7.09149
+  },
+  {
+    "geoid": "51107",
+    "key": "credit-constrained-subprime",
+    "date": "2021-12-15",
+    "value": 0.0628,
+    "value_": 6.28011
   },
   {
     "geoid": "51107",
@@ -6253,6 +12007,27 @@
   {
     "geoid": "51153",
     "key": "credit-constrained-subprime",
+    "date": "2019-12-15",
+    "value": 0.15271,
+    "value_": 15.27073
+  },
+  {
+    "geoid": "51153",
+    "key": "credit-constrained-subprime",
+    "date": "2020-12-15",
+    "value": 0.12209,
+    "value_": 12.20937
+  },
+  {
+    "geoid": "51153",
+    "key": "credit-constrained-subprime",
+    "date": "2021-12-15",
+    "value": 0.10941,
+    "value_": 10.94132
+  },
+  {
+    "geoid": "51153",
+    "key": "credit-constrained-subprime",
     "date": "2022-12-15",
     "value": 0.11443,
     "value_": 11.44275
@@ -6270,6 +12045,27 @@
     "date": "2024-12-15",
     "value": 0.12317,
     "value_": 12.31713
+  },
+  {
+    "geoid": "51157",
+    "key": "credit-constrained-subprime",
+    "date": "2019-12-15",
+    "value": 0.10508,
+    "value_": 10.50791
+  },
+  {
+    "geoid": "51157",
+    "key": "credit-constrained-subprime",
+    "date": "2020-12-15",
+    "value": 0.07942,
+    "value_": 7.94208
+  },
+  {
+    "geoid": "51157",
+    "key": "credit-constrained-subprime",
+    "date": "2021-12-15",
+    "value": 0.06026,
+    "value_": 6.02597
   },
   {
     "geoid": "51157",
@@ -6295,6 +12091,27 @@
   {
     "geoid": "51177",
     "key": "credit-constrained-subprime",
+    "date": "2019-12-15",
+    "value": 0.16077,
+    "value_": 16.07737
+  },
+  {
+    "geoid": "51177",
+    "key": "credit-constrained-subprime",
+    "date": "2020-12-15",
+    "value": 0.13646,
+    "value_": 13.64578
+  },
+  {
+    "geoid": "51177",
+    "key": "credit-constrained-subprime",
+    "date": "2021-12-15",
+    "value": 0.11968,
+    "value_": 11.96788
+  },
+  {
+    "geoid": "51177",
+    "key": "credit-constrained-subprime",
     "date": "2022-12-15",
     "value": 0.12469,
     "value_": 12.46931
@@ -6312,6 +12129,27 @@
     "date": "2024-12-15",
     "value": 0.1347,
     "value_": 13.47032
+  },
+  {
+    "geoid": "51179",
+    "key": "credit-constrained-subprime",
+    "date": "2019-12-15",
+    "value": 0.15298,
+    "value_": 15.29812
+  },
+  {
+    "geoid": "51179",
+    "key": "credit-constrained-subprime",
+    "date": "2020-12-15",
+    "value": 0.12084,
+    "value_": 12.08392
+  },
+  {
+    "geoid": "51179",
+    "key": "credit-constrained-subprime",
+    "date": "2021-12-15",
+    "value": 0.10994,
+    "value_": 10.99382
   },
   {
     "geoid": "51179",
@@ -6337,6 +12175,27 @@
   {
     "geoid": "51187",
     "key": "credit-constrained-subprime",
+    "date": "2019-12-15",
+    "value": 0.15468,
+    "value_": 15.46827
+  },
+  {
+    "geoid": "51187",
+    "key": "credit-constrained-subprime",
+    "date": "2020-12-15",
+    "value": 0.12934,
+    "value_": 12.93363
+  },
+  {
+    "geoid": "51187",
+    "key": "credit-constrained-subprime",
+    "date": "2021-12-15",
+    "value": 0.1191,
+    "value_": 11.91027
+  },
+  {
+    "geoid": "51187",
+    "key": "credit-constrained-subprime",
     "date": "2022-12-15",
     "value": 0.12195,
     "value_": 12.19487
@@ -6354,6 +12213,27 @@
     "date": "2024-12-15",
     "value": 0.13888,
     "value_": 13.88849
+  },
+  {
+    "geoid": "51510",
+    "key": "credit-constrained-subprime",
+    "date": "2019-12-15",
+    "value": 0.11372,
+    "value_": 11.37248
+  },
+  {
+    "geoid": "51510",
+    "key": "credit-constrained-subprime",
+    "date": "2020-12-15",
+    "value": 0.09185,
+    "value_": 9.1852
+  },
+  {
+    "geoid": "51510",
+    "key": "credit-constrained-subprime",
+    "date": "2021-12-15",
+    "value": 0.08404,
+    "value_": 8.40373
   },
   {
     "geoid": "51510",
@@ -6379,6 +12259,27 @@
   {
     "geoid": "51630",
     "key": "credit-constrained-subprime",
+    "date": "2019-12-15",
+    "value": 0.18102,
+    "value_": 18.102
+  },
+  {
+    "geoid": "51630",
+    "key": "credit-constrained-subprime",
+    "date": "2020-12-15",
+    "value": 0.15693,
+    "value_": 15.69336
+  },
+  {
+    "geoid": "51630",
+    "key": "credit-constrained-subprime",
+    "date": "2021-12-15",
+    "value": 0.13891,
+    "value_": 13.89058
+  },
+  {
+    "geoid": "51630",
+    "key": "credit-constrained-subprime",
     "date": "2022-12-15",
     "value": 0.13727,
     "value_": 13.72692
@@ -6396,6 +12297,27 @@
     "date": "2024-12-15",
     "value": 0.16334,
     "value_": 16.33374
+  },
+  {
+    "geoid": "54037",
+    "key": "credit-constrained-subprime",
+    "date": "2019-12-15",
+    "value": 0.16798,
+    "value_": 16.7979
+  },
+  {
+    "geoid": "54037",
+    "key": "credit-constrained-subprime",
+    "date": "2020-12-15",
+    "value": 0.13229,
+    "value_": 13.22861
+  },
+  {
+    "geoid": "54037",
+    "key": "credit-constrained-subprime",
+    "date": "2021-12-15",
+    "value": 0.12428,
+    "value_": 12.42773
   },
   {
     "geoid": "54037",
@@ -6421,6 +12343,27 @@
   {
     "geoid": "99997",
     "key": "credit-constrained-subprime",
+    "date": "2019-12-15",
+    "value": 0.15027,
+    "value_": 15.02744
+  },
+  {
+    "geoid": "99997",
+    "key": "credit-constrained-subprime",
+    "date": "2020-12-15",
+    "value": 0.12501,
+    "value_": 12.50108
+  },
+  {
+    "geoid": "99997",
+    "key": "credit-constrained-subprime",
+    "date": "2021-12-15",
+    "value": 0.11335,
+    "value_": 11.33483
+  },
+  {
+    "geoid": "99997",
+    "key": "credit-constrained-subprime",
     "date": "2022-12-15",
     "value": 0.12,
     "value_": 11.99981
@@ -6438,6 +12381,27 @@
     "date": "2024-12-15",
     "value": 0.13031,
     "value_": 13.03072
+  },
+  {
+    "geoid": "99999",
+    "key": "credit-constrained-subprime",
+    "date": "2019-12-15",
+    "value": 0.156,
+    "value_": 15.6
+  },
+  {
+    "geoid": "99999",
+    "key": "credit-constrained-subprime",
+    "date": "2020-12-15",
+    "value": 0.132,
+    "value_": 13.2
+  },
+  {
+    "geoid": "99999",
+    "key": "credit-constrained-subprime",
+    "date": "2021-12-15",
+    "value": 0.12,
+    "value_": 12
   },
   {
     "geoid": "99999",

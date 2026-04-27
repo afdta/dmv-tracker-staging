@@ -2,6 +2,27 @@
   {
     "geoid": "11001",
     "key": "credit-constrained-total",
+    "date": "2019-03-15",
+    "value": 0.26305,
+    "value_": 26.30478
+  },
+  {
+    "geoid": "11001",
+    "key": "credit-constrained-total",
+    "date": "2020-03-15",
+    "value": 0.2581,
+    "value_": 25.81028
+  },
+  {
+    "geoid": "11001",
+    "key": "credit-constrained-total",
+    "date": "2021-03-15",
+    "value": 0.23019,
+    "value_": 23.01885
+  },
+  {
+    "geoid": "11001",
+    "key": "credit-constrained-total",
     "date": "2022-03-15",
     "value": 0.22554,
     "value_": 22.55356
@@ -26,6 +47,27 @@
     "date": "2025-03-15",
     "value": 0.24523,
     "value_": 24.52332
+  },
+  {
+    "geoid": "12060",
+    "key": "credit-constrained-total",
+    "date": "2019-03-15",
+    "value": 0.333,
+    "value_": 33.3
+  },
+  {
+    "geoid": "12060",
+    "key": "credit-constrained-total",
+    "date": "2020-03-15",
+    "value": 0.328,
+    "value_": 32.8
+  },
+  {
+    "geoid": "12060",
+    "key": "credit-constrained-total",
+    "date": "2021-03-15",
+    "value": 0.299,
+    "value_": 29.9
   },
   {
     "geoid": "12060",
@@ -58,6 +100,27 @@
   {
     "geoid": "12420",
     "key": "credit-constrained-total",
+    "date": "2019-03-15",
+    "value": 0.263,
+    "value_": 26.29999
+  },
+  {
+    "geoid": "12420",
+    "key": "credit-constrained-total",
+    "date": "2020-03-15",
+    "value": 0.256,
+    "value_": 25.59999
+  },
+  {
+    "geoid": "12420",
+    "key": "credit-constrained-total",
+    "date": "2021-03-15",
+    "value": 0.23,
+    "value_": 23
+  },
+  {
+    "geoid": "12420",
+    "key": "credit-constrained-total",
     "date": "2022-03-15",
     "value": 0.218,
     "value_": 21.8
@@ -86,6 +149,27 @@
   {
     "geoid": "12580",
     "key": "credit-constrained-total",
+    "date": "2019-03-15",
+    "value": 0.257,
+    "value_": 25.7
+  },
+  {
+    "geoid": "12580",
+    "key": "credit-constrained-total",
+    "date": "2020-03-15",
+    "value": 0.255,
+    "value_": 25.5
+  },
+  {
+    "geoid": "12580",
+    "key": "credit-constrained-total",
+    "date": "2021-03-15",
+    "value": 0.228,
+    "value_": 22.8
+  },
+  {
+    "geoid": "12580",
+    "key": "credit-constrained-total",
     "date": "2022-03-15",
     "value": 0.221,
     "value_": 22.1
@@ -110,6 +194,27 @@
     "date": "2025-03-15",
     "value": 0.236,
     "value_": 23.6
+  },
+  {
+    "geoid": "13820",
+    "key": "credit-constrained-total",
+    "date": "2019-03-15",
+    "value": 0.32,
+    "value_": 32
+  },
+  {
+    "geoid": "13820",
+    "key": "credit-constrained-total",
+    "date": "2020-03-15",
+    "value": 0.316,
+    "value_": 31.59998
+  },
+  {
+    "geoid": "13820",
+    "key": "credit-constrained-total",
+    "date": "2021-03-15",
+    "value": 0.294,
+    "value_": 29.40001
   },
   {
     "geoid": "13820",
@@ -142,6 +247,27 @@
   {
     "geoid": "14460",
     "key": "credit-constrained-total",
+    "date": "2019-03-15",
+    "value": 0.184,
+    "value_": 18.4
+  },
+  {
+    "geoid": "14460",
+    "key": "credit-constrained-total",
+    "date": "2020-03-15",
+    "value": 0.181,
+    "value_": 18.1
+  },
+  {
+    "geoid": "14460",
+    "key": "credit-constrained-total",
+    "date": "2021-03-15",
+    "value": 0.156,
+    "value_": 15.6
+  },
+  {
+    "geoid": "14460",
+    "key": "credit-constrained-total",
     "date": "2022-03-15",
     "value": 0.147,
     "value_": 14.7
@@ -166,6 +292,27 @@
     "date": "2025-03-15",
     "value": 0.158,
     "value_": 15.8
+  },
+  {
+    "geoid": "15380",
+    "key": "credit-constrained-total",
+    "date": "2019-03-15",
+    "value": 0.219,
+    "value_": 21.9
+  },
+  {
+    "geoid": "15380",
+    "key": "credit-constrained-total",
+    "date": "2020-03-15",
+    "value": 0.216,
+    "value_": 21.59998
+  },
+  {
+    "geoid": "15380",
+    "key": "credit-constrained-total",
+    "date": "2021-03-15",
+    "value": 0.192,
+    "value_": 19.19999
   },
   {
     "geoid": "15380",
@@ -198,6 +345,27 @@
   {
     "geoid": "16740",
     "key": "credit-constrained-total",
+    "date": "2019-03-15",
+    "value": 0.309,
+    "value_": 30.9
+  },
+  {
+    "geoid": "16740",
+    "key": "credit-constrained-total",
+    "date": "2020-03-15",
+    "value": 0.302,
+    "value_": 30.20001
+  },
+  {
+    "geoid": "16740",
+    "key": "credit-constrained-total",
+    "date": "2021-03-15",
+    "value": 0.273,
+    "value_": 27.30001
+  },
+  {
+    "geoid": "16740",
+    "key": "credit-constrained-total",
     "date": "2022-03-15",
     "value": 0.263,
     "value_": 26.3
@@ -226,6 +394,27 @@
   {
     "geoid": "16980",
     "key": "credit-constrained-total",
+    "date": "2019-03-15",
+    "value": 0.236,
+    "value_": 23.6
+  },
+  {
+    "geoid": "16980",
+    "key": "credit-constrained-total",
+    "date": "2020-03-15",
+    "value": 0.235,
+    "value_": 23.5
+  },
+  {
+    "geoid": "16980",
+    "key": "credit-constrained-total",
+    "date": "2021-03-15",
+    "value": 0.209,
+    "value_": 20.9
+  },
+  {
+    "geoid": "16980",
+    "key": "credit-constrained-total",
     "date": "2022-03-15",
     "value": 0.203,
     "value_": 20.3
@@ -250,6 +439,27 @@
     "date": "2025-03-15",
     "value": 0.214,
     "value_": 21.4
+  },
+  {
+    "geoid": "17140",
+    "key": "credit-constrained-total",
+    "date": "2019-03-15",
+    "value": 0.255,
+    "value_": 25.49999
+  },
+  {
+    "geoid": "17140",
+    "key": "credit-constrained-total",
+    "date": "2020-03-15",
+    "value": 0.25,
+    "value_": 25
+  },
+  {
+    "geoid": "17140",
+    "key": "credit-constrained-total",
+    "date": "2021-03-15",
+    "value": 0.224,
+    "value_": 22.4
   },
   {
     "geoid": "17140",
@@ -282,6 +492,27 @@
   {
     "geoid": "17410",
     "key": "credit-constrained-total",
+    "date": "2019-03-15",
+    "value": 0.254,
+    "value_": 25.4
+  },
+  {
+    "geoid": "17410",
+    "key": "credit-constrained-total",
+    "date": "2020-03-15",
+    "value": 0.249,
+    "value_": 24.9
+  },
+  {
+    "geoid": "17410",
+    "key": "credit-constrained-total",
+    "date": "2021-03-15",
+    "value": 0.226,
+    "value_": 22.6
+  },
+  {
+    "geoid": "17410",
+    "key": "credit-constrained-total",
     "date": "2022-03-15",
     "value": 0.218,
     "value_": 21.8
@@ -306,6 +537,27 @@
     "date": "2025-03-15",
     "value": 0.23,
     "value_": 23
+  },
+  {
+    "geoid": "18140",
+    "key": "credit-constrained-total",
+    "date": "2019-03-15",
+    "value": 0.263,
+    "value_": 26.3
+  },
+  {
+    "geoid": "18140",
+    "key": "credit-constrained-total",
+    "date": "2020-03-15",
+    "value": 0.258,
+    "value_": 25.8
+  },
+  {
+    "geoid": "18140",
+    "key": "credit-constrained-total",
+    "date": "2021-03-15",
+    "value": 0.231,
+    "value_": 23.1
   },
   {
     "geoid": "18140",
@@ -338,6 +590,27 @@
   {
     "geoid": "19100",
     "key": "credit-constrained-total",
+    "date": "2019-03-15",
+    "value": 0.308,
+    "value_": 30.8
+  },
+  {
+    "geoid": "19100",
+    "key": "credit-constrained-total",
+    "date": "2020-03-15",
+    "value": 0.303,
+    "value_": 30.3
+  },
+  {
+    "geoid": "19100",
+    "key": "credit-constrained-total",
+    "date": "2021-03-15",
+    "value": 0.276,
+    "value_": 27.6
+  },
+  {
+    "geoid": "19100",
+    "key": "credit-constrained-total",
     "date": "2022-03-15",
     "value": 0.265,
     "value_": 26.5
@@ -366,6 +639,27 @@
   {
     "geoid": "19740",
     "key": "credit-constrained-total",
+    "date": "2019-03-15",
+    "value": 0.201,
+    "value_": 20.1
+  },
+  {
+    "geoid": "19740",
+    "key": "credit-constrained-total",
+    "date": "2020-03-15",
+    "value": 0.198,
+    "value_": 19.8
+  },
+  {
+    "geoid": "19740",
+    "key": "credit-constrained-total",
+    "date": "2021-03-15",
+    "value": 0.174,
+    "value_": 17.4
+  },
+  {
+    "geoid": "19740",
+    "key": "credit-constrained-total",
     "date": "2022-03-15",
     "value": 0.169,
     "value_": 16.9
@@ -390,6 +684,27 @@
     "date": "2025-03-15",
     "value": 0.185,
     "value_": 18.5
+  },
+  {
+    "geoid": "19820",
+    "key": "credit-constrained-total",
+    "date": "2019-03-15",
+    "value": 0.25,
+    "value_": 25
+  },
+  {
+    "geoid": "19820",
+    "key": "credit-constrained-total",
+    "date": "2020-03-15",
+    "value": 0.247,
+    "value_": 24.7
+  },
+  {
+    "geoid": "19820",
+    "key": "credit-constrained-total",
+    "date": "2021-03-15",
+    "value": 0.218,
+    "value_": 21.8
   },
   {
     "geoid": "19820",
@@ -422,6 +737,27 @@
   {
     "geoid": "23420",
     "key": "credit-constrained-total",
+    "date": "2019-03-15",
+    "value": 0.28,
+    "value_": 28
+  },
+  {
+    "geoid": "23420",
+    "key": "credit-constrained-total",
+    "date": "2020-03-15",
+    "value": 0.278,
+    "value_": 27.80001
+  },
+  {
+    "geoid": "23420",
+    "key": "credit-constrained-total",
+    "date": "2021-03-15",
+    "value": 0.244,
+    "value_": 24.40001
+  },
+  {
+    "geoid": "23420",
+    "key": "credit-constrained-total",
     "date": "2022-03-15",
     "value": 0.237,
     "value_": 23.7
@@ -446,6 +782,27 @@
     "date": "2025-03-15",
     "value": 0.266,
     "value_": 26.59999
+  },
+  {
+    "geoid": "24017",
+    "key": "credit-constrained-total",
+    "date": "2019-03-15",
+    "value": 0.33695,
+    "value_": 33.69471
+  },
+  {
+    "geoid": "24017",
+    "key": "credit-constrained-total",
+    "date": "2020-03-15",
+    "value": 0.33264,
+    "value_": 33.26351
+  },
+  {
+    "geoid": "24017",
+    "key": "credit-constrained-total",
+    "date": "2021-03-15",
+    "value": 0.2961,
+    "value_": 29.60954
   },
   {
     "geoid": "24017",
@@ -478,6 +835,27 @@
   {
     "geoid": "24021",
     "key": "credit-constrained-total",
+    "date": "2019-03-15",
+    "value": 0.20346,
+    "value_": 20.34601
+  },
+  {
+    "geoid": "24021",
+    "key": "credit-constrained-total",
+    "date": "2020-03-15",
+    "value": 0.19993,
+    "value_": 19.99265
+  },
+  {
+    "geoid": "24021",
+    "key": "credit-constrained-total",
+    "date": "2021-03-15",
+    "value": 0.17394,
+    "value_": 17.39406
+  },
+  {
+    "geoid": "24021",
+    "key": "credit-constrained-total",
     "date": "2022-03-15",
     "value": 0.16405,
     "value_": 16.40501
@@ -502,6 +880,27 @@
     "date": "2025-03-15",
     "value": 0.16921,
     "value_": 16.92072
+  },
+  {
+    "geoid": "24031",
+    "key": "credit-constrained-total",
+    "date": "2019-03-15",
+    "value": 0.18507,
+    "value_": 18.50683
+  },
+  {
+    "geoid": "24031",
+    "key": "credit-constrained-total",
+    "date": "2020-03-15",
+    "value": 0.18225,
+    "value_": 18.22482
+  },
+  {
+    "geoid": "24031",
+    "key": "credit-constrained-total",
+    "date": "2021-03-15",
+    "value": 0.1575,
+    "value_": 15.74999
   },
   {
     "geoid": "24031",
@@ -534,6 +933,27 @@
   {
     "geoid": "24033",
     "key": "credit-constrained-total",
+    "date": "2019-03-15",
+    "value": 0.38931,
+    "value_": 38.93096
+  },
+  {
+    "geoid": "24033",
+    "key": "credit-constrained-total",
+    "date": "2020-03-15",
+    "value": 0.38342,
+    "value_": 38.34202
+  },
+  {
+    "geoid": "24033",
+    "key": "credit-constrained-total",
+    "date": "2021-03-15",
+    "value": 0.33943,
+    "value_": 33.94317
+  },
+  {
+    "geoid": "24033",
+    "key": "credit-constrained-total",
     "date": "2022-03-15",
     "value": 0.32639,
     "value_": 32.63881
@@ -558,6 +978,27 @@
     "date": "2025-03-15",
     "value": 0.34543,
     "value_": 34.54308
+  },
+  {
+    "geoid": "24340",
+    "key": "credit-constrained-total",
+    "date": "2019-03-15",
+    "value": 0.207,
+    "value_": 20.7
+  },
+  {
+    "geoid": "24340",
+    "key": "credit-constrained-total",
+    "date": "2020-03-15",
+    "value": 0.202,
+    "value_": 20.2
+  },
+  {
+    "geoid": "24340",
+    "key": "credit-constrained-total",
+    "date": "2021-03-15",
+    "value": 0.169,
+    "value_": 16.90001
   },
   {
     "geoid": "24340",
@@ -590,6 +1031,27 @@
   {
     "geoid": "26420",
     "key": "credit-constrained-total",
+    "date": "2019-03-15",
+    "value": 0.326,
+    "value_": 32.6
+  },
+  {
+    "geoid": "26420",
+    "key": "credit-constrained-total",
+    "date": "2020-03-15",
+    "value": 0.32,
+    "value_": 32
+  },
+  {
+    "geoid": "26420",
+    "key": "credit-constrained-total",
+    "date": "2021-03-15",
+    "value": 0.293,
+    "value_": 29.3
+  },
+  {
+    "geoid": "26420",
+    "key": "credit-constrained-total",
     "date": "2022-03-15",
     "value": 0.287,
     "value_": 28.7
@@ -614,6 +1076,27 @@
     "date": "2025-03-15",
     "value": 0.305,
     "value_": 30.5
+  },
+  {
+    "geoid": "26900",
+    "key": "credit-constrained-total",
+    "date": "2019-03-15",
+    "value": 0.277,
+    "value_": 27.7
+  },
+  {
+    "geoid": "26900",
+    "key": "credit-constrained-total",
+    "date": "2020-03-15",
+    "value": 0.269,
+    "value_": 26.9
+  },
+  {
+    "geoid": "26900",
+    "key": "credit-constrained-total",
+    "date": "2021-03-15",
+    "value": 0.243,
+    "value_": 24.3
   },
   {
     "geoid": "26900",
@@ -646,6 +1129,27 @@
   {
     "geoid": "27260",
     "key": "credit-constrained-total",
+    "date": "2019-03-15",
+    "value": 0.315,
+    "value_": 31.5
+  },
+  {
+    "geoid": "27260",
+    "key": "credit-constrained-total",
+    "date": "2020-03-15",
+    "value": 0.309,
+    "value_": 30.9
+  },
+  {
+    "geoid": "27260",
+    "key": "credit-constrained-total",
+    "date": "2021-03-15",
+    "value": 0.281,
+    "value_": 28.10001
+  },
+  {
+    "geoid": "27260",
+    "key": "credit-constrained-total",
     "date": "2022-03-15",
     "value": 0.271,
     "value_": 27.10001
@@ -670,6 +1174,27 @@
     "date": "2025-03-15",
     "value": 0.275,
     "value_": 27.5
+  },
+  {
+    "geoid": "28140",
+    "key": "credit-constrained-total",
+    "date": "2019-03-15",
+    "value": 0.25,
+    "value_": 25
+  },
+  {
+    "geoid": "28140",
+    "key": "credit-constrained-total",
+    "date": "2020-03-15",
+    "value": 0.246,
+    "value_": 24.6
+  },
+  {
+    "geoid": "28140",
+    "key": "credit-constrained-total",
+    "date": "2021-03-15",
+    "value": 0.221,
+    "value_": 22.1
   },
   {
     "geoid": "28140",
@@ -702,6 +1227,27 @@
   {
     "geoid": "29820",
     "key": "credit-constrained-total",
+    "date": "2019-03-15",
+    "value": 0.309,
+    "value_": 30.9
+  },
+  {
+    "geoid": "29820",
+    "key": "credit-constrained-total",
+    "date": "2020-03-15",
+    "value": 0.309,
+    "value_": 30.9
+  },
+  {
+    "geoid": "29820",
+    "key": "credit-constrained-total",
+    "date": "2021-03-15",
+    "value": 0.277,
+    "value_": 27.7
+  },
+  {
+    "geoid": "29820",
+    "key": "credit-constrained-total",
     "date": "2022-03-15",
     "value": 0.271,
     "value_": 27.1
@@ -730,6 +1276,27 @@
   {
     "geoid": "31080",
     "key": "credit-constrained-total",
+    "date": "2019-03-15",
+    "value": 0.23,
+    "value_": 23
+  },
+  {
+    "geoid": "31080",
+    "key": "credit-constrained-total",
+    "date": "2020-03-15",
+    "value": 0.227,
+    "value_": 22.7
+  },
+  {
+    "geoid": "31080",
+    "key": "credit-constrained-total",
+    "date": "2021-03-15",
+    "value": 0.196,
+    "value_": 19.6
+  },
+  {
+    "geoid": "31080",
+    "key": "credit-constrained-total",
     "date": "2022-03-15",
     "value": 0.184,
     "value_": 18.4
@@ -754,6 +1321,27 @@
     "date": "2025-03-15",
     "value": 0.201,
     "value_": 20.1
+  },
+  {
+    "geoid": "32820",
+    "key": "credit-constrained-total",
+    "date": "2019-03-15",
+    "value": 0.389,
+    "value_": 38.9
+  },
+  {
+    "geoid": "32820",
+    "key": "credit-constrained-total",
+    "date": "2020-03-15",
+    "value": 0.384,
+    "value_": 38.4
+  },
+  {
+    "geoid": "32820",
+    "key": "credit-constrained-total",
+    "date": "2021-03-15",
+    "value": 0.356,
+    "value_": 35.6
   },
   {
     "geoid": "32820",
@@ -786,6 +1374,27 @@
   {
     "geoid": "33100",
     "key": "credit-constrained-total",
+    "date": "2019-03-15",
+    "value": 0.306,
+    "value_": 30.6
+  },
+  {
+    "geoid": "33100",
+    "key": "credit-constrained-total",
+    "date": "2020-03-15",
+    "value": 0.303,
+    "value_": 30.3
+  },
+  {
+    "geoid": "33100",
+    "key": "credit-constrained-total",
+    "date": "2021-03-15",
+    "value": 0.27,
+    "value_": 27
+  },
+  {
+    "geoid": "33100",
+    "key": "credit-constrained-total",
     "date": "2022-03-15",
     "value": 0.26,
     "value_": 26
@@ -814,6 +1423,27 @@
   {
     "geoid": "33340",
     "key": "credit-constrained-total",
+    "date": "2019-03-15",
+    "value": 0.213,
+    "value_": 21.3
+  },
+  {
+    "geoid": "33340",
+    "key": "credit-constrained-total",
+    "date": "2020-03-15",
+    "value": 0.209,
+    "value_": 20.9
+  },
+  {
+    "geoid": "33340",
+    "key": "credit-constrained-total",
+    "date": "2021-03-15",
+    "value": 0.182,
+    "value_": 18.20001
+  },
+  {
+    "geoid": "33340",
+    "key": "credit-constrained-total",
     "date": "2022-03-15",
     "value": 0.179,
     "value_": 17.9
@@ -838,6 +1468,27 @@
     "date": "2025-03-15",
     "value": 0.189,
     "value_": 18.9
+  },
+  {
+    "geoid": "34980",
+    "key": "credit-constrained-total",
+    "date": "2019-03-15",
+    "value": 0.274,
+    "value_": 27.39999
+  },
+  {
+    "geoid": "34980",
+    "key": "credit-constrained-total",
+    "date": "2020-03-15",
+    "value": 0.264,
+    "value_": 26.4
+  },
+  {
+    "geoid": "34980",
+    "key": "credit-constrained-total",
+    "date": "2021-03-15",
+    "value": 0.238,
+    "value_": 23.80001
   },
   {
     "geoid": "34980",
@@ -870,6 +1521,27 @@
   {
     "geoid": "35620",
     "key": "credit-constrained-total",
+    "date": "2019-03-15",
+    "value": 0.223,
+    "value_": 22.3
+  },
+  {
+    "geoid": "35620",
+    "key": "credit-constrained-total",
+    "date": "2020-03-15",
+    "value": 0.22,
+    "value_": 22
+  },
+  {
+    "geoid": "35620",
+    "key": "credit-constrained-total",
+    "date": "2021-03-15",
+    "value": 0.19,
+    "value_": 19
+  },
+  {
+    "geoid": "35620",
+    "key": "credit-constrained-total",
     "date": "2022-03-15",
     "value": 0.183,
     "value_": 18.3
@@ -894,6 +1566,27 @@
     "date": "2025-03-15",
     "value": 0.203,
     "value_": 20.3
+  },
+  {
+    "geoid": "36420",
+    "key": "credit-constrained-total",
+    "date": "2019-03-15",
+    "value": 0.297,
+    "value_": 29.7
+  },
+  {
+    "geoid": "36420",
+    "key": "credit-constrained-total",
+    "date": "2020-03-15",
+    "value": 0.294,
+    "value_": 29.4
+  },
+  {
+    "geoid": "36420",
+    "key": "credit-constrained-total",
+    "date": "2021-03-15",
+    "value": 0.273,
+    "value_": 27.30001
   },
   {
     "geoid": "36420",
@@ -926,6 +1619,27 @@
   {
     "geoid": "36540",
     "key": "credit-constrained-total",
+    "date": "2019-03-15",
+    "value": 0.22,
+    "value_": 22
+  },
+  {
+    "geoid": "36540",
+    "key": "credit-constrained-total",
+    "date": "2020-03-15",
+    "value": 0.219,
+    "value_": 21.89999
+  },
+  {
+    "geoid": "36540",
+    "key": "credit-constrained-total",
+    "date": "2021-03-15",
+    "value": 0.19,
+    "value_": 19
+  },
+  {
+    "geoid": "36540",
+    "key": "credit-constrained-total",
     "date": "2022-03-15",
     "value": 0.178,
     "value_": 17.80001
@@ -950,6 +1664,27 @@
     "date": "2025-03-15",
     "value": 0.194,
     "value_": 19.40001
+  },
+  {
+    "geoid": "36740",
+    "key": "credit-constrained-total",
+    "date": "2019-03-15",
+    "value": 0.319,
+    "value_": 31.9
+  },
+  {
+    "geoid": "36740",
+    "key": "credit-constrained-total",
+    "date": "2020-03-15",
+    "value": 0.316,
+    "value_": 31.6
+  },
+  {
+    "geoid": "36740",
+    "key": "credit-constrained-total",
+    "date": "2021-03-15",
+    "value": 0.285,
+    "value_": 28.5
   },
   {
     "geoid": "36740",
@@ -982,6 +1717,27 @@
   {
     "geoid": "37980",
     "key": "credit-constrained-total",
+    "date": "2019-03-15",
+    "value": 0.251,
+    "value_": 25.1
+  },
+  {
+    "geoid": "37980",
+    "key": "credit-constrained-total",
+    "date": "2020-03-15",
+    "value": 0.246,
+    "value_": 24.6
+  },
+  {
+    "geoid": "37980",
+    "key": "credit-constrained-total",
+    "date": "2021-03-15",
+    "value": 0.215,
+    "value_": 21.5
+  },
+  {
+    "geoid": "37980",
+    "key": "credit-constrained-total",
     "date": "2022-03-15",
     "value": 0.207,
     "value_": 20.7
@@ -1006,6 +1762,27 @@
     "date": "2025-03-15",
     "value": 0.226,
     "value_": 22.6
+  },
+  {
+    "geoid": "38060",
+    "key": "credit-constrained-total",
+    "date": "2019-03-15",
+    "value": 0.264,
+    "value_": 26.4
+  },
+  {
+    "geoid": "38060",
+    "key": "credit-constrained-total",
+    "date": "2020-03-15",
+    "value": 0.261,
+    "value_": 26.1
+  },
+  {
+    "geoid": "38060",
+    "key": "credit-constrained-total",
+    "date": "2021-03-15",
+    "value": 0.23,
+    "value_": 23
   },
   {
     "geoid": "38060",
@@ -1038,6 +1815,27 @@
   {
     "geoid": "38300",
     "key": "credit-constrained-total",
+    "date": "2019-03-15",
+    "value": 0.213,
+    "value_": 21.29999
+  },
+  {
+    "geoid": "38300",
+    "key": "credit-constrained-total",
+    "date": "2020-03-15",
+    "value": 0.209,
+    "value_": 20.9
+  },
+  {
+    "geoid": "38300",
+    "key": "credit-constrained-total",
+    "date": "2021-03-15",
+    "value": 0.186,
+    "value_": 18.6
+  },
+  {
+    "geoid": "38300",
+    "key": "credit-constrained-total",
     "date": "2022-03-15",
     "value": 0.179,
     "value_": 17.9
@@ -1062,6 +1860,27 @@
     "date": "2025-03-15",
     "value": 0.189,
     "value_": 18.9
+  },
+  {
+    "geoid": "38900",
+    "key": "credit-constrained-total",
+    "date": "2019-03-15",
+    "value": 0.197,
+    "value_": 19.7
+  },
+  {
+    "geoid": "38900",
+    "key": "credit-constrained-total",
+    "date": "2020-03-15",
+    "value": 0.19,
+    "value_": 19
+  },
+  {
+    "geoid": "38900",
+    "key": "credit-constrained-total",
+    "date": "2021-03-15",
+    "value": 0.161,
+    "value_": 16.1
   },
   {
     "geoid": "38900",
@@ -1094,6 +1913,27 @@
   {
     "geoid": "39300",
     "key": "credit-constrained-total",
+    "date": "2019-03-15",
+    "value": 0.237,
+    "value_": 23.69999
+  },
+  {
+    "geoid": "39300",
+    "key": "credit-constrained-total",
+    "date": "2020-03-15",
+    "value": 0.234,
+    "value_": 23.40001
+  },
+  {
+    "geoid": "39300",
+    "key": "credit-constrained-total",
+    "date": "2021-03-15",
+    "value": 0.203,
+    "value_": 20.3
+  },
+  {
+    "geoid": "39300",
+    "key": "credit-constrained-total",
     "date": "2022-03-15",
     "value": 0.197,
     "value_": 19.7
@@ -1122,6 +1962,27 @@
   {
     "geoid": "39580",
     "key": "credit-constrained-total",
+    "date": "2019-03-15",
+    "value": 0.254,
+    "value_": 25.4
+  },
+  {
+    "geoid": "39580",
+    "key": "credit-constrained-total",
+    "date": "2020-03-15",
+    "value": 0.251,
+    "value_": 25.1
+  },
+  {
+    "geoid": "39580",
+    "key": "credit-constrained-total",
+    "date": "2021-03-15",
+    "value": 0.224,
+    "value_": 22.40001
+  },
+  {
+    "geoid": "39580",
+    "key": "credit-constrained-total",
     "date": "2022-03-15",
     "value": 0.216,
     "value_": 21.6
@@ -1146,6 +2007,27 @@
     "date": "2025-03-15",
     "value": 0.217,
     "value_": 21.7
+  },
+  {
+    "geoid": "40060",
+    "key": "credit-constrained-total",
+    "date": "2019-03-15",
+    "value": 0.277,
+    "value_": 27.7
+  },
+  {
+    "geoid": "40060",
+    "key": "credit-constrained-total",
+    "date": "2020-03-15",
+    "value": 0.27,
+    "value_": 27
+  },
+  {
+    "geoid": "40060",
+    "key": "credit-constrained-total",
+    "date": "2021-03-15",
+    "value": 0.245,
+    "value_": 24.50001
   },
   {
     "geoid": "40060",
@@ -1178,6 +2060,27 @@
   {
     "geoid": "40140",
     "key": "credit-constrained-total",
+    "date": "2019-03-15",
+    "value": 0.307,
+    "value_": 30.7
+  },
+  {
+    "geoid": "40140",
+    "key": "credit-constrained-total",
+    "date": "2020-03-15",
+    "value": 0.304,
+    "value_": 30.4
+  },
+  {
+    "geoid": "40140",
+    "key": "credit-constrained-total",
+    "date": "2021-03-15",
+    "value": 0.267,
+    "value_": 26.7
+  },
+  {
+    "geoid": "40140",
+    "key": "credit-constrained-total",
     "date": "2022-03-15",
     "value": 0.248,
     "value_": 24.8
@@ -1202,6 +2105,27 @@
     "date": "2025-03-15",
     "value": 0.273,
     "value_": 27.3
+  },
+  {
+    "geoid": "40380",
+    "key": "credit-constrained-total",
+    "date": "2019-03-15",
+    "value": 0.231,
+    "value_": 23.1
+  },
+  {
+    "geoid": "40380",
+    "key": "credit-constrained-total",
+    "date": "2020-03-15",
+    "value": 0.226,
+    "value_": 22.59999
+  },
+  {
+    "geoid": "40380",
+    "key": "credit-constrained-total",
+    "date": "2021-03-15",
+    "value": 0.2,
+    "value_": 20
   },
   {
     "geoid": "40380",
@@ -1234,6 +2158,27 @@
   {
     "geoid": "40900",
     "key": "credit-constrained-total",
+    "date": "2019-03-15",
+    "value": 0.214,
+    "value_": 21.4
+  },
+  {
+    "geoid": "40900",
+    "key": "credit-constrained-total",
+    "date": "2020-03-15",
+    "value": 0.211,
+    "value_": 21.09999
+  },
+  {
+    "geoid": "40900",
+    "key": "credit-constrained-total",
+    "date": "2021-03-15",
+    "value": 0.183,
+    "value_": 18.3
+  },
+  {
+    "geoid": "40900",
+    "key": "credit-constrained-total",
     "date": "2022-03-15",
     "value": 0.175,
     "value_": 17.50001
@@ -1262,6 +2207,27 @@
   {
     "geoid": "41620",
     "key": "credit-constrained-total",
+    "date": "2019-03-15",
+    "value": 0.21,
+    "value_": 21
+  },
+  {
+    "geoid": "41620",
+    "key": "credit-constrained-total",
+    "date": "2020-03-15",
+    "value": 0.206,
+    "value_": 20.59999
+  },
+  {
+    "geoid": "41620",
+    "key": "credit-constrained-total",
+    "date": "2021-03-15",
+    "value": 0.184,
+    "value_": 18.40001
+  },
+  {
+    "geoid": "41620",
+    "key": "credit-constrained-total",
     "date": "2022-03-15",
     "value": 0.175,
     "value_": 17.5
@@ -1286,6 +2252,27 @@
     "date": "2025-03-15",
     "value": 0.187,
     "value_": 18.7
+  },
+  {
+    "geoid": "41700",
+    "key": "credit-constrained-total",
+    "date": "2019-03-15",
+    "value": 0.347,
+    "value_": 34.7
+  },
+  {
+    "geoid": "41700",
+    "key": "credit-constrained-total",
+    "date": "2020-03-15",
+    "value": 0.339,
+    "value_": 33.89999
+  },
+  {
+    "geoid": "41700",
+    "key": "credit-constrained-total",
+    "date": "2021-03-15",
+    "value": 0.308,
+    "value_": 30.8
   },
   {
     "geoid": "41700",
@@ -1318,6 +2305,27 @@
   {
     "geoid": "41740",
     "key": "credit-constrained-total",
+    "date": "2019-03-15",
+    "value": 0.21,
+    "value_": 21
+  },
+  {
+    "geoid": "41740",
+    "key": "credit-constrained-total",
+    "date": "2020-03-15",
+    "value": 0.206,
+    "value_": 20.6
+  },
+  {
+    "geoid": "41740",
+    "key": "credit-constrained-total",
+    "date": "2021-03-15",
+    "value": 0.178,
+    "value_": 17.8
+  },
+  {
+    "geoid": "41740",
+    "key": "credit-constrained-total",
     "date": "2022-03-15",
     "value": 0.17,
     "value_": 17
@@ -1342,6 +2350,27 @@
     "date": "2025-03-15",
     "value": 0.182,
     "value_": 18.19999
+  },
+  {
+    "geoid": "41860",
+    "key": "credit-constrained-total",
+    "date": "2019-03-15",
+    "value": 0.15,
+    "value_": 15
+  },
+  {
+    "geoid": "41860",
+    "key": "credit-constrained-total",
+    "date": "2020-03-15",
+    "value": 0.149,
+    "value_": 14.9
+  },
+  {
+    "geoid": "41860",
+    "key": "credit-constrained-total",
+    "date": "2021-03-15",
+    "value": 0.127,
+    "value_": 12.7
   },
   {
     "geoid": "41860",
@@ -1374,6 +2403,27 @@
   {
     "geoid": "41940",
     "key": "credit-constrained-total",
+    "date": "2019-03-15",
+    "value": 0.138,
+    "value_": 13.80001
+  },
+  {
+    "geoid": "41940",
+    "key": "credit-constrained-total",
+    "date": "2020-03-15",
+    "value": 0.134,
+    "value_": 13.40001
+  },
+  {
+    "geoid": "41940",
+    "key": "credit-constrained-total",
+    "date": "2021-03-15",
+    "value": 0.115,
+    "value_": 11.5
+  },
+  {
+    "geoid": "41940",
+    "key": "credit-constrained-total",
     "date": "2022-03-15",
     "value": 0.112,
     "value_": 11.2
@@ -1402,6 +2452,27 @@
   {
     "geoid": "42660",
     "key": "credit-constrained-total",
+    "date": "2019-03-15",
+    "value": 0.18,
+    "value_": 18
+  },
+  {
+    "geoid": "42660",
+    "key": "credit-constrained-total",
+    "date": "2020-03-15",
+    "value": 0.175,
+    "value_": 17.5
+  },
+  {
+    "geoid": "42660",
+    "key": "credit-constrained-total",
+    "date": "2021-03-15",
+    "value": 0.15,
+    "value_": 15
+  },
+  {
+    "geoid": "42660",
+    "key": "credit-constrained-total",
     "date": "2022-03-15",
     "value": 0.143,
     "value_": 14.3
@@ -1426,6 +2497,27 @@
     "date": "2025-03-15",
     "value": 0.15,
     "value_": 15
+  },
+  {
+    "geoid": "46060",
+    "key": "credit-constrained-total",
+    "date": "2019-03-15",
+    "value": 0.249,
+    "value_": 24.9
+  },
+  {
+    "geoid": "46060",
+    "key": "credit-constrained-total",
+    "date": "2020-03-15",
+    "value": 0.246,
+    "value_": 24.60001
+  },
+  {
+    "geoid": "46060",
+    "key": "credit-constrained-total",
+    "date": "2021-03-15",
+    "value": 0.22,
+    "value_": 22
   },
   {
     "geoid": "46060",
@@ -1458,6 +2550,27 @@
   {
     "geoid": "46140",
     "key": "credit-constrained-total",
+    "date": "2019-03-15",
+    "value": 0.307,
+    "value_": 30.69999
+  },
+  {
+    "geoid": "46140",
+    "key": "credit-constrained-total",
+    "date": "2020-03-15",
+    "value": 0.302,
+    "value_": 30.2
+  },
+  {
+    "geoid": "46140",
+    "key": "credit-constrained-total",
+    "date": "2021-03-15",
+    "value": 0.274,
+    "value_": 27.4
+  },
+  {
+    "geoid": "46140",
+    "key": "credit-constrained-total",
     "date": "2022-03-15",
     "value": 0.266,
     "value_": 26.6
@@ -1482,6 +2595,27 @@
     "date": "2025-03-15",
     "value": 0.272,
     "value_": 27.19998
+  },
+  {
+    "geoid": "47260",
+    "key": "credit-constrained-total",
+    "date": "2019-03-15",
+    "value": 0.318,
+    "value_": 31.8
+  },
+  {
+    "geoid": "47260",
+    "key": "credit-constrained-total",
+    "date": "2020-03-15",
+    "value": 0.312,
+    "value_": 31.2
+  },
+  {
+    "geoid": "47260",
+    "key": "credit-constrained-total",
+    "date": "2021-03-15",
+    "value": 0.28,
+    "value_": 28
   },
   {
     "geoid": "47260",
@@ -1514,6 +2648,27 @@
   {
     "geoid": "47900",
     "key": "credit-constrained-total",
+    "date": "2019-03-15",
+    "value": 0.227,
+    "value_": 22.7
+  },
+  {
+    "geoid": "47900",
+    "key": "credit-constrained-total",
+    "date": "2020-03-15",
+    "value": 0.223,
+    "value_": 22.3
+  },
+  {
+    "geoid": "47900",
+    "key": "credit-constrained-total",
+    "date": "2021-03-15",
+    "value": 0.194,
+    "value_": 19.4
+  },
+  {
+    "geoid": "47900",
+    "key": "credit-constrained-total",
     "date": "2022-03-15",
     "value": 0.186,
     "value_": 18.6
@@ -1538,6 +2693,27 @@
     "date": "2025-03-15",
     "value": 0.198,
     "value_": 19.8
+  },
+  {
+    "geoid": "51013",
+    "key": "credit-constrained-total",
+    "date": "2019-03-15",
+    "value": 0.12759,
+    "value_": 12.75891
+  },
+  {
+    "geoid": "51013",
+    "key": "credit-constrained-total",
+    "date": "2020-03-15",
+    "value": 0.12167,
+    "value_": 12.16724
+  },
+  {
+    "geoid": "51013",
+    "key": "credit-constrained-total",
+    "date": "2021-03-15",
+    "value": 0.10727,
+    "value_": 10.72713
   },
   {
     "geoid": "51013",
@@ -1570,6 +2746,27 @@
   {
     "geoid": "51043",
     "key": "credit-constrained-total",
+    "date": "2019-03-15",
+    "value": 0.16518,
+    "value_": 16.5182
+  },
+  {
+    "geoid": "51043",
+    "key": "credit-constrained-total",
+    "date": "2020-03-15",
+    "value": 0.15758,
+    "value_": 15.75829
+  },
+  {
+    "geoid": "51043",
+    "key": "credit-constrained-total",
+    "date": "2021-03-15",
+    "value": 0.13663,
+    "value_": 13.6629
+  },
+  {
+    "geoid": "51043",
+    "key": "credit-constrained-total",
     "date": "2022-03-15",
     "value": 0.1372,
     "value_": 13.72026
@@ -1594,6 +2791,27 @@
     "date": "2025-03-15",
     "value": 0.15054,
     "value_": 15.05429
+  },
+  {
+    "geoid": "51047",
+    "key": "credit-constrained-total",
+    "date": "2019-03-15",
+    "value": 0.29275,
+    "value_": 29.27515
+  },
+  {
+    "geoid": "51047",
+    "key": "credit-constrained-total",
+    "date": "2020-03-15",
+    "value": 0.28814,
+    "value_": 28.81383
+  },
+  {
+    "geoid": "51047",
+    "key": "credit-constrained-total",
+    "date": "2021-03-15",
+    "value": 0.26357,
+    "value_": 26.35674
   },
   {
     "geoid": "51047",
@@ -1626,6 +2844,27 @@
   {
     "geoid": "51059",
     "key": "credit-constrained-total",
+    "date": "2019-03-15",
+    "value": 0.14645,
+    "value_": 14.64549
+  },
+  {
+    "geoid": "51059",
+    "key": "credit-constrained-total",
+    "date": "2020-03-15",
+    "value": 0.14263,
+    "value_": 14.26349
+  },
+  {
+    "geoid": "51059",
+    "key": "credit-constrained-total",
+    "date": "2021-03-15",
+    "value": 0.1214,
+    "value_": 12.13995
+  },
+  {
+    "geoid": "51059",
+    "key": "credit-constrained-total",
     "date": "2022-03-15",
     "value": 0.11414,
     "value_": 11.41399
@@ -1650,6 +2889,27 @@
     "date": "2025-03-15",
     "value": 0.12485,
     "value_": 12.48518
+  },
+  {
+    "geoid": "51061",
+    "key": "credit-constrained-total",
+    "date": "2019-03-15",
+    "value": 0.19493,
+    "value_": 19.49288
+  },
+  {
+    "geoid": "51061",
+    "key": "credit-constrained-total",
+    "date": "2020-03-15",
+    "value": 0.19029,
+    "value_": 19.02919
+  },
+  {
+    "geoid": "51061",
+    "key": "credit-constrained-total",
+    "date": "2021-03-15",
+    "value": 0.16656,
+    "value_": 16.65603
   },
   {
     "geoid": "51061",
@@ -1682,6 +2942,27 @@
   {
     "geoid": "51107",
     "key": "credit-constrained-total",
+    "date": "2019-03-15",
+    "value": 0.15437,
+    "value_": 15.43701
+  },
+  {
+    "geoid": "51107",
+    "key": "credit-constrained-total",
+    "date": "2020-03-15",
+    "value": 0.14885,
+    "value_": 14.88454
+  },
+  {
+    "geoid": "51107",
+    "key": "credit-constrained-total",
+    "date": "2021-03-15",
+    "value": 0.12309,
+    "value_": 12.309
+  },
+  {
+    "geoid": "51107",
+    "key": "credit-constrained-total",
     "date": "2022-03-15",
     "value": 0.11926,
     "value_": 11.92621
@@ -1706,6 +2987,27 @@
     "date": "2025-03-15",
     "value": 0.12581,
     "value_": 12.58089
+  },
+  {
+    "geoid": "51153",
+    "key": "credit-constrained-total",
+    "date": "2019-03-15",
+    "value": 0.25979,
+    "value_": 25.97866
+  },
+  {
+    "geoid": "51153",
+    "key": "credit-constrained-total",
+    "date": "2020-03-15",
+    "value": 0.25834,
+    "value_": 25.83429
+  },
+  {
+    "geoid": "51153",
+    "key": "credit-constrained-total",
+    "date": "2021-03-15",
+    "value": 0.22268,
+    "value_": 22.26782
   },
   {
     "geoid": "51153",
@@ -1738,6 +3040,27 @@
   {
     "geoid": "51157",
     "key": "credit-constrained-total",
+    "date": "2019-03-15",
+    "value": 0.20321,
+    "value_": 20.32114
+  },
+  {
+    "geoid": "51157",
+    "key": "credit-constrained-total",
+    "date": "2020-03-15",
+    "value": 0.17144,
+    "value_": 17.14428
+  },
+  {
+    "geoid": "51157",
+    "key": "credit-constrained-total",
+    "date": "2021-03-15",
+    "value": 0.13101,
+    "value_": 13.10118
+  },
+  {
+    "geoid": "51157",
+    "key": "credit-constrained-total",
     "date": "2022-03-15",
     "value": 0.12024,
     "value_": 12.02427
@@ -1762,6 +3085,27 @@
     "date": "2025-03-15",
     "value": 0.16566,
     "value_": 16.56609
+  },
+  {
+    "geoid": "51177",
+    "key": "credit-constrained-total",
+    "date": "2019-03-15",
+    "value": 0.28564,
+    "value_": 28.56358
+  },
+  {
+    "geoid": "51177",
+    "key": "credit-constrained-total",
+    "date": "2020-03-15",
+    "value": 0.27434,
+    "value_": 27.43422
+  },
+  {
+    "geoid": "51177",
+    "key": "credit-constrained-total",
+    "date": "2021-03-15",
+    "value": 0.24694,
+    "value_": 24.69366
   },
   {
     "geoid": "51177",
@@ -1794,6 +3138,27 @@
   {
     "geoid": "51179",
     "key": "credit-constrained-total",
+    "date": "2019-03-15",
+    "value": 0.2595,
+    "value_": 25.95039
+  },
+  {
+    "geoid": "51179",
+    "key": "credit-constrained-total",
+    "date": "2020-03-15",
+    "value": 0.2565,
+    "value_": 25.64993
+  },
+  {
+    "geoid": "51179",
+    "key": "credit-constrained-total",
+    "date": "2021-03-15",
+    "value": 0.22026,
+    "value_": 22.02579
+  },
+  {
+    "geoid": "51179",
+    "key": "credit-constrained-total",
     "date": "2022-03-15",
     "value": 0.20833,
     "value_": 20.83267
@@ -1818,6 +3183,27 @@
     "date": "2025-03-15",
     "value": 0.21603,
     "value_": 21.60324
+  },
+  {
+    "geoid": "51187",
+    "key": "credit-constrained-total",
+    "date": "2019-03-15",
+    "value": 0.25779,
+    "value_": 25.77933
+  },
+  {
+    "geoid": "51187",
+    "key": "credit-constrained-total",
+    "date": "2020-03-15",
+    "value": 0.25718,
+    "value_": 25.71764
+  },
+  {
+    "geoid": "51187",
+    "key": "credit-constrained-total",
+    "date": "2021-03-15",
+    "value": 0.24065,
+    "value_": 24.0651
   },
   {
     "geoid": "51187",
@@ -1850,6 +3236,27 @@
   {
     "geoid": "51510",
     "key": "credit-constrained-total",
+    "date": "2019-03-15",
+    "value": 0.19231,
+    "value_": 19.23139
+  },
+  {
+    "geoid": "51510",
+    "key": "credit-constrained-total",
+    "date": "2020-03-15",
+    "value": 0.18719,
+    "value_": 18.71913
+  },
+  {
+    "geoid": "51510",
+    "key": "credit-constrained-total",
+    "date": "2021-03-15",
+    "value": 0.165,
+    "value_": 16.50047
+  },
+  {
+    "geoid": "51510",
+    "key": "credit-constrained-total",
     "date": "2022-03-15",
     "value": 0.16321,
     "value_": 16.32096
@@ -1874,6 +3281,27 @@
     "date": "2025-03-15",
     "value": 0.1758,
     "value_": 17.57968
+  },
+  {
+    "geoid": "51630",
+    "key": "credit-constrained-total",
+    "date": "2019-03-15",
+    "value": 0.31656,
+    "value_": 31.65583
+  },
+  {
+    "geoid": "51630",
+    "key": "credit-constrained-total",
+    "date": "2020-03-15",
+    "value": 0.313,
+    "value_": 31.30049
+  },
+  {
+    "geoid": "51630",
+    "key": "credit-constrained-total",
+    "date": "2021-03-15",
+    "value": 0.28546,
+    "value_": 28.54562
   },
   {
     "geoid": "51630",
@@ -1906,6 +3334,27 @@
   {
     "geoid": "54037",
     "key": "credit-constrained-total",
+    "date": "2019-03-15",
+    "value": 0.29263,
+    "value_": 29.26308
+  },
+  {
+    "geoid": "54037",
+    "key": "credit-constrained-total",
+    "date": "2020-03-15",
+    "value": 0.28104,
+    "value_": 28.10384
+  },
+  {
+    "geoid": "54037",
+    "key": "credit-constrained-total",
+    "date": "2021-03-15",
+    "value": 0.25156,
+    "value_": 25.15641
+  },
+  {
+    "geoid": "54037",
+    "key": "credit-constrained-total",
     "date": "2022-03-15",
     "value": 0.24311,
     "value_": 24.31106
@@ -1930,6 +3379,27 @@
     "date": "2025-03-15",
     "value": 0.20381,
     "value_": 20.38103
+  },
+  {
+    "geoid": "99997",
+    "key": "credit-constrained-total",
+    "date": "2019-03-15",
+    "value": 0.25256,
+    "value_": 25.25599
+  },
+  {
+    "geoid": "99997",
+    "key": "credit-constrained-total",
+    "date": "2020-03-15",
+    "value": 0.24883,
+    "value_": 24.88298
+  },
+  {
+    "geoid": "99997",
+    "key": "credit-constrained-total",
+    "date": "2021-03-15",
+    "value": 0.22088,
+    "value_": 22.0884
   },
   {
     "geoid": "99997",
@@ -1962,6 +3432,27 @@
   {
     "geoid": "99999",
     "key": "credit-constrained-total",
+    "date": "2019-03-15",
+    "value": 0.26,
+    "value_": 26
+  },
+  {
+    "geoid": "99999",
+    "key": "credit-constrained-total",
+    "date": "2020-03-15",
+    "value": 0.256,
+    "value_": 25.6
+  },
+  {
+    "geoid": "99999",
+    "key": "credit-constrained-total",
+    "date": "2021-03-15",
+    "value": 0.229,
+    "value_": 22.9
+  },
+  {
+    "geoid": "99999",
+    "key": "credit-constrained-total",
     "date": "2022-03-15",
     "value": 0.22,
     "value_": 22
@@ -1990,6 +3481,27 @@
   {
     "geoid": "11001",
     "key": "credit-constrained-total",
+    "date": "2019-06-15",
+    "value": 0.26289,
+    "value_": 26.28943
+  },
+  {
+    "geoid": "11001",
+    "key": "credit-constrained-total",
+    "date": "2020-06-15",
+    "value": 0.24632,
+    "value_": 24.6316
+  },
+  {
+    "geoid": "11001",
+    "key": "credit-constrained-total",
+    "date": "2021-06-15",
+    "value": 0.22627,
+    "value_": 22.62744
+  },
+  {
+    "geoid": "11001",
+    "key": "credit-constrained-total",
     "date": "2022-06-15",
     "value": 0.22947,
     "value_": 22.94669
@@ -2007,6 +3519,27 @@
     "date": "2024-06-15",
     "value": 0.23725,
     "value_": 23.7248
+  },
+  {
+    "geoid": "12060",
+    "key": "credit-constrained-total",
+    "date": "2019-06-15",
+    "value": 0.33,
+    "value_": 33
+  },
+  {
+    "geoid": "12060",
+    "key": "credit-constrained-total",
+    "date": "2020-06-15",
+    "value": 0.314,
+    "value_": 31.4
+  },
+  {
+    "geoid": "12060",
+    "key": "credit-constrained-total",
+    "date": "2021-06-15",
+    "value": 0.292,
+    "value_": 29.2
   },
   {
     "geoid": "12060",
@@ -2032,6 +3565,27 @@
   {
     "geoid": "12420",
     "key": "credit-constrained-total",
+    "date": "2019-06-15",
+    "value": 0.26,
+    "value_": 26
+  },
+  {
+    "geoid": "12420",
+    "key": "credit-constrained-total",
+    "date": "2020-06-15",
+    "value": 0.247,
+    "value_": 24.7
+  },
+  {
+    "geoid": "12420",
+    "key": "credit-constrained-total",
+    "date": "2021-06-15",
+    "value": 0.224,
+    "value_": 22.4
+  },
+  {
+    "geoid": "12420",
+    "key": "credit-constrained-total",
     "date": "2022-06-15",
     "value": 0.219,
     "value_": 21.9
@@ -2053,6 +3607,27 @@
   {
     "geoid": "12580",
     "key": "credit-constrained-total",
+    "date": "2019-06-15",
+    "value": 0.254,
+    "value_": 25.4
+  },
+  {
+    "geoid": "12580",
+    "key": "credit-constrained-total",
+    "date": "2020-06-15",
+    "value": 0.243,
+    "value_": 24.29999
+  },
+  {
+    "geoid": "12580",
+    "key": "credit-constrained-total",
+    "date": "2021-06-15",
+    "value": 0.223,
+    "value_": 22.3
+  },
+  {
+    "geoid": "12580",
+    "key": "credit-constrained-total",
     "date": "2022-06-15",
     "value": 0.222,
     "value_": 22.2
@@ -2070,6 +3645,27 @@
     "date": "2024-06-15",
     "value": 0.227,
     "value_": 22.7
+  },
+  {
+    "geoid": "13820",
+    "key": "credit-constrained-total",
+    "date": "2019-06-15",
+    "value": 0.316,
+    "value_": 31.59999
+  },
+  {
+    "geoid": "13820",
+    "key": "credit-constrained-total",
+    "date": "2020-06-15",
+    "value": 0.306,
+    "value_": 30.59999
+  },
+  {
+    "geoid": "13820",
+    "key": "credit-constrained-total",
+    "date": "2021-06-15",
+    "value": 0.286,
+    "value_": 28.60001
   },
   {
     "geoid": "13820",
@@ -2095,6 +3691,27 @@
   {
     "geoid": "14460",
     "key": "credit-constrained-total",
+    "date": "2019-06-15",
+    "value": 0.18,
+    "value_": 18
+  },
+  {
+    "geoid": "14460",
+    "key": "credit-constrained-total",
+    "date": "2020-06-15",
+    "value": 0.168,
+    "value_": 16.8
+  },
+  {
+    "geoid": "14460",
+    "key": "credit-constrained-total",
+    "date": "2021-06-15",
+    "value": 0.148,
+    "value_": 14.8
+  },
+  {
+    "geoid": "14460",
+    "key": "credit-constrained-total",
     "date": "2022-06-15",
     "value": 0.146,
     "value_": 14.6
@@ -2112,6 +3729,27 @@
     "date": "2024-06-15",
     "value": 0.15,
     "value_": 15
+  },
+  {
+    "geoid": "15380",
+    "key": "credit-constrained-total",
+    "date": "2019-06-15",
+    "value": 0.215,
+    "value_": 21.50001
+  },
+  {
+    "geoid": "15380",
+    "key": "credit-constrained-total",
+    "date": "2020-06-15",
+    "value": 0.204,
+    "value_": 20.40001
+  },
+  {
+    "geoid": "15380",
+    "key": "credit-constrained-total",
+    "date": "2021-06-15",
+    "value": 0.187,
+    "value_": 18.69999
   },
   {
     "geoid": "15380",
@@ -2137,6 +3775,27 @@
   {
     "geoid": "16740",
     "key": "credit-constrained-total",
+    "date": "2019-06-15",
+    "value": 0.306,
+    "value_": 30.6
+  },
+  {
+    "geoid": "16740",
+    "key": "credit-constrained-total",
+    "date": "2020-06-15",
+    "value": 0.287,
+    "value_": 28.7
+  },
+  {
+    "geoid": "16740",
+    "key": "credit-constrained-total",
+    "date": "2021-06-15",
+    "value": 0.267,
+    "value_": 26.7
+  },
+  {
+    "geoid": "16740",
+    "key": "credit-constrained-total",
     "date": "2022-06-15",
     "value": 0.263,
     "value_": 26.3
@@ -2158,6 +3817,27 @@
   {
     "geoid": "16980",
     "key": "credit-constrained-total",
+    "date": "2019-06-15",
+    "value": 0.234,
+    "value_": 23.4
+  },
+  {
+    "geoid": "16980",
+    "key": "credit-constrained-total",
+    "date": "2020-06-15",
+    "value": 0.223,
+    "value_": 22.3
+  },
+  {
+    "geoid": "16980",
+    "key": "credit-constrained-total",
+    "date": "2021-06-15",
+    "value": 0.203,
+    "value_": 20.3
+  },
+  {
+    "geoid": "16980",
+    "key": "credit-constrained-total",
     "date": "2022-06-15",
     "value": 0.204,
     "value_": 20.4
@@ -2175,6 +3855,27 @@
     "date": "2024-06-15",
     "value": 0.206,
     "value_": 20.6
+  },
+  {
+    "geoid": "17140",
+    "key": "credit-constrained-total",
+    "date": "2019-06-15",
+    "value": 0.253,
+    "value_": 25.3
+  },
+  {
+    "geoid": "17140",
+    "key": "credit-constrained-total",
+    "date": "2020-06-15",
+    "value": 0.239,
+    "value_": 23.9
+  },
+  {
+    "geoid": "17140",
+    "key": "credit-constrained-total",
+    "date": "2021-06-15",
+    "value": 0.218,
+    "value_": 21.80001
   },
   {
     "geoid": "17140",
@@ -2200,6 +3901,27 @@
   {
     "geoid": "17410",
     "key": "credit-constrained-total",
+    "date": "2019-06-15",
+    "value": 0.249,
+    "value_": 24.9
+  },
+  {
+    "geoid": "17410",
+    "key": "credit-constrained-total",
+    "date": "2020-06-15",
+    "value": 0.238,
+    "value_": 23.8
+  },
+  {
+    "geoid": "17410",
+    "key": "credit-constrained-total",
+    "date": "2021-06-15",
+    "value": 0.219,
+    "value_": 21.9
+  },
+  {
+    "geoid": "17410",
+    "key": "credit-constrained-total",
     "date": "2022-06-15",
     "value": 0.219,
     "value_": 21.9
@@ -2221,6 +3943,27 @@
   {
     "geoid": "18140",
     "key": "credit-constrained-total",
+    "date": "2019-06-15",
+    "value": 0.261,
+    "value_": 26.09999
+  },
+  {
+    "geoid": "18140",
+    "key": "credit-constrained-total",
+    "date": "2020-06-15",
+    "value": 0.246,
+    "value_": 24.6
+  },
+  {
+    "geoid": "18140",
+    "key": "credit-constrained-total",
+    "date": "2021-06-15",
+    "value": 0.226,
+    "value_": 22.59999
+  },
+  {
+    "geoid": "18140",
+    "key": "credit-constrained-total",
     "date": "2022-06-15",
     "value": 0.223,
     "value_": 22.3
@@ -2238,6 +3981,27 @@
     "date": "2024-06-15",
     "value": 0.221,
     "value_": 22.1
+  },
+  {
+    "geoid": "19100",
+    "key": "credit-constrained-total",
+    "date": "2019-06-15",
+    "value": 0.305,
+    "value_": 30.5
+  },
+  {
+    "geoid": "19100",
+    "key": "credit-constrained-total",
+    "date": "2020-06-15",
+    "value": 0.291,
+    "value_": 29.1
+  },
+  {
+    "geoid": "19100",
+    "key": "credit-constrained-total",
+    "date": "2021-06-15",
+    "value": 0.27,
+    "value_": 27
   },
   {
     "geoid": "19100",
@@ -2263,6 +4027,27 @@
   {
     "geoid": "19740",
     "key": "credit-constrained-total",
+    "date": "2019-06-15",
+    "value": 0.199,
+    "value_": 19.9
+  },
+  {
+    "geoid": "19740",
+    "key": "credit-constrained-total",
+    "date": "2020-06-15",
+    "value": 0.188,
+    "value_": 18.8
+  },
+  {
+    "geoid": "19740",
+    "key": "credit-constrained-total",
+    "date": "2021-06-15",
+    "value": 0.17,
+    "value_": 17
+  },
+  {
+    "geoid": "19740",
+    "key": "credit-constrained-total",
     "date": "2022-06-15",
     "value": 0.17,
     "value_": 17
@@ -2284,6 +4069,27 @@
   {
     "geoid": "19820",
     "key": "credit-constrained-total",
+    "date": "2019-06-15",
+    "value": 0.249,
+    "value_": 24.9
+  },
+  {
+    "geoid": "19820",
+    "key": "credit-constrained-total",
+    "date": "2020-06-15",
+    "value": 0.234,
+    "value_": 23.4
+  },
+  {
+    "geoid": "19820",
+    "key": "credit-constrained-total",
+    "date": "2021-06-15",
+    "value": 0.213,
+    "value_": 21.3
+  },
+  {
+    "geoid": "19820",
+    "key": "credit-constrained-total",
     "date": "2022-06-15",
     "value": 0.213,
     "value_": 21.3
@@ -2301,6 +4107,27 @@
     "date": "2024-06-15",
     "value": 0.218,
     "value_": 21.8
+  },
+  {
+    "geoid": "23420",
+    "key": "credit-constrained-total",
+    "date": "2019-06-15",
+    "value": 0.279,
+    "value_": 27.89998
+  },
+  {
+    "geoid": "23420",
+    "key": "credit-constrained-total",
+    "date": "2020-06-15",
+    "value": 0.264,
+    "value_": 26.4
+  },
+  {
+    "geoid": "23420",
+    "key": "credit-constrained-total",
+    "date": "2021-06-15",
+    "value": 0.24,
+    "value_": 24
   },
   {
     "geoid": "23420",
@@ -2326,6 +4153,27 @@
   {
     "geoid": "24017",
     "key": "credit-constrained-total",
+    "date": "2019-06-15",
+    "value": 0.33111,
+    "value_": 33.11109
+  },
+  {
+    "geoid": "24017",
+    "key": "credit-constrained-total",
+    "date": "2020-06-15",
+    "value": 0.3204,
+    "value_": 32.04014
+  },
+  {
+    "geoid": "24017",
+    "key": "credit-constrained-total",
+    "date": "2021-06-15",
+    "value": 0.28737,
+    "value_": 28.73656
+  },
+  {
+    "geoid": "24017",
+    "key": "credit-constrained-total",
     "date": "2022-06-15",
     "value": 0.27654,
     "value_": 27.6538
@@ -2343,6 +4191,27 @@
     "date": "2024-06-15",
     "value": 0.28703,
     "value_": 28.70342
+  },
+  {
+    "geoid": "24021",
+    "key": "credit-constrained-total",
+    "date": "2019-06-15",
+    "value": 0.19885,
+    "value_": 19.88549
+  },
+  {
+    "geoid": "24021",
+    "key": "credit-constrained-total",
+    "date": "2020-06-15",
+    "value": 0.18983,
+    "value_": 18.98309
+  },
+  {
+    "geoid": "24021",
+    "key": "credit-constrained-total",
+    "date": "2021-06-15",
+    "value": 0.1683,
+    "value_": 16.82964
   },
   {
     "geoid": "24021",
@@ -2368,6 +4237,27 @@
   {
     "geoid": "24031",
     "key": "credit-constrained-total",
+    "date": "2019-06-15",
+    "value": 0.18274,
+    "value_": 18.27368
+  },
+  {
+    "geoid": "24031",
+    "key": "credit-constrained-total",
+    "date": "2020-06-15",
+    "value": 0.17223,
+    "value_": 17.22284
+  },
+  {
+    "geoid": "24031",
+    "key": "credit-constrained-total",
+    "date": "2021-06-15",
+    "value": 0.15361,
+    "value_": 15.36136
+  },
+  {
+    "geoid": "24031",
+    "key": "credit-constrained-total",
     "date": "2022-06-15",
     "value": 0.15059,
     "value_": 15.05857
@@ -2385,6 +4275,27 @@
     "date": "2024-06-15",
     "value": 0.15498,
     "value_": 15.49835
+  },
+  {
+    "geoid": "24033",
+    "key": "credit-constrained-total",
+    "date": "2019-06-15",
+    "value": 0.38525,
+    "value_": 38.52479
+  },
+  {
+    "geoid": "24033",
+    "key": "credit-constrained-total",
+    "date": "2020-06-15",
+    "value": 0.3667,
+    "value_": 36.67021
+  },
+  {
+    "geoid": "24033",
+    "key": "credit-constrained-total",
+    "date": "2021-06-15",
+    "value": 0.33105,
+    "value_": 33.10472
   },
   {
     "geoid": "24033",
@@ -2410,6 +4321,27 @@
   {
     "geoid": "24340",
     "key": "credit-constrained-total",
+    "date": "2019-06-15",
+    "value": 0.204,
+    "value_": 20.40001
+  },
+  {
+    "geoid": "24340",
+    "key": "credit-constrained-total",
+    "date": "2020-06-15",
+    "value": 0.183,
+    "value_": 18.3
+  },
+  {
+    "geoid": "24340",
+    "key": "credit-constrained-total",
+    "date": "2021-06-15",
+    "value": 0.164,
+    "value_": 16.4
+  },
+  {
+    "geoid": "24340",
+    "key": "credit-constrained-total",
     "date": "2022-06-15",
     "value": 0.163,
     "value_": 16.30002
@@ -2431,6 +4363,27 @@
   {
     "geoid": "26420",
     "key": "credit-constrained-total",
+    "date": "2019-06-15",
+    "value": 0.322,
+    "value_": 32.2
+  },
+  {
+    "geoid": "26420",
+    "key": "credit-constrained-total",
+    "date": "2020-06-15",
+    "value": 0.309,
+    "value_": 30.9
+  },
+  {
+    "geoid": "26420",
+    "key": "credit-constrained-total",
+    "date": "2021-06-15",
+    "value": 0.288,
+    "value_": 28.8
+  },
+  {
+    "geoid": "26420",
+    "key": "credit-constrained-total",
     "date": "2022-06-15",
     "value": 0.289,
     "value_": 28.9
@@ -2448,6 +4401,27 @@
     "date": "2024-06-15",
     "value": 0.296,
     "value_": 29.6
+  },
+  {
+    "geoid": "26900",
+    "key": "credit-constrained-total",
+    "date": "2019-06-15",
+    "value": 0.273,
+    "value_": 27.3
+  },
+  {
+    "geoid": "26900",
+    "key": "credit-constrained-total",
+    "date": "2020-06-15",
+    "value": 0.257,
+    "value_": 25.7
+  },
+  {
+    "geoid": "26900",
+    "key": "credit-constrained-total",
+    "date": "2021-06-15",
+    "value": 0.236,
+    "value_": 23.60001
   },
   {
     "geoid": "26900",
@@ -2473,6 +4447,27 @@
   {
     "geoid": "27260",
     "key": "credit-constrained-total",
+    "date": "2019-06-15",
+    "value": 0.313,
+    "value_": 31.29999
+  },
+  {
+    "geoid": "27260",
+    "key": "credit-constrained-total",
+    "date": "2020-06-15",
+    "value": 0.297,
+    "value_": 29.7
+  },
+  {
+    "geoid": "27260",
+    "key": "credit-constrained-total",
+    "date": "2021-06-15",
+    "value": 0.274,
+    "value_": 27.4
+  },
+  {
+    "geoid": "27260",
+    "key": "credit-constrained-total",
     "date": "2022-06-15",
     "value": 0.273,
     "value_": 27.3
@@ -2490,6 +4485,27 @@
     "date": "2024-06-15",
     "value": 0.27,
     "value_": 27
+  },
+  {
+    "geoid": "28140",
+    "key": "credit-constrained-total",
+    "date": "2019-06-15",
+    "value": 0.248,
+    "value_": 24.79999
+  },
+  {
+    "geoid": "28140",
+    "key": "credit-constrained-total",
+    "date": "2020-06-15",
+    "value": 0.235,
+    "value_": 23.5
+  },
+  {
+    "geoid": "28140",
+    "key": "credit-constrained-total",
+    "date": "2021-06-15",
+    "value": 0.216,
+    "value_": 21.6
   },
   {
     "geoid": "28140",
@@ -2515,6 +4531,27 @@
   {
     "geoid": "29820",
     "key": "credit-constrained-total",
+    "date": "2019-06-15",
+    "value": 0.31,
+    "value_": 31
+  },
+  {
+    "geoid": "29820",
+    "key": "credit-constrained-total",
+    "date": "2020-06-15",
+    "value": 0.295,
+    "value_": 29.49999
+  },
+  {
+    "geoid": "29820",
+    "key": "credit-constrained-total",
+    "date": "2021-06-15",
+    "value": 0.272,
+    "value_": 27.2
+  },
+  {
+    "geoid": "29820",
+    "key": "credit-constrained-total",
     "date": "2022-06-15",
     "value": 0.273,
     "value_": 27.3
@@ -2536,6 +4573,27 @@
   {
     "geoid": "31080",
     "key": "credit-constrained-total",
+    "date": "2019-06-15",
+    "value": 0.228,
+    "value_": 22.8
+  },
+  {
+    "geoid": "31080",
+    "key": "credit-constrained-total",
+    "date": "2020-06-15",
+    "value": 0.216,
+    "value_": 21.6
+  },
+  {
+    "geoid": "31080",
+    "key": "credit-constrained-total",
+    "date": "2021-06-15",
+    "value": 0.187,
+    "value_": 18.7
+  },
+  {
+    "geoid": "31080",
+    "key": "credit-constrained-total",
     "date": "2022-06-15",
     "value": 0.187,
     "value_": 18.7
@@ -2553,6 +4611,27 @@
     "date": "2024-06-15",
     "value": 0.195,
     "value_": 19.5
+  },
+  {
+    "geoid": "32820",
+    "key": "credit-constrained-total",
+    "date": "2019-06-15",
+    "value": 0.387,
+    "value_": 38.7
+  },
+  {
+    "geoid": "32820",
+    "key": "credit-constrained-total",
+    "date": "2020-06-15",
+    "value": 0.374,
+    "value_": 37.40001
+  },
+  {
+    "geoid": "32820",
+    "key": "credit-constrained-total",
+    "date": "2021-06-15",
+    "value": 0.346,
+    "value_": 34.6
   },
   {
     "geoid": "32820",
@@ -2578,6 +4657,27 @@
   {
     "geoid": "33100",
     "key": "credit-constrained-total",
+    "date": "2019-06-15",
+    "value": 0.305,
+    "value_": 30.5
+  },
+  {
+    "geoid": "33100",
+    "key": "credit-constrained-total",
+    "date": "2020-06-15",
+    "value": 0.29,
+    "value_": 29
+  },
+  {
+    "geoid": "33100",
+    "key": "credit-constrained-total",
+    "date": "2021-06-15",
+    "value": 0.262,
+    "value_": 26.2
+  },
+  {
+    "geoid": "33100",
+    "key": "credit-constrained-total",
     "date": "2022-06-15",
     "value": 0.259,
     "value_": 25.9
@@ -2595,6 +4695,27 @@
     "date": "2024-06-15",
     "value": 0.265,
     "value_": 26.5
+  },
+  {
+    "geoid": "33340",
+    "key": "credit-constrained-total",
+    "date": "2019-06-15",
+    "value": 0.209,
+    "value_": 20.9
+  },
+  {
+    "geoid": "33340",
+    "key": "credit-constrained-total",
+    "date": "2020-06-15",
+    "value": 0.194,
+    "value_": 19.40001
+  },
+  {
+    "geoid": "33340",
+    "key": "credit-constrained-total",
+    "date": "2021-06-15",
+    "value": 0.182,
+    "value_": 18.19999
   },
   {
     "geoid": "33340",
@@ -2620,6 +4741,27 @@
   {
     "geoid": "34980",
     "key": "credit-constrained-total",
+    "date": "2019-06-15",
+    "value": 0.27,
+    "value_": 27
+  },
+  {
+    "geoid": "34980",
+    "key": "credit-constrained-total",
+    "date": "2020-06-15",
+    "value": 0.253,
+    "value_": 25.30001
+  },
+  {
+    "geoid": "34980",
+    "key": "credit-constrained-total",
+    "date": "2021-06-15",
+    "value": 0.232,
+    "value_": 23.2
+  },
+  {
+    "geoid": "34980",
+    "key": "credit-constrained-total",
     "date": "2022-06-15",
     "value": 0.224,
     "value_": 22.4
@@ -2641,6 +4783,27 @@
   {
     "geoid": "35620",
     "key": "credit-constrained-total",
+    "date": "2019-06-15",
+    "value": 0.219,
+    "value_": 21.9
+  },
+  {
+    "geoid": "35620",
+    "key": "credit-constrained-total",
+    "date": "2020-06-15",
+    "value": 0.207,
+    "value_": 20.7
+  },
+  {
+    "geoid": "35620",
+    "key": "credit-constrained-total",
+    "date": "2021-06-15",
+    "value": 0.184,
+    "value_": 18.4
+  },
+  {
+    "geoid": "35620",
+    "key": "credit-constrained-total",
     "date": "2022-06-15",
     "value": 0.183,
     "value_": 18.3
@@ -2658,6 +4821,27 @@
     "date": "2024-06-15",
     "value": 0.193,
     "value_": 19.3
+  },
+  {
+    "geoid": "36420",
+    "key": "credit-constrained-total",
+    "date": "2019-06-15",
+    "value": 0.295,
+    "value_": 29.49999
+  },
+  {
+    "geoid": "36420",
+    "key": "credit-constrained-total",
+    "date": "2020-06-15",
+    "value": 0.286,
+    "value_": 28.60001
+  },
+  {
+    "geoid": "36420",
+    "key": "credit-constrained-total",
+    "date": "2021-06-15",
+    "value": 0.266,
+    "value_": 26.6
   },
   {
     "geoid": "36420",
@@ -2683,6 +4867,27 @@
   {
     "geoid": "36540",
     "key": "credit-constrained-total",
+    "date": "2019-06-15",
+    "value": 0.216,
+    "value_": 21.60001
+  },
+  {
+    "geoid": "36540",
+    "key": "credit-constrained-total",
+    "date": "2020-06-15",
+    "value": 0.208,
+    "value_": 20.80002
+  },
+  {
+    "geoid": "36540",
+    "key": "credit-constrained-total",
+    "date": "2021-06-15",
+    "value": 0.184,
+    "value_": 18.4
+  },
+  {
+    "geoid": "36540",
+    "key": "credit-constrained-total",
     "date": "2022-06-15",
     "value": 0.177,
     "value_": 17.70001
@@ -2704,6 +4909,27 @@
   {
     "geoid": "36740",
     "key": "credit-constrained-total",
+    "date": "2019-06-15",
+    "value": 0.316,
+    "value_": 31.6
+  },
+  {
+    "geoid": "36740",
+    "key": "credit-constrained-total",
+    "date": "2020-06-15",
+    "value": 0.302,
+    "value_": 30.2
+  },
+  {
+    "geoid": "36740",
+    "key": "credit-constrained-total",
+    "date": "2021-06-15",
+    "value": 0.276,
+    "value_": 27.6
+  },
+  {
+    "geoid": "36740",
+    "key": "credit-constrained-total",
     "date": "2022-06-15",
     "value": 0.276,
     "value_": 27.6
@@ -2721,6 +4947,27 @@
     "date": "2024-06-15",
     "value": 0.283,
     "value_": 28.3
+  },
+  {
+    "geoid": "37980",
+    "key": "credit-constrained-total",
+    "date": "2019-06-15",
+    "value": 0.246,
+    "value_": 24.6
+  },
+  {
+    "geoid": "37980",
+    "key": "credit-constrained-total",
+    "date": "2020-06-15",
+    "value": 0.233,
+    "value_": 23.3
+  },
+  {
+    "geoid": "37980",
+    "key": "credit-constrained-total",
+    "date": "2021-06-15",
+    "value": 0.209,
+    "value_": 20.9
   },
   {
     "geoid": "37980",
@@ -2746,6 +4993,27 @@
   {
     "geoid": "38060",
     "key": "credit-constrained-total",
+    "date": "2019-06-15",
+    "value": 0.262,
+    "value_": 26.2
+  },
+  {
+    "geoid": "38060",
+    "key": "credit-constrained-total",
+    "date": "2020-06-15",
+    "value": 0.249,
+    "value_": 24.9
+  },
+  {
+    "geoid": "38060",
+    "key": "credit-constrained-total",
+    "date": "2021-06-15",
+    "value": 0.223,
+    "value_": 22.3
+  },
+  {
+    "geoid": "38060",
+    "key": "credit-constrained-total",
     "date": "2022-06-15",
     "value": 0.22,
     "value_": 22
@@ -2763,6 +5031,27 @@
     "date": "2024-06-15",
     "value": 0.227,
     "value_": 22.7
+  },
+  {
+    "geoid": "38300",
+    "key": "credit-constrained-total",
+    "date": "2019-06-15",
+    "value": 0.21,
+    "value_": 21
+  },
+  {
+    "geoid": "38300",
+    "key": "credit-constrained-total",
+    "date": "2020-06-15",
+    "value": 0.2,
+    "value_": 20
+  },
+  {
+    "geoid": "38300",
+    "key": "credit-constrained-total",
+    "date": "2021-06-15",
+    "value": 0.18,
+    "value_": 18
   },
   {
     "geoid": "38300",
@@ -2788,6 +5077,27 @@
   {
     "geoid": "38900",
     "key": "credit-constrained-total",
+    "date": "2019-06-15",
+    "value": 0.193,
+    "value_": 19.30001
+  },
+  {
+    "geoid": "38900",
+    "key": "credit-constrained-total",
+    "date": "2020-06-15",
+    "value": 0.177,
+    "value_": 17.7
+  },
+  {
+    "geoid": "38900",
+    "key": "credit-constrained-total",
+    "date": "2021-06-15",
+    "value": 0.156,
+    "value_": 15.60001
+  },
+  {
+    "geoid": "38900",
+    "key": "credit-constrained-total",
     "date": "2022-06-15",
     "value": 0.15,
     "value_": 15
@@ -2805,6 +5115,27 @@
     "date": "2024-06-15",
     "value": 0.155,
     "value_": 15.5
+  },
+  {
+    "geoid": "39300",
+    "key": "credit-constrained-total",
+    "date": "2019-06-15",
+    "value": 0.232,
+    "value_": 23.2
+  },
+  {
+    "geoid": "39300",
+    "key": "credit-constrained-total",
+    "date": "2020-06-15",
+    "value": 0.22,
+    "value_": 22
+  },
+  {
+    "geoid": "39300",
+    "key": "credit-constrained-total",
+    "date": "2021-06-15",
+    "value": 0.196,
+    "value_": 19.59999
   },
   {
     "geoid": "39300",
@@ -2830,6 +5161,27 @@
   {
     "geoid": "39580",
     "key": "credit-constrained-total",
+    "date": "2019-06-15",
+    "value": 0.252,
+    "value_": 25.2
+  },
+  {
+    "geoid": "39580",
+    "key": "credit-constrained-total",
+    "date": "2020-06-15",
+    "value": 0.239,
+    "value_": 23.89999
+  },
+  {
+    "geoid": "39580",
+    "key": "credit-constrained-total",
+    "date": "2021-06-15",
+    "value": 0.218,
+    "value_": 21.79999
+  },
+  {
+    "geoid": "39580",
+    "key": "credit-constrained-total",
     "date": "2022-06-15",
     "value": 0.213,
     "value_": 21.3
@@ -2847,6 +5199,27 @@
     "date": "2024-06-15",
     "value": 0.209,
     "value_": 20.9
+  },
+  {
+    "geoid": "40060",
+    "key": "credit-constrained-total",
+    "date": "2019-06-15",
+    "value": 0.273,
+    "value_": 27.29999
+  },
+  {
+    "geoid": "40060",
+    "key": "credit-constrained-total",
+    "date": "2020-06-15",
+    "value": 0.258,
+    "value_": 25.79999
+  },
+  {
+    "geoid": "40060",
+    "key": "credit-constrained-total",
+    "date": "2021-06-15",
+    "value": 0.239,
+    "value_": 23.89999
   },
   {
     "geoid": "40060",
@@ -2872,6 +5245,27 @@
   {
     "geoid": "40140",
     "key": "credit-constrained-total",
+    "date": "2019-06-15",
+    "value": 0.303,
+    "value_": 30.3
+  },
+  {
+    "geoid": "40140",
+    "key": "credit-constrained-total",
+    "date": "2020-06-15",
+    "value": 0.292,
+    "value_": 29.2
+  },
+  {
+    "geoid": "40140",
+    "key": "credit-constrained-total",
+    "date": "2021-06-15",
+    "value": 0.25,
+    "value_": 25
+  },
+  {
+    "geoid": "40140",
+    "key": "credit-constrained-total",
     "date": "2022-06-15",
     "value": 0.25,
     "value_": 25
@@ -2889,6 +5283,27 @@
     "date": "2024-06-15",
     "value": 0.261,
     "value_": 26.1
+  },
+  {
+    "geoid": "40380",
+    "key": "credit-constrained-total",
+    "date": "2019-06-15",
+    "value": 0.225,
+    "value_": 22.5
+  },
+  {
+    "geoid": "40380",
+    "key": "credit-constrained-total",
+    "date": "2020-06-15",
+    "value": 0.213,
+    "value_": 21.30001
+  },
+  {
+    "geoid": "40380",
+    "key": "credit-constrained-total",
+    "date": "2021-06-15",
+    "value": 0.193,
+    "value_": 19.30001
   },
   {
     "geoid": "40380",
@@ -2914,6 +5329,27 @@
   {
     "geoid": "40900",
     "key": "credit-constrained-total",
+    "date": "2019-06-15",
+    "value": 0.213,
+    "value_": 21.3
+  },
+  {
+    "geoid": "40900",
+    "key": "credit-constrained-total",
+    "date": "2020-06-15",
+    "value": 0.198,
+    "value_": 19.8
+  },
+  {
+    "geoid": "40900",
+    "key": "credit-constrained-total",
+    "date": "2021-06-15",
+    "value": 0.177,
+    "value_": 17.7
+  },
+  {
+    "geoid": "40900",
+    "key": "credit-constrained-total",
     "date": "2022-06-15",
     "value": 0.178,
     "value_": 17.8
@@ -2931,6 +5367,27 @@
     "date": "2024-06-15",
     "value": 0.183,
     "value_": 18.3
+  },
+  {
+    "geoid": "41620",
+    "key": "credit-constrained-total",
+    "date": "2019-06-15",
+    "value": 0.209,
+    "value_": 20.89999
+  },
+  {
+    "geoid": "41620",
+    "key": "credit-constrained-total",
+    "date": "2020-06-15",
+    "value": 0.196,
+    "value_": 19.60001
+  },
+  {
+    "geoid": "41620",
+    "key": "credit-constrained-total",
+    "date": "2021-06-15",
+    "value": 0.179,
+    "value_": 17.9
   },
   {
     "geoid": "41620",
@@ -2956,6 +5413,27 @@
   {
     "geoid": "41700",
     "key": "credit-constrained-total",
+    "date": "2019-06-15",
+    "value": 0.344,
+    "value_": 34.4
+  },
+  {
+    "geoid": "41700",
+    "key": "credit-constrained-total",
+    "date": "2020-06-15",
+    "value": 0.327,
+    "value_": 32.69999
+  },
+  {
+    "geoid": "41700",
+    "key": "credit-constrained-total",
+    "date": "2021-06-15",
+    "value": 0.3,
+    "value_": 30
+  },
+  {
+    "geoid": "41700",
+    "key": "credit-constrained-total",
     "date": "2022-06-15",
     "value": 0.297,
     "value_": 29.7
@@ -2973,6 +5451,27 @@
     "date": "2024-06-15",
     "value": 0.297,
     "value_": 29.69999
+  },
+  {
+    "geoid": "41740",
+    "key": "credit-constrained-total",
+    "date": "2019-06-15",
+    "value": 0.209,
+    "value_": 20.9
+  },
+  {
+    "geoid": "41740",
+    "key": "credit-constrained-total",
+    "date": "2020-06-15",
+    "value": 0.194,
+    "value_": 19.40001
+  },
+  {
+    "geoid": "41740",
+    "key": "credit-constrained-total",
+    "date": "2021-06-15",
+    "value": 0.171,
+    "value_": 17.1
   },
   {
     "geoid": "41740",
@@ -2998,6 +5497,27 @@
   {
     "geoid": "41860",
     "key": "credit-constrained-total",
+    "date": "2019-06-15",
+    "value": 0.148,
+    "value_": 14.8
+  },
+  {
+    "geoid": "41860",
+    "key": "credit-constrained-total",
+    "date": "2020-06-15",
+    "value": 0.139,
+    "value_": 13.9
+  },
+  {
+    "geoid": "41860",
+    "key": "credit-constrained-total",
+    "date": "2021-06-15",
+    "value": 0.124,
+    "value_": 12.4
+  },
+  {
+    "geoid": "41860",
+    "key": "credit-constrained-total",
     "date": "2022-06-15",
     "value": 0.125,
     "value_": 12.5
@@ -3015,6 +5535,27 @@
     "date": "2024-06-15",
     "value": 0.131,
     "value_": 13.1
+  },
+  {
+    "geoid": "41940",
+    "key": "credit-constrained-total",
+    "date": "2019-06-15",
+    "value": 0.138,
+    "value_": 13.8
+  },
+  {
+    "geoid": "41940",
+    "key": "credit-constrained-total",
+    "date": "2020-06-15",
+    "value": 0.126,
+    "value_": 12.6
+  },
+  {
+    "geoid": "41940",
+    "key": "credit-constrained-total",
+    "date": "2021-06-15",
+    "value": 0.113,
+    "value_": 11.3
   },
   {
     "geoid": "41940",
@@ -3040,6 +5581,27 @@
   {
     "geoid": "42660",
     "key": "credit-constrained-total",
+    "date": "2019-06-15",
+    "value": 0.178,
+    "value_": 17.8
+  },
+  {
+    "geoid": "42660",
+    "key": "credit-constrained-total",
+    "date": "2020-06-15",
+    "value": 0.163,
+    "value_": 16.3
+  },
+  {
+    "geoid": "42660",
+    "key": "credit-constrained-total",
+    "date": "2021-06-15",
+    "value": 0.145,
+    "value_": 14.5
+  },
+  {
+    "geoid": "42660",
+    "key": "credit-constrained-total",
     "date": "2022-06-15",
     "value": 0.143,
     "value_": 14.3
@@ -3057,6 +5619,27 @@
     "date": "2024-06-15",
     "value": 0.145,
     "value_": 14.5
+  },
+  {
+    "geoid": "46060",
+    "key": "credit-constrained-total",
+    "date": "2019-06-15",
+    "value": 0.248,
+    "value_": 24.80001
+  },
+  {
+    "geoid": "46060",
+    "key": "credit-constrained-total",
+    "date": "2020-06-15",
+    "value": 0.236,
+    "value_": 23.6
+  },
+  {
+    "geoid": "46060",
+    "key": "credit-constrained-total",
+    "date": "2021-06-15",
+    "value": 0.213,
+    "value_": 21.30001
   },
   {
     "geoid": "46060",
@@ -3082,6 +5665,27 @@
   {
     "geoid": "46140",
     "key": "credit-constrained-total",
+    "date": "2019-06-15",
+    "value": 0.302,
+    "value_": 30.2
+  },
+  {
+    "geoid": "46140",
+    "key": "credit-constrained-total",
+    "date": "2020-06-15",
+    "value": 0.289,
+    "value_": 28.89998
+  },
+  {
+    "geoid": "46140",
+    "key": "credit-constrained-total",
+    "date": "2021-06-15",
+    "value": 0.268,
+    "value_": 26.8
+  },
+  {
+    "geoid": "46140",
+    "key": "credit-constrained-total",
     "date": "2022-06-15",
     "value": 0.267,
     "value_": 26.7
@@ -3099,6 +5703,27 @@
     "date": "2024-06-15",
     "value": 0.265,
     "value_": 26.5
+  },
+  {
+    "geoid": "47260",
+    "key": "credit-constrained-total",
+    "date": "2019-06-15",
+    "value": 0.315,
+    "value_": 31.50001
+  },
+  {
+    "geoid": "47260",
+    "key": "credit-constrained-total",
+    "date": "2020-06-15",
+    "value": 0.3,
+    "value_": 30
+  },
+  {
+    "geoid": "47260",
+    "key": "credit-constrained-total",
+    "date": "2021-06-15",
+    "value": 0.274,
+    "value_": 27.4
   },
   {
     "geoid": "47260",
@@ -3124,6 +5749,27 @@
   {
     "geoid": "47900",
     "key": "credit-constrained-total",
+    "date": "2019-06-15",
+    "value": 0.224,
+    "value_": 22.4
+  },
+  {
+    "geoid": "47900",
+    "key": "credit-constrained-total",
+    "date": "2020-06-15",
+    "value": 0.21,
+    "value_": 21
+  },
+  {
+    "geoid": "47900",
+    "key": "credit-constrained-total",
+    "date": "2021-06-15",
+    "value": 0.189,
+    "value_": 18.9
+  },
+  {
+    "geoid": "47900",
+    "key": "credit-constrained-total",
     "date": "2022-06-15",
     "value": 0.186,
     "value_": 18.6
@@ -3141,6 +5787,27 @@
     "date": "2024-06-15",
     "value": 0.189,
     "value_": 18.9
+  },
+  {
+    "geoid": "51013",
+    "key": "credit-constrained-total",
+    "date": "2019-06-15",
+    "value": 0.12624,
+    "value_": 12.62381
+  },
+  {
+    "geoid": "51013",
+    "key": "credit-constrained-total",
+    "date": "2020-06-15",
+    "value": 0.11341,
+    "value_": 11.34107
+  },
+  {
+    "geoid": "51013",
+    "key": "credit-constrained-total",
+    "date": "2021-06-15",
+    "value": 0.10492,
+    "value_": 10.49233
   },
   {
     "geoid": "51013",
@@ -3166,6 +5833,27 @@
   {
     "geoid": "51043",
     "key": "credit-constrained-total",
+    "date": "2019-06-15",
+    "value": 0.16617,
+    "value_": 16.61731
+  },
+  {
+    "geoid": "51043",
+    "key": "credit-constrained-total",
+    "date": "2020-06-15",
+    "value": 0.14536,
+    "value_": 14.53644
+  },
+  {
+    "geoid": "51043",
+    "key": "credit-constrained-total",
+    "date": "2021-06-15",
+    "value": 0.12825,
+    "value_": 12.82454
+  },
+  {
+    "geoid": "51043",
+    "key": "credit-constrained-total",
     "date": "2022-06-15",
     "value": 0.14773,
     "value_": 14.77307
@@ -3183,6 +5871,27 @@
     "date": "2024-06-15",
     "value": 0.16089,
     "value_": 16.08868
+  },
+  {
+    "geoid": "51047",
+    "key": "credit-constrained-total",
+    "date": "2019-06-15",
+    "value": 0.29124,
+    "value_": 29.12359
+  },
+  {
+    "geoid": "51047",
+    "key": "credit-constrained-total",
+    "date": "2020-06-15",
+    "value": 0.27893,
+    "value_": 27.89293
+  },
+  {
+    "geoid": "51047",
+    "key": "credit-constrained-total",
+    "date": "2021-06-15",
+    "value": 0.25794,
+    "value_": 25.79353
   },
   {
     "geoid": "51047",
@@ -3208,6 +5917,27 @@
   {
     "geoid": "51059",
     "key": "credit-constrained-total",
+    "date": "2019-06-15",
+    "value": 0.14404,
+    "value_": 14.40425
+  },
+  {
+    "geoid": "51059",
+    "key": "credit-constrained-total",
+    "date": "2020-06-15",
+    "value": 0.13173,
+    "value_": 13.17292
+  },
+  {
+    "geoid": "51059",
+    "key": "credit-constrained-total",
+    "date": "2021-06-15",
+    "value": 0.11836,
+    "value_": 11.83624
+  },
+  {
+    "geoid": "51059",
+    "key": "credit-constrained-total",
     "date": "2022-06-15",
     "value": 0.11437,
     "value_": 11.43659
@@ -3225,6 +5955,27 @@
     "date": "2024-06-15",
     "value": 0.11971,
     "value_": 11.97099
+  },
+  {
+    "geoid": "51061",
+    "key": "credit-constrained-total",
+    "date": "2019-06-15",
+    "value": 0.18631,
+    "value_": 18.63063
+  },
+  {
+    "geoid": "51061",
+    "key": "credit-constrained-total",
+    "date": "2020-06-15",
+    "value": 0.18038,
+    "value_": 18.03776
+  },
+  {
+    "geoid": "51061",
+    "key": "credit-constrained-total",
+    "date": "2021-06-15",
+    "value": 0.16226,
+    "value_": 16.22559
   },
   {
     "geoid": "51061",
@@ -3250,6 +6001,27 @@
   {
     "geoid": "51107",
     "key": "credit-constrained-total",
+    "date": "2019-06-15",
+    "value": 0.15426,
+    "value_": 15.42642
+  },
+  {
+    "geoid": "51107",
+    "key": "credit-constrained-total",
+    "date": "2020-06-15",
+    "value": 0.13954,
+    "value_": 13.9545
+  },
+  {
+    "geoid": "51107",
+    "key": "credit-constrained-total",
+    "date": "2021-06-15",
+    "value": 0.12015,
+    "value_": 12.01496
+  },
+  {
+    "geoid": "51107",
+    "key": "credit-constrained-total",
     "date": "2022-06-15",
     "value": 0.11642,
     "value_": 11.6418
@@ -3267,6 +6039,27 @@
     "date": "2024-06-15",
     "value": 0.11582,
     "value_": 11.58224
+  },
+  {
+    "geoid": "51153",
+    "key": "credit-constrained-total",
+    "date": "2019-06-15",
+    "value": 0.25598,
+    "value_": 25.59835
+  },
+  {
+    "geoid": "51153",
+    "key": "credit-constrained-total",
+    "date": "2020-06-15",
+    "value": 0.24323,
+    "value_": 24.32251
+  },
+  {
+    "geoid": "51153",
+    "key": "credit-constrained-total",
+    "date": "2021-06-15",
+    "value": 0.21562,
+    "value_": 21.56156
   },
   {
     "geoid": "51153",
@@ -3292,6 +6085,27 @@
   {
     "geoid": "51157",
     "key": "credit-constrained-total",
+    "date": "2019-06-15",
+    "value": 0.19407,
+    "value_": 19.40713
+  },
+  {
+    "geoid": "51157",
+    "key": "credit-constrained-total",
+    "date": "2020-06-15",
+    "value": 0.15334,
+    "value_": 15.33402
+  },
+  {
+    "geoid": "51157",
+    "key": "credit-constrained-total",
+    "date": "2021-06-15",
+    "value": 0.1278,
+    "value_": 12.78049
+  },
+  {
+    "geoid": "51157",
+    "key": "credit-constrained-total",
     "date": "2022-06-15",
     "value": 0.13167,
     "value_": 13.16716
@@ -3309,6 +6123,27 @@
     "date": "2024-06-15",
     "value": 0.15987,
     "value_": 15.98721
+  },
+  {
+    "geoid": "51177",
+    "key": "credit-constrained-total",
+    "date": "2019-06-15",
+    "value": 0.28259,
+    "value_": 28.25903
+  },
+  {
+    "geoid": "51177",
+    "key": "credit-constrained-total",
+    "date": "2020-06-15",
+    "value": 0.26013,
+    "value_": 26.01268
+  },
+  {
+    "geoid": "51177",
+    "key": "credit-constrained-total",
+    "date": "2021-06-15",
+    "value": 0.23807,
+    "value_": 23.80695
   },
   {
     "geoid": "51177",
@@ -3334,6 +6169,27 @@
   {
     "geoid": "51179",
     "key": "credit-constrained-total",
+    "date": "2019-06-15",
+    "value": 0.25763,
+    "value_": 25.76317
+  },
+  {
+    "geoid": "51179",
+    "key": "credit-constrained-total",
+    "date": "2020-06-15",
+    "value": 0.23835,
+    "value_": 23.83546
+  },
+  {
+    "geoid": "51179",
+    "key": "credit-constrained-total",
+    "date": "2021-06-15",
+    "value": 0.21097,
+    "value_": 21.0968
+  },
+  {
+    "geoid": "51179",
+    "key": "credit-constrained-total",
     "date": "2022-06-15",
     "value": 0.20771,
     "value_": 20.77121
@@ -3351,6 +6207,27 @@
     "date": "2024-06-15",
     "value": 0.21098,
     "value_": 21.09776
+  },
+  {
+    "geoid": "51187",
+    "key": "credit-constrained-total",
+    "date": "2019-06-15",
+    "value": 0.26395,
+    "value_": 26.39482
+  },
+  {
+    "geoid": "51187",
+    "key": "credit-constrained-total",
+    "date": "2020-06-15",
+    "value": 0.24418,
+    "value_": 24.41759
+  },
+  {
+    "geoid": "51187",
+    "key": "credit-constrained-total",
+    "date": "2021-06-15",
+    "value": 0.23498,
+    "value_": 23.49831
   },
   {
     "geoid": "51187",
@@ -3376,6 +6253,27 @@
   {
     "geoid": "51510",
     "key": "credit-constrained-total",
+    "date": "2019-06-15",
+    "value": 0.19111,
+    "value_": 19.11056
+  },
+  {
+    "geoid": "51510",
+    "key": "credit-constrained-total",
+    "date": "2020-06-15",
+    "value": 0.17668,
+    "value_": 17.66806
+  },
+  {
+    "geoid": "51510",
+    "key": "credit-constrained-total",
+    "date": "2021-06-15",
+    "value": 0.16684,
+    "value_": 16.68449
+  },
+  {
+    "geoid": "51510",
+    "key": "credit-constrained-total",
     "date": "2022-06-15",
     "value": 0.16922,
     "value_": 16.92181
@@ -3393,6 +6291,27 @@
     "date": "2024-06-15",
     "value": 0.16959,
     "value_": 16.95894
+  },
+  {
+    "geoid": "51630",
+    "key": "credit-constrained-total",
+    "date": "2019-06-15",
+    "value": 0.31211,
+    "value_": 31.21123
+  },
+  {
+    "geoid": "51630",
+    "key": "credit-constrained-total",
+    "date": "2020-06-15",
+    "value": 0.29955,
+    "value_": 29.95455
+  },
+  {
+    "geoid": "51630",
+    "key": "credit-constrained-total",
+    "date": "2021-06-15",
+    "value": 0.2861,
+    "value_": 28.6098
   },
   {
     "geoid": "51630",
@@ -3418,6 +6337,27 @@
   {
     "geoid": "54037",
     "key": "credit-constrained-total",
+    "date": "2019-06-15",
+    "value": 0.28632,
+    "value_": 28.63249
+  },
+  {
+    "geoid": "54037",
+    "key": "credit-constrained-total",
+    "date": "2020-06-15",
+    "value": 0.2651,
+    "value_": 26.51048
+  },
+  {
+    "geoid": "54037",
+    "key": "credit-constrained-total",
+    "date": "2021-06-15",
+    "value": 0.24608,
+    "value_": 24.6081
+  },
+  {
+    "geoid": "54037",
+    "key": "credit-constrained-total",
     "date": "2022-06-15",
     "value": 0.24089,
     "value_": 24.08933
@@ -3435,6 +6375,27 @@
     "date": "2024-06-15",
     "value": 0.21746,
     "value_": 21.74592
+  },
+  {
+    "geoid": "99997",
+    "key": "credit-constrained-total",
+    "date": "2019-06-15",
+    "value": 0.24979,
+    "value_": 24.97854
+  },
+  {
+    "geoid": "99997",
+    "key": "credit-constrained-total",
+    "date": "2020-06-15",
+    "value": 0.23678,
+    "value_": 23.67785
+  },
+  {
+    "geoid": "99997",
+    "key": "credit-constrained-total",
+    "date": "2021-06-15",
+    "value": 0.21448,
+    "value_": 21.44756
   },
   {
     "geoid": "99997",
@@ -3460,6 +6421,27 @@
   {
     "geoid": "99999",
     "key": "credit-constrained-total",
+    "date": "2019-06-15",
+    "value": 0.257,
+    "value_": 25.7
+  },
+  {
+    "geoid": "99999",
+    "key": "credit-constrained-total",
+    "date": "2020-06-15",
+    "value": 0.244,
+    "value_": 24.4
+  },
+  {
+    "geoid": "99999",
+    "key": "credit-constrained-total",
+    "date": "2021-06-15",
+    "value": 0.222,
+    "value_": 22.2
+  },
+  {
+    "geoid": "99999",
+    "key": "credit-constrained-total",
     "date": "2022-06-15",
     "value": 0.22,
     "value_": 22
@@ -3477,6 +6459,27 @@
     "date": "2024-06-15",
     "value": 0.222,
     "value_": 22.2
+  },
+  {
+    "geoid": "11001",
+    "key": "credit-constrained-total",
+    "date": "2019-09-15",
+    "value": 0.26262,
+    "value_": 26.26174
+  },
+  {
+    "geoid": "11001",
+    "key": "credit-constrained-total",
+    "date": "2020-09-15",
+    "value": 0.24224,
+    "value_": 24.22379
+  },
+  {
+    "geoid": "11001",
+    "key": "credit-constrained-total",
+    "date": "2021-09-15",
+    "value": 0.22435,
+    "value_": 22.43452
   },
   {
     "geoid": "11001",
@@ -3502,6 +6505,27 @@
   {
     "geoid": "12060",
     "key": "credit-constrained-total",
+    "date": "2019-09-15",
+    "value": 0.331,
+    "value_": 33.1
+  },
+  {
+    "geoid": "12060",
+    "key": "credit-constrained-total",
+    "date": "2020-09-15",
+    "value": 0.311,
+    "value_": 31.1
+  },
+  {
+    "geoid": "12060",
+    "key": "credit-constrained-total",
+    "date": "2021-09-15",
+    "value": 0.292,
+    "value_": 29.2
+  },
+  {
+    "geoid": "12060",
+    "key": "credit-constrained-total",
     "date": "2022-09-15",
     "value": 0.291,
     "value_": 29.1
@@ -3523,6 +6547,27 @@
   {
     "geoid": "12420",
     "key": "credit-constrained-total",
+    "date": "2019-09-15",
+    "value": 0.261,
+    "value_": 26.1
+  },
+  {
+    "geoid": "12420",
+    "key": "credit-constrained-total",
+    "date": "2020-09-15",
+    "value": 0.241,
+    "value_": 24.1
+  },
+  {
+    "geoid": "12420",
+    "key": "credit-constrained-total",
+    "date": "2021-09-15",
+    "value": 0.224,
+    "value_": 22.4
+  },
+  {
+    "geoid": "12420",
+    "key": "credit-constrained-total",
     "date": "2022-09-15",
     "value": 0.22,
     "value_": 22
@@ -3540,6 +6585,27 @@
     "date": "2024-09-15",
     "value": 0.222,
     "value_": 22.2
+  },
+  {
+    "geoid": "12580",
+    "key": "credit-constrained-total",
+    "date": "2019-09-15",
+    "value": 0.256,
+    "value_": 25.6
+  },
+  {
+    "geoid": "12580",
+    "key": "credit-constrained-total",
+    "date": "2020-09-15",
+    "value": 0.239,
+    "value_": 23.9
+  },
+  {
+    "geoid": "12580",
+    "key": "credit-constrained-total",
+    "date": "2021-09-15",
+    "value": 0.223,
+    "value_": 22.3
   },
   {
     "geoid": "12580",
@@ -3565,6 +6631,27 @@
   {
     "geoid": "13820",
     "key": "credit-constrained-total",
+    "date": "2019-09-15",
+    "value": 0.318,
+    "value_": 31.8
+  },
+  {
+    "geoid": "13820",
+    "key": "credit-constrained-total",
+    "date": "2020-09-15",
+    "value": 0.302,
+    "value_": 30.2
+  },
+  {
+    "geoid": "13820",
+    "key": "credit-constrained-total",
+    "date": "2021-09-15",
+    "value": 0.282,
+    "value_": 28.20001
+  },
+  {
+    "geoid": "13820",
+    "key": "credit-constrained-total",
     "date": "2022-09-15",
     "value": 0.281,
     "value_": 28.1
@@ -3582,6 +6669,27 @@
     "date": "2024-09-15",
     "value": 0.284,
     "value_": 28.39999
+  },
+  {
+    "geoid": "14460",
+    "key": "credit-constrained-total",
+    "date": "2019-09-15",
+    "value": 0.182,
+    "value_": 18.2
+  },
+  {
+    "geoid": "14460",
+    "key": "credit-constrained-total",
+    "date": "2020-09-15",
+    "value": 0.164,
+    "value_": 16.4
+  },
+  {
+    "geoid": "14460",
+    "key": "credit-constrained-total",
+    "date": "2021-09-15",
+    "value": 0.149,
+    "value_": 14.9
   },
   {
     "geoid": "14460",
@@ -3607,6 +6715,27 @@
   {
     "geoid": "15380",
     "key": "credit-constrained-total",
+    "date": "2019-09-15",
+    "value": 0.217,
+    "value_": 21.70001
+  },
+  {
+    "geoid": "15380",
+    "key": "credit-constrained-total",
+    "date": "2020-09-15",
+    "value": 0.2,
+    "value_": 20
+  },
+  {
+    "geoid": "15380",
+    "key": "credit-constrained-total",
+    "date": "2021-09-15",
+    "value": 0.187,
+    "value_": 18.69999
+  },
+  {
+    "geoid": "15380",
+    "key": "credit-constrained-total",
     "date": "2022-09-15",
     "value": 0.187,
     "value_": 18.7
@@ -3624,6 +6753,27 @@
     "date": "2024-09-15",
     "value": 0.191,
     "value_": 19.1
+  },
+  {
+    "geoid": "16740",
+    "key": "credit-constrained-total",
+    "date": "2019-09-15",
+    "value": 0.307,
+    "value_": 30.7
+  },
+  {
+    "geoid": "16740",
+    "key": "credit-constrained-total",
+    "date": "2020-09-15",
+    "value": 0.285,
+    "value_": 28.5
+  },
+  {
+    "geoid": "16740",
+    "key": "credit-constrained-total",
+    "date": "2021-09-15",
+    "value": 0.268,
+    "value_": 26.80001
   },
   {
     "geoid": "16740",
@@ -3649,6 +6799,27 @@
   {
     "geoid": "16980",
     "key": "credit-constrained-total",
+    "date": "2019-09-15",
+    "value": 0.237,
+    "value_": 23.7
+  },
+  {
+    "geoid": "16980",
+    "key": "credit-constrained-total",
+    "date": "2020-09-15",
+    "value": 0.221,
+    "value_": 22.1
+  },
+  {
+    "geoid": "16980",
+    "key": "credit-constrained-total",
+    "date": "2021-09-15",
+    "value": 0.204,
+    "value_": 20.4
+  },
+  {
+    "geoid": "16980",
+    "key": "credit-constrained-total",
     "date": "2022-09-15",
     "value": 0.206,
     "value_": 20.6
@@ -3666,6 +6837,27 @@
     "date": "2024-09-15",
     "value": 0.21,
     "value_": 21
+  },
+  {
+    "geoid": "17140",
+    "key": "credit-constrained-total",
+    "date": "2019-09-15",
+    "value": 0.256,
+    "value_": 25.59999
+  },
+  {
+    "geoid": "17140",
+    "key": "credit-constrained-total",
+    "date": "2020-09-15",
+    "value": 0.237,
+    "value_": 23.7
+  },
+  {
+    "geoid": "17140",
+    "key": "credit-constrained-total",
+    "date": "2021-09-15",
+    "value": 0.217,
+    "value_": 21.7
   },
   {
     "geoid": "17140",
@@ -3691,6 +6883,27 @@
   {
     "geoid": "17410",
     "key": "credit-constrained-total",
+    "date": "2019-09-15",
+    "value": 0.255,
+    "value_": 25.5
+  },
+  {
+    "geoid": "17410",
+    "key": "credit-constrained-total",
+    "date": "2020-09-15",
+    "value": 0.236,
+    "value_": 23.6
+  },
+  {
+    "geoid": "17410",
+    "key": "credit-constrained-total",
+    "date": "2021-09-15",
+    "value": 0.221,
+    "value_": 22.1
+  },
+  {
+    "geoid": "17410",
+    "key": "credit-constrained-total",
     "date": "2022-09-15",
     "value": 0.223,
     "value_": 22.3
@@ -3708,6 +6921,27 @@
     "date": "2024-09-15",
     "value": 0.225,
     "value_": 22.5
+  },
+  {
+    "geoid": "18140",
+    "key": "credit-constrained-total",
+    "date": "2019-09-15",
+    "value": 0.265,
+    "value_": 26.5
+  },
+  {
+    "geoid": "18140",
+    "key": "credit-constrained-total",
+    "date": "2020-09-15",
+    "value": 0.243,
+    "value_": 24.29999
+  },
+  {
+    "geoid": "18140",
+    "key": "credit-constrained-total",
+    "date": "2021-09-15",
+    "value": 0.227,
+    "value_": 22.7
   },
   {
     "geoid": "18140",
@@ -3733,6 +6967,27 @@
   {
     "geoid": "19100",
     "key": "credit-constrained-total",
+    "date": "2019-09-15",
+    "value": 0.308,
+    "value_": 30.8
+  },
+  {
+    "geoid": "19100",
+    "key": "credit-constrained-total",
+    "date": "2020-09-15",
+    "value": 0.288,
+    "value_": 28.8
+  },
+  {
+    "geoid": "19100",
+    "key": "credit-constrained-total",
+    "date": "2021-09-15",
+    "value": 0.27,
+    "value_": 27
+  },
+  {
+    "geoid": "19100",
+    "key": "credit-constrained-total",
     "date": "2022-09-15",
     "value": 0.269,
     "value_": 26.9
@@ -3750,6 +7005,27 @@
     "date": "2024-09-15",
     "value": 0.274,
     "value_": 27.4
+  },
+  {
+    "geoid": "19740",
+    "key": "credit-constrained-total",
+    "date": "2019-09-15",
+    "value": 0.199,
+    "value_": 19.9
+  },
+  {
+    "geoid": "19740",
+    "key": "credit-constrained-total",
+    "date": "2020-09-15",
+    "value": 0.183,
+    "value_": 18.3
+  },
+  {
+    "geoid": "19740",
+    "key": "credit-constrained-total",
+    "date": "2021-09-15",
+    "value": 0.171,
+    "value_": 17.1
   },
   {
     "geoid": "19740",
@@ -3775,6 +7051,27 @@
   {
     "geoid": "19820",
     "key": "credit-constrained-total",
+    "date": "2019-09-15",
+    "value": 0.25,
+    "value_": 25
+  },
+  {
+    "geoid": "19820",
+    "key": "credit-constrained-total",
+    "date": "2020-09-15",
+    "value": 0.23,
+    "value_": 23
+  },
+  {
+    "geoid": "19820",
+    "key": "credit-constrained-total",
+    "date": "2021-09-15",
+    "value": 0.214,
+    "value_": 21.40001
+  },
+  {
+    "geoid": "19820",
+    "key": "credit-constrained-total",
     "date": "2022-09-15",
     "value": 0.217,
     "value_": 21.7
@@ -3792,6 +7089,27 @@
     "date": "2024-09-15",
     "value": 0.223,
     "value_": 22.3
+  },
+  {
+    "geoid": "23420",
+    "key": "credit-constrained-total",
+    "date": "2019-09-15",
+    "value": 0.281,
+    "value_": 28.10001
+  },
+  {
+    "geoid": "23420",
+    "key": "credit-constrained-total",
+    "date": "2020-09-15",
+    "value": 0.257,
+    "value_": 25.7
+  },
+  {
+    "geoid": "23420",
+    "key": "credit-constrained-total",
+    "date": "2021-09-15",
+    "value": 0.239,
+    "value_": 23.9
   },
   {
     "geoid": "23420",
@@ -3817,6 +7135,27 @@
   {
     "geoid": "24017",
     "key": "credit-constrained-total",
+    "date": "2019-09-15",
+    "value": 0.33434,
+    "value_": 33.43441
+  },
+  {
+    "geoid": "24017",
+    "key": "credit-constrained-total",
+    "date": "2020-09-15",
+    "value": 0.31327,
+    "value_": 31.32726
+  },
+  {
+    "geoid": "24017",
+    "key": "credit-constrained-total",
+    "date": "2021-09-15",
+    "value": 0.28601,
+    "value_": 28.60066
+  },
+  {
+    "geoid": "24017",
+    "key": "credit-constrained-total",
     "date": "2022-09-15",
     "value": 0.27798,
     "value_": 27.79842
@@ -3834,6 +7173,27 @@
     "date": "2024-09-15",
     "value": 0.2944,
     "value_": 29.43961
+  },
+  {
+    "geoid": "24021",
+    "key": "credit-constrained-total",
+    "date": "2019-09-15",
+    "value": 0.20681,
+    "value_": 20.68128
+  },
+  {
+    "geoid": "24021",
+    "key": "credit-constrained-total",
+    "date": "2020-09-15",
+    "value": 0.18669,
+    "value_": 18.66946
+  },
+  {
+    "geoid": "24021",
+    "key": "credit-constrained-total",
+    "date": "2021-09-15",
+    "value": 0.16764,
+    "value_": 16.76354
   },
   {
     "geoid": "24021",
@@ -3859,6 +7219,27 @@
   {
     "geoid": "24031",
     "key": "credit-constrained-total",
+    "date": "2019-09-15",
+    "value": 0.1852,
+    "value_": 18.52043
+  },
+  {
+    "geoid": "24031",
+    "key": "credit-constrained-total",
+    "date": "2020-09-15",
+    "value": 0.16865,
+    "value_": 16.86549
+  },
+  {
+    "geoid": "24031",
+    "key": "credit-constrained-total",
+    "date": "2021-09-15",
+    "value": 0.15433,
+    "value_": 15.43259
+  },
+  {
+    "geoid": "24031",
+    "key": "credit-constrained-total",
     "date": "2022-09-15",
     "value": 0.15273,
     "value_": 15.27343
@@ -3876,6 +7257,27 @@
     "date": "2024-09-15",
     "value": 0.15818,
     "value_": 15.81808
+  },
+  {
+    "geoid": "24033",
+    "key": "credit-constrained-total",
+    "date": "2019-09-15",
+    "value": 0.38632,
+    "value_": 38.63231
+  },
+  {
+    "geoid": "24033",
+    "key": "credit-constrained-total",
+    "date": "2020-09-15",
+    "value": 0.35884,
+    "value_": 35.88384
+  },
+  {
+    "geoid": "24033",
+    "key": "credit-constrained-total",
+    "date": "2021-09-15",
+    "value": 0.32995,
+    "value_": 32.99459
   },
   {
     "geoid": "24033",
@@ -3901,6 +7303,27 @@
   {
     "geoid": "24340",
     "key": "credit-constrained-total",
+    "date": "2019-09-15",
+    "value": 0.207,
+    "value_": 20.69999
+  },
+  {
+    "geoid": "24340",
+    "key": "credit-constrained-total",
+    "date": "2020-09-15",
+    "value": 0.18,
+    "value_": 18
+  },
+  {
+    "geoid": "24340",
+    "key": "credit-constrained-total",
+    "date": "2021-09-15",
+    "value": 0.166,
+    "value_": 16.60002
+  },
+  {
+    "geoid": "24340",
+    "key": "credit-constrained-total",
     "date": "2022-09-15",
     "value": 0.165,
     "value_": 16.5
@@ -3918,6 +7341,27 @@
     "date": "2024-09-15",
     "value": 0.165,
     "value_": 16.49999
+  },
+  {
+    "geoid": "26420",
+    "key": "credit-constrained-total",
+    "date": "2019-09-15",
+    "value": 0.323,
+    "value_": 32.3
+  },
+  {
+    "geoid": "26420",
+    "key": "credit-constrained-total",
+    "date": "2020-09-15",
+    "value": 0.304,
+    "value_": 30.4
+  },
+  {
+    "geoid": "26420",
+    "key": "credit-constrained-total",
+    "date": "2021-09-15",
+    "value": 0.288,
+    "value_": 28.8
   },
   {
     "geoid": "26420",
@@ -3943,6 +7387,27 @@
   {
     "geoid": "26900",
     "key": "credit-constrained-total",
+    "date": "2019-09-15",
+    "value": 0.275,
+    "value_": 27.5
+  },
+  {
+    "geoid": "26900",
+    "key": "credit-constrained-total",
+    "date": "2020-09-15",
+    "value": 0.256,
+    "value_": 25.6
+  },
+  {
+    "geoid": "26900",
+    "key": "credit-constrained-total",
+    "date": "2021-09-15",
+    "value": 0.237,
+    "value_": 23.7
+  },
+  {
+    "geoid": "26900",
+    "key": "credit-constrained-total",
     "date": "2022-09-15",
     "value": 0.236,
     "value_": 23.6
@@ -3960,6 +7425,27 @@
     "date": "2024-09-15",
     "value": 0.243,
     "value_": 24.30001
+  },
+  {
+    "geoid": "27260",
+    "key": "credit-constrained-total",
+    "date": "2019-09-15",
+    "value": 0.312,
+    "value_": 31.2
+  },
+  {
+    "geoid": "27260",
+    "key": "credit-constrained-total",
+    "date": "2020-09-15",
+    "value": 0.291,
+    "value_": 29.10001
+  },
+  {
+    "geoid": "27260",
+    "key": "credit-constrained-total",
+    "date": "2021-09-15",
+    "value": 0.273,
+    "value_": 27.3
   },
   {
     "geoid": "27260",
@@ -3985,6 +7471,27 @@
   {
     "geoid": "28140",
     "key": "credit-constrained-total",
+    "date": "2019-09-15",
+    "value": 0.25,
+    "value_": 25
+  },
+  {
+    "geoid": "28140",
+    "key": "credit-constrained-total",
+    "date": "2020-09-15",
+    "value": 0.233,
+    "value_": 23.3
+  },
+  {
+    "geoid": "28140",
+    "key": "credit-constrained-total",
+    "date": "2021-09-15",
+    "value": 0.217,
+    "value_": 21.69999
+  },
+  {
+    "geoid": "28140",
+    "key": "credit-constrained-total",
     "date": "2022-09-15",
     "value": 0.215,
     "value_": 21.5
@@ -4002,6 +7509,27 @@
     "date": "2024-09-15",
     "value": 0.214,
     "value_": 21.4
+  },
+  {
+    "geoid": "29820",
+    "key": "credit-constrained-total",
+    "date": "2019-09-15",
+    "value": 0.311,
+    "value_": 31.1
+  },
+  {
+    "geoid": "29820",
+    "key": "credit-constrained-total",
+    "date": "2020-09-15",
+    "value": 0.29,
+    "value_": 29
+  },
+  {
+    "geoid": "29820",
+    "key": "credit-constrained-total",
+    "date": "2021-09-15",
+    "value": 0.27,
+    "value_": 27
   },
   {
     "geoid": "29820",
@@ -4027,6 +7555,27 @@
   {
     "geoid": "31080",
     "key": "credit-constrained-total",
+    "date": "2019-09-15",
+    "value": 0.228,
+    "value_": 22.8
+  },
+  {
+    "geoid": "31080",
+    "key": "credit-constrained-total",
+    "date": "2020-09-15",
+    "value": 0.209,
+    "value_": 20.9
+  },
+  {
+    "geoid": "31080",
+    "key": "credit-constrained-total",
+    "date": "2021-09-15",
+    "value": 0.186,
+    "value_": 18.6
+  },
+  {
+    "geoid": "31080",
+    "key": "credit-constrained-total",
     "date": "2022-09-15",
     "value": 0.189,
     "value_": 18.9
@@ -4044,6 +7593,27 @@
     "date": "2024-09-15",
     "value": 0.197,
     "value_": 19.7
+  },
+  {
+    "geoid": "32820",
+    "key": "credit-constrained-total",
+    "date": "2019-09-15",
+    "value": 0.39,
+    "value_": 39
+  },
+  {
+    "geoid": "32820",
+    "key": "credit-constrained-total",
+    "date": "2020-09-15",
+    "value": 0.368,
+    "value_": 36.79999
+  },
+  {
+    "geoid": "32820",
+    "key": "credit-constrained-total",
+    "date": "2021-09-15",
+    "value": 0.345,
+    "value_": 34.50001
   },
   {
     "geoid": "32820",
@@ -4069,6 +7639,27 @@
   {
     "geoid": "33100",
     "key": "credit-constrained-total",
+    "date": "2019-09-15",
+    "value": 0.304,
+    "value_": 30.4
+  },
+  {
+    "geoid": "33100",
+    "key": "credit-constrained-total",
+    "date": "2020-09-15",
+    "value": 0.284,
+    "value_": 28.4
+  },
+  {
+    "geoid": "33100",
+    "key": "credit-constrained-total",
+    "date": "2021-09-15",
+    "value": 0.26,
+    "value_": 26
+  },
+  {
+    "geoid": "33100",
+    "key": "credit-constrained-total",
     "date": "2022-09-15",
     "value": 0.26,
     "value_": 26
@@ -4086,6 +7677,27 @@
     "date": "2024-09-15",
     "value": 0.269,
     "value_": 26.9
+  },
+  {
+    "geoid": "33340",
+    "key": "credit-constrained-total",
+    "date": "2019-09-15",
+    "value": 0.212,
+    "value_": 21.2
+  },
+  {
+    "geoid": "33340",
+    "key": "credit-constrained-total",
+    "date": "2020-09-15",
+    "value": 0.191,
+    "value_": 19.1
+  },
+  {
+    "geoid": "33340",
+    "key": "credit-constrained-total",
+    "date": "2021-09-15",
+    "value": 0.182,
+    "value_": 18.2
   },
   {
     "geoid": "33340",
@@ -4111,6 +7723,27 @@
   {
     "geoid": "34980",
     "key": "credit-constrained-total",
+    "date": "2019-09-15",
+    "value": 0.269,
+    "value_": 26.89999
+  },
+  {
+    "geoid": "34980",
+    "key": "credit-constrained-total",
+    "date": "2020-09-15",
+    "value": 0.249,
+    "value_": 24.9
+  },
+  {
+    "geoid": "34980",
+    "key": "credit-constrained-total",
+    "date": "2021-09-15",
+    "value": 0.232,
+    "value_": 23.2
+  },
+  {
+    "geoid": "34980",
+    "key": "credit-constrained-total",
     "date": "2022-09-15",
     "value": 0.225,
     "value_": 22.49999
@@ -4128,6 +7761,27 @@
     "date": "2024-09-15",
     "value": 0.222,
     "value_": 22.2
+  },
+  {
+    "geoid": "35620",
+    "key": "credit-constrained-total",
+    "date": "2019-09-15",
+    "value": 0.221,
+    "value_": 22.1
+  },
+  {
+    "geoid": "35620",
+    "key": "credit-constrained-total",
+    "date": "2020-09-15",
+    "value": 0.201,
+    "value_": 20.1
+  },
+  {
+    "geoid": "35620",
+    "key": "credit-constrained-total",
+    "date": "2021-09-15",
+    "value": 0.183,
+    "value_": 18.3
   },
   {
     "geoid": "35620",
@@ -4153,6 +7807,27 @@
   {
     "geoid": "36420",
     "key": "credit-constrained-total",
+    "date": "2019-09-15",
+    "value": 0.297,
+    "value_": 29.7
+  },
+  {
+    "geoid": "36420",
+    "key": "credit-constrained-total",
+    "date": "2020-09-15",
+    "value": 0.282,
+    "value_": 28.2
+  },
+  {
+    "geoid": "36420",
+    "key": "credit-constrained-total",
+    "date": "2021-09-15",
+    "value": 0.266,
+    "value_": 26.6
+  },
+  {
+    "geoid": "36420",
+    "key": "credit-constrained-total",
     "date": "2022-09-15",
     "value": 0.261,
     "value_": 26.09999
@@ -4170,6 +7845,27 @@
     "date": "2024-09-15",
     "value": 0.264,
     "value_": 26.39999
+  },
+  {
+    "geoid": "36540",
+    "key": "credit-constrained-total",
+    "date": "2019-09-15",
+    "value": 0.221,
+    "value_": 22.10002
+  },
+  {
+    "geoid": "36540",
+    "key": "credit-constrained-total",
+    "date": "2020-09-15",
+    "value": 0.204,
+    "value_": 20.4
+  },
+  {
+    "geoid": "36540",
+    "key": "credit-constrained-total",
+    "date": "2021-09-15",
+    "value": 0.185,
+    "value_": 18.5
   },
   {
     "geoid": "36540",
@@ -4195,6 +7891,27 @@
   {
     "geoid": "36740",
     "key": "credit-constrained-total",
+    "date": "2019-09-15",
+    "value": 0.317,
+    "value_": 31.7
+  },
+  {
+    "geoid": "36740",
+    "key": "credit-constrained-total",
+    "date": "2020-09-15",
+    "value": 0.297,
+    "value_": 29.70001
+  },
+  {
+    "geoid": "36740",
+    "key": "credit-constrained-total",
+    "date": "2021-09-15",
+    "value": 0.275,
+    "value_": 27.5
+  },
+  {
+    "geoid": "36740",
+    "key": "credit-constrained-total",
     "date": "2022-09-15",
     "value": 0.276,
     "value_": 27.6
@@ -4212,6 +7929,27 @@
     "date": "2024-09-15",
     "value": 0.285,
     "value_": 28.5
+  },
+  {
+    "geoid": "37980",
+    "key": "credit-constrained-total",
+    "date": "2019-09-15",
+    "value": 0.249,
+    "value_": 24.9
+  },
+  {
+    "geoid": "37980",
+    "key": "credit-constrained-total",
+    "date": "2020-09-15",
+    "value": 0.228,
+    "value_": 22.8
+  },
+  {
+    "geoid": "37980",
+    "key": "credit-constrained-total",
+    "date": "2021-09-15",
+    "value": 0.209,
+    "value_": 20.9
   },
   {
     "geoid": "37980",
@@ -4237,6 +7975,27 @@
   {
     "geoid": "38060",
     "key": "credit-constrained-total",
+    "date": "2019-09-15",
+    "value": 0.264,
+    "value_": 26.4
+  },
+  {
+    "geoid": "38060",
+    "key": "credit-constrained-total",
+    "date": "2020-09-15",
+    "value": 0.243,
+    "value_": 24.3
+  },
+  {
+    "geoid": "38060",
+    "key": "credit-constrained-total",
+    "date": "2021-09-15",
+    "value": 0.223,
+    "value_": 22.3
+  },
+  {
+    "geoid": "38060",
+    "key": "credit-constrained-total",
     "date": "2022-09-15",
     "value": 0.221,
     "value_": 22.1
@@ -4254,6 +8013,27 @@
     "date": "2024-09-15",
     "value": 0.229,
     "value_": 22.9
+  },
+  {
+    "geoid": "38300",
+    "key": "credit-constrained-total",
+    "date": "2019-09-15",
+    "value": 0.213,
+    "value_": 21.3
+  },
+  {
+    "geoid": "38300",
+    "key": "credit-constrained-total",
+    "date": "2020-09-15",
+    "value": 0.198,
+    "value_": 19.8
+  },
+  {
+    "geoid": "38300",
+    "key": "credit-constrained-total",
+    "date": "2021-09-15",
+    "value": 0.18,
+    "value_": 18
   },
   {
     "geoid": "38300",
@@ -4279,6 +8059,27 @@
   {
     "geoid": "38900",
     "key": "credit-constrained-total",
+    "date": "2019-09-15",
+    "value": 0.194,
+    "value_": 19.40001
+  },
+  {
+    "geoid": "38900",
+    "key": "credit-constrained-total",
+    "date": "2020-09-15",
+    "value": 0.173,
+    "value_": 17.3
+  },
+  {
+    "geoid": "38900",
+    "key": "credit-constrained-total",
+    "date": "2021-09-15",
+    "value": 0.155,
+    "value_": 15.5
+  },
+  {
+    "geoid": "38900",
+    "key": "credit-constrained-total",
     "date": "2022-09-15",
     "value": 0.15,
     "value_": 15
@@ -4296,6 +8097,27 @@
     "date": "2024-09-15",
     "value": 0.156,
     "value_": 15.60001
+  },
+  {
+    "geoid": "39300",
+    "key": "credit-constrained-total",
+    "date": "2019-09-15",
+    "value": 0.234,
+    "value_": 23.40001
+  },
+  {
+    "geoid": "39300",
+    "key": "credit-constrained-total",
+    "date": "2020-09-15",
+    "value": 0.215,
+    "value_": 21.5
+  },
+  {
+    "geoid": "39300",
+    "key": "credit-constrained-total",
+    "date": "2021-09-15",
+    "value": 0.195,
+    "value_": 19.49999
   },
   {
     "geoid": "39300",
@@ -4321,6 +8143,27 @@
   {
     "geoid": "39580",
     "key": "credit-constrained-total",
+    "date": "2019-09-15",
+    "value": 0.256,
+    "value_": 25.6
+  },
+  {
+    "geoid": "39580",
+    "key": "credit-constrained-total",
+    "date": "2020-09-15",
+    "value": 0.234,
+    "value_": 23.4
+  },
+  {
+    "geoid": "39580",
+    "key": "credit-constrained-total",
+    "date": "2021-09-15",
+    "value": 0.22,
+    "value_": 22
+  },
+  {
+    "geoid": "39580",
+    "key": "credit-constrained-total",
     "date": "2022-09-15",
     "value": 0.215,
     "value_": 21.5
@@ -4338,6 +8181,27 @@
     "date": "2024-09-15",
     "value": 0.212,
     "value_": 21.20001
+  },
+  {
+    "geoid": "40060",
+    "key": "credit-constrained-total",
+    "date": "2019-09-15",
+    "value": 0.274,
+    "value_": 27.4
+  },
+  {
+    "geoid": "40060",
+    "key": "credit-constrained-total",
+    "date": "2020-09-15",
+    "value": 0.254,
+    "value_": 25.40001
+  },
+  {
+    "geoid": "40060",
+    "key": "credit-constrained-total",
+    "date": "2021-09-15",
+    "value": 0.238,
+    "value_": 23.80001
   },
   {
     "geoid": "40060",
@@ -4363,6 +8227,27 @@
   {
     "geoid": "40140",
     "key": "credit-constrained-total",
+    "date": "2019-09-15",
+    "value": 0.306,
+    "value_": 30.6
+  },
+  {
+    "geoid": "40140",
+    "key": "credit-constrained-total",
+    "date": "2020-09-15",
+    "value": 0.284,
+    "value_": 28.4
+  },
+  {
+    "geoid": "40140",
+    "key": "credit-constrained-total",
+    "date": "2021-09-15",
+    "value": 0.249,
+    "value_": 24.9
+  },
+  {
+    "geoid": "40140",
+    "key": "credit-constrained-total",
     "date": "2022-09-15",
     "value": 0.253,
     "value_": 25.3
@@ -4380,6 +8265,27 @@
     "date": "2024-09-15",
     "value": 0.263,
     "value_": 26.3
+  },
+  {
+    "geoid": "40380",
+    "key": "credit-constrained-total",
+    "date": "2019-09-15",
+    "value": 0.231,
+    "value_": 23.09999
+  },
+  {
+    "geoid": "40380",
+    "key": "credit-constrained-total",
+    "date": "2020-09-15",
+    "value": 0.21,
+    "value_": 21
+  },
+  {
+    "geoid": "40380",
+    "key": "credit-constrained-total",
+    "date": "2021-09-15",
+    "value": 0.194,
+    "value_": 19.40001
   },
   {
     "geoid": "40380",
@@ -4405,6 +8311,27 @@
   {
     "geoid": "40900",
     "key": "credit-constrained-total",
+    "date": "2019-09-15",
+    "value": 0.214,
+    "value_": 21.4
+  },
+  {
+    "geoid": "40900",
+    "key": "credit-constrained-total",
+    "date": "2020-09-15",
+    "value": 0.193,
+    "value_": 19.3
+  },
+  {
+    "geoid": "40900",
+    "key": "credit-constrained-total",
+    "date": "2021-09-15",
+    "value": 0.176,
+    "value_": 17.6
+  },
+  {
+    "geoid": "40900",
+    "key": "credit-constrained-total",
     "date": "2022-09-15",
     "value": 0.179,
     "value_": 17.9
@@ -4422,6 +8349,27 @@
     "date": "2024-09-15",
     "value": 0.185,
     "value_": 18.5
+  },
+  {
+    "geoid": "41620",
+    "key": "credit-constrained-total",
+    "date": "2019-09-15",
+    "value": 0.21,
+    "value_": 21.00002
+  },
+  {
+    "geoid": "41620",
+    "key": "credit-constrained-total",
+    "date": "2020-09-15",
+    "value": 0.196,
+    "value_": 19.60001
+  },
+  {
+    "geoid": "41620",
+    "key": "credit-constrained-total",
+    "date": "2021-09-15",
+    "value": 0.179,
+    "value_": 17.9
   },
   {
     "geoid": "41620",
@@ -4447,6 +8395,27 @@
   {
     "geoid": "41700",
     "key": "credit-constrained-total",
+    "date": "2019-09-15",
+    "value": 0.344,
+    "value_": 34.4
+  },
+  {
+    "geoid": "41700",
+    "key": "credit-constrained-total",
+    "date": "2020-09-15",
+    "value": 0.322,
+    "value_": 32.2
+  },
+  {
+    "geoid": "41700",
+    "key": "credit-constrained-total",
+    "date": "2021-09-15",
+    "value": 0.299,
+    "value_": 29.9
+  },
+  {
+    "geoid": "41700",
+    "key": "credit-constrained-total",
     "date": "2022-09-15",
     "value": 0.299,
     "value_": 29.9
@@ -4468,6 +8437,27 @@
   {
     "geoid": "41740",
     "key": "credit-constrained-total",
+    "date": "2019-09-15",
+    "value": 0.21,
+    "value_": 21
+  },
+  {
+    "geoid": "41740",
+    "key": "credit-constrained-total",
+    "date": "2020-09-15",
+    "value": 0.189,
+    "value_": 18.89999
+  },
+  {
+    "geoid": "41740",
+    "key": "credit-constrained-total",
+    "date": "2021-09-15",
+    "value": 0.171,
+    "value_": 17.1
+  },
+  {
+    "geoid": "41740",
+    "key": "credit-constrained-total",
     "date": "2022-09-15",
     "value": 0.174,
     "value_": 17.4
@@ -4485,6 +8475,27 @@
     "date": "2024-09-15",
     "value": 0.174,
     "value_": 17.4
+  },
+  {
+    "geoid": "41860",
+    "key": "credit-constrained-total",
+    "date": "2019-09-15",
+    "value": 0.15,
+    "value_": 15
+  },
+  {
+    "geoid": "41860",
+    "key": "credit-constrained-total",
+    "date": "2020-09-15",
+    "value": 0.136,
+    "value_": 13.6
+  },
+  {
+    "geoid": "41860",
+    "key": "credit-constrained-total",
+    "date": "2021-09-15",
+    "value": 0.124,
+    "value_": 12.4
   },
   {
     "geoid": "41860",
@@ -4510,6 +8521,27 @@
   {
     "geoid": "41940",
     "key": "credit-constrained-total",
+    "date": "2019-09-15",
+    "value": 0.138,
+    "value_": 13.8
+  },
+  {
+    "geoid": "41940",
+    "key": "credit-constrained-total",
+    "date": "2020-09-15",
+    "value": 0.123,
+    "value_": 12.3
+  },
+  {
+    "geoid": "41940",
+    "key": "credit-constrained-total",
+    "date": "2021-09-15",
+    "value": 0.113,
+    "value_": 11.3
+  },
+  {
+    "geoid": "41940",
+    "key": "credit-constrained-total",
     "date": "2022-09-15",
     "value": 0.115,
     "value_": 11.5
@@ -4527,6 +8559,27 @@
     "date": "2024-09-15",
     "value": 0.119,
     "value_": 11.90001
+  },
+  {
+    "geoid": "42660",
+    "key": "credit-constrained-total",
+    "date": "2019-09-15",
+    "value": 0.178,
+    "value_": 17.8
+  },
+  {
+    "geoid": "42660",
+    "key": "credit-constrained-total",
+    "date": "2020-09-15",
+    "value": 0.16,
+    "value_": 16
+  },
+  {
+    "geoid": "42660",
+    "key": "credit-constrained-total",
+    "date": "2021-09-15",
+    "value": 0.145,
+    "value_": 14.5
   },
   {
     "geoid": "42660",
@@ -4552,6 +8605,27 @@
   {
     "geoid": "46060",
     "key": "credit-constrained-total",
+    "date": "2019-09-15",
+    "value": 0.248,
+    "value_": 24.80001
+  },
+  {
+    "geoid": "46060",
+    "key": "credit-constrained-total",
+    "date": "2020-09-15",
+    "value": 0.231,
+    "value_": 23.1
+  },
+  {
+    "geoid": "46060",
+    "key": "credit-constrained-total",
+    "date": "2021-09-15",
+    "value": 0.212,
+    "value_": 21.2
+  },
+  {
+    "geoid": "46060",
+    "key": "credit-constrained-total",
     "date": "2022-09-15",
     "value": 0.213,
     "value_": 21.30001
@@ -4573,6 +8647,27 @@
   {
     "geoid": "46140",
     "key": "credit-constrained-total",
+    "date": "2019-09-15",
+    "value": 0.305,
+    "value_": 30.49999
+  },
+  {
+    "geoid": "46140",
+    "key": "credit-constrained-total",
+    "date": "2020-09-15",
+    "value": 0.286,
+    "value_": 28.6
+  },
+  {
+    "geoid": "46140",
+    "key": "credit-constrained-total",
+    "date": "2021-09-15",
+    "value": 0.267,
+    "value_": 26.70001
+  },
+  {
+    "geoid": "46140",
+    "key": "credit-constrained-total",
     "date": "2022-09-15",
     "value": 0.266,
     "value_": 26.6
@@ -4590,6 +8685,27 @@
     "date": "2024-09-15",
     "value": 0.266,
     "value_": 26.6
+  },
+  {
+    "geoid": "47260",
+    "key": "credit-constrained-total",
+    "date": "2019-09-15",
+    "value": 0.315,
+    "value_": 31.5
+  },
+  {
+    "geoid": "47260",
+    "key": "credit-constrained-total",
+    "date": "2020-09-15",
+    "value": 0.294,
+    "value_": 29.39999
+  },
+  {
+    "geoid": "47260",
+    "key": "credit-constrained-total",
+    "date": "2021-09-15",
+    "value": 0.273,
+    "value_": 27.30001
   },
   {
     "geoid": "47260",
@@ -4615,6 +8731,27 @@
   {
     "geoid": "47900",
     "key": "credit-constrained-total",
+    "date": "2019-09-15",
+    "value": 0.226,
+    "value_": 22.6
+  },
+  {
+    "geoid": "47900",
+    "key": "credit-constrained-total",
+    "date": "2020-09-15",
+    "value": 0.206,
+    "value_": 20.6
+  },
+  {
+    "geoid": "47900",
+    "key": "credit-constrained-total",
+    "date": "2021-09-15",
+    "value": 0.189,
+    "value_": 18.9
+  },
+  {
+    "geoid": "47900",
+    "key": "credit-constrained-total",
     "date": "2022-09-15",
     "value": 0.188,
     "value_": 18.8
@@ -4632,6 +8769,27 @@
     "date": "2024-09-15",
     "value": 0.192,
     "value_": 19.2
+  },
+  {
+    "geoid": "51013",
+    "key": "credit-constrained-total",
+    "date": "2019-09-15",
+    "value": 0.12387,
+    "value_": 12.38722
+  },
+  {
+    "geoid": "51013",
+    "key": "credit-constrained-total",
+    "date": "2020-09-15",
+    "value": 0.11326,
+    "value_": 11.32639
+  },
+  {
+    "geoid": "51013",
+    "key": "credit-constrained-total",
+    "date": "2021-09-15",
+    "value": 0.10661,
+    "value_": 10.66121
   },
   {
     "geoid": "51013",
@@ -4657,6 +8815,27 @@
   {
     "geoid": "51043",
     "key": "credit-constrained-total",
+    "date": "2019-09-15",
+    "value": 0.16765,
+    "value_": 16.76481
+  },
+  {
+    "geoid": "51043",
+    "key": "credit-constrained-total",
+    "date": "2020-09-15",
+    "value": 0.13829,
+    "value_": 13.82912
+  },
+  {
+    "geoid": "51043",
+    "key": "credit-constrained-total",
+    "date": "2021-09-15",
+    "value": 0.13532,
+    "value_": 13.53249
+  },
+  {
+    "geoid": "51043",
+    "key": "credit-constrained-total",
     "date": "2022-09-15",
     "value": 0.15223,
     "value_": 15.2229
@@ -4674,6 +8853,27 @@
     "date": "2024-09-15",
     "value": 0.15565,
     "value_": 15.5646
+  },
+  {
+    "geoid": "51047",
+    "key": "credit-constrained-total",
+    "date": "2019-09-15",
+    "value": 0.29854,
+    "value_": 29.85426
+  },
+  {
+    "geoid": "51047",
+    "key": "credit-constrained-total",
+    "date": "2020-09-15",
+    "value": 0.27184,
+    "value_": 27.18385
+  },
+  {
+    "geoid": "51047",
+    "key": "credit-constrained-total",
+    "date": "2021-09-15",
+    "value": 0.24413,
+    "value_": 24.41296
   },
   {
     "geoid": "51047",
@@ -4699,6 +8899,27 @@
   {
     "geoid": "51059",
     "key": "credit-constrained-total",
+    "date": "2019-09-15",
+    "value": 0.14618,
+    "value_": 14.61783
+  },
+  {
+    "geoid": "51059",
+    "key": "credit-constrained-total",
+    "date": "2020-09-15",
+    "value": 0.13048,
+    "value_": 13.04788
+  },
+  {
+    "geoid": "51059",
+    "key": "credit-constrained-total",
+    "date": "2021-09-15",
+    "value": 0.1177,
+    "value_": 11.77026
+  },
+  {
+    "geoid": "51059",
+    "key": "credit-constrained-total",
     "date": "2022-09-15",
     "value": 0.11818,
     "value_": 11.81829
@@ -4716,6 +8937,27 @@
     "date": "2024-09-15",
     "value": 0.12195,
     "value_": 12.19458
+  },
+  {
+    "geoid": "51061",
+    "key": "credit-constrained-total",
+    "date": "2019-09-15",
+    "value": 0.19052,
+    "value_": 19.05233
+  },
+  {
+    "geoid": "51061",
+    "key": "credit-constrained-total",
+    "date": "2020-09-15",
+    "value": 0.1807,
+    "value_": 18.06994
+  },
+  {
+    "geoid": "51061",
+    "key": "credit-constrained-total",
+    "date": "2021-09-15",
+    "value": 0.16371,
+    "value_": 16.37084
   },
   {
     "geoid": "51061",
@@ -4741,6 +8983,27 @@
   {
     "geoid": "51107",
     "key": "credit-constrained-total",
+    "date": "2019-09-15",
+    "value": 0.157,
+    "value_": 15.69999
+  },
+  {
+    "geoid": "51107",
+    "key": "credit-constrained-total",
+    "date": "2020-09-15",
+    "value": 0.13676,
+    "value_": 13.6758
+  },
+  {
+    "geoid": "51107",
+    "key": "credit-constrained-total",
+    "date": "2021-09-15",
+    "value": 0.12355,
+    "value_": 12.3554
+  },
+  {
+    "geoid": "51107",
+    "key": "credit-constrained-total",
     "date": "2022-09-15",
     "value": 0.11988,
     "value_": 11.98826
@@ -4758,6 +9021,27 @@
     "date": "2024-09-15",
     "value": 0.11934,
     "value_": 11.93379
+  },
+  {
+    "geoid": "51153",
+    "key": "credit-constrained-total",
+    "date": "2019-09-15",
+    "value": 0.26033,
+    "value_": 26.03321
+  },
+  {
+    "geoid": "51153",
+    "key": "credit-constrained-total",
+    "date": "2020-09-15",
+    "value": 0.23621,
+    "value_": 23.62053
+  },
+  {
+    "geoid": "51153",
+    "key": "credit-constrained-total",
+    "date": "2021-09-15",
+    "value": 0.21787,
+    "value_": 21.78703
   },
   {
     "geoid": "51153",
@@ -4783,6 +9067,27 @@
   {
     "geoid": "51157",
     "key": "credit-constrained-total",
+    "date": "2019-09-15",
+    "value": 0.1879,
+    "value_": 18.7902
+  },
+  {
+    "geoid": "51157",
+    "key": "credit-constrained-total",
+    "date": "2020-09-15",
+    "value": 0.14195,
+    "value_": 14.1947
+  },
+  {
+    "geoid": "51157",
+    "key": "credit-constrained-total",
+    "date": "2021-09-15",
+    "value": 0.10967,
+    "value_": 10.96655
+  },
+  {
+    "geoid": "51157",
+    "key": "credit-constrained-total",
     "date": "2022-09-15",
     "value": 0.15695,
     "value_": 15.69472
@@ -4800,6 +9105,27 @@
     "date": "2024-09-15",
     "value": 0.1698,
     "value_": 16.98029
+  },
+  {
+    "geoid": "51177",
+    "key": "credit-constrained-total",
+    "date": "2019-09-15",
+    "value": 0.28286,
+    "value_": 28.28605
+  },
+  {
+    "geoid": "51177",
+    "key": "credit-constrained-total",
+    "date": "2020-09-15",
+    "value": 0.26081,
+    "value_": 26.0808
+  },
+  {
+    "geoid": "51177",
+    "key": "credit-constrained-total",
+    "date": "2021-09-15",
+    "value": 0.23974,
+    "value_": 23.97439
   },
   {
     "geoid": "51177",
@@ -4825,6 +9151,27 @@
   {
     "geoid": "51179",
     "key": "credit-constrained-total",
+    "date": "2019-09-15",
+    "value": 0.25662,
+    "value_": 25.66248
+  },
+  {
+    "geoid": "51179",
+    "key": "credit-constrained-total",
+    "date": "2020-09-15",
+    "value": 0.23346,
+    "value_": 23.34649
+  },
+  {
+    "geoid": "51179",
+    "key": "credit-constrained-total",
+    "date": "2021-09-15",
+    "value": 0.22055,
+    "value_": 22.05489
+  },
+  {
+    "geoid": "51179",
+    "key": "credit-constrained-total",
     "date": "2022-09-15",
     "value": 0.21293,
     "value_": 21.29329
@@ -4842,6 +9189,27 @@
     "date": "2024-09-15",
     "value": 0.21342,
     "value_": 21.34243
+  },
+  {
+    "geoid": "51187",
+    "key": "credit-constrained-total",
+    "date": "2019-09-15",
+    "value": 0.25833,
+    "value_": 25.83291
+  },
+  {
+    "geoid": "51187",
+    "key": "credit-constrained-total",
+    "date": "2020-09-15",
+    "value": 0.24667,
+    "value_": 24.66722
+  },
+  {
+    "geoid": "51187",
+    "key": "credit-constrained-total",
+    "date": "2021-09-15",
+    "value": 0.23306,
+    "value_": 23.30633
   },
   {
     "geoid": "51187",
@@ -4867,6 +9235,27 @@
   {
     "geoid": "51510",
     "key": "credit-constrained-total",
+    "date": "2019-09-15",
+    "value": 0.18824,
+    "value_": 18.82356
+  },
+  {
+    "geoid": "51510",
+    "key": "credit-constrained-total",
+    "date": "2020-09-15",
+    "value": 0.17082,
+    "value_": 17.08206
+  },
+  {
+    "geoid": "51510",
+    "key": "credit-constrained-total",
+    "date": "2021-09-15",
+    "value": 0.16631,
+    "value_": 16.63119
+  },
+  {
+    "geoid": "51510",
+    "key": "credit-constrained-total",
     "date": "2022-09-15",
     "value": 0.17036,
     "value_": 17.03603
@@ -4884,6 +9273,27 @@
     "date": "2024-09-15",
     "value": 0.16758,
     "value_": 16.75847
+  },
+  {
+    "geoid": "51630",
+    "key": "credit-constrained-total",
+    "date": "2019-09-15",
+    "value": 0.30638,
+    "value_": 30.63842
+  },
+  {
+    "geoid": "51630",
+    "key": "credit-constrained-total",
+    "date": "2020-09-15",
+    "value": 0.30045,
+    "value_": 30.0447
+  },
+  {
+    "geoid": "51630",
+    "key": "credit-constrained-total",
+    "date": "2021-09-15",
+    "value": 0.27989,
+    "value_": 27.98894
   },
   {
     "geoid": "51630",
@@ -4909,6 +9319,27 @@
   {
     "geoid": "54037",
     "key": "credit-constrained-total",
+    "date": "2019-09-15",
+    "value": 0.28699,
+    "value_": 28.69935
+  },
+  {
+    "geoid": "54037",
+    "key": "credit-constrained-total",
+    "date": "2020-09-15",
+    "value": 0.25454,
+    "value_": 25.45392
+  },
+  {
+    "geoid": "54037",
+    "key": "credit-constrained-total",
+    "date": "2021-09-15",
+    "value": 0.24362,
+    "value_": 24.36222
+  },
+  {
+    "geoid": "54037",
+    "key": "credit-constrained-total",
     "date": "2022-09-15",
     "value": 0.2399,
     "value_": 23.99048
@@ -4926,6 +9357,27 @@
     "date": "2024-09-15",
     "value": 0.21226,
     "value_": 21.22622
+  },
+  {
+    "geoid": "99997",
+    "key": "credit-constrained-total",
+    "date": "2019-09-15",
+    "value": 0.25148,
+    "value_": 25.14767
+  },
+  {
+    "geoid": "99997",
+    "key": "credit-constrained-total",
+    "date": "2020-09-15",
+    "value": 0.23239,
+    "value_": 23.23887
+  },
+  {
+    "geoid": "99997",
+    "key": "credit-constrained-total",
+    "date": "2021-09-15",
+    "value": 0.2143,
+    "value_": 21.43041
   },
   {
     "geoid": "99997",
@@ -4951,6 +9403,27 @@
   {
     "geoid": "99999",
     "key": "credit-constrained-total",
+    "date": "2019-09-15",
+    "value": 0.258,
+    "value_": 25.8
+  },
+  {
+    "geoid": "99999",
+    "key": "credit-constrained-total",
+    "date": "2020-09-15",
+    "value": 0.24,
+    "value_": 24
+  },
+  {
+    "geoid": "99999",
+    "key": "credit-constrained-total",
+    "date": "2021-09-15",
+    "value": 0.223,
+    "value_": 22.3
+  },
+  {
+    "geoid": "99999",
+    "key": "credit-constrained-total",
     "date": "2022-09-15",
     "value": 0.222,
     "value_": 22.2
@@ -4968,6 +9441,27 @@
     "date": "2024-09-15",
     "value": 0.225,
     "value_": 22.5
+  },
+  {
+    "geoid": "11001",
+    "key": "credit-constrained-total",
+    "date": "2019-12-15",
+    "value": 0.26352,
+    "value_": 26.35181
+  },
+  {
+    "geoid": "11001",
+    "key": "credit-constrained-total",
+    "date": "2020-12-15",
+    "value": 0.23766,
+    "value_": 23.76608
+  },
+  {
+    "geoid": "11001",
+    "key": "credit-constrained-total",
+    "date": "2021-12-15",
+    "value": 0.22982,
+    "value_": 22.98241
   },
   {
     "geoid": "11001",
@@ -4993,6 +9487,27 @@
   {
     "geoid": "12060",
     "key": "credit-constrained-total",
+    "date": "2019-12-15",
+    "value": 0.333,
+    "value_": 33.3
+  },
+  {
+    "geoid": "12060",
+    "key": "credit-constrained-total",
+    "date": "2020-12-15",
+    "value": 0.307,
+    "value_": 30.7
+  },
+  {
+    "geoid": "12060",
+    "key": "credit-constrained-total",
+    "date": "2021-12-15",
+    "value": 0.296,
+    "value_": 29.6
+  },
+  {
+    "geoid": "12060",
+    "key": "credit-constrained-total",
     "date": "2022-12-15",
     "value": 0.293,
     "value_": 29.3
@@ -5010,6 +9525,27 @@
     "date": "2024-12-15",
     "value": 0.3,
     "value_": 30
+  },
+  {
+    "geoid": "12420",
+    "key": "credit-constrained-total",
+    "date": "2019-12-15",
+    "value": 0.262,
+    "value_": 26.19999
+  },
+  {
+    "geoid": "12420",
+    "key": "credit-constrained-total",
+    "date": "2020-12-15",
+    "value": 0.239,
+    "value_": 23.9
+  },
+  {
+    "geoid": "12420",
+    "key": "credit-constrained-total",
+    "date": "2021-12-15",
+    "value": 0.224,
+    "value_": 22.4
   },
   {
     "geoid": "12420",
@@ -5035,6 +9571,27 @@
   {
     "geoid": "12580",
     "key": "credit-constrained-total",
+    "date": "2019-12-15",
+    "value": 0.26,
+    "value_": 26
+  },
+  {
+    "geoid": "12580",
+    "key": "credit-constrained-total",
+    "date": "2020-12-15",
+    "value": 0.235,
+    "value_": 23.5
+  },
+  {
+    "geoid": "12580",
+    "key": "credit-constrained-total",
+    "date": "2021-12-15",
+    "value": 0.227,
+    "value_": 22.69999
+  },
+  {
+    "geoid": "12580",
+    "key": "credit-constrained-total",
     "date": "2022-12-15",
     "value": 0.229,
     "value_": 22.90001
@@ -5052,6 +9609,27 @@
     "date": "2024-12-15",
     "value": 0.234,
     "value_": 23.4
+  },
+  {
+    "geoid": "13820",
+    "key": "credit-constrained-total",
+    "date": "2019-12-15",
+    "value": 0.32,
+    "value_": 32
+  },
+  {
+    "geoid": "13820",
+    "key": "credit-constrained-total",
+    "date": "2020-12-15",
+    "value": 0.3,
+    "value_": 30
+  },
+  {
+    "geoid": "13820",
+    "key": "credit-constrained-total",
+    "date": "2021-12-15",
+    "value": 0.286,
+    "value_": 28.60001
   },
   {
     "geoid": "13820",
@@ -5077,6 +9655,27 @@
   {
     "geoid": "14460",
     "key": "credit-constrained-total",
+    "date": "2019-12-15",
+    "value": 0.186,
+    "value_": 18.6
+  },
+  {
+    "geoid": "14460",
+    "key": "credit-constrained-total",
+    "date": "2020-12-15",
+    "value": 0.163,
+    "value_": 16.3
+  },
+  {
+    "geoid": "14460",
+    "key": "credit-constrained-total",
+    "date": "2021-12-15",
+    "value": 0.153,
+    "value_": 15.3
+  },
+  {
+    "geoid": "14460",
+    "key": "credit-constrained-total",
     "date": "2022-12-15",
     "value": 0.152,
     "value_": 15.2
@@ -5094,6 +9693,27 @@
     "date": "2024-12-15",
     "value": 0.157,
     "value_": 15.7
+  },
+  {
+    "geoid": "15380",
+    "key": "credit-constrained-total",
+    "date": "2019-12-15",
+    "value": 0.222,
+    "value_": 22.20001
+  },
+  {
+    "geoid": "15380",
+    "key": "credit-constrained-total",
+    "date": "2020-12-15",
+    "value": 0.199,
+    "value_": 19.9
+  },
+  {
+    "geoid": "15380",
+    "key": "credit-constrained-total",
+    "date": "2021-12-15",
+    "value": 0.191,
+    "value_": 19.1
   },
   {
     "geoid": "15380",
@@ -5119,6 +9739,27 @@
   {
     "geoid": "16740",
     "key": "credit-constrained-total",
+    "date": "2019-12-15",
+    "value": 0.309,
+    "value_": 30.9
+  },
+  {
+    "geoid": "16740",
+    "key": "credit-constrained-total",
+    "date": "2020-12-15",
+    "value": 0.284,
+    "value_": 28.40001
+  },
+  {
+    "geoid": "16740",
+    "key": "credit-constrained-total",
+    "date": "2021-12-15",
+    "value": 0.269,
+    "value_": 26.9
+  },
+  {
+    "geoid": "16740",
+    "key": "credit-constrained-total",
     "date": "2022-12-15",
     "value": 0.266,
     "value_": 26.6
@@ -5136,6 +9777,27 @@
     "date": "2024-12-15",
     "value": 0.262,
     "value_": 26.19999
+  },
+  {
+    "geoid": "16980",
+    "key": "credit-constrained-total",
+    "date": "2019-12-15",
+    "value": 0.24,
+    "value_": 24
+  },
+  {
+    "geoid": "16980",
+    "key": "credit-constrained-total",
+    "date": "2020-12-15",
+    "value": 0.218,
+    "value_": 21.8
+  },
+  {
+    "geoid": "16980",
+    "key": "credit-constrained-total",
+    "date": "2021-12-15",
+    "value": 0.209,
+    "value_": 20.9
   },
   {
     "geoid": "16980",
@@ -5161,6 +9823,27 @@
   {
     "geoid": "17140",
     "key": "credit-constrained-total",
+    "date": "2019-12-15",
+    "value": 0.258,
+    "value_": 25.8
+  },
+  {
+    "geoid": "17140",
+    "key": "credit-constrained-total",
+    "date": "2020-12-15",
+    "value": 0.235,
+    "value_": 23.5
+  },
+  {
+    "geoid": "17140",
+    "key": "credit-constrained-total",
+    "date": "2021-12-15",
+    "value": 0.22,
+    "value_": 22
+  },
+  {
+    "geoid": "17140",
+    "key": "credit-constrained-total",
     "date": "2022-12-15",
     "value": 0.218,
     "value_": 21.8
@@ -5178,6 +9861,27 @@
     "date": "2024-12-15",
     "value": 0.219,
     "value_": 21.9
+  },
+  {
+    "geoid": "17410",
+    "key": "credit-constrained-total",
+    "date": "2019-12-15",
+    "value": 0.255,
+    "value_": 25.5
+  },
+  {
+    "geoid": "17410",
+    "key": "credit-constrained-total",
+    "date": "2020-12-15",
+    "value": 0.234,
+    "value_": 23.40001
+  },
+  {
+    "geoid": "17410",
+    "key": "credit-constrained-total",
+    "date": "2021-12-15",
+    "value": 0.225,
+    "value_": 22.5
   },
   {
     "geoid": "17410",
@@ -5203,6 +9907,27 @@
   {
     "geoid": "18140",
     "key": "credit-constrained-total",
+    "date": "2019-12-15",
+    "value": 0.266,
+    "value_": 26.6
+  },
+  {
+    "geoid": "18140",
+    "key": "credit-constrained-total",
+    "date": "2020-12-15",
+    "value": 0.241,
+    "value_": 24.1
+  },
+  {
+    "geoid": "18140",
+    "key": "credit-constrained-total",
+    "date": "2021-12-15",
+    "value": 0.23,
+    "value_": 23
+  },
+  {
+    "geoid": "18140",
+    "key": "credit-constrained-total",
     "date": "2022-12-15",
     "value": 0.225,
     "value_": 22.49999
@@ -5224,6 +9949,27 @@
   {
     "geoid": "19100",
     "key": "credit-constrained-total",
+    "date": "2019-12-15",
+    "value": 0.308,
+    "value_": 30.8
+  },
+  {
+    "geoid": "19100",
+    "key": "credit-constrained-total",
+    "date": "2020-12-15",
+    "value": 0.286,
+    "value_": 28.6
+  },
+  {
+    "geoid": "19100",
+    "key": "credit-constrained-total",
+    "date": "2021-12-15",
+    "value": 0.271,
+    "value_": 27.1
+  },
+  {
+    "geoid": "19100",
+    "key": "credit-constrained-total",
     "date": "2022-12-15",
     "value": 0.273,
     "value_": 27.3
@@ -5241,6 +9987,27 @@
     "date": "2024-12-15",
     "value": 0.28,
     "value_": 28
+  },
+  {
+    "geoid": "19740",
+    "key": "credit-constrained-total",
+    "date": "2019-12-15",
+    "value": 0.202,
+    "value_": 20.2
+  },
+  {
+    "geoid": "19740",
+    "key": "credit-constrained-total",
+    "date": "2020-12-15",
+    "value": 0.182,
+    "value_": 18.2
+  },
+  {
+    "geoid": "19740",
+    "key": "credit-constrained-total",
+    "date": "2021-12-15",
+    "value": 0.173,
+    "value_": 17.3
   },
   {
     "geoid": "19740",
@@ -5266,6 +10033,27 @@
   {
     "geoid": "19820",
     "key": "credit-constrained-total",
+    "date": "2019-12-15",
+    "value": 0.252,
+    "value_": 25.2
+  },
+  {
+    "geoid": "19820",
+    "key": "credit-constrained-total",
+    "date": "2020-12-15",
+    "value": 0.227,
+    "value_": 22.7
+  },
+  {
+    "geoid": "19820",
+    "key": "credit-constrained-total",
+    "date": "2021-12-15",
+    "value": 0.217,
+    "value_": 21.7
+  },
+  {
+    "geoid": "19820",
+    "key": "credit-constrained-total",
     "date": "2022-12-15",
     "value": 0.22,
     "value_": 22
@@ -5283,6 +10071,27 @@
     "date": "2024-12-15",
     "value": 0.228,
     "value_": 22.8
+  },
+  {
+    "geoid": "23420",
+    "key": "credit-constrained-total",
+    "date": "2019-12-15",
+    "value": 0.282,
+    "value_": 28.20001
+  },
+  {
+    "geoid": "23420",
+    "key": "credit-constrained-total",
+    "date": "2020-12-15",
+    "value": 0.252,
+    "value_": 25.20002
+  },
+  {
+    "geoid": "23420",
+    "key": "credit-constrained-total",
+    "date": "2021-12-15",
+    "value": 0.241,
+    "value_": 24.09999
   },
   {
     "geoid": "23420",
@@ -5308,6 +10117,27 @@
   {
     "geoid": "24017",
     "key": "credit-constrained-total",
+    "date": "2019-12-15",
+    "value": 0.33938,
+    "value_": 33.93762
+  },
+  {
+    "geoid": "24017",
+    "key": "credit-constrained-total",
+    "date": "2020-12-15",
+    "value": 0.30915,
+    "value_": 30.91533
+  },
+  {
+    "geoid": "24017",
+    "key": "credit-constrained-total",
+    "date": "2021-12-15",
+    "value": 0.28561,
+    "value_": 28.56098
+  },
+  {
+    "geoid": "24017",
+    "key": "credit-constrained-total",
     "date": "2022-12-15",
     "value": 0.28863,
     "value_": 28.86321
@@ -5325,6 +10155,27 @@
     "date": "2024-12-15",
     "value": 0.30156,
     "value_": 30.15586
+  },
+  {
+    "geoid": "24021",
+    "key": "credit-constrained-total",
+    "date": "2019-12-15",
+    "value": 0.20799,
+    "value_": 20.79907
+  },
+  {
+    "geoid": "24021",
+    "key": "credit-constrained-total",
+    "date": "2020-12-15",
+    "value": 0.18441,
+    "value_": 18.44058
+  },
+  {
+    "geoid": "24021",
+    "key": "credit-constrained-total",
+    "date": "2021-12-15",
+    "value": 0.16945,
+    "value_": 16.94547
   },
   {
     "geoid": "24021",
@@ -5350,6 +10201,27 @@
   {
     "geoid": "24031",
     "key": "credit-constrained-total",
+    "date": "2019-12-15",
+    "value": 0.18743,
+    "value_": 18.74333
+  },
+  {
+    "geoid": "24031",
+    "key": "credit-constrained-total",
+    "date": "2020-12-15",
+    "value": 0.16574,
+    "value_": 16.57413
+  },
+  {
+    "geoid": "24031",
+    "key": "credit-constrained-total",
+    "date": "2021-12-15",
+    "value": 0.15616,
+    "value_": 15.61553
+  },
+  {
+    "geoid": "24031",
+    "key": "credit-constrained-total",
     "date": "2022-12-15",
     "value": 0.15762,
     "value_": 15.762
@@ -5367,6 +10239,27 @@
     "date": "2024-12-15",
     "value": 0.1622,
     "value_": 16.22042
+  },
+  {
+    "geoid": "24033",
+    "key": "credit-constrained-total",
+    "date": "2019-12-15",
+    "value": 0.3888,
+    "value_": 38.87963
+  },
+  {
+    "geoid": "24033",
+    "key": "credit-constrained-total",
+    "date": "2020-12-15",
+    "value": 0.35104,
+    "value_": 35.10418
+  },
+  {
+    "geoid": "24033",
+    "key": "credit-constrained-total",
+    "date": "2021-12-15",
+    "value": 0.33075,
+    "value_": 33.075
   },
   {
     "geoid": "24033",
@@ -5392,6 +10285,27 @@
   {
     "geoid": "24340",
     "key": "credit-constrained-total",
+    "date": "2019-12-15",
+    "value": 0.209,
+    "value_": 20.9
+  },
+  {
+    "geoid": "24340",
+    "key": "credit-constrained-total",
+    "date": "2020-12-15",
+    "value": 0.178,
+    "value_": 17.80001
+  },
+  {
+    "geoid": "24340",
+    "key": "credit-constrained-total",
+    "date": "2021-12-15",
+    "value": 0.168,
+    "value_": 16.8
+  },
+  {
+    "geoid": "24340",
+    "key": "credit-constrained-total",
     "date": "2022-12-15",
     "value": 0.168,
     "value_": 16.8
@@ -5409,6 +10323,27 @@
     "date": "2024-12-15",
     "value": 0.17,
     "value_": 16.99998
+  },
+  {
+    "geoid": "26420",
+    "key": "credit-constrained-total",
+    "date": "2019-12-15",
+    "value": 0.324,
+    "value_": 32.4
+  },
+  {
+    "geoid": "26420",
+    "key": "credit-constrained-total",
+    "date": "2020-12-15",
+    "value": 0.301,
+    "value_": 30.1
+  },
+  {
+    "geoid": "26420",
+    "key": "credit-constrained-total",
+    "date": "2021-12-15",
+    "value": 0.292,
+    "value_": 29.2
   },
   {
     "geoid": "26420",
@@ -5434,6 +10369,27 @@
   {
     "geoid": "26900",
     "key": "credit-constrained-total",
+    "date": "2019-12-15",
+    "value": 0.277,
+    "value_": 27.7
+  },
+  {
+    "geoid": "26900",
+    "key": "credit-constrained-total",
+    "date": "2020-12-15",
+    "value": 0.253,
+    "value_": 25.3
+  },
+  {
+    "geoid": "26900",
+    "key": "credit-constrained-total",
+    "date": "2021-12-15",
+    "value": 0.24,
+    "value_": 24
+  },
+  {
+    "geoid": "26900",
+    "key": "credit-constrained-total",
     "date": "2022-12-15",
     "value": 0.241,
     "value_": 24.10001
@@ -5451,6 +10407,27 @@
     "date": "2024-12-15",
     "value": 0.248,
     "value_": 24.8
+  },
+  {
+    "geoid": "27260",
+    "key": "credit-constrained-total",
+    "date": "2019-12-15",
+    "value": 0.314,
+    "value_": 31.4
+  },
+  {
+    "geoid": "27260",
+    "key": "credit-constrained-total",
+    "date": "2020-12-15",
+    "value": 0.289,
+    "value_": 28.9
+  },
+  {
+    "geoid": "27260",
+    "key": "credit-constrained-total",
+    "date": "2021-12-15",
+    "value": 0.276,
+    "value_": 27.60001
   },
   {
     "geoid": "27260",
@@ -5476,6 +10453,27 @@
   {
     "geoid": "28140",
     "key": "credit-constrained-total",
+    "date": "2019-12-15",
+    "value": 0.251,
+    "value_": 25.10001
+  },
+  {
+    "geoid": "28140",
+    "key": "credit-constrained-total",
+    "date": "2020-12-15",
+    "value": 0.23,
+    "value_": 23
+  },
+  {
+    "geoid": "28140",
+    "key": "credit-constrained-total",
+    "date": "2021-12-15",
+    "value": 0.219,
+    "value_": 21.9
+  },
+  {
+    "geoid": "28140",
+    "key": "credit-constrained-total",
     "date": "2022-12-15",
     "value": 0.218,
     "value_": 21.80001
@@ -5493,6 +10491,27 @@
     "date": "2024-12-15",
     "value": 0.219,
     "value_": 21.90001
+  },
+  {
+    "geoid": "29820",
+    "key": "credit-constrained-total",
+    "date": "2019-12-15",
+    "value": 0.314,
+    "value_": 31.4
+  },
+  {
+    "geoid": "29820",
+    "key": "credit-constrained-total",
+    "date": "2020-12-15",
+    "value": 0.287,
+    "value_": 28.7
+  },
+  {
+    "geoid": "29820",
+    "key": "credit-constrained-total",
+    "date": "2021-12-15",
+    "value": 0.274,
+    "value_": 27.4
   },
   {
     "geoid": "29820",
@@ -5518,6 +10537,27 @@
   {
     "geoid": "31080",
     "key": "credit-constrained-total",
+    "date": "2019-12-15",
+    "value": 0.232,
+    "value_": 23.2
+  },
+  {
+    "geoid": "31080",
+    "key": "credit-constrained-total",
+    "date": "2020-12-15",
+    "value": 0.205,
+    "value_": 20.5
+  },
+  {
+    "geoid": "31080",
+    "key": "credit-constrained-total",
+    "date": "2021-12-15",
+    "value": 0.189,
+    "value_": 18.9
+  },
+  {
+    "geoid": "31080",
+    "key": "credit-constrained-total",
     "date": "2022-12-15",
     "value": 0.193,
     "value_": 19.3
@@ -5535,6 +10575,27 @@
     "date": "2024-12-15",
     "value": 0.201,
     "value_": 20.1
+  },
+  {
+    "geoid": "32820",
+    "key": "credit-constrained-total",
+    "date": "2019-12-15",
+    "value": 0.39,
+    "value_": 39
+  },
+  {
+    "geoid": "32820",
+    "key": "credit-constrained-total",
+    "date": "2020-12-15",
+    "value": 0.362,
+    "value_": 36.19999
+  },
+  {
+    "geoid": "32820",
+    "key": "credit-constrained-total",
+    "date": "2021-12-15",
+    "value": 0.349,
+    "value_": 34.89999
   },
   {
     "geoid": "32820",
@@ -5560,6 +10621,27 @@
   {
     "geoid": "33100",
     "key": "credit-constrained-total",
+    "date": "2019-12-15",
+    "value": 0.307,
+    "value_": 30.7
+  },
+  {
+    "geoid": "33100",
+    "key": "credit-constrained-total",
+    "date": "2020-12-15",
+    "value": 0.279,
+    "value_": 27.9
+  },
+  {
+    "geoid": "33100",
+    "key": "credit-constrained-total",
+    "date": "2021-12-15",
+    "value": 0.265,
+    "value_": 26.5
+  },
+  {
+    "geoid": "33100",
+    "key": "credit-constrained-total",
     "date": "2022-12-15",
     "value": 0.264,
     "value_": 26.4
@@ -5577,6 +10659,27 @@
     "date": "2024-12-15",
     "value": 0.275,
     "value_": 27.5
+  },
+  {
+    "geoid": "33340",
+    "key": "credit-constrained-total",
+    "date": "2019-12-15",
+    "value": 0.214,
+    "value_": 21.39999
+  },
+  {
+    "geoid": "33340",
+    "key": "credit-constrained-total",
+    "date": "2020-12-15",
+    "value": 0.191,
+    "value_": 19.09999
+  },
+  {
+    "geoid": "33340",
+    "key": "credit-constrained-total",
+    "date": "2021-12-15",
+    "value": 0.185,
+    "value_": 18.5
   },
   {
     "geoid": "33340",
@@ -5602,6 +10705,27 @@
   {
     "geoid": "34980",
     "key": "credit-constrained-total",
+    "date": "2019-12-15",
+    "value": 0.269,
+    "value_": 26.9
+  },
+  {
+    "geoid": "34980",
+    "key": "credit-constrained-total",
+    "date": "2020-12-15",
+    "value": 0.247,
+    "value_": 24.69999
+  },
+  {
+    "geoid": "34980",
+    "key": "credit-constrained-total",
+    "date": "2021-12-15",
+    "value": 0.232,
+    "value_": 23.2
+  },
+  {
+    "geoid": "34980",
+    "key": "credit-constrained-total",
     "date": "2022-12-15",
     "value": 0.227,
     "value_": 22.69999
@@ -5619,6 +10743,27 @@
     "date": "2024-12-15",
     "value": 0.225,
     "value_": 22.5
+  },
+  {
+    "geoid": "35620",
+    "key": "credit-constrained-total",
+    "date": "2019-12-15",
+    "value": 0.226,
+    "value_": 22.6
+  },
+  {
+    "geoid": "35620",
+    "key": "credit-constrained-total",
+    "date": "2020-12-15",
+    "value": 0.2,
+    "value_": 20
+  },
+  {
+    "geoid": "35620",
+    "key": "credit-constrained-total",
+    "date": "2021-12-15",
+    "value": 0.188,
+    "value_": 18.8
   },
   {
     "geoid": "35620",
@@ -5644,6 +10789,27 @@
   {
     "geoid": "36420",
     "key": "credit-constrained-total",
+    "date": "2019-12-15",
+    "value": 0.297,
+    "value_": 29.7
+  },
+  {
+    "geoid": "36420",
+    "key": "credit-constrained-total",
+    "date": "2020-12-15",
+    "value": 0.281,
+    "value_": 28.1
+  },
+  {
+    "geoid": "36420",
+    "key": "credit-constrained-total",
+    "date": "2021-12-15",
+    "value": 0.268,
+    "value_": 26.79999
+  },
+  {
+    "geoid": "36420",
+    "key": "credit-constrained-total",
     "date": "2022-12-15",
     "value": 0.265,
     "value_": 26.49999
@@ -5661,6 +10827,27 @@
     "date": "2024-12-15",
     "value": 0.267,
     "value_": 26.7
+  },
+  {
+    "geoid": "36540",
+    "key": "credit-constrained-total",
+    "date": "2019-12-15",
+    "value": 0.224,
+    "value_": 22.4
+  },
+  {
+    "geoid": "36540",
+    "key": "credit-constrained-total",
+    "date": "2020-12-15",
+    "value": 0.202,
+    "value_": 20.20001
+  },
+  {
+    "geoid": "36540",
+    "key": "credit-constrained-total",
+    "date": "2021-12-15",
+    "value": 0.187,
+    "value_": 18.69998
   },
   {
     "geoid": "36540",
@@ -5686,6 +10873,27 @@
   {
     "geoid": "36740",
     "key": "credit-constrained-total",
+    "date": "2019-12-15",
+    "value": 0.321,
+    "value_": 32.1
+  },
+  {
+    "geoid": "36740",
+    "key": "credit-constrained-total",
+    "date": "2020-12-15",
+    "value": 0.295,
+    "value_": 29.5
+  },
+  {
+    "geoid": "36740",
+    "key": "credit-constrained-total",
+    "date": "2021-12-15",
+    "value": 0.279,
+    "value_": 27.9
+  },
+  {
+    "geoid": "36740",
+    "key": "credit-constrained-total",
     "date": "2022-12-15",
     "value": 0.28,
     "value_": 28
@@ -5707,6 +10915,27 @@
   {
     "geoid": "37980",
     "key": "credit-constrained-total",
+    "date": "2019-12-15",
+    "value": 0.252,
+    "value_": 25.2
+  },
+  {
+    "geoid": "37980",
+    "key": "credit-constrained-total",
+    "date": "2020-12-15",
+    "value": 0.225,
+    "value_": 22.5
+  },
+  {
+    "geoid": "37980",
+    "key": "credit-constrained-total",
+    "date": "2021-12-15",
+    "value": 0.213,
+    "value_": 21.3
+  },
+  {
+    "geoid": "37980",
+    "key": "credit-constrained-total",
     "date": "2022-12-15",
     "value": 0.216,
     "value_": 21.6
@@ -5722,6 +10951,27 @@
     "geoid": "37980",
     "key": "credit-constrained-total",
     "date": "2024-12-15",
+    "value": 0.225,
+    "value_": 22.5
+  },
+  {
+    "geoid": "38060",
+    "key": "credit-constrained-total",
+    "date": "2019-12-15",
+    "value": 0.266,
+    "value_": 26.6
+  },
+  {
+    "geoid": "38060",
+    "key": "credit-constrained-total",
+    "date": "2020-12-15",
+    "value": 0.24,
+    "value_": 24
+  },
+  {
+    "geoid": "38060",
+    "key": "credit-constrained-total",
+    "date": "2021-12-15",
     "value": 0.225,
     "value_": 22.5
   },
@@ -5749,6 +10999,27 @@
   {
     "geoid": "38300",
     "key": "credit-constrained-total",
+    "date": "2019-12-15",
+    "value": 0.215,
+    "value_": 21.5
+  },
+  {
+    "geoid": "38300",
+    "key": "credit-constrained-total",
+    "date": "2020-12-15",
+    "value": 0.196,
+    "value_": 19.59999
+  },
+  {
+    "geoid": "38300",
+    "key": "credit-constrained-total",
+    "date": "2021-12-15",
+    "value": 0.183,
+    "value_": 18.3
+  },
+  {
+    "geoid": "38300",
+    "key": "credit-constrained-total",
     "date": "2022-12-15",
     "value": 0.185,
     "value_": 18.5
@@ -5766,6 +11037,27 @@
     "date": "2024-12-15",
     "value": 0.189,
     "value_": 18.9
+  },
+  {
+    "geoid": "38900",
+    "key": "credit-constrained-total",
+    "date": "2019-12-15",
+    "value": 0.195,
+    "value_": 19.5
+  },
+  {
+    "geoid": "38900",
+    "key": "credit-constrained-total",
+    "date": "2020-12-15",
+    "value": 0.17,
+    "value_": 17
+  },
+  {
+    "geoid": "38900",
+    "key": "credit-constrained-total",
+    "date": "2021-12-15",
+    "value": 0.156,
+    "value_": 15.59999
   },
   {
     "geoid": "38900",
@@ -5791,6 +11083,27 @@
   {
     "geoid": "39300",
     "key": "credit-constrained-total",
+    "date": "2019-12-15",
+    "value": 0.24,
+    "value_": 24
+  },
+  {
+    "geoid": "39300",
+    "key": "credit-constrained-total",
+    "date": "2020-12-15",
+    "value": 0.213,
+    "value_": 21.30001
+  },
+  {
+    "geoid": "39300",
+    "key": "credit-constrained-total",
+    "date": "2021-12-15",
+    "value": 0.2,
+    "value_": 20
+  },
+  {
+    "geoid": "39300",
+    "key": "credit-constrained-total",
     "date": "2022-12-15",
     "value": 0.2,
     "value_": 20
@@ -5808,6 +11121,27 @@
     "date": "2024-12-15",
     "value": 0.212,
     "value_": 21.2
+  },
+  {
+    "geoid": "39580",
+    "key": "credit-constrained-total",
+    "date": "2019-12-15",
+    "value": 0.259,
+    "value_": 25.9
+  },
+  {
+    "geoid": "39580",
+    "key": "credit-constrained-total",
+    "date": "2020-12-15",
+    "value": 0.234,
+    "value_": 23.40001
+  },
+  {
+    "geoid": "39580",
+    "key": "credit-constrained-total",
+    "date": "2021-12-15",
+    "value": 0.222,
+    "value_": 22.2
   },
   {
     "geoid": "39580",
@@ -5833,6 +11167,27 @@
   {
     "geoid": "40060",
     "key": "credit-constrained-total",
+    "date": "2019-12-15",
+    "value": 0.277,
+    "value_": 27.69999
+  },
+  {
+    "geoid": "40060",
+    "key": "credit-constrained-total",
+    "date": "2020-12-15",
+    "value": 0.253,
+    "value_": 25.30001
+  },
+  {
+    "geoid": "40060",
+    "key": "credit-constrained-total",
+    "date": "2021-12-15",
+    "value": 0.241,
+    "value_": 24.1
+  },
+  {
+    "geoid": "40060",
+    "key": "credit-constrained-total",
     "date": "2022-12-15",
     "value": 0.239,
     "value_": 23.9
@@ -5850,6 +11205,27 @@
     "date": "2024-12-15",
     "value": 0.244,
     "value_": 24.39999
+  },
+  {
+    "geoid": "40140",
+    "key": "credit-constrained-total",
+    "date": "2019-12-15",
+    "value": 0.31,
+    "value_": 31
+  },
+  {
+    "geoid": "40140",
+    "key": "credit-constrained-total",
+    "date": "2020-12-15",
+    "value": 0.279,
+    "value_": 27.9
+  },
+  {
+    "geoid": "40140",
+    "key": "credit-constrained-total",
+    "date": "2021-12-15",
+    "value": 0.253,
+    "value_": 25.3
   },
   {
     "geoid": "40140",
@@ -5875,6 +11251,27 @@
   {
     "geoid": "40380",
     "key": "credit-constrained-total",
+    "date": "2019-12-15",
+    "value": 0.233,
+    "value_": 23.3
+  },
+  {
+    "geoid": "40380",
+    "key": "credit-constrained-total",
+    "date": "2020-12-15",
+    "value": 0.209,
+    "value_": 20.89999
+  },
+  {
+    "geoid": "40380",
+    "key": "credit-constrained-total",
+    "date": "2021-12-15",
+    "value": 0.196,
+    "value_": 19.60001
+  },
+  {
+    "geoid": "40380",
+    "key": "credit-constrained-total",
     "date": "2022-12-15",
     "value": 0.199,
     "value_": 19.90002
@@ -5892,6 +11289,27 @@
     "date": "2024-12-15",
     "value": 0.204,
     "value_": 20.4
+  },
+  {
+    "geoid": "40900",
+    "key": "credit-constrained-total",
+    "date": "2019-12-15",
+    "value": 0.215,
+    "value_": 21.49999
+  },
+  {
+    "geoid": "40900",
+    "key": "credit-constrained-total",
+    "date": "2020-12-15",
+    "value": 0.191,
+    "value_": 19.10001
+  },
+  {
+    "geoid": "40900",
+    "key": "credit-constrained-total",
+    "date": "2021-12-15",
+    "value": 0.178,
+    "value_": 17.8
   },
   {
     "geoid": "40900",
@@ -5917,6 +11335,27 @@
   {
     "geoid": "41620",
     "key": "credit-constrained-total",
+    "date": "2019-12-15",
+    "value": 0.211,
+    "value_": 21.10001
+  },
+  {
+    "geoid": "41620",
+    "key": "credit-constrained-total",
+    "date": "2020-12-15",
+    "value": 0.193,
+    "value_": 19.29999
+  },
+  {
+    "geoid": "41620",
+    "key": "credit-constrained-total",
+    "date": "2021-12-15",
+    "value": 0.18,
+    "value_": 18
+  },
+  {
+    "geoid": "41620",
+    "key": "credit-constrained-total",
     "date": "2022-12-15",
     "value": 0.173,
     "value_": 17.3
@@ -5934,6 +11373,27 @@
     "date": "2024-12-15",
     "value": 0.188,
     "value_": 18.80001
+  },
+  {
+    "geoid": "41700",
+    "key": "credit-constrained-total",
+    "date": "2019-12-15",
+    "value": 0.346,
+    "value_": 34.6
+  },
+  {
+    "geoid": "41700",
+    "key": "credit-constrained-total",
+    "date": "2020-12-15",
+    "value": 0.319,
+    "value_": 31.9
+  },
+  {
+    "geoid": "41700",
+    "key": "credit-constrained-total",
+    "date": "2021-12-15",
+    "value": 0.303,
+    "value_": 30.3
   },
   {
     "geoid": "41700",
@@ -5959,6 +11419,27 @@
   {
     "geoid": "41740",
     "key": "credit-constrained-total",
+    "date": "2019-12-15",
+    "value": 0.212,
+    "value_": 21.2
+  },
+  {
+    "geoid": "41740",
+    "key": "credit-constrained-total",
+    "date": "2020-12-15",
+    "value": 0.187,
+    "value_": 18.69999
+  },
+  {
+    "geoid": "41740",
+    "key": "credit-constrained-total",
+    "date": "2021-12-15",
+    "value": 0.173,
+    "value_": 17.3
+  },
+  {
+    "geoid": "41740",
+    "key": "credit-constrained-total",
     "date": "2022-12-15",
     "value": 0.177,
     "value_": 17.7
@@ -5976,6 +11457,27 @@
     "date": "2024-12-15",
     "value": 0.179,
     "value_": 17.9
+  },
+  {
+    "geoid": "41860",
+    "key": "credit-constrained-total",
+    "date": "2019-12-15",
+    "value": 0.152,
+    "value_": 15.2
+  },
+  {
+    "geoid": "41860",
+    "key": "credit-constrained-total",
+    "date": "2020-12-15",
+    "value": 0.133,
+    "value_": 13.3
+  },
+  {
+    "geoid": "41860",
+    "key": "credit-constrained-total",
+    "date": "2021-12-15",
+    "value": 0.125,
+    "value_": 12.5
   },
   {
     "geoid": "41860",
@@ -6001,6 +11503,27 @@
   {
     "geoid": "41940",
     "key": "credit-constrained-total",
+    "date": "2019-12-15",
+    "value": 0.139,
+    "value_": 13.9
+  },
+  {
+    "geoid": "41940",
+    "key": "credit-constrained-total",
+    "date": "2020-12-15",
+    "value": 0.121,
+    "value_": 12.1
+  },
+  {
+    "geoid": "41940",
+    "key": "credit-constrained-total",
+    "date": "2021-12-15",
+    "value": 0.114,
+    "value_": 11.4
+  },
+  {
+    "geoid": "41940",
+    "key": "credit-constrained-total",
     "date": "2022-12-15",
     "value": 0.117,
     "value_": 11.7
@@ -6018,6 +11541,27 @@
     "date": "2024-12-15",
     "value": 0.121,
     "value_": 12.10001
+  },
+  {
+    "geoid": "42660",
+    "key": "credit-constrained-total",
+    "date": "2019-12-15",
+    "value": 0.18,
+    "value_": 18
+  },
+  {
+    "geoid": "42660",
+    "key": "credit-constrained-total",
+    "date": "2020-12-15",
+    "value": 0.157,
+    "value_": 15.7
+  },
+  {
+    "geoid": "42660",
+    "key": "credit-constrained-total",
+    "date": "2021-12-15",
+    "value": 0.147,
+    "value_": 14.7
   },
   {
     "geoid": "42660",
@@ -6043,6 +11587,27 @@
   {
     "geoid": "46060",
     "key": "credit-constrained-total",
+    "date": "2019-12-15",
+    "value": 0.251,
+    "value_": 25.1
+  },
+  {
+    "geoid": "46060",
+    "key": "credit-constrained-total",
+    "date": "2020-12-15",
+    "value": 0.23,
+    "value_": 23.00002
+  },
+  {
+    "geoid": "46060",
+    "key": "credit-constrained-total",
+    "date": "2021-12-15",
+    "value": 0.215,
+    "value_": 21.50001
+  },
+  {
+    "geoid": "46060",
+    "key": "credit-constrained-total",
     "date": "2022-12-15",
     "value": 0.219,
     "value_": 21.9
@@ -6060,6 +11625,27 @@
     "date": "2024-12-15",
     "value": 0.222,
     "value_": 22.2
+  },
+  {
+    "geoid": "46140",
+    "key": "credit-constrained-total",
+    "date": "2019-12-15",
+    "value": 0.307,
+    "value_": 30.7
+  },
+  {
+    "geoid": "46140",
+    "key": "credit-constrained-total",
+    "date": "2020-12-15",
+    "value": 0.282,
+    "value_": 28.2
+  },
+  {
+    "geoid": "46140",
+    "key": "credit-constrained-total",
+    "date": "2021-12-15",
+    "value": 0.27,
+    "value_": 27
   },
   {
     "geoid": "46140",
@@ -6085,6 +11671,27 @@
   {
     "geoid": "47260",
     "key": "credit-constrained-total",
+    "date": "2019-12-15",
+    "value": 0.318,
+    "value_": 31.8
+  },
+  {
+    "geoid": "47260",
+    "key": "credit-constrained-total",
+    "date": "2020-12-15",
+    "value": 0.289,
+    "value_": 28.9
+  },
+  {
+    "geoid": "47260",
+    "key": "credit-constrained-total",
+    "date": "2021-12-15",
+    "value": 0.275,
+    "value_": 27.49999
+  },
+  {
+    "geoid": "47260",
+    "key": "credit-constrained-total",
     "date": "2022-12-15",
     "value": 0.269,
     "value_": 26.9
@@ -6102,6 +11709,27 @@
     "date": "2024-12-15",
     "value": 0.267,
     "value_": 26.70001
+  },
+  {
+    "geoid": "47900",
+    "key": "credit-constrained-total",
+    "date": "2019-12-15",
+    "value": 0.228,
+    "value_": 22.8
+  },
+  {
+    "geoid": "47900",
+    "key": "credit-constrained-total",
+    "date": "2020-12-15",
+    "value": 0.203,
+    "value_": 20.3
+  },
+  {
+    "geoid": "47900",
+    "key": "credit-constrained-total",
+    "date": "2021-12-15",
+    "value": 0.191,
+    "value_": 19.1
   },
   {
     "geoid": "47900",
@@ -6127,6 +11755,27 @@
   {
     "geoid": "51013",
     "key": "credit-constrained-total",
+    "date": "2019-12-15",
+    "value": 0.1281,
+    "value_": 12.80956
+  },
+  {
+    "geoid": "51013",
+    "key": "credit-constrained-total",
+    "date": "2020-12-15",
+    "value": 0.11327,
+    "value_": 11.32691
+  },
+  {
+    "geoid": "51013",
+    "key": "credit-constrained-total",
+    "date": "2021-12-15",
+    "value": 0.10487,
+    "value_": 10.48656
+  },
+  {
+    "geoid": "51013",
+    "key": "credit-constrained-total",
     "date": "2022-12-15",
     "value": 0.11243,
     "value_": 11.24313
@@ -6144,6 +11793,27 @@
     "date": "2024-12-15",
     "value": 0.11408,
     "value_": 11.40758
+  },
+  {
+    "geoid": "51043",
+    "key": "credit-constrained-total",
+    "date": "2019-12-15",
+    "value": 0.17031,
+    "value_": 17.03144
+  },
+  {
+    "geoid": "51043",
+    "key": "credit-constrained-total",
+    "date": "2020-12-15",
+    "value": 0.1414,
+    "value_": 14.14021
+  },
+  {
+    "geoid": "51043",
+    "key": "credit-constrained-total",
+    "date": "2021-12-15",
+    "value": 0.13333,
+    "value_": 13.33333
   },
   {
     "geoid": "51043",
@@ -6169,6 +11839,27 @@
   {
     "geoid": "51047",
     "key": "credit-constrained-total",
+    "date": "2019-12-15",
+    "value": 0.29015,
+    "value_": 29.01545
+  },
+  {
+    "geoid": "51047",
+    "key": "credit-constrained-total",
+    "date": "2020-12-15",
+    "value": 0.27042,
+    "value_": 27.0421
+  },
+  {
+    "geoid": "51047",
+    "key": "credit-constrained-total",
+    "date": "2021-12-15",
+    "value": 0.244,
+    "value_": 24.40002
+  },
+  {
+    "geoid": "51047",
+    "key": "credit-constrained-total",
     "date": "2022-12-15",
     "value": 0.24647,
     "value_": 24.6473
@@ -6186,6 +11877,27 @@
     "date": "2024-12-15",
     "value": 0.23127,
     "value_": 23.12732
+  },
+  {
+    "geoid": "51059",
+    "key": "credit-constrained-total",
+    "date": "2019-12-15",
+    "value": 0.14817,
+    "value_": 14.81667
+  },
+  {
+    "geoid": "51059",
+    "key": "credit-constrained-total",
+    "date": "2020-12-15",
+    "value": 0.12845,
+    "value_": 12.84473
+  },
+  {
+    "geoid": "51059",
+    "key": "credit-constrained-total",
+    "date": "2021-12-15",
+    "value": 0.11853,
+    "value_": 11.85303
   },
   {
     "geoid": "51059",
@@ -6211,6 +11923,27 @@
   {
     "geoid": "51061",
     "key": "credit-constrained-total",
+    "date": "2019-12-15",
+    "value": 0.19948,
+    "value_": 19.94775
+  },
+  {
+    "geoid": "51061",
+    "key": "credit-constrained-total",
+    "date": "2020-12-15",
+    "value": 0.17636,
+    "value_": 17.63568
+  },
+  {
+    "geoid": "51061",
+    "key": "credit-constrained-total",
+    "date": "2021-12-15",
+    "value": 0.16614,
+    "value_": 16.61406
+  },
+  {
+    "geoid": "51061",
+    "key": "credit-constrained-total",
     "date": "2022-12-15",
     "value": 0.15971,
     "value_": 15.9713
@@ -6228,6 +11961,27 @@
     "date": "2024-12-15",
     "value": 0.16246,
     "value_": 16.24619
+  },
+  {
+    "geoid": "51107",
+    "key": "credit-constrained-total",
+    "date": "2019-12-15",
+    "value": 0.15796,
+    "value_": 15.79611
+  },
+  {
+    "geoid": "51107",
+    "key": "credit-constrained-total",
+    "date": "2020-12-15",
+    "value": 0.13581,
+    "value_": 13.58088
+  },
+  {
+    "geoid": "51107",
+    "key": "credit-constrained-total",
+    "date": "2021-12-15",
+    "value": 0.12495,
+    "value_": 12.49481
   },
   {
     "geoid": "51107",
@@ -6253,6 +12007,27 @@
   {
     "geoid": "51153",
     "key": "credit-constrained-total",
+    "date": "2019-12-15",
+    "value": 0.26377,
+    "value_": 26.3767
+  },
+  {
+    "geoid": "51153",
+    "key": "credit-constrained-total",
+    "date": "2020-12-15",
+    "value": 0.23382,
+    "value_": 23.38207
+  },
+  {
+    "geoid": "51153",
+    "key": "credit-constrained-total",
+    "date": "2021-12-15",
+    "value": 0.21769,
+    "value_": 21.76869
+  },
+  {
+    "geoid": "51153",
+    "key": "credit-constrained-total",
     "date": "2022-12-15",
     "value": 0.21753,
     "value_": 21.75257
@@ -6270,6 +12045,27 @@
     "date": "2024-12-15",
     "value": 0.22059,
     "value_": 22.05888
+  },
+  {
+    "geoid": "51157",
+    "key": "credit-constrained-total",
+    "date": "2019-12-15",
+    "value": 0.18153,
+    "value_": 18.1527
+  },
+  {
+    "geoid": "51157",
+    "key": "credit-constrained-total",
+    "date": "2020-12-15",
+    "value": 0.15212,
+    "value_": 15.21156
+  },
+  {
+    "geoid": "51157",
+    "key": "credit-constrained-total",
+    "date": "2021-12-15",
+    "value": 0.11987,
+    "value_": 11.98718
   },
   {
     "geoid": "51157",
@@ -6295,6 +12091,27 @@
   {
     "geoid": "51177",
     "key": "credit-constrained-total",
+    "date": "2019-12-15",
+    "value": 0.2777,
+    "value_": 27.7699
+  },
+  {
+    "geoid": "51177",
+    "key": "credit-constrained-total",
+    "date": "2020-12-15",
+    "value": 0.26133,
+    "value_": 26.13301
+  },
+  {
+    "geoid": "51177",
+    "key": "credit-constrained-total",
+    "date": "2021-12-15",
+    "value": 0.23811,
+    "value_": 23.81106
+  },
+  {
+    "geoid": "51177",
+    "key": "credit-constrained-total",
     "date": "2022-12-15",
     "value": 0.23704,
     "value_": 23.70404
@@ -6312,6 +12129,27 @@
     "date": "2024-12-15",
     "value": 0.24124,
     "value_": 24.12413
+  },
+  {
+    "geoid": "51179",
+    "key": "credit-constrained-total",
+    "date": "2019-12-15",
+    "value": 0.26424,
+    "value_": 26.42395
+  },
+  {
+    "geoid": "51179",
+    "key": "credit-constrained-total",
+    "date": "2020-12-15",
+    "value": 0.23142,
+    "value_": 23.14188
+  },
+  {
+    "geoid": "51179",
+    "key": "credit-constrained-total",
+    "date": "2021-12-15",
+    "value": 0.21873,
+    "value_": 21.87307
   },
   {
     "geoid": "51179",
@@ -6337,6 +12175,27 @@
   {
     "geoid": "51187",
     "key": "credit-constrained-total",
+    "date": "2019-12-15",
+    "value": 0.26718,
+    "value_": 26.71765
+  },
+  {
+    "geoid": "51187",
+    "key": "credit-constrained-total",
+    "date": "2020-12-15",
+    "value": 0.24769,
+    "value_": 24.7688
+  },
+  {
+    "geoid": "51187",
+    "key": "credit-constrained-total",
+    "date": "2021-12-15",
+    "value": 0.23697,
+    "value_": 23.69658
+  },
+  {
+    "geoid": "51187",
+    "key": "credit-constrained-total",
     "date": "2022-12-15",
     "value": 0.23182,
     "value_": 23.18218
@@ -6354,6 +12213,27 @@
     "date": "2024-12-15",
     "value": 0.24873,
     "value_": 24.87297
+  },
+  {
+    "geoid": "51510",
+    "key": "credit-constrained-total",
+    "date": "2019-12-15",
+    "value": 0.19643,
+    "value_": 19.64333
+  },
+  {
+    "geoid": "51510",
+    "key": "credit-constrained-total",
+    "date": "2020-12-15",
+    "value": 0.17591,
+    "value_": 17.59056
+  },
+  {
+    "geoid": "51510",
+    "key": "credit-constrained-total",
+    "date": "2021-12-15",
+    "value": 0.1672,
+    "value_": 16.71992
   },
   {
     "geoid": "51510",
@@ -6379,6 +12259,27 @@
   {
     "geoid": "51630",
     "key": "credit-constrained-total",
+    "date": "2019-12-15",
+    "value": 0.31267,
+    "value_": 31.26709
+  },
+  {
+    "geoid": "51630",
+    "key": "credit-constrained-total",
+    "date": "2020-12-15",
+    "value": 0.30054,
+    "value_": 30.05374
+  },
+  {
+    "geoid": "51630",
+    "key": "credit-constrained-total",
+    "date": "2021-12-15",
+    "value": 0.27636,
+    "value_": 27.63643
+  },
+  {
+    "geoid": "51630",
+    "key": "credit-constrained-total",
     "date": "2022-12-15",
     "value": 0.26094,
     "value_": 26.0943
@@ -6396,6 +12297,27 @@
     "date": "2024-12-15",
     "value": 0.29253,
     "value_": 29.2526
+  },
+  {
+    "geoid": "54037",
+    "key": "credit-constrained-total",
+    "date": "2019-12-15",
+    "value": 0.29014,
+    "value_": 29.01439
+  },
+  {
+    "geoid": "54037",
+    "key": "credit-constrained-total",
+    "date": "2020-12-15",
+    "value": 0.25334,
+    "value_": 25.33402
+  },
+  {
+    "geoid": "54037",
+    "key": "credit-constrained-total",
+    "date": "2021-12-15",
+    "value": 0.24726,
+    "value_": 24.72635
   },
   {
     "geoid": "54037",
@@ -6421,6 +12343,27 @@
   {
     "geoid": "99997",
     "key": "credit-constrained-total",
+    "date": "2019-12-15",
+    "value": 0.2541,
+    "value_": 25.40961
+  },
+  {
+    "geoid": "99997",
+    "key": "credit-constrained-total",
+    "date": "2020-12-15",
+    "value": 0.22983,
+    "value_": 22.98294
+  },
+  {
+    "geoid": "99997",
+    "key": "credit-constrained-total",
+    "date": "2021-12-15",
+    "value": 0.2175,
+    "value_": 21.75033
+  },
+  {
+    "geoid": "99997",
+    "key": "credit-constrained-total",
     "date": "2022-12-15",
     "value": 0.21899,
     "value_": 21.89903
@@ -6438,6 +12381,27 @@
     "date": "2024-12-15",
     "value": 0.22567,
     "value_": 22.56724
+  },
+  {
+    "geoid": "99999",
+    "key": "credit-constrained-total",
+    "date": "2019-12-15",
+    "value": 0.261,
+    "value_": 26.1
+  },
+  {
+    "geoid": "99999",
+    "key": "credit-constrained-total",
+    "date": "2020-12-15",
+    "value": 0.238,
+    "value_": 23.8
+  },
+  {
+    "geoid": "99999",
+    "key": "credit-constrained-total",
+    "date": "2021-12-15",
+    "value": 0.225,
+    "value_": 22.5
   },
   {
     "geoid": "99999",

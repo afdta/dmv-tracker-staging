@@ -2,6 +2,27 @@
   {
     "geoid": "11001",
     "key": "business-bankruptcy-rate",
+    "date": "2019-03-15",
+    "value": 4.80054,
+    "value_": 4.80054
+  },
+  {
+    "geoid": "11001",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-03-15",
+    "value": 8.19774,
+    "value_": 8.19774
+  },
+  {
+    "geoid": "11001",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-03-15",
+    "value": 5.67795,
+    "value_": 5.67795
+  },
+  {
+    "geoid": "11001",
+    "key": "business-bankruptcy-rate",
     "date": "2022-03-15",
     "value": 4.58089,
     "value_": 4.58089
@@ -26,6 +47,27 @@
     "date": "2025-03-15",
     "value": 8.57615,
     "value_": 8.57615
+  },
+  {
+    "geoid": "12060",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-03-15",
+    "value": 8.57343,
+    "value_": 8.57343
+  },
+  {
+    "geoid": "12060",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-03-15",
+    "value": 9.57346,
+    "value_": 9.57346
+  },
+  {
+    "geoid": "12060",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-03-15",
+    "value": 5.87608,
+    "value_": 5.87608
   },
   {
     "geoid": "12060",
@@ -58,6 +100,27 @@
   {
     "geoid": "12420",
     "key": "business-bankruptcy-rate",
+    "date": "2019-03-15",
+    "value": 6.95658,
+    "value_": 6.95658
+  },
+  {
+    "geoid": "12420",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-03-15",
+    "value": 8.86861,
+    "value_": 8.86861
+  },
+  {
+    "geoid": "12420",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-03-15",
+    "value": 6.65511,
+    "value_": 6.65511
+  },
+  {
+    "geoid": "12420",
+    "key": "business-bankruptcy-rate",
     "date": "2022-03-15",
     "value": 4.89636,
     "value_": 4.89636
@@ -82,6 +145,27 @@
     "date": "2025-03-15",
     "value": 7.62021,
     "value_": 7.62021
+  },
+  {
+    "geoid": "12580",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-03-15",
+    "value": 5.95598,
+    "value_": 5.95598
+  },
+  {
+    "geoid": "12580",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-03-15",
+    "value": 5.76055,
+    "value_": 5.76055
+  },
+  {
+    "geoid": "12580",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-03-15",
+    "value": 4.77609,
+    "value_": 4.77609
   },
   {
     "geoid": "12580",
@@ -114,6 +198,27 @@
   {
     "geoid": "13820",
     "key": "business-bankruptcy-rate",
+    "date": "2019-03-15",
+    "value": 5.88951,
+    "value_": 5.88951
+  },
+  {
+    "geoid": "13820",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-03-15",
+    "value": 6.68463,
+    "value_": 6.68463
+  },
+  {
+    "geoid": "13820",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-03-15",
+    "value": 4.65642,
+    "value_": 4.65642
+  },
+  {
+    "geoid": "13820",
+    "key": "business-bankruptcy-rate",
     "date": "2022-03-15",
     "value": 3.47075,
     "value_": 3.47075
@@ -138,6 +243,27 @@
     "date": "2025-03-15",
     "value": 7.18227,
     "value_": 7.18227
+  },
+  {
+    "geoid": "14460",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-03-15",
+    "value": 5.12687,
+    "value_": 5.12687
+  },
+  {
+    "geoid": "14460",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-03-15",
+    "value": 4.86762,
+    "value_": 4.86762
+  },
+  {
+    "geoid": "14460",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-03-15",
+    "value": 3.66474,
+    "value_": 3.66474
   },
   {
     "geoid": "14460",
@@ -170,6 +296,27 @@
   {
     "geoid": "15380",
     "key": "business-bankruptcy-rate",
+    "date": "2019-03-15",
+    "value": 7.3557,
+    "value_": 7.3557
+  },
+  {
+    "geoid": "15380",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-03-15",
+    "value": 6.86998,
+    "value_": 6.86998
+  },
+  {
+    "geoid": "15380",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-03-15",
+    "value": 3.77755,
+    "value_": 3.77755
+  },
+  {
+    "geoid": "15380",
+    "key": "business-bankruptcy-rate",
     "date": "2022-03-15",
     "value": 3.45062,
     "value_": 3.45062
@@ -194,6 +341,27 @@
     "date": "2025-03-15",
     "value": 4.64253,
     "value_": 4.64253
+  },
+  {
+    "geoid": "16740",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-03-15",
+    "value": 2.91654,
+    "value_": 2.91654
+  },
+  {
+    "geoid": "16740",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-03-15",
+    "value": 3.33538,
+    "value_": 3.33538
+  },
+  {
+    "geoid": "16740",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-03-15",
+    "value": 2.65993,
+    "value_": 2.65993
   },
   {
     "geoid": "16740",
@@ -226,6 +394,27 @@
   {
     "geoid": "16980",
     "key": "business-bankruptcy-rate",
+    "date": "2019-03-15",
+    "value": 7.50712,
+    "value_": 7.50712
+  },
+  {
+    "geoid": "16980",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-03-15",
+    "value": 8.21015,
+    "value_": 8.21015
+  },
+  {
+    "geoid": "16980",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-03-15",
+    "value": 5.47957,
+    "value_": 5.47957
+  },
+  {
+    "geoid": "16980",
+    "key": "business-bankruptcy-rate",
     "date": "2022-03-15",
     "value": 4.81202,
     "value_": 4.81202
@@ -250,6 +439,27 @@
     "date": "2025-03-15",
     "value": 7.86847,
     "value_": 7.86847
+  },
+  {
+    "geoid": "17140",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-03-15",
+    "value": 5.00422,
+    "value_": 5.00422
+  },
+  {
+    "geoid": "17140",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-03-15",
+    "value": 4.30714,
+    "value_": 4.30714
+  },
+  {
+    "geoid": "17140",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-03-15",
+    "value": 2.66335,
+    "value_": 2.66335
   },
   {
     "geoid": "17140",
@@ -282,6 +492,27 @@
   {
     "geoid": "17410",
     "key": "business-bankruptcy-rate",
+    "date": "2019-03-15",
+    "value": 5.77788,
+    "value_": 5.77788
+  },
+  {
+    "geoid": "17410",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-03-15",
+    "value": 4.99031,
+    "value_": 4.99031
+  },
+  {
+    "geoid": "17410",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-03-15",
+    "value": 4.51429,
+    "value_": 4.51429
+  },
+  {
+    "geoid": "17410",
+    "key": "business-bankruptcy-rate",
     "date": "2022-03-15",
     "value": 3.92725,
     "value_": 3.92725
@@ -306,6 +537,27 @@
     "date": "2025-03-15",
     "value": 4.00415,
     "value_": 4.00415
+  },
+  {
+    "geoid": "18140",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-03-15",
+    "value": 3.952,
+    "value_": 3.952
+  },
+  {
+    "geoid": "18140",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-03-15",
+    "value": 4.43506,
+    "value_": 4.43506
+  },
+  {
+    "geoid": "18140",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-03-15",
+    "value": 2.88696,
+    "value_": 2.88696
   },
   {
     "geoid": "18140",
@@ -338,6 +590,27 @@
   {
     "geoid": "19100",
     "key": "business-bankruptcy-rate",
+    "date": "2019-03-15",
+    "value": 9.36049,
+    "value_": 9.36049
+  },
+  {
+    "geoid": "19100",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-03-15",
+    "value": 9.14237,
+    "value_": 9.14237
+  },
+  {
+    "geoid": "19100",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-03-15",
+    "value": 9.9915,
+    "value_": 9.9915
+  },
+  {
+    "geoid": "19100",
+    "key": "business-bankruptcy-rate",
     "date": "2022-03-15",
     "value": 5.90699,
     "value_": 5.90699
@@ -362,6 +635,27 @@
     "date": "2025-03-15",
     "value": 8.92119,
     "value_": 8.92119
+  },
+  {
+    "geoid": "19740",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-03-15",
+    "value": 7.62275,
+    "value_": 7.62275
+  },
+  {
+    "geoid": "19740",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-03-15",
+    "value": 6.66612,
+    "value_": 6.66612
+  },
+  {
+    "geoid": "19740",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-03-15",
+    "value": 6.74857,
+    "value_": 6.74857
   },
   {
     "geoid": "19740",
@@ -394,6 +688,27 @@
   {
     "geoid": "19820",
     "key": "business-bankruptcy-rate",
+    "date": "2019-03-15",
+    "value": 6.38976,
+    "value_": 6.38976
+  },
+  {
+    "geoid": "19820",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-03-15",
+    "value": 5.40424,
+    "value_": 5.40424
+  },
+  {
+    "geoid": "19820",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-03-15",
+    "value": 2.76887,
+    "value_": 2.76887
+  },
+  {
+    "geoid": "19820",
+    "key": "business-bankruptcy-rate",
     "date": "2022-03-15",
     "value": 2.93678,
     "value_": 2.93678
@@ -418,6 +733,27 @@
     "date": "2025-03-15",
     "value": 3.4296,
     "value_": 3.4296
+  },
+  {
+    "geoid": "23420",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-03-15",
+    "value": 5.54322,
+    "value_": 5.54322
+  },
+  {
+    "geoid": "23420",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-03-15",
+    "value": 6.08895,
+    "value_": 6.08895
+  },
+  {
+    "geoid": "23420",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-03-15",
+    "value": 4.60791,
+    "value_": 4.60791
   },
   {
     "geoid": "23420",
@@ -450,6 +786,27 @@
   {
     "geoid": "24017",
     "key": "business-bankruptcy-rate",
+    "date": "2019-03-15",
+    "value": 6.1075,
+    "value_": 6.1075
+  },
+  {
+    "geoid": "24017",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-03-15",
+    "value": 5.99909,
+    "value_": 5.99909
+  },
+  {
+    "geoid": "24017",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-03-15",
+    "value": 1.18468,
+    "value_": 1.18468
+  },
+  {
+    "geoid": "24017",
+    "key": "business-bankruptcy-rate",
     "date": "2022-03-15",
     "value": 1.76081,
     "value_": 1.76081
@@ -474,6 +831,27 @@
     "date": "2025-03-15",
     "value": 8.52522,
     "value_": 8.52522
+  },
+  {
+    "geoid": "24021",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-03-15",
+    "value": 9.59292,
+    "value_": 9.59292
+  },
+  {
+    "geoid": "24021",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-03-15",
+    "value": 5.4988,
+    "value_": 5.4988
+  },
+  {
+    "geoid": "24021",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-03-15",
+    "value": 1.42518,
+    "value_": 1.42518
   },
   {
     "geoid": "24021",
@@ -506,6 +884,27 @@
   {
     "geoid": "24031",
     "key": "business-bankruptcy-rate",
+    "date": "2019-03-15",
+    "value": 6.18383,
+    "value_": 6.18383
+  },
+  {
+    "geoid": "24031",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-03-15",
+    "value": 5.65581,
+    "value_": 5.65581
+  },
+  {
+    "geoid": "24031",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-03-15",
+    "value": 5.01853,
+    "value_": 5.01853
+  },
+  {
+    "geoid": "24031",
+    "key": "business-bankruptcy-rate",
     "date": "2022-03-15",
     "value": 4.52347,
     "value_": 4.52347
@@ -530,6 +929,27 @@
     "date": "2025-03-15",
     "value": 5.44666,
     "value_": 5.44666
+  },
+  {
+    "geoid": "24033",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-03-15",
+    "value": 6.58211,
+    "value_": 6.58211
+  },
+  {
+    "geoid": "24033",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-03-15",
+    "value": 6.21505,
+    "value_": 6.21505
+  },
+  {
+    "geoid": "24033",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-03-15",
+    "value": 3.34517,
+    "value_": 3.34517
   },
   {
     "geoid": "24033",
@@ -562,6 +982,27 @@
   {
     "geoid": "24340",
     "key": "business-bankruptcy-rate",
+    "date": "2019-03-15",
+    "value": 3.42675,
+    "value_": 3.42675
+  },
+  {
+    "geoid": "24340",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-03-15",
+    "value": 4.94972,
+    "value_": 4.94972
+  },
+  {
+    "geoid": "24340",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-03-15",
+    "value": 3.81042,
+    "value_": 3.81042
+  },
+  {
+    "geoid": "24340",
+    "key": "business-bankruptcy-rate",
     "date": "2022-03-15",
     "value": 1.81265,
     "value_": 1.81265
@@ -586,6 +1027,27 @@
     "date": "2025-03-15",
     "value": 3.46302,
     "value_": 3.46302
+  },
+  {
+    "geoid": "26420",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-03-15",
+    "value": 8.38942,
+    "value_": 8.38942
+  },
+  {
+    "geoid": "26420",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-03-15",
+    "value": 10.07012,
+    "value_": 10.07012
+  },
+  {
+    "geoid": "26420",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-03-15",
+    "value": 8.16895,
+    "value_": 8.16895
   },
   {
     "geoid": "26420",
@@ -618,6 +1080,27 @@
   {
     "geoid": "26900",
     "key": "business-bankruptcy-rate",
+    "date": "2019-03-15",
+    "value": 6.19239,
+    "value_": 6.19239
+  },
+  {
+    "geoid": "26900",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-03-15",
+    "value": 7.02387,
+    "value_": 7.02387
+  },
+  {
+    "geoid": "26900",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-03-15",
+    "value": 4.69671,
+    "value_": 4.69671
+  },
+  {
+    "geoid": "26900",
+    "key": "business-bankruptcy-rate",
     "date": "2022-03-15",
     "value": 3.6209,
     "value_": 3.6209
@@ -642,6 +1125,27 @@
     "date": "2025-03-15",
     "value": 4.87523,
     "value_": 4.87523
+  },
+  {
+    "geoid": "27260",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-03-15",
+    "value": 6.59493,
+    "value_": 6.59493
+  },
+  {
+    "geoid": "27260",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-03-15",
+    "value": 6.19946,
+    "value_": 6.19946
+  },
+  {
+    "geoid": "27260",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-03-15",
+    "value": 5.29951,
+    "value_": 5.29951
   },
   {
     "geoid": "27260",
@@ -674,6 +1178,27 @@
   {
     "geoid": "28140",
     "key": "business-bankruptcy-rate",
+    "date": "2019-03-15",
+    "value": 5.08873,
+    "value_": 5.08873
+  },
+  {
+    "geoid": "28140",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-03-15",
+    "value": 5.64846,
+    "value_": 5.64846
+  },
+  {
+    "geoid": "28140",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-03-15",
+    "value": 3.85729,
+    "value_": 3.85729
+  },
+  {
+    "geoid": "28140",
+    "key": "business-bankruptcy-rate",
     "date": "2022-03-15",
     "value": 2.4893,
     "value_": 2.4893
@@ -698,6 +1223,27 @@
     "date": "2025-03-15",
     "value": 5.38405,
     "value_": 5.38405
+  },
+  {
+    "geoid": "29820",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-03-15",
+    "value": 10.32566,
+    "value_": 10.32566
+  },
+  {
+    "geoid": "29820",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-03-15",
+    "value": 10.28133,
+    "value_": 10.28133
+  },
+  {
+    "geoid": "29820",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-03-15",
+    "value": 8.05521,
+    "value_": 8.05521
   },
   {
     "geoid": "29820",
@@ -730,6 +1276,27 @@
   {
     "geoid": "31080",
     "key": "business-bankruptcy-rate",
+    "date": "2019-03-15",
+    "value": 8.33684,
+    "value_": 8.33684
+  },
+  {
+    "geoid": "31080",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-03-15",
+    "value": 9.38337,
+    "value_": 9.38337
+  },
+  {
+    "geoid": "31080",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-03-15",
+    "value": 7.4025,
+    "value_": 7.4025
+  },
+  {
+    "geoid": "31080",
+    "key": "business-bankruptcy-rate",
     "date": "2022-03-15",
     "value": 6.32993,
     "value_": 6.32993
@@ -754,6 +1321,27 @@
     "date": "2025-03-15",
     "value": 9.8545,
     "value_": 9.8545
+  },
+  {
+    "geoid": "31140",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-03-15",
+    "value": 5.44357,
+    "value_": 5.44357
+  },
+  {
+    "geoid": "31140",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-03-15",
+    "value": 6.30956,
+    "value_": 6.30956
+  },
+  {
+    "geoid": "31140",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-03-15",
+    "value": 3.15746,
+    "value_": 3.15746
   },
   {
     "geoid": "31140",
@@ -786,6 +1374,27 @@
   {
     "geoid": "32820",
     "key": "business-bankruptcy-rate",
+    "date": "2019-03-15",
+    "value": 6.57009,
+    "value_": 6.57009
+  },
+  {
+    "geoid": "32820",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-03-15",
+    "value": 6.5368,
+    "value_": 6.5368
+  },
+  {
+    "geoid": "32820",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-03-15",
+    "value": 5.13995,
+    "value_": 5.13995
+  },
+  {
+    "geoid": "32820",
+    "key": "business-bankruptcy-rate",
     "date": "2022-03-15",
     "value": 2.9079,
     "value_": 2.9079
@@ -810,6 +1419,27 @@
     "date": "2025-03-15",
     "value": 5.7737,
     "value_": 5.7737
+  },
+  {
+    "geoid": "33100",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-03-15",
+    "value": 9.55411,
+    "value_": 9.55411
+  },
+  {
+    "geoid": "33100",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-03-15",
+    "value": 8.98345,
+    "value_": 8.98345
+  },
+  {
+    "geoid": "33100",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-03-15",
+    "value": 9.592,
+    "value_": 9.592
   },
   {
     "geoid": "33100",
@@ -842,6 +1472,27 @@
   {
     "geoid": "33340",
     "key": "business-bankruptcy-rate",
+    "date": "2019-03-15",
+    "value": 4.24735,
+    "value_": 4.24735
+  },
+  {
+    "geoid": "33340",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-03-15",
+    "value": 4.57269,
+    "value_": 4.57269
+  },
+  {
+    "geoid": "33340",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-03-15",
+    "value": 3.51745,
+    "value_": 3.51745
+  },
+  {
+    "geoid": "33340",
+    "key": "business-bankruptcy-rate",
     "date": "2022-03-15",
     "value": 1.79011,
     "value_": 1.79011
@@ -866,6 +1517,27 @@
     "date": "2025-03-15",
     "value": 4.07382,
     "value_": 4.07382
+  },
+  {
+    "geoid": "33460",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-03-15",
+    "value": 4.97268,
+    "value_": 4.97268
+  },
+  {
+    "geoid": "33460",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-03-15",
+    "value": 5.4138,
+    "value_": 5.4138
+  },
+  {
+    "geoid": "33460",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-03-15",
+    "value": 4.11174,
+    "value_": 4.11174
   },
   {
     "geoid": "33460",
@@ -898,6 +1570,27 @@
   {
     "geoid": "34980",
     "key": "business-bankruptcy-rate",
+    "date": "2019-03-15",
+    "value": 7.04581,
+    "value_": 7.04581
+  },
+  {
+    "geoid": "34980",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-03-15",
+    "value": 7.86418,
+    "value_": 7.86418
+  },
+  {
+    "geoid": "34980",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-03-15",
+    "value": 5.94979,
+    "value_": 5.94979
+  },
+  {
+    "geoid": "34980",
+    "key": "business-bankruptcy-rate",
     "date": "2022-03-15",
     "value": 3.94625,
     "value_": 3.94625
@@ -922,6 +1615,27 @@
     "date": "2025-03-15",
     "value": 9.37906,
     "value_": 9.37906
+  },
+  {
+    "geoid": "35620",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-03-15",
+    "value": 9.36555,
+    "value_": 9.36555
+  },
+  {
+    "geoid": "35620",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-03-15",
+    "value": 8.92397,
+    "value_": 8.92397
+  },
+  {
+    "geoid": "35620",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-03-15",
+    "value": 5.13325,
+    "value_": 5.13325
   },
   {
     "geoid": "35620",
@@ -954,6 +1668,27 @@
   {
     "geoid": "36420",
     "key": "business-bankruptcy-rate",
+    "date": "2019-03-15",
+    "value": 6.38303,
+    "value_": 6.38303
+  },
+  {
+    "geoid": "36420",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-03-15",
+    "value": 8.67113,
+    "value_": 8.67113
+  },
+  {
+    "geoid": "36420",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-03-15",
+    "value": 5.95536,
+    "value_": 5.95536
+  },
+  {
+    "geoid": "36420",
+    "key": "business-bankruptcy-rate",
     "date": "2022-03-15",
     "value": 5.19507,
     "value_": 5.19507
@@ -978,6 +1713,27 @@
     "date": "2025-03-15",
     "value": 6.80866,
     "value_": 6.80866
+  },
+  {
+    "geoid": "36540",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-03-15",
+    "value": 6.32413,
+    "value_": 6.32413
+  },
+  {
+    "geoid": "36540",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-03-15",
+    "value": 4.33358,
+    "value_": 4.33358
+  },
+  {
+    "geoid": "36540",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-03-15",
+    "value": 3.59758,
+    "value_": 3.59758
   },
   {
     "geoid": "36540",
@@ -1010,6 +1766,27 @@
   {
     "geoid": "36740",
     "key": "business-bankruptcy-rate",
+    "date": "2019-03-15",
+    "value": 8.0513,
+    "value_": 8.0513
+  },
+  {
+    "geoid": "36740",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-03-15",
+    "value": 9.25168,
+    "value_": 9.25168
+  },
+  {
+    "geoid": "36740",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-03-15",
+    "value": 9.07638,
+    "value_": 9.07638
+  },
+  {
+    "geoid": "36740",
+    "key": "business-bankruptcy-rate",
     "date": "2022-03-15",
     "value": 5.71168,
     "value_": 5.71168
@@ -1034,6 +1811,27 @@
     "date": "2025-03-15",
     "value": 10.87425,
     "value_": 10.87425
+  },
+  {
+    "geoid": "37980",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-03-15",
+    "value": 5.14351,
+    "value_": 5.14351
+  },
+  {
+    "geoid": "37980",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-03-15",
+    "value": 4.85399,
+    "value_": 4.85399
+  },
+  {
+    "geoid": "37980",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-03-15",
+    "value": 3.27768,
+    "value_": 3.27768
   },
   {
     "geoid": "37980",
@@ -1066,6 +1864,27 @@
   {
     "geoid": "38060",
     "key": "business-bankruptcy-rate",
+    "date": "2019-03-15",
+    "value": 7.08533,
+    "value_": 7.08533
+  },
+  {
+    "geoid": "38060",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-03-15",
+    "value": 6.82989,
+    "value_": 6.82989
+  },
+  {
+    "geoid": "38060",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-03-15",
+    "value": 5.31395,
+    "value_": 5.31395
+  },
+  {
+    "geoid": "38060",
+    "key": "business-bankruptcy-rate",
     "date": "2022-03-15",
     "value": 3.22072,
     "value_": 3.22072
@@ -1090,6 +1909,27 @@
     "date": "2025-03-15",
     "value": 7.04988,
     "value_": 7.04988
+  },
+  {
+    "geoid": "38300",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-03-15",
+    "value": 7.19809,
+    "value_": 7.19809
+  },
+  {
+    "geoid": "38300",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-03-15",
+    "value": 7.81959,
+    "value_": 7.81959
+  },
+  {
+    "geoid": "38300",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-03-15",
+    "value": 6.56898,
+    "value_": 6.56898
   },
   {
     "geoid": "38300",
@@ -1122,6 +1962,27 @@
   {
     "geoid": "38900",
     "key": "business-bankruptcy-rate",
+    "date": "2019-03-15",
+    "value": 4.89473,
+    "value_": 4.89473
+  },
+  {
+    "geoid": "38900",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-03-15",
+    "value": 5.56054,
+    "value_": 5.56054
+  },
+  {
+    "geoid": "38900",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-03-15",
+    "value": 3.41634,
+    "value_": 3.41634
+  },
+  {
+    "geoid": "38900",
+    "key": "business-bankruptcy-rate",
     "date": "2022-03-15",
     "value": 3.62506,
     "value_": 3.62506
@@ -1146,6 +2007,27 @@
     "date": "2025-03-15",
     "value": 5.75445,
     "value_": 5.75445
+  },
+  {
+    "geoid": "39300",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-03-15",
+    "value": 5.60602,
+    "value_": 5.60602
+  },
+  {
+    "geoid": "39300",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-03-15",
+    "value": 5.02,
+    "value_": 5.02
+  },
+  {
+    "geoid": "39300",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-03-15",
+    "value": 3.33935,
+    "value_": 3.33935
   },
   {
     "geoid": "39300",
@@ -1178,6 +2060,27 @@
   {
     "geoid": "39580",
     "key": "business-bankruptcy-rate",
+    "date": "2019-03-15",
+    "value": 7.613,
+    "value_": 7.613
+  },
+  {
+    "geoid": "39580",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-03-15",
+    "value": 6.35078,
+    "value_": 6.35078
+  },
+  {
+    "geoid": "39580",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-03-15",
+    "value": 5.16773,
+    "value_": 5.16773
+  },
+  {
+    "geoid": "39580",
+    "key": "business-bankruptcy-rate",
     "date": "2022-03-15",
     "value": 3.16883,
     "value_": 3.16883
@@ -1202,6 +2105,27 @@
     "date": "2025-03-15",
     "value": 4.64429,
     "value_": 4.64429
+  },
+  {
+    "geoid": "40060",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-03-15",
+    "value": 4.0186,
+    "value_": 4.0186
+  },
+  {
+    "geoid": "40060",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-03-15",
+    "value": 4.48076,
+    "value_": 4.48076
+  },
+  {
+    "geoid": "40060",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-03-15",
+    "value": 4.59831,
+    "value_": 4.59831
   },
   {
     "geoid": "40060",
@@ -1234,6 +2158,27 @@
   {
     "geoid": "40140",
     "key": "business-bankruptcy-rate",
+    "date": "2019-03-15",
+    "value": 5.60001,
+    "value_": 5.60001
+  },
+  {
+    "geoid": "40140",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-03-15",
+    "value": 6.16294,
+    "value_": 6.16294
+  },
+  {
+    "geoid": "40140",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-03-15",
+    "value": 4.4123,
+    "value_": 4.4123
+  },
+  {
+    "geoid": "40140",
+    "key": "business-bankruptcy-rate",
     "date": "2022-03-15",
     "value": 3.52892,
     "value_": 3.52892
@@ -1258,6 +2203,27 @@
     "date": "2025-03-15",
     "value": 5.99195,
     "value_": 5.99195
+  },
+  {
+    "geoid": "40380",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-03-15",
+    "value": 4.01664,
+    "value_": 4.01664
+  },
+  {
+    "geoid": "40380",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-03-15",
+    "value": 4.51563,
+    "value_": 4.51563
+  },
+  {
+    "geoid": "40380",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-03-15",
+    "value": 3.29823,
+    "value_": 3.29823
   },
   {
     "geoid": "40380",
@@ -1290,6 +2256,27 @@
   {
     "geoid": "40900",
     "key": "business-bankruptcy-rate",
+    "date": "2019-03-15",
+    "value": 6.47303,
+    "value_": 6.47303
+  },
+  {
+    "geoid": "40900",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-03-15",
+    "value": 6.53705,
+    "value_": 6.53705
+  },
+  {
+    "geoid": "40900",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-03-15",
+    "value": 4.69062,
+    "value_": 4.69062
+  },
+  {
+    "geoid": "40900",
+    "key": "business-bankruptcy-rate",
     "date": "2022-03-15",
     "value": 4.78629,
     "value_": 4.78629
@@ -1314,6 +2301,27 @@
     "date": "2025-03-15",
     "value": 6.88599,
     "value_": 6.88599
+  },
+  {
+    "geoid": "41180",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-03-15",
+    "value": 4.84742,
+    "value_": 4.84742
+  },
+  {
+    "geoid": "41180",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-03-15",
+    "value": 5.17752,
+    "value_": 5.17752
+  },
+  {
+    "geoid": "41180",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-03-15",
+    "value": 2.91446,
+    "value_": 2.91446
   },
   {
     "geoid": "41180",
@@ -1346,6 +2354,27 @@
   {
     "geoid": "41620",
     "key": "business-bankruptcy-rate",
+    "date": "2019-03-15",
+    "value": 4.79404,
+    "value_": 4.79404
+  },
+  {
+    "geoid": "41620",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-03-15",
+    "value": 4.91916,
+    "value_": 4.91916
+  },
+  {
+    "geoid": "41620",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-03-15",
+    "value": 4.03708,
+    "value_": 4.03708
+  },
+  {
+    "geoid": "41620",
+    "key": "business-bankruptcy-rate",
     "date": "2022-03-15",
     "value": 1.41483,
     "value_": 1.41483
@@ -1370,6 +2399,27 @@
     "date": "2025-03-15",
     "value": 3.8217,
     "value_": 3.8217
+  },
+  {
+    "geoid": "41700",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-03-15",
+    "value": 7.2937,
+    "value_": 7.2937
+  },
+  {
+    "geoid": "41700",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-03-15",
+    "value": 10.12093,
+    "value_": 10.12093
+  },
+  {
+    "geoid": "41700",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-03-15",
+    "value": 5.56455,
+    "value_": 5.56455
   },
   {
     "geoid": "41700",
@@ -1402,6 +2452,27 @@
   {
     "geoid": "41740",
     "key": "business-bankruptcy-rate",
+    "date": "2019-03-15",
+    "value": 8.49733,
+    "value_": 8.49733
+  },
+  {
+    "geoid": "41740",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-03-15",
+    "value": 8.87561,
+    "value_": 8.87561
+  },
+  {
+    "geoid": "41740",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-03-15",
+    "value": 7.17723,
+    "value_": 7.17723
+  },
+  {
+    "geoid": "41740",
+    "key": "business-bankruptcy-rate",
     "date": "2022-03-15",
     "value": 5.35972,
     "value_": 5.35972
@@ -1426,6 +2497,27 @@
     "date": "2025-03-15",
     "value": 7.47823,
     "value_": 7.47823
+  },
+  {
+    "geoid": "41860",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-03-15",
+    "value": 5.75781,
+    "value_": 5.75781
+  },
+  {
+    "geoid": "41860",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-03-15",
+    "value": 5.92118,
+    "value_": 5.92118
+  },
+  {
+    "geoid": "41860",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-03-15",
+    "value": 6.20977,
+    "value_": 6.20977
   },
   {
     "geoid": "41860",
@@ -1458,6 +2550,27 @@
   {
     "geoid": "41940",
     "key": "business-bankruptcy-rate",
+    "date": "2019-03-15",
+    "value": 4.43277,
+    "value_": 4.43277
+  },
+  {
+    "geoid": "41940",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-03-15",
+    "value": 4.7252,
+    "value_": 4.7252
+  },
+  {
+    "geoid": "41940",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-03-15",
+    "value": 4.31871,
+    "value_": 4.31871
+  },
+  {
+    "geoid": "41940",
+    "key": "business-bankruptcy-rate",
     "date": "2022-03-15",
     "value": 3.48473,
     "value_": 3.48473
@@ -1482,6 +2595,27 @@
     "date": "2025-03-15",
     "value": 5.09646,
     "value_": 5.09646
+  },
+  {
+    "geoid": "42660",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-03-15",
+    "value": 5.05306,
+    "value_": 5.05306
+  },
+  {
+    "geoid": "42660",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-03-15",
+    "value": 4.64253,
+    "value_": 4.64253
+  },
+  {
+    "geoid": "42660",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-03-15",
+    "value": 3.485,
+    "value_": 3.485
   },
   {
     "geoid": "42660",
@@ -1514,6 +2648,27 @@
   {
     "geoid": "45300",
     "key": "business-bankruptcy-rate",
+    "date": "2019-03-15",
+    "value": 8.34344,
+    "value_": 8.34344
+  },
+  {
+    "geoid": "45300",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-03-15",
+    "value": 9.44175,
+    "value_": 9.44175
+  },
+  {
+    "geoid": "45300",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-03-15",
+    "value": 6.50041,
+    "value_": 6.50041
+  },
+  {
+    "geoid": "45300",
+    "key": "business-bankruptcy-rate",
     "date": "2022-03-15",
     "value": 5.68614,
     "value_": 5.68614
@@ -1538,6 +2693,27 @@
     "date": "2025-03-15",
     "value": 8.41024,
     "value_": 8.41024
+  },
+  {
+    "geoid": "46060",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-03-15",
+    "value": 4.57465,
+    "value_": 4.57465
+  },
+  {
+    "geoid": "46060",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-03-15",
+    "value": 4.40096,
+    "value_": 4.40096
+  },
+  {
+    "geoid": "46060",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-03-15",
+    "value": 2.57368,
+    "value_": 2.57368
   },
   {
     "geoid": "46060",
@@ -1570,6 +2746,27 @@
   {
     "geoid": "46140",
     "key": "business-bankruptcy-rate",
+    "date": "2019-03-15",
+    "value": 5.90385,
+    "value_": 5.90385
+  },
+  {
+    "geoid": "46140",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-03-15",
+    "value": 6.19219,
+    "value_": 6.19219
+  },
+  {
+    "geoid": "46140",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-03-15",
+    "value": 5.36071,
+    "value_": 5.36071
+  },
+  {
+    "geoid": "46140",
+    "key": "business-bankruptcy-rate",
     "date": "2022-03-15",
     "value": 2.9917,
     "value_": 2.9917
@@ -1594,6 +2791,27 @@
     "date": "2025-03-15",
     "value": 5.88469,
     "value_": 5.88469
+  },
+  {
+    "geoid": "47260",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-03-15",
+    "value": 4.04704,
+    "value_": 4.04704
+  },
+  {
+    "geoid": "47260",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-03-15",
+    "value": 3.36743,
+    "value_": 3.36743
+  },
+  {
+    "geoid": "47260",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-03-15",
+    "value": 2.23987,
+    "value_": 2.23987
   },
   {
     "geoid": "47260",
@@ -1626,6 +2844,27 @@
   {
     "geoid": "47900",
     "key": "business-bankruptcy-rate",
+    "date": "2019-03-15",
+    "value": 6.63805,
+    "value_": 6.63805
+  },
+  {
+    "geoid": "47900",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-03-15",
+    "value": 6.67681,
+    "value_": 6.67681
+  },
+  {
+    "geoid": "47900",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-03-15",
+    "value": 5.25623,
+    "value_": 5.25623
+  },
+  {
+    "geoid": "47900",
+    "key": "business-bankruptcy-rate",
     "date": "2022-03-15",
     "value": 3.94289,
     "value_": 3.94289
@@ -1650,6 +2889,27 @@
     "date": "2025-03-15",
     "value": 5.85634,
     "value_": 5.85634
+  },
+  {
+    "geoid": "51013",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-03-15",
+    "value": 5.4532,
+    "value_": 5.4532
+  },
+  {
+    "geoid": "51013",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-03-15",
+    "value": 3.34968,
+    "value_": 3.34968
+  },
+  {
+    "geoid": "51013",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-03-15",
+    "value": 4.28306,
+    "value_": 4.28306
   },
   {
     "geoid": "51013",
@@ -1682,6 +2942,27 @@
   {
     "geoid": "51043",
     "key": "business-bankruptcy-rate",
+    "date": "2019-03-15",
+    "value": 0,
+    "value_": 0
+  },
+  {
+    "geoid": "51043",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-03-15",
+    "value": 6.749,
+    "value_": 6.749
+  },
+  {
+    "geoid": "51043",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-03-15",
+    "value": 20.07092,
+    "value_": 20.07092
+  },
+  {
+    "geoid": "51043",
+    "key": "business-bankruptcy-rate",
     "date": "2022-03-15",
     "value": 6.53083,
     "value_": 6.53083
@@ -1706,6 +2987,27 @@
     "date": "2025-03-15",
     "value": 0,
     "value_": 0
+  },
+  {
+    "geoid": "51047",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-03-15",
+    "value": 7.58697,
+    "value_": 7.58697
+  },
+  {
+    "geoid": "51047",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-03-15",
+    "value": 1.89516,
+    "value_": 1.89516
+  },
+  {
+    "geoid": "51047",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-03-15",
+    "value": 3.71892,
+    "value_": 3.71892
   },
   {
     "geoid": "51047",
@@ -1738,6 +3040,27 @@
   {
     "geoid": "51059",
     "key": "business-bankruptcy-rate",
+    "date": "2019-03-15",
+    "value": 6.80556,
+    "value_": 6.80556
+  },
+  {
+    "geoid": "51059",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-03-15",
+    "value": 6.65243,
+    "value_": 6.65243
+  },
+  {
+    "geoid": "51059",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-03-15",
+    "value": 8.80418,
+    "value_": 8.80418
+  },
+  {
+    "geoid": "51059",
+    "key": "business-bankruptcy-rate",
     "date": "2022-03-15",
     "value": 4.40729,
     "value_": 4.40729
@@ -1762,6 +3085,27 @@
     "date": "2025-03-15",
     "value": 4.67312,
     "value_": 4.67312
+  },
+  {
+    "geoid": "51061",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-03-15",
+    "value": 9.81808,
+    "value_": 9.81808
+  },
+  {
+    "geoid": "51061",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-03-15",
+    "value": 10.9574,
+    "value_": 10.9574
+  },
+  {
+    "geoid": "51061",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-03-15",
+    "value": 5.40044,
+    "value_": 5.40044
   },
   {
     "geoid": "51061",
@@ -1794,6 +3138,27 @@
   {
     "geoid": "51107",
     "key": "business-bankruptcy-rate",
+    "date": "2019-03-15",
+    "value": 6.50803,
+    "value_": 6.50803
+  },
+  {
+    "geoid": "51107",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-03-15",
+    "value": 9.2259,
+    "value_": 9.2259
+  },
+  {
+    "geoid": "51107",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-03-15",
+    "value": 7.69541,
+    "value_": 7.69541
+  },
+  {
+    "geoid": "51107",
+    "key": "business-bankruptcy-rate",
     "date": "2022-03-15",
     "value": 4.62004,
     "value_": 4.62004
@@ -1818,6 +3183,27 @@
     "date": "2025-03-15",
     "value": 8.97206,
     "value_": 8.97206
+  },
+  {
+    "geoid": "51153",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-03-15",
+    "value": 7.53648,
+    "value_": 7.53648
+  },
+  {
+    "geoid": "51153",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-03-15",
+    "value": 6.63323,
+    "value_": 6.63323
+  },
+  {
+    "geoid": "51153",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-03-15",
+    "value": 3.11757,
+    "value_": 3.11757
   },
   {
     "geoid": "51153",
@@ -1850,6 +3236,27 @@
   {
     "geoid": "51157",
     "key": "business-bankruptcy-rate",
+    "date": "2019-03-15",
+    "value": 0,
+    "value_": 0
+  },
+  {
+    "geoid": "51157",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-03-15",
+    "value": 0,
+    "value_": 0
+  },
+  {
+    "geoid": "51157",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-03-15",
+    "value": 13.4499,
+    "value_": 13.4499
+  },
+  {
+    "geoid": "51157",
+    "key": "business-bankruptcy-rate",
     "date": "2022-03-15",
     "value": 0,
     "value_": 0
@@ -1874,6 +3281,27 @@
     "date": "2025-03-15",
     "value": 13.25408,
     "value_": 13.25408
+  },
+  {
+    "geoid": "51177",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-03-15",
+    "value": 2.93154,
+    "value_": 2.93154
+  },
+  {
+    "geoid": "51177",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-03-15",
+    "value": 5.68946,
+    "value_": 5.68946
+  },
+  {
+    "geoid": "51177",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-03-15",
+    "value": 3.47157,
+    "value_": 3.47157
   },
   {
     "geoid": "51177",
@@ -1906,6 +3334,27 @@
   {
     "geoid": "51179",
     "key": "business-bankruptcy-rate",
+    "date": "2019-03-15",
+    "value": 9.75451,
+    "value_": 9.75451
+  },
+  {
+    "geoid": "51179",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-03-15",
+    "value": 8.24,
+    "value_": 8.24
+  },
+  {
+    "geoid": "51179",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-03-15",
+    "value": 0.61886,
+    "value_": 0.61886
+  },
+  {
+    "geoid": "51179",
+    "key": "business-bankruptcy-rate",
     "date": "2022-03-15",
     "value": 4.28835,
     "value_": 4.28835
@@ -1930,6 +3379,27 @@
     "date": "2025-03-15",
     "value": 1.16757,
     "value_": 1.16757
+  },
+  {
+    "geoid": "51187",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-03-15",
+    "value": 17.39779,
+    "value_": 17.39779
+  },
+  {
+    "geoid": "51187",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-03-15",
+    "value": 17.15812,
+    "value_": 17.15812
+  },
+  {
+    "geoid": "51187",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-03-15",
+    "value": 17.08275,
+    "value_": 17.08275
   },
   {
     "geoid": "51187",
@@ -1962,6 +3432,27 @@
   {
     "geoid": "51510",
     "key": "business-bankruptcy-rate",
+    "date": "2019-03-15",
+    "value": 8.80226,
+    "value_": 8.80226
+  },
+  {
+    "geoid": "51510",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-03-15",
+    "value": 9.42543,
+    "value_": 9.42543
+  },
+  {
+    "geoid": "51510",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-03-15",
+    "value": 3.22312,
+    "value_": 3.22312
+  },
+  {
+    "geoid": "51510",
+    "key": "business-bankruptcy-rate",
     "date": "2022-03-15",
     "value": 4.50929,
     "value_": 4.50929
@@ -1990,6 +3481,27 @@
   {
     "geoid": "51630",
     "key": "business-bankruptcy-rate",
+    "date": "2019-03-15",
+    "value": 6.83667,
+    "value_": 6.83667
+  },
+  {
+    "geoid": "51630",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-03-15",
+    "value": 3.57207,
+    "value_": 3.57207
+  },
+  {
+    "geoid": "51630",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-03-15",
+    "value": 17.57778,
+    "value_": 17.57778
+  },
+  {
+    "geoid": "51630",
+    "key": "business-bankruptcy-rate",
     "date": "2022-03-15",
     "value": 0,
     "value_": 0
@@ -2014,6 +3526,27 @@
     "date": "2025-03-15",
     "value": 3.32517,
     "value_": 3.32517
+  },
+  {
+    "geoid": "54037",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-03-15",
+    "value": 5.23131,
+    "value_": 5.23131
+  },
+  {
+    "geoid": "54037",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-03-15",
+    "value": 3.46111,
+    "value_": 3.46111
+  },
+  {
+    "geoid": "54037",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-03-15",
+    "value": 5.12383,
+    "value_": 5.12383
   },
   {
     "geoid": "54037",
@@ -2046,6 +3579,27 @@
   {
     "geoid": "99997",
     "key": "business-bankruptcy-rate",
+    "date": "2019-03-15",
+    "value": 6.98153,
+    "value_": 6.98153
+  },
+  {
+    "geoid": "99997",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-03-15",
+    "value": 7.23377,
+    "value_": 7.23377
+  },
+  {
+    "geoid": "99997",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-03-15",
+    "value": 5.47784,
+    "value_": 5.47784
+  },
+  {
+    "geoid": "99997",
+    "key": "business-bankruptcy-rate",
     "date": "2022-03-15",
     "value": 4.20569,
     "value_": 4.20569
@@ -2070,6 +3624,27 @@
     "date": "2025-03-15",
     "value": 6.96309,
     "value_": 6.96309
+  },
+  {
+    "geoid": "99999",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-03-15",
+    "value": 6.74839,
+    "value_": 6.74839
+  },
+  {
+    "geoid": "99999",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-03-15",
+    "value": 6.97091,
+    "value_": 6.97091
+  },
+  {
+    "geoid": "99999",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-03-15",
+    "value": 5.99549,
+    "value_": 5.99549
   },
   {
     "geoid": "99999",
@@ -2102,6 +3677,27 @@
   {
     "geoid": "11001",
     "key": "business-bankruptcy-rate",
+    "date": "2019-06-15",
+    "value": 5.22412,
+    "value_": 5.22412
+  },
+  {
+    "geoid": "11001",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-06-15",
+    "value": 6.85629,
+    "value_": 6.85629
+  },
+  {
+    "geoid": "11001",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-06-15",
+    "value": 6.42505,
+    "value_": 6.42505
+  },
+  {
+    "geoid": "11001",
+    "key": "business-bankruptcy-rate",
     "date": "2022-06-15",
     "value": 3.84203,
     "value_": 3.84203
@@ -2126,6 +3722,27 @@
     "date": "2025-06-15",
     "value": 6.71799,
     "value_": 6.71799
+  },
+  {
+    "geoid": "12060",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-06-15",
+    "value": 8.55688,
+    "value_": 8.55688
+  },
+  {
+    "geoid": "12060",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-06-15",
+    "value": 8.91999,
+    "value_": 8.91999
+  },
+  {
+    "geoid": "12060",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-06-15",
+    "value": 5.94101,
+    "value_": 5.94101
   },
   {
     "geoid": "12060",
@@ -2158,6 +3775,27 @@
   {
     "geoid": "12420",
     "key": "business-bankruptcy-rate",
+    "date": "2019-06-15",
+    "value": 7.36051,
+    "value_": 7.36051
+  },
+  {
+    "geoid": "12420",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-06-15",
+    "value": 8.47734,
+    "value_": 8.47734
+  },
+  {
+    "geoid": "12420",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-06-15",
+    "value": 6.57034,
+    "value_": 6.57034
+  },
+  {
+    "geoid": "12420",
+    "key": "business-bankruptcy-rate",
     "date": "2022-06-15",
     "value": 4.52605,
     "value_": 4.52605
@@ -2182,6 +3820,27 @@
     "date": "2025-06-15",
     "value": 7.77338,
     "value_": 7.77338
+  },
+  {
+    "geoid": "12580",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-06-15",
+    "value": 6.13431,
+    "value_": 6.13431
+  },
+  {
+    "geoid": "12580",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-06-15",
+    "value": 5.09317,
+    "value_": 5.09317
+  },
+  {
+    "geoid": "12580",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-06-15",
+    "value": 4.56538,
+    "value_": 4.56538
   },
   {
     "geoid": "12580",
@@ -2214,6 +3873,27 @@
   {
     "geoid": "13820",
     "key": "business-bankruptcy-rate",
+    "date": "2019-06-15",
+    "value": 6.58239,
+    "value_": 6.58239
+  },
+  {
+    "geoid": "13820",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-06-15",
+    "value": 5.75386,
+    "value_": 5.75386
+  },
+  {
+    "geoid": "13820",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-06-15",
+    "value": 4.14845,
+    "value_": 4.14845
+  },
+  {
+    "geoid": "13820",
+    "key": "business-bankruptcy-rate",
     "date": "2022-06-15",
     "value": 3.64006,
     "value_": 3.64006
@@ -2238,6 +3918,27 @@
     "date": "2025-06-15",
     "value": 6.34712,
     "value_": 6.34712
+  },
+  {
+    "geoid": "14460",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-06-15",
+    "value": 4.83976,
+    "value_": 4.83976
+  },
+  {
+    "geoid": "14460",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-06-15",
+    "value": 4.86762,
+    "value_": 4.86762
+  },
+  {
+    "geoid": "14460",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-06-15",
+    "value": 3.60366,
+    "value_": 3.60366
   },
   {
     "geoid": "14460",
@@ -2270,6 +3971,27 @@
   {
     "geoid": "15380",
     "key": "business-bankruptcy-rate",
+    "date": "2019-06-15",
+    "value": 7.7102,
+    "value_": 7.7102
+  },
+  {
+    "geoid": "15380",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-06-15",
+    "value": 6.18299,
+    "value_": 6.18299
+  },
+  {
+    "geoid": "15380",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-06-15",
+    "value": 3.43413,
+    "value_": 3.43413
+  },
+  {
+    "geoid": "15380",
+    "key": "business-bankruptcy-rate",
     "date": "2022-06-15",
     "value": 3.27809,
     "value_": 3.27809
@@ -2294,6 +4016,27 @@
     "date": "2025-06-15",
     "value": 4.29864,
     "value_": 4.29864
+  },
+  {
+    "geoid": "16740",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-06-15",
+    "value": 2.80291,
+    "value_": 2.80291
+  },
+  {
+    "geoid": "16740",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-06-15",
+    "value": 3.33538,
+    "value_": 3.33538
+  },
+  {
+    "geoid": "16740",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-06-15",
+    "value": 2.8077,
+    "value_": 2.8077
   },
   {
     "geoid": "16740",
@@ -2326,6 +4069,27 @@
   {
     "geoid": "16980",
     "key": "business-bankruptcy-rate",
+    "date": "2019-06-15",
+    "value": 7.52866,
+    "value_": 7.52866
+  },
+  {
+    "geoid": "16980",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-06-15",
+    "value": 7.4474,
+    "value_": 7.4474
+  },
+  {
+    "geoid": "16980",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-06-15",
+    "value": 5.73593,
+    "value_": 5.73593
+  },
+  {
+    "geoid": "16980",
+    "key": "business-bankruptcy-rate",
     "date": "2022-06-15",
     "value": 4.32867,
     "value_": 4.32867
@@ -2350,6 +4114,27 @@
     "date": "2025-06-15",
     "value": 7.76199,
     "value_": 7.76199
+  },
+  {
+    "geoid": "17140",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-06-15",
+    "value": 5.50014,
+    "value_": 5.50014
+  },
+  {
+    "geoid": "17140",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-06-15",
+    "value": 3.64108,
+    "value_": 3.64108
+  },
+  {
+    "geoid": "17140",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-06-15",
+    "value": 2.92969,
+    "value_": 2.92969
   },
   {
     "geoid": "17140",
@@ -2382,6 +4167,27 @@
   {
     "geoid": "17410",
     "key": "business-bankruptcy-rate",
+    "date": "2019-06-15",
+    "value": 6.19724,
+    "value_": 6.19724
+  },
+  {
+    "geoid": "17410",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-06-15",
+    "value": 4.34935,
+    "value_": 4.34935
+  },
+  {
+    "geoid": "17410",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-06-15",
+    "value": 4.60641,
+    "value_": 4.60641
+  },
+  {
+    "geoid": "17410",
+    "key": "business-bankruptcy-rate",
     "date": "2022-06-15",
     "value": 3.83485,
     "value_": 3.83485
@@ -2406,6 +4212,27 @@
     "date": "2025-06-15",
     "value": 3.95813,
     "value_": 3.95813
+  },
+  {
+    "geoid": "18140",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-06-15",
+    "value": 4.32838,
+    "value_": 4.32838
+  },
+  {
+    "geoid": "18140",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-06-15",
+    "value": 3.73479,
+    "value_": 3.73479
+  },
+  {
+    "geoid": "18140",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-06-15",
+    "value": 2.8404,
+    "value_": 2.8404
   },
   {
     "geoid": "18140",
@@ -2438,6 +4265,27 @@
   {
     "geoid": "19100",
     "key": "business-bankruptcy-rate",
+    "date": "2019-06-15",
+    "value": 9.37369,
+    "value_": 9.37369
+  },
+  {
+    "geoid": "19100",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-06-15",
+    "value": 9.80751,
+    "value_": 9.80751
+  },
+  {
+    "geoid": "19100",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-06-15",
+    "value": 9.02707,
+    "value_": 9.02707
+  },
+  {
+    "geoid": "19100",
+    "key": "business-bankruptcy-rate",
     "date": "2022-06-15",
     "value": 5.99478,
     "value_": 5.99478
@@ -2462,6 +4310,27 @@
     "date": "2025-06-15",
     "value": 8.89762,
     "value_": 8.89762
+  },
+  {
+    "geoid": "19740",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-06-15",
+    "value": 6.77952,
+    "value_": 6.77952
+  },
+  {
+    "geoid": "19740",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-06-15",
+    "value": 7.03646,
+    "value_": 7.03646
+  },
+  {
+    "geoid": "19740",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-06-15",
+    "value": 5.64059,
+    "value_": 5.64059
   },
   {
     "geoid": "19740",
@@ -2494,6 +4363,27 @@
   {
     "geoid": "19820",
     "key": "business-bankruptcy-rate",
+    "date": "2019-06-15",
+    "value": 6.38976,
+    "value_": 6.38976
+  },
+  {
+    "geoid": "19820",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-06-15",
+    "value": 4.60615,
+    "value_": 4.60615
+  },
+  {
+    "geoid": "19820",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-06-15",
+    "value": 3.08923,
+    "value_": 3.08923
+  },
+  {
+    "geoid": "19820",
+    "key": "business-bankruptcy-rate",
     "date": "2022-06-15",
     "value": 2.59263,
     "value_": 2.59263
@@ -2518,6 +4408,27 @@
     "date": "2025-06-15",
     "value": 3.31604,
     "value_": 3.31604
+  },
+  {
+    "geoid": "23420",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-06-15",
+    "value": 5.62983,
+    "value_": 5.62983
+  },
+  {
+    "geoid": "23420",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-06-15",
+    "value": 5.05983,
+    "value_": 5.05983
+  },
+  {
+    "geoid": "23420",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-06-15",
+    "value": 5.37589,
+    "value_": 5.37589
   },
   {
     "geoid": "23420",
@@ -2550,6 +4461,27 @@
   {
     "geoid": "24017",
     "key": "business-bankruptcy-rate",
+    "date": "2019-06-15",
+    "value": 7.93976,
+    "value_": 7.93976
+  },
+  {
+    "geoid": "24017",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-06-15",
+    "value": 4.19936,
+    "value_": 4.19936
+  },
+  {
+    "geoid": "24017",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-06-15",
+    "value": 0.59234,
+    "value_": 0.59234
+  },
+  {
+    "geoid": "24017",
+    "key": "business-bankruptcy-rate",
     "date": "2022-06-15",
     "value": 1.76081,
     "value_": 1.76081
@@ -2574,6 +4506,27 @@
     "date": "2025-06-15",
     "value": 6.82018,
     "value_": 6.82018
+  },
+  {
+    "geoid": "24021",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-06-15",
+    "value": 8.82548,
+    "value_": 8.82548
+  },
+  {
+    "geoid": "24021",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-06-15",
+    "value": 4.03245,
+    "value_": 4.03245
+  },
+  {
+    "geoid": "24021",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-06-15",
+    "value": 2.85036,
+    "value_": 2.85036
   },
   {
     "geoid": "24021",
@@ -2606,6 +4559,27 @@
   {
     "geoid": "24031",
     "key": "business-bankruptcy-rate",
+    "date": "2019-06-15",
+    "value": 6.27896,
+    "value_": 6.27896
+  },
+  {
+    "geoid": "24031",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-06-15",
+    "value": 4.9017,
+    "value_": 4.9017
+  },
+  {
+    "geoid": "24031",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-06-15",
+    "value": 5.68135,
+    "value_": 5.68135
+  },
+  {
+    "geoid": "24031",
+    "key": "business-bankruptcy-rate",
     "date": "2022-06-15",
     "value": 4.05228,
     "value_": 4.05228
@@ -2630,6 +4604,27 @@
     "date": "2025-06-15",
     "value": 5.16971,
     "value_": 5.16971
+  },
+  {
+    "geoid": "24033",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-06-15",
+    "value": 5.9239,
+    "value_": 5.9239
+  },
+  {
+    "geoid": "24033",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-06-15",
+    "value": 5.07563,
+    "value_": 5.07563
+  },
+  {
+    "geoid": "24033",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-06-15",
+    "value": 3.44971,
+    "value_": 3.44971
   },
   {
     "geoid": "24033",
@@ -2662,6 +4657,27 @@
   {
     "geoid": "24340",
     "key": "business-bankruptcy-rate",
+    "date": "2019-06-15",
+    "value": 4.12968,
+    "value_": 4.12968
+  },
+  {
+    "geoid": "24340",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-06-15",
+    "value": 5.29707,
+    "value_": 5.29707
+  },
+  {
+    "geoid": "24340",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-06-15",
+    "value": 2.59801,
+    "value_": 2.59801
+  },
+  {
+    "geoid": "24340",
+    "key": "business-bankruptcy-rate",
     "date": "2022-06-15",
     "value": 1.64002,
     "value_": 1.64002
@@ -2686,6 +4702,27 @@
     "date": "2025-06-15",
     "value": 3.2941,
     "value_": 3.2941
+  },
+  {
+    "geoid": "26420",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-06-15",
+    "value": 8.50222,
+    "value_": 8.50222
+  },
+  {
+    "geoid": "26420",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-06-15",
+    "value": 10.39091,
+    "value_": 10.39091
+  },
+  {
+    "geoid": "26420",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-06-15",
+    "value": 7.34101,
+    "value_": 7.34101
   },
   {
     "geoid": "26420",
@@ -2718,6 +4755,27 @@
   {
     "geoid": "26900",
     "key": "business-bankruptcy-rate",
+    "date": "2019-06-15",
+    "value": 6.53371,
+    "value_": 6.53371
+  },
+  {
+    "geoid": "26900",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-06-15",
+    "value": 6.54605,
+    "value_": 6.54605
+  },
+  {
+    "geoid": "26900",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-06-15",
+    "value": 4.60182,
+    "value_": 4.60182
+  },
+  {
+    "geoid": "26900",
+    "key": "business-bankruptcy-rate",
     "date": "2022-06-15",
     "value": 3.57388,
     "value_": 3.57388
@@ -2742,6 +4800,27 @@
     "date": "2025-06-15",
     "value": 4.69297,
     "value_": 4.69297
+  },
+  {
+    "geoid": "27260",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-06-15",
+    "value": 5.89062,
+    "value_": 5.89062
+  },
+  {
+    "geoid": "27260",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-06-15",
+    "value": 5.82749,
+    "value_": 5.82749
+  },
+  {
+    "geoid": "27260",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-06-15",
+    "value": 5.96956,
+    "value_": 5.96956
   },
   {
     "geoid": "27260",
@@ -2774,6 +4853,27 @@
   {
     "geoid": "28140",
     "key": "business-bankruptcy-rate",
+    "date": "2019-06-15",
+    "value": 5.08873,
+    "value_": 5.08873
+  },
+  {
+    "geoid": "28140",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-06-15",
+    "value": 5.46625,
+    "value_": 5.46625
+  },
+  {
+    "geoid": "28140",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-06-15",
+    "value": 3.26735,
+    "value_": 3.26735
+  },
+  {
+    "geoid": "28140",
+    "key": "business-bankruptcy-rate",
     "date": "2022-06-15",
     "value": 2.57982,
     "value_": 2.57982
@@ -2798,6 +4898,27 @@
     "date": "2025-06-15",
     "value": 5.25165,
     "value_": 5.25165
+  },
+  {
+    "geoid": "29820",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-06-15",
+    "value": 10.23778,
+    "value_": 10.23778
+  },
+  {
+    "geoid": "29820",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-06-15",
+    "value": 10.36921,
+    "value_": 10.36921
+  },
+  {
+    "geoid": "29820",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-06-15",
+    "value": 7.66333,
+    "value_": 7.66333
   },
   {
     "geoid": "29820",
@@ -2830,6 +4951,27 @@
   {
     "geoid": "31080",
     "key": "business-bankruptcy-rate",
+    "date": "2019-06-15",
+    "value": 8.69337,
+    "value_": 8.69337
+  },
+  {
+    "geoid": "31080",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-06-15",
+    "value": 8.42759,
+    "value_": 8.42759
+  },
+  {
+    "geoid": "31080",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-06-15",
+    "value": 7.72636,
+    "value_": 7.72636
+  },
+  {
+    "geoid": "31080",
+    "key": "business-bankruptcy-rate",
     "date": "2022-06-15",
     "value": 5.71786,
     "value_": 5.71786
@@ -2854,6 +4996,27 @@
     "date": "2025-06-15",
     "value": 9.67461,
     "value_": 9.67461
+  },
+  {
+    "geoid": "31140",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-06-15",
+    "value": 5.96556,
+    "value_": 5.96556
+  },
+  {
+    "geoid": "31140",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-06-15",
+    "value": 5.86935,
+    "value_": 5.86935
+  },
+  {
+    "geoid": "31140",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-06-15",
+    "value": 2.71688,
+    "value_": 2.71688
   },
   {
     "geoid": "31140",
@@ -2886,6 +5049,27 @@
   {
     "geoid": "32820",
     "key": "business-bankruptcy-rate",
+    "date": "2019-06-15",
+    "value": 5.83188,
+    "value_": 5.83188
+  },
+  {
+    "geoid": "32820",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-06-15",
+    "value": 7.27962,
+    "value_": 7.27962
+  },
+  {
+    "geoid": "32820",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-06-15",
+    "value": 3.94808,
+    "value_": 3.94808
+  },
+  {
+    "geoid": "32820",
+    "key": "business-bankruptcy-rate",
     "date": "2022-06-15",
     "value": 3.05702,
     "value_": 3.05702
@@ -2910,6 +5094,27 @@
     "date": "2025-06-15",
     "value": 6.44855,
     "value_": 6.44855
+  },
+  {
+    "geoid": "33100",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-06-15",
+    "value": 9.3919,
+    "value_": 9.3919
+  },
+  {
+    "geoid": "33100",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-06-15",
+    "value": 9.1791,
+    "value_": 9.1791
+  },
+  {
+    "geoid": "33100",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-06-15",
+    "value": 9.00273,
+    "value_": 9.00273
   },
   {
     "geoid": "33100",
@@ -2942,6 +5147,27 @@
   {
     "geoid": "33340",
     "key": "business-bankruptcy-rate",
+    "date": "2019-06-15",
+    "value": 4.6911,
+    "value_": 4.6911
+  },
+  {
+    "geoid": "33340",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-06-15",
+    "value": 3.55654,
+    "value_": 3.55654
+  },
+  {
+    "geoid": "33340",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-06-15",
+    "value": 3.19769,
+    "value_": 3.19769
+  },
+  {
+    "geoid": "33340",
+    "key": "business-bankruptcy-rate",
     "date": "2022-06-15",
     "value": 2.10977,
     "value_": 2.10977
@@ -2966,6 +5192,27 @@
     "date": "2025-06-15",
     "value": 3.62825,
     "value_": 3.62825
+  },
+  {
+    "geoid": "33460",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-06-15",
+    "value": 5.21994,
+    "value_": 5.21994
+  },
+  {
+    "geoid": "33460",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-06-15",
+    "value": 5.22432,
+    "value_": 5.22432
+  },
+  {
+    "geoid": "33460",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-06-15",
+    "value": 3.51662,
+    "value_": 3.51662
   },
   {
     "geoid": "33460",
@@ -2998,6 +5245,27 @@
   {
     "geoid": "34980",
     "key": "business-bankruptcy-rate",
+    "date": "2019-06-15",
+    "value": 8.06695,
+    "value_": 8.06695
+  },
+  {
+    "geoid": "34980",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-06-15",
+    "value": 7.12228,
+    "value_": 7.12228
+  },
+  {
+    "geoid": "34980",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-06-15",
+    "value": 5.31056,
+    "value_": 5.31056
+  },
+  {
+    "geoid": "34980",
+    "key": "business-bankruptcy-rate",
     "date": "2022-06-15",
     "value": 3.99438,
     "value_": 3.99438
@@ -3022,6 +5290,27 @@
     "date": "2025-06-15",
     "value": 8.69278,
     "value_": 8.69278
+  },
+  {
+    "geoid": "35620",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-06-15",
+    "value": 9.20911,
+    "value_": 9.20911
+  },
+  {
+    "geoid": "35620",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-06-15",
+    "value": 7.88351,
+    "value_": 7.88351
+  },
+  {
+    "geoid": "35620",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-06-15",
+    "value": 5.0318,
+    "value_": 5.0318
   },
   {
     "geoid": "35620",
@@ -3054,6 +5343,27 @@
   {
     "geoid": "36420",
     "key": "business-bankruptcy-rate",
+    "date": "2019-06-15",
+    "value": 7.94333,
+    "value_": 7.94333
+  },
+  {
+    "geoid": "36420",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-06-15",
+    "value": 6.64321,
+    "value_": 6.64321
+  },
+  {
+    "geoid": "36420",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-06-15",
+    "value": 6.50934,
+    "value_": 6.50934
+  },
+  {
+    "geoid": "36420",
+    "key": "business-bankruptcy-rate",
     "date": "2022-06-15",
     "value": 4.71657,
     "value_": 4.71657
@@ -3078,6 +5388,27 @@
     "date": "2025-06-15",
     "value": 7.5358,
     "value_": 7.5358
+  },
+  {
+    "geoid": "36540",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-06-15",
+    "value": 6.85114,
+    "value_": 6.85114
+  },
+  {
+    "geoid": "36540",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-06-15",
+    "value": 3.61132,
+    "value_": 3.61132
+  },
+  {
+    "geoid": "36540",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-06-15",
+    "value": 3.80316,
+    "value_": 3.80316
   },
   {
     "geoid": "36540",
@@ -3110,6 +5441,27 @@
   {
     "geoid": "36740",
     "key": "business-bankruptcy-rate",
+    "date": "2019-06-15",
+    "value": 8.28134,
+    "value_": 8.28134
+  },
+  {
+    "geoid": "36740",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-06-15",
+    "value": 9.3636,
+    "value_": 9.3636
+  },
+  {
+    "geoid": "36740",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-06-15",
+    "value": 8.40955,
+    "value_": 8.40955
+  },
+  {
+    "geoid": "36740",
+    "key": "business-bankruptcy-rate",
     "date": "2022-06-15",
     "value": 5.81945,
     "value_": 5.81945
@@ -3134,6 +5486,27 @@
     "date": "2025-06-15",
     "value": 11.40795,
     "value_": 11.40795
+  },
+  {
+    "geoid": "37980",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-06-15",
+    "value": 5.29094,
+    "value_": 5.29094
+  },
+  {
+    "geoid": "37980",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-06-15",
+    "value": 4.053,
+    "value_": 4.053
+  },
+  {
+    "geoid": "37980",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-06-15",
+    "value": 3.58146,
+    "value_": 3.58146
   },
   {
     "geoid": "37980",
@@ -3166,6 +5539,27 @@
   {
     "geoid": "38060",
     "key": "business-bankruptcy-rate",
+    "date": "2019-06-15",
+    "value": 6.80272,
+    "value_": 6.80272
+  },
+  {
+    "geoid": "38060",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-06-15",
+    "value": 6.60428,
+    "value_": 6.60428
+  },
+  {
+    "geoid": "38060",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-06-15",
+    "value": 4.56636,
+    "value_": 4.56636
+  },
+  {
+    "geoid": "38060",
+    "key": "business-bankruptcy-rate",
     "date": "2022-06-15",
     "value": 3.41953,
     "value_": 3.41953
@@ -3190,6 +5584,27 @@
     "date": "2025-06-15",
     "value": 6.97325,
     "value_": 6.97325
+  },
+  {
+    "geoid": "38300",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-06-15",
+    "value": 7.69737,
+    "value_": 7.69737
+  },
+  {
+    "geoid": "38300",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-06-15",
+    "value": 6.4756,
+    "value_": 6.4756
+  },
+  {
+    "geoid": "38300",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-06-15",
+    "value": 7.18099,
+    "value_": 7.18099
   },
   {
     "geoid": "38300",
@@ -3222,6 +5637,27 @@
   {
     "geoid": "38900",
     "key": "business-bankruptcy-rate",
+    "date": "2019-06-15",
+    "value": 4.8546,
+    "value_": 4.8546
+  },
+  {
+    "geoid": "38900",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-06-15",
+    "value": 5.32223,
+    "value_": 5.32223
+  },
+  {
+    "geoid": "38900",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-06-15",
+    "value": 3.41634,
+    "value_": 3.41634
+  },
+  {
+    "geoid": "38900",
+    "key": "business-bankruptcy-rate",
     "date": "2022-06-15",
     "value": 3.14703,
     "value_": 3.14703
@@ -3246,6 +5682,27 @@
     "date": "2025-06-15",
     "value": 5.39972,
     "value_": 5.39972
+  },
+  {
+    "geoid": "39300",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-06-15",
+    "value": 5.298,
+    "value_": 5.298
+  },
+  {
+    "geoid": "39300",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-06-15",
+    "value": 4.06381,
+    "value_": 4.06381
+  },
+  {
+    "geoid": "39300",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-06-15",
+    "value": 3.45861,
+    "value_": 3.45861
   },
   {
     "geoid": "39300",
@@ -3278,6 +5735,27 @@
   {
     "geoid": "39580",
     "key": "business-bankruptcy-rate",
+    "date": "2019-06-15",
+    "value": 7.03843,
+    "value_": 7.03843
+  },
+  {
+    "geoid": "39580",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-06-15",
+    "value": 6.42135,
+    "value_": 6.42135
+  },
+  {
+    "geoid": "39580",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-06-15",
+    "value": 4.68541,
+    "value_": 4.68541
+  },
+  {
+    "geoid": "39580",
+    "key": "business-bankruptcy-rate",
     "date": "2022-06-15",
     "value": 3.03399,
     "value_": 3.03399
@@ -3302,6 +5780,27 @@
     "date": "2025-06-15",
     "value": 5.52294,
     "value_": 5.52294
+  },
+  {
+    "geoid": "40060",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-06-15",
+    "value": 4.25044,
+    "value_": 4.25044
+  },
+  {
+    "geoid": "40060",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-06-15",
+    "value": 4.32887,
+    "value_": 4.32887
+  },
+  {
+    "geoid": "40060",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-06-15",
+    "value": 4.29679,
+    "value_": 4.29679
   },
   {
     "geoid": "40060",
@@ -3334,6 +5833,27 @@
   {
     "geoid": "40140",
     "key": "business-bankruptcy-rate",
+    "date": "2019-06-15",
+    "value": 5.57847,
+    "value_": 5.57847
+  },
+  {
+    "geoid": "40140",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-06-15",
+    "value": 6.01104,
+    "value_": 6.01104
+  },
+  {
+    "geoid": "40140",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-06-15",
+    "value": 4.36925,
+    "value_": 4.36925
+  },
+  {
+    "geoid": "40140",
+    "key": "business-bankruptcy-rate",
     "date": "2022-06-15",
     "value": 2.95146,
     "value_": 2.95146
@@ -3358,6 +5878,27 @@
     "date": "2025-06-15",
     "value": 5.97085,
     "value_": 5.97085
+  },
+  {
+    "geoid": "40380",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-06-15",
+    "value": 4.20791,
+    "value_": 4.20791
+  },
+  {
+    "geoid": "40380",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-06-15",
+    "value": 3.76302,
+    "value_": 3.76302
+  },
+  {
+    "geoid": "40380",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-06-15",
+    "value": 3.01553,
+    "value_": 3.01553
   },
   {
     "geoid": "40380",
@@ -3390,6 +5931,27 @@
   {
     "geoid": "40900",
     "key": "business-bankruptcy-rate",
+    "date": "2019-06-15",
+    "value": 6.93841,
+    "value_": 6.93841
+  },
+  {
+    "geoid": "40900",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-06-15",
+    "value": 5.74594,
+    "value_": 5.74594
+  },
+  {
+    "geoid": "40900",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-06-15",
+    "value": 5.10572,
+    "value_": 5.10572
+  },
+  {
+    "geoid": "40900",
+    "key": "business-bankruptcy-rate",
     "date": "2022-06-15",
     "value": 4.20863,
     "value_": 4.20863
@@ -3414,6 +5976,27 @@
     "date": "2025-06-15",
     "value": 6.72397,
     "value_": 6.72397
+  },
+  {
+    "geoid": "41180",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-06-15",
+    "value": 4.6692,
+    "value_": 4.6692
+  },
+  {
+    "geoid": "41180",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-06-15",
+    "value": 4.82289,
+    "value_": 4.82289
+  },
+  {
+    "geoid": "41180",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-06-15",
+    "value": 3.30542,
+    "value_": 3.30542
   },
   {
     "geoid": "41180",
@@ -3446,6 +6029,27 @@
   {
     "geoid": "41620",
     "key": "business-bankruptcy-rate",
+    "date": "2019-06-15",
+    "value": 4.87529,
+    "value_": 4.87529
+  },
+  {
+    "geoid": "41620",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-06-15",
+    "value": 4.76047,
+    "value_": 4.76047
+  },
+  {
+    "geoid": "41620",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-06-15",
+    "value": 3.24549,
+    "value_": 3.24549
+  },
+  {
+    "geoid": "41620",
+    "key": "business-bankruptcy-rate",
     "date": "2022-06-15",
     "value": 1.41483,
     "value_": 1.41483
@@ -3470,6 +6074,27 @@
     "date": "2025-06-15",
     "value": 3.89813,
     "value_": 3.89813
+  },
+  {
+    "geoid": "41700",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-06-15",
+    "value": 8.90145,
+    "value_": 8.90145
+  },
+  {
+    "geoid": "41700",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-06-15",
+    "value": 8.68064,
+    "value_": 8.68064
+  },
+  {
+    "geoid": "41700",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-06-15",
+    "value": 5.41104,
+    "value_": 5.41104
   },
   {
     "geoid": "41700",
@@ -3502,6 +6127,27 @@
   {
     "geoid": "41740",
     "key": "business-bankruptcy-rate",
+    "date": "2019-06-15",
+    "value": 8.25712,
+    "value_": 8.25712
+  },
+  {
+    "geoid": "41740",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-06-15",
+    "value": 9.08765,
+    "value_": 9.08765
+  },
+  {
+    "geoid": "41740",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-06-15",
+    "value": 6.50532,
+    "value_": 6.50532
+  },
+  {
+    "geoid": "41740",
+    "key": "business-bankruptcy-rate",
     "date": "2022-06-15",
     "value": 4.75066,
     "value_": 4.75066
@@ -3526,6 +6172,27 @@
     "date": "2025-06-15",
     "value": 7.29509,
     "value_": 7.29509
+  },
+  {
+    "geoid": "41860",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-06-15",
+    "value": 5.65197,
+    "value_": 5.65197
+  },
+  {
+    "geoid": "41860",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-06-15",
+    "value": 5.8369,
+    "value_": 5.8369
+  },
+  {
+    "geoid": "41860",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-06-15",
+    "value": 6.6425,
+    "value_": 6.6425
   },
   {
     "geoid": "41860",
@@ -3558,6 +6225,27 @@
   {
     "geoid": "41940",
     "key": "business-bankruptcy-rate",
+    "date": "2019-06-15",
+    "value": 4.28165,
+    "value_": 4.28165
+  },
+  {
+    "geoid": "41940",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-06-15",
+    "value": 5.02681,
+    "value_": 5.02681
+  },
+  {
+    "geoid": "41940",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-06-15",
+    "value": 4.57578,
+    "value_": 4.57578
+  },
+  {
+    "geoid": "41940",
+    "key": "business-bankruptcy-rate",
     "date": "2022-06-15",
     "value": 3.48473,
     "value_": 3.48473
@@ -3582,6 +6270,27 @@
     "date": "2025-06-15",
     "value": 4.59186,
     "value_": 4.59186
+  },
+  {
+    "geoid": "42660",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-06-15",
+    "value": 4.77653,
+    "value_": 4.77653
+  },
+  {
+    "geoid": "42660",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-06-15",
+    "value": 4.31978,
+    "value_": 4.31978
+  },
+  {
+    "geoid": "42660",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-06-15",
+    "value": 3.16139,
+    "value_": 3.16139
   },
   {
     "geoid": "42660",
@@ -3614,6 +6323,27 @@
   {
     "geoid": "45300",
     "key": "business-bankruptcy-rate",
+    "date": "2019-06-15",
+    "value": 9.03091,
+    "value_": 9.03091
+  },
+  {
+    "geoid": "45300",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-06-15",
+    "value": 8.28113,
+    "value_": 8.28113
+  },
+  {
+    "geoid": "45300",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-06-15",
+    "value": 6.65518,
+    "value_": 6.65518
+  },
+  {
+    "geoid": "45300",
+    "key": "business-bankruptcy-rate",
     "date": "2022-06-15",
     "value": 5.38369,
     "value_": 5.38369
@@ -3638,6 +6368,27 @@
     "date": "2025-06-15",
     "value": 8.72706,
     "value_": 8.72706
+  },
+  {
+    "geoid": "46060",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-06-15",
+    "value": 4.09812,
+    "value_": 4.09812
+  },
+  {
+    "geoid": "46060",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-06-15",
+    "value": 4.11394,
+    "value_": 4.11394
+  },
+  {
+    "geoid": "46060",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-06-15",
+    "value": 2.669,
+    "value_": 2.669
   },
   {
     "geoid": "46060",
@@ -3670,6 +6421,27 @@
   {
     "geoid": "46140",
     "key": "business-bankruptcy-rate",
+    "date": "2019-06-15",
+    "value": 6.60431,
+    "value_": 6.60431
+  },
+  {
+    "geoid": "46140",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-06-15",
+    "value": 5.30759,
+    "value_": 5.30759
+  },
+  {
+    "geoid": "46140",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-06-15",
+    "value": 4.77591,
+    "value_": 4.77591
+  },
+  {
+    "geoid": "46140",
+    "key": "business-bankruptcy-rate",
     "date": "2022-06-15",
     "value": 3.47424,
     "value_": 3.47424
@@ -3694,6 +6466,27 @@
     "date": "2025-06-15",
     "value": 5.88469,
     "value_": 5.88469
+  },
+  {
+    "geoid": "47260",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-06-15",
+    "value": 3.70504,
+    "value_": 3.70504
+  },
+  {
+    "geoid": "47260",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-06-15",
+    "value": 3.25518,
+    "value_": 3.25518
+  },
+  {
+    "geoid": "47260",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-06-15",
+    "value": 2.18387,
+    "value_": 2.18387
   },
   {
     "geoid": "47260",
@@ -3726,6 +6519,27 @@
   {
     "geoid": "47900",
     "key": "business-bankruptcy-rate",
+    "date": "2019-06-15",
+    "value": 6.57344,
+    "value_": 6.57344
+  },
+  {
+    "geoid": "47900",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-06-15",
+    "value": 6.14969,
+    "value_": 6.14969
+  },
+  {
+    "geoid": "47900",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-06-15",
+    "value": 5.01659,
+    "value_": 5.01659
+  },
+  {
+    "geoid": "47900",
+    "key": "business-bankruptcy-rate",
     "date": "2022-06-15",
     "value": 3.62491,
     "value_": 3.62491
@@ -3750,6 +6564,27 @@
     "date": "2025-06-15",
     "value": 5.7324,
     "value_": 5.7324
+  },
+  {
+    "geoid": "51013",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-06-15",
+    "value": 3.77529,
+    "value_": 3.77529
+  },
+  {
+    "geoid": "51013",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-06-15",
+    "value": 2.51226,
+    "value_": 2.51226
+  },
+  {
+    "geoid": "51013",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-06-15",
+    "value": 5.13967,
+    "value_": 5.13967
   },
   {
     "geoid": "51013",
@@ -3782,6 +6617,27 @@
   {
     "geoid": "51043",
     "key": "business-bankruptcy-rate",
+    "date": "2019-06-15",
+    "value": 6.86059,
+    "value_": 6.86059
+  },
+  {
+    "geoid": "51043",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-06-15",
+    "value": 6.749,
+    "value_": 6.749
+  },
+  {
+    "geoid": "51043",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-06-15",
+    "value": 13.38061,
+    "value_": 13.38061
+  },
+  {
+    "geoid": "51043",
+    "key": "business-bankruptcy-rate",
     "date": "2022-06-15",
     "value": 6.53083,
     "value_": 6.53083
@@ -3806,6 +6662,27 @@
     "date": "2025-06-15",
     "value": 0,
     "value_": 0
+  },
+  {
+    "geoid": "51047",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-06-15",
+    "value": 1.89674,
+    "value_": 1.89674
+  },
+  {
+    "geoid": "51047",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-06-15",
+    "value": 1.89516,
+    "value_": 1.89516
+  },
+  {
+    "geoid": "51047",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-06-15",
+    "value": 3.71892,
+    "value_": 3.71892
   },
   {
     "geoid": "51047",
@@ -3838,6 +6715,27 @@
   {
     "geoid": "51059",
     "key": "business-bankruptcy-rate",
+    "date": "2019-06-15",
+    "value": 7.30967,
+    "value_": 7.30967
+  },
+  {
+    "geoid": "51059",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-06-15",
+    "value": 8.25238,
+    "value_": 8.25238
+  },
+  {
+    "geoid": "51059",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-06-15",
+    "value": 6.01055,
+    "value_": 6.01055
+  },
+  {
+    "geoid": "51059",
+    "key": "business-bankruptcy-rate",
     "date": "2022-06-15",
     "value": 4.40729,
     "value_": 4.40729
@@ -3862,6 +6760,27 @@
     "date": "2025-06-15",
     "value": 5.6745,
     "value_": 5.6745
+  },
+  {
+    "geoid": "51061",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-06-15",
+    "value": 11.22067,
+    "value_": 11.22067
+  },
+  {
+    "geoid": "51061",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-06-15",
+    "value": 10.9574,
+    "value_": 10.9574
+  },
+  {
+    "geoid": "51061",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-06-15",
+    "value": 5.40044,
+    "value_": 5.40044
   },
   {
     "geoid": "51061",
@@ -3894,6 +6813,27 @@
   {
     "geoid": "51107",
     "key": "business-bankruptcy-rate",
+    "date": "2019-06-15",
+    "value": 7.47218,
+    "value_": 7.47218
+  },
+  {
+    "geoid": "51107",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-06-15",
+    "value": 8.98934,
+    "value_": 8.98934
+  },
+  {
+    "geoid": "51107",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-06-15",
+    "value": 6.29625,
+    "value_": 6.29625
+  },
+  {
+    "geoid": "51107",
+    "key": "business-bankruptcy-rate",
     "date": "2022-06-15",
     "value": 5.08204,
     "value_": 5.08204
@@ -3918,6 +6858,27 @@
     "date": "2025-06-15",
     "value": 8.97206,
     "value_": 8.97206
+  },
+  {
+    "geoid": "51153",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-06-15",
+    "value": 6.59442,
+    "value_": 6.59442
+  },
+  {
+    "geoid": "51153",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-06-15",
+    "value": 5.52769,
+    "value_": 5.52769
+  },
+  {
+    "geoid": "51153",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-06-15",
+    "value": 2.93418,
+    "value_": 2.93418
   },
   {
     "geoid": "51153",
@@ -3950,6 +6911,27 @@
   {
     "geoid": "51157",
     "key": "business-bankruptcy-rate",
+    "date": "2019-06-15",
+    "value": 0,
+    "value_": 0
+  },
+  {
+    "geoid": "51157",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-06-15",
+    "value": 0,
+    "value_": 0
+  },
+  {
+    "geoid": "51157",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-06-15",
+    "value": 13.4499,
+    "value_": 13.4499
+  },
+  {
+    "geoid": "51157",
+    "key": "business-bankruptcy-rate",
     "date": "2022-06-15",
     "value": 0,
     "value_": 0
@@ -3974,6 +6956,27 @@
     "date": "2025-06-15",
     "value": 26.50817,
     "value_": 26.50817
+  },
+  {
+    "geoid": "51177",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-06-15",
+    "value": 3.66443,
+    "value_": 3.66443
+  },
+  {
+    "geoid": "51177",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-06-15",
+    "value": 4.97827,
+    "value_": 4.97827
+  },
+  {
+    "geoid": "51177",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-06-15",
+    "value": 6.24883,
+    "value_": 6.24883
   },
   {
     "geoid": "51177",
@@ -4006,6 +7009,27 @@
   {
     "geoid": "51179",
     "key": "business-bankruptcy-rate",
+    "date": "2019-06-15",
+    "value": 10.40481,
+    "value_": 10.40481
+  },
+  {
+    "geoid": "51179",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-06-15",
+    "value": 6.33846,
+    "value_": 6.33846
+  },
+  {
+    "geoid": "51179",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-06-15",
+    "value": 1.23772,
+    "value_": 1.23772
+  },
+  {
+    "geoid": "51179",
+    "key": "business-bankruptcy-rate",
     "date": "2022-06-15",
     "value": 4.28835,
     "value_": 4.28835
@@ -4030,6 +7054,27 @@
     "date": "2025-06-15",
     "value": 2.91894,
     "value_": 2.91894
+  },
+  {
+    "geoid": "51187",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-06-15",
+    "value": 12.42699,
+    "value_": 12.42699
+  },
+  {
+    "geoid": "51187",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-06-15",
+    "value": 17.15812,
+    "value_": 17.15812
+  },
+  {
+    "geoid": "51187",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-06-15",
+    "value": 14.64236,
+    "value_": 14.64236
   },
   {
     "geoid": "51187",
@@ -4062,6 +7107,27 @@
   {
     "geoid": "51510",
     "key": "business-bankruptcy-rate",
+    "date": "2019-06-15",
+    "value": 8.80226,
+    "value_": 8.80226
+  },
+  {
+    "geoid": "51510",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-06-15",
+    "value": 6.28362,
+    "value_": 6.28362
+  },
+  {
+    "geoid": "51510",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-06-15",
+    "value": 4.51237,
+    "value_": 4.51237
+  },
+  {
+    "geoid": "51510",
+    "key": "business-bankruptcy-rate",
     "date": "2022-06-15",
     "value": 3.86511,
     "value_": 3.86511
@@ -4086,6 +7152,27 @@
     "date": "2025-06-15",
     "value": 1.89269,
     "value_": 1.89269
+  },
+  {
+    "geoid": "51630",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-06-15",
+    "value": 0,
+    "value_": 0
+  },
+  {
+    "geoid": "51630",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-06-15",
+    "value": 7.14413,
+    "value_": 7.14413
+  },
+  {
+    "geoid": "51630",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-06-15",
+    "value": 14.06223,
+    "value_": 14.06223
   },
   {
     "geoid": "51630",
@@ -4118,6 +7205,27 @@
   {
     "geoid": "54037",
     "key": "business-bankruptcy-rate",
+    "date": "2019-06-15",
+    "value": 3.48754,
+    "value_": 3.48754
+  },
+  {
+    "geoid": "54037",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-06-15",
+    "value": 3.46111,
+    "value_": 3.46111
+  },
+  {
+    "geoid": "54037",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-06-15",
+    "value": 10.24765,
+    "value_": 10.24765
+  },
+  {
+    "geoid": "54037",
+    "key": "business-bankruptcy-rate",
     "date": "2022-06-15",
     "value": 0,
     "value_": 0
@@ -4142,6 +7250,27 @@
     "date": "2025-06-15",
     "value": 1.61784,
     "value_": 1.61784
+  },
+  {
+    "geoid": "99997",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-06-15",
+    "value": 7.05158,
+    "value_": 7.05158
+  },
+  {
+    "geoid": "99997",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-06-15",
+    "value": 6.7785,
+    "value_": 6.7785
+  },
+  {
+    "geoid": "99997",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-06-15",
+    "value": 5.33202,
+    "value_": 5.33202
   },
   {
     "geoid": "99997",
@@ -4174,6 +7303,27 @@
   {
     "geoid": "99999",
     "key": "business-bankruptcy-rate",
+    "date": "2019-06-15",
+    "value": 6.84768,
+    "value_": 6.84768
+  },
+  {
+    "geoid": "99999",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-06-15",
+    "value": 6.78031,
+    "value_": 6.78031
+  },
+  {
+    "geoid": "99999",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-06-15",
+    "value": 5.57393,
+    "value_": 5.57393
+  },
+  {
+    "geoid": "99999",
+    "key": "business-bankruptcy-rate",
     "date": "2022-06-15",
     "value": 3.81657,
     "value_": 3.81657
@@ -4198,6 +7348,27 @@
     "date": "2025-06-15",
     "value": 6.74412,
     "value_": 6.74412
+  },
+  {
+    "geoid": "11001",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-09-15",
+    "value": 6.35366,
+    "value_": 6.35366
+  },
+  {
+    "geoid": "11001",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-09-15",
+    "value": 6.26009,
+    "value_": 6.26009
+  },
+  {
+    "geoid": "11001",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-09-15",
+    "value": 5.97679,
+    "value_": 5.97679
   },
   {
     "geoid": "11001",
@@ -4230,6 +7401,27 @@
   {
     "geoid": "12060",
     "key": "business-bankruptcy-rate",
+    "date": "2019-09-15",
+    "value": 9.08651,
+    "value_": 9.08651
+  },
+  {
+    "geoid": "12060",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-09-15",
+    "value": 7.85808,
+    "value_": 7.85808
+  },
+  {
+    "geoid": "12060",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-09-15",
+    "value": 5.64883,
+    "value_": 5.64883
+  },
+  {
+    "geoid": "12060",
+    "key": "business-bankruptcy-rate",
     "date": "2022-09-15",
     "value": 5.21344,
     "value_": 5.21344
@@ -4254,6 +7446,27 @@
     "date": "2025-09-15",
     "value": 11.60381,
     "value_": 11.60381
+  },
+  {
+    "geoid": "12420",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-09-15",
+    "value": 7.6298,
+    "value_": 7.6298
+  },
+  {
+    "geoid": "12420",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-09-15",
+    "value": 8.69471,
+    "value_": 8.69471
+  },
+  {
+    "geoid": "12420",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-09-15",
+    "value": 5.72255,
+    "value_": 5.72255
   },
   {
     "geoid": "12420",
@@ -4286,6 +7499,27 @@
   {
     "geoid": "12580",
     "key": "business-bankruptcy-rate",
+    "date": "2019-09-15",
+    "value": 6.06298,
+    "value_": 6.06298
+  },
+  {
+    "geoid": "12580",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-09-15",
+    "value": 4.95267,
+    "value_": 4.95267
+  },
+  {
+    "geoid": "12580",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-09-15",
+    "value": 4.07372,
+    "value_": 4.07372
+  },
+  {
+    "geoid": "12580",
+    "key": "business-bankruptcy-rate",
     "date": "2022-09-15",
     "value": 4.21644,
     "value_": 4.21644
@@ -4310,6 +7544,27 @@
     "date": "2025-09-15",
     "value": 5.90702,
     "value_": 5.90702
+  },
+  {
+    "geoid": "13820",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-09-15",
+    "value": 6.669,
+    "value_": 6.669
+  },
+  {
+    "geoid": "13820",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-09-15",
+    "value": 5.83847,
+    "value_": 5.83847
+  },
+  {
+    "geoid": "13820",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-09-15",
+    "value": 3.47115,
+    "value_": 3.47115
   },
   {
     "geoid": "13820",
@@ -4342,6 +7597,27 @@
   {
     "geoid": "14460",
     "key": "business-bankruptcy-rate",
+    "date": "2019-09-15",
+    "value": 4.79875,
+    "value_": 4.79875
+  },
+  {
+    "geoid": "14460",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-09-15",
+    "value": 4.50255,
+    "value_": 4.50255
+  },
+  {
+    "geoid": "14460",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-09-15",
+    "value": 3.44079,
+    "value_": 3.44079
+  },
+  {
+    "geoid": "14460",
+    "key": "business-bankruptcy-rate",
     "date": "2022-09-15",
     "value": 2.98067,
     "value_": 2.98067
@@ -4366,6 +7642,27 @@
     "date": "2025-09-15",
     "value": 4.62266,
     "value_": 4.62266
+  },
+  {
+    "geoid": "15380",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-09-15",
+    "value": 7.3557,
+    "value_": 7.3557
+  },
+  {
+    "geoid": "15380",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-09-15",
+    "value": 5.75361,
+    "value_": 5.75361
+  },
+  {
+    "geoid": "15380",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-09-15",
+    "value": 3.43413,
+    "value_": 3.43413
   },
   {
     "geoid": "15380",
@@ -4398,6 +7695,27 @@
   {
     "geoid": "16740",
     "key": "business-bankruptcy-rate",
+    "date": "2019-09-15",
+    "value": 2.42413,
+    "value_": 2.42413
+  },
+  {
+    "geoid": "16740",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-09-15",
+    "value": 3.48528,
+    "value_": 3.48528
+  },
+  {
+    "geoid": "16740",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-09-15",
+    "value": 2.91853,
+    "value_": 2.91853
+  },
+  {
+    "geoid": "16740",
+    "key": "business-bankruptcy-rate",
     "date": "2022-09-15",
     "value": 1.84698,
     "value_": 1.84698
@@ -4422,6 +7740,27 @@
     "date": "2025-09-15",
     "value": 2.15186,
     "value_": 2.15186
+  },
+  {
+    "geoid": "16980",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-09-15",
+    "value": 7.84101,
+    "value_": 7.84101
+  },
+  {
+    "geoid": "16980",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-09-15",
+    "value": 7.119,
+    "value_": 7.119
+  },
+  {
+    "geoid": "16980",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-09-15",
+    "value": 5.08436,
+    "value_": 5.08436
   },
   {
     "geoid": "16980",
@@ -4454,6 +7793,27 @@
   {
     "geoid": "17140",
     "key": "business-bankruptcy-rate",
+    "date": "2019-09-15",
+    "value": 5.40997,
+    "value_": 5.40997
+  },
+  {
+    "geoid": "17140",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-09-15",
+    "value": 3.46347,
+    "value_": 3.46347
+  },
+  {
+    "geoid": "17140",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-09-15",
+    "value": 2.61896,
+    "value_": 2.61896
+  },
+  {
+    "geoid": "17140",
+    "key": "business-bankruptcy-rate",
     "date": "2022-09-15",
     "value": 2.25343,
     "value_": 2.25343
@@ -4478,6 +7838,27 @@
     "date": "2025-09-15",
     "value": 4.48951,
     "value_": 4.48951
+  },
+  {
+    "geoid": "17410",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-09-15",
+    "value": 5.68469,
+    "value_": 5.68469
+  },
+  {
+    "geoid": "17410",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-09-15",
+    "value": 4.25779,
+    "value_": 4.25779
+  },
+  {
+    "geoid": "17410",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-09-15",
+    "value": 4.46822,
+    "value_": 4.46822
   },
   {
     "geoid": "17410",
@@ -4510,6 +7891,27 @@
   {
     "geoid": "18140",
     "key": "business-bankruptcy-rate",
+    "date": "2019-09-15",
+    "value": 4.32838,
+    "value_": 4.32838
+  },
+  {
+    "geoid": "18140",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-09-15",
+    "value": 3.54805,
+    "value_": 3.54805
+  },
+  {
+    "geoid": "18140",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-09-15",
+    "value": 2.60758,
+    "value_": 2.60758
+  },
+  {
+    "geoid": "18140",
+    "key": "business-bankruptcy-rate",
     "date": "2022-09-15",
     "value": 2.35139,
     "value_": 2.35139
@@ -4534,6 +7936,27 @@
     "date": "2025-09-15",
     "value": 3.92722,
     "value_": 3.92722
+  },
+  {
+    "geoid": "19100",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-09-15",
+    "value": 9.59813,
+    "value_": 9.59813
+  },
+  {
+    "geoid": "19100",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-09-15",
+    "value": 9.59884,
+    "value_": 9.59884
+  },
+  {
+    "geoid": "19100",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-09-15",
+    "value": 8.08836,
+    "value_": 8.08836
   },
   {
     "geoid": "19100",
@@ -4566,6 +7989,27 @@
   {
     "geoid": "19740",
     "key": "business-bankruptcy-rate",
+    "date": "2019-09-15",
+    "value": 6.37477,
+    "value_": 6.37477
+  },
+  {
+    "geoid": "19740",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-09-15",
+    "value": 7.23847,
+    "value_": 7.23847
+  },
+  {
+    "geoid": "19740",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-09-15",
+    "value": 5.47272,
+    "value_": 5.47272
+  },
+  {
+    "geoid": "19740",
+    "key": "business-bankruptcy-rate",
     "date": "2022-09-15",
     "value": 4.94701,
     "value_": 4.94701
@@ -4590,6 +8034,27 @@
     "date": "2025-09-15",
     "value": 9.63799,
     "value_": 9.63799
+  },
+  {
+    "geoid": "19820",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-09-15",
+    "value": 6.78333,
+    "value_": 6.78333
+  },
+  {
+    "geoid": "19820",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-09-15",
+    "value": 3.99047,
+    "value_": 3.99047
+  },
+  {
+    "geoid": "19820",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-09-15",
+    "value": 2.97482,
+    "value_": 2.97482
   },
   {
     "geoid": "19820",
@@ -4622,6 +8087,27 @@
   {
     "geoid": "23420",
     "key": "business-bankruptcy-rate",
+    "date": "2019-09-15",
+    "value": 5.28338,
+    "value_": 5.28338
+  },
+  {
+    "geoid": "23420",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-09-15",
+    "value": 5.14559,
+    "value_": 5.14559
+  },
+  {
+    "geoid": "23420",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-09-15",
+    "value": 5.37589,
+    "value_": 5.37589
+  },
+  {
+    "geoid": "23420",
+    "key": "business-bankruptcy-rate",
     "date": "2022-09-15",
     "value": 3.73666,
     "value_": 3.73666
@@ -4646,6 +8132,27 @@
     "date": "2025-09-15",
     "value": 5.9695,
     "value_": 5.9695
+  },
+  {
+    "geoid": "24017",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-09-15",
+    "value": 6.71825,
+    "value_": 6.71825
+  },
+  {
+    "geoid": "24017",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-09-15",
+    "value": 2.99954,
+    "value_": 2.99954
+  },
+  {
+    "geoid": "24017",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-09-15",
+    "value": 0.59234,
+    "value_": 0.59234
   },
   {
     "geoid": "24017",
@@ -4678,6 +8185,27 @@
   {
     "geoid": "24021",
     "key": "business-bankruptcy-rate",
+    "date": "2019-09-15",
+    "value": 7.67433,
+    "value_": 7.67433
+  },
+  {
+    "geoid": "24021",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-09-15",
+    "value": 3.29928,
+    "value_": 3.29928
+  },
+  {
+    "geoid": "24021",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-09-15",
+    "value": 2.49407,
+    "value_": 2.49407
+  },
+  {
+    "geoid": "24021",
+    "key": "business-bankruptcy-rate",
     "date": "2022-09-15",
     "value": 4.85578,
     "value_": 4.85578
@@ -4702,6 +8230,27 @@
     "date": "2025-09-15",
     "value": 5.86708,
     "value_": 5.86708
+  },
+  {
+    "geoid": "24031",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-09-15",
+    "value": 5.0422,
+    "value_": 5.0422
+  },
+  {
+    "geoid": "24031",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-09-15",
+    "value": 5.46728,
+    "value_": 5.46728
+  },
+  {
+    "geoid": "24031",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-09-15",
+    "value": 5.30259,
+    "value_": 5.30259
   },
   {
     "geoid": "24031",
@@ -4734,6 +8283,27 @@
   {
     "geoid": "24033",
     "key": "business-bankruptcy-rate",
+    "date": "2019-09-15",
+    "value": 6.47241,
+    "value_": 6.47241
+  },
+  {
+    "geoid": "24033",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-09-15",
+    "value": 4.24695,
+    "value_": 4.24695
+  },
+  {
+    "geoid": "24033",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-09-15",
+    "value": 3.44971,
+    "value_": 3.44971
+  },
+  {
+    "geoid": "24033",
+    "key": "business-bankruptcy-rate",
     "date": "2022-09-15",
     "value": 2.51675,
     "value_": 2.51675
@@ -4758,6 +8328,27 @@
     "date": "2025-09-15",
     "value": 6.4961,
     "value_": 6.4961
+  },
+  {
+    "geoid": "24340",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-09-15",
+    "value": 4.39328,
+    "value_": 4.39328
+  },
+  {
+    "geoid": "24340",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-09-15",
+    "value": 4.60237,
+    "value_": 4.60237
+  },
+  {
+    "geoid": "24340",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-09-15",
+    "value": 2.42481,
+    "value_": 2.42481
   },
   {
     "geoid": "24340",
@@ -4790,6 +8381,27 @@
   {
     "geoid": "26420",
     "key": "business-bankruptcy-rate",
+    "date": "2019-09-15",
+    "value": 8.29072,
+    "value_": 8.29072
+  },
+  {
+    "geoid": "26420",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-09-15",
+    "value": 10.78144,
+    "value_": 10.78144
+  },
+  {
+    "geoid": "26420",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-09-15",
+    "value": 5.91973,
+    "value_": 5.91973
+  },
+  {
+    "geoid": "26420",
+    "key": "business-bankruptcy-rate",
     "date": "2022-09-15",
     "value": 5.16002,
     "value_": 5.16002
@@ -4814,6 +8426,27 @@
     "date": "2025-09-15",
     "value": 7.30255,
     "value_": 7.30255
+  },
+  {
+    "geoid": "26900",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-09-15",
+    "value": 6.82626,
+    "value_": 6.82626
+  },
+  {
+    "geoid": "26900",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-09-15",
+    "value": 5.87711,
+    "value_": 5.87711
+  },
+  {
+    "geoid": "26900",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-09-15",
+    "value": 4.31717,
+    "value_": 4.31717
   },
   {
     "geoid": "26900",
@@ -4846,6 +8479,27 @@
   {
     "geoid": "27260",
     "key": "business-bankruptcy-rate",
+    "date": "2019-09-15",
+    "value": 5.82659,
+    "value_": 5.82659
+  },
+  {
+    "geoid": "27260",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-09-15",
+    "value": 5.88948,
+    "value_": 5.88948
+  },
+  {
+    "geoid": "27260",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-09-15",
+    "value": 5.7259,
+    "value_": 5.7259
+  },
+  {
+    "geoid": "27260",
+    "key": "business-bankruptcy-rate",
     "date": "2022-09-15",
     "value": 4.16333,
     "value_": 4.16333
@@ -4870,6 +8524,27 @@
     "date": "2025-09-15",
     "value": 6.33906,
     "value_": 6.33906
+  },
+  {
+    "geoid": "28140",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-09-15",
+    "value": 5.73639,
+    "value_": 5.73639
+  },
+  {
+    "geoid": "28140",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-09-15",
+    "value": 4.64632,
+    "value_": 4.64632
+  },
+  {
+    "geoid": "28140",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-09-15",
+    "value": 3.40349,
+    "value_": 3.40349
   },
   {
     "geoid": "28140",
@@ -4902,6 +8577,27 @@
   {
     "geoid": "29820",
     "key": "business-bankruptcy-rate",
+    "date": "2019-09-15",
+    "value": 10.58929,
+    "value_": 10.58929
+  },
+  {
+    "geoid": "29820",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-09-15",
+    "value": 9.05109,
+    "value_": 9.05109
+  },
+  {
+    "geoid": "29820",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-09-15",
+    "value": 8.09875,
+    "value_": 8.09875
+  },
+  {
+    "geoid": "29820",
+    "key": "business-bankruptcy-rate",
     "date": "2022-09-15",
     "value": 6.54619,
     "value_": 6.54619
@@ -4926,6 +8622,27 @@
     "date": "2025-09-15",
     "value": 9.17638,
     "value_": 9.17638
+  },
+  {
+    "geoid": "31080",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-09-15",
+    "value": 8.69337,
+    "value_": 8.69337
+  },
+  {
+    "geoid": "31080",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-09-15",
+    "value": 8.07865,
+    "value_": 8.07865
+  },
+  {
+    "geoid": "31080",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-09-15",
+    "value": 7.30997,
+    "value_": 7.30997
   },
   {
     "geoid": "31080",
@@ -4958,6 +8675,27 @@
   {
     "geoid": "31140",
     "key": "business-bankruptcy-rate",
+    "date": "2019-09-15",
+    "value": 6.71125,
+    "value_": 6.71125
+  },
+  {
+    "geoid": "31140",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-09-15",
+    "value": 4.76885,
+    "value_": 4.76885
+  },
+  {
+    "geoid": "31140",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-09-15",
+    "value": 2.64346,
+    "value_": 2.64346
+  },
+  {
+    "geoid": "31140",
+    "key": "business-bankruptcy-rate",
     "date": "2022-09-15",
     "value": 2.41588,
     "value_": 2.41588
@@ -4982,6 +8720,27 @@
     "date": "2025-09-15",
     "value": 3.56477,
     "value_": 3.56477
+  },
+  {
+    "geoid": "32820",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-09-15",
+    "value": 6.20098,
+    "value_": 6.20098
+  },
+  {
+    "geoid": "32820",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-09-15",
+    "value": 6.38824,
+    "value_": 6.38824
+  },
+  {
+    "geoid": "32820",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-09-15",
+    "value": 3.12867,
+    "value_": 3.12867
   },
   {
     "geoid": "32820",
@@ -5014,6 +8773,27 @@
   {
     "geoid": "33100",
     "key": "business-bankruptcy-rate",
+    "date": "2019-09-15",
+    "value": 9.50545,
+    "value_": 9.50545
+  },
+  {
+    "geoid": "33100",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-09-15",
+    "value": 9.55409,
+    "value_": 9.55409
+  },
+  {
+    "geoid": "33100",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-09-15",
+    "value": 8.06972,
+    "value_": 8.06972
+  },
+  {
+    "geoid": "33100",
+    "key": "business-bankruptcy-rate",
     "date": "2022-09-15",
     "value": 7.03568,
     "value_": 7.03568
@@ -5038,6 +8818,27 @@
     "date": "2025-09-15",
     "value": 12.29514,
     "value_": 12.29514
+  },
+  {
+    "geoid": "33340",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-09-15",
+    "value": 4.94467,
+    "value_": 4.94467
+  },
+  {
+    "geoid": "33340",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-09-15",
+    "value": 3.3025,
+    "value_": 3.3025
+  },
+  {
+    "geoid": "33340",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-09-15",
+    "value": 2.75001,
+    "value_": 2.75001
   },
   {
     "geoid": "33340",
@@ -5070,6 +8871,27 @@
   {
     "geoid": "33460",
     "key": "business-bankruptcy-rate",
+    "date": "2019-09-15",
+    "value": 4.80783,
+    "value_": 4.80783
+  },
+  {
+    "geoid": "33460",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-09-15",
+    "value": 5.25139,
+    "value_": 5.25139
+  },
+  {
+    "geoid": "33460",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-09-15",
+    "value": 3.27316,
+    "value_": 3.27316
+  },
+  {
+    "geoid": "33460",
+    "key": "business-bankruptcy-rate",
     "date": "2022-09-15",
     "value": 2.75906,
     "value_": 2.75906
@@ -5094,6 +8916,27 @@
     "date": "2025-09-15",
     "value": 5.28139,
     "value_": 5.28139
+  },
+  {
+    "geoid": "34980",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-09-15",
+    "value": 8.06695,
+    "value_": 8.06695
+  },
+  {
+    "geoid": "34980",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-09-15",
+    "value": 7.07282,
+    "value_": 7.07282
+  },
+  {
+    "geoid": "34980",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-09-15",
+    "value": 4.86801,
+    "value_": 4.86801
   },
   {
     "geoid": "34980",
@@ -5126,6 +8969,27 @@
   {
     "geoid": "35620",
     "key": "business-bankruptcy-rate",
+    "date": "2019-09-15",
+    "value": 9.30819,
+    "value_": 9.30819
+  },
+  {
+    "geoid": "35620",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-09-15",
+    "value": 7.39329,
+    "value_": 7.39329
+  },
+  {
+    "geoid": "35620",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-09-15",
+    "value": 4.35718,
+    "value_": 4.35718
+  },
+  {
+    "geoid": "35620",
+    "key": "business-bankruptcy-rate",
     "date": "2022-09-15",
     "value": 6.28955,
     "value_": 6.28955
@@ -5150,6 +9014,27 @@
     "date": "2025-09-15",
     "value": 10.68492,
     "value_": 10.68492
+  },
+  {
+    "geoid": "36420",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-09-15",
+    "value": 8.72348,
+    "value_": 8.72348
+  },
+  {
+    "geoid": "36420",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-09-15",
+    "value": 6.64321,
+    "value_": 6.64321
+  },
+  {
+    "geoid": "36420",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-09-15",
+    "value": 5.60912,
+    "value_": 5.60912
   },
   {
     "geoid": "36420",
@@ -5182,6 +9067,27 @@
   {
     "geoid": "36540",
     "key": "business-bankruptcy-rate",
+    "date": "2019-09-15",
+    "value": 6.11333,
+    "value_": 6.11333
+  },
+  {
+    "geoid": "36540",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-09-15",
+    "value": 3.30177,
+    "value_": 3.30177
+  },
+  {
+    "geoid": "36540",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-09-15",
+    "value": 3.59758,
+    "value_": 3.59758
+  },
+  {
+    "geoid": "36540",
+    "key": "business-bankruptcy-rate",
     "date": "2022-09-15",
     "value": 3.57731,
     "value_": 3.57731
@@ -5206,6 +9112,27 @@
     "date": "2025-09-15",
     "value": 4.5608,
     "value_": 4.5608
+  },
+  {
+    "geoid": "36740",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-09-15",
+    "value": 9.39319,
+    "value_": 9.39319
+  },
+  {
+    "geoid": "36740",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-09-15",
+    "value": 9.62474,
+    "value_": 9.62474
+  },
+  {
+    "geoid": "36740",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-09-15",
+    "value": 6.96474,
+    "value_": 6.96474
   },
   {
     "geoid": "36740",
@@ -5238,6 +9165,27 @@
   {
     "geoid": "37980",
     "key": "business-bankruptcy-rate",
+    "date": "2019-09-15",
+    "value": 4.99609,
+    "value_": 4.99609
+  },
+  {
+    "geoid": "37980",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-09-15",
+    "value": 4.1331,
+    "value_": 4.1331
+  },
+  {
+    "geoid": "37980",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-09-15",
+    "value": 3.16576,
+    "value_": 3.16576
+  },
+  {
+    "geoid": "37980",
+    "key": "business-bankruptcy-rate",
     "date": "2022-09-15",
     "value": 2.55917,
     "value_": 2.55917
@@ -5262,6 +9210,27 @@
     "date": "2025-09-15",
     "value": 4.2972,
     "value_": 4.2972
+  },
+  {
+    "geoid": "38060",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-09-15",
+    "value": 7.00458,
+    "value_": 7.00458
+  },
+  {
+    "geoid": "38060",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-09-15",
+    "value": 6.46071,
+    "value_": 6.46071
+  },
+  {
+    "geoid": "38060",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-09-15",
+    "value": 4.00062,
+    "value_": 4.00062
   },
   {
     "geoid": "38060",
@@ -5294,6 +9263,27 @@
   {
     "geoid": "38300",
     "key": "business-bankruptcy-rate",
+    "date": "2019-09-15",
+    "value": 8.07184,
+    "value_": 8.07184
+  },
+  {
+    "geoid": "38300",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-09-15",
+    "value": 6.4756,
+    "value_": 6.4756
+  },
+  {
+    "geoid": "38300",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-09-15",
+    "value": 6.20177,
+    "value_": 6.20177
+  },
+  {
+    "geoid": "38300",
+    "key": "business-bankruptcy-rate",
     "date": "2022-09-15",
     "value": 4.60143,
     "value_": 4.60143
@@ -5318,6 +9308,27 @@
     "date": "2025-09-15",
     "value": 7.07516,
     "value_": 7.07516
+  },
+  {
+    "geoid": "38900",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-09-15",
+    "value": 4.97497,
+    "value_": 4.97497
+  },
+  {
+    "geoid": "38900",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-09-15",
+    "value": 4.88533,
+    "value_": 4.88533
+  },
+  {
+    "geoid": "38900",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-09-15",
+    "value": 3.77386,
+    "value_": 3.77386
   },
   {
     "geoid": "38900",
@@ -5350,6 +9361,27 @@
   {
     "geoid": "39300",
     "key": "business-bankruptcy-rate",
+    "date": "2019-09-15",
+    "value": 5.54442,
+    "value_": 5.54442
+  },
+  {
+    "geoid": "39300",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-09-15",
+    "value": 3.70524,
+    "value_": 3.70524
+  },
+  {
+    "geoid": "39300",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-09-15",
+    "value": 3.39898,
+    "value_": 3.39898
+  },
+  {
+    "geoid": "39300",
+    "key": "business-bankruptcy-rate",
     "date": "2022-09-15",
     "value": 2.67746,
     "value_": 2.67746
@@ -5374,6 +9406,27 @@
     "date": "2025-09-15",
     "value": 3.97573,
     "value_": 3.97573
+  },
+  {
+    "geoid": "39580",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-09-15",
+    "value": 7.9721,
+    "value_": 7.9721
+  },
+  {
+    "geoid": "39580",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-09-15",
+    "value": 6.20965,
+    "value_": 6.20965
+  },
+  {
+    "geoid": "39580",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-09-15",
+    "value": 4.20309,
+    "value_": 4.20309
   },
   {
     "geoid": "39580",
@@ -5406,6 +9459,27 @@
   {
     "geoid": "40060",
     "key": "business-bankruptcy-rate",
+    "date": "2019-09-15",
+    "value": 4.25044,
+    "value_": 4.25044
+  },
+  {
+    "geoid": "40060",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-09-15",
+    "value": 4.86048,
+    "value_": 4.86048
+  },
+  {
+    "geoid": "40060",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-09-15",
+    "value": 2.86452,
+    "value_": 2.86452
+  },
+  {
+    "geoid": "40060",
+    "key": "business-bankruptcy-rate",
     "date": "2022-09-15",
     "value": 1.86659,
     "value_": 1.86659
@@ -5430,6 +9504,27 @@
     "date": "2025-09-15",
     "value": 3.46963,
     "value_": 3.46963
+  },
+  {
+    "geoid": "40140",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-09-15",
+    "value": 5.94463,
+    "value_": 5.94463
+  },
+  {
+    "geoid": "40140",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-09-15",
+    "value": 5.40342,
+    "value_": 5.40342
+  },
+  {
+    "geoid": "40140",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-09-15",
+    "value": 4.0464,
+    "value_": 4.0464
   },
   {
     "geoid": "40140",
@@ -5462,6 +9557,27 @@
   {
     "geoid": "40380",
     "key": "business-bankruptcy-rate",
+    "date": "2019-09-15",
+    "value": 3.92101,
+    "value_": 3.92101
+  },
+  {
+    "geoid": "40380",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-09-15",
+    "value": 3.29265,
+    "value_": 3.29265
+  },
+  {
+    "geoid": "40380",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-09-15",
+    "value": 2.63859,
+    "value_": 2.63859
+  },
+  {
+    "geoid": "40380",
+    "key": "business-bankruptcy-rate",
     "date": "2022-09-15",
     "value": 2.4624,
     "value_": 2.4624
@@ -5486,6 +9602,27 @@
     "date": "2025-09-15",
     "value": 3.9745,
     "value_": 3.9745
+  },
+  {
+    "geoid": "40900",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-09-15",
+    "value": 6.8961,
+    "value_": 6.8961
+  },
+  {
+    "geoid": "40900",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-09-15",
+    "value": 5.74594,
+    "value_": 5.74594
+  },
+  {
+    "geoid": "40900",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-09-15",
+    "value": 5.0227,
+    "value_": 5.0227
   },
   {
     "geoid": "40900",
@@ -5518,6 +9655,27 @@
   {
     "geoid": "41180",
     "key": "business-bankruptcy-rate",
+    "date": "2019-09-15",
+    "value": 4.17021,
+    "value_": 4.17021
+  },
+  {
+    "geoid": "41180",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-09-15",
+    "value": 4.57465,
+    "value_": 4.57465
+  },
+  {
+    "geoid": "41180",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-09-15",
+    "value": 2.77229,
+    "value_": 2.77229
+  },
+  {
+    "geoid": "41180",
+    "key": "business-bankruptcy-rate",
     "date": "2022-09-15",
     "value": 2.53267,
     "value_": 2.53267
@@ -5542,6 +9700,27 @@
     "date": "2025-09-15",
     "value": 3.38251,
     "value_": 3.38251
+  },
+  {
+    "geoid": "41620",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-09-15",
+    "value": 5.11906,
+    "value_": 5.11906
+  },
+  {
+    "geoid": "41620",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-09-15",
+    "value": 4.0464,
+    "value_": 4.0464
+  },
+  {
+    "geoid": "41620",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-09-15",
+    "value": 2.77054,
+    "value_": 2.77054
   },
   {
     "geoid": "41620",
@@ -5574,6 +9753,27 @@
   {
     "geoid": "41700",
     "key": "business-bankruptcy-rate",
+    "date": "2019-09-15",
+    "value": 9.76414,
+    "value_": 9.76414
+  },
+  {
+    "geoid": "41700",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-09-15",
+    "value": 7.62962,
+    "value_": 7.62962
+  },
+  {
+    "geoid": "41700",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-09-15",
+    "value": 5.60292,
+    "value_": 5.60292
+  },
+  {
+    "geoid": "41700",
+    "key": "business-bankruptcy-rate",
     "date": "2022-09-15",
     "value": 4.66125,
     "value_": 4.66125
@@ -5598,6 +9798,27 @@
     "date": "2025-09-15",
     "value": 8.11215,
     "value_": 8.11215
+  },
+  {
+    "geoid": "41740",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-09-15",
+    "value": 8.76756,
+    "value_": 8.76756
+  },
+  {
+    "geoid": "41740",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-09-15",
+    "value": 8.33035,
+    "value_": 8.33035
+  },
+  {
+    "geoid": "41740",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-09-15",
+    "value": 6.53586,
+    "value_": 6.53586
   },
   {
     "geoid": "41740",
@@ -5630,6 +9851,27 @@
   {
     "geoid": "41860",
     "key": "business-bankruptcy-rate",
+    "date": "2019-09-15",
+    "value": 5.31328,
+    "value_": 5.31328
+  },
+  {
+    "geoid": "41860",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-09-15",
+    "value": 5.8369,
+    "value_": 5.8369
+  },
+  {
+    "geoid": "41860",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-09-15",
+    "value": 6.25304,
+    "value_": 6.25304
+  },
+  {
+    "geoid": "41860",
+    "key": "business-bankruptcy-rate",
     "date": "2022-09-15",
     "value": 4.15236,
     "value_": 4.15236
@@ -5654,6 +9896,27 @@
     "date": "2025-09-15",
     "value": 6.28448,
     "value_": 6.28448
+  },
+  {
+    "geoid": "41940",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-09-15",
+    "value": 4.28165,
+    "value_": 4.28165
+  },
+  {
+    "geoid": "41940",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-09-15",
+    "value": 4.62466,
+    "value_": 4.62466
+  },
+  {
+    "geoid": "41940",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-09-15",
+    "value": 4.31871,
+    "value_": 4.31871
   },
   {
     "geoid": "41940",
@@ -5686,6 +9949,27 @@
   {
     "geoid": "42660",
     "key": "business-bankruptcy-rate",
+    "date": "2019-09-15",
+    "value": 4.97764,
+    "value_": 4.97764
+  },
+  {
+    "geoid": "42660",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-09-15",
+    "value": 3.99704,
+    "value_": 3.99704
+  },
+  {
+    "geoid": "42660",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-09-15",
+    "value": 2.86268,
+    "value_": 2.86268
+  },
+  {
+    "geoid": "42660",
+    "key": "business-bankruptcy-rate",
     "date": "2022-09-15",
     "value": 2.32669,
     "value_": 2.32669
@@ -5710,6 +9994,27 @@
     "date": "2025-09-15",
     "value": 4.04219,
     "value_": 4.04219
+  },
+  {
+    "geoid": "45300",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-09-15",
+    "value": 9.46839,
+    "value_": 9.46839
+  },
+  {
+    "geoid": "45300",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-09-15",
+    "value": 7.84198,
+    "value_": 7.84198
+  },
+  {
+    "geoid": "45300",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-09-15",
+    "value": 6.15992,
+    "value_": 6.15992
   },
   {
     "geoid": "45300",
@@ -5742,6 +10047,27 @@
   {
     "geoid": "46060",
     "key": "business-bankruptcy-rate",
+    "date": "2019-09-15",
+    "value": 4.47934,
+    "value_": 4.47934
+  },
+  {
+    "geoid": "46060",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-09-15",
+    "value": 3.5399,
+    "value_": 3.5399
+  },
+  {
+    "geoid": "46060",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-09-15",
+    "value": 2.38303,
+    "value_": 2.38303
+  },
+  {
+    "geoid": "46060",
+    "key": "business-bankruptcy-rate",
     "date": "2022-09-15",
     "value": 2.17102,
     "value_": 2.17102
@@ -5766,6 +10092,27 @@
     "date": "2025-09-15",
     "value": 2.67839,
     "value_": 2.67839
+  },
+  {
+    "geoid": "46140",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-09-15",
+    "value": 7.30476,
+    "value_": 7.30476
+  },
+  {
+    "geoid": "46140",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-09-15",
+    "value": 4.3247,
+    "value_": 4.3247
+  },
+  {
+    "geoid": "46140",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-09-15",
+    "value": 4.77591,
+    "value_": 4.77591
   },
   {
     "geoid": "46140",
@@ -5798,6 +10145,27 @@
   {
     "geoid": "47260",
     "key": "business-bankruptcy-rate",
+    "date": "2019-09-15",
+    "value": 3.93304,
+    "value_": 3.93304
+  },
+  {
+    "geoid": "47260",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-09-15",
+    "value": 3.03069,
+    "value_": 3.03069
+  },
+  {
+    "geoid": "47260",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-09-15",
+    "value": 1.95989,
+    "value_": 1.95989
+  },
+  {
+    "geoid": "47260",
+    "key": "business-bankruptcy-rate",
     "date": "2022-09-15",
     "value": 1.90381,
     "value_": 1.90381
@@ -5822,6 +10190,27 @@
     "date": "2025-09-15",
     "value": 3.16978,
     "value_": 3.16978
+  },
+  {
+    "geoid": "47900",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-09-15",
+    "value": 6.6219,
+    "value_": 6.6219
+  },
+  {
+    "geoid": "47900",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-09-15",
+    "value": 5.91009,
+    "value_": 5.91009
+  },
+  {
+    "geoid": "47900",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-09-15",
+    "value": 4.48936,
+    "value_": 4.48936
   },
   {
     "geoid": "47900",
@@ -5854,6 +10243,27 @@
   {
     "geoid": "51013",
     "key": "business-bankruptcy-rate",
+    "date": "2019-09-15",
+    "value": 3.77529,
+    "value_": 3.77529
+  },
+  {
+    "geoid": "51013",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-09-15",
+    "value": 2.51226,
+    "value_": 2.51226
+  },
+  {
+    "geoid": "51013",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-09-15",
+    "value": 4.28306,
+    "value_": 4.28306
+  },
+  {
+    "geoid": "51013",
+    "key": "business-bankruptcy-rate",
     "date": "2022-09-15",
     "value": 2.13697,
     "value_": 2.13697
@@ -5882,6 +10292,27 @@
   {
     "geoid": "51043",
     "key": "business-bankruptcy-rate",
+    "date": "2019-09-15",
+    "value": 6.86059,
+    "value_": 6.86059
+  },
+  {
+    "geoid": "51043",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-09-15",
+    "value": 6.749,
+    "value_": 6.749
+  },
+  {
+    "geoid": "51043",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-09-15",
+    "value": 20.07092,
+    "value_": 20.07092
+  },
+  {
+    "geoid": "51043",
+    "key": "business-bankruptcy-rate",
     "date": "2022-09-15",
     "value": 0,
     "value_": 0
@@ -5906,6 +10337,27 @@
     "date": "2025-09-15",
     "value": 0,
     "value_": 0
+  },
+  {
+    "geoid": "51047",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-09-15",
+    "value": 3.79348,
+    "value_": 3.79348
+  },
+  {
+    "geoid": "51047",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-09-15",
+    "value": 0,
+    "value_": 0
+  },
+  {
+    "geoid": "51047",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-09-15",
+    "value": 5.57839,
+    "value_": 5.57839
   },
   {
     "geoid": "51047",
@@ -5938,6 +10390,27 @@
   {
     "geoid": "51059",
     "key": "business-bankruptcy-rate",
+    "date": "2019-09-15",
+    "value": 8.06584,
+    "value_": 8.06584
+  },
+  {
+    "geoid": "51059",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-09-15",
+    "value": 7.91555,
+    "value_": 7.91555
+  },
+  {
+    "geoid": "51059",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-09-15",
+    "value": 5.41796,
+    "value_": 5.41796
+  },
+  {
+    "geoid": "51059",
+    "key": "business-bankruptcy-rate",
     "date": "2022-09-15",
     "value": 5.42435,
     "value_": 5.42435
@@ -5962,6 +10435,27 @@
     "date": "2025-09-15",
     "value": 6.75933,
     "value_": 6.75933
+  },
+  {
+    "geoid": "51061",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-09-15",
+    "value": 2.80517,
+    "value_": 2.80517
+  },
+  {
+    "geoid": "51061",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-09-15",
+    "value": 10.9574,
+    "value_": 10.9574
+  },
+  {
+    "geoid": "51061",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-09-15",
+    "value": 6.75055,
+    "value_": 6.75055
   },
   {
     "geoid": "51061",
@@ -5994,6 +10488,27 @@
   {
     "geoid": "51107",
     "key": "business-bankruptcy-rate",
+    "date": "2019-09-15",
+    "value": 7.95426,
+    "value_": 7.95426
+  },
+  {
+    "geoid": "51107",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-09-15",
+    "value": 10.17215,
+    "value_": 10.17215
+  },
+  {
+    "geoid": "51107",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-09-15",
+    "value": 4.43069,
+    "value_": 4.43069
+  },
+  {
+    "geoid": "51107",
+    "key": "business-bankruptcy-rate",
     "date": "2022-09-15",
     "value": 4.38903,
     "value_": 4.38903
@@ -6018,6 +10533,27 @@
     "date": "2025-09-15",
     "value": 7.85055,
     "value_": 7.85055
+  },
+  {
+    "geoid": "51153",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-09-15",
+    "value": 7.53648,
+    "value_": 7.53648
+  },
+  {
+    "geoid": "51153",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-09-15",
+    "value": 3.86938,
+    "value_": 3.86938
+  },
+  {
+    "geoid": "51153",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-09-15",
+    "value": 2.56741,
+    "value_": 2.56741
   },
   {
     "geoid": "51153",
@@ -6050,6 +10586,27 @@
   {
     "geoid": "51157",
     "key": "business-bankruptcy-rate",
+    "date": "2019-09-15",
+    "value": 0,
+    "value_": 0
+  },
+  {
+    "geoid": "51157",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-09-15",
+    "value": 0,
+    "value_": 0
+  },
+  {
+    "geoid": "51157",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-09-15",
+    "value": 13.4499,
+    "value_": 13.4499
+  },
+  {
+    "geoid": "51157",
+    "key": "business-bankruptcy-rate",
     "date": "2022-09-15",
     "value": 0,
     "value_": 0
@@ -6074,6 +10631,27 @@
     "date": "2025-09-15",
     "value": 26.50817,
     "value_": 26.50817
+  },
+  {
+    "geoid": "51177",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-09-15",
+    "value": 3.66443,
+    "value_": 3.66443
+  },
+  {
+    "geoid": "51177",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-09-15",
+    "value": 4.26709,
+    "value_": 4.26709
+  },
+  {
+    "geoid": "51177",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-09-15",
+    "value": 6.24883,
+    "value_": 6.24883
   },
   {
     "geoid": "51177",
@@ -6106,6 +10684,27 @@
   {
     "geoid": "51179",
     "key": "business-bankruptcy-rate",
+    "date": "2019-09-15",
+    "value": 9.75451,
+    "value_": 9.75451
+  },
+  {
+    "geoid": "51179",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-09-15",
+    "value": 3.16923,
+    "value_": 3.16923
+  },
+  {
+    "geoid": "51179",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-09-15",
+    "value": 1.85657,
+    "value_": 1.85657
+  },
+  {
+    "geoid": "51179",
+    "key": "business-bankruptcy-rate",
     "date": "2022-09-15",
     "value": 4.28835,
     "value_": 4.28835
@@ -6130,6 +10729,27 @@
     "date": "2025-09-15",
     "value": 3.50272,
     "value_": 3.50272
+  },
+  {
+    "geoid": "51187",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-09-15",
+    "value": 9.94159,
+    "value_": 9.94159
+  },
+  {
+    "geoid": "51187",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-09-15",
+    "value": 26.96277,
+    "value_": 26.96277
+  },
+  {
+    "geoid": "51187",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-09-15",
+    "value": 2.44039,
+    "value_": 2.44039
   },
   {
     "geoid": "51187",
@@ -6162,6 +10782,27 @@
   {
     "geoid": "51510",
     "key": "business-bankruptcy-rate",
+    "date": "2019-09-15",
+    "value": 8.80226,
+    "value_": 8.80226
+  },
+  {
+    "geoid": "51510",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-09-15",
+    "value": 6.91198,
+    "value_": 6.91198
+  },
+  {
+    "geoid": "51510",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-09-15",
+    "value": 4.51237,
+    "value_": 4.51237
+  },
+  {
+    "geoid": "51510",
+    "key": "business-bankruptcy-rate",
     "date": "2022-09-15",
     "value": 2.57674,
     "value_": 2.57674
@@ -6190,6 +10831,27 @@
   {
     "geoid": "51630",
     "key": "business-bankruptcy-rate",
+    "date": "2019-09-15",
+    "value": 0,
+    "value_": 0
+  },
+  {
+    "geoid": "51630",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-09-15",
+    "value": 17.86033,
+    "value_": 17.86033
+  },
+  {
+    "geoid": "51630",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-09-15",
+    "value": 3.51556,
+    "value_": 3.51556
+  },
+  {
+    "geoid": "51630",
+    "key": "business-bankruptcy-rate",
     "date": "2022-09-15",
     "value": 3.48323,
     "value_": 3.48323
@@ -6214,6 +10876,27 @@
     "date": "2025-09-15",
     "value": 3.32517,
     "value_": 3.32517
+  },
+  {
+    "geoid": "54037",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-09-15",
+    "value": 1.74377,
+    "value_": 1.74377
+  },
+  {
+    "geoid": "54037",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-09-15",
+    "value": 6.92221,
+    "value_": 6.92221
+  },
+  {
+    "geoid": "54037",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-09-15",
+    "value": 6.83177,
+    "value_": 6.83177
   },
   {
     "geoid": "54037",
@@ -6246,6 +10929,27 @@
   {
     "geoid": "99997",
     "key": "business-bankruptcy-rate",
+    "date": "2019-09-15",
+    "value": 7.1696,
+    "value_": 7.1696
+  },
+  {
+    "geoid": "99997",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-09-15",
+    "value": 6.49449,
+    "value_": 6.49449
+  },
+  {
+    "geoid": "99997",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-09-15",
+    "value": 4.86157,
+    "value_": 4.86157
+  },
+  {
+    "geoid": "99997",
+    "key": "business-bankruptcy-rate",
     "date": "2022-09-15",
     "value": 4.29352,
     "value_": 4.29352
@@ -6270,6 +10974,27 @@
     "date": "2025-09-15",
     "value": 7.24326,
     "value_": 7.24326
+  },
+  {
+    "geoid": "99999",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-09-15",
+    "value": 6.97774,
+    "value_": 6.97774
+  },
+  {
+    "geoid": "99999",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-09-15",
+    "value": 6.75287,
+    "value_": 6.75287
+  },
+  {
+    "geoid": "99999",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-09-15",
+    "value": 4.85999,
+    "value_": 4.85999
   },
   {
     "geoid": "99999",
@@ -6302,6 +11027,27 @@
   {
     "geoid": "11001",
     "key": "business-bankruptcy-rate",
+    "date": "2019-12-15",
+    "value": 6.77724,
+    "value_": 6.77724
+  },
+  {
+    "geoid": "11001",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-12-15",
+    "value": 6.11104,
+    "value_": 6.11104
+  },
+  {
+    "geoid": "11001",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-12-15",
+    "value": 4.93085,
+    "value_": 4.93085
+  },
+  {
+    "geoid": "11001",
+    "key": "business-bankruptcy-rate",
     "date": "2022-12-15",
     "value": 5.17197,
     "value_": 5.17197
@@ -6326,6 +11072,27 @@
     "date": "2025-12-15",
     "value": 8.29028,
     "value_": 8.29028
+  },
+  {
+    "geoid": "12060",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-12-15",
+    "value": 9.59959,
+    "value_": 9.59959
+  },
+  {
+    "geoid": "12060",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-12-15",
+    "value": 7.12292,
+    "value_": 7.12292
+  },
+  {
+    "geoid": "12060",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-12-15",
+    "value": 5.06447,
+    "value_": 5.06447
   },
   {
     "geoid": "12060",
@@ -6358,6 +11125,27 @@
   {
     "geoid": "12420",
     "key": "business-bankruptcy-rate",
+    "date": "2019-12-15",
+    "value": 7.71956,
+    "value_": 7.71956
+  },
+  {
+    "geoid": "12420",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-12-15",
+    "value": 8.47734,
+    "value_": 8.47734
+  },
+  {
+    "geoid": "12420",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-12-15",
+    "value": 4.57804,
+    "value_": 4.57804
+  },
+  {
+    "geoid": "12420",
+    "key": "business-bankruptcy-rate",
     "date": "2022-12-15",
     "value": 4.40261,
     "value_": 4.40261
@@ -6382,6 +11170,27 @@
     "date": "2025-12-15",
     "value": 9.1902,
     "value_": 9.1902
+  },
+  {
+    "geoid": "12580",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-12-15",
+    "value": 5.99165,
+    "value_": 5.99165
+  },
+  {
+    "geoid": "12580",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-12-15",
+    "value": 5.02292,
+    "value_": 5.02292
+  },
+  {
+    "geoid": "12580",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-12-15",
+    "value": 3.89813,
+    "value_": 3.89813
   },
   {
     "geoid": "12580",
@@ -6414,6 +11223,27 @@
   {
     "geoid": "13820",
     "key": "business-bankruptcy-rate",
+    "date": "2019-12-15",
+    "value": 7.27527,
+    "value_": 7.27527
+  },
+  {
+    "geoid": "13820",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-12-15",
+    "value": 5.24616,
+    "value_": 5.24616
+  },
+  {
+    "geoid": "13820",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-12-15",
+    "value": 3.64048,
+    "value_": 3.64048
+  },
+  {
+    "geoid": "13820",
+    "key": "business-bankruptcy-rate",
     "date": "2022-12-15",
     "value": 3.30145,
     "value_": 3.30145
@@ -6438,6 +11268,27 @@
     "date": "2025-12-15",
     "value": 5.59549,
     "value_": 5.59549
+  },
+  {
+    "geoid": "14460",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-12-15",
+    "value": 4.92179,
+    "value_": 4.92179
+  },
+  {
+    "geoid": "14460",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-12-15",
+    "value": 3.93466,
+    "value_": 3.93466
+  },
+  {
+    "geoid": "14460",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-12-15",
+    "value": 3.42043,
+    "value_": 3.42043
   },
   {
     "geoid": "14460",
@@ -6470,6 +11321,27 @@
   {
     "geoid": "15380",
     "key": "business-bankruptcy-rate",
+    "date": "2019-12-15",
+    "value": 7.08984,
+    "value_": 7.08984
+  },
+  {
+    "geoid": "15380",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-12-15",
+    "value": 4.72311,
+    "value_": 4.72311
+  },
+  {
+    "geoid": "15380",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-12-15",
+    "value": 3.43413,
+    "value_": 3.43413
+  },
+  {
+    "geoid": "15380",
+    "key": "business-bankruptcy-rate",
     "date": "2022-12-15",
     "value": 3.0193,
     "value_": 3.0193
@@ -6494,6 +11366,27 @@
     "date": "2025-12-15",
     "value": 3.7828,
     "value_": 3.7828
+  },
+  {
+    "geoid": "16740",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-12-15",
+    "value": 2.84078,
+    "value_": 2.84078
+  },
+  {
+    "geoid": "16740",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-12-15",
+    "value": 3.11052,
+    "value_": 3.11052
+  },
+  {
+    "geoid": "16740",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-12-15",
+    "value": 2.84464,
+    "value_": 2.84464
   },
   {
     "geoid": "16740",
@@ -6526,6 +11419,27 @@
   {
     "geoid": "16980",
     "key": "business-bankruptcy-rate",
+    "date": "2019-12-15",
+    "value": 8.23952,
+    "value_": 8.23952
+  },
+  {
+    "geoid": "16980",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-12-15",
+    "value": 6.30328,
+    "value_": 6.30328
+  },
+  {
+    "geoid": "16980",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-12-15",
+    "value": 4.93482,
+    "value_": 4.93482
+  },
+  {
+    "geoid": "16980",
+    "key": "business-bankruptcy-rate",
     "date": "2022-12-15",
     "value": 4.16755,
     "value_": 4.16755
@@ -6550,6 +11464,27 @@
     "date": "2025-12-15",
     "value": 7.38933,
     "value_": 7.38933
+  },
+  {
+    "geoid": "17140",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-12-15",
+    "value": 4.68864,
+    "value_": 4.68864
+  },
+  {
+    "geoid": "17140",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-12-15",
+    "value": 2.97503,
+    "value_": 2.97503
+  },
+  {
+    "geoid": "17140",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-12-15",
+    "value": 2.79652,
+    "value_": 2.79652
   },
   {
     "geoid": "17140",
@@ -6582,6 +11517,27 @@
   {
     "geoid": "17410",
     "key": "business-bankruptcy-rate",
+    "date": "2019-12-15",
+    "value": 5.21873,
+    "value_": 5.21873
+  },
+  {
+    "geoid": "17410",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-12-15",
+    "value": 4.66983,
+    "value_": 4.66983
+  },
+  {
+    "geoid": "17410",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-12-15",
+    "value": 4.05364,
+    "value_": 4.05364
+  },
+  {
+    "geoid": "17410",
+    "key": "business-bankruptcy-rate",
     "date": "2022-12-15",
     "value": 3.41902,
     "value_": 3.41902
@@ -6606,6 +11562,27 @@
     "date": "2025-12-15",
     "value": 3.95813,
     "value_": 3.95813
+  },
+  {
+    "geoid": "18140",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-12-15",
+    "value": 4.61066,
+    "value_": 4.61066
+  },
+  {
+    "geoid": "18140",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-12-15",
+    "value": 2.80109,
+    "value_": 2.80109
+  },
+  {
+    "geoid": "18140",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-12-15",
+    "value": 2.65414,
+    "value_": 2.65414
   },
   {
     "geoid": "18140",
@@ -6638,6 +11615,27 @@
   {
     "geoid": "19100",
     "key": "business-bankruptcy-rate",
+    "date": "2019-12-15",
+    "value": 8.81919,
+    "value_": 8.81919
+  },
+  {
+    "geoid": "19100",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-12-15",
+    "value": 11.04649,
+    "value_": 11.04649
+  },
+  {
+    "geoid": "19100",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-12-15",
+    "value": 5.68371,
+    "value_": 5.68371
+  },
+  {
+    "geoid": "19100",
+    "key": "business-bankruptcy-rate",
     "date": "2022-12-15",
     "value": 7.77566,
     "value_": 7.77566
@@ -6662,6 +11660,27 @@
     "date": "2025-12-15",
     "value": 9.66364,
     "value_": 9.66364
+  },
+  {
+    "geoid": "19740",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-12-15",
+    "value": 6.91444,
+    "value_": 6.91444
+  },
+  {
+    "geoid": "19740",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-12-15",
+    "value": 6.93546,
+    "value_": 6.93546
+  },
+  {
+    "geoid": "19740",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-12-15",
+    "value": 5.20412,
+    "value_": 5.20412
   },
   {
     "geoid": "19740",
@@ -6694,6 +11713,27 @@
   {
     "geoid": "19820",
     "key": "business-bankruptcy-rate",
+    "date": "2019-12-15",
+    "value": 7.06114,
+    "value_": 7.06114
+  },
+  {
+    "geoid": "19820",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-12-15",
+    "value": 3.21518,
+    "value_": 3.21518
+  },
+  {
+    "geoid": "19820",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-12-15",
+    "value": 2.92905,
+    "value_": 2.92905
+  },
+  {
+    "geoid": "19820",
+    "key": "business-bankruptcy-rate",
     "date": "2022-12-15",
     "value": 2.31731,
     "value_": 2.31731
@@ -6718,6 +11758,27 @@
     "date": "2025-12-15",
     "value": 3.83843,
     "value_": 3.83843
+  },
+  {
+    "geoid": "23420",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-12-15",
+    "value": 5.62983,
+    "value_": 5.62983
+  },
+  {
+    "geoid": "23420",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-12-15",
+    "value": 4.54527,
+    "value_": 4.54527
+  },
+  {
+    "geoid": "23420",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-12-15",
+    "value": 5.46123,
+    "value_": 5.46123
   },
   {
     "geoid": "23420",
@@ -6750,6 +11811,27 @@
   {
     "geoid": "24017",
     "key": "business-bankruptcy-rate",
+    "date": "2019-12-15",
+    "value": 4.886,
+    "value_": 4.886
+  },
+  {
+    "geoid": "24017",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-12-15",
+    "value": 2.99954,
+    "value_": 2.99954
+  },
+  {
+    "geoid": "24017",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-12-15",
+    "value": 1.18468,
+    "value_": 1.18468
+  },
+  {
+    "geoid": "24017",
+    "key": "business-bankruptcy-rate",
     "date": "2022-12-15",
     "value": 2.93469,
     "value_": 2.93469
@@ -6774,6 +11856,27 @@
     "date": "2025-12-15",
     "value": 6.25183,
     "value_": 6.25183
+  },
+  {
+    "geoid": "24021",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-12-15",
+    "value": 5.37203,
+    "value_": 5.37203
+  },
+  {
+    "geoid": "24021",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-12-15",
+    "value": 3.29928,
+    "value_": 3.29928
+  },
+  {
+    "geoid": "24021",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-12-15",
+    "value": 3.20666,
+    "value_": 3.20666
   },
   {
     "geoid": "24021",
@@ -6806,6 +11909,27 @@
   {
     "geoid": "24031",
     "key": "business-bankruptcy-rate",
+    "date": "2019-12-15",
+    "value": 5.23247,
+    "value_": 5.23247
+  },
+  {
+    "geoid": "24031",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-12-15",
+    "value": 5.09023,
+    "value_": 5.09023
+  },
+  {
+    "geoid": "24031",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-12-15",
+    "value": 5.68135,
+    "value_": 5.68135
+  },
+  {
+    "geoid": "24031",
+    "key": "business-bankruptcy-rate",
     "date": "2022-12-15",
     "value": 3.20413,
     "value_": 3.20413
@@ -6830,6 +11954,27 @@
     "date": "2025-12-15",
     "value": 5.16971,
     "value_": 5.16971
+  },
+  {
+    "geoid": "24033",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-12-15",
+    "value": 7.02092,
+    "value_": 7.02092
+  },
+  {
+    "geoid": "24033",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-12-15",
+    "value": 3.83262,
+    "value_": 3.83262
+  },
+  {
+    "geoid": "24033",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-12-15",
+    "value": 3.1361,
+    "value_": 3.1361
   },
   {
     "geoid": "24033",
@@ -6862,6 +12007,27 @@
   {
     "geoid": "24340",
     "key": "business-bankruptcy-rate",
+    "date": "2019-12-15",
+    "value": 4.48114,
+    "value_": 4.48114
+  },
+  {
+    "geoid": "24340",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-12-15",
+    "value": 4.68921,
+    "value_": 4.68921
+  },
+  {
+    "geoid": "24340",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-12-15",
+    "value": 1.81861,
+    "value_": 1.81861
+  },
+  {
+    "geoid": "24340",
+    "key": "business-bankruptcy-rate",
     "date": "2022-12-15",
     "value": 1.5537,
     "value_": 1.5537
@@ -6886,6 +12052,27 @@
     "date": "2025-12-15",
     "value": 2.28053,
     "value_": 2.28053
+  },
+  {
+    "geoid": "26420",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-12-15",
+    "value": 8.16382,
+    "value_": 8.16382
+  },
+  {
+    "geoid": "26420",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-12-15",
+    "value": 10.68381,
+    "value_": 10.68381
+  },
+  {
+    "geoid": "26420",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-12-15",
+    "value": 5.62995,
+    "value_": 5.62995
   },
   {
     "geoid": "26420",
@@ -6918,6 +12105,27 @@
   {
     "geoid": "26900",
     "key": "business-bankruptcy-rate",
+    "date": "2019-12-15",
+    "value": 7.21633,
+    "value_": 7.21633
+  },
+  {
+    "geoid": "26900",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-12-15",
+    "value": 5.01705,
+    "value_": 5.01705
+  },
+  {
+    "geoid": "26900",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-12-15",
+    "value": 3.93764,
+    "value_": 3.93764
+  },
+  {
+    "geoid": "26900",
+    "key": "business-bankruptcy-rate",
     "date": "2022-12-15",
     "value": 3.19768,
     "value_": 3.19768
@@ -6942,6 +12150,27 @@
     "date": "2025-12-15",
     "value": 5.46754,
     "value_": 5.46754
+  },
+  {
+    "geoid": "27260",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-12-15",
+    "value": 6.01867,
+    "value_": 6.01867
+  },
+  {
+    "geoid": "27260",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-12-15",
+    "value": 6.19946,
+    "value_": 6.19946
+  },
+  {
+    "geoid": "27260",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-12-15",
+    "value": 5.23859,
+    "value_": 5.23859
   },
   {
     "geoid": "27260",
@@ -6974,6 +12203,27 @@
   {
     "geoid": "28140",
     "key": "business-bankruptcy-rate",
+    "date": "2019-12-15",
+    "value": 5.55134,
+    "value_": 5.55134
+  },
+  {
+    "geoid": "28140",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-12-15",
+    "value": 4.55521,
+    "value_": 4.55521
+  },
+  {
+    "geoid": "28140",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-12-15",
+    "value": 2.72279,
+    "value_": 2.72279
+  },
+  {
+    "geoid": "28140",
+    "key": "business-bankruptcy-rate",
     "date": "2022-12-15",
     "value": 2.39878,
     "value_": 2.39878
@@ -6998,6 +12248,27 @@
     "date": "2025-12-15",
     "value": 6.48734,
     "value_": 6.48734
+  },
+  {
+    "geoid": "29820",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-12-15",
+    "value": 9.93021,
+    "value_": 9.93021
+  },
+  {
+    "geoid": "29820",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-12-15",
+    "value": 8.52384,
+    "value_": 8.52384
+  },
+  {
+    "geoid": "29820",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-12-15",
+    "value": 7.61979,
+    "value_": 7.61979
   },
   {
     "geoid": "29820",
@@ -7030,6 +12301,27 @@
   {
     "geoid": "31080",
     "key": "business-bankruptcy-rate",
+    "date": "2019-12-15",
+    "value": 8.98922,
+    "value_": 8.98922
+  },
+  {
+    "geoid": "31080",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-12-15",
+    "value": 7.61593,
+    "value_": 7.61593
+  },
+  {
+    "geoid": "31080",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-12-15",
+    "value": 6.76249,
+    "value_": 6.76249
+  },
+  {
+    "geoid": "31080",
+    "key": "business-bankruptcy-rate",
     "date": "2022-12-15",
     "value": 5.96578,
     "value_": 5.96578
@@ -7054,6 +12346,27 @@
     "date": "2025-12-15",
     "value": 9.93271,
     "value_": 9.93271
+  },
+  {
+    "geoid": "31140",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-12-15",
+    "value": 6.33841,
+    "value_": 6.33841
+  },
+  {
+    "geoid": "31140",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-12-15",
+    "value": 4.25528,
+    "value_": 4.25528
+  },
+  {
+    "geoid": "31140",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-12-15",
+    "value": 2.4966,
+    "value_": 2.4966
   },
   {
     "geoid": "31140",
@@ -7086,6 +12399,27 @@
   {
     "geoid": "32820",
     "key": "business-bankruptcy-rate",
+    "date": "2019-12-15",
+    "value": 6.64391,
+    "value_": 6.64391
+  },
+  {
+    "geoid": "32820",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-12-15",
+    "value": 6.09111,
+    "value_": 6.09111
+  },
+  {
+    "geoid": "32820",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-12-15",
+    "value": 2.8307,
+    "value_": 2.8307
+  },
+  {
+    "geoid": "32820",
+    "key": "business-bankruptcy-rate",
     "date": "2022-12-15",
     "value": 3.35527,
     "value_": 3.35527
@@ -7110,6 +12444,27 @@
     "date": "2025-12-15",
     "value": 7.72327,
     "value_": 7.72327
+  },
+  {
+    "geoid": "33100",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-12-15",
+    "value": 9.32702,
+    "value_": 9.32702
+  },
+  {
+    "geoid": "33100",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-12-15",
+    "value": 9.68452,
+    "value_": 9.68452
+  },
+  {
+    "geoid": "33100",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-12-15",
+    "value": 7.0876,
+    "value_": 7.0876
   },
   {
     "geoid": "33100",
@@ -7142,6 +12497,27 @@
   {
     "geoid": "33340",
     "key": "business-bankruptcy-rate",
+    "date": "2019-12-15",
+    "value": 5.00807,
+    "value_": 5.00807
+  },
+  {
+    "geoid": "33340",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-12-15",
+    "value": 3.81058,
+    "value_": 3.81058
+  },
+  {
+    "geoid": "33340",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-12-15",
+    "value": 1.91861,
+    "value_": 1.91861
+  },
+  {
+    "geoid": "33340",
+    "key": "business-bankruptcy-rate",
     "date": "2022-12-15",
     "value": 2.1737,
     "value_": 2.1737
@@ -7166,6 +12542,27 @@
     "date": "2025-12-15",
     "value": 3.43729,
     "value_": 3.43729
+  },
+  {
+    "geoid": "33460",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-12-15",
+    "value": 5.11004,
+    "value_": 5.11004
+  },
+  {
+    "geoid": "33460",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-12-15",
+    "value": 4.52053,
+    "value_": 4.52053
+  },
+  {
+    "geoid": "33460",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-12-15",
+    "value": 3.0838,
+    "value_": 3.0838
   },
   {
     "geoid": "33460",
@@ -7198,6 +12595,27 @@
   {
     "geoid": "34980",
     "key": "business-bankruptcy-rate",
+    "date": "2019-12-15",
+    "value": 7.86272,
+    "value_": 7.86272
+  },
+  {
+    "geoid": "34980",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-12-15",
+    "value": 6.92444,
+    "value_": 6.92444
+  },
+  {
+    "geoid": "34980",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-12-15",
+    "value": 4.13043,
+    "value_": 4.13043
+  },
+  {
+    "geoid": "34980",
+    "key": "business-bankruptcy-rate",
     "date": "2022-12-15",
     "value": 4.33125,
     "value_": 4.33125
@@ -7222,6 +12640,27 @@
     "date": "2025-12-15",
     "value": 7.45749,
     "value_": 7.45749
+  },
+  {
+    "geoid": "35620",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-12-15",
+    "value": 9.25604,
+    "value_": 9.25604
+  },
+  {
+    "geoid": "35620",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-12-15",
+    "value": 6.48788,
+    "value_": 6.48788
+  },
+  {
+    "geoid": "35620",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-12-15",
+    "value": 4.11878,
+    "value_": 4.11878
   },
   {
     "geoid": "35620",
@@ -7254,6 +12693,27 @@
   {
     "geoid": "36420",
     "key": "business-bankruptcy-rate",
+    "date": "2019-12-15",
+    "value": 8.93625,
+    "value_": 8.93625
+  },
+  {
+    "geoid": "36420",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-12-15",
+    "value": 6.36349,
+    "value_": 6.36349
+  },
+  {
+    "geoid": "36420",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-12-15",
+    "value": 5.53987,
+    "value_": 5.53987
+  },
+  {
+    "geoid": "36420",
+    "key": "business-bankruptcy-rate",
     "date": "2022-12-15",
     "value": 4.92164,
     "value_": 4.92164
@@ -7278,6 +12738,27 @@
     "date": "2025-12-15",
     "value": 9.4528,
     "value_": 9.4528
+  },
+  {
+    "geoid": "36540",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-12-15",
+    "value": 5.90252,
+    "value_": 5.90252
+  },
+  {
+    "geoid": "36540",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-12-15",
+    "value": 3.40495,
+    "value_": 3.40495
+  },
+  {
+    "geoid": "36540",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-12-15",
+    "value": 2.77528,
+    "value_": 2.77528
   },
   {
     "geoid": "36540",
@@ -7310,6 +12791,27 @@
   {
     "geoid": "36740",
     "key": "business-bankruptcy-rate",
+    "date": "2019-12-15",
+    "value": 9.96828,
+    "value_": 9.96828
+  },
+  {
+    "geoid": "36740",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-12-15",
+    "value": 9.43821,
+    "value_": 9.43821
+  },
+  {
+    "geoid": "36740",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-12-15",
+    "value": 5.92743,
+    "value_": 5.92743
+  },
+  {
+    "geoid": "36740",
+    "key": "business-bankruptcy-rate",
     "date": "2022-12-15",
     "value": 7.14859,
     "value_": 7.14859
@@ -7334,6 +12836,27 @@
     "date": "2025-12-15",
     "value": 11.60809,
     "value_": 11.60809
+  },
+  {
+    "geoid": "37980",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-12-15",
+    "value": 4.96333,
+    "value_": 4.96333
+  },
+  {
+    "geoid": "37980",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-12-15",
+    "value": 3.63649,
+    "value_": 3.63649
+  },
+  {
+    "geoid": "37980",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-12-15",
+    "value": 2.82999,
+    "value_": 2.82999
   },
   {
     "geoid": "37980",
@@ -7366,6 +12889,27 @@
   {
     "geoid": "38060",
     "key": "business-bankruptcy-rate",
+    "date": "2019-12-15",
+    "value": 6.70179,
+    "value_": 6.70179
+  },
+  {
+    "geoid": "38060",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-12-15",
+    "value": 5.59928,
+    "value_": 5.59928
+  },
+  {
+    "geoid": "38060",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-12-15",
+    "value": 3.89959,
+    "value_": 3.89959
+  },
+  {
+    "geoid": "38060",
+    "key": "business-bankruptcy-rate",
     "date": "2022-12-15",
     "value": 3.26048,
     "value_": 3.26048
@@ -7390,6 +12934,27 @@
     "date": "2025-12-15",
     "value": 6.55179,
     "value_": 6.55179
+  },
+  {
+    "geoid": "38300",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-12-15",
+    "value": 8.19666,
+    "value_": 8.19666
+  },
+  {
+    "geoid": "38300",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-12-15",
+    "value": 6.67923,
+    "value_": 6.67923
+  },
+  {
+    "geoid": "38300",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-12-15",
+    "value": 5.46735,
+    "value_": 5.46735
   },
   {
     "geoid": "38300",
@@ -7422,6 +12987,27 @@
   {
     "geoid": "38900",
     "key": "business-bankruptcy-rate",
+    "date": "2019-12-15",
+    "value": 5.57678,
+    "value_": 5.57678
+  },
+  {
+    "geoid": "38900",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-12-15",
+    "value": 4.24984,
+    "value_": 4.24984
+  },
+  {
+    "geoid": "38900",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-12-15",
+    "value": 3.57524,
+    "value_": 3.57524
+  },
+  {
+    "geoid": "38900",
+    "key": "business-bankruptcy-rate",
     "date": "2022-12-15",
     "value": 2.74867,
     "value_": 2.74867
@@ -7446,6 +13032,27 @@
     "date": "2025-12-15",
     "value": 6.188,
     "value_": 6.188
+  },
+  {
+    "geoid": "39300",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-12-15",
+    "value": 5.72923,
+    "value_": 5.72923
+  },
+  {
+    "geoid": "39300",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-12-15",
+    "value": 2.80881,
+    "value_": 2.80881
+  },
+  {
+    "geoid": "39300",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-12-15",
+    "value": 2.98156,
+    "value_": 2.98156
   },
   {
     "geoid": "39300",
@@ -7478,6 +13085,27 @@
   {
     "geoid": "39580",
     "key": "business-bankruptcy-rate",
+    "date": "2019-12-15",
+    "value": 7.25389,
+    "value_": 7.25389
+  },
+  {
+    "geoid": "39580",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-12-15",
+    "value": 5.43345,
+    "value_": 5.43345
+  },
+  {
+    "geoid": "39580",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-12-15",
+    "value": 3.99638,
+    "value_": 3.99638
+  },
+  {
+    "geoid": "39580",
+    "key": "business-bankruptcy-rate",
     "date": "2022-12-15",
     "value": 3.64079,
     "value_": 3.64079
@@ -7502,6 +13130,27 @@
     "date": "2025-12-15",
     "value": 5.8995,
     "value_": 5.8995
+  },
+  {
+    "geoid": "40060",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-12-15",
+    "value": 5.02325,
+    "value_": 5.02325
+  },
+  {
+    "geoid": "40060",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-12-15",
+    "value": 4.17698,
+    "value_": 4.17698
+  },
+  {
+    "geoid": "40060",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-12-15",
+    "value": 2.563,
+    "value_": 2.563
   },
   {
     "geoid": "40060",
@@ -7534,6 +13183,27 @@
   {
     "geoid": "40140",
     "key": "business-bankruptcy-rate",
+    "date": "2019-12-15",
+    "value": 5.88001,
+    "value_": 5.88001
+  },
+  {
+    "geoid": "40140",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-12-15",
+    "value": 4.94771,
+    "value_": 4.94771
+  },
+  {
+    "geoid": "40140",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-12-15",
+    "value": 3.85269,
+    "value_": 3.85269
+  },
+  {
+    "geoid": "40140",
+    "key": "business-bankruptcy-rate",
     "date": "2022-12-15",
     "value": 2.99423,
     "value_": 2.99423
@@ -7558,6 +13228,27 @@
     "date": "2025-12-15",
     "value": 7.15236,
     "value_": 7.15236
+  },
+  {
+    "geoid": "40380",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-12-15",
+    "value": 4.11228,
+    "value_": 4.11228
+  },
+  {
+    "geoid": "40380",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-12-15",
+    "value": 3.57487,
+    "value_": 3.57487
+  },
+  {
+    "geoid": "40380",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-12-15",
+    "value": 2.07318,
+    "value_": 2.07318
   },
   {
     "geoid": "40380",
@@ -7590,6 +13281,27 @@
   {
     "geoid": "40900",
     "key": "business-bankruptcy-rate",
+    "date": "2019-12-15",
+    "value": 6.98072,
+    "value_": 6.98072
+  },
+  {
+    "geoid": "40900",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-12-15",
+    "value": 4.99647,
+    "value_": 4.99647
+  },
+  {
+    "geoid": "40900",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-12-15",
+    "value": 5.18874,
+    "value_": 5.18874
+  },
+  {
+    "geoid": "40900",
+    "key": "business-bankruptcy-rate",
     "date": "2022-12-15",
     "value": 4.08485,
     "value_": 4.08485
@@ -7614,6 +13326,27 @@
     "date": "2025-12-15",
     "value": 7.37206,
     "value_": 7.37206
+  },
+  {
+    "geoid": "41180",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-12-15",
+    "value": 3.88506,
+    "value_": 3.88506
+  },
+  {
+    "geoid": "41180",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-12-15",
+    "value": 4.61012,
+    "value_": 4.61012
+  },
+  {
+    "geoid": "41180",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-12-15",
+    "value": 2.80783,
+    "value_": 2.80783
   },
   {
     "geoid": "41180",
@@ -7646,6 +13379,27 @@
   {
     "geoid": "41620",
     "key": "business-bankruptcy-rate",
+    "date": "2019-12-15",
+    "value": 4.79404,
+    "value_": 4.79404
+  },
+  {
+    "geoid": "41620",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-12-15",
+    "value": 4.0464,
+    "value_": 4.0464
+  },
+  {
+    "geoid": "41620",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-12-15",
+    "value": 1.97896,
+    "value_": 1.97896
+  },
+  {
+    "geoid": "41620",
+    "key": "business-bankruptcy-rate",
     "date": "2022-12-15",
     "value": 1.49343,
     "value_": 1.49343
@@ -7670,6 +13424,27 @@
     "date": "2025-12-15",
     "value": 4.43317,
     "value_": 4.43317
+  },
+  {
+    "geoid": "41700",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-12-15",
+    "value": 9.80336,
+    "value_": 9.80336
+  },
+  {
+    "geoid": "41700",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-12-15",
+    "value": 6.81216,
+    "value_": 6.81216
+  },
+  {
+    "geoid": "41700",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-12-15",
+    "value": 5.94831,
+    "value_": 5.94831
   },
   {
     "geoid": "41700",
@@ -7702,6 +13477,27 @@
   {
     "geoid": "41740",
     "key": "business-bankruptcy-rate",
+    "date": "2019-12-15",
+    "value": 8.5874,
+    "value_": 8.5874
+  },
+  {
+    "geoid": "41740",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-12-15",
+    "value": 7.72451,
+    "value_": 7.72451
+  },
+  {
+    "geoid": "41740",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-12-15",
+    "value": 5.80287,
+    "value_": 5.80287
+  },
+  {
+    "geoid": "41740",
+    "key": "business-bankruptcy-rate",
     "date": "2022-12-15",
     "value": 4.72021,
     "value_": 4.72021
@@ -7726,6 +13522,27 @@
     "date": "2025-12-15",
     "value": 8.54655,
     "value_": 8.54655
+  },
+  {
+    "geoid": "41860",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-12-15",
+    "value": 5.67314,
+    "value_": 5.67314
+  },
+  {
+    "geoid": "41860",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-12-15",
+    "value": 6.38476,
+    "value_": 6.38476
+  },
+  {
+    "geoid": "41860",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-12-15",
+    "value": 5.06302,
+    "value_": 5.06302
   },
   {
     "geoid": "41860",
@@ -7758,6 +13575,27 @@
   {
     "geoid": "41940",
     "key": "business-bankruptcy-rate",
+    "date": "2019-12-15",
+    "value": 4.63426,
+    "value_": 4.63426
+  },
+  {
+    "geoid": "41940",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-12-15",
+    "value": 4.07171,
+    "value_": 4.07171
+  },
+  {
+    "geoid": "41940",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-12-15",
+    "value": 4.16448,
+    "value_": 4.16448
+  },
+  {
+    "geoid": "41940",
+    "key": "business-bankruptcy-rate",
     "date": "2022-12-15",
     "value": 3.58723,
     "value_": 3.58723
@@ -7782,6 +13620,27 @@
     "date": "2025-12-15",
     "value": 5.39922,
     "value_": 5.39922
+  },
+  {
+    "geoid": "42660",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-12-15",
+    "value": 4.85195,
+    "value_": 4.85195
+  },
+  {
+    "geoid": "42660",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-12-15",
+    "value": 3.64947,
+    "value_": 3.64947
+  },
+  {
+    "geoid": "42660",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-12-15",
+    "value": 2.53907,
+    "value_": 2.53907
   },
   {
     "geoid": "42660",
@@ -7814,6 +13673,27 @@
   {
     "geoid": "45300",
     "key": "business-bankruptcy-rate",
+    "date": "2019-12-15",
+    "value": 9.62464,
+    "value_": 9.62464
+  },
+  {
+    "geoid": "45300",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-12-15",
+    "value": 7.27736,
+    "value_": 7.27736
+  },
+  {
+    "geoid": "45300",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-12-15",
+    "value": 5.44797,
+    "value_": 5.44797
+  },
+  {
+    "geoid": "45300",
+    "key": "business-bankruptcy-rate",
     "date": "2022-12-15",
     "value": 5.41393,
     "value_": 5.41393
@@ -7838,6 +13718,27 @@
     "date": "2025-12-15",
     "value": 9.96555,
     "value_": 9.96555
+  },
+  {
+    "geoid": "46060",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-12-15",
+    "value": 4.66995,
+    "value_": 4.66995
+  },
+  {
+    "geoid": "46060",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-12-15",
+    "value": 2.96586,
+    "value_": 2.96586
+  },
+  {
+    "geoid": "46060",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-12-15",
+    "value": 2.00175,
+    "value_": 2.00175
   },
   {
     "geoid": "46060",
@@ -7870,6 +13771,27 @@
   {
     "geoid": "46140",
     "key": "business-bankruptcy-rate",
+    "date": "2019-12-15",
+    "value": 6.20405,
+    "value_": 6.20405
+  },
+  {
+    "geoid": "46140",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-12-15",
+    "value": 5.11101,
+    "value_": 5.11101
+  },
+  {
+    "geoid": "46140",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-12-15",
+    "value": 3.70377,
+    "value_": 3.70377
+  },
+  {
+    "geoid": "46140",
+    "key": "business-bankruptcy-rate",
     "date": "2022-12-15",
     "value": 3.95677,
     "value_": 3.95677
@@ -7894,6 +13816,27 @@
     "date": "2025-12-15",
     "value": 8.59352,
     "value_": 8.59352
+  },
+  {
+    "geoid": "47260",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-12-15",
+    "value": 3.64804,
+    "value_": 3.64804
+  },
+  {
+    "geoid": "47260",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-12-15",
+    "value": 2.63782,
+    "value_": 2.63782
+  },
+  {
+    "geoid": "47260",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-12-15",
+    "value": 1.7359,
+    "value_": 1.7359
   },
   {
     "geoid": "47260",
@@ -7926,6 +13869,27 @@
   {
     "geoid": "47900",
     "key": "business-bankruptcy-rate",
+    "date": "2019-12-15",
+    "value": 6.60574,
+    "value_": 6.60574
+  },
+  {
+    "geoid": "47900",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-12-15",
+    "value": 5.59063,
+    "value_": 5.59063
+  },
+  {
+    "geoid": "47900",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-12-15",
+    "value": 4.21777,
+    "value_": 4.21777
+  },
+  {
+    "geoid": "47900",
+    "key": "business-bankruptcy-rate",
     "date": "2022-12-15",
     "value": 3.56132,
     "value_": 3.56132
@@ -7950,6 +13914,27 @@
     "date": "2025-12-15",
     "value": 6.22817,
     "value_": 6.22817
+  },
+  {
+    "geoid": "51013",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-12-15",
+    "value": 3.35582,
+    "value_": 3.35582
+  },
+  {
+    "geoid": "51013",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-12-15",
+    "value": 4.1871,
+    "value_": 4.1871
+  },
+  {
+    "geoid": "51013",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-12-15",
+    "value": 2.56984,
+    "value_": 2.56984
   },
   {
     "geoid": "51013",
@@ -7982,6 +13967,27 @@
   {
     "geoid": "51043",
     "key": "business-bankruptcy-rate",
+    "date": "2019-12-15",
+    "value": 6.86059,
+    "value_": 6.86059
+  },
+  {
+    "geoid": "51043",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-12-15",
+    "value": 6.749,
+    "value_": 6.749
+  },
+  {
+    "geoid": "51043",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-12-15",
+    "value": 20.07092,
+    "value_": 20.07092
+  },
+  {
+    "geoid": "51043",
+    "key": "business-bankruptcy-rate",
     "date": "2022-12-15",
     "value": 0,
     "value_": 0
@@ -8006,6 +14012,27 @@
     "date": "2025-12-15",
     "value": 0,
     "value_": 0
+  },
+  {
+    "geoid": "51047",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-12-15",
+    "value": 1.89674,
+    "value_": 1.89674
+  },
+  {
+    "geoid": "51047",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-12-15",
+    "value": 1.89516,
+    "value_": 1.89516
+  },
+  {
+    "geoid": "51047",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-12-15",
+    "value": 3.71892,
+    "value_": 3.71892
   },
   {
     "geoid": "51047",
@@ -8038,6 +14065,27 @@
   {
     "geoid": "51059",
     "key": "business-bankruptcy-rate",
+    "date": "2019-12-15",
+    "value": 7.64575,
+    "value_": 7.64575
+  },
+  {
+    "geoid": "51059",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-12-15",
+    "value": 8.16817,
+    "value_": 8.16817
+  },
+  {
+    "geoid": "51059",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-12-15",
+    "value": 4.74071,
+    "value_": 4.74071
+  },
+  {
+    "geoid": "51059",
+    "key": "business-bankruptcy-rate",
     "date": "2022-12-15",
     "value": 4.49204,
     "value_": 4.49204
@@ -8062,6 +14110,27 @@
     "date": "2025-12-15",
     "value": 7.51037,
     "value_": 7.51037
+  },
+  {
+    "geoid": "51061",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-12-15",
+    "value": 2.80517,
+    "value_": 2.80517
+  },
+  {
+    "geoid": "51061",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-12-15",
+    "value": 10.9574,
+    "value_": 10.9574
+  },
+  {
+    "geoid": "51061",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-12-15",
+    "value": 6.75055,
+    "value_": 6.75055
   },
   {
     "geoid": "51061",
@@ -8094,6 +14163,27 @@
   {
     "geoid": "51107",
     "key": "business-bankruptcy-rate",
+    "date": "2019-12-15",
+    "value": 9.40049,
+    "value_": 9.40049
+  },
+  {
+    "geoid": "51107",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-12-15",
+    "value": 7.80653,
+    "value_": 7.80653
+  },
+  {
+    "geoid": "51107",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-12-15",
+    "value": 5.36347,
+    "value_": 5.36347
+  },
+  {
+    "geoid": "51107",
+    "key": "business-bankruptcy-rate",
     "date": "2022-12-15",
     "value": 3.00302,
     "value_": 3.00302
@@ -8118,6 +14208,27 @@
     "date": "2025-12-15",
     "value": 8.29916,
     "value_": 8.29916
+  },
+  {
+    "geoid": "51153",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-12-15",
+    "value": 7.53648,
+    "value_": 7.53648
+  },
+  {
+    "geoid": "51153",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-12-15",
+    "value": 3.86938,
+    "value_": 3.86938
+  },
+  {
+    "geoid": "51153",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-12-15",
+    "value": 1.46709,
+    "value_": 1.46709
   },
   {
     "geoid": "51153",
@@ -8150,6 +14261,27 @@
   {
     "geoid": "51157",
     "key": "business-bankruptcy-rate",
+    "date": "2019-12-15",
+    "value": 0,
+    "value_": 0
+  },
+  {
+    "geoid": "51157",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-12-15",
+    "value": 0,
+    "value_": 0
+  },
+  {
+    "geoid": "51157",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-12-15",
+    "value": 13.4499,
+    "value_": 13.4499
+  },
+  {
+    "geoid": "51157",
+    "key": "business-bankruptcy-rate",
     "date": "2022-12-15",
     "value": 0,
     "value_": 0
@@ -8174,6 +14306,27 @@
     "date": "2025-12-15",
     "value": 26.50817,
     "value_": 26.50817
+  },
+  {
+    "geoid": "51177",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-12-15",
+    "value": 5.1302,
+    "value_": 5.1302
+  },
+  {
+    "geoid": "51177",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-12-15",
+    "value": 2.13355,
+    "value_": 2.13355
+  },
+  {
+    "geoid": "51177",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-12-15",
+    "value": 6.94314,
+    "value_": 6.94314
   },
   {
     "geoid": "51177",
@@ -8206,6 +14359,27 @@
   {
     "geoid": "51179",
     "key": "business-bankruptcy-rate",
+    "date": "2019-12-15",
+    "value": 7.80361,
+    "value_": 7.80361
+  },
+  {
+    "geoid": "51179",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-12-15",
+    "value": 2.53538,
+    "value_": 2.53538
+  },
+  {
+    "geoid": "51179",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-12-15",
+    "value": 3.09429,
+    "value_": 3.09429
+  },
+  {
+    "geoid": "51179",
+    "key": "business-bankruptcy-rate",
     "date": "2022-12-15",
     "value": 3.06311,
     "value_": 3.06311
@@ -8230,6 +14404,27 @@
     "date": "2025-12-15",
     "value": 2.33515,
     "value_": 2.33515
+  },
+  {
+    "geoid": "51187",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-12-15",
+    "value": 9.94159,
+    "value_": 9.94159
+  },
+  {
+    "geoid": "51187",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-12-15",
+    "value": 24.51161,
+    "value_": 24.51161
+  },
+  {
+    "geoid": "51187",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-12-15",
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "51187",
@@ -8262,6 +14457,27 @@
   {
     "geoid": "51510",
     "key": "business-bankruptcy-rate",
+    "date": "2019-12-15",
+    "value": 8.17353,
+    "value_": 8.17353
+  },
+  {
+    "geoid": "51510",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-12-15",
+    "value": 5.02689,
+    "value_": 5.02689
+  },
+  {
+    "geoid": "51510",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-12-15",
+    "value": 4.51237,
+    "value_": 4.51237
+  },
+  {
+    "geoid": "51510",
+    "key": "business-bankruptcy-rate",
     "date": "2022-12-15",
     "value": 2.57674,
     "value_": 2.57674
@@ -8286,6 +14502,27 @@
     "date": "2025-12-15",
     "value": 5.67808,
     "value_": 5.67808
+  },
+  {
+    "geoid": "51630",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-12-15",
+    "value": 3.41834,
+    "value_": 3.41834
+  },
+  {
+    "geoid": "51630",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-12-15",
+    "value": 17.86033,
+    "value_": 17.86033
+  },
+  {
+    "geoid": "51630",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-12-15",
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "51630",
@@ -8318,6 +14555,27 @@
   {
     "geoid": "54037",
     "key": "business-bankruptcy-rate",
+    "date": "2019-12-15",
+    "value": 1.74377,
+    "value_": 1.74377
+  },
+  {
+    "geoid": "54037",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-12-15",
+    "value": 5.19166,
+    "value_": 5.19166
+  },
+  {
+    "geoid": "54037",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-12-15",
+    "value": 6.83177,
+    "value_": 6.83177
+  },
+  {
+    "geoid": "54037",
+    "key": "business-bankruptcy-rate",
     "date": "2022-12-15",
     "value": 1.69615,
     "value_": 1.69615
@@ -8346,6 +14604,27 @@
   {
     "geoid": "99997",
     "key": "business-bankruptcy-rate",
+    "date": "2019-12-15",
+    "value": 7.20517,
+    "value_": 7.20517
+  },
+  {
+    "geoid": "99997",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-12-15",
+    "value": 6.1307,
+    "value_": 6.1307
+  },
+  {
+    "geoid": "99997",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-12-15",
+    "value": 4.41612,
+    "value_": 4.41612
+  },
+  {
+    "geoid": "99997",
+    "key": "business-bankruptcy-rate",
     "date": "2022-12-15",
     "value": 4.45436,
     "value_": 4.45436
@@ -8370,6 +14649,27 @@
     "date": "2025-12-15",
     "value": 7.50693,
     "value_": 7.50693
+  },
+  {
+    "geoid": "99999",
+    "key": "business-bankruptcy-rate",
+    "date": "2019-12-15",
+    "value": 6.93814,
+    "value_": 6.93814
+  },
+  {
+    "geoid": "99999",
+    "key": "business-bankruptcy-rate",
+    "date": "2020-12-15",
+    "value": 6.5309,
+    "value_": 6.5309
+  },
+  {
+    "geoid": "99999",
+    "key": "business-bankruptcy-rate",
+    "date": "2021-12-15",
+    "value": 4.32009,
+    "value_": 4.32009
   },
   {
     "geoid": "99999",
