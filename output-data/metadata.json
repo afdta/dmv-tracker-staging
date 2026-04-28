@@ -180,7 +180,8 @@
       "last_updated": "DMV-2026-04-27",
       "start": "2025-03-15",
       "end": "2026-03-15",
-      "map": 1
+      "map": 1,
+      "rev": 0
     },
     {
       "topic": "real-estate",
@@ -196,7 +197,8 @@
       "last_updated": "DMV-2026-04-27",
       "start": "2025-03-15",
       "end": "2026-03-15",
-      "map": 1
+      "map": 1,
+      "rev": 0
     },
     {
       "topic": "real-estate",
@@ -212,7 +214,8 @@
       "last_updated": "DMV-2026-04-27",
       "start": "2025-03-15",
       "end": "2026-03-15",
-      "map": 1
+      "map": 1,
+      "rev": 0
     },
     {
       "topic": "real-estate",
@@ -228,7 +231,8 @@
       "last_updated": "DMV-2026-04-27",
       "start": "2025-03-15",
       "end": "2026-03-15",
-      "map": 1
+      "map": 1,
+      "rev": 0
     },
     {
       "topic": "real-estate",
@@ -244,7 +248,8 @@
       "last_updated": "DMV-2026-04-27",
       "start": "2025-03-15",
       "end": "2026-03-15",
-      "map": 1
+      "map": 1,
+      "rev": 0
     },
     {
       "topic": "real-estate",
@@ -260,7 +265,8 @@
       "last_updated": "DMV-2026-04-27",
       "start": "2025-03-15",
       "end": "2026-03-15",
-      "map": 1
+      "map": 1,
+      "rev": 0
     },
     {
       "topic": "real-estate",
@@ -276,7 +282,8 @@
       "last_updated": "DMV-2026-04-27",
       "start": "2025-03-15",
       "end": "2026-03-15",
-      "map": 1
+      "map": 1,
+      "rev": 0
     },
     {
       "topic": "destination-travel",
@@ -292,7 +299,8 @@
       "last_updated": "DMV-2026-02-27",
       "start": "2024-09-15",
       "end": "2025-09-15",
-      "map": 1
+      "map": 1,
+      "rev": 0
     },
     {
       "topic": "destination-travel",
@@ -308,7 +316,8 @@
       "last_updated": "DMV-2026-02-27",
       "start": "2024-09-15",
       "end": "2025-09-15",
-      "map": 1
+      "map": 1,
+      "rev": 0
     },
     {
       "topic": "overall-economy",
@@ -324,7 +333,8 @@
       "last_updated": "DMV-2026-02-27",
       "start": "2024-09-15",
       "end": "2025-09-15",
-      "map": 1
+      "map": 1,
+      "rev": 0
     },
     {
       "topic": "household-wellbeing",
@@ -340,7 +350,8 @@
       "last_updated": "DMV-2026-02-09",
       "start": "2024-10-15",
       "end": "2025-10-15",
-      "map": 1
+      "map": 1,
+      "rev": 1
     },
     {
       "topic": "household-wellbeing",
@@ -356,7 +367,8 @@
       "last_updated": "DMV-2026-02-09",
       "start": "2024-10-15",
       "end": "2025-10-15",
-      "map": 1
+      "map": 1,
+      "rev": 1
     },
     {
       "topic": "destination-travel",
@@ -372,7 +384,8 @@
       "last_updated": "DMV-2026-02-09",
       "start": "2024-10-15",
       "end": "2025-10-15",
-      "map": 0
+      "map": 0,
+      "rev": 0
     },
     {
       "topic": "innovation",
@@ -388,7 +401,8 @@
       "last_updated": "DMV-2026-02-09",
       "start": "2024-11-15",
       "end": "2025-11-15",
-      "map": 1
+      "map": 1,
+      "rev": 0
     },
     {
       "topic": "innovation",
@@ -404,7 +418,8 @@
       "last_updated": "DMV-2026-02-09",
       "start": "2024-11-15",
       "end": "2025-11-15",
-      "map": 1
+      "map": 1,
+      "rev": 0
     },
     {
       "topic": "labor-market",
@@ -420,7 +435,8 @@
       "last_updated": "DMV-2026-02-07",
       "start": "2024-11-15",
       "end": "2025-11-15",
-      "map": 1
+      "map": 1,
+      "rev": 1
     },
     {
       "topic": "labor-market",
@@ -436,7 +452,8 @@
       "last_updated": "DMV-2026-02-07",
       "start": "2024-11-15",
       "end": "2025-11-15",
-      "map": 1
+      "map": 1,
+      "rev": 1
     },
     {
       "topic": "labor-market",
@@ -452,7 +469,8 @@
       "last_updated": "DMV-2026-02-07",
       "start": "2024-11-15",
       "end": "2025-11-15",
-      "map": 1
+      "map": 1,
+      "rev": 1
     },
     {
       "topic": "labor-market",
@@ -468,7 +486,8 @@
       "last_updated": "DMV-2026-02-07",
       "start": "2024-11-15",
       "end": "2025-11-15",
-      "map": 1
+      "map": 1,
+      "rev": 1
     },
     {
       "topic": "labor-market",
@@ -484,7 +503,8 @@
       "last_updated": "DMV-2026-02-07",
       "start": "2024-11-15",
       "end": "2025-11-15",
-      "map": 1
+      "map": 1,
+      "rev": 1
     },
     {
       "topic": "labor-market",
@@ -500,7 +520,8 @@
       "last_updated": "DMV-2026-02-07",
       "start": "2024-11-15",
       "end": "2025-11-15",
-      "map": 1
+      "map": 1,
+      "rev": 1
     },
     {
       "topic": "overall-economy",
@@ -516,7 +537,8 @@
       "last_updated": "DMV-2026-02-27",
       "start": "2024-11-15",
       "end": "2025-11-15",
-      "map": 0
+      "map": 0,
+      "rev": 0
     },
     {
       "topic": "overall-economy",
@@ -532,7 +554,8 @@
       "last_updated": "DMV-2026-03-03",
       "start": "2024-12-15",
       "end": "2025-12-15",
-      "map": 1
+      "map": 1,
+      "rev": 0
     },
     {
       "topic": "overall-economy",
@@ -548,7 +571,8 @@
       "last_updated": "DMV-2026-03-03",
       "start": "2024-12-15",
       "end": "2025-12-15",
-      "map": 1
+      "map": 1,
+      "rev": 0
     },
     {
       "topic": "overall-economy",
@@ -564,7 +588,8 @@
       "last_updated": "DMV-2026-03-03",
       "start": "2024-12-15",
       "end": "2025-12-15",
-      "map": 1
+      "map": 1,
+      "rev": 0
     },
     {
       "topic": "overall-economy",
@@ -580,7 +605,8 @@
       "last_updated": "DMV-2026-04-01",
       "start": "2024-12-15",
       "end": "2025-12-15",
-      "map": 1
+      "map": 1,
+      "rev": 0
     },
     {
       "topic": "overall-economy",
@@ -596,7 +622,8 @@
       "last_updated": "DMV-2026-04-01",
       "start": "2024-12-15",
       "end": "2025-12-15",
-      "map": 1
+      "map": 1,
+      "rev": 0
     },
     {
       "topic": "overall-economy",
@@ -612,7 +639,8 @@
       "last_updated": "DMV-2026-04-01",
       "start": "2024-12-15",
       "end": "2025-12-15",
-      "map": 1
+      "map": 1,
+      "rev": 0
     },
     {
       "topic": "innovation",
@@ -628,7 +656,8 @@
       "last_updated": "DMV-2026-04-01",
       "start": "2024-12-15",
       "end": "2025-12-15",
-      "map": 1
+      "map": 1,
+      "rev": 0
     },
     {
       "topic": "innovation",
@@ -644,7 +673,8 @@
       "last_updated": "DMV-2026-02-18",
       "start": "2024-12-15",
       "end": "2025-12-15",
-      "map": 1
+      "map": 1,
+      "rev": 0
     },
     {
       "topic": "labor-market",
@@ -660,7 +690,8 @@
       "last_updated": "DMV-2026-02-18",
       "start": "2024-12-15",
       "end": "2025-12-15",
-      "map": 1
+      "map": 1,
+      "rev": 0
     },
     {
       "topic": "labor-market",
@@ -676,7 +707,8 @@
       "last_updated": "DMV-2026-02-18",
       "start": "2024-12-15",
       "end": "2025-12-15",
-      "map": 1
+      "map": 1,
+      "rev": 0
     },
     {
       "topic": "labor-market",
@@ -692,7 +724,8 @@
       "last_updated": "DMV-2026-02-18",
       "start": "2024-12-15",
       "end": "2025-12-15",
-      "map": 1
+      "map": 1,
+      "rev": 0
     },
     {
       "topic": "labor-market",
@@ -708,7 +741,8 @@
       "last_updated": "DMV-2026-02-18",
       "start": "2024-12-15",
       "end": "2025-12-15",
-      "map": 1
+      "map": 1,
+      "rev": 0
     },
     {
       "topic": "destination-travel",
@@ -724,7 +758,8 @@
       "last_updated": "DMV-2026-02-27",
       "start": "2024-12-15",
       "end": "2025-12-15",
-      "map": 0
+      "map": 0,
+      "rev": 0
     },
     {
       "topic": "municipal-services",
@@ -740,7 +775,8 @@
       "last_updated": "DMV-2026-02-18",
       "start": "2024-12-15",
       "end": "2025-12-15",
-      "map": 0
+      "map": 0,
+      "rev": 0
     },
     {
       "topic": "municipal-services",
@@ -756,7 +792,8 @@
       "last_updated": "DMV-2026-04-01",
       "start": "2024-12-15",
       "end": "2025-12-15",
-      "map": 1
+      "map": 1,
+      "rev": 1
     },
     {
       "topic": "municipal-services",
@@ -772,7 +809,8 @@
       "last_updated": "DMV-2026-04-01",
       "start": "2024-12-15",
       "end": "2025-12-15",
-      "map": 1
+      "map": 1,
+      "rev": 1
     },
     {
       "topic": "municipal-services",
@@ -788,7 +826,8 @@
       "last_updated": "DMV-2026-04-01",
       "start": "2024-12-15",
       "end": "2025-12-15",
-      "map": 1
+      "map": 1,
+      "rev": 1
     },
     {
       "topic": "labor-market",
@@ -804,7 +843,8 @@
       "last_updated": "DMV-2026-04-01",
       "start": "2024-12-15",
       "end": "2025-12-15",
-      "map": 1
+      "map": 1,
+      "rev": 1
     },
     {
       "topic": "household-wellbeing",
@@ -820,7 +860,8 @@
       "last_updated": "DMV-2025-12-11",
       "start": "2024-03-15",
       "end": "2025-03-15",
-      "map": 1
+      "map": 1,
+      "rev": 1
     },
     {
       "topic": "household-wellbeing",
@@ -836,7 +877,8 @@
       "last_updated": "DMV-2025-12-11",
       "start": "2024-03-15",
       "end": "2025-03-15",
-      "map": 1
+      "map": 1,
+      "rev": 1
     },
     {
       "topic": "household-wellbeing",
@@ -852,7 +894,8 @@
       "last_updated": "DMV-2025-12-11",
       "start": "2024-03-15",
       "end": "2025-03-15",
-      "map": 1
+      "map": 1,
+      "rev": 1
     },
     {
       "topic": "overall-economy",
@@ -868,7 +911,8 @@
       "last_updated": "DMV-2026-03-04",
       "start": "2024-12-15",
       "end": "2025-12-15",
-      "map": 1
+      "map": 1,
+      "rev": 1
     },
     {
       "topic": "real-estate",
@@ -884,7 +928,8 @@
       "last_updated": "DMV-2026-03-04",
       "start": "2024-12-15",
       "end": "2025-12-15",
-      "map": 0
+      "map": 0,
+      "rev": 0
     },
     {
       "topic": "real-estate",
@@ -900,7 +945,8 @@
       "last_updated": "DMV-2026-03-04",
       "start": "2024-12-15",
       "end": "2025-12-15",
-      "map": 0
+      "map": 0,
+      "rev": 0
     },
     {
       "topic": "household-wellbeing",
@@ -916,7 +962,8 @@
       "last_updated": "DMV-2026-03-04",
       "start": "2024-12-15",
       "end": "2025-12-15",
-      "map": 1
+      "map": 1,
+      "rev": 1
     },
     {
       "topic": "about",
@@ -932,7 +979,8 @@
       "last_updated": "DMV-2025-12-11",
       "start": "2024-12-15",
       "end": "2024-12-15",
-      "map": 1
+      "map": 1,
+      "rev": 0
     },
     {
       "topic": "about",
@@ -948,7 +996,8 @@
       "last_updated": "DMV-2025-12-11",
       "start": "2024-12-15",
       "end": "2024-12-15",
-      "map": 1
+      "map": 1,
+      "rev": 0
     },
     {
       "topic": "about",
@@ -964,7 +1013,8 @@
       "last_updated": "DMV-2025-12-11",
       "start": "2024-12-15",
       "end": "2024-12-15",
-      "map": 1
+      "map": 1,
+      "rev": 0
     },
     {
       "topic": "about",
@@ -980,7 +1030,8 @@
       "last_updated": "DMV-2025-12-11",
       "start": "2024-12-15",
       "end": "2024-12-15",
-      "map": 1
+      "map": 1,
+      "rev": 0
     },
     {
       "topic": "about",
@@ -996,7 +1047,8 @@
       "last_updated": "DMV-2025-12-11",
       "start": "2024-12-15",
       "end": "2024-12-15",
-      "map": 1
+      "map": 1,
+      "rev": 0
     },
     {
       "topic": "about",
@@ -1012,7 +1064,8 @@
       "last_updated": "DMV-2025-12-11",
       "start": "2024-12-15",
       "end": "2024-12-15",
-      "map": 1
+      "map": 1,
+      "rev": 0
     },
     {
       "topic": "about",
@@ -1028,7 +1081,8 @@
       "last_updated": "DMV-2025-12-11",
       "start": "2024-12-15",
       "end": "2024-12-15",
-      "map": 1
+      "map": 1,
+      "rev": 0
     },
     {
       "topic": "about",
@@ -1044,7 +1098,8 @@
       "last_updated": "DMV-2025-12-11",
       "start": "2024-12-15",
       "end": "2024-12-15",
-      "map": 1
+      "map": 1,
+      "rev": 0
     },
     {
       "topic": "about",
@@ -1060,7 +1115,8 @@
       "last_updated": "DMV-2025-12-11",
       "start": "2024-12-15",
       "end": "2024-12-15",
-      "map": 1
+      "map": 1,
+      "rev": 0
     }
   ]
 }
