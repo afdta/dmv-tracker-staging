@@ -441,13 +441,6 @@
     "value_": 28.6689
   },
   {
-    "geoid": "51059",
-    "key": "some-college-aa",
-    "date": "2024-12-15",
-    "value": 0.16215,
-    "value_": 16.21518
-  },
-  {
     "geoid": "51061",
     "key": "some-college-aa",
     "date": "2024-12-15",
@@ -502,6 +495,13 @@
     "date": "2024-12-15",
     "value": 0.16166,
     "value_": 16.16628
+  },
+  {
+    "geoid": "51600",
+    "key": "some-college-aa",
+    "date": "2024-12-15",
+    "value": 0.16215,
+    "value_": 16.21518
   },
   {
     "geoid": "51630",

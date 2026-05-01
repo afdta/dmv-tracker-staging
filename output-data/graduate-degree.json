@@ -441,13 +441,6 @@
     "value_": 9.48935
   },
   {
-    "geoid": "51059",
-    "key": "graduate-degree",
-    "date": "2024-12-15",
-    "value": 0.33118,
-    "value_": 33.11833
-  },
-  {
     "geoid": "51061",
     "key": "graduate-degree",
     "date": "2024-12-15",
@@ -502,6 +495,13 @@
     "date": "2024-12-15",
     "value": 0.34793,
     "value_": 34.79274
+  },
+  {
+    "geoid": "51600",
+    "key": "graduate-degree",
+    "date": "2024-12-15",
+    "value": 0.33118,
+    "value_": 33.11833
   },
   {
     "geoid": "51630",
