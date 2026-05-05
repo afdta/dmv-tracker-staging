@@ -7770,6 +7770,111 @@
     "value_": 1.60808
   },
   {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2011-01-15",
+    "value": 0.08389,
+    "value_": 8.38922
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2012-01-15",
+    "value": 0.07763,
+    "value_": 7.76311
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2013-01-15",
+    "value": 0.07075,
+    "value_": 7.07518
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2014-01-15",
+    "value": 0.06108,
+    "value_": 6.1082
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2015-01-15",
+    "value": 0.05035,
+    "value_": 5.03513
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2016-01-15",
+    "value": 0.04209,
+    "value_": 4.2095
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2017-01-15",
+    "value": 0.03958,
+    "value_": 3.95795
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2018-01-15",
+    "value": 0.03672,
+    "value_": 3.67229
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2019-01-15",
+    "value": 0.03448,
+    "value_": 3.44836
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2020-01-15",
+    "value": 0.02969,
+    "value_": 2.96944
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2021-01-15",
+    "value": 0.07528,
+    "value_": 7.52796
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2022-01-15",
+    "value": 0.04142,
+    "value_": 4.14206
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2023-01-15",
+    "value": 0.03317,
+    "value_": 3.31689
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2024-01-15",
+    "value": 0.03493,
+    "value_": 3.49299
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2025-01-15",
+    "value": 0.03777,
+    "value_": 3.77721
+  },
+  {
     "geoid": "99999",
     "key": "unempr-sa-female",
     "date": "2011-01-15",
@@ -15643,6 +15748,111 @@
     "date": "2025-02-15",
     "value": 0.01622,
     "value_": 1.62208
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2011-02-15",
+    "value": 0.08247,
+    "value_": 8.24742
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2012-02-15",
+    "value": 0.07681,
+    "value_": 7.68147
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2013-02-15",
+    "value": 0.07094,
+    "value_": 7.09368
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2014-02-15",
+    "value": 0.06067,
+    "value_": 6.06706
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2015-02-15",
+    "value": 0.04896,
+    "value_": 4.89605
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2016-02-15",
+    "value": 0.04116,
+    "value_": 4.11643
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2017-02-15",
+    "value": 0.03948,
+    "value_": 3.94818
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2018-02-15",
+    "value": 0.03636,
+    "value_": 3.6363
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2019-02-15",
+    "value": 0.03428,
+    "value_": 3.42769
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2020-02-15",
+    "value": 0.02958,
+    "value_": 2.95783
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2021-02-15",
+    "value": 0.07347,
+    "value_": 7.34653
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2022-02-15",
+    "value": 0.03942,
+    "value_": 3.94222
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2023-02-15",
+    "value": 0.03315,
+    "value_": 3.31504
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2024-02-15",
+    "value": 0.03553,
+    "value_": 3.55326
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2025-02-15",
+    "value": 0.03765,
+    "value_": 3.76507
   },
   {
     "geoid": "99999",
@@ -23520,6 +23730,111 @@
     "value_": 1.7775
   },
   {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2011-03-15",
+    "value": 0.08178,
+    "value_": 8.17808
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2012-03-15",
+    "value": 0.07603,
+    "value_": 7.60252
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2013-03-15",
+    "value": 0.06984,
+    "value_": 6.98377
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2014-03-15",
+    "value": 0.06055,
+    "value_": 6.05492
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2015-03-15",
+    "value": 0.048,
+    "value_": 4.80011
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2016-03-15",
+    "value": 0.04074,
+    "value_": 4.07362
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2017-03-15",
+    "value": 0.0393,
+    "value_": 3.9303
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2018-03-15",
+    "value": 0.03591,
+    "value_": 3.5911
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2019-03-15",
+    "value": 0.03367,
+    "value_": 3.36726
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2020-03-15",
+    "value": 0.03427,
+    "value_": 3.42747
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2021-03-15",
+    "value": 0.0691,
+    "value_": 6.91028
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2022-03-15",
+    "value": 0.03768,
+    "value_": 3.76806
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2023-03-15",
+    "value": 0.03348,
+    "value_": 3.34773
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2024-03-15",
+    "value": 0.03576,
+    "value_": 3.5756
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2025-03-15",
+    "value": 0.03801,
+    "value_": 3.80086
+  },
+  {
     "geoid": "99999",
     "key": "unempr-sa-female",
     "date": "2011-03-15",
@@ -31393,6 +31708,111 @@
     "date": "2025-04-15",
     "value": 0.01938,
     "value_": 1.93754
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2011-04-15",
+    "value": 0.08142,
+    "value_": 8.14248
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2012-04-15",
+    "value": 0.07574,
+    "value_": 7.57361
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2013-04-15",
+    "value": 0.0681,
+    "value_": 6.81038
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2014-04-15",
+    "value": 0.05924,
+    "value_": 5.92353
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2015-04-15",
+    "value": 0.04722,
+    "value_": 4.7217
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2016-04-15",
+    "value": 0.04125,
+    "value_": 4.12492
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2017-04-15",
+    "value": 0.03903,
+    "value_": 3.90301
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2018-04-15",
+    "value": 0.03555,
+    "value_": 3.55483
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2019-04-15",
+    "value": 0.03222,
+    "value_": 3.22241
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2020-04-15",
+    "value": 0.08025,
+    "value_": 8.02485
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2021-04-15",
+    "value": 0.06788,
+    "value_": 6.78759
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2022-04-15",
+    "value": 0.03615,
+    "value_": 3.61524
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2023-04-15",
+    "value": 0.03318,
+    "value_": 3.31802
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2024-04-15",
+    "value": 0.03596,
+    "value_": 3.59569
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2025-04-15",
+    "value": 0.03868,
+    "value_": 3.86786
   },
   {
     "geoid": "99999",
@@ -39270,6 +39690,111 @@
     "value_": 2.04307
   },
   {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2011-05-15",
+    "value": 0.08121,
+    "value_": 8.12108
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2012-05-15",
+    "value": 0.07489,
+    "value_": 7.48936
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2013-05-15",
+    "value": 0.06753,
+    "value_": 6.75336
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2014-05-15",
+    "value": 0.05822,
+    "value_": 5.82246
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2015-05-15",
+    "value": 0.04758,
+    "value_": 4.75752
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2016-05-15",
+    "value": 0.04109,
+    "value_": 4.10933
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2017-05-15",
+    "value": 0.03861,
+    "value_": 3.86056
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2018-05-15",
+    "value": 0.03478,
+    "value_": 3.47823
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2019-05-15",
+    "value": 0.03192,
+    "value_": 3.1916
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2020-05-15",
+    "value": 0.1227,
+    "value_": 12.2696
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2021-05-15",
+    "value": 0.06534,
+    "value_": 6.53397
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2022-05-15",
+    "value": 0.03512,
+    "value_": 3.51231
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2023-05-15",
+    "value": 0.03324,
+    "value_": 3.3238
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2024-05-15",
+    "value": 0.03606,
+    "value_": 3.60586
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2025-05-15",
+    "value": 0.03905,
+    "value_": 3.90461
+  },
+  {
     "geoid": "99999",
     "key": "unempr-sa-female",
     "date": "2011-05-15",
@@ -47143,6 +47668,111 @@
     "date": "2025-06-15",
     "value": 0.02009,
     "value_": 2.00876
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2011-06-15",
+    "value": 0.08113,
+    "value_": 8.11294
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2012-06-15",
+    "value": 0.07407,
+    "value_": 7.40651
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2013-06-15",
+    "value": 0.06728,
+    "value_": 6.72762
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2014-06-15",
+    "value": 0.05649,
+    "value_": 5.64854
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2015-06-15",
+    "value": 0.04708,
+    "value_": 4.70836
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2016-06-15",
+    "value": 0.04094,
+    "value_": 4.09446
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2017-06-15",
+    "value": 0.03844,
+    "value_": 3.84355
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2018-06-15",
+    "value": 0.03489,
+    "value_": 3.48941
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2019-06-15",
+    "value": 0.03145,
+    "value_": 3.14501
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2020-06-15",
+    "value": 0.14683,
+    "value_": 14.68289
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2021-06-15",
+    "value": 0.06253,
+    "value_": 6.2533
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2022-06-15",
+    "value": 0.03485,
+    "value_": 3.48546
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2023-06-15",
+    "value": 0.03324,
+    "value_": 3.32382
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2024-06-15",
+    "value": 0.03635,
+    "value_": 3.63525
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2025-06-15",
+    "value": 0.03882,
+    "value_": 3.8816
   },
   {
     "geoid": "99999",
@@ -55020,6 +55650,111 @@
     "value_": 1.97103
   },
   {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2011-07-15",
+    "value": 0.08057,
+    "value_": 8.05734
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2012-07-15",
+    "value": 0.0732,
+    "value_": 7.31951
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2013-07-15",
+    "value": 0.06657,
+    "value_": 6.6573
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2014-07-15",
+    "value": 0.05622,
+    "value_": 5.62234
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2015-07-15",
+    "value": 0.04633,
+    "value_": 4.63319
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2016-07-15",
+    "value": 0.04037,
+    "value_": 4.03738
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2017-07-15",
+    "value": 0.03819,
+    "value_": 3.81894
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2018-07-15",
+    "value": 0.03478,
+    "value_": 3.47777
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2019-07-15",
+    "value": 0.03171,
+    "value_": 3.17062
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2020-07-15",
+    "value": 0.12378,
+    "value_": 12.37849
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2021-07-15",
+    "value": 0.05764,
+    "value_": 5.76374
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2022-07-15",
+    "value": 0.03425,
+    "value_": 3.42494
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2023-07-15",
+    "value": 0.03356,
+    "value_": 3.35609
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2024-07-15",
+    "value": 0.03734,
+    "value_": 3.73407
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2025-07-15",
+    "value": 0.0388,
+    "value_": 3.88015
+  },
+  {
     "geoid": "99999",
     "key": "unempr-sa-female",
     "date": "2011-07-15",
@@ -62893,6 +63628,111 @@
     "date": "2025-08-15",
     "value": 0.02031,
     "value_": 2.03084
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2011-08-15",
+    "value": 0.0804,
+    "value_": 8.03969
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2012-08-15",
+    "value": 0.07242,
+    "value_": 7.24178
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2013-08-15",
+    "value": 0.06541,
+    "value_": 6.54066
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2014-08-15",
+    "value": 0.0554,
+    "value_": 5.54
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2015-08-15",
+    "value": 0.04459,
+    "value_": 4.45923
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2016-08-15",
+    "value": 0.04067,
+    "value_": 4.06712
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2017-08-15",
+    "value": 0.03833,
+    "value_": 3.83333
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2018-08-15",
+    "value": 0.03484,
+    "value_": 3.48386
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2019-08-15",
+    "value": 0.03165,
+    "value_": 3.165
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2020-08-15",
+    "value": 0.10074,
+    "value_": 10.07396
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2021-08-15",
+    "value": 0.05406,
+    "value_": 5.40573
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2022-08-15",
+    "value": 0.03408,
+    "value_": 3.40767
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2023-08-15",
+    "value": 0.03367,
+    "value_": 3.36743
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2024-08-15",
+    "value": 0.03787,
+    "value_": 3.78738
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2025-08-15",
+    "value": 0.03888,
+    "value_": 3.88768
   },
   {
     "geoid": "99999",
@@ -70770,6 +71610,111 @@
     "value_": 2.17411
   },
   {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2011-09-15",
+    "value": 0.0804,
+    "value_": 8.03986
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2012-09-15",
+    "value": 0.07105,
+    "value_": 7.10452
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2013-09-15",
+    "value": 0.06463,
+    "value_": 6.46333
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2014-09-15",
+    "value": 0.05493,
+    "value_": 5.49311
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2015-09-15",
+    "value": 0.04393,
+    "value_": 4.39275
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2016-09-15",
+    "value": 0.04108,
+    "value_": 4.10787
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2017-09-15",
+    "value": 0.03818,
+    "value_": 3.81787
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2018-09-15",
+    "value": 0.03413,
+    "value_": 3.4128
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2019-09-15",
+    "value": 0.03131,
+    "value_": 3.13065
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2020-09-15",
+    "value": 0.09106,
+    "value_": 9.10577
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2021-09-15",
+    "value": 0.0511,
+    "value_": 5.11042
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2022-09-15",
+    "value": 0.0335,
+    "value_": 3.34981
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2023-09-15",
+    "value": 0.03419,
+    "value_": 3.41857
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2024-09-15",
+    "value": 0.03777,
+    "value_": 3.77674
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2025-09-15",
+    "value": 0.04004,
+    "value_": 4.00422
+  },
+  {
     "geoid": "99999",
     "key": "unempr-sa-female",
     "date": "2011-09-15",
@@ -78643,6 +79588,111 @@
     "date": "2025-10-15",
     "value": 0.02395,
     "value_": 2.39497
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2011-10-15",
+    "value": 0.08013,
+    "value_": 8.01279
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2012-10-15",
+    "value": 0.06995,
+    "value_": 6.99469
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2013-10-15",
+    "value": 0.06471,
+    "value_": 6.47054
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2014-10-15",
+    "value": 0.05367,
+    "value_": 5.36653
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2015-10-15",
+    "value": 0.04324,
+    "value_": 4.32425
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2016-10-15",
+    "value": 0.04145,
+    "value_": 4.14494
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2017-10-15",
+    "value": 0.03775,
+    "value_": 3.77523
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2018-10-15",
+    "value": 0.0339,
+    "value_": 3.38958
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2019-10-15",
+    "value": 0.0308,
+    "value_": 3.08027
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2020-10-15",
+    "value": 0.08145,
+    "value_": 8.14514
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2021-10-15",
+    "value": 0.04882,
+    "value_": 4.88206
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2022-10-15",
+    "value": 0.0335,
+    "value_": 3.35031
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2023-10-15",
+    "value": 0.0348,
+    "value_": 3.47985
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2024-10-15",
+    "value": 0.03724,
+    "value_": 3.72387
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2025-10-15",
+    "value": 0.04072,
+    "value_": 4.07194
   },
   {
     "geoid": "99999",
@@ -86520,6 +87570,111 @@
     "value_": 2.56587
   },
   {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2011-11-15",
+    "value": 0.07947,
+    "value_": 7.94721
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2012-11-15",
+    "value": 0.06918,
+    "value_": 6.91804
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2013-11-15",
+    "value": 0.06401,
+    "value_": 6.4006
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2014-11-15",
+    "value": 0.05248,
+    "value_": 5.24803
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2015-11-15",
+    "value": 0.0431,
+    "value_": 4.31026
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2016-11-15",
+    "value": 0.04123,
+    "value_": 4.12268
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2017-11-15",
+    "value": 0.0372,
+    "value_": 3.72042
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2018-11-15",
+    "value": 0.0336,
+    "value_": 3.35987
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2019-11-15",
+    "value": 0.03023,
+    "value_": 3.02314
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2020-11-15",
+    "value": 0.07772,
+    "value_": 7.77211
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2021-11-15",
+    "value": 0.04644,
+    "value_": 4.64372
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2022-11-15",
+    "value": 0.03352,
+    "value_": 3.35172
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2023-11-15",
+    "value": 0.03467,
+    "value_": 3.46722
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2024-11-15",
+    "value": 0.03742,
+    "value_": 3.74165
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2025-11-15",
+    "value": 0.04195,
+    "value_": 4.19532
+  },
+  {
     "geoid": "99999",
     "key": "unempr-sa-female",
     "date": "2011-11-15",
@@ -94393,6 +95548,111 @@
     "date": "2025-12-15",
     "value": 0.02757,
     "value_": 2.75668
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2011-12-15",
+    "value": 0.07865,
+    "value_": 7.86461
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2012-12-15",
+    "value": 0.06983,
+    "value_": 6.9835
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2013-12-15",
+    "value": 0.0627,
+    "value_": 6.26998
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2014-12-15",
+    "value": 0.05103,
+    "value_": 5.10291
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2015-12-15",
+    "value": 0.04294,
+    "value_": 4.29409
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2016-12-15",
+    "value": 0.04022,
+    "value_": 4.02171
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2017-12-15",
+    "value": 0.03699,
+    "value_": 3.69944
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2018-12-15",
+    "value": 0.03388,
+    "value_": 3.38807
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2019-12-15",
+    "value": 0.02983,
+    "value_": 2.98277
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2020-12-15",
+    "value": 0.0759,
+    "value_": 7.5897
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2021-12-15",
+    "value": 0.0435,
+    "value_": 4.34964
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2022-12-15",
+    "value": 0.03341,
+    "value_": 3.34105
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2023-12-15",
+    "value": 0.03486,
+    "value_": 3.48639
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2024-12-15",
+    "value": 0.03767,
+    "value_": 3.76713
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-female",
+    "date": "2025-12-15",
+    "value": 0.04291,
+    "value_": 4.29058
   },
   {
     "geoid": "99999",

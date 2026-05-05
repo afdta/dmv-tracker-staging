@@ -7770,6 +7770,111 @@
     "value_": 2.61539
   },
   {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2011-01-15",
+    "value": 0.08602,
+    "value_": 8.60172
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2012-01-15",
+    "value": 0.07585,
+    "value_": 7.58522
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2013-01-15",
+    "value": 0.06811,
+    "value_": 6.81078
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2014-01-15",
+    "value": 0.05869,
+    "value_": 5.86857
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2015-01-15",
+    "value": 0.04843,
+    "value_": 4.84271
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2016-01-15",
+    "value": 0.04143,
+    "value_": 4.14296
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2017-01-15",
+    "value": 0.03857,
+    "value_": 3.85686
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2018-01-15",
+    "value": 0.03363,
+    "value_": 3.36283
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2019-01-15",
+    "value": 0.03152,
+    "value_": 3.15202
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2020-01-15",
+    "value": 0.0287,
+    "value_": 2.86982
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2021-01-15",
+    "value": 0.05647,
+    "value_": 5.64746
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2022-01-15",
+    "value": 0.03342,
+    "value_": 3.34239
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2023-01-15",
+    "value": 0.02883,
+    "value_": 2.88261
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2024-01-15",
+    "value": 0.03039,
+    "value_": 3.03928
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2025-01-15",
+    "value": 0.03329,
+    "value_": 3.32864
+  },
+  {
     "geoid": "99999",
     "key": "unempr-sa-white",
     "date": "2011-01-15",
@@ -15643,6 +15748,111 @@
     "date": "2025-02-15",
     "value": 0.02586,
     "value_": 2.58631
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2011-02-15",
+    "value": 0.08386,
+    "value_": 8.38603
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2012-02-15",
+    "value": 0.0751,
+    "value_": 7.50991
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2013-02-15",
+    "value": 0.06889,
+    "value_": 6.88856
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2014-02-15",
+    "value": 0.05796,
+    "value_": 5.79553
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2015-02-15",
+    "value": 0.04752,
+    "value_": 4.75178
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2016-02-15",
+    "value": 0.0408,
+    "value_": 4.08045
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2017-02-15",
+    "value": 0.03824,
+    "value_": 3.82369
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2018-02-15",
+    "value": 0.03338,
+    "value_": 3.3377
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2019-02-15",
+    "value": 0.0316,
+    "value_": 3.15975
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2020-02-15",
+    "value": 0.02851,
+    "value_": 2.85149
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2021-02-15",
+    "value": 0.05403,
+    "value_": 5.40338
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2022-02-15",
+    "value": 0.03264,
+    "value_": 3.26376
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2023-02-15",
+    "value": 0.02892,
+    "value_": 2.89154
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2024-02-15",
+    "value": 0.03084,
+    "value_": 3.08426
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2025-02-15",
+    "value": 0.03321,
+    "value_": 3.32097
   },
   {
     "geoid": "99999",
@@ -23520,6 +23730,111 @@
     "value_": 2.60756
   },
   {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2011-03-15",
+    "value": 0.08279,
+    "value_": 8.27905
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2012-03-15",
+    "value": 0.07427,
+    "value_": 7.42693
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2013-03-15",
+    "value": 0.06762,
+    "value_": 6.76221
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2014-03-15",
+    "value": 0.05789,
+    "value_": 5.78931
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2015-03-15",
+    "value": 0.04705,
+    "value_": 4.70498
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2016-03-15",
+    "value": 0.04072,
+    "value_": 4.07228
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2017-03-15",
+    "value": 0.03737,
+    "value_": 3.73736
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2018-03-15",
+    "value": 0.03322,
+    "value_": 3.32228
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2019-03-15",
+    "value": 0.03141,
+    "value_": 3.14098
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2020-03-15",
+    "value": 0.03223,
+    "value_": 3.22269
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2021-03-15",
+    "value": 0.05138,
+    "value_": 5.1376
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2022-03-15",
+    "value": 0.03191,
+    "value_": 3.19147
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2023-03-15",
+    "value": 0.02899,
+    "value_": 2.89931
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2024-03-15",
+    "value": 0.03104,
+    "value_": 3.10435
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2025-03-15",
+    "value": 0.03341,
+    "value_": 3.34075
+  },
+  {
     "geoid": "99999",
     "key": "unempr-sa-white",
     "date": "2011-03-15",
@@ -31393,6 +31708,111 @@
     "date": "2025-04-15",
     "value": 0.02634,
     "value_": 2.6339
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2011-04-15",
+    "value": 0.08236,
+    "value_": 8.23637
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2012-04-15",
+    "value": 0.07369,
+    "value_": 7.36875
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2013-04-15",
+    "value": 0.06637,
+    "value_": 6.63679
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2014-04-15",
+    "value": 0.05705,
+    "value_": 5.70463
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2015-04-15",
+    "value": 0.04627,
+    "value_": 4.62748
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2016-04-15",
+    "value": 0.04116,
+    "value_": 4.11564
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2017-04-15",
+    "value": 0.03661,
+    "value_": 3.66139
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2018-04-15",
+    "value": 0.03293,
+    "value_": 3.29306
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2019-04-15",
+    "value": 0.03035,
+    "value_": 3.03481
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2020-04-15",
+    "value": 0.06954,
+    "value_": 6.9536
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2021-04-15",
+    "value": 0.0516,
+    "value_": 5.15951
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2022-04-15",
+    "value": 0.0306,
+    "value_": 3.06047
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2023-04-15",
+    "value": 0.02851,
+    "value_": 2.85105
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2024-04-15",
+    "value": 0.03143,
+    "value_": 3.14325
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2025-04-15",
+    "value": 0.03403,
+    "value_": 3.40318
   },
   {
     "geoid": "99999",
@@ -39270,6 +39690,111 @@
     "value_": 2.71832
   },
   {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2011-05-15",
+    "value": 0.08188,
+    "value_": 8.18831
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2012-05-15",
+    "value": 0.0732,
+    "value_": 7.32014
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2013-05-15",
+    "value": 0.06592,
+    "value_": 6.59165
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2014-05-15",
+    "value": 0.05574,
+    "value_": 5.5741
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2015-05-15",
+    "value": 0.04623,
+    "value_": 4.62331
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2016-05-15",
+    "value": 0.04085,
+    "value_": 4.0851
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2017-05-15",
+    "value": 0.03599,
+    "value_": 3.59918
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2018-05-15",
+    "value": 0.0321,
+    "value_": 3.21019
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2019-05-15",
+    "value": 0.02971,
+    "value_": 2.97125
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2020-05-15",
+    "value": 0.10468,
+    "value_": 10.46753
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2021-05-15",
+    "value": 0.05103,
+    "value_": 5.10283
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2022-05-15",
+    "value": 0.02977,
+    "value_": 2.9773
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2023-05-15",
+    "value": 0.02864,
+    "value_": 2.86377
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2024-05-15",
+    "value": 0.03161,
+    "value_": 3.16092
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2025-05-15",
+    "value": 0.03433,
+    "value_": 3.43297
+  },
+  {
     "geoid": "99999",
     "key": "unempr-sa-white",
     "date": "2011-05-15",
@@ -47143,6 +47668,111 @@
     "date": "2025-06-15",
     "value": 0.02751,
     "value_": 2.75087
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2011-06-15",
+    "value": 0.08156,
+    "value_": 8.1562
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2012-06-15",
+    "value": 0.07283,
+    "value_": 7.28312
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2013-06-15",
+    "value": 0.06587,
+    "value_": 6.58713
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2014-06-15",
+    "value": 0.05377,
+    "value_": 5.37725
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2015-06-15",
+    "value": 0.04554,
+    "value_": 4.55412
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2016-06-15",
+    "value": 0.04054,
+    "value_": 4.05427
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2017-06-15",
+    "value": 0.03564,
+    "value_": 3.56392
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2018-06-15",
+    "value": 0.03183,
+    "value_": 3.18349
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2019-06-15",
+    "value": 0.02892,
+    "value_": 2.89218
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2020-06-15",
+    "value": 0.12529,
+    "value_": 12.52879
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2021-06-15",
+    "value": 0.05017,
+    "value_": 5.01655
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2022-06-15",
+    "value": 0.0293,
+    "value_": 2.92984
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2023-06-15",
+    "value": 0.02863,
+    "value_": 2.86316
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2024-06-15",
+    "value": 0.03201,
+    "value_": 3.20136
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2025-06-15",
+    "value": 0.03408,
+    "value_": 3.40774
   },
   {
     "geoid": "99999",
@@ -55020,6 +55650,111 @@
     "value_": 2.73116
   },
   {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2011-07-15",
+    "value": 0.08071,
+    "value_": 8.07138
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2012-07-15",
+    "value": 0.07261,
+    "value_": 7.26075
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2013-07-15",
+    "value": 0.06489,
+    "value_": 6.48908
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2014-07-15",
+    "value": 0.05323,
+    "value_": 5.32324
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2015-07-15",
+    "value": 0.04493,
+    "value_": 4.4932
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2016-07-15",
+    "value": 0.04005,
+    "value_": 4.00486
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2017-07-15",
+    "value": 0.03529,
+    "value_": 3.52938
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2018-07-15",
+    "value": 0.03134,
+    "value_": 3.13405
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2019-07-15",
+    "value": 0.02905,
+    "value_": 2.90476
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2020-07-15",
+    "value": 0.10681,
+    "value_": 10.68096
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2021-07-15",
+    "value": 0.04686,
+    "value_": 4.68576
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2022-07-15",
+    "value": 0.02863,
+    "value_": 2.86282
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2023-07-15",
+    "value": 0.02889,
+    "value_": 2.88922
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2024-07-15",
+    "value": 0.03277,
+    "value_": 3.27742
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2025-07-15",
+    "value": 0.03391,
+    "value_": 3.3908
+  },
+  {
     "geoid": "99999",
     "key": "unempr-sa-white",
     "date": "2011-07-15",
@@ -62893,6 +63628,111 @@
     "date": "2025-08-15",
     "value": 0.02819,
     "value_": 2.81896
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2011-08-15",
+    "value": 0.08009,
+    "value_": 8.00877
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2012-08-15",
+    "value": 0.07205,
+    "value_": 7.20475
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2013-08-15",
+    "value": 0.06393,
+    "value_": 6.39251
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2014-08-15",
+    "value": 0.05241,
+    "value_": 5.24126
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2015-08-15",
+    "value": 0.04352,
+    "value_": 4.35246
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2016-08-15",
+    "value": 0.04022,
+    "value_": 4.02178
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2017-08-15",
+    "value": 0.03535,
+    "value_": 3.53503
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2018-08-15",
+    "value": 0.03136,
+    "value_": 3.13636
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2019-08-15",
+    "value": 0.02915,
+    "value_": 2.9148
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2020-08-15",
+    "value": 0.08698,
+    "value_": 8.69792
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2021-08-15",
+    "value": 0.04408,
+    "value_": 4.40784
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2022-08-15",
+    "value": 0.02842,
+    "value_": 2.84174
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2023-08-15",
+    "value": 0.02909,
+    "value_": 2.90864
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2024-08-15",
+    "value": 0.03318,
+    "value_": 3.31761
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2025-08-15",
+    "value": 0.03385,
+    "value_": 3.38524
   },
   {
     "geoid": "99999",
@@ -70770,6 +71610,111 @@
     "value_": 3.00376
   },
   {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2011-09-15",
+    "value": 0.07988,
+    "value_": 7.98779
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2012-09-15",
+    "value": 0.07061,
+    "value_": 7.06146
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2013-09-15",
+    "value": 0.06304,
+    "value_": 6.30447
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2014-09-15",
+    "value": 0.05182,
+    "value_": 5.18224
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2015-09-15",
+    "value": 0.04287,
+    "value_": 4.28659
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2016-09-15",
+    "value": 0.04054,
+    "value_": 4.05384
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2017-09-15",
+    "value": 0.03526,
+    "value_": 3.52621
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2018-09-15",
+    "value": 0.03087,
+    "value_": 3.08737
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2019-09-15",
+    "value": 0.02904,
+    "value_": 2.90419
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2020-09-15",
+    "value": 0.07733,
+    "value_": 7.73328
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2021-09-15",
+    "value": 0.04097,
+    "value_": 4.09724
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2022-09-15",
+    "value": 0.02797,
+    "value_": 2.79694
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2023-09-15",
+    "value": 0.02974,
+    "value_": 2.97387
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2024-09-15",
+    "value": 0.03309,
+    "value_": 3.30898
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2025-09-15",
+    "value": 0.03477,
+    "value_": 3.47656
+  },
+  {
     "geoid": "99999",
     "key": "unempr-sa-white",
     "date": "2011-09-15",
@@ -78643,6 +79588,111 @@
     "date": "2025-10-15",
     "value": 0.03253,
     "value_": 3.25301
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2011-10-15",
+    "value": 0.07945,
+    "value_": 7.94481
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2012-10-15",
+    "value": 0.06957,
+    "value_": 6.95713
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2013-10-15",
+    "value": 0.06304,
+    "value_": 6.30378
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2014-10-15",
+    "value": 0.05051,
+    "value_": 5.05067
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2015-10-15",
+    "value": 0.04229,
+    "value_": 4.2289
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2016-10-15",
+    "value": 0.04075,
+    "value_": 4.07453
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2017-10-15",
+    "value": 0.03489,
+    "value_": 3.48925
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2018-10-15",
+    "value": 0.03079,
+    "value_": 3.07867
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2019-10-15",
+    "value": 0.02839,
+    "value_": 2.83918
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2020-10-15",
+    "value": 0.06743,
+    "value_": 6.74313
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2021-10-15",
+    "value": 0.03876,
+    "value_": 3.87578
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2022-10-15",
+    "value": 0.02819,
+    "value_": 2.81947
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2023-10-15",
+    "value": 0.03055,
+    "value_": 3.05489
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2024-10-15",
+    "value": 0.03275,
+    "value_": 3.2754
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2025-10-15",
+    "value": 0.03533,
+    "value_": 3.53297
   },
   {
     "geoid": "99999",
@@ -86520,6 +87570,111 @@
     "value_": 3.48108
   },
   {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2011-11-15",
+    "value": 0.07853,
+    "value_": 7.85273
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2012-11-15",
+    "value": 0.06739,
+    "value_": 6.73884
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2013-11-15",
+    "value": 0.0623,
+    "value_": 6.22994
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2014-11-15",
+    "value": 0.04966,
+    "value_": 4.96599
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2015-11-15",
+    "value": 0.04231,
+    "value_": 4.23059
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2016-11-15",
+    "value": 0.04025,
+    "value_": 4.02498
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2017-11-15",
+    "value": 0.03427,
+    "value_": 3.4273
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2018-11-15",
+    "value": 0.03066,
+    "value_": 3.06572
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2019-11-15",
+    "value": 0.02826,
+    "value_": 2.82558
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2020-11-15",
+    "value": 0.06265,
+    "value_": 6.2649
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2021-11-15",
+    "value": 0.03644,
+    "value_": 3.64428
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2022-11-15",
+    "value": 0.02833,
+    "value_": 2.83316
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2023-11-15",
+    "value": 0.0305,
+    "value_": 3.04988
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2024-11-15",
+    "value": 0.03296,
+    "value_": 3.29599
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2025-11-15",
+    "value": 0.03611,
+    "value_": 3.61092
+  },
+  {
     "geoid": "99999",
     "key": "unempr-sa-white",
     "date": "2011-11-15",
@@ -94393,6 +95548,111 @@
     "date": "2025-12-15",
     "value": 0.03537,
     "value_": 3.53702
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2011-12-15",
+    "value": 0.07712,
+    "value_": 7.71208
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2012-12-15",
+    "value": 0.06782,
+    "value_": 6.78161
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2013-12-15",
+    "value": 0.06077,
+    "value_": 6.07727
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2014-12-15",
+    "value": 0.0487,
+    "value_": 4.87034
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2015-12-15",
+    "value": 0.04211,
+    "value_": 4.21129
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2016-12-15",
+    "value": 0.03934,
+    "value_": 3.93388
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2017-12-15",
+    "value": 0.0338,
+    "value_": 3.37952
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2018-12-15",
+    "value": 0.03101,
+    "value_": 3.10128
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2019-12-15",
+    "value": 0.0283,
+    "value_": 2.83017
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2020-12-15",
+    "value": 0.0589,
+    "value_": 5.88963
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2021-12-15",
+    "value": 0.03434,
+    "value_": 3.43367
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2022-12-15",
+    "value": 0.02865,
+    "value_": 2.86549
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2023-12-15",
+    "value": 0.03053,
+    "value_": 3.05253
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2024-12-15",
+    "value": 0.03329,
+    "value_": 3.32944
+  },
+  {
+    "geoid": "99997",
+    "key": "unempr-sa-white",
+    "date": "2025-12-15",
+    "value": 0.03572,
+    "value_": 3.57216
   },
   {
     "geoid": "99999",
