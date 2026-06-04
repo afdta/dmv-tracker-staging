@@ -1,0 +1,6176 @@
+[
+  {
+    "geoid": "11001",
+    "key": "hotel-revpar",
+    "date": "2021-01-15",
+    "value": 93.41726,
+    "value_": 93.41726
+  },
+  {
+    "geoid": "11001",
+    "key": "hotel-revpar",
+    "date": "2022-01-15",
+    "value": 58.38296,
+    "value_": 58.38296
+  },
+  {
+    "geoid": "11001",
+    "key": "hotel-revpar",
+    "date": "2023-01-15",
+    "value": 111.77426,
+    "value_": 111.77426
+  },
+  {
+    "geoid": "11001",
+    "key": "hotel-revpar",
+    "date": "2024-01-15",
+    "value": 119.64826,
+    "value_": 119.64826
+  },
+  {
+    "geoid": "11001",
+    "key": "hotel-revpar",
+    "date": "2025-01-15",
+    "value": 203.06114,
+    "value_": 203.06114
+  },
+  {
+    "geoid": "11001",
+    "key": "hotel-revpar",
+    "date": "2026-01-15",
+    "value": 111.75604,
+    "value_": 111.75604
+  },
+  {
+    "geoid": "23420",
+    "key": "hotel-revpar",
+    "date": "2021-01-15",
+    "value": 63.88796,
+    "value_": 63.88796
+  },
+  {
+    "geoid": "23420",
+    "key": "hotel-revpar",
+    "date": "2022-01-15",
+    "value": 64.99211,
+    "value_": 64.99211
+  },
+  {
+    "geoid": "23420",
+    "key": "hotel-revpar",
+    "date": "2023-01-15",
+    "value": 61.01581,
+    "value_": 61.01581
+  },
+  {
+    "geoid": "23420",
+    "key": "hotel-revpar",
+    "date": "2024-01-15",
+    "value": 59.29325,
+    "value_": 59.29325
+  },
+  {
+    "geoid": "23420",
+    "key": "hotel-revpar",
+    "date": "2025-01-15",
+    "value": 60.26235,
+    "value_": 60.26235
+  },
+  {
+    "geoid": "23420",
+    "key": "hotel-revpar",
+    "date": "2026-01-15",
+    "value": 61.67776,
+    "value_": 61.67776
+  },
+  {
+    "geoid": "24017",
+    "key": "hotel-revpar",
+    "date": "2021-01-15",
+    "value": 69.29737,
+    "value_": 69.29737
+  },
+  {
+    "geoid": "24017",
+    "key": "hotel-revpar",
+    "date": "2022-01-15",
+    "value": 57.56867,
+    "value_": 57.56867
+  },
+  {
+    "geoid": "24017",
+    "key": "hotel-revpar",
+    "date": "2023-01-15",
+    "value": 63.83287,
+    "value_": 63.83287
+  },
+  {
+    "geoid": "24017",
+    "key": "hotel-revpar",
+    "date": "2024-01-15",
+    "value": 55.39832,
+    "value_": 55.39832
+  },
+  {
+    "geoid": "24017",
+    "key": "hotel-revpar",
+    "date": "2025-01-15",
+    "value": 60.09842,
+    "value_": 60.09842
+  },
+  {
+    "geoid": "24017",
+    "key": "hotel-revpar",
+    "date": "2026-01-15",
+    "value": 56.16508,
+    "value_": 56.16508
+  },
+  {
+    "geoid": "24031",
+    "key": "hotel-revpar",
+    "date": "2021-01-15",
+    "value": 62.13289,
+    "value_": 62.13289
+  },
+  {
+    "geoid": "24031",
+    "key": "hotel-revpar",
+    "date": "2022-01-15",
+    "value": 49.67152,
+    "value_": 49.67152
+  },
+  {
+    "geoid": "24031",
+    "key": "hotel-revpar",
+    "date": "2023-01-15",
+    "value": 63.41734,
+    "value_": 63.41734
+  },
+  {
+    "geoid": "24031",
+    "key": "hotel-revpar",
+    "date": "2024-01-15",
+    "value": 67.06563,
+    "value_": 67.06563
+  },
+  {
+    "geoid": "24031",
+    "key": "hotel-revpar",
+    "date": "2025-01-15",
+    "value": 75.90794,
+    "value_": 75.90794
+  },
+  {
+    "geoid": "24031",
+    "key": "hotel-revpar",
+    "date": "2026-01-15",
+    "value": 62.87802,
+    "value_": 62.87802
+  },
+  {
+    "geoid": "24033",
+    "key": "hotel-revpar",
+    "date": "2021-01-15",
+    "value": 66.20708,
+    "value_": 66.20708
+  },
+  {
+    "geoid": "24033",
+    "key": "hotel-revpar",
+    "date": "2022-01-15",
+    "value": 54.49124,
+    "value_": 54.49124
+  },
+  {
+    "geoid": "24033",
+    "key": "hotel-revpar",
+    "date": "2023-01-15",
+    "value": 80.82629,
+    "value_": 80.82629
+  },
+  {
+    "geoid": "24033",
+    "key": "hotel-revpar",
+    "date": "2024-01-15",
+    "value": 79.63843,
+    "value_": 79.63843
+  },
+  {
+    "geoid": "24033",
+    "key": "hotel-revpar",
+    "date": "2025-01-15",
+    "value": 87.28433,
+    "value_": 87.28433
+  },
+  {
+    "geoid": "24033",
+    "key": "hotel-revpar",
+    "date": "2026-01-15",
+    "value": 77.8896,
+    "value_": 77.8896
+  },
+  {
+    "geoid": "39300",
+    "key": "hotel-revpar",
+    "date": "2021-01-15",
+    "value": 52.51331,
+    "value_": 52.51331
+  },
+  {
+    "geoid": "39300",
+    "key": "hotel-revpar",
+    "date": "2022-01-15",
+    "value": 60.65099,
+    "value_": 60.65099
+  },
+  {
+    "geoid": "39300",
+    "key": "hotel-revpar",
+    "date": "2023-01-15",
+    "value": 60.73358,
+    "value_": 60.73358
+  },
+  {
+    "geoid": "39300",
+    "key": "hotel-revpar",
+    "date": "2024-01-15",
+    "value": 68.22947,
+    "value_": 68.22947
+  },
+  {
+    "geoid": "39300",
+    "key": "hotel-revpar",
+    "date": "2025-01-15",
+    "value": 67.7016,
+    "value_": 67.7016
+  },
+  {
+    "geoid": "39300",
+    "key": "hotel-revpar",
+    "date": "2026-01-15",
+    "value": 72.18601,
+    "value_": 72.18601
+  },
+  {
+    "geoid": "40140",
+    "key": "hotel-revpar",
+    "date": "2021-01-15",
+    "value": 97.92757,
+    "value_": 97.92757
+  },
+  {
+    "geoid": "40140",
+    "key": "hotel-revpar",
+    "date": "2022-01-15",
+    "value": 97.78647,
+    "value_": 97.78647
+  },
+  {
+    "geoid": "40140",
+    "key": "hotel-revpar",
+    "date": "2023-01-15",
+    "value": 95.00018,
+    "value_": 95.00018
+  },
+  {
+    "geoid": "40140",
+    "key": "hotel-revpar",
+    "date": "2024-01-15",
+    "value": 84.57197,
+    "value_": 84.57197
+  },
+  {
+    "geoid": "40140",
+    "key": "hotel-revpar",
+    "date": "2025-01-15",
+    "value": 92.25729,
+    "value_": 92.25729
+  },
+  {
+    "geoid": "40140",
+    "key": "hotel-revpar",
+    "date": "2026-01-15",
+    "value": 86.49707,
+    "value_": 86.49707
+  },
+  {
+    "geoid": "51013",
+    "key": "hotel-revpar",
+    "date": "2021-01-15",
+    "value": 66.20708,
+    "value_": 66.20708
+  },
+  {
+    "geoid": "51013",
+    "key": "hotel-revpar",
+    "date": "2022-01-15",
+    "value": 54.49124,
+    "value_": 54.49124
+  },
+  {
+    "geoid": "51013",
+    "key": "hotel-revpar",
+    "date": "2023-01-15",
+    "value": 80.82629,
+    "value_": 80.82629
+  },
+  {
+    "geoid": "51013",
+    "key": "hotel-revpar",
+    "date": "2024-01-15",
+    "value": 79.63843,
+    "value_": 79.63843
+  },
+  {
+    "geoid": "51013",
+    "key": "hotel-revpar",
+    "date": "2025-01-15",
+    "value": 87.28433,
+    "value_": 87.28433
+  },
+  {
+    "geoid": "51013",
+    "key": "hotel-revpar",
+    "date": "2026-01-15",
+    "value": 77.8896,
+    "value_": 77.8896
+  },
+  {
+    "geoid": "51061",
+    "key": "hotel-revpar",
+    "date": "2021-01-15",
+    "value": 61.87582,
+    "value_": 61.87582
+  },
+  {
+    "geoid": "51061",
+    "key": "hotel-revpar",
+    "date": "2022-01-15",
+    "value": 45.24166,
+    "value_": 45.24166
+  },
+  {
+    "geoid": "51061",
+    "key": "hotel-revpar",
+    "date": "2023-01-15",
+    "value": 43.91251,
+    "value_": 43.91251
+  },
+  {
+    "geoid": "51061",
+    "key": "hotel-revpar",
+    "date": "2024-01-15",
+    "value": 43.21151,
+    "value_": 43.21151
+  },
+  {
+    "geoid": "51061",
+    "key": "hotel-revpar",
+    "date": "2025-01-15",
+    "value": 49.0819,
+    "value_": 49.0819
+  },
+  {
+    "geoid": "51061",
+    "key": "hotel-revpar",
+    "date": "2026-01-15",
+    "value": 47.60526,
+    "value_": 47.60526
+  },
+  {
+    "geoid": "51107",
+    "key": "hotel-revpar",
+    "date": "2021-01-15",
+    "value": 67.5035,
+    "value_": 67.5035
+  },
+  {
+    "geoid": "51107",
+    "key": "hotel-revpar",
+    "date": "2022-01-15",
+    "value": 58.17132,
+    "value_": 58.17132
+  },
+  {
+    "geoid": "51107",
+    "key": "hotel-revpar",
+    "date": "2023-01-15",
+    "value": 72.35997,
+    "value_": 72.35997
+  },
+  {
+    "geoid": "51107",
+    "key": "hotel-revpar",
+    "date": "2024-01-15",
+    "value": 79.71671,
+    "value_": 79.71671
+  },
+  {
+    "geoid": "51107",
+    "key": "hotel-revpar",
+    "date": "2025-01-15",
+    "value": 103.59166,
+    "value_": 103.59166
+  },
+  {
+    "geoid": "51107",
+    "key": "hotel-revpar",
+    "date": "2026-01-15",
+    "value": 88.76348,
+    "value_": 88.76348
+  },
+  {
+    "geoid": "51153",
+    "key": "hotel-revpar",
+    "date": "2021-01-15",
+    "value": 57.00888,
+    "value_": 57.00888
+  },
+  {
+    "geoid": "51153",
+    "key": "hotel-revpar",
+    "date": "2022-01-15",
+    "value": 55.70198,
+    "value_": 55.70198
+  },
+  {
+    "geoid": "51153",
+    "key": "hotel-revpar",
+    "date": "2023-01-15",
+    "value": 51.71332,
+    "value_": 51.71332
+  },
+  {
+    "geoid": "51153",
+    "key": "hotel-revpar",
+    "date": "2024-01-15",
+    "value": 52.03036,
+    "value_": 52.03036
+  },
+  {
+    "geoid": "51153",
+    "key": "hotel-revpar",
+    "date": "2025-01-15",
+    "value": 61.53231,
+    "value_": 61.53231
+  },
+  {
+    "geoid": "51153",
+    "key": "hotel-revpar",
+    "date": "2026-01-15",
+    "value": 60.92449,
+    "value_": 60.92449
+  },
+  {
+    "geoid": "51179",
+    "key": "hotel-revpar",
+    "date": "2021-01-15",
+    "value": 45.17951,
+    "value_": 45.17951
+  },
+  {
+    "geoid": "51179",
+    "key": "hotel-revpar",
+    "date": "2022-01-15",
+    "value": 51.24329,
+    "value_": 51.24329
+  },
+  {
+    "geoid": "51179",
+    "key": "hotel-revpar",
+    "date": "2023-01-15",
+    "value": 45.41536,
+    "value_": 45.41536
+  },
+  {
+    "geoid": "51179",
+    "key": "hotel-revpar",
+    "date": "2024-01-15",
+    "value": 46.92335,
+    "value_": 46.92335
+  },
+  {
+    "geoid": "51179",
+    "key": "hotel-revpar",
+    "date": "2025-01-15",
+    "value": 44.63724,
+    "value_": 44.63724
+  },
+  {
+    "geoid": "51179",
+    "key": "hotel-revpar",
+    "date": "2026-01-15",
+    "value": 41.52744,
+    "value_": 41.52744
+  },
+  {
+    "geoid": "51600",
+    "key": "hotel-revpar",
+    "date": "2021-01-15",
+    "value": 63.53603,
+    "value_": 63.53603
+  },
+  {
+    "geoid": "51600",
+    "key": "hotel-revpar",
+    "date": "2022-01-15",
+    "value": 52.15111,
+    "value_": 52.15111
+  },
+  {
+    "geoid": "51600",
+    "key": "hotel-revpar",
+    "date": "2023-01-15",
+    "value": 73.00668,
+    "value_": 73.00668
+  },
+  {
+    "geoid": "51600",
+    "key": "hotel-revpar",
+    "date": "2024-01-15",
+    "value": 81.48499,
+    "value_": 81.48499
+  },
+  {
+    "geoid": "51600",
+    "key": "hotel-revpar",
+    "date": "2025-01-15",
+    "value": 94.77392,
+    "value_": 94.77392
+  },
+  {
+    "geoid": "51600",
+    "key": "hotel-revpar",
+    "date": "2026-01-15",
+    "value": 83.05521,
+    "value_": 83.05521
+  },
+  {
+    "geoid": "99997",
+    "key": "hotel-revpar",
+    "date": "2021-01-15",
+    "value": 72.30671,
+    "value_": 72.30671
+  },
+  {
+    "geoid": "99997",
+    "key": "hotel-revpar",
+    "date": "2022-01-15",
+    "value": 74.64969,
+    "value_": 74.64969
+  },
+  {
+    "geoid": "99997",
+    "key": "hotel-revpar",
+    "date": "2023-01-15",
+    "value": 72.70626,
+    "value_": 72.70626
+  },
+  {
+    "geoid": "99997",
+    "key": "hotel-revpar",
+    "date": "2024-01-15",
+    "value": 70.74408,
+    "value_": 70.74408
+  },
+  {
+    "geoid": "99997",
+    "key": "hotel-revpar",
+    "date": "2025-01-15",
+    "value": 73.89156,
+    "value_": 73.89156
+  },
+  {
+    "geoid": "99997",
+    "key": "hotel-revpar",
+    "date": "2026-01-15",
+    "value": 73.64382,
+    "value_": 73.64382
+  },
+  {
+    "geoid": "11001",
+    "key": "hotel-revpar",
+    "date": "2021-02-15",
+    "value": 79.32666,
+    "value_": 79.32666
+  },
+  {
+    "geoid": "11001",
+    "key": "hotel-revpar",
+    "date": "2022-02-15",
+    "value": 82.84589,
+    "value_": 82.84589
+  },
+  {
+    "geoid": "11001",
+    "key": "hotel-revpar",
+    "date": "2023-02-15",
+    "value": 148.30299,
+    "value_": 148.30299
+  },
+  {
+    "geoid": "11001",
+    "key": "hotel-revpar",
+    "date": "2024-02-15",
+    "value": 159.46214,
+    "value_": 159.46214
+  },
+  {
+    "geoid": "11001",
+    "key": "hotel-revpar",
+    "date": "2025-02-15",
+    "value": 157.26502,
+    "value_": 157.26502
+  },
+  {
+    "geoid": "11001",
+    "key": "hotel-revpar",
+    "date": "2026-02-15",
+    "value": 166.96908,
+    "value_": 166.96908
+  },
+  {
+    "geoid": "23420",
+    "key": "hotel-revpar",
+    "date": "2021-02-15",
+    "value": 73.64099,
+    "value_": 73.64099
+  },
+  {
+    "geoid": "23420",
+    "key": "hotel-revpar",
+    "date": "2022-02-15",
+    "value": 86.86202,
+    "value_": 86.86202
+  },
+  {
+    "geoid": "23420",
+    "key": "hotel-revpar",
+    "date": "2023-02-15",
+    "value": 82.5196,
+    "value_": 82.5196
+  },
+  {
+    "geoid": "23420",
+    "key": "hotel-revpar",
+    "date": "2024-02-15",
+    "value": 76.72519,
+    "value_": 76.72519
+  },
+  {
+    "geoid": "23420",
+    "key": "hotel-revpar",
+    "date": "2025-02-15",
+    "value": 79.08523,
+    "value_": 79.08523
+  },
+  {
+    "geoid": "23420",
+    "key": "hotel-revpar",
+    "date": "2026-02-15",
+    "value": 77.90329,
+    "value_": 77.90329
+  },
+  {
+    "geoid": "24017",
+    "key": "hotel-revpar",
+    "date": "2021-02-15",
+    "value": 62.7928,
+    "value_": 62.7928
+  },
+  {
+    "geoid": "24017",
+    "key": "hotel-revpar",
+    "date": "2022-02-15",
+    "value": 61.43495,
+    "value_": 61.43495
+  },
+  {
+    "geoid": "24017",
+    "key": "hotel-revpar",
+    "date": "2023-02-15",
+    "value": 63.66372,
+    "value_": 63.66372
+  },
+  {
+    "geoid": "24017",
+    "key": "hotel-revpar",
+    "date": "2024-02-15",
+    "value": 65.82788,
+    "value_": 65.82788
+  },
+  {
+    "geoid": "24017",
+    "key": "hotel-revpar",
+    "date": "2025-02-15",
+    "value": 63.62899,
+    "value_": 63.62899
+  },
+  {
+    "geoid": "24017",
+    "key": "hotel-revpar",
+    "date": "2026-02-15",
+    "value": 68.17644,
+    "value_": 68.17644
+  },
+  {
+    "geoid": "24031",
+    "key": "hotel-revpar",
+    "date": "2021-02-15",
+    "value": 35.72574,
+    "value_": 35.72574
+  },
+  {
+    "geoid": "24031",
+    "key": "hotel-revpar",
+    "date": "2022-02-15",
+    "value": 56.48114,
+    "value_": 56.48114
+  },
+  {
+    "geoid": "24031",
+    "key": "hotel-revpar",
+    "date": "2023-02-15",
+    "value": 75.60348,
+    "value_": 75.60348
+  },
+  {
+    "geoid": "24031",
+    "key": "hotel-revpar",
+    "date": "2024-02-15",
+    "value": 83.67107,
+    "value_": 83.67107
+  },
+  {
+    "geoid": "24031",
+    "key": "hotel-revpar",
+    "date": "2025-02-15",
+    "value": 73.59666,
+    "value_": 73.59666
+  },
+  {
+    "geoid": "24031",
+    "key": "hotel-revpar",
+    "date": "2026-02-15",
+    "value": 77.72714,
+    "value_": 77.72714
+  },
+  {
+    "geoid": "24033",
+    "key": "hotel-revpar",
+    "date": "2021-02-15",
+    "value": 50.59207,
+    "value_": 50.59207
+  },
+  {
+    "geoid": "24033",
+    "key": "hotel-revpar",
+    "date": "2022-02-15",
+    "value": 65.00641,
+    "value_": 65.00641
+  },
+  {
+    "geoid": "24033",
+    "key": "hotel-revpar",
+    "date": "2023-02-15",
+    "value": 91.8718,
+    "value_": 91.8718
+  },
+  {
+    "geoid": "24033",
+    "key": "hotel-revpar",
+    "date": "2024-02-15",
+    "value": 93.02386,
+    "value_": 93.02386
+  },
+  {
+    "geoid": "24033",
+    "key": "hotel-revpar",
+    "date": "2025-02-15",
+    "value": 93.51229,
+    "value_": 93.51229
+  },
+  {
+    "geoid": "24033",
+    "key": "hotel-revpar",
+    "date": "2026-02-15",
+    "value": 91.77274,
+    "value_": 91.77274
+  },
+  {
+    "geoid": "39300",
+    "key": "hotel-revpar",
+    "date": "2021-02-15",
+    "value": 65.28716,
+    "value_": 65.28716
+  },
+  {
+    "geoid": "39300",
+    "key": "hotel-revpar",
+    "date": "2022-02-15",
+    "value": 72.77516,
+    "value_": 72.77516
+  },
+  {
+    "geoid": "39300",
+    "key": "hotel-revpar",
+    "date": "2023-02-15",
+    "value": 69.75097,
+    "value_": 69.75097
+  },
+  {
+    "geoid": "39300",
+    "key": "hotel-revpar",
+    "date": "2024-02-15",
+    "value": 78.14274,
+    "value_": 78.14274
+  },
+  {
+    "geoid": "39300",
+    "key": "hotel-revpar",
+    "date": "2025-02-15",
+    "value": 77.0692,
+    "value_": 77.0692
+  },
+  {
+    "geoid": "39300",
+    "key": "hotel-revpar",
+    "date": "2026-02-15",
+    "value": 84.73466,
+    "value_": 84.73466
+  },
+  {
+    "geoid": "40140",
+    "key": "hotel-revpar",
+    "date": "2021-02-15",
+    "value": 107.31737,
+    "value_": 107.31737
+  },
+  {
+    "geoid": "40140",
+    "key": "hotel-revpar",
+    "date": "2022-02-15",
+    "value": 111.19966,
+    "value_": 111.19966
+  },
+  {
+    "geoid": "40140",
+    "key": "hotel-revpar",
+    "date": "2023-02-15",
+    "value": 105.44504,
+    "value_": 105.44504
+  },
+  {
+    "geoid": "40140",
+    "key": "hotel-revpar",
+    "date": "2024-02-15",
+    "value": 93.04839,
+    "value_": 93.04839
+  },
+  {
+    "geoid": "40140",
+    "key": "hotel-revpar",
+    "date": "2025-02-15",
+    "value": 93.3992,
+    "value_": 93.3992
+  },
+  {
+    "geoid": "40140",
+    "key": "hotel-revpar",
+    "date": "2026-02-15",
+    "value": 110.18873,
+    "value_": 110.18873
+  },
+  {
+    "geoid": "51013",
+    "key": "hotel-revpar",
+    "date": "2021-02-15",
+    "value": 50.59207,
+    "value_": 50.59207
+  },
+  {
+    "geoid": "51013",
+    "key": "hotel-revpar",
+    "date": "2022-02-15",
+    "value": 65.00641,
+    "value_": 65.00641
+  },
+  {
+    "geoid": "51013",
+    "key": "hotel-revpar",
+    "date": "2023-02-15",
+    "value": 91.8718,
+    "value_": 91.8718
+  },
+  {
+    "geoid": "51013",
+    "key": "hotel-revpar",
+    "date": "2024-02-15",
+    "value": 93.02386,
+    "value_": 93.02386
+  },
+  {
+    "geoid": "51013",
+    "key": "hotel-revpar",
+    "date": "2025-02-15",
+    "value": 93.51229,
+    "value_": 93.51229
+  },
+  {
+    "geoid": "51013",
+    "key": "hotel-revpar",
+    "date": "2026-02-15",
+    "value": 91.77274,
+    "value_": 91.77274
+  },
+  {
+    "geoid": "51061",
+    "key": "hotel-revpar",
+    "date": "2021-02-15",
+    "value": 54.1433,
+    "value_": 54.1433
+  },
+  {
+    "geoid": "51061",
+    "key": "hotel-revpar",
+    "date": "2022-02-15",
+    "value": 46.30572,
+    "value_": 46.30572
+  },
+  {
+    "geoid": "51061",
+    "key": "hotel-revpar",
+    "date": "2023-02-15",
+    "value": 47.87015,
+    "value_": 47.87015
+  },
+  {
+    "geoid": "51061",
+    "key": "hotel-revpar",
+    "date": "2024-02-15",
+    "value": 54.53176,
+    "value_": 54.53176
+  },
+  {
+    "geoid": "51061",
+    "key": "hotel-revpar",
+    "date": "2025-02-15",
+    "value": 53.42191,
+    "value_": 53.42191
+  },
+  {
+    "geoid": "51061",
+    "key": "hotel-revpar",
+    "date": "2026-02-15",
+    "value": 61.15482,
+    "value_": 61.15482
+  },
+  {
+    "geoid": "51107",
+    "key": "hotel-revpar",
+    "date": "2021-02-15",
+    "value": 54.88791,
+    "value_": 54.88791
+  },
+  {
+    "geoid": "51107",
+    "key": "hotel-revpar",
+    "date": "2022-02-15",
+    "value": 65.87534,
+    "value_": 65.87534
+  },
+  {
+    "geoid": "51107",
+    "key": "hotel-revpar",
+    "date": "2023-02-15",
+    "value": 71.43045,
+    "value_": 71.43045
+  },
+  {
+    "geoid": "51107",
+    "key": "hotel-revpar",
+    "date": "2024-02-15",
+    "value": 93.73463,
+    "value_": 93.73463
+  },
+  {
+    "geoid": "51107",
+    "key": "hotel-revpar",
+    "date": "2025-02-15",
+    "value": 97.27305,
+    "value_": 97.27305
+  },
+  {
+    "geoid": "51107",
+    "key": "hotel-revpar",
+    "date": "2026-02-15",
+    "value": 104.44608,
+    "value_": 104.44608
+  },
+  {
+    "geoid": "51153",
+    "key": "hotel-revpar",
+    "date": "2021-02-15",
+    "value": 52.06889,
+    "value_": 52.06889
+  },
+  {
+    "geoid": "51153",
+    "key": "hotel-revpar",
+    "date": "2022-02-15",
+    "value": 52.35844,
+    "value_": 52.35844
+  },
+  {
+    "geoid": "51153",
+    "key": "hotel-revpar",
+    "date": "2023-02-15",
+    "value": 56.82027,
+    "value_": 56.82027
+  },
+  {
+    "geoid": "51153",
+    "key": "hotel-revpar",
+    "date": "2024-02-15",
+    "value": 60.50036,
+    "value_": 60.50036
+  },
+  {
+    "geoid": "51153",
+    "key": "hotel-revpar",
+    "date": "2025-02-15",
+    "value": 62.25835,
+    "value_": 62.25835
+  },
+  {
+    "geoid": "51153",
+    "key": "hotel-revpar",
+    "date": "2026-02-15",
+    "value": 66.66088,
+    "value_": 66.66088
+  },
+  {
+    "geoid": "51179",
+    "key": "hotel-revpar",
+    "date": "2021-02-15",
+    "value": 43.95573,
+    "value_": 43.95573
+  },
+  {
+    "geoid": "51179",
+    "key": "hotel-revpar",
+    "date": "2022-02-15",
+    "value": 50.25936,
+    "value_": 50.25936
+  },
+  {
+    "geoid": "51179",
+    "key": "hotel-revpar",
+    "date": "2023-02-15",
+    "value": 51.17222,
+    "value_": 51.17222
+  },
+  {
+    "geoid": "51179",
+    "key": "hotel-revpar",
+    "date": "2024-02-15",
+    "value": 52.39537,
+    "value_": 52.39537
+  },
+  {
+    "geoid": "51179",
+    "key": "hotel-revpar",
+    "date": "2025-02-15",
+    "value": 47.17275,
+    "value_": 47.17275
+  },
+  {
+    "geoid": "51179",
+    "key": "hotel-revpar",
+    "date": "2026-02-15",
+    "value": 48.555,
+    "value_": 48.555
+  },
+  {
+    "geoid": "51600",
+    "key": "hotel-revpar",
+    "date": "2021-02-15",
+    "value": 42.71883,
+    "value_": 42.71883
+  },
+  {
+    "geoid": "51600",
+    "key": "hotel-revpar",
+    "date": "2022-02-15",
+    "value": 59.55378,
+    "value_": 59.55378
+  },
+  {
+    "geoid": "51600",
+    "key": "hotel-revpar",
+    "date": "2023-02-15",
+    "value": 80.59183,
+    "value_": 80.59183
+  },
+  {
+    "geoid": "51600",
+    "key": "hotel-revpar",
+    "date": "2024-02-15",
+    "value": 91.45712,
+    "value_": 91.45712
+  },
+  {
+    "geoid": "51600",
+    "key": "hotel-revpar",
+    "date": "2025-02-15",
+    "value": 97.48385,
+    "value_": 97.48385
+  },
+  {
+    "geoid": "51600",
+    "key": "hotel-revpar",
+    "date": "2026-02-15",
+    "value": 97.89876,
+    "value_": 97.89876
+  },
+  {
+    "geoid": "99997",
+    "key": "hotel-revpar",
+    "date": "2021-02-15",
+    "value": 82.70839,
+    "value_": 82.70839
+  },
+  {
+    "geoid": "99997",
+    "key": "hotel-revpar",
+    "date": "2022-02-15",
+    "value": 91.03509,
+    "value_": 91.03509
+  },
+  {
+    "geoid": "99997",
+    "key": "hotel-revpar",
+    "date": "2023-02-15",
+    "value": 86.88027,
+    "value_": 86.88027
+  },
+  {
+    "geoid": "99997",
+    "key": "hotel-revpar",
+    "date": "2024-02-15",
+    "value": 82.96706,
+    "value_": 82.96706
+  },
+  {
+    "geoid": "99997",
+    "key": "hotel-revpar",
+    "date": "2025-02-15",
+    "value": 83.75231,
+    "value_": 83.75231
+  },
+  {
+    "geoid": "99997",
+    "key": "hotel-revpar",
+    "date": "2026-02-15",
+    "value": 91.59708,
+    "value_": 91.59708
+  },
+  {
+    "geoid": "11001",
+    "key": "hotel-revpar",
+    "date": "2021-03-15",
+    "value": 64.7556,
+    "value_": 64.7556
+  },
+  {
+    "geoid": "11001",
+    "key": "hotel-revpar",
+    "date": "2022-03-15",
+    "value": 149.36375,
+    "value_": 149.36375
+  },
+  {
+    "geoid": "11001",
+    "key": "hotel-revpar",
+    "date": "2023-03-15",
+    "value": 217.54445,
+    "value_": 217.54445
+  },
+  {
+    "geoid": "11001",
+    "key": "hotel-revpar",
+    "date": "2024-03-15",
+    "value": 234.43371,
+    "value_": 234.43371
+  },
+  {
+    "geoid": "11001",
+    "key": "hotel-revpar",
+    "date": "2025-03-15",
+    "value": 240.322,
+    "value_": 240.322
+  },
+  {
+    "geoid": "11001",
+    "key": "hotel-revpar",
+    "date": "2026-03-15",
+    "value": 247.3471,
+    "value_": 247.3471
+  },
+  {
+    "geoid": "23420",
+    "key": "hotel-revpar",
+    "date": "2021-03-15",
+    "value": 79.30678,
+    "value_": 79.30678
+  },
+  {
+    "geoid": "23420",
+    "key": "hotel-revpar",
+    "date": "2022-03-15",
+    "value": 78.84181,
+    "value_": 78.84181
+  },
+  {
+    "geoid": "23420",
+    "key": "hotel-revpar",
+    "date": "2023-03-15",
+    "value": 71.29512,
+    "value_": 71.29512
+  },
+  {
+    "geoid": "23420",
+    "key": "hotel-revpar",
+    "date": "2024-03-15",
+    "value": 70.48632,
+    "value_": 70.48632
+  },
+  {
+    "geoid": "23420",
+    "key": "hotel-revpar",
+    "date": "2025-03-15",
+    "value": 72.96306,
+    "value_": 72.96306
+  },
+  {
+    "geoid": "23420",
+    "key": "hotel-revpar",
+    "date": "2026-03-15",
+    "value": 77.02681,
+    "value_": 77.02681
+  },
+  {
+    "geoid": "24017",
+    "key": "hotel-revpar",
+    "date": "2021-03-15",
+    "value": 80.34612,
+    "value_": 80.34612
+  },
+  {
+    "geoid": "24017",
+    "key": "hotel-revpar",
+    "date": "2022-03-15",
+    "value": 64.16225,
+    "value_": 64.16225
+  },
+  {
+    "geoid": "24017",
+    "key": "hotel-revpar",
+    "date": "2023-03-15",
+    "value": 67.86422,
+    "value_": 67.86422
+  },
+  {
+    "geoid": "24017",
+    "key": "hotel-revpar",
+    "date": "2024-03-15",
+    "value": 67.95676,
+    "value_": 67.95676
+  },
+  {
+    "geoid": "24017",
+    "key": "hotel-revpar",
+    "date": "2025-03-15",
+    "value": 72.52739,
+    "value_": 72.52739
+  },
+  {
+    "geoid": "24017",
+    "key": "hotel-revpar",
+    "date": "2026-03-15",
+    "value": 78.74651,
+    "value_": 78.74651
+  },
+  {
+    "geoid": "24031",
+    "key": "hotel-revpar",
+    "date": "2021-03-15",
+    "value": 38.14541,
+    "value_": 38.14541
+  },
+  {
+    "geoid": "24031",
+    "key": "hotel-revpar",
+    "date": "2022-03-15",
+    "value": 74.90248,
+    "value_": 74.90248
+  },
+  {
+    "geoid": "24031",
+    "key": "hotel-revpar",
+    "date": "2023-03-15",
+    "value": 101.91451,
+    "value_": 101.91451
+  },
+  {
+    "geoid": "24031",
+    "key": "hotel-revpar",
+    "date": "2024-03-15",
+    "value": 107.02081,
+    "value_": 107.02081
+  },
+  {
+    "geoid": "24031",
+    "key": "hotel-revpar",
+    "date": "2025-03-15",
+    "value": 102.87969,
+    "value_": 102.87969
+  },
+  {
+    "geoid": "24031",
+    "key": "hotel-revpar",
+    "date": "2026-03-15",
+    "value": 102.96523,
+    "value_": 102.96523
+  },
+  {
+    "geoid": "24033",
+    "key": "hotel-revpar",
+    "date": "2021-03-15",
+    "value": 53.30288,
+    "value_": 53.30288
+  },
+  {
+    "geoid": "24033",
+    "key": "hotel-revpar",
+    "date": "2022-03-15",
+    "value": 75.50771,
+    "value_": 75.50771
+  },
+  {
+    "geoid": "24033",
+    "key": "hotel-revpar",
+    "date": "2023-03-15",
+    "value": 104.4012,
+    "value_": 104.4012
+  },
+  {
+    "geoid": "24033",
+    "key": "hotel-revpar",
+    "date": "2024-03-15",
+    "value": 102.66025,
+    "value_": 102.66025
+  },
+  {
+    "geoid": "24033",
+    "key": "hotel-revpar",
+    "date": "2025-03-15",
+    "value": 115.29085,
+    "value_": 115.29085
+  },
+  {
+    "geoid": "24033",
+    "key": "hotel-revpar",
+    "date": "2026-03-15",
+    "value": 115.02438,
+    "value_": 115.02438
+  },
+  {
+    "geoid": "39300",
+    "key": "hotel-revpar",
+    "date": "2021-03-15",
+    "value": 69.5628,
+    "value_": 69.5628
+  },
+  {
+    "geoid": "39300",
+    "key": "hotel-revpar",
+    "date": "2022-03-15",
+    "value": 77.37337,
+    "value_": 77.37337
+  },
+  {
+    "geoid": "39300",
+    "key": "hotel-revpar",
+    "date": "2023-03-15",
+    "value": 76.79499,
+    "value_": 76.79499
+  },
+  {
+    "geoid": "39300",
+    "key": "hotel-revpar",
+    "date": "2024-03-15",
+    "value": 92.69484,
+    "value_": 92.69484
+  },
+  {
+    "geoid": "39300",
+    "key": "hotel-revpar",
+    "date": "2025-03-15",
+    "value": 97.74804,
+    "value_": 97.74804
+  },
+  {
+    "geoid": "39300",
+    "key": "hotel-revpar",
+    "date": "2026-03-15",
+    "value": 91.18149,
+    "value_": 91.18149
+  },
+  {
+    "geoid": "40140",
+    "key": "hotel-revpar",
+    "date": "2021-03-15",
+    "value": 112.91042,
+    "value_": 112.91042
+  },
+  {
+    "geoid": "40140",
+    "key": "hotel-revpar",
+    "date": "2022-03-15",
+    "value": 111.74652,
+    "value_": 111.74652
+  },
+  {
+    "geoid": "40140",
+    "key": "hotel-revpar",
+    "date": "2023-03-15",
+    "value": 111.3476,
+    "value_": 111.3476
+  },
+  {
+    "geoid": "40140",
+    "key": "hotel-revpar",
+    "date": "2024-03-15",
+    "value": 101.59235,
+    "value_": 101.59235
+  },
+  {
+    "geoid": "40140",
+    "key": "hotel-revpar",
+    "date": "2025-03-15",
+    "value": 105.06988,
+    "value_": 105.06988
+  },
+  {
+    "geoid": "40140",
+    "key": "hotel-revpar",
+    "date": "2026-03-15",
+    "value": 100.96904,
+    "value_": 100.96904
+  },
+  {
+    "geoid": "51013",
+    "key": "hotel-revpar",
+    "date": "2021-03-15",
+    "value": 53.30288,
+    "value_": 53.30288
+  },
+  {
+    "geoid": "51013",
+    "key": "hotel-revpar",
+    "date": "2022-03-15",
+    "value": 75.50771,
+    "value_": 75.50771
+  },
+  {
+    "geoid": "51013",
+    "key": "hotel-revpar",
+    "date": "2023-03-15",
+    "value": 104.4012,
+    "value_": 104.4012
+  },
+  {
+    "geoid": "51013",
+    "key": "hotel-revpar",
+    "date": "2024-03-15",
+    "value": 102.66025,
+    "value_": 102.66025
+  },
+  {
+    "geoid": "51013",
+    "key": "hotel-revpar",
+    "date": "2025-03-15",
+    "value": 115.29085,
+    "value_": 115.29085
+  },
+  {
+    "geoid": "51013",
+    "key": "hotel-revpar",
+    "date": "2026-03-15",
+    "value": 115.02438,
+    "value_": 115.02438
+  },
+  {
+    "geoid": "51061",
+    "key": "hotel-revpar",
+    "date": "2021-03-15",
+    "value": 55.53275,
+    "value_": 55.53275
+  },
+  {
+    "geoid": "51061",
+    "key": "hotel-revpar",
+    "date": "2022-03-15",
+    "value": 62.19437,
+    "value_": 62.19437
+  },
+  {
+    "geoid": "51061",
+    "key": "hotel-revpar",
+    "date": "2023-03-15",
+    "value": 59.55322,
+    "value_": 59.55322
+  },
+  {
+    "geoid": "51061",
+    "key": "hotel-revpar",
+    "date": "2024-03-15",
+    "value": 59.88432,
+    "value_": 59.88432
+  },
+  {
+    "geoid": "51061",
+    "key": "hotel-revpar",
+    "date": "2025-03-15",
+    "value": 61.11027,
+    "value_": 61.11027
+  },
+  {
+    "geoid": "51061",
+    "key": "hotel-revpar",
+    "date": "2026-03-15",
+    "value": 67.18835,
+    "value_": 67.18835
+  },
+  {
+    "geoid": "51107",
+    "key": "hotel-revpar",
+    "date": "2021-03-15",
+    "value": 57.6415,
+    "value_": 57.6415
+  },
+  {
+    "geoid": "51107",
+    "key": "hotel-revpar",
+    "date": "2022-03-15",
+    "value": 84.94672,
+    "value_": 84.94672
+  },
+  {
+    "geoid": "51107",
+    "key": "hotel-revpar",
+    "date": "2023-03-15",
+    "value": 91.89587,
+    "value_": 91.89587
+  },
+  {
+    "geoid": "51107",
+    "key": "hotel-revpar",
+    "date": "2024-03-15",
+    "value": 106.31384,
+    "value_": 106.31384
+  },
+  {
+    "geoid": "51107",
+    "key": "hotel-revpar",
+    "date": "2025-03-15",
+    "value": 115.41406,
+    "value_": 115.41406
+  },
+  {
+    "geoid": "51107",
+    "key": "hotel-revpar",
+    "date": "2026-03-15",
+    "value": 124.47873,
+    "value_": 124.47873
+  },
+  {
+    "geoid": "51153",
+    "key": "hotel-revpar",
+    "date": "2021-03-15",
+    "value": 56.53378,
+    "value_": 56.53378
+  },
+  {
+    "geoid": "51153",
+    "key": "hotel-revpar",
+    "date": "2022-03-15",
+    "value": 64.48826,
+    "value_": 64.48826
+  },
+  {
+    "geoid": "51153",
+    "key": "hotel-revpar",
+    "date": "2023-03-15",
+    "value": 69.1949,
+    "value_": 69.1949
+  },
+  {
+    "geoid": "51153",
+    "key": "hotel-revpar",
+    "date": "2024-03-15",
+    "value": 72.34489,
+    "value_": 72.34489
+  },
+  {
+    "geoid": "51153",
+    "key": "hotel-revpar",
+    "date": "2025-03-15",
+    "value": 78.8274,
+    "value_": 78.8274
+  },
+  {
+    "geoid": "51153",
+    "key": "hotel-revpar",
+    "date": "2026-03-15",
+    "value": 85.96403,
+    "value_": 85.96403
+  },
+  {
+    "geoid": "51179",
+    "key": "hotel-revpar",
+    "date": "2021-03-15",
+    "value": 56.5364,
+    "value_": 56.5364
+  },
+  {
+    "geoid": "51179",
+    "key": "hotel-revpar",
+    "date": "2022-03-15",
+    "value": 58.72334,
+    "value_": 58.72334
+  },
+  {
+    "geoid": "51179",
+    "key": "hotel-revpar",
+    "date": "2023-03-15",
+    "value": 60.18906,
+    "value_": 60.18906
+  },
+  {
+    "geoid": "51179",
+    "key": "hotel-revpar",
+    "date": "2024-03-15",
+    "value": 62.00758,
+    "value_": 62.00758
+  },
+  {
+    "geoid": "51179",
+    "key": "hotel-revpar",
+    "date": "2025-03-15",
+    "value": 64.90929,
+    "value_": 64.90929
+  },
+  {
+    "geoid": "51179",
+    "key": "hotel-revpar",
+    "date": "2026-03-15",
+    "value": 67.27014,
+    "value_": 67.27014
+  },
+  {
+    "geoid": "51600",
+    "key": "hotel-revpar",
+    "date": "2021-03-15",
+    "value": 44.66161,
+    "value_": 44.66161
+  },
+  {
+    "geoid": "51600",
+    "key": "hotel-revpar",
+    "date": "2022-03-15",
+    "value": 77.14601,
+    "value_": 77.14601
+  },
+  {
+    "geoid": "51600",
+    "key": "hotel-revpar",
+    "date": "2023-03-15",
+    "value": 100.10807,
+    "value_": 100.10807
+  },
+  {
+    "geoid": "51600",
+    "key": "hotel-revpar",
+    "date": "2024-03-15",
+    "value": 106.57669,
+    "value_": 106.57669
+  },
+  {
+    "geoid": "51600",
+    "key": "hotel-revpar",
+    "date": "2025-03-15",
+    "value": 112.85233,
+    "value_": 112.85233
+  },
+  {
+    "geoid": "51600",
+    "key": "hotel-revpar",
+    "date": "2026-03-15",
+    "value": 123.83583,
+    "value_": 123.83583
+  },
+  {
+    "geoid": "99997",
+    "key": "hotel-revpar",
+    "date": "2021-03-15",
+    "value": 87.9945,
+    "value_": 87.9945
+  },
+  {
+    "geoid": "99997",
+    "key": "hotel-revpar",
+    "date": "2022-03-15",
+    "value": 89.33264,
+    "value_": 89.33264
+  },
+  {
+    "geoid": "99997",
+    "key": "hotel-revpar",
+    "date": "2023-03-15",
+    "value": 86.68358,
+    "value_": 86.68358
+  },
+  {
+    "geoid": "99997",
+    "key": "hotel-revpar",
+    "date": "2024-03-15",
+    "value": 87.68132,
+    "value_": 87.68132
+  },
+  {
+    "geoid": "99997",
+    "key": "hotel-revpar",
+    "date": "2025-03-15",
+    "value": 91.36632,
+    "value_": 91.36632
+  },
+  {
+    "geoid": "99997",
+    "key": "hotel-revpar",
+    "date": "2026-03-15",
+    "value": 89.63876,
+    "value_": 89.63876
+  },
+  {
+    "geoid": "11001",
+    "key": "hotel-revpar",
+    "date": "2021-04-15",
+    "value": 69.60032,
+    "value_": 69.60032
+  },
+  {
+    "geoid": "11001",
+    "key": "hotel-revpar",
+    "date": "2022-04-15",
+    "value": 207.95199,
+    "value_": 207.95199
+  },
+  {
+    "geoid": "11001",
+    "key": "hotel-revpar",
+    "date": "2023-04-15",
+    "value": 242.28433,
+    "value_": 242.28433
+  },
+  {
+    "geoid": "11001",
+    "key": "hotel-revpar",
+    "date": "2024-04-15",
+    "value": 263.09179,
+    "value_": 263.09179
+  },
+  {
+    "geoid": "11001",
+    "key": "hotel-revpar",
+    "date": "2025-04-15",
+    "value": 257.51321,
+    "value_": 257.51321
+  },
+  {
+    "geoid": "11001",
+    "key": "hotel-revpar",
+    "date": "2026-04-15",
+    "value": 249.22313,
+    "value_": 249.22313
+  },
+  {
+    "geoid": "23420",
+    "key": "hotel-revpar",
+    "date": "2021-04-15",
+    "value": 85.05748,
+    "value_": 85.05748
+  },
+  {
+    "geoid": "23420",
+    "key": "hotel-revpar",
+    "date": "2022-04-15",
+    "value": 81.23457,
+    "value_": 81.23457
+  },
+  {
+    "geoid": "23420",
+    "key": "hotel-revpar",
+    "date": "2023-04-15",
+    "value": 77.87497,
+    "value_": 77.87497
+  },
+  {
+    "geoid": "23420",
+    "key": "hotel-revpar",
+    "date": "2024-04-15",
+    "value": 77.32161,
+    "value_": 77.32161
+  },
+  {
+    "geoid": "23420",
+    "key": "hotel-revpar",
+    "date": "2025-04-15",
+    "value": 79.44936,
+    "value_": 79.44936
+  },
+  {
+    "geoid": "23420",
+    "key": "hotel-revpar",
+    "date": "2026-04-15",
+    "value": 78.38642,
+    "value_": 78.38642
+  },
+  {
+    "geoid": "24017",
+    "key": "hotel-revpar",
+    "date": "2021-04-15",
+    "value": 82.64755,
+    "value_": 82.64755
+  },
+  {
+    "geoid": "24017",
+    "key": "hotel-revpar",
+    "date": "2022-04-15",
+    "value": 72.79408,
+    "value_": 72.79408
+  },
+  {
+    "geoid": "24017",
+    "key": "hotel-revpar",
+    "date": "2023-04-15",
+    "value": 79.15616,
+    "value_": 79.15616
+  },
+  {
+    "geoid": "24017",
+    "key": "hotel-revpar",
+    "date": "2024-04-15",
+    "value": 78.50464,
+    "value_": 78.50464
+  },
+  {
+    "geoid": "24017",
+    "key": "hotel-revpar",
+    "date": "2025-04-15",
+    "value": 74.68058,
+    "value_": 74.68058
+  },
+  {
+    "geoid": "24017",
+    "key": "hotel-revpar",
+    "date": "2026-04-15",
+    "value": 79.44899,
+    "value_": 79.44899
+  },
+  {
+    "geoid": "24031",
+    "key": "hotel-revpar",
+    "date": "2021-04-15",
+    "value": 42.97285,
+    "value_": 42.97285
+  },
+  {
+    "geoid": "24031",
+    "key": "hotel-revpar",
+    "date": "2022-04-15",
+    "value": 83.93067,
+    "value_": 83.93067
+  },
+  {
+    "geoid": "24031",
+    "key": "hotel-revpar",
+    "date": "2023-04-15",
+    "value": 112.97996,
+    "value_": 112.97996
+  },
+  {
+    "geoid": "24031",
+    "key": "hotel-revpar",
+    "date": "2024-04-15",
+    "value": 122.29292,
+    "value_": 122.29292
+  },
+  {
+    "geoid": "24031",
+    "key": "hotel-revpar",
+    "date": "2025-04-15",
+    "value": 105.17347,
+    "value_": 105.17347
+  },
+  {
+    "geoid": "24031",
+    "key": "hotel-revpar",
+    "date": "2026-04-15",
+    "value": 113.59811,
+    "value_": 113.59811
+  },
+  {
+    "geoid": "24033",
+    "key": "hotel-revpar",
+    "date": "2021-04-15",
+    "value": 62.81174,
+    "value_": 62.81174
+  },
+  {
+    "geoid": "24033",
+    "key": "hotel-revpar",
+    "date": "2022-04-15",
+    "value": 101.41555,
+    "value_": 101.41555
+  },
+  {
+    "geoid": "24033",
+    "key": "hotel-revpar",
+    "date": "2023-04-15",
+    "value": 112.13176,
+    "value_": 112.13176
+  },
+  {
+    "geoid": "24033",
+    "key": "hotel-revpar",
+    "date": "2024-04-15",
+    "value": 122.64809,
+    "value_": 122.64809
+  },
+  {
+    "geoid": "24033",
+    "key": "hotel-revpar",
+    "date": "2025-04-15",
+    "value": 113.72812,
+    "value_": 113.72812
+  },
+  {
+    "geoid": "24033",
+    "key": "hotel-revpar",
+    "date": "2026-04-15",
+    "value": 118.29018,
+    "value_": 118.29018
+  },
+  {
+    "geoid": "39300",
+    "key": "hotel-revpar",
+    "date": "2021-04-15",
+    "value": 67.68968,
+    "value_": 67.68968
+  },
+  {
+    "geoid": "39300",
+    "key": "hotel-revpar",
+    "date": "2022-04-15",
+    "value": 86.44471,
+    "value_": 86.44471
+  },
+  {
+    "geoid": "39300",
+    "key": "hotel-revpar",
+    "date": "2023-04-15",
+    "value": 86.39796,
+    "value_": 86.39796
+  },
+  {
+    "geoid": "39300",
+    "key": "hotel-revpar",
+    "date": "2024-04-15",
+    "value": 102.12897,
+    "value_": 102.12897
+  },
+  {
+    "geoid": "39300",
+    "key": "hotel-revpar",
+    "date": "2025-04-15",
+    "value": 98.04784,
+    "value_": 98.04784
+  },
+  {
+    "geoid": "39300",
+    "key": "hotel-revpar",
+    "date": "2026-04-15",
+    "value": 97.55376,
+    "value_": 97.55376
+  },
+  {
+    "geoid": "40140",
+    "key": "hotel-revpar",
+    "date": "2021-04-15",
+    "value": 112.19956,
+    "value_": 112.19956
+  },
+  {
+    "geoid": "40140",
+    "key": "hotel-revpar",
+    "date": "2022-04-15",
+    "value": 107.7339,
+    "value_": 107.7339
+  },
+  {
+    "geoid": "40140",
+    "key": "hotel-revpar",
+    "date": "2023-04-15",
+    "value": 99.64254,
+    "value_": 99.64254
+  },
+  {
+    "geoid": "40140",
+    "key": "hotel-revpar",
+    "date": "2024-04-15",
+    "value": 90.68155,
+    "value_": 90.68155
+  },
+  {
+    "geoid": "40140",
+    "key": "hotel-revpar",
+    "date": "2025-04-15",
+    "value": 91.33776,
+    "value_": 91.33776
+  },
+  {
+    "geoid": "40140",
+    "key": "hotel-revpar",
+    "date": "2026-04-15",
+    "value": 86.98251,
+    "value_": 86.98251
+  },
+  {
+    "geoid": "51013",
+    "key": "hotel-revpar",
+    "date": "2021-04-15",
+    "value": 62.81174,
+    "value_": 62.81174
+  },
+  {
+    "geoid": "51013",
+    "key": "hotel-revpar",
+    "date": "2022-04-15",
+    "value": 101.41555,
+    "value_": 101.41555
+  },
+  {
+    "geoid": "51013",
+    "key": "hotel-revpar",
+    "date": "2023-04-15",
+    "value": 112.13176,
+    "value_": 112.13176
+  },
+  {
+    "geoid": "51013",
+    "key": "hotel-revpar",
+    "date": "2024-04-15",
+    "value": 122.64809,
+    "value_": 122.64809
+  },
+  {
+    "geoid": "51013",
+    "key": "hotel-revpar",
+    "date": "2025-04-15",
+    "value": 113.72812,
+    "value_": 113.72812
+  },
+  {
+    "geoid": "51013",
+    "key": "hotel-revpar",
+    "date": "2026-04-15",
+    "value": 118.29018,
+    "value_": 118.29018
+  },
+  {
+    "geoid": "51061",
+    "key": "hotel-revpar",
+    "date": "2021-04-15",
+    "value": 61.67443,
+    "value_": 61.67443
+  },
+  {
+    "geoid": "51061",
+    "key": "hotel-revpar",
+    "date": "2022-04-15",
+    "value": 79.13646,
+    "value_": 79.13646
+  },
+  {
+    "geoid": "51061",
+    "key": "hotel-revpar",
+    "date": "2023-04-15",
+    "value": 71.53994,
+    "value_": 71.53994
+  },
+  {
+    "geoid": "51061",
+    "key": "hotel-revpar",
+    "date": "2024-04-15",
+    "value": 76.64937,
+    "value_": 76.64937
+  },
+  {
+    "geoid": "51061",
+    "key": "hotel-revpar",
+    "date": "2025-04-15",
+    "value": 72.48892,
+    "value_": 72.48892
+  },
+  {
+    "geoid": "51061",
+    "key": "hotel-revpar",
+    "date": "2026-04-15",
+    "value": 82.86197,
+    "value_": 82.86197
+  },
+  {
+    "geoid": "51107",
+    "key": "hotel-revpar",
+    "date": "2021-04-15",
+    "value": 65.95177,
+    "value_": 65.95177
+  },
+  {
+    "geoid": "51107",
+    "key": "hotel-revpar",
+    "date": "2022-04-15",
+    "value": 100.05431,
+    "value_": 100.05431
+  },
+  {
+    "geoid": "51107",
+    "key": "hotel-revpar",
+    "date": "2023-04-15",
+    "value": 116.13084,
+    "value_": 116.13084
+  },
+  {
+    "geoid": "51107",
+    "key": "hotel-revpar",
+    "date": "2024-04-15",
+    "value": 125.26264,
+    "value_": 125.26264
+  },
+  {
+    "geoid": "51107",
+    "key": "hotel-revpar",
+    "date": "2025-04-15",
+    "value": 128.33818,
+    "value_": 128.33818
+  },
+  {
+    "geoid": "51107",
+    "key": "hotel-revpar",
+    "date": "2026-04-15",
+    "value": 133.09464,
+    "value_": 133.09464
+  },
+  {
+    "geoid": "51153",
+    "key": "hotel-revpar",
+    "date": "2021-04-15",
+    "value": 61.25562,
+    "value_": 61.25562
+  },
+  {
+    "geoid": "51153",
+    "key": "hotel-revpar",
+    "date": "2022-04-15",
+    "value": 71.1385,
+    "value_": 71.1385
+  },
+  {
+    "geoid": "51153",
+    "key": "hotel-revpar",
+    "date": "2023-04-15",
+    "value": 76.32038,
+    "value_": 76.32038
+  },
+  {
+    "geoid": "51153",
+    "key": "hotel-revpar",
+    "date": "2024-04-15",
+    "value": 78.79108,
+    "value_": 78.79108
+  },
+  {
+    "geoid": "51153",
+    "key": "hotel-revpar",
+    "date": "2025-04-15",
+    "value": 78.06465,
+    "value_": 78.06465
+  },
+  {
+    "geoid": "51153",
+    "key": "hotel-revpar",
+    "date": "2026-04-15",
+    "value": 89.07022,
+    "value_": 89.07022
+  },
+  {
+    "geoid": "51179",
+    "key": "hotel-revpar",
+    "date": "2021-04-15",
+    "value": 59.01823,
+    "value_": 59.01823
+  },
+  {
+    "geoid": "51179",
+    "key": "hotel-revpar",
+    "date": "2022-04-15",
+    "value": 65.81872,
+    "value_": 65.81872
+  },
+  {
+    "geoid": "51179",
+    "key": "hotel-revpar",
+    "date": "2023-04-15",
+    "value": 62.60884,
+    "value_": 62.60884
+  },
+  {
+    "geoid": "51179",
+    "key": "hotel-revpar",
+    "date": "2024-04-15",
+    "value": 62.18953,
+    "value_": 62.18953
+  },
+  {
+    "geoid": "51179",
+    "key": "hotel-revpar",
+    "date": "2025-04-15",
+    "value": 57.20125,
+    "value_": 57.20125
+  },
+  {
+    "geoid": "51179",
+    "key": "hotel-revpar",
+    "date": "2026-04-15",
+    "value": 64.33477,
+    "value_": 64.33477
+  },
+  {
+    "geoid": "51600",
+    "key": "hotel-revpar",
+    "date": "2021-04-15",
+    "value": 49.99938,
+    "value_": 49.99938
+  },
+  {
+    "geoid": "51600",
+    "key": "hotel-revpar",
+    "date": "2022-04-15",
+    "value": 88.59218,
+    "value_": 88.59218
+  },
+  {
+    "geoid": "51600",
+    "key": "hotel-revpar",
+    "date": "2023-04-15",
+    "value": 107.41469,
+    "value_": 107.41469
+  },
+  {
+    "geoid": "51600",
+    "key": "hotel-revpar",
+    "date": "2024-04-15",
+    "value": 124.878,
+    "value_": 124.878
+  },
+  {
+    "geoid": "51600",
+    "key": "hotel-revpar",
+    "date": "2025-04-15",
+    "value": 119.77166,
+    "value_": 119.77166
+  },
+  {
+    "geoid": "51600",
+    "key": "hotel-revpar",
+    "date": "2026-04-15",
+    "value": 128.10123,
+    "value_": 128.10123
+  },
+  {
+    "geoid": "99997",
+    "key": "hotel-revpar",
+    "date": "2021-04-15",
+    "value": 88.92061,
+    "value_": 88.92061
+  },
+  {
+    "geoid": "99997",
+    "key": "hotel-revpar",
+    "date": "2022-04-15",
+    "value": 91.4002,
+    "value_": 91.4002
+  },
+  {
+    "geoid": "99997",
+    "key": "hotel-revpar",
+    "date": "2023-04-15",
+    "value": 87.80678,
+    "value_": 87.80678
+  },
+  {
+    "geoid": "99997",
+    "key": "hotel-revpar",
+    "date": "2024-04-15",
+    "value": 88.90322,
+    "value_": 88.90322
+  },
+  {
+    "geoid": "99997",
+    "key": "hotel-revpar",
+    "date": "2025-04-15",
+    "value": 88.8255,
+    "value_": 88.8255
+  },
+  {
+    "geoid": "99997",
+    "key": "hotel-revpar",
+    "date": "2026-04-15",
+    "value": 86.67837,
+    "value_": 86.67837
+  },
+  {
+    "geoid": "11001",
+    "key": "hotel-revpar",
+    "date": "2021-05-15",
+    "value": 67.54207,
+    "value_": 67.54207
+  },
+  {
+    "geoid": "11001",
+    "key": "hotel-revpar",
+    "date": "2022-05-15",
+    "value": 200.15083,
+    "value_": 200.15083
+  },
+  {
+    "geoid": "11001",
+    "key": "hotel-revpar",
+    "date": "2023-05-15",
+    "value": 229.13777,
+    "value_": 229.13777
+  },
+  {
+    "geoid": "11001",
+    "key": "hotel-revpar",
+    "date": "2024-05-15",
+    "value": 235.90945,
+    "value_": 235.90945
+  },
+  {
+    "geoid": "11001",
+    "key": "hotel-revpar",
+    "date": "2025-05-15",
+    "value": 224.4411,
+    "value_": 224.4411
+  },
+  {
+    "geoid": "23420",
+    "key": "hotel-revpar",
+    "date": "2021-05-15",
+    "value": 89.40417,
+    "value_": 89.40417
+  },
+  {
+    "geoid": "23420",
+    "key": "hotel-revpar",
+    "date": "2022-05-15",
+    "value": 84.11753,
+    "value_": 84.11753
+  },
+  {
+    "geoid": "23420",
+    "key": "hotel-revpar",
+    "date": "2023-05-15",
+    "value": 84.20574,
+    "value_": 84.20574
+  },
+  {
+    "geoid": "23420",
+    "key": "hotel-revpar",
+    "date": "2024-05-15",
+    "value": 88.87845,
+    "value_": 88.87845
+  },
+  {
+    "geoid": "23420",
+    "key": "hotel-revpar",
+    "date": "2025-05-15",
+    "value": 91.95855,
+    "value_": 91.95855
+  },
+  {
+    "geoid": "24017",
+    "key": "hotel-revpar",
+    "date": "2021-05-15",
+    "value": 80.08247,
+    "value_": 80.08247
+  },
+  {
+    "geoid": "24017",
+    "key": "hotel-revpar",
+    "date": "2022-05-15",
+    "value": 76.32257,
+    "value_": 76.32257
+  },
+  {
+    "geoid": "24017",
+    "key": "hotel-revpar",
+    "date": "2023-05-15",
+    "value": 80.14377,
+    "value_": 80.14377
+  },
+  {
+    "geoid": "24017",
+    "key": "hotel-revpar",
+    "date": "2024-05-15",
+    "value": 81.15611,
+    "value_": 81.15611
+  },
+  {
+    "geoid": "24017",
+    "key": "hotel-revpar",
+    "date": "2025-05-15",
+    "value": 77.85155,
+    "value_": 77.85155
+  },
+  {
+    "geoid": "24031",
+    "key": "hotel-revpar",
+    "date": "2021-05-15",
+    "value": 51.48451,
+    "value_": 51.48451
+  },
+  {
+    "geoid": "24031",
+    "key": "hotel-revpar",
+    "date": "2022-05-15",
+    "value": 102.62584,
+    "value_": 102.62584
+  },
+  {
+    "geoid": "24031",
+    "key": "hotel-revpar",
+    "date": "2023-05-15",
+    "value": 123.00843,
+    "value_": 123.00843
+  },
+  {
+    "geoid": "24031",
+    "key": "hotel-revpar",
+    "date": "2024-05-15",
+    "value": 130.27621,
+    "value_": 130.27621
+  },
+  {
+    "geoid": "24031",
+    "key": "hotel-revpar",
+    "date": "2025-05-15",
+    "value": 117.66835,
+    "value_": 117.66835
+  },
+  {
+    "geoid": "24033",
+    "key": "hotel-revpar",
+    "date": "2021-05-15",
+    "value": 66.69626,
+    "value_": 66.69626
+  },
+  {
+    "geoid": "24033",
+    "key": "hotel-revpar",
+    "date": "2022-05-15",
+    "value": 106.09488,
+    "value_": 106.09488
+  },
+  {
+    "geoid": "24033",
+    "key": "hotel-revpar",
+    "date": "2023-05-15",
+    "value": 121.48538,
+    "value_": 121.48538
+  },
+  {
+    "geoid": "24033",
+    "key": "hotel-revpar",
+    "date": "2024-05-15",
+    "value": 119.43199,
+    "value_": 119.43199
+  },
+  {
+    "geoid": "24033",
+    "key": "hotel-revpar",
+    "date": "2025-05-15",
+    "value": 118.04524,
+    "value_": 118.04524
+  },
+  {
+    "geoid": "39300",
+    "key": "hotel-revpar",
+    "date": "2021-05-15",
+    "value": 79.03616,
+    "value_": 79.03616
+  },
+  {
+    "geoid": "39300",
+    "key": "hotel-revpar",
+    "date": "2022-05-15",
+    "value": 104.44708,
+    "value_": 104.44708
+  },
+  {
+    "geoid": "39300",
+    "key": "hotel-revpar",
+    "date": "2023-05-15",
+    "value": 109.32986,
+    "value_": 109.32986
+  },
+  {
+    "geoid": "39300",
+    "key": "hotel-revpar",
+    "date": "2024-05-15",
+    "value": 120.10767,
+    "value_": 120.10767
+  },
+  {
+    "geoid": "39300",
+    "key": "hotel-revpar",
+    "date": "2025-05-15",
+    "value": 138.11889,
+    "value_": 138.11889
+  },
+  {
+    "geoid": "40140",
+    "key": "hotel-revpar",
+    "date": "2021-05-15",
+    "value": 112.42094,
+    "value_": 112.42094
+  },
+  {
+    "geoid": "40140",
+    "key": "hotel-revpar",
+    "date": "2022-05-15",
+    "value": 96.26836,
+    "value_": 96.26836
+  },
+  {
+    "geoid": "40140",
+    "key": "hotel-revpar",
+    "date": "2023-05-15",
+    "value": 87.57034,
+    "value_": 87.57034
+  },
+  {
+    "geoid": "40140",
+    "key": "hotel-revpar",
+    "date": "2024-05-15",
+    "value": 82.35959,
+    "value_": 82.35959
+  },
+  {
+    "geoid": "40140",
+    "key": "hotel-revpar",
+    "date": "2025-05-15",
+    "value": 82.88598,
+    "value_": 82.88598
+  },
+  {
+    "geoid": "51013",
+    "key": "hotel-revpar",
+    "date": "2021-05-15",
+    "value": 66.69626,
+    "value_": 66.69626
+  },
+  {
+    "geoid": "51013",
+    "key": "hotel-revpar",
+    "date": "2022-05-15",
+    "value": 106.09488,
+    "value_": 106.09488
+  },
+  {
+    "geoid": "51013",
+    "key": "hotel-revpar",
+    "date": "2023-05-15",
+    "value": 121.48538,
+    "value_": 121.48538
+  },
+  {
+    "geoid": "51013",
+    "key": "hotel-revpar",
+    "date": "2024-05-15",
+    "value": 119.43199,
+    "value_": 119.43199
+  },
+  {
+    "geoid": "51013",
+    "key": "hotel-revpar",
+    "date": "2025-05-15",
+    "value": 118.04524,
+    "value_": 118.04524
+  },
+  {
+    "geoid": "51061",
+    "key": "hotel-revpar",
+    "date": "2021-05-15",
+    "value": 72.67236,
+    "value_": 72.67236
+  },
+  {
+    "geoid": "51061",
+    "key": "hotel-revpar",
+    "date": "2022-05-15",
+    "value": 79.12721,
+    "value_": 79.12721
+  },
+  {
+    "geoid": "51061",
+    "key": "hotel-revpar",
+    "date": "2023-05-15",
+    "value": 87.85445,
+    "value_": 87.85445
+  },
+  {
+    "geoid": "51061",
+    "key": "hotel-revpar",
+    "date": "2024-05-15",
+    "value": 92.11248,
+    "value_": 92.11248
+  },
+  {
+    "geoid": "51061",
+    "key": "hotel-revpar",
+    "date": "2025-05-15",
+    "value": 85.92754,
+    "value_": 85.92754
+  },
+  {
+    "geoid": "51107",
+    "key": "hotel-revpar",
+    "date": "2021-05-15",
+    "value": 80.93528,
+    "value_": 80.93528
+  },
+  {
+    "geoid": "51107",
+    "key": "hotel-revpar",
+    "date": "2022-05-15",
+    "value": 110.57641,
+    "value_": 110.57641
+  },
+  {
+    "geoid": "51107",
+    "key": "hotel-revpar",
+    "date": "2023-05-15",
+    "value": 126.75521,
+    "value_": 126.75521
+  },
+  {
+    "geoid": "51107",
+    "key": "hotel-revpar",
+    "date": "2024-05-15",
+    "value": 130.67101,
+    "value_": 130.67101
+  },
+  {
+    "geoid": "51107",
+    "key": "hotel-revpar",
+    "date": "2025-05-15",
+    "value": 135.4659,
+    "value_": 135.4659
+  },
+  {
+    "geoid": "51153",
+    "key": "hotel-revpar",
+    "date": "2021-05-15",
+    "value": 60.76009,
+    "value_": 60.76009
+  },
+  {
+    "geoid": "51153",
+    "key": "hotel-revpar",
+    "date": "2022-05-15",
+    "value": 74.1866,
+    "value_": 74.1866
+  },
+  {
+    "geoid": "51153",
+    "key": "hotel-revpar",
+    "date": "2023-05-15",
+    "value": 80.31659,
+    "value_": 80.31659
+  },
+  {
+    "geoid": "51153",
+    "key": "hotel-revpar",
+    "date": "2024-05-15",
+    "value": 87.0336,
+    "value_": 87.0336
+  },
+  {
+    "geoid": "51153",
+    "key": "hotel-revpar",
+    "date": "2025-05-15",
+    "value": 90.23172,
+    "value_": 90.23172
+  },
+  {
+    "geoid": "51179",
+    "key": "hotel-revpar",
+    "date": "2021-05-15",
+    "value": 60.16773,
+    "value_": 60.16773
+  },
+  {
+    "geoid": "51179",
+    "key": "hotel-revpar",
+    "date": "2022-05-15",
+    "value": 65.48832,
+    "value_": 65.48832
+  },
+  {
+    "geoid": "51179",
+    "key": "hotel-revpar",
+    "date": "2023-05-15",
+    "value": 60.25445,
+    "value_": 60.25445
+  },
+  {
+    "geoid": "51179",
+    "key": "hotel-revpar",
+    "date": "2024-05-15",
+    "value": 63.05572,
+    "value_": 63.05572
+  },
+  {
+    "geoid": "51179",
+    "key": "hotel-revpar",
+    "date": "2025-05-15",
+    "value": 64.17164,
+    "value_": 64.17164
+  },
+  {
+    "geoid": "51600",
+    "key": "hotel-revpar",
+    "date": "2021-05-15",
+    "value": 55.45202,
+    "value_": 55.45202
+  },
+  {
+    "geoid": "51600",
+    "key": "hotel-revpar",
+    "date": "2022-05-15",
+    "value": 99.50252,
+    "value_": 99.50252
+  },
+  {
+    "geoid": "51600",
+    "key": "hotel-revpar",
+    "date": "2023-05-15",
+    "value": 118.72376,
+    "value_": 118.72376
+  },
+  {
+    "geoid": "51600",
+    "key": "hotel-revpar",
+    "date": "2024-05-15",
+    "value": 125.12592,
+    "value_": 125.12592
+  },
+  {
+    "geoid": "51600",
+    "key": "hotel-revpar",
+    "date": "2025-05-15",
+    "value": 123.65437,
+    "value_": 123.65437
+  },
+  {
+    "geoid": "99997",
+    "key": "hotel-revpar",
+    "date": "2021-05-15",
+    "value": 93.88609,
+    "value_": 93.88609
+  },
+  {
+    "geoid": "99997",
+    "key": "hotel-revpar",
+    "date": "2022-05-15",
+    "value": 93.9891,
+    "value_": 93.9891
+  },
+  {
+    "geoid": "99997",
+    "key": "hotel-revpar",
+    "date": "2023-05-15",
+    "value": 92.30006,
+    "value_": 92.30006
+  },
+  {
+    "geoid": "99997",
+    "key": "hotel-revpar",
+    "date": "2024-05-15",
+    "value": 95.13548,
+    "value_": 95.13548
+  },
+  {
+    "geoid": "99997",
+    "key": "hotel-revpar",
+    "date": "2025-05-15",
+    "value": 101.25577,
+    "value_": 101.25577
+  },
+  {
+    "geoid": "11001",
+    "key": "hotel-revpar",
+    "date": "2021-06-15",
+    "value": 68.5946,
+    "value_": 68.5946
+  },
+  {
+    "geoid": "11001",
+    "key": "hotel-revpar",
+    "date": "2022-06-15",
+    "value": 193.12759,
+    "value_": 193.12759
+  },
+  {
+    "geoid": "11001",
+    "key": "hotel-revpar",
+    "date": "2023-06-15",
+    "value": 202.89551,
+    "value_": 202.89551
+  },
+  {
+    "geoid": "11001",
+    "key": "hotel-revpar",
+    "date": "2024-06-15",
+    "value": 219.70233,
+    "value_": 219.70233
+  },
+  {
+    "geoid": "11001",
+    "key": "hotel-revpar",
+    "date": "2025-06-15",
+    "value": 220.5871,
+    "value_": 220.5871
+  },
+  {
+    "geoid": "23420",
+    "key": "hotel-revpar",
+    "date": "2021-06-15",
+    "value": 94.27009,
+    "value_": 94.27009
+  },
+  {
+    "geoid": "23420",
+    "key": "hotel-revpar",
+    "date": "2022-06-15",
+    "value": 87.54433,
+    "value_": 87.54433
+  },
+  {
+    "geoid": "23420",
+    "key": "hotel-revpar",
+    "date": "2023-06-15",
+    "value": 86.18848,
+    "value_": 86.18848
+  },
+  {
+    "geoid": "23420",
+    "key": "hotel-revpar",
+    "date": "2024-06-15",
+    "value": 88.81915,
+    "value_": 88.81915
+  },
+  {
+    "geoid": "23420",
+    "key": "hotel-revpar",
+    "date": "2025-06-15",
+    "value": 88.45221,
+    "value_": 88.45221
+  },
+  {
+    "geoid": "24017",
+    "key": "hotel-revpar",
+    "date": "2021-06-15",
+    "value": 80.89408,
+    "value_": 80.89408
+  },
+  {
+    "geoid": "24017",
+    "key": "hotel-revpar",
+    "date": "2022-06-15",
+    "value": 83.05577,
+    "value_": 83.05577
+  },
+  {
+    "geoid": "24017",
+    "key": "hotel-revpar",
+    "date": "2023-06-15",
+    "value": 86.18637,
+    "value_": 86.18637
+  },
+  {
+    "geoid": "24017",
+    "key": "hotel-revpar",
+    "date": "2024-06-15",
+    "value": 82.57979,
+    "value_": 82.57979
+  },
+  {
+    "geoid": "24017",
+    "key": "hotel-revpar",
+    "date": "2025-06-15",
+    "value": 85.70819,
+    "value_": 85.70819
+  },
+  {
+    "geoid": "24031",
+    "key": "hotel-revpar",
+    "date": "2021-06-15",
+    "value": 62.49261,
+    "value_": 62.49261
+  },
+  {
+    "geoid": "24031",
+    "key": "hotel-revpar",
+    "date": "2022-06-15",
+    "value": 103.14779,
+    "value_": 103.14779
+  },
+  {
+    "geoid": "24031",
+    "key": "hotel-revpar",
+    "date": "2023-06-15",
+    "value": 118.9324,
+    "value_": 118.9324
+  },
+  {
+    "geoid": "24031",
+    "key": "hotel-revpar",
+    "date": "2024-06-15",
+    "value": 126.06773,
+    "value_": 126.06773
+  },
+  {
+    "geoid": "24031",
+    "key": "hotel-revpar",
+    "date": "2025-06-15",
+    "value": 117.56458,
+    "value_": 117.56458
+  },
+  {
+    "geoid": "24033",
+    "key": "hotel-revpar",
+    "date": "2021-06-15",
+    "value": 67.46412,
+    "value_": 67.46412
+  },
+  {
+    "geoid": "24033",
+    "key": "hotel-revpar",
+    "date": "2022-06-15",
+    "value": 111.87571,
+    "value_": 111.87571
+  },
+  {
+    "geoid": "24033",
+    "key": "hotel-revpar",
+    "date": "2023-06-15",
+    "value": 114.97952,
+    "value_": 114.97952
+  },
+  {
+    "geoid": "24033",
+    "key": "hotel-revpar",
+    "date": "2024-06-15",
+    "value": 124.0568,
+    "value_": 124.0568
+  },
+  {
+    "geoid": "24033",
+    "key": "hotel-revpar",
+    "date": "2025-06-15",
+    "value": 118.22763,
+    "value_": 118.22763
+  },
+  {
+    "geoid": "39300",
+    "key": "hotel-revpar",
+    "date": "2021-06-15",
+    "value": 90.42738,
+    "value_": 90.42738
+  },
+  {
+    "geoid": "39300",
+    "key": "hotel-revpar",
+    "date": "2022-06-15",
+    "value": 114.62983,
+    "value_": 114.62983
+  },
+  {
+    "geoid": "39300",
+    "key": "hotel-revpar",
+    "date": "2023-06-15",
+    "value": 127.79707,
+    "value_": 127.79707
+  },
+  {
+    "geoid": "39300",
+    "key": "hotel-revpar",
+    "date": "2024-06-15",
+    "value": 132.58116,
+    "value_": 132.58116
+  },
+  {
+    "geoid": "39300",
+    "key": "hotel-revpar",
+    "date": "2025-06-15",
+    "value": 154.33288,
+    "value_": 154.33288
+  },
+  {
+    "geoid": "40140",
+    "key": "hotel-revpar",
+    "date": "2021-06-15",
+    "value": 112.26662,
+    "value_": 112.26662
+  },
+  {
+    "geoid": "40140",
+    "key": "hotel-revpar",
+    "date": "2022-06-15",
+    "value": 102.0563,
+    "value_": 102.0563
+  },
+  {
+    "geoid": "40140",
+    "key": "hotel-revpar",
+    "date": "2023-06-15",
+    "value": 91.06703,
+    "value_": 91.06703
+  },
+  {
+    "geoid": "40140",
+    "key": "hotel-revpar",
+    "date": "2024-06-15",
+    "value": 92.63875,
+    "value_": 92.63875
+  },
+  {
+    "geoid": "40140",
+    "key": "hotel-revpar",
+    "date": "2025-06-15",
+    "value": 88.48318,
+    "value_": 88.48318
+  },
+  {
+    "geoid": "51013",
+    "key": "hotel-revpar",
+    "date": "2021-06-15",
+    "value": 67.46412,
+    "value_": 67.46412
+  },
+  {
+    "geoid": "51013",
+    "key": "hotel-revpar",
+    "date": "2022-06-15",
+    "value": 111.87571,
+    "value_": 111.87571
+  },
+  {
+    "geoid": "51013",
+    "key": "hotel-revpar",
+    "date": "2023-06-15",
+    "value": 114.97952,
+    "value_": 114.97952
+  },
+  {
+    "geoid": "51013",
+    "key": "hotel-revpar",
+    "date": "2024-06-15",
+    "value": 124.0568,
+    "value_": 124.0568
+  },
+  {
+    "geoid": "51013",
+    "key": "hotel-revpar",
+    "date": "2025-06-15",
+    "value": 118.22763,
+    "value_": 118.22763
+  },
+  {
+    "geoid": "51061",
+    "key": "hotel-revpar",
+    "date": "2021-06-15",
+    "value": 72.53402,
+    "value_": 72.53402
+  },
+  {
+    "geoid": "51061",
+    "key": "hotel-revpar",
+    "date": "2022-06-15",
+    "value": 93.28056,
+    "value_": 93.28056
+  },
+  {
+    "geoid": "51061",
+    "key": "hotel-revpar",
+    "date": "2023-06-15",
+    "value": 87.11992,
+    "value_": 87.11992
+  },
+  {
+    "geoid": "51061",
+    "key": "hotel-revpar",
+    "date": "2024-06-15",
+    "value": 87.3334,
+    "value_": 87.3334
+  },
+  {
+    "geoid": "51061",
+    "key": "hotel-revpar",
+    "date": "2025-06-15",
+    "value": 78.20775,
+    "value_": 78.20775
+  },
+  {
+    "geoid": "51107",
+    "key": "hotel-revpar",
+    "date": "2021-06-15",
+    "value": 90.55142,
+    "value_": 90.55142
+  },
+  {
+    "geoid": "51107",
+    "key": "hotel-revpar",
+    "date": "2022-06-15",
+    "value": 119.26804,
+    "value_": 119.26804
+  },
+  {
+    "geoid": "51107",
+    "key": "hotel-revpar",
+    "date": "2023-06-15",
+    "value": 126.19888,
+    "value_": 126.19888
+  },
+  {
+    "geoid": "51107",
+    "key": "hotel-revpar",
+    "date": "2024-06-15",
+    "value": 132.08699,
+    "value_": 132.08699
+  },
+  {
+    "geoid": "51107",
+    "key": "hotel-revpar",
+    "date": "2025-06-15",
+    "value": 142.87873,
+    "value_": 142.87873
+  },
+  {
+    "geoid": "51153",
+    "key": "hotel-revpar",
+    "date": "2021-06-15",
+    "value": 65.52561,
+    "value_": 65.52561
+  },
+  {
+    "geoid": "51153",
+    "key": "hotel-revpar",
+    "date": "2022-06-15",
+    "value": 82.39309,
+    "value_": 82.39309
+  },
+  {
+    "geoid": "51153",
+    "key": "hotel-revpar",
+    "date": "2023-06-15",
+    "value": 82.97073,
+    "value_": 82.97073
+  },
+  {
+    "geoid": "51153",
+    "key": "hotel-revpar",
+    "date": "2024-06-15",
+    "value": 85.67766,
+    "value_": 85.67766
+  },
+  {
+    "geoid": "51153",
+    "key": "hotel-revpar",
+    "date": "2025-06-15",
+    "value": 90.8303,
+    "value_": 90.8303
+  },
+  {
+    "geoid": "51179",
+    "key": "hotel-revpar",
+    "date": "2021-06-15",
+    "value": 63.76621,
+    "value_": 63.76621
+  },
+  {
+    "geoid": "51179",
+    "key": "hotel-revpar",
+    "date": "2022-06-15",
+    "value": 69.30281,
+    "value_": 69.30281
+  },
+  {
+    "geoid": "51179",
+    "key": "hotel-revpar",
+    "date": "2023-06-15",
+    "value": 60.59331,
+    "value_": 60.59331
+  },
+  {
+    "geoid": "51179",
+    "key": "hotel-revpar",
+    "date": "2024-06-15",
+    "value": 62.05361,
+    "value_": 62.05361
+  },
+  {
+    "geoid": "51179",
+    "key": "hotel-revpar",
+    "date": "2025-06-15",
+    "value": 63.86703,
+    "value_": 63.86703
+  },
+  {
+    "geoid": "51600",
+    "key": "hotel-revpar",
+    "date": "2021-06-15",
+    "value": 62.92721,
+    "value_": 62.92721
+  },
+  {
+    "geoid": "51600",
+    "key": "hotel-revpar",
+    "date": "2022-06-15",
+    "value": 106.11441,
+    "value_": 106.11441
+  },
+  {
+    "geoid": "51600",
+    "key": "hotel-revpar",
+    "date": "2023-06-15",
+    "value": 115.25409,
+    "value_": 115.25409
+  },
+  {
+    "geoid": "51600",
+    "key": "hotel-revpar",
+    "date": "2024-06-15",
+    "value": 122.25654,
+    "value_": 122.25654
+  },
+  {
+    "geoid": "51600",
+    "key": "hotel-revpar",
+    "date": "2025-06-15",
+    "value": 131.31153,
+    "value_": 131.31153
+  },
+  {
+    "geoid": "99997",
+    "key": "hotel-revpar",
+    "date": "2021-06-15",
+    "value": 98.96211,
+    "value_": 98.96211
+  },
+  {
+    "geoid": "99997",
+    "key": "hotel-revpar",
+    "date": "2022-06-15",
+    "value": 100.10944,
+    "value_": 100.10944
+  },
+  {
+    "geoid": "99997",
+    "key": "hotel-revpar",
+    "date": "2023-06-15",
+    "value": 99.35794,
+    "value_": 99.35794
+  },
+  {
+    "geoid": "99997",
+    "key": "hotel-revpar",
+    "date": "2024-06-15",
+    "value": 102.22094,
+    "value_": 102.22094
+  },
+  {
+    "geoid": "99997",
+    "key": "hotel-revpar",
+    "date": "2025-06-15",
+    "value": 106.22543,
+    "value_": 106.22543
+  },
+  {
+    "geoid": "11001",
+    "key": "hotel-revpar",
+    "date": "2021-07-15",
+    "value": 82.03654,
+    "value_": 82.03654
+  },
+  {
+    "geoid": "11001",
+    "key": "hotel-revpar",
+    "date": "2022-07-15",
+    "value": 150.0113,
+    "value_": 150.0113
+  },
+  {
+    "geoid": "11001",
+    "key": "hotel-revpar",
+    "date": "2023-07-15",
+    "value": 160.23921,
+    "value_": 160.23921
+  },
+  {
+    "geoid": "11001",
+    "key": "hotel-revpar",
+    "date": "2024-07-15",
+    "value": 169.48321,
+    "value_": 169.48321
+  },
+  {
+    "geoid": "11001",
+    "key": "hotel-revpar",
+    "date": "2025-07-15",
+    "value": 162.54466,
+    "value_": 162.54466
+  },
+  {
+    "geoid": "23420",
+    "key": "hotel-revpar",
+    "date": "2021-07-15",
+    "value": 95.44245,
+    "value_": 95.44245
+  },
+  {
+    "geoid": "23420",
+    "key": "hotel-revpar",
+    "date": "2022-07-15",
+    "value": 88.594,
+    "value_": 88.594
+  },
+  {
+    "geoid": "23420",
+    "key": "hotel-revpar",
+    "date": "2023-07-15",
+    "value": 87.83024,
+    "value_": 87.83024
+  },
+  {
+    "geoid": "23420",
+    "key": "hotel-revpar",
+    "date": "2024-07-15",
+    "value": 87.87964,
+    "value_": 87.87964
+  },
+  {
+    "geoid": "23420",
+    "key": "hotel-revpar",
+    "date": "2025-07-15",
+    "value": 89.49283,
+    "value_": 89.49283
+  },
+  {
+    "geoid": "24017",
+    "key": "hotel-revpar",
+    "date": "2021-07-15",
+    "value": 74.7186,
+    "value_": 74.7186
+  },
+  {
+    "geoid": "24017",
+    "key": "hotel-revpar",
+    "date": "2022-07-15",
+    "value": 78.80199,
+    "value_": 78.80199
+  },
+  {
+    "geoid": "24017",
+    "key": "hotel-revpar",
+    "date": "2023-07-15",
+    "value": 72.81628,
+    "value_": 72.81628
+  },
+  {
+    "geoid": "24017",
+    "key": "hotel-revpar",
+    "date": "2024-07-15",
+    "value": 71.27744,
+    "value_": 71.27744
+  },
+  {
+    "geoid": "24017",
+    "key": "hotel-revpar",
+    "date": "2025-07-15",
+    "value": 77.24145,
+    "value_": 77.24145
+  },
+  {
+    "geoid": "24031",
+    "key": "hotel-revpar",
+    "date": "2021-07-15",
+    "value": 68.34095,
+    "value_": 68.34095
+  },
+  {
+    "geoid": "24031",
+    "key": "hotel-revpar",
+    "date": "2022-07-15",
+    "value": 85.88379,
+    "value_": 85.88379
+  },
+  {
+    "geoid": "24031",
+    "key": "hotel-revpar",
+    "date": "2023-07-15",
+    "value": 90.21665,
+    "value_": 90.21665
+  },
+  {
+    "geoid": "24031",
+    "key": "hotel-revpar",
+    "date": "2024-07-15",
+    "value": 97.66394,
+    "value_": 97.66394
+  },
+  {
+    "geoid": "24031",
+    "key": "hotel-revpar",
+    "date": "2025-07-15",
+    "value": 98.84483,
+    "value_": 98.84483
+  },
+  {
+    "geoid": "24033",
+    "key": "hotel-revpar",
+    "date": "2021-07-15",
+    "value": 69.99707,
+    "value_": 69.99707
+  },
+  {
+    "geoid": "24033",
+    "key": "hotel-revpar",
+    "date": "2022-07-15",
+    "value": 97.81453,
+    "value_": 97.81453
+  },
+  {
+    "geoid": "24033",
+    "key": "hotel-revpar",
+    "date": "2023-07-15",
+    "value": 96.16934,
+    "value_": 96.16934
+  },
+  {
+    "geoid": "24033",
+    "key": "hotel-revpar",
+    "date": "2024-07-15",
+    "value": 104.68636,
+    "value_": 104.68636
+  },
+  {
+    "geoid": "24033",
+    "key": "hotel-revpar",
+    "date": "2025-07-15",
+    "value": 101.81342,
+    "value_": 101.81342
+  },
+  {
+    "geoid": "39300",
+    "key": "hotel-revpar",
+    "date": "2021-07-15",
+    "value": 111.0003,
+    "value_": 111.0003
+  },
+  {
+    "geoid": "39300",
+    "key": "hotel-revpar",
+    "date": "2022-07-15",
+    "value": 140.17455,
+    "value_": 140.17455
+  },
+  {
+    "geoid": "39300",
+    "key": "hotel-revpar",
+    "date": "2023-07-15",
+    "value": 127.59535,
+    "value_": 127.59535
+  },
+  {
+    "geoid": "39300",
+    "key": "hotel-revpar",
+    "date": "2024-07-15",
+    "value": 146.07569,
+    "value_": 146.07569
+  },
+  {
+    "geoid": "39300",
+    "key": "hotel-revpar",
+    "date": "2025-07-15",
+    "value": 158.94502,
+    "value_": 158.94502
+  },
+  {
+    "geoid": "40140",
+    "key": "hotel-revpar",
+    "date": "2021-07-15",
+    "value": 112.88676,
+    "value_": 112.88676
+  },
+  {
+    "geoid": "40140",
+    "key": "hotel-revpar",
+    "date": "2022-07-15",
+    "value": 106.94718,
+    "value_": 106.94718
+  },
+  {
+    "geoid": "40140",
+    "key": "hotel-revpar",
+    "date": "2023-07-15",
+    "value": 90.19452,
+    "value_": 90.19452
+  },
+  {
+    "geoid": "40140",
+    "key": "hotel-revpar",
+    "date": "2024-07-15",
+    "value": 86.26009,
+    "value_": 86.26009
+  },
+  {
+    "geoid": "40140",
+    "key": "hotel-revpar",
+    "date": "2025-07-15",
+    "value": 85.20083,
+    "value_": 85.20083
+  },
+  {
+    "geoid": "51013",
+    "key": "hotel-revpar",
+    "date": "2021-07-15",
+    "value": 69.99707,
+    "value_": 69.99707
+  },
+  {
+    "geoid": "51013",
+    "key": "hotel-revpar",
+    "date": "2022-07-15",
+    "value": 97.81453,
+    "value_": 97.81453
+  },
+  {
+    "geoid": "51013",
+    "key": "hotel-revpar",
+    "date": "2023-07-15",
+    "value": 96.16934,
+    "value_": 96.16934
+  },
+  {
+    "geoid": "51013",
+    "key": "hotel-revpar",
+    "date": "2024-07-15",
+    "value": 104.68636,
+    "value_": 104.68636
+  },
+  {
+    "geoid": "51013",
+    "key": "hotel-revpar",
+    "date": "2025-07-15",
+    "value": 101.81342,
+    "value_": 101.81342
+  },
+  {
+    "geoid": "51061",
+    "key": "hotel-revpar",
+    "date": "2021-07-15",
+    "value": 64.43716,
+    "value_": 64.43716
+  },
+  {
+    "geoid": "51061",
+    "key": "hotel-revpar",
+    "date": "2022-07-15",
+    "value": 82.10039,
+    "value_": 82.10039
+  },
+  {
+    "geoid": "51061",
+    "key": "hotel-revpar",
+    "date": "2023-07-15",
+    "value": 70.48407,
+    "value_": 70.48407
+  },
+  {
+    "geoid": "51061",
+    "key": "hotel-revpar",
+    "date": "2024-07-15",
+    "value": 78.75966,
+    "value_": 78.75966
+  },
+  {
+    "geoid": "51061",
+    "key": "hotel-revpar",
+    "date": "2025-07-15",
+    "value": 76.77482,
+    "value_": 76.77482
+  },
+  {
+    "geoid": "51107",
+    "key": "hotel-revpar",
+    "date": "2021-07-15",
+    "value": 88.04466,
+    "value_": 88.04466
+  },
+  {
+    "geoid": "51107",
+    "key": "hotel-revpar",
+    "date": "2022-07-15",
+    "value": 109.50089,
+    "value_": 109.50089
+  },
+  {
+    "geoid": "51107",
+    "key": "hotel-revpar",
+    "date": "2023-07-15",
+    "value": 104.0717,
+    "value_": 104.0717
+  },
+  {
+    "geoid": "51107",
+    "key": "hotel-revpar",
+    "date": "2024-07-15",
+    "value": 112.61901,
+    "value_": 112.61901
+  },
+  {
+    "geoid": "51107",
+    "key": "hotel-revpar",
+    "date": "2025-07-15",
+    "value": 125.10887,
+    "value_": 125.10887
+  },
+  {
+    "geoid": "51153",
+    "key": "hotel-revpar",
+    "date": "2021-07-15",
+    "value": 63.10241,
+    "value_": 63.10241
+  },
+  {
+    "geoid": "51153",
+    "key": "hotel-revpar",
+    "date": "2022-07-15",
+    "value": 75.33751,
+    "value_": 75.33751
+  },
+  {
+    "geoid": "51153",
+    "key": "hotel-revpar",
+    "date": "2023-07-15",
+    "value": 71.85037,
+    "value_": 71.85037
+  },
+  {
+    "geoid": "51153",
+    "key": "hotel-revpar",
+    "date": "2024-07-15",
+    "value": 74.57863,
+    "value_": 74.57863
+  },
+  {
+    "geoid": "51153",
+    "key": "hotel-revpar",
+    "date": "2025-07-15",
+    "value": 76.90407,
+    "value_": 76.90407
+  },
+  {
+    "geoid": "51179",
+    "key": "hotel-revpar",
+    "date": "2021-07-15",
+    "value": 59.53076,
+    "value_": 59.53076
+  },
+  {
+    "geoid": "51179",
+    "key": "hotel-revpar",
+    "date": "2022-07-15",
+    "value": 66.35739,
+    "value_": 66.35739
+  },
+  {
+    "geoid": "51179",
+    "key": "hotel-revpar",
+    "date": "2023-07-15",
+    "value": 59.87216,
+    "value_": 59.87216
+  },
+  {
+    "geoid": "51179",
+    "key": "hotel-revpar",
+    "date": "2024-07-15",
+    "value": 57.00824,
+    "value_": 57.00824
+  },
+  {
+    "geoid": "51179",
+    "key": "hotel-revpar",
+    "date": "2025-07-15",
+    "value": 59.07843,
+    "value_": 59.07843
+  },
+  {
+    "geoid": "51600",
+    "key": "hotel-revpar",
+    "date": "2021-07-15",
+    "value": 67.20107,
+    "value_": 67.20107
+  },
+  {
+    "geoid": "51600",
+    "key": "hotel-revpar",
+    "date": "2022-07-15",
+    "value": 89.44866,
+    "value_": 89.44866
+  },
+  {
+    "geoid": "51600",
+    "key": "hotel-revpar",
+    "date": "2023-07-15",
+    "value": 93.10019,
+    "value_": 93.10019
+  },
+  {
+    "geoid": "51600",
+    "key": "hotel-revpar",
+    "date": "2024-07-15",
+    "value": 101.22328,
+    "value_": 101.22328
+  },
+  {
+    "geoid": "51600",
+    "key": "hotel-revpar",
+    "date": "2025-07-15",
+    "value": 108.78275,
+    "value_": 108.78275
+  },
+  {
+    "geoid": "99997",
+    "key": "hotel-revpar",
+    "date": "2021-07-15",
+    "value": 105.36146,
+    "value_": 105.36146
+  },
+  {
+    "geoid": "99997",
+    "key": "hotel-revpar",
+    "date": "2022-07-15",
+    "value": 109.37242,
+    "value_": 109.37242
+  },
+  {
+    "geoid": "99997",
+    "key": "hotel-revpar",
+    "date": "2023-07-15",
+    "value": 99.63195,
+    "value_": 99.63195
+  },
+  {
+    "geoid": "99997",
+    "key": "hotel-revpar",
+    "date": "2024-07-15",
+    "value": 103.26745,
+    "value_": 103.26745
+  },
+  {
+    "geoid": "99997",
+    "key": "hotel-revpar",
+    "date": "2025-07-15",
+    "value": 106.59483,
+    "value_": 106.59483
+  },
+  {
+    "geoid": "11001",
+    "key": "hotel-revpar",
+    "date": "2021-08-15",
+    "value": 83.8535,
+    "value_": 83.8535
+  },
+  {
+    "geoid": "11001",
+    "key": "hotel-revpar",
+    "date": "2022-08-15",
+    "value": 127.89761,
+    "value_": 127.89761
+  },
+  {
+    "geoid": "11001",
+    "key": "hotel-revpar",
+    "date": "2023-08-15",
+    "value": 137.8313,
+    "value_": 137.8313
+  },
+  {
+    "geoid": "11001",
+    "key": "hotel-revpar",
+    "date": "2024-08-15",
+    "value": 142.82084,
+    "value_": 142.82084
+  },
+  {
+    "geoid": "11001",
+    "key": "hotel-revpar",
+    "date": "2025-08-15",
+    "value": 124.18008,
+    "value_": 124.18008
+  },
+  {
+    "geoid": "23420",
+    "key": "hotel-revpar",
+    "date": "2021-08-15",
+    "value": 89.47533,
+    "value_": 89.47533
+  },
+  {
+    "geoid": "23420",
+    "key": "hotel-revpar",
+    "date": "2022-08-15",
+    "value": 83.14887,
+    "value_": 83.14887
+  },
+  {
+    "geoid": "23420",
+    "key": "hotel-revpar",
+    "date": "2023-08-15",
+    "value": 91.83218,
+    "value_": 91.83218
+  },
+  {
+    "geoid": "23420",
+    "key": "hotel-revpar",
+    "date": "2024-08-15",
+    "value": 83.03937,
+    "value_": 83.03937
+  },
+  {
+    "geoid": "23420",
+    "key": "hotel-revpar",
+    "date": "2025-08-15",
+    "value": 88.64803,
+    "value_": 88.64803
+  },
+  {
+    "geoid": "24017",
+    "key": "hotel-revpar",
+    "date": "2021-08-15",
+    "value": 76.02138,
+    "value_": 76.02138
+  },
+  {
+    "geoid": "24017",
+    "key": "hotel-revpar",
+    "date": "2022-08-15",
+    "value": 76.21004,
+    "value_": 76.21004
+  },
+  {
+    "geoid": "24017",
+    "key": "hotel-revpar",
+    "date": "2023-08-15",
+    "value": 76.9849,
+    "value_": 76.9849
+  },
+  {
+    "geoid": "24017",
+    "key": "hotel-revpar",
+    "date": "2024-08-15",
+    "value": 71.61878,
+    "value_": 71.61878
+  },
+  {
+    "geoid": "24017",
+    "key": "hotel-revpar",
+    "date": "2025-08-15",
+    "value": 79.23552,
+    "value_": 79.23552
+  },
+  {
+    "geoid": "24031",
+    "key": "hotel-revpar",
+    "date": "2021-08-15",
+    "value": 61.48468,
+    "value_": 61.48468
+  },
+  {
+    "geoid": "24031",
+    "key": "hotel-revpar",
+    "date": "2022-08-15",
+    "value": 75.67288,
+    "value_": 75.67288
+  },
+  {
+    "geoid": "24031",
+    "key": "hotel-revpar",
+    "date": "2023-08-15",
+    "value": 84.72388,
+    "value_": 84.72388
+  },
+  {
+    "geoid": "24031",
+    "key": "hotel-revpar",
+    "date": "2024-08-15",
+    "value": 81.99309,
+    "value_": 81.99309
+  },
+  {
+    "geoid": "24031",
+    "key": "hotel-revpar",
+    "date": "2025-08-15",
+    "value": 81.00898,
+    "value_": 81.00898
+  },
+  {
+    "geoid": "24033",
+    "key": "hotel-revpar",
+    "date": "2021-08-15",
+    "value": 78.98678,
+    "value_": 78.98678
+  },
+  {
+    "geoid": "24033",
+    "key": "hotel-revpar",
+    "date": "2022-08-15",
+    "value": 92.21272,
+    "value_": 92.21272
+  },
+  {
+    "geoid": "24033",
+    "key": "hotel-revpar",
+    "date": "2023-08-15",
+    "value": 99.03153,
+    "value_": 99.03153
+  },
+  {
+    "geoid": "24033",
+    "key": "hotel-revpar",
+    "date": "2024-08-15",
+    "value": 88.08439,
+    "value_": 88.08439
+  },
+  {
+    "geoid": "24033",
+    "key": "hotel-revpar",
+    "date": "2025-08-15",
+    "value": 97.59226,
+    "value_": 97.59226
+  },
+  {
+    "geoid": "39300",
+    "key": "hotel-revpar",
+    "date": "2021-08-15",
+    "value": 119.80633,
+    "value_": 119.80633
+  },
+  {
+    "geoid": "39300",
+    "key": "hotel-revpar",
+    "date": "2022-08-15",
+    "value": 130.10226,
+    "value_": 130.10226
+  },
+  {
+    "geoid": "39300",
+    "key": "hotel-revpar",
+    "date": "2023-08-15",
+    "value": 119.92353,
+    "value_": 119.92353
+  },
+  {
+    "geoid": "39300",
+    "key": "hotel-revpar",
+    "date": "2024-08-15",
+    "value": 146.18079,
+    "value_": 146.18079
+  },
+  {
+    "geoid": "39300",
+    "key": "hotel-revpar",
+    "date": "2025-08-15",
+    "value": 156.91764,
+    "value_": 156.91764
+  },
+  {
+    "geoid": "40140",
+    "key": "hotel-revpar",
+    "date": "2021-08-15",
+    "value": 112.10699,
+    "value_": 112.10699
+  },
+  {
+    "geoid": "40140",
+    "key": "hotel-revpar",
+    "date": "2022-08-15",
+    "value": 97.77263,
+    "value_": 97.77263
+  },
+  {
+    "geoid": "40140",
+    "key": "hotel-revpar",
+    "date": "2023-08-15",
+    "value": 90.37559,
+    "value_": 90.37559
+  },
+  {
+    "geoid": "40140",
+    "key": "hotel-revpar",
+    "date": "2024-08-15",
+    "value": 85.40516,
+    "value_": 85.40516
+  },
+  {
+    "geoid": "40140",
+    "key": "hotel-revpar",
+    "date": "2025-08-15",
+    "value": 83.40854,
+    "value_": 83.40854
+  },
+  {
+    "geoid": "51013",
+    "key": "hotel-revpar",
+    "date": "2021-08-15",
+    "value": 78.98678,
+    "value_": 78.98678
+  },
+  {
+    "geoid": "51013",
+    "key": "hotel-revpar",
+    "date": "2022-08-15",
+    "value": 92.21272,
+    "value_": 92.21272
+  },
+  {
+    "geoid": "51013",
+    "key": "hotel-revpar",
+    "date": "2023-08-15",
+    "value": 99.03153,
+    "value_": 99.03153
+  },
+  {
+    "geoid": "51013",
+    "key": "hotel-revpar",
+    "date": "2024-08-15",
+    "value": 88.08439,
+    "value_": 88.08439
+  },
+  {
+    "geoid": "51013",
+    "key": "hotel-revpar",
+    "date": "2025-08-15",
+    "value": 97.59226,
+    "value_": 97.59226
+  },
+  {
+    "geoid": "51061",
+    "key": "hotel-revpar",
+    "date": "2021-08-15",
+    "value": 62.80092,
+    "value_": 62.80092
+  },
+  {
+    "geoid": "51061",
+    "key": "hotel-revpar",
+    "date": "2022-08-15",
+    "value": 79.63189,
+    "value_": 79.63189
+  },
+  {
+    "geoid": "51061",
+    "key": "hotel-revpar",
+    "date": "2023-08-15",
+    "value": 77.72689,
+    "value_": 77.72689
+  },
+  {
+    "geoid": "51061",
+    "key": "hotel-revpar",
+    "date": "2024-08-15",
+    "value": 71.42481,
+    "value_": 71.42481
+  },
+  {
+    "geoid": "51061",
+    "key": "hotel-revpar",
+    "date": "2025-08-15",
+    "value": 73.75937,
+    "value_": 73.75937
+  },
+  {
+    "geoid": "51107",
+    "key": "hotel-revpar",
+    "date": "2021-08-15",
+    "value": 95.59215,
+    "value_": 95.59215
+  },
+  {
+    "geoid": "51107",
+    "key": "hotel-revpar",
+    "date": "2022-08-15",
+    "value": 111.47409,
+    "value_": 111.47409
+  },
+  {
+    "geoid": "51107",
+    "key": "hotel-revpar",
+    "date": "2023-08-15",
+    "value": 100.85376,
+    "value_": 100.85376
+  },
+  {
+    "geoid": "51107",
+    "key": "hotel-revpar",
+    "date": "2024-08-15",
+    "value": 110.4495,
+    "value_": 110.4495
+  },
+  {
+    "geoid": "51107",
+    "key": "hotel-revpar",
+    "date": "2025-08-15",
+    "value": 116.4298,
+    "value_": 116.4298
+  },
+  {
+    "geoid": "51153",
+    "key": "hotel-revpar",
+    "date": "2021-08-15",
+    "value": 66.60845,
+    "value_": 66.60845
+  },
+  {
+    "geoid": "51153",
+    "key": "hotel-revpar",
+    "date": "2022-08-15",
+    "value": 74.83991,
+    "value_": 74.83991
+  },
+  {
+    "geoid": "51153",
+    "key": "hotel-revpar",
+    "date": "2023-08-15",
+    "value": 77.10343,
+    "value_": 77.10343
+  },
+  {
+    "geoid": "51153",
+    "key": "hotel-revpar",
+    "date": "2024-08-15",
+    "value": 72.85141,
+    "value_": 72.85141
+  },
+  {
+    "geoid": "51153",
+    "key": "hotel-revpar",
+    "date": "2025-08-15",
+    "value": 75.10053,
+    "value_": 75.10053
+  },
+  {
+    "geoid": "51179",
+    "key": "hotel-revpar",
+    "date": "2021-08-15",
+    "value": 63.61213,
+    "value_": 63.61213
+  },
+  {
+    "geoid": "51179",
+    "key": "hotel-revpar",
+    "date": "2022-08-15",
+    "value": 65.34497,
+    "value_": 65.34497
+  },
+  {
+    "geoid": "51179",
+    "key": "hotel-revpar",
+    "date": "2023-08-15",
+    "value": 63.58601,
+    "value_": 63.58601
+  },
+  {
+    "geoid": "51179",
+    "key": "hotel-revpar",
+    "date": "2024-08-15",
+    "value": 56.21814,
+    "value_": 56.21814
+  },
+  {
+    "geoid": "51179",
+    "key": "hotel-revpar",
+    "date": "2025-08-15",
+    "value": 60.82955,
+    "value_": 60.82955
+  },
+  {
+    "geoid": "51600",
+    "key": "hotel-revpar",
+    "date": "2021-08-15",
+    "value": 71.69336,
+    "value_": 71.69336
+  },
+  {
+    "geoid": "51600",
+    "key": "hotel-revpar",
+    "date": "2022-08-15",
+    "value": 91.49561,
+    "value_": 91.49561
+  },
+  {
+    "geoid": "51600",
+    "key": "hotel-revpar",
+    "date": "2023-08-15",
+    "value": 94.4795,
+    "value_": 94.4795
+  },
+  {
+    "geoid": "51600",
+    "key": "hotel-revpar",
+    "date": "2024-08-15",
+    "value": 99.62858,
+    "value_": 99.62858
+  },
+  {
+    "geoid": "51600",
+    "key": "hotel-revpar",
+    "date": "2025-08-15",
+    "value": 99.2024,
+    "value_": 99.2024
+  },
+  {
+    "geoid": "99997",
+    "key": "hotel-revpar",
+    "date": "2021-08-15",
+    "value": 105.10093,
+    "value_": 105.10093
+  },
+  {
+    "geoid": "99997",
+    "key": "hotel-revpar",
+    "date": "2022-08-15",
+    "value": 101.35052,
+    "value_": 101.35052
+  },
+  {
+    "geoid": "99997",
+    "key": "hotel-revpar",
+    "date": "2023-08-15",
+    "value": 99.0472,
+    "value_": 99.0472
+  },
+  {
+    "geoid": "99997",
+    "key": "hotel-revpar",
+    "date": "2024-08-15",
+    "value": 101.20533,
+    "value_": 101.20533
+  },
+  {
+    "geoid": "99997",
+    "key": "hotel-revpar",
+    "date": "2025-08-15",
+    "value": 104.99555,
+    "value_": 104.99555
+  },
+  {
+    "geoid": "11001",
+    "key": "hotel-revpar",
+    "date": "2021-09-15",
+    "value": 97.28635,
+    "value_": 97.28635
+  },
+  {
+    "geoid": "11001",
+    "key": "hotel-revpar",
+    "date": "2022-09-15",
+    "value": 207.73588,
+    "value_": 207.73588
+  },
+  {
+    "geoid": "11001",
+    "key": "hotel-revpar",
+    "date": "2023-09-15",
+    "value": 221.60711,
+    "value_": 221.60711
+  },
+  {
+    "geoid": "11001",
+    "key": "hotel-revpar",
+    "date": "2024-09-15",
+    "value": 241.54498,
+    "value_": 241.54498
+  },
+  {
+    "geoid": "11001",
+    "key": "hotel-revpar",
+    "date": "2025-09-15",
+    "value": 203.71501,
+    "value_": 203.71501
+  },
+  {
+    "geoid": "23420",
+    "key": "hotel-revpar",
+    "date": "2021-09-15",
+    "value": 88.34264,
+    "value_": 88.34264
+  },
+  {
+    "geoid": "23420",
+    "key": "hotel-revpar",
+    "date": "2022-09-15",
+    "value": 87.80823,
+    "value_": 87.80823
+  },
+  {
+    "geoid": "23420",
+    "key": "hotel-revpar",
+    "date": "2023-09-15",
+    "value": 88.46725,
+    "value_": 88.46725
+  },
+  {
+    "geoid": "23420",
+    "key": "hotel-revpar",
+    "date": "2024-09-15",
+    "value": 87.00565,
+    "value_": 87.00565
+  },
+  {
+    "geoid": "23420",
+    "key": "hotel-revpar",
+    "date": "2025-09-15",
+    "value": 94.28288,
+    "value_": 94.28288
+  },
+  {
+    "geoid": "24017",
+    "key": "hotel-revpar",
+    "date": "2021-09-15",
+    "value": 75.06486,
+    "value_": 75.06486
+  },
+  {
+    "geoid": "24017",
+    "key": "hotel-revpar",
+    "date": "2022-09-15",
+    "value": 81.11932,
+    "value_": 81.11932
+  },
+  {
+    "geoid": "24017",
+    "key": "hotel-revpar",
+    "date": "2023-09-15",
+    "value": 79.06152,
+    "value_": 79.06152
+  },
+  {
+    "geoid": "24017",
+    "key": "hotel-revpar",
+    "date": "2024-09-15",
+    "value": 74.73191,
+    "value_": 74.73191
+  },
+  {
+    "geoid": "24017",
+    "key": "hotel-revpar",
+    "date": "2025-09-15",
+    "value": 76.74927,
+    "value_": 76.74927
+  },
+  {
+    "geoid": "24031",
+    "key": "hotel-revpar",
+    "date": "2021-09-15",
+    "value": 59.50232,
+    "value_": 59.50232
+  },
+  {
+    "geoid": "24031",
+    "key": "hotel-revpar",
+    "date": "2022-09-15",
+    "value": 95.53232,
+    "value_": 95.53232
+  },
+  {
+    "geoid": "24031",
+    "key": "hotel-revpar",
+    "date": "2023-09-15",
+    "value": 108.97604,
+    "value_": 108.97604
+  },
+  {
+    "geoid": "24031",
+    "key": "hotel-revpar",
+    "date": "2024-09-15",
+    "value": 117.14469,
+    "value_": 117.14469
+  },
+  {
+    "geoid": "24031",
+    "key": "hotel-revpar",
+    "date": "2025-09-15",
+    "value": 102.94135,
+    "value_": 102.94135
+  },
+  {
+    "geoid": "24033",
+    "key": "hotel-revpar",
+    "date": "2021-09-15",
+    "value": 78.38425,
+    "value_": 78.38425
+  },
+  {
+    "geoid": "24033",
+    "key": "hotel-revpar",
+    "date": "2022-09-15",
+    "value": 110.98908,
+    "value_": 110.98908
+  },
+  {
+    "geoid": "24033",
+    "key": "hotel-revpar",
+    "date": "2023-09-15",
+    "value": 115.11324,
+    "value_": 115.11324
+  },
+  {
+    "geoid": "24033",
+    "key": "hotel-revpar",
+    "date": "2024-09-15",
+    "value": 110.87952,
+    "value_": 110.87952
+  },
+  {
+    "geoid": "24033",
+    "key": "hotel-revpar",
+    "date": "2025-09-15",
+    "value": 107.30122,
+    "value_": 107.30122
+  },
+  {
+    "geoid": "39300",
+    "key": "hotel-revpar",
+    "date": "2021-09-15",
+    "value": 115.06445,
+    "value_": 115.06445
+  },
+  {
+    "geoid": "39300",
+    "key": "hotel-revpar",
+    "date": "2022-09-15",
+    "value": 129.67154,
+    "value_": 129.67154
+  },
+  {
+    "geoid": "39300",
+    "key": "hotel-revpar",
+    "date": "2023-09-15",
+    "value": 126.58195,
+    "value_": 126.58195
+  },
+  {
+    "geoid": "39300",
+    "key": "hotel-revpar",
+    "date": "2024-09-15",
+    "value": 134.56483,
+    "value_": 134.56483
+  },
+  {
+    "geoid": "39300",
+    "key": "hotel-revpar",
+    "date": "2025-09-15",
+    "value": 132.23487,
+    "value_": 132.23487
+  },
+  {
+    "geoid": "40140",
+    "key": "hotel-revpar",
+    "date": "2021-09-15",
+    "value": 106.65959,
+    "value_": 106.65959
+  },
+  {
+    "geoid": "40140",
+    "key": "hotel-revpar",
+    "date": "2022-09-15",
+    "value": 111.71681,
+    "value_": 111.71681
+  },
+  {
+    "geoid": "40140",
+    "key": "hotel-revpar",
+    "date": "2023-09-15",
+    "value": 91.12139,
+    "value_": 91.12139
+  },
+  {
+    "geoid": "40140",
+    "key": "hotel-revpar",
+    "date": "2024-09-15",
+    "value": 94.76697,
+    "value_": 94.76697
+  },
+  {
+    "geoid": "40140",
+    "key": "hotel-revpar",
+    "date": "2025-09-15",
+    "value": 85.66354,
+    "value_": 85.66354
+  },
+  {
+    "geoid": "51013",
+    "key": "hotel-revpar",
+    "date": "2021-09-15",
+    "value": 78.38425,
+    "value_": 78.38425
+  },
+  {
+    "geoid": "51013",
+    "key": "hotel-revpar",
+    "date": "2022-09-15",
+    "value": 110.98908,
+    "value_": 110.98908
+  },
+  {
+    "geoid": "51013",
+    "key": "hotel-revpar",
+    "date": "2023-09-15",
+    "value": 115.11324,
+    "value_": 115.11324
+  },
+  {
+    "geoid": "51013",
+    "key": "hotel-revpar",
+    "date": "2024-09-15",
+    "value": 110.87952,
+    "value_": 110.87952
+  },
+  {
+    "geoid": "51013",
+    "key": "hotel-revpar",
+    "date": "2025-09-15",
+    "value": 107.30122,
+    "value_": 107.30122
+  },
+  {
+    "geoid": "51061",
+    "key": "hotel-revpar",
+    "date": "2021-09-15",
+    "value": 75.77434,
+    "value_": 75.77434
+  },
+  {
+    "geoid": "51061",
+    "key": "hotel-revpar",
+    "date": "2022-09-15",
+    "value": 99.29096,
+    "value_": 99.29096
+  },
+  {
+    "geoid": "51061",
+    "key": "hotel-revpar",
+    "date": "2023-09-15",
+    "value": 97.04108,
+    "value_": 97.04108
+  },
+  {
+    "geoid": "51061",
+    "key": "hotel-revpar",
+    "date": "2024-09-15",
+    "value": 105.44912,
+    "value_": 105.44912
+  },
+  {
+    "geoid": "51061",
+    "key": "hotel-revpar",
+    "date": "2025-09-15",
+    "value": 84.40787,
+    "value_": 84.40787
+  },
+  {
+    "geoid": "51107",
+    "key": "hotel-revpar",
+    "date": "2021-09-15",
+    "value": 92.7747,
+    "value_": 92.7747
+  },
+  {
+    "geoid": "51107",
+    "key": "hotel-revpar",
+    "date": "2022-09-15",
+    "value": 115.0649,
+    "value_": 115.0649
+  },
+  {
+    "geoid": "51107",
+    "key": "hotel-revpar",
+    "date": "2023-09-15",
+    "value": 120.56257,
+    "value_": 120.56257
+  },
+  {
+    "geoid": "51107",
+    "key": "hotel-revpar",
+    "date": "2024-09-15",
+    "value": 132.86362,
+    "value_": 132.86362
+  },
+  {
+    "geoid": "51107",
+    "key": "hotel-revpar",
+    "date": "2025-09-15",
+    "value": 131.02696,
+    "value_": 131.02696
+  },
+  {
+    "geoid": "51153",
+    "key": "hotel-revpar",
+    "date": "2021-09-15",
+    "value": 67.89919,
+    "value_": 67.89919
+  },
+  {
+    "geoid": "51153",
+    "key": "hotel-revpar",
+    "date": "2022-09-15",
+    "value": 77.40442,
+    "value_": 77.40442
+  },
+  {
+    "geoid": "51153",
+    "key": "hotel-revpar",
+    "date": "2023-09-15",
+    "value": 72.58939,
+    "value_": 72.58939
+  },
+  {
+    "geoid": "51153",
+    "key": "hotel-revpar",
+    "date": "2024-09-15",
+    "value": 82.68199,
+    "value_": 82.68199
+  },
+  {
+    "geoid": "51153",
+    "key": "hotel-revpar",
+    "date": "2025-09-15",
+    "value": 76.20274,
+    "value_": 76.20274
+  },
+  {
+    "geoid": "51179",
+    "key": "hotel-revpar",
+    "date": "2021-09-15",
+    "value": 68.99113,
+    "value_": 68.99113
+  },
+  {
+    "geoid": "51179",
+    "key": "hotel-revpar",
+    "date": "2022-09-15",
+    "value": 63.27535,
+    "value_": 63.27535
+  },
+  {
+    "geoid": "51179",
+    "key": "hotel-revpar",
+    "date": "2023-09-15",
+    "value": 55.44149,
+    "value_": 55.44149
+  },
+  {
+    "geoid": "51179",
+    "key": "hotel-revpar",
+    "date": "2024-09-15",
+    "value": 55.96666,
+    "value_": 55.96666
+  },
+  {
+    "geoid": "51179",
+    "key": "hotel-revpar",
+    "date": "2025-09-15",
+    "value": 55.48111,
+    "value_": 55.48111
+  },
+  {
+    "geoid": "51600",
+    "key": "hotel-revpar",
+    "date": "2021-09-15",
+    "value": 72.89093,
+    "value_": 72.89093
+  },
+  {
+    "geoid": "51600",
+    "key": "hotel-revpar",
+    "date": "2022-09-15",
+    "value": 102.75386,
+    "value_": 102.75386
+  },
+  {
+    "geoid": "51600",
+    "key": "hotel-revpar",
+    "date": "2023-09-15",
+    "value": 111.51812,
+    "value_": 111.51812
+  },
+  {
+    "geoid": "51600",
+    "key": "hotel-revpar",
+    "date": "2024-09-15",
+    "value": 126.14259,
+    "value_": 126.14259
+  },
+  {
+    "geoid": "51600",
+    "key": "hotel-revpar",
+    "date": "2025-09-15",
+    "value": 117.65781,
+    "value_": 117.65781
+  },
+  {
+    "geoid": "99997",
+    "key": "hotel-revpar",
+    "date": "2021-09-15",
+    "value": 101.61461,
+    "value_": 101.61461
+  },
+  {
+    "geoid": "99997",
+    "key": "hotel-revpar",
+    "date": "2022-09-15",
+    "value": 107.74241,
+    "value_": 107.74241
+  },
+  {
+    "geoid": "99997",
+    "key": "hotel-revpar",
+    "date": "2023-09-15",
+    "value": 99.86516,
+    "value_": 99.86516
+  },
+  {
+    "geoid": "99997",
+    "key": "hotel-revpar",
+    "date": "2024-09-15",
+    "value": 102.82216,
+    "value_": 102.82216
+  },
+  {
+    "geoid": "99997",
+    "key": "hotel-revpar",
+    "date": "2025-09-15",
+    "value": 101.25118,
+    "value_": 101.25118
+  },
+  {
+    "geoid": "11001",
+    "key": "hotel-revpar",
+    "date": "2021-10-15",
+    "value": 133.88432,
+    "value_": 133.88432
+  },
+  {
+    "geoid": "11001",
+    "key": "hotel-revpar",
+    "date": "2022-10-15",
+    "value": 252.73134,
+    "value_": 252.73134
+  },
+  {
+    "geoid": "11001",
+    "key": "hotel-revpar",
+    "date": "2023-10-15",
+    "value": 262.2324,
+    "value_": 262.2324
+  },
+  {
+    "geoid": "11001",
+    "key": "hotel-revpar",
+    "date": "2024-10-15",
+    "value": 291.62502,
+    "value_": 291.62502
+  },
+  {
+    "geoid": "23420",
+    "key": "hotel-revpar",
+    "date": "2021-10-15",
+    "value": 89.41285,
+    "value_": 89.41285
+  },
+  {
+    "geoid": "23420",
+    "key": "hotel-revpar",
+    "date": "2022-10-15",
+    "value": 87.05383,
+    "value_": 87.05383
+  },
+  {
+    "geoid": "23420",
+    "key": "hotel-revpar",
+    "date": "2023-10-15",
+    "value": 95.10104,
+    "value_": 95.10104
+  },
+  {
+    "geoid": "23420",
+    "key": "hotel-revpar",
+    "date": "2024-10-15",
+    "value": 91.96322,
+    "value_": 91.96322
+  },
+  {
+    "geoid": "24017",
+    "key": "hotel-revpar",
+    "date": "2021-10-15",
+    "value": 79.02583,
+    "value_": 79.02583
+  },
+  {
+    "geoid": "24017",
+    "key": "hotel-revpar",
+    "date": "2022-10-15",
+    "value": 84.34019,
+    "value_": 84.34019
+  },
+  {
+    "geoid": "24017",
+    "key": "hotel-revpar",
+    "date": "2023-10-15",
+    "value": 83.62702,
+    "value_": 83.62702
+  },
+  {
+    "geoid": "24017",
+    "key": "hotel-revpar",
+    "date": "2024-10-15",
+    "value": 85.19352,
+    "value_": 85.19352
+  },
+  {
+    "geoid": "24031",
+    "key": "hotel-revpar",
+    "date": "2021-10-15",
+    "value": 79.78724,
+    "value_": 79.78724
+  },
+  {
+    "geoid": "24031",
+    "key": "hotel-revpar",
+    "date": "2022-10-15",
+    "value": 113.19725,
+    "value_": 113.19725
+  },
+  {
+    "geoid": "24031",
+    "key": "hotel-revpar",
+    "date": "2023-10-15",
+    "value": 121.98203,
+    "value_": 121.98203
+  },
+  {
+    "geoid": "24031",
+    "key": "hotel-revpar",
+    "date": "2024-10-15",
+    "value": 129.14139,
+    "value_": 129.14139
+  },
+  {
+    "geoid": "24033",
+    "key": "hotel-revpar",
+    "date": "2021-10-15",
+    "value": 90.34537,
+    "value_": 90.34537
+  },
+  {
+    "geoid": "24033",
+    "key": "hotel-revpar",
+    "date": "2022-10-15",
+    "value": 121.02056,
+    "value_": 121.02056
+  },
+  {
+    "geoid": "24033",
+    "key": "hotel-revpar",
+    "date": "2023-10-15",
+    "value": 125.4599,
+    "value_": 125.4599
+  },
+  {
+    "geoid": "24033",
+    "key": "hotel-revpar",
+    "date": "2024-10-15",
+    "value": 130.55348,
+    "value_": 130.55348
+  },
+  {
+    "geoid": "39300",
+    "key": "hotel-revpar",
+    "date": "2021-10-15",
+    "value": 123.06231,
+    "value_": 123.06231
+  },
+  {
+    "geoid": "39300",
+    "key": "hotel-revpar",
+    "date": "2022-10-15",
+    "value": 131.63133,
+    "value_": 131.63133
+  },
+  {
+    "geoid": "39300",
+    "key": "hotel-revpar",
+    "date": "2023-10-15",
+    "value": 131.38321,
+    "value_": 131.38321
+  },
+  {
+    "geoid": "39300",
+    "key": "hotel-revpar",
+    "date": "2024-10-15",
+    "value": 150.44052,
+    "value_": 150.44052
+  },
+  {
+    "geoid": "40140",
+    "key": "hotel-revpar",
+    "date": "2021-10-15",
+    "value": 115.49549,
+    "value_": 115.49549
+  },
+  {
+    "geoid": "40140",
+    "key": "hotel-revpar",
+    "date": "2022-10-15",
+    "value": 116.66826,
+    "value_": 116.66826
+  },
+  {
+    "geoid": "40140",
+    "key": "hotel-revpar",
+    "date": "2023-10-15",
+    "value": 108.02016,
+    "value_": 108.02016
+  },
+  {
+    "geoid": "40140",
+    "key": "hotel-revpar",
+    "date": "2024-10-15",
+    "value": 106.41966,
+    "value_": 106.41966
+  },
+  {
+    "geoid": "51013",
+    "key": "hotel-revpar",
+    "date": "2021-10-15",
+    "value": 90.34537,
+    "value_": 90.34537
+  },
+  {
+    "geoid": "51013",
+    "key": "hotel-revpar",
+    "date": "2022-10-15",
+    "value": 121.02056,
+    "value_": 121.02056
+  },
+  {
+    "geoid": "51013",
+    "key": "hotel-revpar",
+    "date": "2023-10-15",
+    "value": 125.4599,
+    "value_": 125.4599
+  },
+  {
+    "geoid": "51013",
+    "key": "hotel-revpar",
+    "date": "2024-10-15",
+    "value": 130.55348,
+    "value_": 130.55348
+  },
+  {
+    "geoid": "51061",
+    "key": "hotel-revpar",
+    "date": "2021-10-15",
+    "value": 88.70313,
+    "value_": 88.70313
+  },
+  {
+    "geoid": "51061",
+    "key": "hotel-revpar",
+    "date": "2022-10-15",
+    "value": 107.08626,
+    "value_": 107.08626
+  },
+  {
+    "geoid": "51061",
+    "key": "hotel-revpar",
+    "date": "2023-10-15",
+    "value": 101.73224,
+    "value_": 101.73224
+  },
+  {
+    "geoid": "51061",
+    "key": "hotel-revpar",
+    "date": "2024-10-15",
+    "value": 112.93609,
+    "value_": 112.93609
+  },
+  {
+    "geoid": "51107",
+    "key": "hotel-revpar",
+    "date": "2021-10-15",
+    "value": 107.4109,
+    "value_": 107.4109
+  },
+  {
+    "geoid": "51107",
+    "key": "hotel-revpar",
+    "date": "2022-10-15",
+    "value": 125.86103,
+    "value_": 125.86103
+  },
+  {
+    "geoid": "51107",
+    "key": "hotel-revpar",
+    "date": "2023-10-15",
+    "value": 137.01743,
+    "value_": 137.01743
+  },
+  {
+    "geoid": "51107",
+    "key": "hotel-revpar",
+    "date": "2024-10-15",
+    "value": 153.18067,
+    "value_": 153.18067
+  },
+  {
+    "geoid": "51153",
+    "key": "hotel-revpar",
+    "date": "2021-10-15",
+    "value": 76.70863,
+    "value_": 76.70863
+  },
+  {
+    "geoid": "51153",
+    "key": "hotel-revpar",
+    "date": "2022-10-15",
+    "value": 78.58817,
+    "value_": 78.58817
+  },
+  {
+    "geoid": "51153",
+    "key": "hotel-revpar",
+    "date": "2023-10-15",
+    "value": 78.11505,
+    "value_": 78.11505
+  },
+  {
+    "geoid": "51153",
+    "key": "hotel-revpar",
+    "date": "2024-10-15",
+    "value": 83.3935,
+    "value_": 83.3935
+  },
+  {
+    "geoid": "51179",
+    "key": "hotel-revpar",
+    "date": "2021-10-15",
+    "value": 73.36168,
+    "value_": 73.36168
+  },
+  {
+    "geoid": "51179",
+    "key": "hotel-revpar",
+    "date": "2022-10-15",
+    "value": 64.31259,
+    "value_": 64.31259
+  },
+  {
+    "geoid": "51179",
+    "key": "hotel-revpar",
+    "date": "2023-10-15",
+    "value": 60.07671,
+    "value_": 60.07671
+  },
+  {
+    "geoid": "51179",
+    "key": "hotel-revpar",
+    "date": "2024-10-15",
+    "value": 58.87221,
+    "value_": 58.87221
+  },
+  {
+    "geoid": "51600",
+    "key": "hotel-revpar",
+    "date": "2021-10-15",
+    "value": 81.48654,
+    "value_": 81.48654
+  },
+  {
+    "geoid": "51600",
+    "key": "hotel-revpar",
+    "date": "2022-10-15",
+    "value": 111.69712,
+    "value_": 111.69712
+  },
+  {
+    "geoid": "51600",
+    "key": "hotel-revpar",
+    "date": "2023-10-15",
+    "value": 125.42962,
+    "value_": 125.42962
+  },
+  {
+    "geoid": "51600",
+    "key": "hotel-revpar",
+    "date": "2024-10-15",
+    "value": 139.44108,
+    "value_": 139.44108
+  },
+  {
+    "geoid": "99997",
+    "key": "hotel-revpar",
+    "date": "2021-10-15",
+    "value": 107.11694,
+    "value_": 107.11694
+  },
+  {
+    "geoid": "99997",
+    "key": "hotel-revpar",
+    "date": "2022-10-15",
+    "value": 109.69716,
+    "value_": 109.69716
+  },
+  {
+    "geoid": "99997",
+    "key": "hotel-revpar",
+    "date": "2023-10-15",
+    "value": 109.70361,
+    "value_": 109.70361
+  },
+  {
+    "geoid": "99997",
+    "key": "hotel-revpar",
+    "date": "2024-10-15",
+    "value": 113.06702,
+    "value_": 113.06702
+  },
+  {
+    "geoid": "11001",
+    "key": "hotel-revpar",
+    "date": "2021-11-15",
+    "value": 111.83253,
+    "value_": 111.83253
+  },
+  {
+    "geoid": "11001",
+    "key": "hotel-revpar",
+    "date": "2022-11-15",
+    "value": 168.70663,
+    "value_": 168.70663
+  },
+  {
+    "geoid": "11001",
+    "key": "hotel-revpar",
+    "date": "2023-11-15",
+    "value": 194.5029,
+    "value_": 194.5029
+  },
+  {
+    "geoid": "11001",
+    "key": "hotel-revpar",
+    "date": "2024-11-15",
+    "value": 161.82981,
+    "value_": 161.82981
+  },
+  {
+    "geoid": "11001",
+    "key": "hotel-revpar",
+    "date": "2025-11-15",
+    "value": 180.54177,
+    "value_": 180.54177
+  },
+  {
+    "geoid": "23420",
+    "key": "hotel-revpar",
+    "date": "2021-11-15",
+    "value": 79.39092,
+    "value_": 79.39092
+  },
+  {
+    "geoid": "23420",
+    "key": "hotel-revpar",
+    "date": "2022-11-15",
+    "value": 79.02742,
+    "value_": 79.02742
+  },
+  {
+    "geoid": "23420",
+    "key": "hotel-revpar",
+    "date": "2023-11-15",
+    "value": 84.92437,
+    "value_": 84.92437
+  },
+  {
+    "geoid": "23420",
+    "key": "hotel-revpar",
+    "date": "2024-11-15",
+    "value": 79.04983,
+    "value_": 79.04983
+  },
+  {
+    "geoid": "23420",
+    "key": "hotel-revpar",
+    "date": "2025-11-15",
+    "value": 82.09981,
+    "value_": 82.09981
+  },
+  {
+    "geoid": "24017",
+    "key": "hotel-revpar",
+    "date": "2021-11-15",
+    "value": 75.32509,
+    "value_": 75.32509
+  },
+  {
+    "geoid": "24017",
+    "key": "hotel-revpar",
+    "date": "2022-11-15",
+    "value": 82.60872,
+    "value_": 82.60872
+  },
+  {
+    "geoid": "24017",
+    "key": "hotel-revpar",
+    "date": "2023-11-15",
+    "value": 81.72546,
+    "value_": 81.72546
+  },
+  {
+    "geoid": "24017",
+    "key": "hotel-revpar",
+    "date": "2024-11-15",
+    "value": 80.88898,
+    "value_": 80.88898
+  },
+  {
+    "geoid": "24017",
+    "key": "hotel-revpar",
+    "date": "2025-11-15",
+    "value": 81.27817,
+    "value_": 81.27817
+  },
+  {
+    "geoid": "24031",
+    "key": "hotel-revpar",
+    "date": "2021-11-15",
+    "value": 75.42825,
+    "value_": 75.42825
+  },
+  {
+    "geoid": "24031",
+    "key": "hotel-revpar",
+    "date": "2022-11-15",
+    "value": 97.63992,
+    "value_": 97.63992
+  },
+  {
+    "geoid": "24031",
+    "key": "hotel-revpar",
+    "date": "2023-11-15",
+    "value": 110.65157,
+    "value_": 110.65157
+  },
+  {
+    "geoid": "24031",
+    "key": "hotel-revpar",
+    "date": "2024-11-15",
+    "value": 100.74615,
+    "value_": 100.74615
+  },
+  {
+    "geoid": "24031",
+    "key": "hotel-revpar",
+    "date": "2025-11-15",
+    "value": 97.88646,
+    "value_": 97.88646
+  },
+  {
+    "geoid": "24033",
+    "key": "hotel-revpar",
+    "date": "2021-11-15",
+    "value": 71.09439,
+    "value_": 71.09439
+  },
+  {
+    "geoid": "24033",
+    "key": "hotel-revpar",
+    "date": "2022-11-15",
+    "value": 98.18934,
+    "value_": 98.18934
+  },
+  {
+    "geoid": "24033",
+    "key": "hotel-revpar",
+    "date": "2023-11-15",
+    "value": 104.27715,
+    "value_": 104.27715
+  },
+  {
+    "geoid": "24033",
+    "key": "hotel-revpar",
+    "date": "2024-11-15",
+    "value": 97.68526,
+    "value_": 97.68526
+  },
+  {
+    "geoid": "24033",
+    "key": "hotel-revpar",
+    "date": "2025-11-15",
+    "value": 106.27506,
+    "value_": 106.27506
+  },
+  {
+    "geoid": "39300",
+    "key": "hotel-revpar",
+    "date": "2021-11-15",
+    "value": 82.30599,
+    "value_": 82.30599
+  },
+  {
+    "geoid": "39300",
+    "key": "hotel-revpar",
+    "date": "2022-11-15",
+    "value": 91.63905,
+    "value_": 91.63905
+  },
+  {
+    "geoid": "39300",
+    "key": "hotel-revpar",
+    "date": "2023-11-15",
+    "value": 94.1384,
+    "value_": 94.1384
+  },
+  {
+    "geoid": "39300",
+    "key": "hotel-revpar",
+    "date": "2024-11-15",
+    "value": 101.12774,
+    "value_": 101.12774
+  },
+  {
+    "geoid": "39300",
+    "key": "hotel-revpar",
+    "date": "2025-11-15",
+    "value": 111.65098,
+    "value_": 111.65098
+  },
+  {
+    "geoid": "40140",
+    "key": "hotel-revpar",
+    "date": "2021-11-15",
+    "value": 114.12025,
+    "value_": 114.12025
+  },
+  {
+    "geoid": "40140",
+    "key": "hotel-revpar",
+    "date": "2022-11-15",
+    "value": 114.28161,
+    "value_": 114.28161
+  },
+  {
+    "geoid": "40140",
+    "key": "hotel-revpar",
+    "date": "2023-11-15",
+    "value": 108.36734,
+    "value_": 108.36734
+  },
+  {
+    "geoid": "40140",
+    "key": "hotel-revpar",
+    "date": "2024-11-15",
+    "value": 96.7376,
+    "value_": 96.7376
+  },
+  {
+    "geoid": "40140",
+    "key": "hotel-revpar",
+    "date": "2025-11-15",
+    "value": 100.35475,
+    "value_": 100.35475
+  },
+  {
+    "geoid": "51013",
+    "key": "hotel-revpar",
+    "date": "2021-11-15",
+    "value": 71.09439,
+    "value_": 71.09439
+  },
+  {
+    "geoid": "51013",
+    "key": "hotel-revpar",
+    "date": "2022-11-15",
+    "value": 98.18934,
+    "value_": 98.18934
+  },
+  {
+    "geoid": "51013",
+    "key": "hotel-revpar",
+    "date": "2023-11-15",
+    "value": 104.27715,
+    "value_": 104.27715
+  },
+  {
+    "geoid": "51013",
+    "key": "hotel-revpar",
+    "date": "2024-11-15",
+    "value": 97.68526,
+    "value_": 97.68526
+  },
+  {
+    "geoid": "51013",
+    "key": "hotel-revpar",
+    "date": "2025-11-15",
+    "value": 106.27506,
+    "value_": 106.27506
+  },
+  {
+    "geoid": "51061",
+    "key": "hotel-revpar",
+    "date": "2021-11-15",
+    "value": 65.48839,
+    "value_": 65.48839
+  },
+  {
+    "geoid": "51061",
+    "key": "hotel-revpar",
+    "date": "2022-11-15",
+    "value": 72.25565,
+    "value_": 72.25565
+  },
+  {
+    "geoid": "51061",
+    "key": "hotel-revpar",
+    "date": "2023-11-15",
+    "value": 83.39698,
+    "value_": 83.39698
+  },
+  {
+    "geoid": "51061",
+    "key": "hotel-revpar",
+    "date": "2024-11-15",
+    "value": 72.75481,
+    "value_": 72.75481
+  },
+  {
+    "geoid": "51061",
+    "key": "hotel-revpar",
+    "date": "2025-11-15",
+    "value": 74.96433,
+    "value_": 74.96433
+  },
+  {
+    "geoid": "51107",
+    "key": "hotel-revpar",
+    "date": "2021-11-15",
+    "value": 85.48484,
+    "value_": 85.48484
+  },
+  {
+    "geoid": "51107",
+    "key": "hotel-revpar",
+    "date": "2022-11-15",
+    "value": 107.06993,
+    "value_": 107.06993
+  },
+  {
+    "geoid": "51107",
+    "key": "hotel-revpar",
+    "date": "2023-11-15",
+    "value": 111.80817,
+    "value_": 111.80817
+  },
+  {
+    "geoid": "51107",
+    "key": "hotel-revpar",
+    "date": "2024-11-15",
+    "value": 116.65527,
+    "value_": 116.65527
+  },
+  {
+    "geoid": "51107",
+    "key": "hotel-revpar",
+    "date": "2025-11-15",
+    "value": 122.56396,
+    "value_": 122.56396
+  },
+  {
+    "geoid": "51153",
+    "key": "hotel-revpar",
+    "date": "2021-11-15",
+    "value": 67.07343,
+    "value_": 67.07343
+  },
+  {
+    "geoid": "51153",
+    "key": "hotel-revpar",
+    "date": "2022-11-15",
+    "value": 68.68732,
+    "value_": 68.68732
+  },
+  {
+    "geoid": "51153",
+    "key": "hotel-revpar",
+    "date": "2023-11-15",
+    "value": 70.0949,
+    "value_": 70.0949
+  },
+  {
+    "geoid": "51153",
+    "key": "hotel-revpar",
+    "date": "2024-11-15",
+    "value": 70.01359,
+    "value_": 70.01359
+  },
+  {
+    "geoid": "51153",
+    "key": "hotel-revpar",
+    "date": "2025-11-15",
+    "value": 73.26367,
+    "value_": 73.26367
+  },
+  {
+    "geoid": "51179",
+    "key": "hotel-revpar",
+    "date": "2021-11-15",
+    "value": 63.2479,
+    "value_": 63.2479
+  },
+  {
+    "geoid": "51179",
+    "key": "hotel-revpar",
+    "date": "2022-11-15",
+    "value": 58.1792,
+    "value_": 58.1792
+  },
+  {
+    "geoid": "51179",
+    "key": "hotel-revpar",
+    "date": "2023-11-15",
+    "value": 55.01809,
+    "value_": 55.01809
+  },
+  {
+    "geoid": "51179",
+    "key": "hotel-revpar",
+    "date": "2024-11-15",
+    "value": 53.87427,
+    "value_": 53.87427
+  },
+  {
+    "geoid": "51179",
+    "key": "hotel-revpar",
+    "date": "2025-11-15",
+    "value": 50.32838,
+    "value_": 50.32838
+  },
+  {
+    "geoid": "51600",
+    "key": "hotel-revpar",
+    "date": "2021-11-15",
+    "value": 70.59807,
+    "value_": 70.59807
+  },
+  {
+    "geoid": "51600",
+    "key": "hotel-revpar",
+    "date": "2022-11-15",
+    "value": 96.24974,
+    "value_": 96.24974
+  },
+  {
+    "geoid": "51600",
+    "key": "hotel-revpar",
+    "date": "2023-11-15",
+    "value": 102.38465,
+    "value_": 102.38465
+  },
+  {
+    "geoid": "51600",
+    "key": "hotel-revpar",
+    "date": "2024-11-15",
+    "value": 99.54466,
+    "value_": 99.54466
+  },
+  {
+    "geoid": "51600",
+    "key": "hotel-revpar",
+    "date": "2025-11-15",
+    "value": 101.6831,
+    "value_": 101.6831
+  },
+  {
+    "geoid": "99997",
+    "key": "hotel-revpar",
+    "date": "2021-11-15",
+    "value": 91.26381,
+    "value_": 91.26381
+  },
+  {
+    "geoid": "99997",
+    "key": "hotel-revpar",
+    "date": "2022-11-15",
+    "value": 94.56934,
+    "value_": 94.56934
+  },
+  {
+    "geoid": "99997",
+    "key": "hotel-revpar",
+    "date": "2023-11-15",
+    "value": 95.83072,
+    "value_": 95.83072
+  },
+  {
+    "geoid": "99997",
+    "key": "hotel-revpar",
+    "date": "2024-11-15",
+    "value": 91.36915,
+    "value_": 91.36915
+  },
+  {
+    "geoid": "99997",
+    "key": "hotel-revpar",
+    "date": "2025-11-15",
+    "value": 96.77177,
+    "value_": 96.77177
+  },
+  {
+    "geoid": "11001",
+    "key": "hotel-revpar",
+    "date": "2021-12-15",
+    "value": 87.08457,
+    "value_": 87.08457
+  },
+  {
+    "geoid": "11001",
+    "key": "hotel-revpar",
+    "date": "2022-12-15",
+    "value": 138.07783,
+    "value_": 138.07783
+  },
+  {
+    "geoid": "11001",
+    "key": "hotel-revpar",
+    "date": "2023-12-15",
+    "value": 126.47751,
+    "value_": 126.47751
+  },
+  {
+    "geoid": "11001",
+    "key": "hotel-revpar",
+    "date": "2024-12-15",
+    "value": 155.82581,
+    "value_": 155.82581
+  },
+  {
+    "geoid": "11001",
+    "key": "hotel-revpar",
+    "date": "2025-12-15",
+    "value": 131.90185,
+    "value_": 131.90185
+  },
+  {
+    "geoid": "23420",
+    "key": "hotel-revpar",
+    "date": "2021-12-15",
+    "value": 68.28231,
+    "value_": 68.28231
+  },
+  {
+    "geoid": "23420",
+    "key": "hotel-revpar",
+    "date": "2022-12-15",
+    "value": 65.6924,
+    "value_": 65.6924
+  },
+  {
+    "geoid": "23420",
+    "key": "hotel-revpar",
+    "date": "2023-12-15",
+    "value": 65.5862,
+    "value_": 65.5862
+  },
+  {
+    "geoid": "23420",
+    "key": "hotel-revpar",
+    "date": "2024-12-15",
+    "value": 63.8936,
+    "value_": 63.8936
+  },
+  {
+    "geoid": "23420",
+    "key": "hotel-revpar",
+    "date": "2025-12-15",
+    "value": 64.92822,
+    "value_": 64.92822
+  },
+  {
+    "geoid": "24017",
+    "key": "hotel-revpar",
+    "date": "2021-12-15",
+    "value": 61.39731,
+    "value_": 61.39731
+  },
+  {
+    "geoid": "24017",
+    "key": "hotel-revpar",
+    "date": "2022-12-15",
+    "value": 65.80772,
+    "value_": 65.80772
+  },
+  {
+    "geoid": "24017",
+    "key": "hotel-revpar",
+    "date": "2023-12-15",
+    "value": 63.72344,
+    "value_": 63.72344
+  },
+  {
+    "geoid": "24017",
+    "key": "hotel-revpar",
+    "date": "2024-12-15",
+    "value": 63.59189,
+    "value_": 63.59189
+  },
+  {
+    "geoid": "24017",
+    "key": "hotel-revpar",
+    "date": "2025-12-15",
+    "value": 61.68915,
+    "value_": 61.68915
+  },
+  {
+    "geoid": "24031",
+    "key": "hotel-revpar",
+    "date": "2021-12-15",
+    "value": 59.42916,
+    "value_": 59.42916
+  },
+  {
+    "geoid": "24031",
+    "key": "hotel-revpar",
+    "date": "2022-12-15",
+    "value": 70.89431,
+    "value_": 70.89431
+  },
+  {
+    "geoid": "24031",
+    "key": "hotel-revpar",
+    "date": "2023-12-15",
+    "value": 76.89376,
+    "value_": 76.89376
+  },
+  {
+    "geoid": "24031",
+    "key": "hotel-revpar",
+    "date": "2024-12-15",
+    "value": 82.19686,
+    "value_": 82.19686
+  },
+  {
+    "geoid": "24031",
+    "key": "hotel-revpar",
+    "date": "2025-12-15",
+    "value": 73.97031,
+    "value_": 73.97031
+  },
+  {
+    "geoid": "24033",
+    "key": "hotel-revpar",
+    "date": "2021-12-15",
+    "value": 67.02281,
+    "value_": 67.02281
+  },
+  {
+    "geoid": "24033",
+    "key": "hotel-revpar",
+    "date": "2022-12-15",
+    "value": 86.03894,
+    "value_": 86.03894
+  },
+  {
+    "geoid": "24033",
+    "key": "hotel-revpar",
+    "date": "2023-12-15",
+    "value": 87.63475,
+    "value_": 87.63475
+  },
+  {
+    "geoid": "24033",
+    "key": "hotel-revpar",
+    "date": "2024-12-15",
+    "value": 91.988,
+    "value_": 91.988
+  },
+  {
+    "geoid": "24033",
+    "key": "hotel-revpar",
+    "date": "2025-12-15",
+    "value": 85.56918,
+    "value_": 85.56918
+  },
+  {
+    "geoid": "39300",
+    "key": "hotel-revpar",
+    "date": "2021-12-15",
+    "value": 71.42386,
+    "value_": 71.42386
+  },
+  {
+    "geoid": "39300",
+    "key": "hotel-revpar",
+    "date": "2022-12-15",
+    "value": 70.28662,
+    "value_": 70.28662
+  },
+  {
+    "geoid": "39300",
+    "key": "hotel-revpar",
+    "date": "2023-12-15",
+    "value": 78.1102,
+    "value_": 78.1102
+  },
+  {
+    "geoid": "39300",
+    "key": "hotel-revpar",
+    "date": "2024-12-15",
+    "value": 76.55598,
+    "value_": 76.55598
+  },
+  {
+    "geoid": "39300",
+    "key": "hotel-revpar",
+    "date": "2025-12-15",
+    "value": 85.70855,
+    "value_": 85.70855
+  },
+  {
+    "geoid": "40140",
+    "key": "hotel-revpar",
+    "date": "2021-12-15",
+    "value": 123.87603,
+    "value_": 123.87603
+  },
+  {
+    "geoid": "40140",
+    "key": "hotel-revpar",
+    "date": "2022-12-15",
+    "value": 109.1732,
+    "value_": 109.1732
+  },
+  {
+    "geoid": "40140",
+    "key": "hotel-revpar",
+    "date": "2023-12-15",
+    "value": 104.30001,
+    "value_": 104.30001
+  },
+  {
+    "geoid": "40140",
+    "key": "hotel-revpar",
+    "date": "2024-12-15",
+    "value": 93.50803,
+    "value_": 93.50803
+  },
+  {
+    "geoid": "40140",
+    "key": "hotel-revpar",
+    "date": "2025-12-15",
+    "value": 90.08344,
+    "value_": 90.08344
+  },
+  {
+    "geoid": "51013",
+    "key": "hotel-revpar",
+    "date": "2021-12-15",
+    "value": 67.02281,
+    "value_": 67.02281
+  },
+  {
+    "geoid": "51013",
+    "key": "hotel-revpar",
+    "date": "2022-12-15",
+    "value": 86.03894,
+    "value_": 86.03894
+  },
+  {
+    "geoid": "51013",
+    "key": "hotel-revpar",
+    "date": "2023-12-15",
+    "value": 87.63475,
+    "value_": 87.63475
+  },
+  {
+    "geoid": "51013",
+    "key": "hotel-revpar",
+    "date": "2024-12-15",
+    "value": 91.988,
+    "value_": 91.988
+  },
+  {
+    "geoid": "51013",
+    "key": "hotel-revpar",
+    "date": "2025-12-15",
+    "value": 85.56918,
+    "value_": 85.56918
+  },
+  {
+    "geoid": "51061",
+    "key": "hotel-revpar",
+    "date": "2021-12-15",
+    "value": 52.12364,
+    "value_": 52.12364
+  },
+  {
+    "geoid": "51061",
+    "key": "hotel-revpar",
+    "date": "2022-12-15",
+    "value": 54.70093,
+    "value_": 54.70093
+  },
+  {
+    "geoid": "51061",
+    "key": "hotel-revpar",
+    "date": "2023-12-15",
+    "value": 51.89309,
+    "value_": 51.89309
+  },
+  {
+    "geoid": "51061",
+    "key": "hotel-revpar",
+    "date": "2024-12-15",
+    "value": 52.69398,
+    "value_": 52.69398
+  },
+  {
+    "geoid": "51061",
+    "key": "hotel-revpar",
+    "date": "2025-12-15",
+    "value": 55.64275,
+    "value_": 55.64275
+  },
+  {
+    "geoid": "51107",
+    "key": "hotel-revpar",
+    "date": "2021-12-15",
+    "value": 72.24798,
+    "value_": 72.24798
+  },
+  {
+    "geoid": "51107",
+    "key": "hotel-revpar",
+    "date": "2022-12-15",
+    "value": 85.86851,
+    "value_": 85.86851
+  },
+  {
+    "geoid": "51107",
+    "key": "hotel-revpar",
+    "date": "2023-12-15",
+    "value": 85.37068,
+    "value_": 85.37068
+  },
+  {
+    "geoid": "51107",
+    "key": "hotel-revpar",
+    "date": "2024-12-15",
+    "value": 97.1936,
+    "value_": 97.1936
+  },
+  {
+    "geoid": "51107",
+    "key": "hotel-revpar",
+    "date": "2025-12-15",
+    "value": 95.00751,
+    "value_": 95.00751
+  },
+  {
+    "geoid": "51153",
+    "key": "hotel-revpar",
+    "date": "2021-12-15",
+    "value": 54.55603,
+    "value_": 54.55603
+  },
+  {
+    "geoid": "51153",
+    "key": "hotel-revpar",
+    "date": "2022-12-15",
+    "value": 54.67178,
+    "value_": 54.67178
+  },
+  {
+    "geoid": "51153",
+    "key": "hotel-revpar",
+    "date": "2023-12-15",
+    "value": 54.88987,
+    "value_": 54.88987
+  },
+  {
+    "geoid": "51153",
+    "key": "hotel-revpar",
+    "date": "2024-12-15",
+    "value": 60.70551,
+    "value_": 60.70551
+  },
+  {
+    "geoid": "51153",
+    "key": "hotel-revpar",
+    "date": "2025-12-15",
+    "value": 64.23523,
+    "value_": 64.23523
+  },
+  {
+    "geoid": "51179",
+    "key": "hotel-revpar",
+    "date": "2021-12-15",
+    "value": 50.74729,
+    "value_": 50.74729
+  },
+  {
+    "geoid": "51179",
+    "key": "hotel-revpar",
+    "date": "2022-12-15",
+    "value": 48.48215,
+    "value_": 48.48215
+  },
+  {
+    "geoid": "51179",
+    "key": "hotel-revpar",
+    "date": "2023-12-15",
+    "value": 47.03296,
+    "value_": 47.03296
+  },
+  {
+    "geoid": "51179",
+    "key": "hotel-revpar",
+    "date": "2024-12-15",
+    "value": 49.89976,
+    "value_": 49.89976
+  },
+  {
+    "geoid": "51179",
+    "key": "hotel-revpar",
+    "date": "2025-12-15",
+    "value": 46.68347,
+    "value_": 46.68347
+  },
+  {
+    "geoid": "51600",
+    "key": "hotel-revpar",
+    "date": "2021-12-15",
+    "value": 60.16094,
+    "value_": 60.16094
+  },
+  {
+    "geoid": "51600",
+    "key": "hotel-revpar",
+    "date": "2022-12-15",
+    "value": 77.51814,
+    "value_": 77.51814
+  },
+  {
+    "geoid": "51600",
+    "key": "hotel-revpar",
+    "date": "2023-12-15",
+    "value": 82.63192,
+    "value_": 82.63192
+  },
+  {
+    "geoid": "51600",
+    "key": "hotel-revpar",
+    "date": "2024-12-15",
+    "value": 92.6448,
+    "value_": 92.6448
+  },
+  {
+    "geoid": "51600",
+    "key": "hotel-revpar",
+    "date": "2025-12-15",
+    "value": 92.73173,
+    "value_": 92.73173
+  },
+  {
+    "geoid": "99997",
+    "key": "hotel-revpar",
+    "date": "2021-12-15",
+    "value": 86.85887,
+    "value_": 86.85887
+  },
+  {
+    "geoid": "99997",
+    "key": "hotel-revpar",
+    "date": "2022-12-15",
+    "value": 81.91178,
+    "value_": 81.91178
+  },
+  {
+    "geoid": "99997",
+    "key": "hotel-revpar",
+    "date": "2023-12-15",
+    "value": 82.79873,
+    "value_": 82.79873
+  },
+  {
+    "geoid": "99997",
+    "key": "hotel-revpar",
+    "date": "2024-12-15",
+    "value": 77.90562,
+    "value_": 77.90562
+  },
+  {
+    "geoid": "99997",
+    "key": "hotel-revpar",
+    "date": "2025-12-15",
+    "value": 79.75135,
+    "value_": 79.75135
+  }
+]

@@ -1,0 +1,2872 @@
+[
+  {
+    "geoid": "11001",
+    "key": "medicaid-enrollment",
+    "date": "2024-01-15",
+    "value": 276959,
+    "value_": 276959
+  },
+  {
+    "geoid": "11001",
+    "key": "medicaid-enrollment",
+    "date": "2025-01-15",
+    "value": 259022,
+    "value_": 259022
+  },
+  {
+    "geoid": "24017",
+    "key": "medicaid-enrollment",
+    "date": "2023-01-15",
+    "value": 42507.00338,
+    "value_": 42507.00338
+  },
+  {
+    "geoid": "24017",
+    "key": "medicaid-enrollment",
+    "date": "2024-01-15",
+    "value": 40500.84276,
+    "value_": 40500.84276
+  },
+  {
+    "geoid": "24017",
+    "key": "medicaid-enrollment",
+    "date": "2025-01-15",
+    "value": 36439.64092,
+    "value_": 36439.64092
+  },
+  {
+    "geoid": "24021",
+    "key": "medicaid-enrollment",
+    "date": "2023-01-15",
+    "value": 54281.74387,
+    "value_": 54281.74387
+  },
+  {
+    "geoid": "24021",
+    "key": "medicaid-enrollment",
+    "date": "2024-01-15",
+    "value": 51792.0209,
+    "value_": 51792.0209
+  },
+  {
+    "geoid": "24021",
+    "key": "medicaid-enrollment",
+    "date": "2025-01-15",
+    "value": 47140.29697,
+    "value_": 47140.29697
+  },
+  {
+    "geoid": "24031",
+    "key": "medicaid-enrollment",
+    "date": "2023-01-15",
+    "value": 229360.15094,
+    "value_": 229360.15094
+  },
+  {
+    "geoid": "24031",
+    "key": "medicaid-enrollment",
+    "date": "2024-01-15",
+    "value": 219672.58052,
+    "value_": 219672.58052
+  },
+  {
+    "geoid": "24031",
+    "key": "medicaid-enrollment",
+    "date": "2025-01-15",
+    "value": 202699.89987,
+    "value_": 202699.89987
+  },
+  {
+    "geoid": "24033",
+    "key": "medicaid-enrollment",
+    "date": "2023-01-15",
+    "value": 283769.34354,
+    "value_": 283769.34354
+  },
+  {
+    "geoid": "24033",
+    "key": "medicaid-enrollment",
+    "date": "2024-01-15",
+    "value": 275385.85262,
+    "value_": 275385.85262
+  },
+  {
+    "geoid": "24033",
+    "key": "medicaid-enrollment",
+    "date": "2025-01-15",
+    "value": 251947.12008,
+    "value_": 251947.12008
+  },
+  {
+    "geoid": "47900",
+    "key": "medicaid-enrollment",
+    "date": "2023-01-15",
+    "value": 609918.24173,
+    "value_": 609918.24173
+  },
+  {
+    "geoid": "47900",
+    "key": "medicaid-enrollment",
+    "date": "2024-01-15",
+    "value": 864310.29681,
+    "value_": 864310.29681
+  },
+  {
+    "geoid": "47900",
+    "key": "medicaid-enrollment",
+    "date": "2025-01-15",
+    "value": 1273264.69765,
+    "value_": 1273264.69765
+  },
+  {
+    "geoid": "51013",
+    "key": "medicaid-enrollment",
+    "date": "2025-01-15",
+    "value": 26117.20794,
+    "value_": 26117.20794
+  },
+  {
+    "geoid": "51043",
+    "key": "medicaid-enrollment",
+    "date": "2025-01-15",
+    "value": 2066.87913,
+    "value_": 2066.87913
+  },
+  {
+    "geoid": "51047",
+    "key": "medicaid-enrollment",
+    "date": "2025-01-15",
+    "value": 11845.51456,
+    "value_": 11845.51456
+  },
+  {
+    "geoid": "51059",
+    "key": "medicaid-enrollment",
+    "date": "2025-01-15",
+    "value": 161827.63016,
+    "value_": 161827.63016
+  },
+  {
+    "geoid": "51061",
+    "key": "medicaid-enrollment",
+    "date": "2025-01-15",
+    "value": 9630.42599,
+    "value_": 9630.42599
+  },
+  {
+    "geoid": "51107",
+    "key": "medicaid-enrollment",
+    "date": "2025-01-15",
+    "value": 46070.21847,
+    "value_": 46070.21847
+  },
+  {
+    "geoid": "51153",
+    "key": "medicaid-enrollment",
+    "date": "2025-01-15",
+    "value": 109337.06058,
+    "value_": 109337.06058
+  },
+  {
+    "geoid": "51157",
+    "key": "medicaid-enrollment",
+    "date": "2025-01-15",
+    "value": 1196.61424,
+    "value_": 1196.61424
+  },
+  {
+    "geoid": "51177",
+    "key": "medicaid-enrollment",
+    "date": "2025-01-15",
+    "value": 30569.12829,
+    "value_": 30569.12829
+  },
+  {
+    "geoid": "51179",
+    "key": "medicaid-enrollment",
+    "date": "2025-01-15",
+    "value": 29792.71483,
+    "value_": 29792.71483
+  },
+  {
+    "geoid": "51187",
+    "key": "medicaid-enrollment",
+    "date": "2025-01-15",
+    "value": 8859.44833,
+    "value_": 8859.44833
+  },
+  {
+    "geoid": "51510",
+    "key": "medicaid-enrollment",
+    "date": "2025-01-15",
+    "value": 29805.39836,
+    "value_": 29805.39836
+  },
+  {
+    "geoid": "51630",
+    "key": "medicaid-enrollment",
+    "date": "2025-01-15",
+    "value": 8897.49893,
+    "value_": 8897.49893
+  },
+  {
+    "geoid": "99999",
+    "key": "medicaid-enrollment",
+    "date": "2023-01-15",
+    "value": 93411163,
+    "value_": 93411163
+  },
+  {
+    "geoid": "99999",
+    "key": "medicaid-enrollment",
+    "date": "2024-01-15",
+    "value": 84828066,
+    "value_": 84828066
+  },
+  {
+    "geoid": "99999",
+    "key": "medicaid-enrollment",
+    "date": "2025-01-15",
+    "value": 79377808,
+    "value_": 79377808
+  },
+  {
+    "geoid": "11001",
+    "key": "medicaid-enrollment",
+    "date": "2024-02-15",
+    "value": 269060,
+    "value_": 269060
+  },
+  {
+    "geoid": "11001",
+    "key": "medicaid-enrollment",
+    "date": "2025-02-15",
+    "value": 260125,
+    "value_": 260125
+  },
+  {
+    "geoid": "24017",
+    "key": "medicaid-enrollment",
+    "date": "2023-02-15",
+    "value": 42612.15378,
+    "value_": 42612.15378
+  },
+  {
+    "geoid": "24017",
+    "key": "medicaid-enrollment",
+    "date": "2024-02-15",
+    "value": 40261.36158,
+    "value_": 40261.36158
+  },
+  {
+    "geoid": "24017",
+    "key": "medicaid-enrollment",
+    "date": "2025-02-15",
+    "value": 36052.48154,
+    "value_": 36052.48154
+  },
+  {
+    "geoid": "24021",
+    "key": "medicaid-enrollment",
+    "date": "2023-02-15",
+    "value": 54503.40874,
+    "value_": 54503.40874
+  },
+  {
+    "geoid": "24021",
+    "key": "medicaid-enrollment",
+    "date": "2024-02-15",
+    "value": 51620.31625,
+    "value_": 51620.31625
+  },
+  {
+    "geoid": "24021",
+    "key": "medicaid-enrollment",
+    "date": "2025-02-15",
+    "value": 46546.67076,
+    "value_": 46546.67076
+  },
+  {
+    "geoid": "24031",
+    "key": "medicaid-enrollment",
+    "date": "2023-02-15",
+    "value": 230246.43411,
+    "value_": 230246.43411
+  },
+  {
+    "geoid": "24031",
+    "key": "medicaid-enrollment",
+    "date": "2024-02-15",
+    "value": 219350.10311,
+    "value_": 219350.10311
+  },
+  {
+    "geoid": "24031",
+    "key": "medicaid-enrollment",
+    "date": "2025-02-15",
+    "value": 200425.78013,
+    "value_": 200425.78013
+  },
+  {
+    "geoid": "24033",
+    "key": "medicaid-enrollment",
+    "date": "2023-02-15",
+    "value": 285083.77601,
+    "value_": 285083.77601
+  },
+  {
+    "geoid": "24033",
+    "key": "medicaid-enrollment",
+    "date": "2024-02-15",
+    "value": 274549.33257,
+    "value_": 274549.33257
+  },
+  {
+    "geoid": "24033",
+    "key": "medicaid-enrollment",
+    "date": "2025-02-15",
+    "value": 249006.33946,
+    "value_": 249006.33946
+  },
+  {
+    "geoid": "47900",
+    "key": "medicaid-enrollment",
+    "date": "2023-02-15",
+    "value": 612445.77264,
+    "value_": 612445.77264
+  },
+  {
+    "geoid": "47900",
+    "key": "medicaid-enrollment",
+    "date": "2024-02-15",
+    "value": 854841.11351,
+    "value_": 854841.11351
+  },
+  {
+    "geoid": "47900",
+    "key": "medicaid-enrollment",
+    "date": "2025-02-15",
+    "value": 1267936.80604,
+    "value_": 1267936.80604
+  },
+  {
+    "geoid": "51013",
+    "key": "medicaid-enrollment",
+    "date": "2025-02-15",
+    "value": 26060.06133,
+    "value_": 26060.06133
+  },
+  {
+    "geoid": "51043",
+    "key": "medicaid-enrollment",
+    "date": "2025-02-15",
+    "value": 2077.64601,
+    "value_": 2077.64601
+  },
+  {
+    "geoid": "51047",
+    "key": "medicaid-enrollment",
+    "date": "2025-02-15",
+    "value": 11900.06612,
+    "value_": 11900.06612
+  },
+  {
+    "geoid": "51059",
+    "key": "medicaid-enrollment",
+    "date": "2025-02-15",
+    "value": 162043.0458,
+    "value_": 162043.0458
+  },
+  {
+    "geoid": "51061",
+    "key": "medicaid-enrollment",
+    "date": "2025-02-15",
+    "value": 9613.05037,
+    "value_": 9613.05037
+  },
+  {
+    "geoid": "51107",
+    "key": "medicaid-enrollment",
+    "date": "2025-02-15",
+    "value": 46310.94015,
+    "value_": 46310.94015
+  },
+  {
+    "geoid": "51153",
+    "key": "medicaid-enrollment",
+    "date": "2025-02-15",
+    "value": 109209.54117,
+    "value_": 109209.54117
+  },
+  {
+    "geoid": "51157",
+    "key": "medicaid-enrollment",
+    "date": "2025-02-15",
+    "value": 1202.84769,
+    "value_": 1202.84769
+  },
+  {
+    "geoid": "51177",
+    "key": "medicaid-enrollment",
+    "date": "2025-02-15",
+    "value": 30501.36825,
+    "value_": 30501.36825
+  },
+  {
+    "geoid": "51179",
+    "key": "medicaid-enrollment",
+    "date": "2025-02-15",
+    "value": 29653.55625,
+    "value_": 29653.55625
+  },
+  {
+    "geoid": "51187",
+    "key": "medicaid-enrollment",
+    "date": "2025-02-15",
+    "value": 8836.56655,
+    "value_": 8836.56655
+  },
+  {
+    "geoid": "51510",
+    "key": "medicaid-enrollment",
+    "date": "2025-02-15",
+    "value": 29625.56672,
+    "value_": 29625.56672
+  },
+  {
+    "geoid": "51630",
+    "key": "medicaid-enrollment",
+    "date": "2025-02-15",
+    "value": 8746.27773,
+    "value_": 8746.27773
+  },
+  {
+    "geoid": "99999",
+    "key": "medicaid-enrollment",
+    "date": "2023-02-15",
+    "value": 93828166,
+    "value_": 93828166
+  },
+  {
+    "geoid": "99999",
+    "key": "medicaid-enrollment",
+    "date": "2024-02-15",
+    "value": 84164199,
+    "value_": 84164199
+  },
+  {
+    "geoid": "99999",
+    "key": "medicaid-enrollment",
+    "date": "2025-02-15",
+    "value": 79280368,
+    "value_": 79280368
+  },
+  {
+    "geoid": "11001",
+    "key": "medicaid-enrollment",
+    "date": "2024-03-15",
+    "value": 268229,
+    "value_": 268229
+  },
+  {
+    "geoid": "11001",
+    "key": "medicaid-enrollment",
+    "date": "2025-03-15",
+    "value": 261474,
+    "value_": 261474
+  },
+  {
+    "geoid": "24017",
+    "key": "medicaid-enrollment",
+    "date": "2023-03-15",
+    "value": 42727.0394,
+    "value_": 42727.0394
+  },
+  {
+    "geoid": "24017",
+    "key": "medicaid-enrollment",
+    "date": "2024-03-15",
+    "value": 40200.55305,
+    "value_": 40200.55305
+  },
+  {
+    "geoid": "24017",
+    "key": "medicaid-enrollment",
+    "date": "2025-03-15",
+    "value": 35825.43371,
+    "value_": 35825.43371
+  },
+  {
+    "geoid": "24021",
+    "key": "medicaid-enrollment",
+    "date": "2023-03-15",
+    "value": 54795.03993,
+    "value_": 54795.03993
+  },
+  {
+    "geoid": "24021",
+    "key": "medicaid-enrollment",
+    "date": "2024-03-15",
+    "value": 51681.41796,
+    "value_": 51681.41796
+  },
+  {
+    "geoid": "24021",
+    "key": "medicaid-enrollment",
+    "date": "2025-03-15",
+    "value": 46244.16968,
+    "value_": 46244.16968
+  },
+  {
+    "geoid": "24031",
+    "key": "medicaid-enrollment",
+    "date": "2023-03-15",
+    "value": 231459.37882,
+    "value_": 231459.37882
+  },
+  {
+    "geoid": "24031",
+    "key": "medicaid-enrollment",
+    "date": "2024-03-15",
+    "value": 219969.54438,
+    "value_": 219969.54438
+  },
+  {
+    "geoid": "24031",
+    "key": "medicaid-enrollment",
+    "date": "2025-03-15",
+    "value": 199661.46467,
+    "value_": 199661.46467
+  },
+  {
+    "geoid": "24033",
+    "key": "medicaid-enrollment",
+    "date": "2023-03-15",
+    "value": 286760.58213,
+    "value_": 286760.58213
+  },
+  {
+    "geoid": "24033",
+    "key": "medicaid-enrollment",
+    "date": "2024-03-15",
+    "value": 274851.09119,
+    "value_": 274851.09119
+  },
+  {
+    "geoid": "24033",
+    "key": "medicaid-enrollment",
+    "date": "2025-03-15",
+    "value": 247772.5592,
+    "value_": 247772.5592
+  },
+  {
+    "geoid": "47900",
+    "key": "medicaid-enrollment",
+    "date": "2023-03-15",
+    "value": 615742.0403,
+    "value_": 615742.0403
+  },
+  {
+    "geoid": "47900",
+    "key": "medicaid-enrollment",
+    "date": "2024-03-15",
+    "value": 854931.60658,
+    "value_": 854931.60658
+  },
+  {
+    "geoid": "47900",
+    "key": "medicaid-enrollment",
+    "date": "2025-03-15",
+    "value": 1264843.14539,
+    "value_": 1264843.14539
+  },
+  {
+    "geoid": "51013",
+    "key": "medicaid-enrollment",
+    "date": "2025-03-15",
+    "value": 25946.21943,
+    "value_": 25946.21943
+  },
+  {
+    "geoid": "51043",
+    "key": "medicaid-enrollment",
+    "date": "2025-03-15",
+    "value": 2075.94718,
+    "value_": 2075.94718
+  },
+  {
+    "geoid": "51047",
+    "key": "medicaid-enrollment",
+    "date": "2025-03-15",
+    "value": 11926.41718,
+    "value_": 11926.41718
+  },
+  {
+    "geoid": "51059",
+    "key": "medicaid-enrollment",
+    "date": "2025-03-15",
+    "value": 161043.31062,
+    "value_": 161043.31062
+  },
+  {
+    "geoid": "51061",
+    "key": "medicaid-enrollment",
+    "date": "2025-03-15",
+    "value": 9555.42121,
+    "value_": 9555.42121
+  },
+  {
+    "geoid": "51107",
+    "key": "medicaid-enrollment",
+    "date": "2025-03-15",
+    "value": 46547.29882,
+    "value_": 46547.29882
+  },
+  {
+    "geoid": "51153",
+    "key": "medicaid-enrollment",
+    "date": "2025-03-15",
+    "value": 108517.03431,
+    "value_": 108517.03431
+  },
+  {
+    "geoid": "51157",
+    "key": "medicaid-enrollment",
+    "date": "2025-03-15",
+    "value": 1201.86416,
+    "value_": 1201.86416
+  },
+  {
+    "geoid": "51177",
+    "key": "medicaid-enrollment",
+    "date": "2025-03-15",
+    "value": 30429.59014,
+    "value_": 30429.59014
+  },
+  {
+    "geoid": "51179",
+    "key": "medicaid-enrollment",
+    "date": "2025-03-15",
+    "value": 29648.30085,
+    "value_": 29648.30085
+  },
+  {
+    "geoid": "51187",
+    "key": "medicaid-enrollment",
+    "date": "2025-03-15",
+    "value": 8805.78137,
+    "value_": 8805.78137
+  },
+  {
+    "geoid": "51510",
+    "key": "medicaid-enrollment",
+    "date": "2025-03-15",
+    "value": 29453.8828,
+    "value_": 29453.8828
+  },
+  {
+    "geoid": "51630",
+    "key": "medicaid-enrollment",
+    "date": "2025-03-15",
+    "value": 8714.4501,
+    "value_": 8714.4501
+  },
+  {
+    "geoid": "99999",
+    "key": "medicaid-enrollment",
+    "date": "2023-03-15",
+    "value": 94349705,
+    "value_": 94349705
+  },
+  {
+    "geoid": "99999",
+    "key": "medicaid-enrollment",
+    "date": "2024-03-15",
+    "value": 83429782,
+    "value_": 83429782
+  },
+  {
+    "geoid": "99999",
+    "key": "medicaid-enrollment",
+    "date": "2025-03-15",
+    "value": 79112070,
+    "value_": 79112070
+  },
+  {
+    "geoid": "11001",
+    "key": "medicaid-enrollment",
+    "date": "2024-04-15",
+    "value": 268215,
+    "value_": 268215
+  },
+  {
+    "geoid": "11001",
+    "key": "medicaid-enrollment",
+    "date": "2025-04-15",
+    "value": 261668,
+    "value_": 261668
+  },
+  {
+    "geoid": "24017",
+    "key": "medicaid-enrollment",
+    "date": "2023-04-15",
+    "value": 42894.93716,
+    "value_": 42894.93716
+  },
+  {
+    "geoid": "24017",
+    "key": "medicaid-enrollment",
+    "date": "2024-04-15",
+    "value": 40100.53219,
+    "value_": 40100.53219
+  },
+  {
+    "geoid": "24017",
+    "key": "medicaid-enrollment",
+    "date": "2025-04-15",
+    "value": 35541.21573,
+    "value_": 35541.21573
+  },
+  {
+    "geoid": "24021",
+    "key": "medicaid-enrollment",
+    "date": "2023-04-15",
+    "value": 55001.51196,
+    "value_": 55001.51196
+  },
+  {
+    "geoid": "24021",
+    "key": "medicaid-enrollment",
+    "date": "2024-04-15",
+    "value": 51667.08216,
+    "value_": 51667.08216
+  },
+  {
+    "geoid": "24021",
+    "key": "medicaid-enrollment",
+    "date": "2025-04-15",
+    "value": 46011.42008,
+    "value_": 46011.42008
+  },
+  {
+    "geoid": "24031",
+    "key": "medicaid-enrollment",
+    "date": "2023-04-15",
+    "value": 232251.54899,
+    "value_": 232251.54899
+  },
+  {
+    "geoid": "24031",
+    "key": "medicaid-enrollment",
+    "date": "2024-04-15",
+    "value": 220235.45106,
+    "value_": 220235.45106
+  },
+  {
+    "geoid": "24031",
+    "key": "medicaid-enrollment",
+    "date": "2025-04-15",
+    "value": 198661.51455,
+    "value_": 198661.51455
+  },
+  {
+    "geoid": "24033",
+    "key": "medicaid-enrollment",
+    "date": "2023-04-15",
+    "value": 287996.22175,
+    "value_": 287996.22175
+  },
+  {
+    "geoid": "24033",
+    "key": "medicaid-enrollment",
+    "date": "2024-04-15",
+    "value": 274912.39497,
+    "value_": 274912.39497
+  },
+  {
+    "geoid": "24033",
+    "key": "medicaid-enrollment",
+    "date": "2025-04-15",
+    "value": 246386.03588,
+    "value_": 246386.03588
+  },
+  {
+    "geoid": "47900",
+    "key": "medicaid-enrollment",
+    "date": "2023-04-15",
+    "value": 618144.21985,
+    "value_": 618144.21985
+  },
+  {
+    "geoid": "47900",
+    "key": "medicaid-enrollment",
+    "date": "2024-04-15",
+    "value": 855130.46038,
+    "value_": 855130.46038
+  },
+  {
+    "geoid": "47900",
+    "key": "medicaid-enrollment",
+    "date": "2025-04-15",
+    "value": 1259367.01872,
+    "value_": 1259367.01872
+  },
+  {
+    "geoid": "51013",
+    "key": "medicaid-enrollment",
+    "date": "2025-04-15",
+    "value": 25844.85015,
+    "value_": 25844.85015
+  },
+  {
+    "geoid": "51043",
+    "key": "medicaid-enrollment",
+    "date": "2025-04-15",
+    "value": 2062.58515,
+    "value_": 2062.58515
+  },
+  {
+    "geoid": "51047",
+    "key": "medicaid-enrollment",
+    "date": "2025-04-15",
+    "value": 11939.00113,
+    "value_": 11939.00113
+  },
+  {
+    "geoid": "51059",
+    "key": "medicaid-enrollment",
+    "date": "2025-04-15",
+    "value": 159998.25042,
+    "value_": 159998.25042
+  },
+  {
+    "geoid": "51061",
+    "key": "medicaid-enrollment",
+    "date": "2025-04-15",
+    "value": 9485.39893,
+    "value_": 9485.39893
+  },
+  {
+    "geoid": "51107",
+    "key": "medicaid-enrollment",
+    "date": "2025-04-15",
+    "value": 46523.79502,
+    "value_": 46523.79502
+  },
+  {
+    "geoid": "51153",
+    "key": "medicaid-enrollment",
+    "date": "2025-04-15",
+    "value": 107750.89707,
+    "value_": 107750.89707
+  },
+  {
+    "geoid": "51157",
+    "key": "medicaid-enrollment",
+    "date": "2025-04-15",
+    "value": 1194.12824,
+    "value_": 1194.12824
+  },
+  {
+    "geoid": "51177",
+    "key": "medicaid-enrollment",
+    "date": "2025-04-15",
+    "value": 30226.54018,
+    "value_": 30226.54018
+  },
+  {
+    "geoid": "51179",
+    "key": "medicaid-enrollment",
+    "date": "2025-04-15",
+    "value": 29567.6191,
+    "value_": 29567.6191
+  },
+  {
+    "geoid": "51187",
+    "key": "medicaid-enrollment",
+    "date": "2025-04-15",
+    "value": 8746.25352,
+    "value_": 8746.25352
+  },
+  {
+    "geoid": "51510",
+    "key": "medicaid-enrollment",
+    "date": "2025-04-15",
+    "value": 29113.31509,
+    "value_": 29113.31509
+  },
+  {
+    "geoid": "51630",
+    "key": "medicaid-enrollment",
+    "date": "2025-04-15",
+    "value": 8646.19847,
+    "value_": 8646.19847
+  },
+  {
+    "geoid": "99999",
+    "key": "medicaid-enrollment",
+    "date": "2023-04-15",
+    "value": 94648751,
+    "value_": 94648751
+  },
+  {
+    "geoid": "99999",
+    "key": "medicaid-enrollment",
+    "date": "2024-04-15",
+    "value": 82374132,
+    "value_": 82374132
+  },
+  {
+    "geoid": "99999",
+    "key": "medicaid-enrollment",
+    "date": "2025-04-15",
+    "value": 78864858,
+    "value_": 78864858
+  },
+  {
+    "geoid": "11001",
+    "key": "medicaid-enrollment",
+    "date": "2024-05-15",
+    "value": 265658,
+    "value_": 265658
+  },
+  {
+    "geoid": "11001",
+    "key": "medicaid-enrollment",
+    "date": "2025-05-15",
+    "value": 260734,
+    "value_": 260734
+  },
+  {
+    "geoid": "24017",
+    "key": "medicaid-enrollment",
+    "date": "2023-05-15",
+    "value": 43104.50333,
+    "value_": 43104.50333
+  },
+  {
+    "geoid": "24017",
+    "key": "medicaid-enrollment",
+    "date": "2024-05-15",
+    "value": 39874.71329,
+    "value_": 39874.71329
+  },
+  {
+    "geoid": "24017",
+    "key": "medicaid-enrollment",
+    "date": "2025-05-15",
+    "value": 35260.75293,
+    "value_": 35260.75293
+  },
+  {
+    "geoid": "24021",
+    "key": "medicaid-enrollment",
+    "date": "2023-05-15",
+    "value": 55280.37928,
+    "value_": 55280.37928
+  },
+  {
+    "geoid": "24021",
+    "key": "medicaid-enrollment",
+    "date": "2024-05-15",
+    "value": 51412.48501,
+    "value_": 51412.48501
+  },
+  {
+    "geoid": "24021",
+    "key": "medicaid-enrollment",
+    "date": "2025-05-15",
+    "value": 45779.10985,
+    "value_": 45779.10985
+  },
+  {
+    "geoid": "24031",
+    "key": "medicaid-enrollment",
+    "date": "2023-05-15",
+    "value": 233220.34258,
+    "value_": 233220.34258
+  },
+  {
+    "geoid": "24031",
+    "key": "medicaid-enrollment",
+    "date": "2024-05-15",
+    "value": 219638.99119,
+    "value_": 219638.99119
+  },
+  {
+    "geoid": "24031",
+    "key": "medicaid-enrollment",
+    "date": "2025-05-15",
+    "value": 197509.38777,
+    "value_": 197509.38777
+  },
+  {
+    "geoid": "24033",
+    "key": "medicaid-enrollment",
+    "date": "2023-05-15",
+    "value": 289418.66875,
+    "value_": 289418.66875
+  },
+  {
+    "geoid": "24033",
+    "key": "medicaid-enrollment",
+    "date": "2024-05-15",
+    "value": 274037.70072,
+    "value_": 274037.70072
+  },
+  {
+    "geoid": "24033",
+    "key": "medicaid-enrollment",
+    "date": "2025-05-15",
+    "value": 244908.15005,
+    "value_": 244908.15005
+  },
+  {
+    "geoid": "47900",
+    "key": "medicaid-enrollment",
+    "date": "2023-05-15",
+    "value": 621023.89394,
+    "value_": 621023.89394
+  },
+  {
+    "geoid": "47900",
+    "key": "medicaid-enrollment",
+    "date": "2024-05-15",
+    "value": 850621.89021,
+    "value_": 850621.89021
+  },
+  {
+    "geoid": "47900",
+    "key": "medicaid-enrollment",
+    "date": "2025-05-15",
+    "value": 1249678.45556,
+    "value_": 1249678.45556
+  },
+  {
+    "geoid": "51013",
+    "key": "medicaid-enrollment",
+    "date": "2025-05-15",
+    "value": 25515.23031,
+    "value_": 25515.23031
+  },
+  {
+    "geoid": "51043",
+    "key": "medicaid-enrollment",
+    "date": "2025-05-15",
+    "value": 2040.12094,
+    "value_": 2040.12094
+  },
+  {
+    "geoid": "51047",
+    "key": "medicaid-enrollment",
+    "date": "2025-05-15",
+    "value": 11874.9116,
+    "value_": 11874.9116
+  },
+  {
+    "geoid": "51059",
+    "key": "medicaid-enrollment",
+    "date": "2025-05-15",
+    "value": 158281.22208,
+    "value_": 158281.22208
+  },
+  {
+    "geoid": "51061",
+    "key": "medicaid-enrollment",
+    "date": "2025-05-15",
+    "value": 9343.06383,
+    "value_": 9343.06383
+  },
+  {
+    "geoid": "51107",
+    "key": "medicaid-enrollment",
+    "date": "2025-05-15",
+    "value": 45970.34239,
+    "value_": 45970.34239
+  },
+  {
+    "geoid": "51153",
+    "key": "medicaid-enrollment",
+    "date": "2025-05-15",
+    "value": 106098.90879,
+    "value_": 106098.90879
+  },
+  {
+    "geoid": "51157",
+    "key": "medicaid-enrollment",
+    "date": "2025-05-15",
+    "value": 1181.12265,
+    "value_": 1181.12265
+  },
+  {
+    "geoid": "51177",
+    "key": "medicaid-enrollment",
+    "date": "2025-05-15",
+    "value": 30150.54187,
+    "value_": 30150.54187
+  },
+  {
+    "geoid": "51179",
+    "key": "medicaid-enrollment",
+    "date": "2025-05-15",
+    "value": 29010.27132,
+    "value_": 29010.27132
+  },
+  {
+    "geoid": "51187",
+    "key": "medicaid-enrollment",
+    "date": "2025-05-15",
+    "value": 8687.52006,
+    "value_": 8687.52006
+  },
+  {
+    "geoid": "51510",
+    "key": "medicaid-enrollment",
+    "date": "2025-05-15",
+    "value": 28824.25071,
+    "value_": 28824.25071
+  },
+  {
+    "geoid": "51630",
+    "key": "medicaid-enrollment",
+    "date": "2025-05-15",
+    "value": 8509.54842,
+    "value_": 8509.54842
+  },
+  {
+    "geoid": "99999",
+    "key": "medicaid-enrollment",
+    "date": "2023-05-15",
+    "value": 94369804,
+    "value_": 94369804
+  },
+  {
+    "geoid": "99999",
+    "key": "medicaid-enrollment",
+    "date": "2024-05-15",
+    "value": 81454136,
+    "value_": 81454136
+  },
+  {
+    "geoid": "99999",
+    "key": "medicaid-enrollment",
+    "date": "2025-05-15",
+    "value": 78541076,
+    "value_": 78541076
+  },
+  {
+    "geoid": "11001",
+    "key": "medicaid-enrollment",
+    "date": "2024-06-15",
+    "value": 262528,
+    "value_": 262528
+  },
+  {
+    "geoid": "11001",
+    "key": "medicaid-enrollment",
+    "date": "2025-06-15",
+    "value": 260002,
+    "value_": 260002
+  },
+  {
+    "geoid": "24017",
+    "key": "medicaid-enrollment",
+    "date": "2023-06-15",
+    "value": 42778.48263,
+    "value_": 42778.48263
+  },
+  {
+    "geoid": "24017",
+    "key": "medicaid-enrollment",
+    "date": "2024-06-15",
+    "value": 39572.05474,
+    "value_": 39572.05474
+  },
+  {
+    "geoid": "24017",
+    "key": "medicaid-enrollment",
+    "date": "2025-06-15",
+    "value": 35258.26535,
+    "value_": 35258.26535
+  },
+  {
+    "geoid": "24021",
+    "key": "medicaid-enrollment",
+    "date": "2023-06-15",
+    "value": 55038.33178,
+    "value_": 55038.33178
+  },
+  {
+    "geoid": "24021",
+    "key": "medicaid-enrollment",
+    "date": "2024-06-15",
+    "value": 50999.53758,
+    "value_": 50999.53758
+  },
+  {
+    "geoid": "24021",
+    "key": "medicaid-enrollment",
+    "date": "2025-06-15",
+    "value": 45819.13803,
+    "value_": 45819.13803
+  },
+  {
+    "geoid": "24031",
+    "key": "medicaid-enrollment",
+    "date": "2023-06-15",
+    "value": 232080.95676,
+    "value_": 232080.95676
+  },
+  {
+    "geoid": "24031",
+    "key": "medicaid-enrollment",
+    "date": "2024-06-15",
+    "value": 217745.81881,
+    "value_": 217745.81881
+  },
+  {
+    "geoid": "24031",
+    "key": "medicaid-enrollment",
+    "date": "2025-06-15",
+    "value": 197533.16731,
+    "value_": 197533.16731
+  },
+  {
+    "geoid": "24033",
+    "key": "medicaid-enrollment",
+    "date": "2023-06-15",
+    "value": 287878.64742,
+    "value_": 287878.64742
+  },
+  {
+    "geoid": "24033",
+    "key": "medicaid-enrollment",
+    "date": "2024-06-15",
+    "value": 272187.72329,
+    "value_": 272187.72329
+  },
+  {
+    "geoid": "24033",
+    "key": "medicaid-enrollment",
+    "date": "2025-06-15",
+    "value": 245171.56016,
+    "value_": 245171.56016
+  },
+  {
+    "geoid": "47900",
+    "key": "medicaid-enrollment",
+    "date": "2023-06-15",
+    "value": 617776.41859,
+    "value_": 617776.41859
+  },
+  {
+    "geoid": "47900",
+    "key": "medicaid-enrollment",
+    "date": "2024-06-15",
+    "value": 843033.13442,
+    "value_": 843033.13442
+  },
+  {
+    "geoid": "47900",
+    "key": "medicaid-enrollment",
+    "date": "2025-06-15",
+    "value": 1244831.21678,
+    "value_": 1244831.21678
+  },
+  {
+    "geoid": "51013",
+    "key": "medicaid-enrollment",
+    "date": "2025-06-15",
+    "value": 25523.51777,
+    "value_": 25523.51777
+  },
+  {
+    "geoid": "51043",
+    "key": "medicaid-enrollment",
+    "date": "2025-06-15",
+    "value": 2013.8736,
+    "value_": 2013.8736
+  },
+  {
+    "geoid": "51047",
+    "key": "medicaid-enrollment",
+    "date": "2025-06-15",
+    "value": 11868.05814,
+    "value_": 11868.05814
+  },
+  {
+    "geoid": "51059",
+    "key": "medicaid-enrollment",
+    "date": "2025-06-15",
+    "value": 156468.75825,
+    "value_": 156468.75825
+  },
+  {
+    "geoid": "51061",
+    "key": "medicaid-enrollment",
+    "date": "2025-06-15",
+    "value": 9208.5342,
+    "value_": 9208.5342
+  },
+  {
+    "geoid": "51107",
+    "key": "medicaid-enrollment",
+    "date": "2025-06-15",
+    "value": 45919.49496,
+    "value_": 45919.49496
+  },
+  {
+    "geoid": "51153",
+    "key": "medicaid-enrollment",
+    "date": "2025-06-15",
+    "value": 104858.08986,
+    "value_": 104858.08986
+  },
+  {
+    "geoid": "51157",
+    "key": "medicaid-enrollment",
+    "date": "2025-06-15",
+    "value": 1165.92682,
+    "value_": 1165.92682
+  },
+  {
+    "geoid": "51177",
+    "key": "medicaid-enrollment",
+    "date": "2025-06-15",
+    "value": 29455.26157,
+    "value_": 29455.26157
+  },
+  {
+    "geoid": "51179",
+    "key": "medicaid-enrollment",
+    "date": "2025-06-15",
+    "value": 28801.61928,
+    "value_": 28801.61928
+  },
+  {
+    "geoid": "51187",
+    "key": "medicaid-enrollment",
+    "date": "2025-06-15",
+    "value": 8654.69149,
+    "value_": 8654.69149
+  },
+  {
+    "geoid": "51510",
+    "key": "medicaid-enrollment",
+    "date": "2025-06-15",
+    "value": 28631.69027,
+    "value_": 28631.69027
+  },
+  {
+    "geoid": "51630",
+    "key": "medicaid-enrollment",
+    "date": "2025-06-15",
+    "value": 8477.56971,
+    "value_": 8477.56971
+  },
+  {
+    "geoid": "99999",
+    "key": "medicaid-enrollment",
+    "date": "2023-06-15",
+    "value": 93235204,
+    "value_": 93235204
+  },
+  {
+    "geoid": "99999",
+    "key": "medicaid-enrollment",
+    "date": "2024-06-15",
+    "value": 80568903,
+    "value_": 80568903
+  },
+  {
+    "geoid": "99999",
+    "key": "medicaid-enrollment",
+    "date": "2025-06-15",
+    "value": 78213921,
+    "value_": 78213921
+  },
+  {
+    "geoid": "11001",
+    "key": "medicaid-enrollment",
+    "date": "2024-07-15",
+    "value": 260958,
+    "value_": 260958
+  },
+  {
+    "geoid": "11001",
+    "key": "medicaid-enrollment",
+    "date": "2025-07-15",
+    "value": 259767,
+    "value_": 259767
+  },
+  {
+    "geoid": "24017",
+    "key": "medicaid-enrollment",
+    "date": "2023-07-15",
+    "value": 42439.60966,
+    "value_": 42439.60966
+  },
+  {
+    "geoid": "24017",
+    "key": "medicaid-enrollment",
+    "date": "2024-07-15",
+    "value": 39103.93237,
+    "value_": 39103.93237
+  },
+  {
+    "geoid": "24017",
+    "key": "medicaid-enrollment",
+    "date": "2025-07-15",
+    "value": 34974.04803,
+    "value_": 34974.04803
+  },
+  {
+    "geoid": "24021",
+    "key": "medicaid-enrollment",
+    "date": "2023-07-15",
+    "value": 54426.30453,
+    "value_": 54426.30453
+  },
+  {
+    "geoid": "24021",
+    "key": "medicaid-enrollment",
+    "date": "2024-07-15",
+    "value": 50530.19744,
+    "value_": 50530.19744
+  },
+  {
+    "geoid": "24021",
+    "key": "medicaid-enrollment",
+    "date": "2025-07-15",
+    "value": 45444.9431,
+    "value_": 45444.9431
+  },
+  {
+    "geoid": "24031",
+    "key": "medicaid-enrollment",
+    "date": "2023-07-15",
+    "value": 230197.0449,
+    "value_": 230197.0449
+  },
+  {
+    "geoid": "24031",
+    "key": "medicaid-enrollment",
+    "date": "2024-07-15",
+    "value": 214962.9325,
+    "value_": 214962.9325
+  },
+  {
+    "geoid": "24031",
+    "key": "medicaid-enrollment",
+    "date": "2025-07-15",
+    "value": 196289.13269,
+    "value_": 196289.13269
+  },
+  {
+    "geoid": "24033",
+    "key": "medicaid-enrollment",
+    "date": "2023-07-15",
+    "value": 286011.75139,
+    "value_": 286011.75139
+  },
+  {
+    "geoid": "24033",
+    "key": "medicaid-enrollment",
+    "date": "2024-07-15",
+    "value": 268835.28175,
+    "value_": 268835.28175
+  },
+  {
+    "geoid": "24033",
+    "key": "medicaid-enrollment",
+    "date": "2025-07-15",
+    "value": 243742.03826,
+    "value_": 243742.03826
+  },
+  {
+    "geoid": "47900",
+    "key": "medicaid-enrollment",
+    "date": "2023-07-15",
+    "value": 613074.71048,
+    "value_": 613074.71048
+  },
+  {
+    "geoid": "47900",
+    "key": "medicaid-enrollment",
+    "date": "2024-07-15",
+    "value": 834390.34407,
+    "value_": 834390.34407
+  },
+  {
+    "geoid": "47900",
+    "key": "medicaid-enrollment",
+    "date": "2025-07-15",
+    "value": 1237506.36359,
+    "value_": 1237506.36359
+  },
+  {
+    "geoid": "51013",
+    "key": "medicaid-enrollment",
+    "date": "2025-07-15",
+    "value": 25444.12109,
+    "value_": 25444.12109
+  },
+  {
+    "geoid": "51043",
+    "key": "medicaid-enrollment",
+    "date": "2025-07-15",
+    "value": 1982.69116,
+    "value_": 1982.69116
+  },
+  {
+    "geoid": "51047",
+    "key": "medicaid-enrollment",
+    "date": "2025-07-15",
+    "value": 11761.05456,
+    "value_": 11761.05456
+  },
+  {
+    "geoid": "51059",
+    "key": "medicaid-enrollment",
+    "date": "2025-07-15",
+    "value": 155843.2606,
+    "value_": 155843.2606
+  },
+  {
+    "geoid": "51061",
+    "key": "medicaid-enrollment",
+    "date": "2025-07-15",
+    "value": 9039.40626,
+    "value_": 9039.40626
+  },
+  {
+    "geoid": "51107",
+    "key": "medicaid-enrollment",
+    "date": "2025-07-15",
+    "value": 45737.93522,
+    "value_": 45737.93522
+  },
+  {
+    "geoid": "51153",
+    "key": "medicaid-enrollment",
+    "date": "2025-07-15",
+    "value": 103906.38821,
+    "value_": 103906.38821
+  },
+  {
+    "geoid": "51157",
+    "key": "medicaid-enrollment",
+    "date": "2025-07-15",
+    "value": 1147.87383,
+    "value_": 1147.87383
+  },
+  {
+    "geoid": "51177",
+    "key": "medicaid-enrollment",
+    "date": "2025-07-15",
+    "value": 28981.63282,
+    "value_": 28981.63282
+  },
+  {
+    "geoid": "51179",
+    "key": "medicaid-enrollment",
+    "date": "2025-07-15",
+    "value": 28450.64546,
+    "value_": 28450.64546
+  },
+  {
+    "geoid": "51187",
+    "key": "medicaid-enrollment",
+    "date": "2025-07-15",
+    "value": 8615.69817,
+    "value_": 8615.69817
+  },
+  {
+    "geoid": "51510",
+    "key": "medicaid-enrollment",
+    "date": "2025-07-15",
+    "value": 28013.41478,
+    "value_": 28013.41478
+  },
+  {
+    "geoid": "51630",
+    "key": "medicaid-enrollment",
+    "date": "2025-07-15",
+    "value": 8365.07935,
+    "value_": 8365.07935
+  },
+  {
+    "geoid": "99999",
+    "key": "medicaid-enrollment",
+    "date": "2023-07-15",
+    "value": 92202188,
+    "value_": 92202188
+  },
+  {
+    "geoid": "99999",
+    "key": "medicaid-enrollment",
+    "date": "2024-07-15",
+    "value": 80228368,
+    "value_": 80228368
+  },
+  {
+    "geoid": "99999",
+    "key": "medicaid-enrollment",
+    "date": "2025-07-15",
+    "value": 78022626,
+    "value_": 78022626
+  },
+  {
+    "geoid": "11001",
+    "key": "medicaid-enrollment",
+    "date": "2024-08-15",
+    "value": 258851,
+    "value_": 258851
+  },
+  {
+    "geoid": "11001",
+    "key": "medicaid-enrollment",
+    "date": "2025-08-15",
+    "value": 258668,
+    "value_": 258668
+  },
+  {
+    "geoid": "24017",
+    "key": "medicaid-enrollment",
+    "date": "2023-08-15",
+    "value": 41986.61382,
+    "value_": 41986.61382
+  },
+  {
+    "geoid": "24017",
+    "key": "medicaid-enrollment",
+    "date": "2024-08-15",
+    "value": 38647.73415,
+    "value_": 38647.73415
+  },
+  {
+    "geoid": "24017",
+    "key": "medicaid-enrollment",
+    "date": "2025-08-15",
+    "value": 34917.09699,
+    "value_": 34917.09699
+  },
+  {
+    "geoid": "24021",
+    "key": "medicaid-enrollment",
+    "date": "2023-08-15",
+    "value": 53769.2239,
+    "value_": 53769.2239
+  },
+  {
+    "geoid": "24021",
+    "key": "medicaid-enrollment",
+    "date": "2024-08-15",
+    "value": 49948.95837,
+    "value_": 49948.95837
+  },
+  {
+    "geoid": "24021",
+    "key": "medicaid-enrollment",
+    "date": "2025-08-15",
+    "value": 45386.40407,
+    "value_": 45386.40407
+  },
+  {
+    "geoid": "24031",
+    "key": "medicaid-enrollment",
+    "date": "2023-08-15",
+    "value": 227546.86403,
+    "value_": 227546.86403
+  },
+  {
+    "geoid": "24031",
+    "key": "medicaid-enrollment",
+    "date": "2024-08-15",
+    "value": 213248.81832,
+    "value_": 213248.81832
+  },
+  {
+    "geoid": "24031",
+    "key": "medicaid-enrollment",
+    "date": "2025-08-15",
+    "value": 195817.07821,
+    "value_": 195817.07821
+  },
+  {
+    "geoid": "24033",
+    "key": "medicaid-enrollment",
+    "date": "2023-08-15",
+    "value": 283738.88416,
+    "value_": 283738.88416
+  },
+  {
+    "geoid": "24033",
+    "key": "medicaid-enrollment",
+    "date": "2024-08-15",
+    "value": 266350.42205,
+    "value_": 266350.42205
+  },
+  {
+    "geoid": "24033",
+    "key": "medicaid-enrollment",
+    "date": "2025-08-15",
+    "value": 243386.73988,
+    "value_": 243386.73988
+  },
+  {
+    "geoid": "47900",
+    "key": "medicaid-enrollment",
+    "date": "2023-08-15",
+    "value": 607041.58591,
+    "value_": 607041.58591
+  },
+  {
+    "geoid": "47900",
+    "key": "medicaid-enrollment",
+    "date": "2024-08-15",
+    "value": 827046.93288,
+    "value_": 827046.93288
+  },
+  {
+    "geoid": "47900",
+    "key": "medicaid-enrollment",
+    "date": "2025-08-15",
+    "value": 1231403.25783,
+    "value_": 1231403.25783
+  },
+  {
+    "geoid": "51013",
+    "key": "medicaid-enrollment",
+    "date": "2025-08-15",
+    "value": 25342.92722,
+    "value_": 25342.92722
+  },
+  {
+    "geoid": "51043",
+    "key": "medicaid-enrollment",
+    "date": "2025-08-15",
+    "value": 1961.84047,
+    "value_": 1961.84047
+  },
+  {
+    "geoid": "51047",
+    "key": "medicaid-enrollment",
+    "date": "2025-08-15",
+    "value": 11786.23162,
+    "value_": 11786.23162
+  },
+  {
+    "geoid": "51059",
+    "key": "medicaid-enrollment",
+    "date": "2025-08-15",
+    "value": 153087.54602,
+    "value_": 153087.54602
+  },
+  {
+    "geoid": "51061",
+    "key": "medicaid-enrollment",
+    "date": "2025-08-15",
+    "value": 8877.61223,
+    "value_": 8877.61223
+  },
+  {
+    "geoid": "51107",
+    "key": "medicaid-enrollment",
+    "date": "2025-08-15",
+    "value": 45365.42953,
+    "value_": 45365.42953
+  },
+  {
+    "geoid": "51153",
+    "key": "medicaid-enrollment",
+    "date": "2025-08-15",
+    "value": 103795.70335,
+    "value_": 103795.70335
+  },
+  {
+    "geoid": "51157",
+    "key": "medicaid-enrollment",
+    "date": "2025-08-15",
+    "value": 1135.80238,
+    "value_": 1135.80238
+  },
+  {
+    "geoid": "51177",
+    "key": "medicaid-enrollment",
+    "date": "2025-08-15",
+    "value": 28896.50135,
+    "value_": 28896.50135
+  },
+  {
+    "geoid": "51179",
+    "key": "medicaid-enrollment",
+    "date": "2025-08-15",
+    "value": 28488.21068,
+    "value_": 28488.21068
+  },
+  {
+    "geoid": "51187",
+    "key": "medicaid-enrollment",
+    "date": "2025-08-15",
+    "value": 8584.0404,
+    "value_": 8584.0404
+  },
+  {
+    "geoid": "51510",
+    "key": "medicaid-enrollment",
+    "date": "2025-08-15",
+    "value": 27612.01167,
+    "value_": 27612.01167
+  },
+  {
+    "geoid": "51630",
+    "key": "medicaid-enrollment",
+    "date": "2025-08-15",
+    "value": 8294.08176,
+    "value_": 8294.08176
+  },
+  {
+    "geoid": "99999",
+    "key": "medicaid-enrollment",
+    "date": "2023-08-15",
+    "value": 90855927,
+    "value_": 90855927
+  },
+  {
+    "geoid": "99999",
+    "key": "medicaid-enrollment",
+    "date": "2024-08-15",
+    "value": 80154004,
+    "value_": 80154004
+  },
+  {
+    "geoid": "99999",
+    "key": "medicaid-enrollment",
+    "date": "2025-08-15",
+    "value": 77756232,
+    "value_": 77756232
+  },
+  {
+    "geoid": "11001",
+    "key": "medicaid-enrollment",
+    "date": "2024-09-15",
+    "value": 257197,
+    "value_": 257197
+  },
+  {
+    "geoid": "11001",
+    "key": "medicaid-enrollment",
+    "date": "2025-09-15",
+    "value": 258880,
+    "value_": 258880
+  },
+  {
+    "geoid": "24017",
+    "key": "medicaid-enrollment",
+    "date": "2023-09-15",
+    "value": 41881.55161,
+    "value_": 41881.55161
+  },
+  {
+    "geoid": "24017",
+    "key": "medicaid-enrollment",
+    "date": "2024-09-15",
+    "value": 38495.82026,
+    "value_": 38495.82026
+  },
+  {
+    "geoid": "24017",
+    "key": "medicaid-enrollment",
+    "date": "2025-09-15",
+    "value": 34861.38674,
+    "value_": 34861.38674
+  },
+  {
+    "geoid": "24021",
+    "key": "medicaid-enrollment",
+    "date": "2023-09-15",
+    "value": 53498.53964,
+    "value_": 53498.53964
+  },
+  {
+    "geoid": "24021",
+    "key": "medicaid-enrollment",
+    "date": "2024-09-15",
+    "value": 49567.63532,
+    "value_": 49567.63532
+  },
+  {
+    "geoid": "24021",
+    "key": "medicaid-enrollment",
+    "date": "2025-09-15",
+    "value": 45350.70342,
+    "value_": 45350.70342
+  },
+  {
+    "geoid": "24031",
+    "key": "medicaid-enrollment",
+    "date": "2023-09-15",
+    "value": 226761.29656,
+    "value_": 226761.29656
+  },
+  {
+    "geoid": "24031",
+    "key": "medicaid-enrollment",
+    "date": "2024-09-15",
+    "value": 212354.99889,
+    "value_": 212354.99889
+  },
+  {
+    "geoid": "24031",
+    "key": "medicaid-enrollment",
+    "date": "2025-09-15",
+    "value": 195466.8384,
+    "value_": 195466.8384
+  },
+  {
+    "geoid": "24033",
+    "key": "medicaid-enrollment",
+    "date": "2023-09-15",
+    "value": 283364.76781,
+    "value_": 283364.76781
+  },
+  {
+    "geoid": "24033",
+    "key": "medicaid-enrollment",
+    "date": "2024-09-15",
+    "value": 264692.00236,
+    "value_": 264692.00236
+  },
+  {
+    "geoid": "24033",
+    "key": "medicaid-enrollment",
+    "date": "2025-09-15",
+    "value": 243103.62678,
+    "value_": 243103.62678
+  },
+  {
+    "geoid": "47900",
+    "key": "medicaid-enrollment",
+    "date": "2023-09-15",
+    "value": 605506.15561,
+    "value_": 605506.15561
+  },
+  {
+    "geoid": "47900",
+    "key": "medicaid-enrollment",
+    "date": "2024-09-15",
+    "value": 822307.45683,
+    "value_": 822307.45683
+  },
+  {
+    "geoid": "47900",
+    "key": "medicaid-enrollment",
+    "date": "2025-09-15",
+    "value": 1227392.17962,
+    "value_": 1227392.17962
+  },
+  {
+    "geoid": "51013",
+    "key": "medicaid-enrollment",
+    "date": "2025-09-15",
+    "value": 25287.33238,
+    "value_": 25287.33238
+  },
+  {
+    "geoid": "51043",
+    "key": "medicaid-enrollment",
+    "date": "2025-09-15",
+    "value": 1963.51309,
+    "value_": 1963.51309
+  },
+  {
+    "geoid": "51047",
+    "key": "medicaid-enrollment",
+    "date": "2025-09-15",
+    "value": 11774.3943,
+    "value_": 11774.3943
+  },
+  {
+    "geoid": "51059",
+    "key": "medicaid-enrollment",
+    "date": "2025-09-15",
+    "value": 151208.10882,
+    "value_": 151208.10882
+  },
+  {
+    "geoid": "51061",
+    "key": "medicaid-enrollment",
+    "date": "2025-09-15",
+    "value": 8894.95951,
+    "value_": 8894.95951
+  },
+  {
+    "geoid": "51107",
+    "key": "medicaid-enrollment",
+    "date": "2025-09-15",
+    "value": 44846.63006,
+    "value_": 44846.63006
+  },
+  {
+    "geoid": "51153",
+    "key": "medicaid-enrollment",
+    "date": "2025-09-15",
+    "value": 103561.09057,
+    "value_": 103561.09057
+  },
+  {
+    "geoid": "51157",
+    "key": "medicaid-enrollment",
+    "date": "2025-09-15",
+    "value": 1136.77074,
+    "value_": 1136.77074
+  },
+  {
+    "geoid": "51177",
+    "key": "medicaid-enrollment",
+    "date": "2025-09-15",
+    "value": 28830.62426,
+    "value_": 28830.62426
+  },
+  {
+    "geoid": "51179",
+    "key": "medicaid-enrollment",
+    "date": "2025-09-15",
+    "value": 27929.15712,
+    "value_": 27929.15712
+  },
+  {
+    "geoid": "51187",
+    "key": "medicaid-enrollment",
+    "date": "2025-09-15",
+    "value": 8561.21714,
+    "value_": 8561.21714
+  },
+  {
+    "geoid": "51510",
+    "key": "medicaid-enrollment",
+    "date": "2025-09-15",
+    "value": 27460.28537,
+    "value_": 27460.28537
+  },
+  {
+    "geoid": "51630",
+    "key": "medicaid-enrollment",
+    "date": "2025-09-15",
+    "value": 8275.54094,
+    "value_": 8275.54094
+  },
+  {
+    "geoid": "99999",
+    "key": "medicaid-enrollment",
+    "date": "2023-09-15",
+    "value": 89279604,
+    "value_": 89279604
+  },
+  {
+    "geoid": "99999",
+    "key": "medicaid-enrollment",
+    "date": "2024-09-15",
+    "value": 79998395,
+    "value_": 79998395
+  },
+  {
+    "geoid": "99999",
+    "key": "medicaid-enrollment",
+    "date": "2025-09-15",
+    "value": 77486188,
+    "value_": 77486188
+  },
+  {
+    "geoid": "11001",
+    "key": "medicaid-enrollment",
+    "date": "2024-10-15",
+    "value": 258527,
+    "value_": 258527
+  },
+  {
+    "geoid": "11001",
+    "key": "medicaid-enrollment",
+    "date": "2025-10-15",
+    "value": 259301,
+    "value_": 259301
+  },
+  {
+    "geoid": "24017",
+    "key": "medicaid-enrollment",
+    "date": "2023-10-15",
+    "value": 41975.27254,
+    "value_": 41975.27254
+  },
+  {
+    "geoid": "24017",
+    "key": "medicaid-enrollment",
+    "date": "2024-10-15",
+    "value": 37942.38919,
+    "value_": 37942.38919
+  },
+  {
+    "geoid": "24017",
+    "key": "medicaid-enrollment",
+    "date": "2025-10-15",
+    "value": 34694.79978,
+    "value_": 34694.79978
+  },
+  {
+    "geoid": "24021",
+    "key": "medicaid-enrollment",
+    "date": "2023-10-15",
+    "value": 53354.1172,
+    "value_": 53354.1172
+  },
+  {
+    "geoid": "24021",
+    "key": "medicaid-enrollment",
+    "date": "2024-10-15",
+    "value": 49053.53773,
+    "value_": 49053.53773
+  },
+  {
+    "geoid": "24021",
+    "key": "medicaid-enrollment",
+    "date": "2025-10-15",
+    "value": 45043.24464,
+    "value_": 45043.24464
+  },
+  {
+    "geoid": "24031",
+    "key": "medicaid-enrollment",
+    "date": "2023-10-15",
+    "value": 226864.88472,
+    "value_": 226864.88472
+  },
+  {
+    "geoid": "24031",
+    "key": "medicaid-enrollment",
+    "date": "2024-10-15",
+    "value": 210346.80167,
+    "value_": 210346.80167
+  },
+  {
+    "geoid": "24031",
+    "key": "medicaid-enrollment",
+    "date": "2025-10-15",
+    "value": 194204.68865,
+    "value_": 194204.68865
+  },
+  {
+    "geoid": "24033",
+    "key": "medicaid-enrollment",
+    "date": "2023-10-15",
+    "value": 284146.44062,
+    "value_": 284146.44062
+  },
+  {
+    "geoid": "24033",
+    "key": "medicaid-enrollment",
+    "date": "2024-10-15",
+    "value": 262284.45782,
+    "value_": 262284.45782
+  },
+  {
+    "geoid": "24033",
+    "key": "medicaid-enrollment",
+    "date": "2025-10-15",
+    "value": 241696.55824,
+    "value_": 241696.55824
+  },
+  {
+    "geoid": "47900",
+    "key": "medicaid-enrollment",
+    "date": "2023-10-15",
+    "value": 606340.71507,
+    "value_": 606340.71507
+  },
+  {
+    "geoid": "47900",
+    "key": "medicaid-enrollment",
+    "date": "2024-10-15",
+    "value": 818154.18641,
+    "value_": 818154.18641
+  },
+  {
+    "geoid": "47900",
+    "key": "medicaid-enrollment",
+    "date": "2025-10-15",
+    "value": 1220932.60509,
+    "value_": 1220932.60509
+  },
+  {
+    "geoid": "51013",
+    "key": "medicaid-enrollment",
+    "date": "2025-10-15",
+    "value": 24911.91073,
+    "value_": 24911.91073
+  },
+  {
+    "geoid": "51043",
+    "key": "medicaid-enrollment",
+    "date": "2025-10-15",
+    "value": 1956.83939,
+    "value_": 1956.83939
+  },
+  {
+    "geoid": "51047",
+    "key": "medicaid-enrollment",
+    "date": "2025-10-15",
+    "value": 11654.78513,
+    "value_": 11654.78513
+  },
+  {
+    "geoid": "51059",
+    "key": "medicaid-enrollment",
+    "date": "2025-10-15",
+    "value": 149978.6726,
+    "value_": 149978.6726
+  },
+  {
+    "geoid": "51061",
+    "key": "medicaid-enrollment",
+    "date": "2025-10-15",
+    "value": 8814.2313,
+    "value_": 8814.2313
+  },
+  {
+    "geoid": "51107",
+    "key": "medicaid-enrollment",
+    "date": "2025-10-15",
+    "value": 43798.51404,
+    "value_": 43798.51404
+  },
+  {
+    "geoid": "51153",
+    "key": "medicaid-enrollment",
+    "date": "2025-10-15",
+    "value": 103095.00819,
+    "value_": 103095.00819
+  },
+  {
+    "geoid": "51157",
+    "key": "medicaid-enrollment",
+    "date": "2025-10-15",
+    "value": 1132.90702,
+    "value_": 1132.90702
+  },
+  {
+    "geoid": "51177",
+    "key": "medicaid-enrollment",
+    "date": "2025-10-15",
+    "value": 28597.56556,
+    "value_": 28597.56556
+  },
+  {
+    "geoid": "51179",
+    "key": "medicaid-enrollment",
+    "date": "2025-10-15",
+    "value": 28038.69384,
+    "value_": 28038.69384
+  },
+  {
+    "geoid": "51187",
+    "key": "medicaid-enrollment",
+    "date": "2025-10-15",
+    "value": 8557.89305,
+    "value_": 8557.89305
+  },
+  {
+    "geoid": "51510",
+    "key": "medicaid-enrollment",
+    "date": "2025-10-15",
+    "value": 27220.76651,
+    "value_": 27220.76651
+  },
+  {
+    "geoid": "51630",
+    "key": "medicaid-enrollment",
+    "date": "2025-10-15",
+    "value": 8234.52643,
+    "value_": 8234.52643
+  },
+  {
+    "geoid": "99999",
+    "key": "medicaid-enrollment",
+    "date": "2023-10-15",
+    "value": 88103002,
+    "value_": 88103002
+  },
+  {
+    "geoid": "99999",
+    "key": "medicaid-enrollment",
+    "date": "2024-10-15",
+    "value": 79824083,
+    "value_": 79824083
+  },
+  {
+    "geoid": "99999",
+    "key": "medicaid-enrollment",
+    "date": "2025-10-15",
+    "value": 77208947,
+    "value_": 77208947
+  },
+  {
+    "geoid": "11001",
+    "key": "medicaid-enrollment",
+    "date": "2024-11-15",
+    "value": 258632,
+    "value_": 258632
+  },
+  {
+    "geoid": "11001",
+    "key": "medicaid-enrollment",
+    "date": "2025-11-15",
+    "value": 258617,
+    "value_": 258617
+  },
+  {
+    "geoid": "24017",
+    "key": "medicaid-enrollment",
+    "date": "2023-11-15",
+    "value": 41997.91845,
+    "value_": 41997.91845
+  },
+  {
+    "geoid": "24017",
+    "key": "medicaid-enrollment",
+    "date": "2024-11-15",
+    "value": 37589.87165,
+    "value_": 37589.87165
+  },
+  {
+    "geoid": "24017",
+    "key": "medicaid-enrollment",
+    "date": "2025-11-15",
+    "value": 34741.66194,
+    "value_": 34741.66194
+  },
+  {
+    "geoid": "24021",
+    "key": "medicaid-enrollment",
+    "date": "2023-11-15",
+    "value": 53530.98134,
+    "value_": 53530.98134
+  },
+  {
+    "geoid": "24021",
+    "key": "medicaid-enrollment",
+    "date": "2024-11-15",
+    "value": 48707.76437,
+    "value_": 48707.76437
+  },
+  {
+    "geoid": "24021",
+    "key": "medicaid-enrollment",
+    "date": "2025-11-15",
+    "value": 44982.28865,
+    "value_": 44982.28865
+  },
+  {
+    "geoid": "24031",
+    "key": "medicaid-enrollment",
+    "date": "2023-11-15",
+    "value": 227582.80202,
+    "value_": 227582.80202
+  },
+  {
+    "geoid": "24031",
+    "key": "medicaid-enrollment",
+    "date": "2024-11-15",
+    "value": 209064.51727,
+    "value_": 209064.51727
+  },
+  {
+    "geoid": "24031",
+    "key": "medicaid-enrollment",
+    "date": "2025-11-15",
+    "value": 193841.038,
+    "value_": 193841.038
+  },
+  {
+    "geoid": "24033",
+    "key": "medicaid-enrollment",
+    "date": "2023-11-15",
+    "value": 285217.75886,
+    "value_": 285217.75886
+  },
+  {
+    "geoid": "24033",
+    "key": "medicaid-enrollment",
+    "date": "2024-11-15",
+    "value": 260262.66703,
+    "value_": 260262.66703
+  },
+  {
+    "geoid": "24033",
+    "key": "medicaid-enrollment",
+    "date": "2025-11-15",
+    "value": 241308.09481,
+    "value_": 241308.09481
+  },
+  {
+    "geoid": "47900",
+    "key": "medicaid-enrollment",
+    "date": "2023-11-15",
+    "value": 608329.46067,
+    "value_": 608329.46067
+  },
+  {
+    "geoid": "47900",
+    "key": "medicaid-enrollment",
+    "date": "2024-11-15",
+    "value": 814256.82032,
+    "value_": 814256.82032
+  },
+  {
+    "geoid": "47900",
+    "key": "medicaid-enrollment",
+    "date": "2025-11-15",
+    "value": 1219969.24913,
+    "value_": 1219969.24913
+  },
+  {
+    "geoid": "51013",
+    "key": "medicaid-enrollment",
+    "date": "2025-11-15",
+    "value": 25050.35553,
+    "value_": 25050.35553
+  },
+  {
+    "geoid": "51043",
+    "key": "medicaid-enrollment",
+    "date": "2025-11-15",
+    "value": 1971.75935,
+    "value_": 1971.75935
+  },
+  {
+    "geoid": "51047",
+    "key": "medicaid-enrollment",
+    "date": "2025-11-15",
+    "value": 11671.3021,
+    "value_": 11671.3021
+  },
+  {
+    "geoid": "51059",
+    "key": "medicaid-enrollment",
+    "date": "2025-11-15",
+    "value": 149818.14845,
+    "value_": 149818.14845
+  },
+  {
+    "geoid": "51061",
+    "key": "medicaid-enrollment",
+    "date": "2025-11-15",
+    "value": 8824.44333,
+    "value_": 8824.44333
+  },
+  {
+    "geoid": "51107",
+    "key": "medicaid-enrollment",
+    "date": "2025-11-15",
+    "value": 43728.26018,
+    "value_": 43728.26018
+  },
+  {
+    "geoid": "51153",
+    "key": "medicaid-enrollment",
+    "date": "2025-11-15",
+    "value": 103408.66353,
+    "value_": 103408.66353
+  },
+  {
+    "geoid": "51157",
+    "key": "medicaid-enrollment",
+    "date": "2025-11-15",
+    "value": 1141.54489,
+    "value_": 1141.54489
+  },
+  {
+    "geoid": "51177",
+    "key": "medicaid-enrollment",
+    "date": "2025-11-15",
+    "value": 28684.21744,
+    "value_": 28684.21744
+  },
+  {
+    "geoid": "51179",
+    "key": "medicaid-enrollment",
+    "date": "2025-11-15",
+    "value": 28121.03254,
+    "value_": 28121.03254
+  },
+  {
+    "geoid": "51187",
+    "key": "medicaid-enrollment",
+    "date": "2025-11-15",
+    "value": 8557.86308,
+    "value_": 8557.86308
+  },
+  {
+    "geoid": "51510",
+    "key": "medicaid-enrollment",
+    "date": "2025-11-15",
+    "value": 27232.12841,
+    "value_": 27232.12841
+  },
+  {
+    "geoid": "51630",
+    "key": "medicaid-enrollment",
+    "date": "2025-11-15",
+    "value": 8269.4469,
+    "value_": 8269.4469
+  },
+  {
+    "geoid": "99999",
+    "key": "medicaid-enrollment",
+    "date": "2023-11-15",
+    "value": 86683508,
+    "value_": 86683508
+  },
+  {
+    "geoid": "99999",
+    "key": "medicaid-enrollment",
+    "date": "2024-11-15",
+    "value": 79577836,
+    "value_": 79577836
+  },
+  {
+    "geoid": "99999",
+    "key": "medicaid-enrollment",
+    "date": "2025-11-15",
+    "value": 76453195,
+    "value_": 76453195
+  },
+  {
+    "geoid": "11001",
+    "key": "medicaid-enrollment",
+    "date": "2023-12-15",
+    "value": 277511,
+    "value_": 277511
+  },
+  {
+    "geoid": "11001",
+    "key": "medicaid-enrollment",
+    "date": "2024-12-15",
+    "value": 260045,
+    "value_": 260045
+  },
+  {
+    "geoid": "11001",
+    "key": "medicaid-enrollment",
+    "date": "2025-12-15",
+    "value": 256933,
+    "value_": 256933
+  },
+  {
+    "geoid": "24017",
+    "key": "medicaid-enrollment",
+    "date": "2023-12-15",
+    "value": 41371.82821,
+    "value_": 41371.82821
+  },
+  {
+    "geoid": "24017",
+    "key": "medicaid-enrollment",
+    "date": "2024-12-15",
+    "value": 36727.84303,
+    "value_": 36727.84303
+  },
+  {
+    "geoid": "24017",
+    "key": "medicaid-enrollment",
+    "date": "2025-12-15",
+    "value": 34557.45722,
+    "value_": 34557.45722
+  },
+  {
+    "geoid": "24021",
+    "key": "medicaid-enrollment",
+    "date": "2023-12-15",
+    "value": 52658.06597,
+    "value_": 52658.06597
+  },
+  {
+    "geoid": "24021",
+    "key": "medicaid-enrollment",
+    "date": "2024-12-15",
+    "value": 47685.36774,
+    "value_": 47685.36774
+  },
+  {
+    "geoid": "24021",
+    "key": "medicaid-enrollment",
+    "date": "2025-12-15",
+    "value": 44696.32716,
+    "value_": 44696.32716
+  },
+  {
+    "geoid": "24031",
+    "key": "medicaid-enrollment",
+    "date": "2023-12-15",
+    "value": 223841.98023,
+    "value_": 223841.98023
+  },
+  {
+    "geoid": "24031",
+    "key": "medicaid-enrollment",
+    "date": "2024-12-15",
+    "value": 204282.31682,
+    "value_": 204282.31682
+  },
+  {
+    "geoid": "24031",
+    "key": "medicaid-enrollment",
+    "date": "2025-12-15",
+    "value": 192563.86865,
+    "value_": 192563.86865
+  },
+  {
+    "geoid": "24033",
+    "key": "medicaid-enrollment",
+    "date": "2023-12-15",
+    "value": 280882.77545,
+    "value_": 280882.77545
+  },
+  {
+    "geoid": "24033",
+    "key": "medicaid-enrollment",
+    "date": "2024-12-15",
+    "value": 254341.6741,
+    "value_": 254341.6741
+  },
+  {
+    "geoid": "24033",
+    "key": "medicaid-enrollment",
+    "date": "2025-12-15",
+    "value": 239411.34596,
+    "value_": 239411.34596
+  },
+  {
+    "geoid": "47900",
+    "key": "medicaid-enrollment",
+    "date": "2023-12-15",
+    "value": 876265.64985,
+    "value_": 876265.64985
+  },
+  {
+    "geoid": "47900",
+    "key": "medicaid-enrollment",
+    "date": "2024-12-15",
+    "value": 1278658.00552,
+    "value_": 1278658.00552
+  },
+  {
+    "geoid": "47900",
+    "key": "medicaid-enrollment",
+    "date": "2025-12-15",
+    "value": 1209788.15474,
+    "value_": 1209788.15474
+  },
+  {
+    "geoid": "51013",
+    "key": "medicaid-enrollment",
+    "date": "2024-12-15",
+    "value": 26092.58407,
+    "value_": 26092.58407
+  },
+  {
+    "geoid": "51013",
+    "key": "medicaid-enrollment",
+    "date": "2025-12-15",
+    "value": 24853.91487,
+    "value_": 24853.91487
+  },
+  {
+    "geoid": "51043",
+    "key": "medicaid-enrollment",
+    "date": "2024-12-15",
+    "value": 2080.4677,
+    "value_": 2080.4677
+  },
+  {
+    "geoid": "51043",
+    "key": "medicaid-enrollment",
+    "date": "2025-12-15",
+    "value": 1947.46244,
+    "value_": 1947.46244
+  },
+  {
+    "geoid": "51047",
+    "key": "medicaid-enrollment",
+    "date": "2024-12-15",
+    "value": 11863.80083,
+    "value_": 11863.80083
+  },
+  {
+    "geoid": "51047",
+    "key": "medicaid-enrollment",
+    "date": "2025-12-15",
+    "value": 11572.33127,
+    "value_": 11572.33127
+  },
+  {
+    "geoid": "51059",
+    "key": "medicaid-enrollment",
+    "date": "2024-12-15",
+    "value": 161636.60737,
+    "value_": 161636.60737
+  },
+  {
+    "geoid": "51059",
+    "key": "medicaid-enrollment",
+    "date": "2025-12-15",
+    "value": 148479.84297,
+    "value_": 148479.84297
+  },
+  {
+    "geoid": "51061",
+    "key": "medicaid-enrollment",
+    "date": "2024-12-15",
+    "value": 9695.97566,
+    "value_": 9695.97566
+  },
+  {
+    "geoid": "51061",
+    "key": "medicaid-enrollment",
+    "date": "2025-12-15",
+    "value": 8713.67652,
+    "value_": 8713.67652
+  },
+  {
+    "geoid": "51107",
+    "key": "medicaid-enrollment",
+    "date": "2024-12-15",
+    "value": 45467.35196,
+    "value_": 45467.35196
+  },
+  {
+    "geoid": "51107",
+    "key": "medicaid-enrollment",
+    "date": "2025-12-15",
+    "value": 43148.04516,
+    "value_": 43148.04516
+  },
+  {
+    "geoid": "51153",
+    "key": "medicaid-enrollment",
+    "date": "2024-12-15",
+    "value": 109640.69143,
+    "value_": 109640.69143
+  },
+  {
+    "geoid": "51153",
+    "key": "medicaid-enrollment",
+    "date": "2025-12-15",
+    "value": 102365.04454,
+    "value_": 102365.04454
+  },
+  {
+    "geoid": "51157",
+    "key": "medicaid-enrollment",
+    "date": "2024-12-15",
+    "value": 1204.4813,
+    "value_": 1204.4813
+  },
+  {
+    "geoid": "51157",
+    "key": "medicaid-enrollment",
+    "date": "2025-12-15",
+    "value": 1127.47825,
+    "value_": 1127.47825
+  },
+  {
+    "geoid": "51177",
+    "key": "medicaid-enrollment",
+    "date": "2024-12-15",
+    "value": 30846.96743,
+    "value_": 30846.96743
+  },
+  {
+    "geoid": "51177",
+    "key": "medicaid-enrollment",
+    "date": "2025-12-15",
+    "value": 28417.33243,
+    "value_": 28417.33243
+  },
+  {
+    "geoid": "51179",
+    "key": "medicaid-enrollment",
+    "date": "2024-12-15",
+    "value": 29659.50208,
+    "value_": 29659.50208
+  },
+  {
+    "geoid": "51179",
+    "key": "medicaid-enrollment",
+    "date": "2025-12-15",
+    "value": 27712.56962,
+    "value_": 27712.56962
+  },
+  {
+    "geoid": "51187",
+    "key": "medicaid-enrollment",
+    "date": "2024-12-15",
+    "value": 8843.13497,
+    "value_": 8843.13497
+  },
+  {
+    "geoid": "51187",
+    "key": "medicaid-enrollment",
+    "date": "2025-12-15",
+    "value": 8416.65005,
+    "value_": 8416.65005
+  },
+  {
+    "geoid": "51510",
+    "key": "medicaid-enrollment",
+    "date": "2024-12-15",
+    "value": 29652.26695,
+    "value_": 29652.26695
+  },
+  {
+    "geoid": "51510",
+    "key": "medicaid-enrollment",
+    "date": "2025-12-15",
+    "value": 26789.08732,
+    "value_": 26789.08732
+  },
+  {
+    "geoid": "51630",
+    "key": "medicaid-enrollment",
+    "date": "2024-12-15",
+    "value": 8891.97208,
+    "value_": 8891.97208
+  },
+  {
+    "geoid": "51630",
+    "key": "medicaid-enrollment",
+    "date": "2025-12-15",
+    "value": 8082.7203,
+    "value_": 8082.7203
+  },
+  {
+    "geoid": "99999",
+    "key": "medicaid-enrollment",
+    "date": "2023-12-15",
+    "value": 85739534,
+    "value_": 85739534
+  },
+  {
+    "geoid": "99999",
+    "key": "medicaid-enrollment",
+    "date": "2024-12-15",
+    "value": 79146955,
+    "value_": 79146955
+  },
+  {
+    "geoid": "99999",
+    "key": "medicaid-enrollment",
+    "date": "2025-12-15",
+    "value": 75725985,
+    "value_": 75725985
+  }
+]

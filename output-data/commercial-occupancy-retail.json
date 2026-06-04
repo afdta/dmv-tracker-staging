@@ -1,0 +1,9263 @@
+[
+  {
+    "geoid": "11001",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-03-15",
+    "value": 0.93817,
+    "value_": 93.81688
+  },
+  {
+    "geoid": "11001",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-03-15",
+    "value": 0.94688,
+    "value_": 94.68848
+  },
+  {
+    "geoid": "11001",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-03-15",
+    "value": 0.95022,
+    "value_": 95.02175
+  },
+  {
+    "geoid": "11001",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-03-15",
+    "value": 0.9504,
+    "value_": 95.04035
+  },
+  {
+    "geoid": "11001",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-03-15",
+    "value": 0.94041,
+    "value_": 94.04102
+  },
+  {
+    "geoid": "11001",
+    "key": "commercial-occupancy-retail",
+    "date": "2026-03-15",
+    "value": 0.93329,
+    "value_": 93.32894
+  },
+  {
+    "geoid": "12060",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-03-15",
+    "value": 0.94966,
+    "value_": 94.96596
+  },
+  {
+    "geoid": "12060",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-03-15",
+    "value": 0.95836,
+    "value_": 95.83582
+  },
+  {
+    "geoid": "12060",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-03-15",
+    "value": 0.96461,
+    "value_": 96.46099
+  },
+  {
+    "geoid": "12060",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-03-15",
+    "value": 0.96609,
+    "value_": 96.60884
+  },
+  {
+    "geoid": "12060",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-03-15",
+    "value": 0.96073,
+    "value_": 96.07311
+  },
+  {
+    "geoid": "12060",
+    "key": "commercial-occupancy-retail",
+    "date": "2026-03-15",
+    "value": 0.95643,
+    "value_": 95.64306
+  },
+  {
+    "geoid": "12420",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-03-15",
+    "value": 0.95734,
+    "value_": 95.73436
+  },
+  {
+    "geoid": "12420",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-03-15",
+    "value": 0.96398,
+    "value_": 96.39755
+  },
+  {
+    "geoid": "12420",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-03-15",
+    "value": 0.97101,
+    "value_": 97.10119
+  },
+  {
+    "geoid": "12420",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-03-15",
+    "value": 0.97059,
+    "value_": 97.05903
+  },
+  {
+    "geoid": "12420",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-03-15",
+    "value": 0.96959,
+    "value_": 96.9593
+  },
+  {
+    "geoid": "12420",
+    "key": "commercial-occupancy-retail",
+    "date": "2026-03-15",
+    "value": 0.96709,
+    "value_": 96.70924
+  },
+  {
+    "geoid": "12580",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-03-15",
+    "value": 0.93892,
+    "value_": 93.8916
+  },
+  {
+    "geoid": "12580",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-03-15",
+    "value": 0.94395,
+    "value_": 94.39511
+  },
+  {
+    "geoid": "12580",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-03-15",
+    "value": 0.94677,
+    "value_": 94.6771
+  },
+  {
+    "geoid": "12580",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-03-15",
+    "value": 0.94776,
+    "value_": 94.77633
+  },
+  {
+    "geoid": "12580",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-03-15",
+    "value": 0.94673,
+    "value_": 94.67324
+  },
+  {
+    "geoid": "12580",
+    "key": "commercial-occupancy-retail",
+    "date": "2026-03-15",
+    "value": 0.9433,
+    "value_": 94.32991
+  },
+  {
+    "geoid": "13820",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-03-15",
+    "value": 0.96164,
+    "value_": 96.16381
+  },
+  {
+    "geoid": "13820",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-03-15",
+    "value": 0.96335,
+    "value_": 96.33495
+  },
+  {
+    "geoid": "13820",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-03-15",
+    "value": 0.96643,
+    "value_": 96.64332
+  },
+  {
+    "geoid": "13820",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-03-15",
+    "value": 0.95936,
+    "value_": 95.93576
+  },
+  {
+    "geoid": "13820",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-03-15",
+    "value": 0.959,
+    "value_": 95.89952
+  },
+  {
+    "geoid": "13820",
+    "key": "commercial-occupancy-retail",
+    "date": "2026-03-15",
+    "value": 0.96183,
+    "value_": 96.18272
+  },
+  {
+    "geoid": "14460",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-03-15",
+    "value": 0.9698,
+    "value_": 96.97988
+  },
+  {
+    "geoid": "14460",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-03-15",
+    "value": 0.97215,
+    "value_": 97.21516
+  },
+  {
+    "geoid": "14460",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-03-15",
+    "value": 0.97515,
+    "value_": 97.51481
+  },
+  {
+    "geoid": "14460",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-03-15",
+    "value": 0.97605,
+    "value_": 97.60517
+  },
+  {
+    "geoid": "14460",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-03-15",
+    "value": 0.97585,
+    "value_": 97.5849
+  },
+  {
+    "geoid": "14460",
+    "key": "commercial-occupancy-retail",
+    "date": "2026-03-15",
+    "value": 0.97173,
+    "value_": 97.17288
+  },
+  {
+    "geoid": "15380",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-03-15",
+    "value": 0.94794,
+    "value_": 94.79365
+  },
+  {
+    "geoid": "15380",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-03-15",
+    "value": 0.95628,
+    "value_": 95.62821
+  },
+  {
+    "geoid": "15380",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-03-15",
+    "value": 0.95576,
+    "value_": 95.57591
+  },
+  {
+    "geoid": "15380",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-03-15",
+    "value": 0.95712,
+    "value_": 95.71162
+  },
+  {
+    "geoid": "15380",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-03-15",
+    "value": 0.95043,
+    "value_": 95.04314
+  },
+  {
+    "geoid": "15380",
+    "key": "commercial-occupancy-retail",
+    "date": "2026-03-15",
+    "value": 0.93442,
+    "value_": 93.44242
+  },
+  {
+    "geoid": "16740",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-03-15",
+    "value": 0.95314,
+    "value_": 95.31402
+  },
+  {
+    "geoid": "16740",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-03-15",
+    "value": 0.96406,
+    "value_": 96.406
+  },
+  {
+    "geoid": "16740",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-03-15",
+    "value": 0.96764,
+    "value_": 96.76449
+  },
+  {
+    "geoid": "16740",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-03-15",
+    "value": 0.97188,
+    "value_": 97.18777
+  },
+  {
+    "geoid": "16740",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-03-15",
+    "value": 0.96642,
+    "value_": 96.64196
+  },
+  {
+    "geoid": "16740",
+    "key": "commercial-occupancy-retail",
+    "date": "2026-03-15",
+    "value": 0.96598,
+    "value_": 96.59838
+  },
+  {
+    "geoid": "16980",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-03-15",
+    "value": 0.9382,
+    "value_": 93.81954
+  },
+  {
+    "geoid": "16980",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-03-15",
+    "value": 0.94174,
+    "value_": 94.17393
+  },
+  {
+    "geoid": "16980",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-03-15",
+    "value": 0.94745,
+    "value_": 94.7446
+  },
+  {
+    "geoid": "16980",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-03-15",
+    "value": 0.95023,
+    "value_": 95.023
+  },
+  {
+    "geoid": "16980",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-03-15",
+    "value": 0.95103,
+    "value_": 95.10295
+  },
+  {
+    "geoid": "16980",
+    "key": "commercial-occupancy-retail",
+    "date": "2026-03-15",
+    "value": 0.9508,
+    "value_": 95.07985
+  },
+  {
+    "geoid": "17140",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-03-15",
+    "value": 0.94023,
+    "value_": 94.02337
+  },
+  {
+    "geoid": "17140",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-03-15",
+    "value": 0.94367,
+    "value_": 94.36715
+  },
+  {
+    "geoid": "17140",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-03-15",
+    "value": 0.94464,
+    "value_": 94.46411
+  },
+  {
+    "geoid": "17140",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-03-15",
+    "value": 0.94802,
+    "value_": 94.80155
+  },
+  {
+    "geoid": "17140",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-03-15",
+    "value": 0.947,
+    "value_": 94.69989
+  },
+  {
+    "geoid": "17140",
+    "key": "commercial-occupancy-retail",
+    "date": "2026-03-15",
+    "value": 0.94318,
+    "value_": 94.31769
+  },
+  {
+    "geoid": "17410",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-03-15",
+    "value": 0.94822,
+    "value_": 94.82211
+  },
+  {
+    "geoid": "17410",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-03-15",
+    "value": 0.95317,
+    "value_": 95.31723
+  },
+  {
+    "geoid": "17410",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-03-15",
+    "value": 0.95315,
+    "value_": 95.31502
+  },
+  {
+    "geoid": "17410",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-03-15",
+    "value": 0.9538,
+    "value_": 95.37954
+  },
+  {
+    "geoid": "17410",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-03-15",
+    "value": 0.9536,
+    "value_": 95.35976
+  },
+  {
+    "geoid": "17410",
+    "key": "commercial-occupancy-retail",
+    "date": "2026-03-15",
+    "value": 0.94909,
+    "value_": 94.90915
+  },
+  {
+    "geoid": "18140",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-03-15",
+    "value": 0.95763,
+    "value_": 95.7633
+  },
+  {
+    "geoid": "18140",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-03-15",
+    "value": 0.96016,
+    "value_": 96.01632
+  },
+  {
+    "geoid": "18140",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-03-15",
+    "value": 0.96166,
+    "value_": 96.16631
+  },
+  {
+    "geoid": "18140",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-03-15",
+    "value": 0.95954,
+    "value_": 95.95393
+  },
+  {
+    "geoid": "18140",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-03-15",
+    "value": 0.96842,
+    "value_": 96.84164
+  },
+  {
+    "geoid": "18140",
+    "key": "commercial-occupancy-retail",
+    "date": "2026-03-15",
+    "value": 0.96655,
+    "value_": 96.65505
+  },
+  {
+    "geoid": "19100",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-03-15",
+    "value": 0.94034,
+    "value_": 94.03386
+  },
+  {
+    "geoid": "19100",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-03-15",
+    "value": 0.94998,
+    "value_": 94.99788
+  },
+  {
+    "geoid": "19100",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-03-15",
+    "value": 0.95358,
+    "value_": 95.35787
+  },
+  {
+    "geoid": "19100",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-03-15",
+    "value": 0.95429,
+    "value_": 95.42924
+  },
+  {
+    "geoid": "19100",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-03-15",
+    "value": 0.95251,
+    "value_": 95.2507
+  },
+  {
+    "geoid": "19100",
+    "key": "commercial-occupancy-retail",
+    "date": "2026-03-15",
+    "value": 0.94942,
+    "value_": 94.94178
+  },
+  {
+    "geoid": "19740",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-03-15",
+    "value": 0.94995,
+    "value_": 94.99458
+  },
+  {
+    "geoid": "19740",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-03-15",
+    "value": 0.95687,
+    "value_": 95.68667
+  },
+  {
+    "geoid": "19740",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-03-15",
+    "value": 0.96246,
+    "value_": 96.24588
+  },
+  {
+    "geoid": "19740",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-03-15",
+    "value": 0.96171,
+    "value_": 96.17147
+  },
+  {
+    "geoid": "19740",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-03-15",
+    "value": 0.95838,
+    "value_": 95.83846
+  },
+  {
+    "geoid": "19740",
+    "key": "commercial-occupancy-retail",
+    "date": "2026-03-15",
+    "value": 0.95611,
+    "value_": 95.61062
+  },
+  {
+    "geoid": "19820",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-03-15",
+    "value": 0.94372,
+    "value_": 94.37221
+  },
+  {
+    "geoid": "19820",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-03-15",
+    "value": 0.9485,
+    "value_": 94.85037
+  },
+  {
+    "geoid": "19820",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-03-15",
+    "value": 0.95053,
+    "value_": 95.05286
+  },
+  {
+    "geoid": "19820",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-03-15",
+    "value": 0.94967,
+    "value_": 94.96725
+  },
+  {
+    "geoid": "19820",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-03-15",
+    "value": 0.94475,
+    "value_": 94.47504
+  },
+  {
+    "geoid": "19820",
+    "key": "commercial-occupancy-retail",
+    "date": "2026-03-15",
+    "value": 0.9501,
+    "value_": 95.01035
+  },
+  {
+    "geoid": "23420",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-03-15",
+    "value": 0.95461,
+    "value_": 95.46119
+  },
+  {
+    "geoid": "23420",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-03-15",
+    "value": 0.95761,
+    "value_": 95.7609
+  },
+  {
+    "geoid": "23420",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-03-15",
+    "value": 0.96147,
+    "value_": 96.14659
+  },
+  {
+    "geoid": "23420",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-03-15",
+    "value": 0.95668,
+    "value_": 95.66782
+  },
+  {
+    "geoid": "23420",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-03-15",
+    "value": 0.94581,
+    "value_": 94.58069
+  },
+  {
+    "geoid": "23420",
+    "key": "commercial-occupancy-retail",
+    "date": "2026-03-15",
+    "value": 0.9425,
+    "value_": 94.24959
+  },
+  {
+    "geoid": "24017",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-03-15",
+    "value": 0.93455,
+    "value_": 93.45513
+  },
+  {
+    "geoid": "24017",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-03-15",
+    "value": 0.93821,
+    "value_": 93.82092
+  },
+  {
+    "geoid": "24017",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-03-15",
+    "value": 0.94242,
+    "value_": 94.2424
+  },
+  {
+    "geoid": "24017",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-03-15",
+    "value": 0.94666,
+    "value_": 94.66628
+  },
+  {
+    "geoid": "24017",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-03-15",
+    "value": 0.95592,
+    "value_": 95.5922
+  },
+  {
+    "geoid": "24017",
+    "key": "commercial-occupancy-retail",
+    "date": "2026-03-15",
+    "value": 0.95825,
+    "value_": 95.82493
+  },
+  {
+    "geoid": "24031",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-03-15",
+    "value": 0.9402,
+    "value_": 94.01962
+  },
+  {
+    "geoid": "24031",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-03-15",
+    "value": 0.93948,
+    "value_": 93.9476
+  },
+  {
+    "geoid": "24031",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-03-15",
+    "value": 0.94059,
+    "value_": 94.05913
+  },
+  {
+    "geoid": "24031",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-03-15",
+    "value": 0.94046,
+    "value_": 94.04612
+  },
+  {
+    "geoid": "24031",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-03-15",
+    "value": 0.93702,
+    "value_": 93.70226
+  },
+  {
+    "geoid": "24031",
+    "key": "commercial-occupancy-retail",
+    "date": "2026-03-15",
+    "value": 0.95207,
+    "value_": 95.20686
+  },
+  {
+    "geoid": "24033",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-03-15",
+    "value": 0.94814,
+    "value_": 94.81395
+  },
+  {
+    "geoid": "24033",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-03-15",
+    "value": 0.94854,
+    "value_": 94.85365
+  },
+  {
+    "geoid": "24033",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-03-15",
+    "value": 0.94706,
+    "value_": 94.70604
+  },
+  {
+    "geoid": "24033",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-03-15",
+    "value": 0.94714,
+    "value_": 94.71359
+  },
+  {
+    "geoid": "24033",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-03-15",
+    "value": 0.94776,
+    "value_": 94.77552
+  },
+  {
+    "geoid": "24033",
+    "key": "commercial-occupancy-retail",
+    "date": "2026-03-15",
+    "value": 0.93841,
+    "value_": 93.84075
+  },
+  {
+    "geoid": "24340",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-03-15",
+    "value": 0.96719,
+    "value_": 96.71889
+  },
+  {
+    "geoid": "24340",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-03-15",
+    "value": 0.96791,
+    "value_": 96.79093
+  },
+  {
+    "geoid": "24340",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-03-15",
+    "value": 0.971,
+    "value_": 97.09981
+  },
+  {
+    "geoid": "24340",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-03-15",
+    "value": 0.97356,
+    "value_": 97.35576
+  },
+  {
+    "geoid": "24340",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-03-15",
+    "value": 0.97142,
+    "value_": 97.14248
+  },
+  {
+    "geoid": "24340",
+    "key": "commercial-occupancy-retail",
+    "date": "2026-03-15",
+    "value": 0.97245,
+    "value_": 97.24491
+  },
+  {
+    "geoid": "25540",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-03-15",
+    "value": 0.95774,
+    "value_": 95.77361
+  },
+  {
+    "geoid": "25540",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-03-15",
+    "value": 0.95792,
+    "value_": 95.79223
+  },
+  {
+    "geoid": "25540",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-03-15",
+    "value": 0.96102,
+    "value_": 96.1022
+  },
+  {
+    "geoid": "25540",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-03-15",
+    "value": 0.95895,
+    "value_": 95.89547
+  },
+  {
+    "geoid": "25540",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-03-15",
+    "value": 0.95796,
+    "value_": 95.79649
+  },
+  {
+    "geoid": "25540",
+    "key": "commercial-occupancy-retail",
+    "date": "2026-03-15",
+    "value": 0.95784,
+    "value_": 95.78422
+  },
+  {
+    "geoid": "26420",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-03-15",
+    "value": 0.93981,
+    "value_": 93.98116
+  },
+  {
+    "geoid": "26420",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-03-15",
+    "value": 0.9468,
+    "value_": 94.67973
+  },
+  {
+    "geoid": "26420",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-03-15",
+    "value": 0.95181,
+    "value_": 95.18145
+  },
+  {
+    "geoid": "26420",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-03-15",
+    "value": 0.95014,
+    "value_": 95.01359
+  },
+  {
+    "geoid": "26420",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-03-15",
+    "value": 0.94805,
+    "value_": 94.80453
+  },
+  {
+    "geoid": "26420",
+    "key": "commercial-occupancy-retail",
+    "date": "2026-03-15",
+    "value": 0.94673,
+    "value_": 94.6728
+  },
+  {
+    "geoid": "26900",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-03-15",
+    "value": 0.95459,
+    "value_": 95.45909
+  },
+  {
+    "geoid": "26900",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-03-15",
+    "value": 0.96153,
+    "value_": 96.15294
+  },
+  {
+    "geoid": "26900",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-03-15",
+    "value": 0.9642,
+    "value_": 96.41979
+  },
+  {
+    "geoid": "26900",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-03-15",
+    "value": 0.96894,
+    "value_": 96.89449
+  },
+  {
+    "geoid": "26900",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-03-15",
+    "value": 0.9699,
+    "value_": 96.98964
+  },
+  {
+    "geoid": "26900",
+    "key": "commercial-occupancy-retail",
+    "date": "2026-03-15",
+    "value": 0.96814,
+    "value_": 96.81404
+  },
+  {
+    "geoid": "27260",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-03-15",
+    "value": 0.95306,
+    "value_": 95.30583
+  },
+  {
+    "geoid": "27260",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-03-15",
+    "value": 0.95684,
+    "value_": 95.68418
+  },
+  {
+    "geoid": "27260",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-03-15",
+    "value": 0.9573,
+    "value_": 95.72977
+  },
+  {
+    "geoid": "27260",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-03-15",
+    "value": 0.95679,
+    "value_": 95.67883
+  },
+  {
+    "geoid": "27260",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-03-15",
+    "value": 0.95734,
+    "value_": 95.73408
+  },
+  {
+    "geoid": "27260",
+    "key": "commercial-occupancy-retail",
+    "date": "2026-03-15",
+    "value": 0.95082,
+    "value_": 95.0816
+  },
+  {
+    "geoid": "28140",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-03-15",
+    "value": 0.94192,
+    "value_": 94.19236
+  },
+  {
+    "geoid": "28140",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-03-15",
+    "value": 0.94991,
+    "value_": 94.99134
+  },
+  {
+    "geoid": "28140",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-03-15",
+    "value": 0.95696,
+    "value_": 95.696
+  },
+  {
+    "geoid": "28140",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-03-15",
+    "value": 0.9591,
+    "value_": 95.91001
+  },
+  {
+    "geoid": "28140",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-03-15",
+    "value": 0.96016,
+    "value_": 96.01608
+  },
+  {
+    "geoid": "28140",
+    "key": "commercial-occupancy-retail",
+    "date": "2026-03-15",
+    "value": 0.95494,
+    "value_": 95.49385
+  },
+  {
+    "geoid": "29820",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-03-15",
+    "value": 0.93357,
+    "value_": 93.35672
+  },
+  {
+    "geoid": "29820",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-03-15",
+    "value": 0.94562,
+    "value_": 94.56186
+  },
+  {
+    "geoid": "29820",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-03-15",
+    "value": 0.94805,
+    "value_": 94.80505
+  },
+  {
+    "geoid": "29820",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-03-15",
+    "value": 0.94999,
+    "value_": 94.99863
+  },
+  {
+    "geoid": "29820",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-03-15",
+    "value": 0.95015,
+    "value_": 95.01475
+  },
+  {
+    "geoid": "29820",
+    "key": "commercial-occupancy-retail",
+    "date": "2026-03-15",
+    "value": 0.94981,
+    "value_": 94.98114
+  },
+  {
+    "geoid": "31140",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-03-15",
+    "value": 0.96658,
+    "value_": 96.6579
+  },
+  {
+    "geoid": "31140",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-03-15",
+    "value": 0.97183,
+    "value_": 97.18267
+  },
+  {
+    "geoid": "31140",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-03-15",
+    "value": 0.96792,
+    "value_": 96.79172
+  },
+  {
+    "geoid": "31140",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-03-15",
+    "value": 0.97016,
+    "value_": 97.01638
+  },
+  {
+    "geoid": "31140",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-03-15",
+    "value": 0.96814,
+    "value_": 96.81362
+  },
+  {
+    "geoid": "31140",
+    "key": "commercial-occupancy-retail",
+    "date": "2026-03-15",
+    "value": 0.96527,
+    "value_": 96.52724
+  },
+  {
+    "geoid": "32820",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-03-15",
+    "value": 0.95063,
+    "value_": 95.06326
+  },
+  {
+    "geoid": "32820",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-03-15",
+    "value": 0.96557,
+    "value_": 96.55728
+  },
+  {
+    "geoid": "32820",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-03-15",
+    "value": 0.96533,
+    "value_": 96.53282
+  },
+  {
+    "geoid": "32820",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-03-15",
+    "value": 0.96439,
+    "value_": 96.43915
+  },
+  {
+    "geoid": "32820",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-03-15",
+    "value": 0.96004,
+    "value_": 96.00396
+  },
+  {
+    "geoid": "32820",
+    "key": "commercial-occupancy-retail",
+    "date": "2026-03-15",
+    "value": 0.95573,
+    "value_": 95.5731
+  },
+  {
+    "geoid": "33340",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-03-15",
+    "value": 0.94796,
+    "value_": 94.79577
+  },
+  {
+    "geoid": "33340",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-03-15",
+    "value": 0.95466,
+    "value_": 95.46637
+  },
+  {
+    "geoid": "33340",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-03-15",
+    "value": 0.95918,
+    "value_": 95.9176
+  },
+  {
+    "geoid": "33340",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-03-15",
+    "value": 0.95925,
+    "value_": 95.92467
+  },
+  {
+    "geoid": "33340",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-03-15",
+    "value": 0.96871,
+    "value_": 96.87069
+  },
+  {
+    "geoid": "33340",
+    "key": "commercial-occupancy-retail",
+    "date": "2026-03-15",
+    "value": 0.96646,
+    "value_": 96.64594
+  },
+  {
+    "geoid": "33460",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-03-15",
+    "value": 0.96285,
+    "value_": 96.285
+  },
+  {
+    "geoid": "33460",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-03-15",
+    "value": 0.96807,
+    "value_": 96.80723
+  },
+  {
+    "geoid": "33460",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-03-15",
+    "value": 0.97039,
+    "value_": 97.03851
+  },
+  {
+    "geoid": "33460",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-03-15",
+    "value": 0.97475,
+    "value_": 97.47473
+  },
+  {
+    "geoid": "33460",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-03-15",
+    "value": 0.97489,
+    "value_": 97.48915
+  },
+  {
+    "geoid": "33460",
+    "key": "commercial-occupancy-retail",
+    "date": "2026-03-15",
+    "value": 0.97256,
+    "value_": 97.25596
+  },
+  {
+    "geoid": "34980",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-03-15",
+    "value": 0.95899,
+    "value_": 95.8995
+  },
+  {
+    "geoid": "34980",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-03-15",
+    "value": 0.96573,
+    "value_": 96.57337
+  },
+  {
+    "geoid": "34980",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-03-15",
+    "value": 0.97149,
+    "value_": 97.14871
+  },
+  {
+    "geoid": "34980",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-03-15",
+    "value": 0.96965,
+    "value_": 96.96472
+  },
+  {
+    "geoid": "34980",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-03-15",
+    "value": 0.96932,
+    "value_": 96.93207
+  },
+  {
+    "geoid": "34980",
+    "key": "commercial-occupancy-retail",
+    "date": "2026-03-15",
+    "value": 0.96582,
+    "value_": 96.58206
+  },
+  {
+    "geoid": "36420",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-03-15",
+    "value": 0.94721,
+    "value_": 94.7208
+  },
+  {
+    "geoid": "36420",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-03-15",
+    "value": 0.95155,
+    "value_": 95.15492
+  },
+  {
+    "geoid": "36420",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-03-15",
+    "value": 0.95363,
+    "value_": 95.36322
+  },
+  {
+    "geoid": "36420",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-03-15",
+    "value": 0.95309,
+    "value_": 95.30949
+  },
+  {
+    "geoid": "36420",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-03-15",
+    "value": 0.94752,
+    "value_": 94.75211
+  },
+  {
+    "geoid": "36420",
+    "key": "commercial-occupancy-retail",
+    "date": "2026-03-15",
+    "value": 0.94463,
+    "value_": 94.46328
+  },
+  {
+    "geoid": "36540",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-03-15",
+    "value": 0.94147,
+    "value_": 94.14746
+  },
+  {
+    "geoid": "36540",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-03-15",
+    "value": 0.94598,
+    "value_": 94.59811
+  },
+  {
+    "geoid": "36540",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-03-15",
+    "value": 0.95021,
+    "value_": 95.02077
+  },
+  {
+    "geoid": "36540",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-03-15",
+    "value": 0.95575,
+    "value_": 95.57474
+  },
+  {
+    "geoid": "36540",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-03-15",
+    "value": 0.95477,
+    "value_": 95.47721
+  },
+  {
+    "geoid": "36540",
+    "key": "commercial-occupancy-retail",
+    "date": "2026-03-15",
+    "value": 0.95349,
+    "value_": 95.34931
+  },
+  {
+    "geoid": "36740",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-03-15",
+    "value": 0.95488,
+    "value_": 95.4876
+  },
+  {
+    "geoid": "36740",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-03-15",
+    "value": 0.96303,
+    "value_": 96.30311
+  },
+  {
+    "geoid": "36740",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-03-15",
+    "value": 0.96445,
+    "value_": 96.44547
+  },
+  {
+    "geoid": "36740",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-03-15",
+    "value": 0.96707,
+    "value_": 96.70698
+  },
+  {
+    "geoid": "36740",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-03-15",
+    "value": 0.9623,
+    "value_": 96.2296
+  },
+  {
+    "geoid": "36740",
+    "key": "commercial-occupancy-retail",
+    "date": "2026-03-15",
+    "value": 0.9614,
+    "value_": 96.14041
+  },
+  {
+    "geoid": "37980",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-03-15",
+    "value": 0.94878,
+    "value_": 94.87826
+  },
+  {
+    "geoid": "37980",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-03-15",
+    "value": 0.95326,
+    "value_": 95.32614
+  },
+  {
+    "geoid": "37980",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-03-15",
+    "value": 0.95718,
+    "value_": 95.71807
+  },
+  {
+    "geoid": "37980",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-03-15",
+    "value": 0.95921,
+    "value_": 95.9213
+  },
+  {
+    "geoid": "37980",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-03-15",
+    "value": 0.95963,
+    "value_": 95.96297
+  },
+  {
+    "geoid": "37980",
+    "key": "commercial-occupancy-retail",
+    "date": "2026-03-15",
+    "value": 0.95662,
+    "value_": 95.66199
+  },
+  {
+    "geoid": "38060",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-03-15",
+    "value": 0.92802,
+    "value_": 92.80193
+  },
+  {
+    "geoid": "38060",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-03-15",
+    "value": 0.94045,
+    "value_": 94.04514
+  },
+  {
+    "geoid": "38060",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-03-15",
+    "value": 0.95224,
+    "value_": 95.22373
+  },
+  {
+    "geoid": "38060",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-03-15",
+    "value": 0.95227,
+    "value_": 95.22711
+  },
+  {
+    "geoid": "38060",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-03-15",
+    "value": 0.95426,
+    "value_": 95.42616
+  },
+  {
+    "geoid": "38060",
+    "key": "commercial-occupancy-retail",
+    "date": "2026-03-15",
+    "value": 0.95352,
+    "value_": 95.35202
+  },
+  {
+    "geoid": "38300",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-03-15",
+    "value": 0.95603,
+    "value_": 95.60288
+  },
+  {
+    "geoid": "38300",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-03-15",
+    "value": 0.95827,
+    "value_": 95.82664
+  },
+  {
+    "geoid": "38300",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-03-15",
+    "value": 0.9589,
+    "value_": 95.8902
+  },
+  {
+    "geoid": "38300",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-03-15",
+    "value": 0.95896,
+    "value_": 95.89599
+  },
+  {
+    "geoid": "38300",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-03-15",
+    "value": 0.961,
+    "value_": 96.1001
+  },
+  {
+    "geoid": "38300",
+    "key": "commercial-occupancy-retail",
+    "date": "2026-03-15",
+    "value": 0.95494,
+    "value_": 95.49375
+  },
+  {
+    "geoid": "38900",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-03-15",
+    "value": 0.95618,
+    "value_": 95.61787
+  },
+  {
+    "geoid": "38900",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-03-15",
+    "value": 0.96256,
+    "value_": 96.25623
+  },
+  {
+    "geoid": "38900",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-03-15",
+    "value": 0.96309,
+    "value_": 96.30909
+  },
+  {
+    "geoid": "38900",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-03-15",
+    "value": 0.95939,
+    "value_": 95.93922
+  },
+  {
+    "geoid": "38900",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-03-15",
+    "value": 0.95869,
+    "value_": 95.86889
+  },
+  {
+    "geoid": "38900",
+    "key": "commercial-occupancy-retail",
+    "date": "2026-03-15",
+    "value": 0.95364,
+    "value_": 95.36424
+  },
+  {
+    "geoid": "39300",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-03-15",
+    "value": 0.9469,
+    "value_": 94.69023
+  },
+  {
+    "geoid": "39300",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-03-15",
+    "value": 0.96389,
+    "value_": 96.38914
+  },
+  {
+    "geoid": "39300",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-03-15",
+    "value": 0.96857,
+    "value_": 96.85749
+  },
+  {
+    "geoid": "39300",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-03-15",
+    "value": 0.96996,
+    "value_": 96.99623
+  },
+  {
+    "geoid": "39300",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-03-15",
+    "value": 0.97002,
+    "value_": 97.00164
+  },
+  {
+    "geoid": "39300",
+    "key": "commercial-occupancy-retail",
+    "date": "2026-03-15",
+    "value": 0.96414,
+    "value_": 96.41357
+  },
+  {
+    "geoid": "39580",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-03-15",
+    "value": 0.96527,
+    "value_": 96.52711
+  },
+  {
+    "geoid": "39580",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-03-15",
+    "value": 0.9708,
+    "value_": 97.07974
+  },
+  {
+    "geoid": "39580",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-03-15",
+    "value": 0.97822,
+    "value_": 97.82214
+  },
+  {
+    "geoid": "39580",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-03-15",
+    "value": 0.98191,
+    "value_": 98.19053
+  },
+  {
+    "geoid": "39580",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-03-15",
+    "value": 0.97558,
+    "value_": 97.5585
+  },
+  {
+    "geoid": "39580",
+    "key": "commercial-occupancy-retail",
+    "date": "2026-03-15",
+    "value": 0.97443,
+    "value_": 97.44301
+  },
+  {
+    "geoid": "40060",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-03-15",
+    "value": 0.94378,
+    "value_": 94.37808
+  },
+  {
+    "geoid": "40060",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-03-15",
+    "value": 0.95094,
+    "value_": 95.09393
+  },
+  {
+    "geoid": "40060",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-03-15",
+    "value": 0.9551,
+    "value_": 95.51011
+  },
+  {
+    "geoid": "40060",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-03-15",
+    "value": 0.95868,
+    "value_": 95.8677
+  },
+  {
+    "geoid": "40060",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-03-15",
+    "value": 0.95636,
+    "value_": 95.63607
+  },
+  {
+    "geoid": "40060",
+    "key": "commercial-occupancy-retail",
+    "date": "2026-03-15",
+    "value": 0.95278,
+    "value_": 95.27819
+  },
+  {
+    "geoid": "40140",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-03-15",
+    "value": 0.92443,
+    "value_": 92.44257
+  },
+  {
+    "geoid": "40140",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-03-15",
+    "value": 0.93712,
+    "value_": 93.71191
+  },
+  {
+    "geoid": "40140",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-03-15",
+    "value": 0.94152,
+    "value_": 94.15243
+  },
+  {
+    "geoid": "40140",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-03-15",
+    "value": 0.94493,
+    "value_": 94.49333
+  },
+  {
+    "geoid": "40140",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-03-15",
+    "value": 0.93804,
+    "value_": 93.80425
+  },
+  {
+    "geoid": "40140",
+    "key": "commercial-occupancy-retail",
+    "date": "2026-03-15",
+    "value": 0.93532,
+    "value_": 93.53188
+  },
+  {
+    "geoid": "40380",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-03-15",
+    "value": 0.95194,
+    "value_": 95.19379
+  },
+  {
+    "geoid": "40380",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-03-15",
+    "value": 0.95466,
+    "value_": 95.46593
+  },
+  {
+    "geoid": "40380",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-03-15",
+    "value": 0.95508,
+    "value_": 95.50831
+  },
+  {
+    "geoid": "40380",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-03-15",
+    "value": 0.96019,
+    "value_": 96.01868
+  },
+  {
+    "geoid": "40380",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-03-15",
+    "value": 0.95299,
+    "value_": 95.29874
+  },
+  {
+    "geoid": "40380",
+    "key": "commercial-occupancy-retail",
+    "date": "2026-03-15",
+    "value": 0.9525,
+    "value_": 95.25023
+  },
+  {
+    "geoid": "40900",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-03-15",
+    "value": 0.93961,
+    "value_": 93.96147
+  },
+  {
+    "geoid": "40900",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-03-15",
+    "value": 0.9465,
+    "value_": 94.64999
+  },
+  {
+    "geoid": "40900",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-03-15",
+    "value": 0.94049,
+    "value_": 94.04947
+  },
+  {
+    "geoid": "40900",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-03-15",
+    "value": 0.94511,
+    "value_": 94.51095
+  },
+  {
+    "geoid": "40900",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-03-15",
+    "value": 0.94229,
+    "value_": 94.22868
+  },
+  {
+    "geoid": "40900",
+    "key": "commercial-occupancy-retail",
+    "date": "2026-03-15",
+    "value": 0.94129,
+    "value_": 94.12863
+  },
+  {
+    "geoid": "41180",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-03-15",
+    "value": 0.93796,
+    "value_": 93.79575
+  },
+  {
+    "geoid": "41180",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-03-15",
+    "value": 0.94055,
+    "value_": 94.05537
+  },
+  {
+    "geoid": "41180",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-03-15",
+    "value": 0.94974,
+    "value_": 94.9738
+  },
+  {
+    "geoid": "41180",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-03-15",
+    "value": 0.9545,
+    "value_": 95.45025
+  },
+  {
+    "geoid": "41180",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-03-15",
+    "value": 0.9555,
+    "value_": 95.5497
+  },
+  {
+    "geoid": "41180",
+    "key": "commercial-occupancy-retail",
+    "date": "2026-03-15",
+    "value": 0.95939,
+    "value_": 95.93935
+  },
+  {
+    "geoid": "41620",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-03-15",
+    "value": 0.96176,
+    "value_": 96.17646
+  },
+  {
+    "geoid": "41620",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-03-15",
+    "value": 0.97283,
+    "value_": 97.28321
+  },
+  {
+    "geoid": "41620",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-03-15",
+    "value": 0.97512,
+    "value_": 97.51159
+  },
+  {
+    "geoid": "41620",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-03-15",
+    "value": 0.97393,
+    "value_": 97.3932
+  },
+  {
+    "geoid": "41620",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-03-15",
+    "value": 0.97312,
+    "value_": 97.31219
+  },
+  {
+    "geoid": "41620",
+    "key": "commercial-occupancy-retail",
+    "date": "2026-03-15",
+    "value": 0.96892,
+    "value_": 96.892
+  },
+  {
+    "geoid": "41700",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-03-15",
+    "value": 0.95226,
+    "value_": 95.22596
+  },
+  {
+    "geoid": "41700",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-03-15",
+    "value": 0.96002,
+    "value_": 96.00214
+  },
+  {
+    "geoid": "41700",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-03-15",
+    "value": 0.96586,
+    "value_": 96.58639
+  },
+  {
+    "geoid": "41700",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-03-15",
+    "value": 0.96631,
+    "value_": 96.63136
+  },
+  {
+    "geoid": "41700",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-03-15",
+    "value": 0.96358,
+    "value_": 96.35798
+  },
+  {
+    "geoid": "41700",
+    "key": "commercial-occupancy-retail",
+    "date": "2026-03-15",
+    "value": 0.96148,
+    "value_": 96.14846
+  },
+  {
+    "geoid": "41740",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-03-15",
+    "value": 0.94668,
+    "value_": 94.6681
+  },
+  {
+    "geoid": "41740",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-03-15",
+    "value": 0.95285,
+    "value_": 95.28491
+  },
+  {
+    "geoid": "41740",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-03-15",
+    "value": 0.95824,
+    "value_": 95.82386
+  },
+  {
+    "geoid": "41740",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-03-15",
+    "value": 0.95886,
+    "value_": 95.88584
+  },
+  {
+    "geoid": "41740",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-03-15",
+    "value": 0.95829,
+    "value_": 95.82929
+  },
+  {
+    "geoid": "41740",
+    "key": "commercial-occupancy-retail",
+    "date": "2026-03-15",
+    "value": 0.95436,
+    "value_": 95.43605
+  },
+  {
+    "geoid": "41940",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-03-15",
+    "value": 0.95491,
+    "value_": 95.49087
+  },
+  {
+    "geoid": "41940",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-03-15",
+    "value": 0.95348,
+    "value_": 95.34833
+  },
+  {
+    "geoid": "41940",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-03-15",
+    "value": 0.95738,
+    "value_": 95.73767
+  },
+  {
+    "geoid": "41940",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-03-15",
+    "value": 0.95581,
+    "value_": 95.58055
+  },
+  {
+    "geoid": "41940",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-03-15",
+    "value": 0.95756,
+    "value_": 95.7564
+  },
+  {
+    "geoid": "41940",
+    "key": "commercial-occupancy-retail",
+    "date": "2026-03-15",
+    "value": 0.95745,
+    "value_": 95.74455
+  },
+  {
+    "geoid": "42660",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-03-15",
+    "value": 0.96758,
+    "value_": 96.75844
+  },
+  {
+    "geoid": "42660",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-03-15",
+    "value": 0.97229,
+    "value_": 97.2291
+  },
+  {
+    "geoid": "42660",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-03-15",
+    "value": 0.9693,
+    "value_": 96.93024
+  },
+  {
+    "geoid": "42660",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-03-15",
+    "value": 0.96496,
+    "value_": 96.49585
+  },
+  {
+    "geoid": "42660",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-03-15",
+    "value": 0.96349,
+    "value_": 96.3491
+  },
+  {
+    "geoid": "42660",
+    "key": "commercial-occupancy-retail",
+    "date": "2026-03-15",
+    "value": 0.95899,
+    "value_": 95.89948
+  },
+  {
+    "geoid": "45300",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-03-15",
+    "value": 0.95726,
+    "value_": 95.72592
+  },
+  {
+    "geoid": "45300",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-03-15",
+    "value": 0.9647,
+    "value_": 96.46987
+  },
+  {
+    "geoid": "45300",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-03-15",
+    "value": 0.96983,
+    "value_": 96.98267
+  },
+  {
+    "geoid": "45300",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-03-15",
+    "value": 0.96967,
+    "value_": 96.96733
+  },
+  {
+    "geoid": "45300",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-03-15",
+    "value": 0.96828,
+    "value_": 96.82801
+  },
+  {
+    "geoid": "45300",
+    "key": "commercial-occupancy-retail",
+    "date": "2026-03-15",
+    "value": 0.96295,
+    "value_": 96.29515
+  },
+  {
+    "geoid": "46060",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-03-15",
+    "value": 0.93996,
+    "value_": 93.9961
+  },
+  {
+    "geoid": "46060",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-03-15",
+    "value": 0.94115,
+    "value_": 94.11472
+  },
+  {
+    "geoid": "46060",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-03-15",
+    "value": 0.94291,
+    "value_": 94.29061
+  },
+  {
+    "geoid": "46060",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-03-15",
+    "value": 0.94232,
+    "value_": 94.23181
+  },
+  {
+    "geoid": "46060",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-03-15",
+    "value": 0.94205,
+    "value_": 94.20511
+  },
+  {
+    "geoid": "46060",
+    "key": "commercial-occupancy-retail",
+    "date": "2026-03-15",
+    "value": 0.93931,
+    "value_": 93.93127
+  },
+  {
+    "geoid": "46140",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-03-15",
+    "value": 0.96425,
+    "value_": 96.4253
+  },
+  {
+    "geoid": "46140",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-03-15",
+    "value": 0.96634,
+    "value_": 96.63363
+  },
+  {
+    "geoid": "46140",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-03-15",
+    "value": 0.97112,
+    "value_": 97.11231
+  },
+  {
+    "geoid": "46140",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-03-15",
+    "value": 0.96896,
+    "value_": 96.89601
+  },
+  {
+    "geoid": "46140",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-03-15",
+    "value": 0.96869,
+    "value_": 96.86939
+  },
+  {
+    "geoid": "46140",
+    "key": "commercial-occupancy-retail",
+    "date": "2026-03-15",
+    "value": 0.97089,
+    "value_": 97.0893
+  },
+  {
+    "geoid": "47260",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-03-15",
+    "value": 0.94351,
+    "value_": 94.35149
+  },
+  {
+    "geoid": "47260",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-03-15",
+    "value": 0.94924,
+    "value_": 94.92361
+  },
+  {
+    "geoid": "47260",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-03-15",
+    "value": 0.9526,
+    "value_": 95.2601
+  },
+  {
+    "geoid": "47260",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-03-15",
+    "value": 0.95308,
+    "value_": 95.30755
+  },
+  {
+    "geoid": "47260",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-03-15",
+    "value": 0.95894,
+    "value_": 95.89401
+  },
+  {
+    "geoid": "47260",
+    "key": "commercial-occupancy-retail",
+    "date": "2026-03-15",
+    "value": 0.95333,
+    "value_": 95.3328
+  },
+  {
+    "geoid": "47900",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-03-15",
+    "value": 0.94495,
+    "value_": 94.49518
+  },
+  {
+    "geoid": "47900",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-03-15",
+    "value": 0.94737,
+    "value_": 94.73744
+  },
+  {
+    "geoid": "47900",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-03-15",
+    "value": 0.95452,
+    "value_": 95.45239
+  },
+  {
+    "geoid": "47900",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-03-15",
+    "value": 0.95714,
+    "value_": 95.71434
+  },
+  {
+    "geoid": "47900",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-03-15",
+    "value": 0.95545,
+    "value_": 95.54514
+  },
+  {
+    "geoid": "47900",
+    "key": "commercial-occupancy-retail",
+    "date": "2026-03-15",
+    "value": 0.95544,
+    "value_": 95.54415
+  },
+  {
+    "geoid": "51013",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-03-15",
+    "value": 0.96339,
+    "value_": 96.33884
+  },
+  {
+    "geoid": "51013",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-03-15",
+    "value": 0.97458,
+    "value_": 97.45839
+  },
+  {
+    "geoid": "51013",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-03-15",
+    "value": 0.95271,
+    "value_": 95.27117
+  },
+  {
+    "geoid": "51013",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-03-15",
+    "value": 0.95146,
+    "value_": 95.14634
+  },
+  {
+    "geoid": "51013",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-03-15",
+    "value": 0.95169,
+    "value_": 95.16938
+  },
+  {
+    "geoid": "51013",
+    "key": "commercial-occupancy-retail",
+    "date": "2026-03-15",
+    "value": 0.94948,
+    "value_": 94.94802
+  },
+  {
+    "geoid": "51061",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-03-15",
+    "value": 0.94725,
+    "value_": 94.72511
+  },
+  {
+    "geoid": "51061",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-03-15",
+    "value": 0.95731,
+    "value_": 95.73085
+  },
+  {
+    "geoid": "51061",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-03-15",
+    "value": 0.95818,
+    "value_": 95.81781
+  },
+  {
+    "geoid": "51061",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-03-15",
+    "value": 0.95406,
+    "value_": 95.40561
+  },
+  {
+    "geoid": "51061",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-03-15",
+    "value": 0.95701,
+    "value_": 95.70058
+  },
+  {
+    "geoid": "51061",
+    "key": "commercial-occupancy-retail",
+    "date": "2026-03-15",
+    "value": 0.94396,
+    "value_": 94.39586
+  },
+  {
+    "geoid": "51107",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-03-15",
+    "value": 0.9273,
+    "value_": 92.72979
+  },
+  {
+    "geoid": "51107",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-03-15",
+    "value": 0.93314,
+    "value_": 93.31402
+  },
+  {
+    "geoid": "51107",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-03-15",
+    "value": 0.93798,
+    "value_": 93.79792
+  },
+  {
+    "geoid": "51107",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-03-15",
+    "value": 0.94375,
+    "value_": 94.37534
+  },
+  {
+    "geoid": "51107",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-03-15",
+    "value": 0.94016,
+    "value_": 94.01602
+  },
+  {
+    "geoid": "51107",
+    "key": "commercial-occupancy-retail",
+    "date": "2026-03-15",
+    "value": 0.95154,
+    "value_": 95.15369
+  },
+  {
+    "geoid": "51153",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-03-15",
+    "value": 0.95518,
+    "value_": 95.51814
+  },
+  {
+    "geoid": "51153",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-03-15",
+    "value": 0.9632,
+    "value_": 96.3198
+  },
+  {
+    "geoid": "51153",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-03-15",
+    "value": 0.96903,
+    "value_": 96.90324
+  },
+  {
+    "geoid": "51153",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-03-15",
+    "value": 0.97356,
+    "value_": 97.35579
+  },
+  {
+    "geoid": "51153",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-03-15",
+    "value": 0.97705,
+    "value_": 97.70531
+  },
+  {
+    "geoid": "51153",
+    "key": "commercial-occupancy-retail",
+    "date": "2026-03-15",
+    "value": 0.96386,
+    "value_": 96.38562
+  },
+  {
+    "geoid": "51179",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-03-15",
+    "value": 0.95336,
+    "value_": 95.33618
+  },
+  {
+    "geoid": "51179",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-03-15",
+    "value": 0.97211,
+    "value_": 97.2108
+  },
+  {
+    "geoid": "51179",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-03-15",
+    "value": 0.97469,
+    "value_": 97.46882
+  },
+  {
+    "geoid": "51179",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-03-15",
+    "value": 0.9707,
+    "value_": 97.07036
+  },
+  {
+    "geoid": "51179",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-03-15",
+    "value": 0.98033,
+    "value_": 98.03304
+  },
+  {
+    "geoid": "51179",
+    "key": "commercial-occupancy-retail",
+    "date": "2026-03-15",
+    "value": 0.97804,
+    "value_": 97.80408
+  },
+  {
+    "geoid": "51600",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-03-15",
+    "value": 0.96213,
+    "value_": 96.2128
+  },
+  {
+    "geoid": "51600",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-03-15",
+    "value": 0.96716,
+    "value_": 96.71551
+  },
+  {
+    "geoid": "51600",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-03-15",
+    "value": 0.96536,
+    "value_": 96.53551
+  },
+  {
+    "geoid": "51600",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-03-15",
+    "value": 0.96848,
+    "value_": 96.84778
+  },
+  {
+    "geoid": "51600",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-03-15",
+    "value": 0.96725,
+    "value_": 96.72465
+  },
+  {
+    "geoid": "51600",
+    "key": "commercial-occupancy-retail",
+    "date": "2026-03-15",
+    "value": 0.96998,
+    "value_": 96.99752
+  },
+  {
+    "geoid": "99997",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-03-15",
+    "value": 0.94802,
+    "value_": 94.80207
+  },
+  {
+    "geoid": "99997",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-03-15",
+    "value": 0.95425,
+    "value_": 95.42501
+  },
+  {
+    "geoid": "99997",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-03-15",
+    "value": 0.95808,
+    "value_": 95.80761
+  },
+  {
+    "geoid": "99997",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-03-15",
+    "value": 0.95901,
+    "value_": 95.90085
+  },
+  {
+    "geoid": "99997",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-03-15",
+    "value": 0.95778,
+    "value_": 95.77791
+  },
+  {
+    "geoid": "99997",
+    "key": "commercial-occupancy-retail",
+    "date": "2026-03-15",
+    "value": 0.95552,
+    "value_": 95.55179
+  },
+  {
+    "geoid": "99999",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-03-15",
+    "value": 0.94993,
+    "value_": 94.99272
+  },
+  {
+    "geoid": "99999",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-03-15",
+    "value": 0.95574,
+    "value_": 95.57445
+  },
+  {
+    "geoid": "99999",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-03-15",
+    "value": 0.95895,
+    "value_": 95.89483
+  },
+  {
+    "geoid": "99999",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-03-15",
+    "value": 0.95938,
+    "value_": 95.93782
+  },
+  {
+    "geoid": "99999",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-03-15",
+    "value": 0.95824,
+    "value_": 95.82397
+  },
+  {
+    "geoid": "99999",
+    "key": "commercial-occupancy-retail",
+    "date": "2026-03-15",
+    "value": 0.95612,
+    "value_": 95.6118
+  },
+  {
+    "geoid": "11001",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-06-15",
+    "value": 0.93911,
+    "value_": 93.91109
+  },
+  {
+    "geoid": "11001",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-06-15",
+    "value": 0.9508,
+    "value_": 95.07966
+  },
+  {
+    "geoid": "11001",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-06-15",
+    "value": 0.95151,
+    "value_": 95.15091
+  },
+  {
+    "geoid": "11001",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-06-15",
+    "value": 0.9533,
+    "value_": 95.32983
+  },
+  {
+    "geoid": "11001",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-06-15",
+    "value": 0.93959,
+    "value_": 93.95883
+  },
+  {
+    "geoid": "12060",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-06-15",
+    "value": 0.95055,
+    "value_": 95.05521
+  },
+  {
+    "geoid": "12060",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-06-15",
+    "value": 0.96118,
+    "value_": 96.11798
+  },
+  {
+    "geoid": "12060",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-06-15",
+    "value": 0.9651,
+    "value_": 96.50981
+  },
+  {
+    "geoid": "12060",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-06-15",
+    "value": 0.96488,
+    "value_": 96.48835
+  },
+  {
+    "geoid": "12060",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-06-15",
+    "value": 0.95844,
+    "value_": 95.84378
+  },
+  {
+    "geoid": "12420",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-06-15",
+    "value": 0.95946,
+    "value_": 95.94616
+  },
+  {
+    "geoid": "12420",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-06-15",
+    "value": 0.96937,
+    "value_": 96.93721
+  },
+  {
+    "geoid": "12420",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-06-15",
+    "value": 0.97094,
+    "value_": 97.09411
+  },
+  {
+    "geoid": "12420",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-06-15",
+    "value": 0.97141,
+    "value_": 97.14132
+  },
+  {
+    "geoid": "12420",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-06-15",
+    "value": 0.9687,
+    "value_": 96.87036
+  },
+  {
+    "geoid": "12580",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-06-15",
+    "value": 0.94116,
+    "value_": 94.11554
+  },
+  {
+    "geoid": "12580",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-06-15",
+    "value": 0.94568,
+    "value_": 94.56846
+  },
+  {
+    "geoid": "12580",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-06-15",
+    "value": 0.9483,
+    "value_": 94.83
+  },
+  {
+    "geoid": "12580",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-06-15",
+    "value": 0.94759,
+    "value_": 94.75938
+  },
+  {
+    "geoid": "12580",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-06-15",
+    "value": 0.94449,
+    "value_": 94.44895
+  },
+  {
+    "geoid": "13820",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-06-15",
+    "value": 0.96347,
+    "value_": 96.34713
+  },
+  {
+    "geoid": "13820",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-06-15",
+    "value": 0.9669,
+    "value_": 96.6905
+  },
+  {
+    "geoid": "13820",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-06-15",
+    "value": 0.96336,
+    "value_": 96.33598
+  },
+  {
+    "geoid": "13820",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-06-15",
+    "value": 0.96168,
+    "value_": 96.16774
+  },
+  {
+    "geoid": "13820",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-06-15",
+    "value": 0.9635,
+    "value_": 96.34979
+  },
+  {
+    "geoid": "14460",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-06-15",
+    "value": 0.9705,
+    "value_": 97.04967
+  },
+  {
+    "geoid": "14460",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-06-15",
+    "value": 0.97452,
+    "value_": 97.45205
+  },
+  {
+    "geoid": "14460",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-06-15",
+    "value": 0.97525,
+    "value_": 97.5253
+  },
+  {
+    "geoid": "14460",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-06-15",
+    "value": 0.9767,
+    "value_": 97.66996
+  },
+  {
+    "geoid": "14460",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-06-15",
+    "value": 0.97415,
+    "value_": 97.41484
+  },
+  {
+    "geoid": "15380",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-06-15",
+    "value": 0.94952,
+    "value_": 94.95209
+  },
+  {
+    "geoid": "15380",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-06-15",
+    "value": 0.95642,
+    "value_": 95.64232
+  },
+  {
+    "geoid": "15380",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-06-15",
+    "value": 0.95654,
+    "value_": 95.65398
+  },
+  {
+    "geoid": "15380",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-06-15",
+    "value": 0.95511,
+    "value_": 95.51115
+  },
+  {
+    "geoid": "15380",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-06-15",
+    "value": 0.94525,
+    "value_": 94.52516
+  },
+  {
+    "geoid": "16740",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-06-15",
+    "value": 0.95419,
+    "value_": 95.4188
+  },
+  {
+    "geoid": "16740",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-06-15",
+    "value": 0.96473,
+    "value_": 96.47307
+  },
+  {
+    "geoid": "16740",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-06-15",
+    "value": 0.97024,
+    "value_": 97.02431
+  },
+  {
+    "geoid": "16740",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-06-15",
+    "value": 0.97262,
+    "value_": 97.26227
+  },
+  {
+    "geoid": "16740",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-06-15",
+    "value": 0.96807,
+    "value_": 96.80737
+  },
+  {
+    "geoid": "16980",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-06-15",
+    "value": 0.93737,
+    "value_": 93.73675
+  },
+  {
+    "geoid": "16980",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-06-15",
+    "value": 0.94311,
+    "value_": 94.31118
+  },
+  {
+    "geoid": "16980",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-06-15",
+    "value": 0.94871,
+    "value_": 94.8712
+  },
+  {
+    "geoid": "16980",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-06-15",
+    "value": 0.95083,
+    "value_": 95.08326
+  },
+  {
+    "geoid": "16980",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-06-15",
+    "value": 0.9501,
+    "value_": 95.00957
+  },
+  {
+    "geoid": "17140",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-06-15",
+    "value": 0.93797,
+    "value_": 93.7966
+  },
+  {
+    "geoid": "17140",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-06-15",
+    "value": 0.94206,
+    "value_": 94.20631
+  },
+  {
+    "geoid": "17140",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-06-15",
+    "value": 0.94496,
+    "value_": 94.49574
+  },
+  {
+    "geoid": "17140",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-06-15",
+    "value": 0.94855,
+    "value_": 94.85523
+  },
+  {
+    "geoid": "17140",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-06-15",
+    "value": 0.94418,
+    "value_": 94.41813
+  },
+  {
+    "geoid": "17410",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-06-15",
+    "value": 0.95039,
+    "value_": 95.03875
+  },
+  {
+    "geoid": "17410",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-06-15",
+    "value": 0.95283,
+    "value_": 95.28264
+  },
+  {
+    "geoid": "17410",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-06-15",
+    "value": 0.94789,
+    "value_": 94.78914
+  },
+  {
+    "geoid": "17410",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-06-15",
+    "value": 0.95191,
+    "value_": 95.19051
+  },
+  {
+    "geoid": "17410",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-06-15",
+    "value": 0.95068,
+    "value_": 95.06786
+  },
+  {
+    "geoid": "18140",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-06-15",
+    "value": 0.95655,
+    "value_": 95.65526
+  },
+  {
+    "geoid": "18140",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-06-15",
+    "value": 0.96135,
+    "value_": 96.13484
+  },
+  {
+    "geoid": "18140",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-06-15",
+    "value": 0.96269,
+    "value_": 96.26885
+  },
+  {
+    "geoid": "18140",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-06-15",
+    "value": 0.96992,
+    "value_": 96.9916
+  },
+  {
+    "geoid": "18140",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-06-15",
+    "value": 0.96695,
+    "value_": 96.69535
+  },
+  {
+    "geoid": "19100",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-06-15",
+    "value": 0.94129,
+    "value_": 94.12946
+  },
+  {
+    "geoid": "19100",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-06-15",
+    "value": 0.95339,
+    "value_": 95.33868
+  },
+  {
+    "geoid": "19100",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-06-15",
+    "value": 0.9544,
+    "value_": 95.44039
+  },
+  {
+    "geoid": "19100",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-06-15",
+    "value": 0.95523,
+    "value_": 95.52295
+  },
+  {
+    "geoid": "19100",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-06-15",
+    "value": 0.95158,
+    "value_": 95.15769
+  },
+  {
+    "geoid": "19740",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-06-15",
+    "value": 0.951,
+    "value_": 95.10011
+  },
+  {
+    "geoid": "19740",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-06-15",
+    "value": 0.95699,
+    "value_": 95.69907
+  },
+  {
+    "geoid": "19740",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-06-15",
+    "value": 0.961,
+    "value_": 96.09976
+  },
+  {
+    "geoid": "19740",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-06-15",
+    "value": 0.96139,
+    "value_": 96.13938
+  },
+  {
+    "geoid": "19740",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-06-15",
+    "value": 0.95658,
+    "value_": 95.65755
+  },
+  {
+    "geoid": "19820",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-06-15",
+    "value": 0.94461,
+    "value_": 94.46054
+  },
+  {
+    "geoid": "19820",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-06-15",
+    "value": 0.95066,
+    "value_": 95.06577
+  },
+  {
+    "geoid": "19820",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-06-15",
+    "value": 0.94985,
+    "value_": 94.98503
+  },
+  {
+    "geoid": "19820",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-06-15",
+    "value": 0.94981,
+    "value_": 94.98061
+  },
+  {
+    "geoid": "19820",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-06-15",
+    "value": 0.94244,
+    "value_": 94.24365
+  },
+  {
+    "geoid": "23420",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-06-15",
+    "value": 0.95465,
+    "value_": 95.46488
+  },
+  {
+    "geoid": "23420",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-06-15",
+    "value": 0.95985,
+    "value_": 95.98495
+  },
+  {
+    "geoid": "23420",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-06-15",
+    "value": 0.95946,
+    "value_": 95.94568
+  },
+  {
+    "geoid": "23420",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-06-15",
+    "value": 0.95384,
+    "value_": 95.38397
+  },
+  {
+    "geoid": "23420",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-06-15",
+    "value": 0.94459,
+    "value_": 94.45872
+  },
+  {
+    "geoid": "24017",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-06-15",
+    "value": 0.9379,
+    "value_": 93.78963
+  },
+  {
+    "geoid": "24017",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-06-15",
+    "value": 0.94248,
+    "value_": 94.24823
+  },
+  {
+    "geoid": "24017",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-06-15",
+    "value": 0.94872,
+    "value_": 94.87222
+  },
+  {
+    "geoid": "24017",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-06-15",
+    "value": 0.9408,
+    "value_": 94.07957
+  },
+  {
+    "geoid": "24017",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-06-15",
+    "value": 0.95566,
+    "value_": 95.56569
+  },
+  {
+    "geoid": "24031",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-06-15",
+    "value": 0.93413,
+    "value_": 93.41303
+  },
+  {
+    "geoid": "24031",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-06-15",
+    "value": 0.93831,
+    "value_": 93.83103
+  },
+  {
+    "geoid": "24031",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-06-15",
+    "value": 0.9421,
+    "value_": 94.21007
+  },
+  {
+    "geoid": "24031",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-06-15",
+    "value": 0.94025,
+    "value_": 94.02518
+  },
+  {
+    "geoid": "24031",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-06-15",
+    "value": 0.92935,
+    "value_": 92.9354
+  },
+  {
+    "geoid": "24033",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-06-15",
+    "value": 0.94848,
+    "value_": 94.84843
+  },
+  {
+    "geoid": "24033",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-06-15",
+    "value": 0.94797,
+    "value_": 94.79656
+  },
+  {
+    "geoid": "24033",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-06-15",
+    "value": 0.9475,
+    "value_": 94.74966
+  },
+  {
+    "geoid": "24033",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-06-15",
+    "value": 0.94762,
+    "value_": 94.7625
+  },
+  {
+    "geoid": "24033",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-06-15",
+    "value": 0.95033,
+    "value_": 95.03307
+  },
+  {
+    "geoid": "24340",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-06-15",
+    "value": 0.96579,
+    "value_": 96.57887
+  },
+  {
+    "geoid": "24340",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-06-15",
+    "value": 0.97158,
+    "value_": 97.15837
+  },
+  {
+    "geoid": "24340",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-06-15",
+    "value": 0.96816,
+    "value_": 96.8163
+  },
+  {
+    "geoid": "24340",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-06-15",
+    "value": 0.96972,
+    "value_": 96.97184
+  },
+  {
+    "geoid": "24340",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-06-15",
+    "value": 0.96992,
+    "value_": 96.99152
+  },
+  {
+    "geoid": "25540",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-06-15",
+    "value": 0.95639,
+    "value_": 95.63909
+  },
+  {
+    "geoid": "25540",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-06-15",
+    "value": 0.96132,
+    "value_": 96.13236
+  },
+  {
+    "geoid": "25540",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-06-15",
+    "value": 0.96125,
+    "value_": 96.1248
+  },
+  {
+    "geoid": "25540",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-06-15",
+    "value": 0.95791,
+    "value_": 95.79068
+  },
+  {
+    "geoid": "25540",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-06-15",
+    "value": 0.95745,
+    "value_": 95.74528
+  },
+  {
+    "geoid": "26420",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-06-15",
+    "value": 0.94055,
+    "value_": 94.05476
+  },
+  {
+    "geoid": "26420",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-06-15",
+    "value": 0.94912,
+    "value_": 94.91249
+  },
+  {
+    "geoid": "26420",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-06-15",
+    "value": 0.9513,
+    "value_": 95.13028
+  },
+  {
+    "geoid": "26420",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-06-15",
+    "value": 0.95034,
+    "value_": 95.03386
+  },
+  {
+    "geoid": "26420",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-06-15",
+    "value": 0.94646,
+    "value_": 94.64623
+  },
+  {
+    "geoid": "26900",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-06-15",
+    "value": 0.95538,
+    "value_": 95.5381
+  },
+  {
+    "geoid": "26900",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-06-15",
+    "value": 0.96374,
+    "value_": 96.37377
+  },
+  {
+    "geoid": "26900",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-06-15",
+    "value": 0.96605,
+    "value_": 96.60518
+  },
+  {
+    "geoid": "26900",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-06-15",
+    "value": 0.96761,
+    "value_": 96.76077
+  },
+  {
+    "geoid": "26900",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-06-15",
+    "value": 0.96615,
+    "value_": 96.61517
+  },
+  {
+    "geoid": "27260",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-06-15",
+    "value": 0.9544,
+    "value_": 95.43951
+  },
+  {
+    "geoid": "27260",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-06-15",
+    "value": 0.96089,
+    "value_": 96.0888
+  },
+  {
+    "geoid": "27260",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-06-15",
+    "value": 0.9574,
+    "value_": 95.73977
+  },
+  {
+    "geoid": "27260",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-06-15",
+    "value": 0.9564,
+    "value_": 95.6398
+  },
+  {
+    "geoid": "27260",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-06-15",
+    "value": 0.95374,
+    "value_": 95.37447
+  },
+  {
+    "geoid": "28140",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-06-15",
+    "value": 0.94148,
+    "value_": 94.14755
+  },
+  {
+    "geoid": "28140",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-06-15",
+    "value": 0.95265,
+    "value_": 95.26538
+  },
+  {
+    "geoid": "28140",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-06-15",
+    "value": 0.95828,
+    "value_": 95.82809
+  },
+  {
+    "geoid": "28140",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-06-15",
+    "value": 0.95953,
+    "value_": 95.95318
+  },
+  {
+    "geoid": "28140",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-06-15",
+    "value": 0.95837,
+    "value_": 95.83733
+  },
+  {
+    "geoid": "29820",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-06-15",
+    "value": 0.93811,
+    "value_": 93.81078
+  },
+  {
+    "geoid": "29820",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-06-15",
+    "value": 0.95015,
+    "value_": 95.01469
+  },
+  {
+    "geoid": "29820",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-06-15",
+    "value": 0.94758,
+    "value_": 94.75802
+  },
+  {
+    "geoid": "29820",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-06-15",
+    "value": 0.94828,
+    "value_": 94.82798
+  },
+  {
+    "geoid": "29820",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-06-15",
+    "value": 0.94949,
+    "value_": 94.94868
+  },
+  {
+    "geoid": "31140",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-06-15",
+    "value": 0.96749,
+    "value_": 96.74892
+  },
+  {
+    "geoid": "31140",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-06-15",
+    "value": 0.97283,
+    "value_": 97.28309
+  },
+  {
+    "geoid": "31140",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-06-15",
+    "value": 0.96732,
+    "value_": 96.73153
+  },
+  {
+    "geoid": "31140",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-06-15",
+    "value": 0.96856,
+    "value_": 96.85587
+  },
+  {
+    "geoid": "31140",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-06-15",
+    "value": 0.96757,
+    "value_": 96.75678
+  },
+  {
+    "geoid": "32820",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-06-15",
+    "value": 0.9572,
+    "value_": 95.72041
+  },
+  {
+    "geoid": "32820",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-06-15",
+    "value": 0.96549,
+    "value_": 96.54906
+  },
+  {
+    "geoid": "32820",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-06-15",
+    "value": 0.96682,
+    "value_": 96.68186
+  },
+  {
+    "geoid": "32820",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-06-15",
+    "value": 0.96535,
+    "value_": 96.53496
+  },
+  {
+    "geoid": "32820",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-06-15",
+    "value": 0.96075,
+    "value_": 96.0753
+  },
+  {
+    "geoid": "33340",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-06-15",
+    "value": 0.94775,
+    "value_": 94.77537
+  },
+  {
+    "geoid": "33340",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-06-15",
+    "value": 0.95553,
+    "value_": 95.55325
+  },
+  {
+    "geoid": "33340",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-06-15",
+    "value": 0.95921,
+    "value_": 95.92074
+  },
+  {
+    "geoid": "33340",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-06-15",
+    "value": 0.96018,
+    "value_": 96.01762
+  },
+  {
+    "geoid": "33340",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-06-15",
+    "value": 0.96702,
+    "value_": 96.70208
+  },
+  {
+    "geoid": "33460",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-06-15",
+    "value": 0.9644,
+    "value_": 96.43992
+  },
+  {
+    "geoid": "33460",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-06-15",
+    "value": 0.96963,
+    "value_": 96.96318
+  },
+  {
+    "geoid": "33460",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-06-15",
+    "value": 0.9703,
+    "value_": 97.03044
+  },
+  {
+    "geoid": "33460",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-06-15",
+    "value": 0.97557,
+    "value_": 97.55694
+  },
+  {
+    "geoid": "33460",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-06-15",
+    "value": 0.97469,
+    "value_": 97.46904
+  },
+  {
+    "geoid": "34980",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-06-15",
+    "value": 0.95842,
+    "value_": 95.84201
+  },
+  {
+    "geoid": "34980",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-06-15",
+    "value": 0.96765,
+    "value_": 96.76451
+  },
+  {
+    "geoid": "34980",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-06-15",
+    "value": 0.97119,
+    "value_": 97.11854
+  },
+  {
+    "geoid": "34980",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-06-15",
+    "value": 0.97063,
+    "value_": 97.06328
+  },
+  {
+    "geoid": "34980",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-06-15",
+    "value": 0.968,
+    "value_": 96.79998
+  },
+  {
+    "geoid": "36420",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-06-15",
+    "value": 0.95089,
+    "value_": 95.08949
+  },
+  {
+    "geoid": "36420",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-06-15",
+    "value": 0.95244,
+    "value_": 95.24357
+  },
+  {
+    "geoid": "36420",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-06-15",
+    "value": 0.95461,
+    "value_": 95.46084
+  },
+  {
+    "geoid": "36420",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-06-15",
+    "value": 0.95416,
+    "value_": 95.41628
+  },
+  {
+    "geoid": "36420",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-06-15",
+    "value": 0.94744,
+    "value_": 94.74386
+  },
+  {
+    "geoid": "36540",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-06-15",
+    "value": 0.94237,
+    "value_": 94.23729
+  },
+  {
+    "geoid": "36540",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-06-15",
+    "value": 0.94699,
+    "value_": 94.69948
+  },
+  {
+    "geoid": "36540",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-06-15",
+    "value": 0.95277,
+    "value_": 95.27673
+  },
+  {
+    "geoid": "36540",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-06-15",
+    "value": 0.95493,
+    "value_": 95.49293
+  },
+  {
+    "geoid": "36540",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-06-15",
+    "value": 0.95364,
+    "value_": 95.36352
+  },
+  {
+    "geoid": "36740",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-06-15",
+    "value": 0.95434,
+    "value_": 95.43435
+  },
+  {
+    "geoid": "36740",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-06-15",
+    "value": 0.96388,
+    "value_": 96.38807
+  },
+  {
+    "geoid": "36740",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-06-15",
+    "value": 0.96471,
+    "value_": 96.47052
+  },
+  {
+    "geoid": "36740",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-06-15",
+    "value": 0.96494,
+    "value_": 96.49377
+  },
+  {
+    "geoid": "36740",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-06-15",
+    "value": 0.95972,
+    "value_": 95.97164
+  },
+  {
+    "geoid": "37980",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-06-15",
+    "value": 0.94954,
+    "value_": 94.95375
+  },
+  {
+    "geoid": "37980",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-06-15",
+    "value": 0.9555,
+    "value_": 95.55018
+  },
+  {
+    "geoid": "37980",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-06-15",
+    "value": 0.95701,
+    "value_": 95.70069
+  },
+  {
+    "geoid": "37980",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-06-15",
+    "value": 0.95885,
+    "value_": 95.88537
+  },
+  {
+    "geoid": "37980",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-06-15",
+    "value": 0.95792,
+    "value_": 95.79156
+  },
+  {
+    "geoid": "38060",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-06-15",
+    "value": 0.92449,
+    "value_": 92.44925
+  },
+  {
+    "geoid": "38060",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-06-15",
+    "value": 0.9442,
+    "value_": 94.41994
+  },
+  {
+    "geoid": "38060",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-06-15",
+    "value": 0.95493,
+    "value_": 95.49304
+  },
+  {
+    "geoid": "38060",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-06-15",
+    "value": 0.95491,
+    "value_": 95.49137
+  },
+  {
+    "geoid": "38060",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-06-15",
+    "value": 0.95376,
+    "value_": 95.37586
+  },
+  {
+    "geoid": "38300",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-06-15",
+    "value": 0.95603,
+    "value_": 95.60263
+  },
+  {
+    "geoid": "38300",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-06-15",
+    "value": 0.95829,
+    "value_": 95.82855
+  },
+  {
+    "geoid": "38300",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-06-15",
+    "value": 0.95894,
+    "value_": 95.89401
+  },
+  {
+    "geoid": "38300",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-06-15",
+    "value": 0.95939,
+    "value_": 95.93928
+  },
+  {
+    "geoid": "38300",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-06-15",
+    "value": 0.95767,
+    "value_": 95.76701
+  },
+  {
+    "geoid": "38900",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-06-15",
+    "value": 0.95469,
+    "value_": 95.46941
+  },
+  {
+    "geoid": "38900",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-06-15",
+    "value": 0.9631,
+    "value_": 96.31045
+  },
+  {
+    "geoid": "38900",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-06-15",
+    "value": 0.96195,
+    "value_": 96.19487
+  },
+  {
+    "geoid": "38900",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-06-15",
+    "value": 0.96083,
+    "value_": 96.08333
+  },
+  {
+    "geoid": "38900",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-06-15",
+    "value": 0.95648,
+    "value_": 95.64811
+  },
+  {
+    "geoid": "39300",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-06-15",
+    "value": 0.95485,
+    "value_": 95.48496
+  },
+  {
+    "geoid": "39300",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-06-15",
+    "value": 0.96397,
+    "value_": 96.39704
+  },
+  {
+    "geoid": "39300",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-06-15",
+    "value": 0.96937,
+    "value_": 96.93664
+  },
+  {
+    "geoid": "39300",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-06-15",
+    "value": 0.97305,
+    "value_": 97.30455
+  },
+  {
+    "geoid": "39300",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-06-15",
+    "value": 0.96751,
+    "value_": 96.75111
+  },
+  {
+    "geoid": "39580",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-06-15",
+    "value": 0.96712,
+    "value_": 96.71187
+  },
+  {
+    "geoid": "39580",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-06-15",
+    "value": 0.96183,
+    "value_": 96.18313
+  },
+  {
+    "geoid": "39580",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-06-15",
+    "value": 0.976,
+    "value_": 97.6
+  },
+  {
+    "geoid": "39580",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-06-15",
+    "value": 0.97767,
+    "value_": 97.76728
+  },
+  {
+    "geoid": "39580",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-06-15",
+    "value": 0.97599,
+    "value_": 97.59902
+  },
+  {
+    "geoid": "40060",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-06-15",
+    "value": 0.94417,
+    "value_": 94.41728
+  },
+  {
+    "geoid": "40060",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-06-15",
+    "value": 0.95023,
+    "value_": 95.02347
+  },
+  {
+    "geoid": "40060",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-06-15",
+    "value": 0.95721,
+    "value_": 95.72091
+  },
+  {
+    "geoid": "40060",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-06-15",
+    "value": 0.95852,
+    "value_": 95.8524
+  },
+  {
+    "geoid": "40060",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-06-15",
+    "value": 0.95395,
+    "value_": 95.39537
+  },
+  {
+    "geoid": "40140",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-06-15",
+    "value": 0.92755,
+    "value_": 92.7546
+  },
+  {
+    "geoid": "40140",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-06-15",
+    "value": 0.94012,
+    "value_": 94.01232
+  },
+  {
+    "geoid": "40140",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-06-15",
+    "value": 0.94169,
+    "value_": 94.16909
+  },
+  {
+    "geoid": "40140",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-06-15",
+    "value": 0.94248,
+    "value_": 94.24848
+  },
+  {
+    "geoid": "40140",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-06-15",
+    "value": 0.93681,
+    "value_": 93.68088
+  },
+  {
+    "geoid": "40380",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-06-15",
+    "value": 0.95063,
+    "value_": 95.06319
+  },
+  {
+    "geoid": "40380",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-06-15",
+    "value": 0.95418,
+    "value_": 95.4175
+  },
+  {
+    "geoid": "40380",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-06-15",
+    "value": 0.95677,
+    "value_": 95.67679
+  },
+  {
+    "geoid": "40380",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-06-15",
+    "value": 0.95698,
+    "value_": 95.69841
+  },
+  {
+    "geoid": "40380",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-06-15",
+    "value": 0.95281,
+    "value_": 95.28083
+  },
+  {
+    "geoid": "40900",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-06-15",
+    "value": 0.93722,
+    "value_": 93.7221
+  },
+  {
+    "geoid": "40900",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-06-15",
+    "value": 0.94448,
+    "value_": 94.44839
+  },
+  {
+    "geoid": "40900",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-06-15",
+    "value": 0.94066,
+    "value_": 94.06608
+  },
+  {
+    "geoid": "40900",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-06-15",
+    "value": 0.94338,
+    "value_": 94.33801
+  },
+  {
+    "geoid": "40900",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-06-15",
+    "value": 0.94223,
+    "value_": 94.2232
+  },
+  {
+    "geoid": "41180",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-06-15",
+    "value": 0.93862,
+    "value_": 93.86198
+  },
+  {
+    "geoid": "41180",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-06-15",
+    "value": 0.94237,
+    "value_": 94.23707
+  },
+  {
+    "geoid": "41180",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-06-15",
+    "value": 0.9509,
+    "value_": 95.08979
+  },
+  {
+    "geoid": "41180",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-06-15",
+    "value": 0.95419,
+    "value_": 95.41912
+  },
+  {
+    "geoid": "41180",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-06-15",
+    "value": 0.96635,
+    "value_": 96.6352
+  },
+  {
+    "geoid": "41620",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-06-15",
+    "value": 0.96347,
+    "value_": 96.34685
+  },
+  {
+    "geoid": "41620",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-06-15",
+    "value": 0.9753,
+    "value_": 97.52967
+  },
+  {
+    "geoid": "41620",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-06-15",
+    "value": 0.97586,
+    "value_": 97.58567
+  },
+  {
+    "geoid": "41620",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-06-15",
+    "value": 0.97516,
+    "value_": 97.51602
+  },
+  {
+    "geoid": "41620",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-06-15",
+    "value": 0.97269,
+    "value_": 97.26879
+  },
+  {
+    "geoid": "41700",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-06-15",
+    "value": 0.95179,
+    "value_": 95.17878
+  },
+  {
+    "geoid": "41700",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-06-15",
+    "value": 0.96358,
+    "value_": 96.35839
+  },
+  {
+    "geoid": "41700",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-06-15",
+    "value": 0.96628,
+    "value_": 96.62774
+  },
+  {
+    "geoid": "41700",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-06-15",
+    "value": 0.96507,
+    "value_": 96.50686
+  },
+  {
+    "geoid": "41700",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-06-15",
+    "value": 0.96306,
+    "value_": 96.30555
+  },
+  {
+    "geoid": "41740",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-06-15",
+    "value": 0.94768,
+    "value_": 94.76801
+  },
+  {
+    "geoid": "41740",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-06-15",
+    "value": 0.95703,
+    "value_": 95.70287
+  },
+  {
+    "geoid": "41740",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-06-15",
+    "value": 0.95784,
+    "value_": 95.78378
+  },
+  {
+    "geoid": "41740",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-06-15",
+    "value": 0.95994,
+    "value_": 95.99387
+  },
+  {
+    "geoid": "41740",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-06-15",
+    "value": 0.95652,
+    "value_": 95.65226
+  },
+  {
+    "geoid": "41940",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-06-15",
+    "value": 0.95571,
+    "value_": 95.57102
+  },
+  {
+    "geoid": "41940",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-06-15",
+    "value": 0.95489,
+    "value_": 95.48924
+  },
+  {
+    "geoid": "41940",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-06-15",
+    "value": 0.95891,
+    "value_": 95.89145
+  },
+  {
+    "geoid": "41940",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-06-15",
+    "value": 0.95547,
+    "value_": 95.54722
+  },
+  {
+    "geoid": "41940",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-06-15",
+    "value": 0.95448,
+    "value_": 95.44793
+  },
+  {
+    "geoid": "42660",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-06-15",
+    "value": 0.9667,
+    "value_": 96.66966
+  },
+  {
+    "geoid": "42660",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-06-15",
+    "value": 0.9703,
+    "value_": 97.02964
+  },
+  {
+    "geoid": "42660",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-06-15",
+    "value": 0.96836,
+    "value_": 96.83595
+  },
+  {
+    "geoid": "42660",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-06-15",
+    "value": 0.96486,
+    "value_": 96.48559
+  },
+  {
+    "geoid": "42660",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-06-15",
+    "value": 0.96134,
+    "value_": 96.13377
+  },
+  {
+    "geoid": "45300",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-06-15",
+    "value": 0.95829,
+    "value_": 95.82858
+  },
+  {
+    "geoid": "45300",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-06-15",
+    "value": 0.96801,
+    "value_": 96.80054
+  },
+  {
+    "geoid": "45300",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-06-15",
+    "value": 0.96927,
+    "value_": 96.9266
+  },
+  {
+    "geoid": "45300",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-06-15",
+    "value": 0.96945,
+    "value_": 96.94485
+  },
+  {
+    "geoid": "45300",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-06-15",
+    "value": 0.96515,
+    "value_": 96.5145
+  },
+  {
+    "geoid": "46060",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-06-15",
+    "value": 0.93754,
+    "value_": 93.75401
+  },
+  {
+    "geoid": "46060",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-06-15",
+    "value": 0.94452,
+    "value_": 94.45192
+  },
+  {
+    "geoid": "46060",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-06-15",
+    "value": 0.94546,
+    "value_": 94.54613
+  },
+  {
+    "geoid": "46060",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-06-15",
+    "value": 0.94272,
+    "value_": 94.27248
+  },
+  {
+    "geoid": "46060",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-06-15",
+    "value": 0.93823,
+    "value_": 93.82342
+  },
+  {
+    "geoid": "46140",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-06-15",
+    "value": 0.96439,
+    "value_": 96.4389
+  },
+  {
+    "geoid": "46140",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-06-15",
+    "value": 0.9702,
+    "value_": 97.01991
+  },
+  {
+    "geoid": "46140",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-06-15",
+    "value": 0.9716,
+    "value_": 97.1598
+  },
+  {
+    "geoid": "46140",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-06-15",
+    "value": 0.97062,
+    "value_": 97.06218
+  },
+  {
+    "geoid": "46140",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-06-15",
+    "value": 0.97016,
+    "value_": 97.01645
+  },
+  {
+    "geoid": "47260",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-06-15",
+    "value": 0.94445,
+    "value_": 94.44546
+  },
+  {
+    "geoid": "47260",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-06-15",
+    "value": 0.95022,
+    "value_": 95.02185
+  },
+  {
+    "geoid": "47260",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-06-15",
+    "value": 0.95561,
+    "value_": 95.56093
+  },
+  {
+    "geoid": "47260",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-06-15",
+    "value": 0.9543,
+    "value_": 95.43023
+  },
+  {
+    "geoid": "47260",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-06-15",
+    "value": 0.9574,
+    "value_": 95.73986
+  },
+  {
+    "geoid": "47900",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-06-15",
+    "value": 0.94527,
+    "value_": 94.52745
+  },
+  {
+    "geoid": "47900",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-06-15",
+    "value": 0.95268,
+    "value_": 95.26794
+  },
+  {
+    "geoid": "47900",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-06-15",
+    "value": 0.95608,
+    "value_": 95.6077
+  },
+  {
+    "geoid": "47900",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-06-15",
+    "value": 0.95701,
+    "value_": 95.70068
+  },
+  {
+    "geoid": "47900",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-06-15",
+    "value": 0.9546,
+    "value_": 95.46028
+  },
+  {
+    "geoid": "51013",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-06-15",
+    "value": 0.96127,
+    "value_": 96.12664
+  },
+  {
+    "geoid": "51013",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-06-15",
+    "value": 0.98004,
+    "value_": 98.0038
+  },
+  {
+    "geoid": "51013",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-06-15",
+    "value": 0.95144,
+    "value_": 95.14442
+  },
+  {
+    "geoid": "51013",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-06-15",
+    "value": 0.95084,
+    "value_": 95.08422
+  },
+  {
+    "geoid": "51013",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-06-15",
+    "value": 0.94937,
+    "value_": 94.93651
+  },
+  {
+    "geoid": "51061",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-06-15",
+    "value": 0.95357,
+    "value_": 95.3574
+  },
+  {
+    "geoid": "51061",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-06-15",
+    "value": 0.96603,
+    "value_": 96.60296
+  },
+  {
+    "geoid": "51061",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-06-15",
+    "value": 0.95988,
+    "value_": 95.98839
+  },
+  {
+    "geoid": "51061",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-06-15",
+    "value": 0.95593,
+    "value_": 95.59258
+  },
+  {
+    "geoid": "51061",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-06-15",
+    "value": 0.95657,
+    "value_": 95.65685
+  },
+  {
+    "geoid": "51107",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-06-15",
+    "value": 0.91993,
+    "value_": 91.99318
+  },
+  {
+    "geoid": "51107",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-06-15",
+    "value": 0.93067,
+    "value_": 93.06721
+  },
+  {
+    "geoid": "51107",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-06-15",
+    "value": 0.9409,
+    "value_": 94.09026
+  },
+  {
+    "geoid": "51107",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-06-15",
+    "value": 0.94235,
+    "value_": 94.23489
+  },
+  {
+    "geoid": "51107",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-06-15",
+    "value": 0.94635,
+    "value_": 94.63505
+  },
+  {
+    "geoid": "51153",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-06-15",
+    "value": 0.9597,
+    "value_": 95.97043
+  },
+  {
+    "geoid": "51153",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-06-15",
+    "value": 0.96142,
+    "value_": 96.14179
+  },
+  {
+    "geoid": "51153",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-06-15",
+    "value": 0.97201,
+    "value_": 97.20145
+  },
+  {
+    "geoid": "51153",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-06-15",
+    "value": 0.97418,
+    "value_": 97.41755
+  },
+  {
+    "geoid": "51153",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-06-15",
+    "value": 0.97512,
+    "value_": 97.51167
+  },
+  {
+    "geoid": "51179",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-06-15",
+    "value": 0.95668,
+    "value_": 95.66817
+  },
+  {
+    "geoid": "51179",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-06-15",
+    "value": 0.97267,
+    "value_": 97.26661
+  },
+  {
+    "geoid": "51179",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-06-15",
+    "value": 0.97431,
+    "value_": 97.43072
+  },
+  {
+    "geoid": "51179",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-06-15",
+    "value": 0.9689,
+    "value_": 96.89015
+  },
+  {
+    "geoid": "51179",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-06-15",
+    "value": 0.9747,
+    "value_": 97.47014
+  },
+  {
+    "geoid": "51600",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-06-15",
+    "value": 0.96568,
+    "value_": 96.56802
+  },
+  {
+    "geoid": "51600",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-06-15",
+    "value": 0.96628,
+    "value_": 96.62807
+  },
+  {
+    "geoid": "51600",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-06-15",
+    "value": 0.96617,
+    "value_": 96.61701
+  },
+  {
+    "geoid": "51600",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-06-15",
+    "value": 0.96903,
+    "value_": 96.90348
+  },
+  {
+    "geoid": "51600",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-06-15",
+    "value": 0.96677,
+    "value_": 96.67675
+  },
+  {
+    "geoid": "99997",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-06-15",
+    "value": 0.94861,
+    "value_": 94.86122
+  },
+  {
+    "geoid": "99997",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-06-15",
+    "value": 0.95614,
+    "value_": 95.61386
+  },
+  {
+    "geoid": "99997",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-06-15",
+    "value": 0.9584,
+    "value_": 95.83996
+  },
+  {
+    "geoid": "99997",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-06-15",
+    "value": 0.95913,
+    "value_": 95.91339
+  },
+  {
+    "geoid": "99997",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-06-15",
+    "value": 0.9566,
+    "value_": 95.65995
+  },
+  {
+    "geoid": "99999",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-06-15",
+    "value": 0.95057,
+    "value_": 95.05683
+  },
+  {
+    "geoid": "99999",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-06-15",
+    "value": 0.95743,
+    "value_": 95.74344
+  },
+  {
+    "geoid": "99999",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-06-15",
+    "value": 0.95917,
+    "value_": 95.9167
+  },
+  {
+    "geoid": "99999",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-06-15",
+    "value": 0.95965,
+    "value_": 95.96506
+  },
+  {
+    "geoid": "99999",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-06-15",
+    "value": 0.95712,
+    "value_": 95.71196
+  },
+  {
+    "geoid": "11001",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-09-15",
+    "value": 0.94495,
+    "value_": 94.49476
+  },
+  {
+    "geoid": "11001",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-09-15",
+    "value": 0.93967,
+    "value_": 93.96718
+  },
+  {
+    "geoid": "11001",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-09-15",
+    "value": 0.95198,
+    "value_": 95.19813
+  },
+  {
+    "geoid": "11001",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-09-15",
+    "value": 0.94669,
+    "value_": 94.66937
+  },
+  {
+    "geoid": "11001",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-09-15",
+    "value": 0.94105,
+    "value_": 94.10514
+  },
+  {
+    "geoid": "12060",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-09-15",
+    "value": 0.95337,
+    "value_": 95.33665
+  },
+  {
+    "geoid": "12060",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-09-15",
+    "value": 0.96169,
+    "value_": 96.16924
+  },
+  {
+    "geoid": "12060",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-09-15",
+    "value": 0.96617,
+    "value_": 96.61679
+  },
+  {
+    "geoid": "12060",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-09-15",
+    "value": 0.96441,
+    "value_": 96.44084
+  },
+  {
+    "geoid": "12060",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-09-15",
+    "value": 0.95664,
+    "value_": 95.66398
+  },
+  {
+    "geoid": "12420",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-09-15",
+    "value": 0.96459,
+    "value_": 96.45895
+  },
+  {
+    "geoid": "12420",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-09-15",
+    "value": 0.96843,
+    "value_": 96.84342
+  },
+  {
+    "geoid": "12420",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-09-15",
+    "value": 0.96945,
+    "value_": 96.94463
+  },
+  {
+    "geoid": "12420",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-09-15",
+    "value": 0.97071,
+    "value_": 97.07075
+  },
+  {
+    "geoid": "12420",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-09-15",
+    "value": 0.96927,
+    "value_": 96.92652
+  },
+  {
+    "geoid": "12580",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-09-15",
+    "value": 0.94124,
+    "value_": 94.12415
+  },
+  {
+    "geoid": "12580",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-09-15",
+    "value": 0.9459,
+    "value_": 94.5901
+  },
+  {
+    "geoid": "12580",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-09-15",
+    "value": 0.94943,
+    "value_": 94.94259
+  },
+  {
+    "geoid": "12580",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-09-15",
+    "value": 0.94707,
+    "value_": 94.70731
+  },
+  {
+    "geoid": "12580",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-09-15",
+    "value": 0.9448,
+    "value_": 94.47961
+  },
+  {
+    "geoid": "13820",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-09-15",
+    "value": 0.96597,
+    "value_": 96.59725
+  },
+  {
+    "geoid": "13820",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-09-15",
+    "value": 0.96594,
+    "value_": 96.59394
+  },
+  {
+    "geoid": "13820",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-09-15",
+    "value": 0.96572,
+    "value_": 96.5725
+  },
+  {
+    "geoid": "13820",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-09-15",
+    "value": 0.9595,
+    "value_": 95.94961
+  },
+  {
+    "geoid": "13820",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-09-15",
+    "value": 0.9612,
+    "value_": 96.12008
+  },
+  {
+    "geoid": "14460",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-09-15",
+    "value": 0.97202,
+    "value_": 97.20158
+  },
+  {
+    "geoid": "14460",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-09-15",
+    "value": 0.97315,
+    "value_": 97.31535
+  },
+  {
+    "geoid": "14460",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-09-15",
+    "value": 0.97609,
+    "value_": 97.60881
+  },
+  {
+    "geoid": "14460",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-09-15",
+    "value": 0.97811,
+    "value_": 97.81067
+  },
+  {
+    "geoid": "14460",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-09-15",
+    "value": 0.97328,
+    "value_": 97.32839
+  },
+  {
+    "geoid": "15380",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-09-15",
+    "value": 0.95107,
+    "value_": 95.10668
+  },
+  {
+    "geoid": "15380",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-09-15",
+    "value": 0.95516,
+    "value_": 95.51574
+  },
+  {
+    "geoid": "15380",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-09-15",
+    "value": 0.95581,
+    "value_": 95.58117
+  },
+  {
+    "geoid": "15380",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-09-15",
+    "value": 0.95501,
+    "value_": 95.50105
+  },
+  {
+    "geoid": "15380",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-09-15",
+    "value": 0.93977,
+    "value_": 93.97683
+  },
+  {
+    "geoid": "16740",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-09-15",
+    "value": 0.958,
+    "value_": 95.79988
+  },
+  {
+    "geoid": "16740",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-09-15",
+    "value": 0.96413,
+    "value_": 96.41309
+  },
+  {
+    "geoid": "16740",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-09-15",
+    "value": 0.97069,
+    "value_": 97.06868
+  },
+  {
+    "geoid": "16740",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-09-15",
+    "value": 0.97022,
+    "value_": 97.02187
+  },
+  {
+    "geoid": "16740",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-09-15",
+    "value": 0.96671,
+    "value_": 96.67101
+  },
+  {
+    "geoid": "16980",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-09-15",
+    "value": 0.94033,
+    "value_": 94.03267
+  },
+  {
+    "geoid": "16980",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-09-15",
+    "value": 0.94295,
+    "value_": 94.29495
+  },
+  {
+    "geoid": "16980",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-09-15",
+    "value": 0.94969,
+    "value_": 94.96941
+  },
+  {
+    "geoid": "16980",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-09-15",
+    "value": 0.95272,
+    "value_": 95.27199
+  },
+  {
+    "geoid": "16980",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-09-15",
+    "value": 0.95025,
+    "value_": 95.02498
+  },
+  {
+    "geoid": "17140",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-09-15",
+    "value": 0.93997,
+    "value_": 93.9967
+  },
+  {
+    "geoid": "17140",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-09-15",
+    "value": 0.941,
+    "value_": 94.09995
+  },
+  {
+    "geoid": "17140",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-09-15",
+    "value": 0.94633,
+    "value_": 94.63275
+  },
+  {
+    "geoid": "17140",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-09-15",
+    "value": 0.94917,
+    "value_": 94.91744
+  },
+  {
+    "geoid": "17140",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-09-15",
+    "value": 0.94551,
+    "value_": 94.55129
+  },
+  {
+    "geoid": "17410",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-09-15",
+    "value": 0.95237,
+    "value_": 95.23704
+  },
+  {
+    "geoid": "17410",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-09-15",
+    "value": 0.95293,
+    "value_": 95.29324
+  },
+  {
+    "geoid": "17410",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-09-15",
+    "value": 0.95577,
+    "value_": 95.57733
+  },
+  {
+    "geoid": "17410",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-09-15",
+    "value": 0.95225,
+    "value_": 95.22469
+  },
+  {
+    "geoid": "17410",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-09-15",
+    "value": 0.95258,
+    "value_": 95.25816
+  },
+  {
+    "geoid": "18140",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-09-15",
+    "value": 0.95758,
+    "value_": 95.75799
+  },
+  {
+    "geoid": "18140",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-09-15",
+    "value": 0.96,
+    "value_": 95.99976
+  },
+  {
+    "geoid": "18140",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-09-15",
+    "value": 0.96332,
+    "value_": 96.33179
+  },
+  {
+    "geoid": "18140",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-09-15",
+    "value": 0.96609,
+    "value_": 96.60931
+  },
+  {
+    "geoid": "18140",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-09-15",
+    "value": 0.96768,
+    "value_": 96.76782
+  },
+  {
+    "geoid": "19100",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-09-15",
+    "value": 0.94477,
+    "value_": 94.47734
+  },
+  {
+    "geoid": "19100",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-09-15",
+    "value": 0.95189,
+    "value_": 95.1886
+  },
+  {
+    "geoid": "19100",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-09-15",
+    "value": 0.95557,
+    "value_": 95.55664
+  },
+  {
+    "geoid": "19100",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-09-15",
+    "value": 0.95512,
+    "value_": 95.51163
+  },
+  {
+    "geoid": "19100",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-09-15",
+    "value": 0.95043,
+    "value_": 95.04251
+  },
+  {
+    "geoid": "19740",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-09-15",
+    "value": 0.95364,
+    "value_": 95.36359
+  },
+  {
+    "geoid": "19740",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-09-15",
+    "value": 0.95825,
+    "value_": 95.82506
+  },
+  {
+    "geoid": "19740",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-09-15",
+    "value": 0.96223,
+    "value_": 96.22314
+  },
+  {
+    "geoid": "19740",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-09-15",
+    "value": 0.96354,
+    "value_": 96.35359
+  },
+  {
+    "geoid": "19740",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-09-15",
+    "value": 0.95617,
+    "value_": 95.6171
+  },
+  {
+    "geoid": "19820",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-09-15",
+    "value": 0.94644,
+    "value_": 94.64356
+  },
+  {
+    "geoid": "19820",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-09-15",
+    "value": 0.95096,
+    "value_": 95.09618
+  },
+  {
+    "geoid": "19820",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-09-15",
+    "value": 0.949,
+    "value_": 94.90024
+  },
+  {
+    "geoid": "19820",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-09-15",
+    "value": 0.94821,
+    "value_": 94.82128
+  },
+  {
+    "geoid": "19820",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-09-15",
+    "value": 0.94579,
+    "value_": 94.57902
+  },
+  {
+    "geoid": "23420",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-09-15",
+    "value": 0.9526,
+    "value_": 95.26025
+  },
+  {
+    "geoid": "23420",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-09-15",
+    "value": 0.95862,
+    "value_": 95.86195
+  },
+  {
+    "geoid": "23420",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-09-15",
+    "value": 0.9577,
+    "value_": 95.77036
+  },
+  {
+    "geoid": "23420",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-09-15",
+    "value": 0.953,
+    "value_": 95.29956
+  },
+  {
+    "geoid": "23420",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-09-15",
+    "value": 0.94436,
+    "value_": 94.43563
+  },
+  {
+    "geoid": "24017",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-09-15",
+    "value": 0.93856,
+    "value_": 93.85564
+  },
+  {
+    "geoid": "24017",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-09-15",
+    "value": 0.9433,
+    "value_": 94.32974
+  },
+  {
+    "geoid": "24017",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-09-15",
+    "value": 0.9462,
+    "value_": 94.62034
+  },
+  {
+    "geoid": "24017",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-09-15",
+    "value": 0.9613,
+    "value_": 96.12979
+  },
+  {
+    "geoid": "24017",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-09-15",
+    "value": 0.95634,
+    "value_": 95.63408
+  },
+  {
+    "geoid": "24031",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-09-15",
+    "value": 0.93632,
+    "value_": 93.63175
+  },
+  {
+    "geoid": "24031",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-09-15",
+    "value": 0.94334,
+    "value_": 94.33365
+  },
+  {
+    "geoid": "24031",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-09-15",
+    "value": 0.93947,
+    "value_": 93.94732
+  },
+  {
+    "geoid": "24031",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-09-15",
+    "value": 0.94311,
+    "value_": 94.31148
+  },
+  {
+    "geoid": "24031",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-09-15",
+    "value": 0.9529,
+    "value_": 95.29047
+  },
+  {
+    "geoid": "24033",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-09-15",
+    "value": 0.94983,
+    "value_": 94.9831
+  },
+  {
+    "geoid": "24033",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-09-15",
+    "value": 0.94639,
+    "value_": 94.63907
+  },
+  {
+    "geoid": "24033",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-09-15",
+    "value": 0.9491,
+    "value_": 94.91006
+  },
+  {
+    "geoid": "24033",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-09-15",
+    "value": 0.94333,
+    "value_": 94.33315
+  },
+  {
+    "geoid": "24033",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-09-15",
+    "value": 0.95098,
+    "value_": 95.09785
+  },
+  {
+    "geoid": "24340",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-09-15",
+    "value": 0.96655,
+    "value_": 96.65477
+  },
+  {
+    "geoid": "24340",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-09-15",
+    "value": 0.97466,
+    "value_": 97.46625
+  },
+  {
+    "geoid": "24340",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-09-15",
+    "value": 0.96925,
+    "value_": 96.92519
+  },
+  {
+    "geoid": "24340",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-09-15",
+    "value": 0.97127,
+    "value_": 97.12706
+  },
+  {
+    "geoid": "24340",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-09-15",
+    "value": 0.97081,
+    "value_": 97.08062
+  },
+  {
+    "geoid": "25540",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-09-15",
+    "value": 0.95769,
+    "value_": 95.76866
+  },
+  {
+    "geoid": "25540",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-09-15",
+    "value": 0.95925,
+    "value_": 95.92538
+  },
+  {
+    "geoid": "25540",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-09-15",
+    "value": 0.95808,
+    "value_": 95.80795
+  },
+  {
+    "geoid": "25540",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-09-15",
+    "value": 0.96076,
+    "value_": 96.07599
+  },
+  {
+    "geoid": "25540",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-09-15",
+    "value": 0.95514,
+    "value_": 95.51363
+  },
+  {
+    "geoid": "26420",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-09-15",
+    "value": 0.94295,
+    "value_": 94.29455
+  },
+  {
+    "geoid": "26420",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-09-15",
+    "value": 0.9497,
+    "value_": 94.96966
+  },
+  {
+    "geoid": "26420",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-09-15",
+    "value": 0.951,
+    "value_": 95.10004
+  },
+  {
+    "geoid": "26420",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-09-15",
+    "value": 0.94857,
+    "value_": 94.85691
+  },
+  {
+    "geoid": "26420",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-09-15",
+    "value": 0.94703,
+    "value_": 94.70274
+  },
+  {
+    "geoid": "26900",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-09-15",
+    "value": 0.95645,
+    "value_": 95.6449
+  },
+  {
+    "geoid": "26900",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-09-15",
+    "value": 0.96566,
+    "value_": 96.56561
+  },
+  {
+    "geoid": "26900",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-09-15",
+    "value": 0.96608,
+    "value_": 96.60842
+  },
+  {
+    "geoid": "26900",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-09-15",
+    "value": 0.96948,
+    "value_": 96.94776
+  },
+  {
+    "geoid": "26900",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-09-15",
+    "value": 0.96929,
+    "value_": 96.92851
+  },
+  {
+    "geoid": "27260",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-09-15",
+    "value": 0.95633,
+    "value_": 95.63253
+  },
+  {
+    "geoid": "27260",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-09-15",
+    "value": 0.96376,
+    "value_": 96.37551
+  },
+  {
+    "geoid": "27260",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-09-15",
+    "value": 0.95791,
+    "value_": 95.79113
+  },
+  {
+    "geoid": "27260",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-09-15",
+    "value": 0.95865,
+    "value_": 95.8654
+  },
+  {
+    "geoid": "27260",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-09-15",
+    "value": 0.95471,
+    "value_": 95.47066
+  },
+  {
+    "geoid": "28140",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-09-15",
+    "value": 0.94532,
+    "value_": 94.53203
+  },
+  {
+    "geoid": "28140",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-09-15",
+    "value": 0.956,
+    "value_": 95.59963
+  },
+  {
+    "geoid": "28140",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-09-15",
+    "value": 0.95595,
+    "value_": 95.5947
+  },
+  {
+    "geoid": "28140",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-09-15",
+    "value": 0.96126,
+    "value_": 96.12587
+  },
+  {
+    "geoid": "28140",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-09-15",
+    "value": 0.95858,
+    "value_": 95.85825
+  },
+  {
+    "geoid": "29820",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-09-15",
+    "value": 0.94327,
+    "value_": 94.32691
+  },
+  {
+    "geoid": "29820",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-09-15",
+    "value": 0.94621,
+    "value_": 94.6213
+  },
+  {
+    "geoid": "29820",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-09-15",
+    "value": 0.94955,
+    "value_": 94.95492
+  },
+  {
+    "geoid": "29820",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-09-15",
+    "value": 0.95011,
+    "value_": 95.01055
+  },
+  {
+    "geoid": "29820",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-09-15",
+    "value": 0.94884,
+    "value_": 94.88434
+  },
+  {
+    "geoid": "31140",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-09-15",
+    "value": 0.97238,
+    "value_": 97.23751
+  },
+  {
+    "geoid": "31140",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-09-15",
+    "value": 0.97128,
+    "value_": 97.12756
+  },
+  {
+    "geoid": "31140",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-09-15",
+    "value": 0.96673,
+    "value_": 96.67299
+  },
+  {
+    "geoid": "31140",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-09-15",
+    "value": 0.96669,
+    "value_": 96.66872
+  },
+  {
+    "geoid": "31140",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-09-15",
+    "value": 0.96656,
+    "value_": 96.65646
+  },
+  {
+    "geoid": "32820",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-09-15",
+    "value": 0.95896,
+    "value_": 95.89551
+  },
+  {
+    "geoid": "32820",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-09-15",
+    "value": 0.96342,
+    "value_": 96.34205
+  },
+  {
+    "geoid": "32820",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-09-15",
+    "value": 0.96617,
+    "value_": 96.6175
+  },
+  {
+    "geoid": "32820",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-09-15",
+    "value": 0.96166,
+    "value_": 96.16592
+  },
+  {
+    "geoid": "32820",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-09-15",
+    "value": 0.96213,
+    "value_": 96.21309
+  },
+  {
+    "geoid": "33340",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-09-15",
+    "value": 0.94986,
+    "value_": 94.98574
+  },
+  {
+    "geoid": "33340",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-09-15",
+    "value": 0.95723,
+    "value_": 95.72336
+  },
+  {
+    "geoid": "33340",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-09-15",
+    "value": 0.9595,
+    "value_": 95.9503
+  },
+  {
+    "geoid": "33340",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-09-15",
+    "value": 0.95987,
+    "value_": 95.98663
+  },
+  {
+    "geoid": "33340",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-09-15",
+    "value": 0.96656,
+    "value_": 96.65582
+  },
+  {
+    "geoid": "33460",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-09-15",
+    "value": 0.96423,
+    "value_": 96.42261
+  },
+  {
+    "geoid": "33460",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-09-15",
+    "value": 0.9698,
+    "value_": 96.97998
+  },
+  {
+    "geoid": "33460",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-09-15",
+    "value": 0.97243,
+    "value_": 97.24303
+  },
+  {
+    "geoid": "33460",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-09-15",
+    "value": 0.9757,
+    "value_": 97.56962
+  },
+  {
+    "geoid": "33460",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-09-15",
+    "value": 0.97247,
+    "value_": 97.24711
+  },
+  {
+    "geoid": "34980",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-09-15",
+    "value": 0.96182,
+    "value_": 96.18157
+  },
+  {
+    "geoid": "34980",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-09-15",
+    "value": 0.96976,
+    "value_": 96.97563
+  },
+  {
+    "geoid": "34980",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-09-15",
+    "value": 0.97032,
+    "value_": 97.03208
+  },
+  {
+    "geoid": "34980",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-09-15",
+    "value": 0.97004,
+    "value_": 97.00442
+  },
+  {
+    "geoid": "34980",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-09-15",
+    "value": 0.96611,
+    "value_": 96.61126
+  },
+  {
+    "geoid": "36420",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-09-15",
+    "value": 0.95095,
+    "value_": 95.09527
+  },
+  {
+    "geoid": "36420",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-09-15",
+    "value": 0.9523,
+    "value_": 95.23034
+  },
+  {
+    "geoid": "36420",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-09-15",
+    "value": 0.95411,
+    "value_": 95.41064
+  },
+  {
+    "geoid": "36420",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-09-15",
+    "value": 0.95233,
+    "value_": 95.23266
+  },
+  {
+    "geoid": "36420",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-09-15",
+    "value": 0.9466,
+    "value_": 94.66016
+  },
+  {
+    "geoid": "36540",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-09-15",
+    "value": 0.94454,
+    "value_": 94.45368
+  },
+  {
+    "geoid": "36540",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-09-15",
+    "value": 0.95112,
+    "value_": 95.1121
+  },
+  {
+    "geoid": "36540",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-09-15",
+    "value": 0.95482,
+    "value_": 95.48238
+  },
+  {
+    "geoid": "36540",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-09-15",
+    "value": 0.95559,
+    "value_": 95.55933
+  },
+  {
+    "geoid": "36540",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-09-15",
+    "value": 0.95566,
+    "value_": 95.56581
+  },
+  {
+    "geoid": "36740",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-09-15",
+    "value": 0.9594,
+    "value_": 95.94047
+  },
+  {
+    "geoid": "36740",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-09-15",
+    "value": 0.96363,
+    "value_": 96.3632
+  },
+  {
+    "geoid": "36740",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-09-15",
+    "value": 0.96682,
+    "value_": 96.68161
+  },
+  {
+    "geoid": "36740",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-09-15",
+    "value": 0.96325,
+    "value_": 96.32495
+  },
+  {
+    "geoid": "36740",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-09-15",
+    "value": 0.96207,
+    "value_": 96.20701
+  },
+  {
+    "geoid": "37980",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-09-15",
+    "value": 0.95032,
+    "value_": 95.03166
+  },
+  {
+    "geoid": "37980",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-09-15",
+    "value": 0.9563,
+    "value_": 95.62985
+  },
+  {
+    "geoid": "37980",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-09-15",
+    "value": 0.95871,
+    "value_": 95.87058
+  },
+  {
+    "geoid": "37980",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-09-15",
+    "value": 0.95814,
+    "value_": 95.81433
+  },
+  {
+    "geoid": "37980",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-09-15",
+    "value": 0.95764,
+    "value_": 95.76384
+  },
+  {
+    "geoid": "38060",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-09-15",
+    "value": 0.93356,
+    "value_": 93.35642
+  },
+  {
+    "geoid": "38060",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-09-15",
+    "value": 0.94654,
+    "value_": 94.65363
+  },
+  {
+    "geoid": "38060",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-09-15",
+    "value": 0.95608,
+    "value_": 95.60766
+  },
+  {
+    "geoid": "38060",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-09-15",
+    "value": 0.95189,
+    "value_": 95.18858
+  },
+  {
+    "geoid": "38060",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-09-15",
+    "value": 0.9535,
+    "value_": 95.35029
+  },
+  {
+    "geoid": "38300",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-09-15",
+    "value": 0.95903,
+    "value_": 95.90334
+  },
+  {
+    "geoid": "38300",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-09-15",
+    "value": 0.95898,
+    "value_": 95.89834
+  },
+  {
+    "geoid": "38300",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-09-15",
+    "value": 0.96031,
+    "value_": 96.03134
+  },
+  {
+    "geoid": "38300",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-09-15",
+    "value": 0.9627,
+    "value_": 96.26986
+  },
+  {
+    "geoid": "38300",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-09-15",
+    "value": 0.95396,
+    "value_": 95.39613
+  },
+  {
+    "geoid": "38900",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-09-15",
+    "value": 0.95764,
+    "value_": 95.76396
+  },
+  {
+    "geoid": "38900",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-09-15",
+    "value": 0.96434,
+    "value_": 96.43414
+  },
+  {
+    "geoid": "38900",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-09-15",
+    "value": 0.96151,
+    "value_": 96.15067
+  },
+  {
+    "geoid": "38900",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-09-15",
+    "value": 0.96051,
+    "value_": 96.05144
+  },
+  {
+    "geoid": "38900",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-09-15",
+    "value": 0.95725,
+    "value_": 95.72472
+  },
+  {
+    "geoid": "39300",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-09-15",
+    "value": 0.95725,
+    "value_": 95.72542
+  },
+  {
+    "geoid": "39300",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-09-15",
+    "value": 0.96828,
+    "value_": 96.8278
+  },
+  {
+    "geoid": "39300",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-09-15",
+    "value": 0.96818,
+    "value_": 96.81842
+  },
+  {
+    "geoid": "39300",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-09-15",
+    "value": 0.97247,
+    "value_": 97.24749
+  },
+  {
+    "geoid": "39300",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-09-15",
+    "value": 0.96663,
+    "value_": 96.66257
+  },
+  {
+    "geoid": "39580",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-09-15",
+    "value": 0.96656,
+    "value_": 96.6555
+  },
+  {
+    "geoid": "39580",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-09-15",
+    "value": 0.9709,
+    "value_": 97.08997
+  },
+  {
+    "geoid": "39580",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-09-15",
+    "value": 0.97679,
+    "value_": 97.67944
+  },
+  {
+    "geoid": "39580",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-09-15",
+    "value": 0.97468,
+    "value_": 97.46835
+  },
+  {
+    "geoid": "39580",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-09-15",
+    "value": 0.97521,
+    "value_": 97.52057
+  },
+  {
+    "geoid": "40060",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-09-15",
+    "value": 0.94608,
+    "value_": 94.60751
+  },
+  {
+    "geoid": "40060",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-09-15",
+    "value": 0.95179,
+    "value_": 95.17944
+  },
+  {
+    "geoid": "40060",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-09-15",
+    "value": 0.95621,
+    "value_": 95.62074
+  },
+  {
+    "geoid": "40060",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-09-15",
+    "value": 0.9564,
+    "value_": 95.64039
+  },
+  {
+    "geoid": "40060",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-09-15",
+    "value": 0.95488,
+    "value_": 95.48837
+  },
+  {
+    "geoid": "40140",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-09-15",
+    "value": 0.93091,
+    "value_": 93.09143
+  },
+  {
+    "geoid": "40140",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-09-15",
+    "value": 0.94146,
+    "value_": 94.14577
+  },
+  {
+    "geoid": "40140",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-09-15",
+    "value": 0.94257,
+    "value_": 94.25651
+  },
+  {
+    "geoid": "40140",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-09-15",
+    "value": 0.94256,
+    "value_": 94.25617
+  },
+  {
+    "geoid": "40140",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-09-15",
+    "value": 0.93436,
+    "value_": 93.43598
+  },
+  {
+    "geoid": "40380",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-09-15",
+    "value": 0.95731,
+    "value_": 95.73085
+  },
+  {
+    "geoid": "40380",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-09-15",
+    "value": 0.95285,
+    "value_": 95.28474
+  },
+  {
+    "geoid": "40380",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-09-15",
+    "value": 0.95647,
+    "value_": 95.64717
+  },
+  {
+    "geoid": "40380",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-09-15",
+    "value": 0.954,
+    "value_": 95.39994
+  },
+  {
+    "geoid": "40380",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-09-15",
+    "value": 0.95316,
+    "value_": 95.31602
+  },
+  {
+    "geoid": "40900",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-09-15",
+    "value": 0.9414,
+    "value_": 94.14011
+  },
+  {
+    "geoid": "40900",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-09-15",
+    "value": 0.94604,
+    "value_": 94.60404
+  },
+  {
+    "geoid": "40900",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-09-15",
+    "value": 0.94241,
+    "value_": 94.24067
+  },
+  {
+    "geoid": "40900",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-09-15",
+    "value": 0.94471,
+    "value_": 94.47098
+  },
+  {
+    "geoid": "40900",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-09-15",
+    "value": 0.94091,
+    "value_": 94.09133
+  },
+  {
+    "geoid": "41180",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-09-15",
+    "value": 0.94246,
+    "value_": 94.24643
+  },
+  {
+    "geoid": "41180",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-09-15",
+    "value": 0.94325,
+    "value_": 94.32515
+  },
+  {
+    "geoid": "41180",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-09-15",
+    "value": 0.95223,
+    "value_": 95.2228
+  },
+  {
+    "geoid": "41180",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-09-15",
+    "value": 0.9547,
+    "value_": 95.47027
+  },
+  {
+    "geoid": "41180",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-09-15",
+    "value": 0.96271,
+    "value_": 96.27085
+  },
+  {
+    "geoid": "41620",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-09-15",
+    "value": 0.96541,
+    "value_": 96.54135
+  },
+  {
+    "geoid": "41620",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-09-15",
+    "value": 0.9721,
+    "value_": 97.20973
+  },
+  {
+    "geoid": "41620",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-09-15",
+    "value": 0.97278,
+    "value_": 97.27766
+  },
+  {
+    "geoid": "41620",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-09-15",
+    "value": 0.97613,
+    "value_": 97.61318
+  },
+  {
+    "geoid": "41620",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-09-15",
+    "value": 0.96846,
+    "value_": 96.84615
+  },
+  {
+    "geoid": "41700",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-09-15",
+    "value": 0.95523,
+    "value_": 95.52285
+  },
+  {
+    "geoid": "41700",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-09-15",
+    "value": 0.96391,
+    "value_": 96.39063
+  },
+  {
+    "geoid": "41700",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-09-15",
+    "value": 0.96559,
+    "value_": 96.55897
+  },
+  {
+    "geoid": "41700",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-09-15",
+    "value": 0.96448,
+    "value_": 96.44838
+  },
+  {
+    "geoid": "41700",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-09-15",
+    "value": 0.96084,
+    "value_": 96.08444
+  },
+  {
+    "geoid": "41740",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-09-15",
+    "value": 0.95104,
+    "value_": 95.10444
+  },
+  {
+    "geoid": "41740",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-09-15",
+    "value": 0.95824,
+    "value_": 95.82377
+  },
+  {
+    "geoid": "41740",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-09-15",
+    "value": 0.96124,
+    "value_": 96.12437
+  },
+  {
+    "geoid": "41740",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-09-15",
+    "value": 0.96028,
+    "value_": 96.02785
+  },
+  {
+    "geoid": "41740",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-09-15",
+    "value": 0.95547,
+    "value_": 95.54656
+  },
+  {
+    "geoid": "41940",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-09-15",
+    "value": 0.95706,
+    "value_": 95.70637
+  },
+  {
+    "geoid": "41940",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-09-15",
+    "value": 0.95704,
+    "value_": 95.70378
+  },
+  {
+    "geoid": "41940",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-09-15",
+    "value": 0.95691,
+    "value_": 95.69148
+  },
+  {
+    "geoid": "41940",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-09-15",
+    "value": 0.95704,
+    "value_": 95.7045
+  },
+  {
+    "geoid": "41940",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-09-15",
+    "value": 0.95417,
+    "value_": 95.41748
+  },
+  {
+    "geoid": "42660",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-09-15",
+    "value": 0.97042,
+    "value_": 97.04239
+  },
+  {
+    "geoid": "42660",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-09-15",
+    "value": 0.97158,
+    "value_": 97.15815
+  },
+  {
+    "geoid": "42660",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-09-15",
+    "value": 0.96765,
+    "value_": 96.76461
+  },
+  {
+    "geoid": "42660",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-09-15",
+    "value": 0.96554,
+    "value_": 96.55392
+  },
+  {
+    "geoid": "42660",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-09-15",
+    "value": 0.95989,
+    "value_": 95.98887
+  },
+  {
+    "geoid": "45300",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-09-15",
+    "value": 0.96153,
+    "value_": 96.1527
+  },
+  {
+    "geoid": "45300",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-09-15",
+    "value": 0.96733,
+    "value_": 96.73332
+  },
+  {
+    "geoid": "45300",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-09-15",
+    "value": 0.97003,
+    "value_": 97.00291
+  },
+  {
+    "geoid": "45300",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-09-15",
+    "value": 0.97069,
+    "value_": 97.06862
+  },
+  {
+    "geoid": "45300",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-09-15",
+    "value": 0.96542,
+    "value_": 96.54195
+  },
+  {
+    "geoid": "46060",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-09-15",
+    "value": 0.93836,
+    "value_": 93.83647
+  },
+  {
+    "geoid": "46060",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-09-15",
+    "value": 0.94381,
+    "value_": 94.3809
+  },
+  {
+    "geoid": "46060",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-09-15",
+    "value": 0.94615,
+    "value_": 94.61469
+  },
+  {
+    "geoid": "46060",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-09-15",
+    "value": 0.94248,
+    "value_": 94.24798
+  },
+  {
+    "geoid": "46060",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-09-15",
+    "value": 0.94062,
+    "value_": 94.06177
+  },
+  {
+    "geoid": "46140",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-09-15",
+    "value": 0.96229,
+    "value_": 96.22871
+  },
+  {
+    "geoid": "46140",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-09-15",
+    "value": 0.96888,
+    "value_": 96.88807
+  },
+  {
+    "geoid": "46140",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-09-15",
+    "value": 0.9727,
+    "value_": 97.26961
+  },
+  {
+    "geoid": "46140",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-09-15",
+    "value": 0.9698,
+    "value_": 96.98046
+  },
+  {
+    "geoid": "46140",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-09-15",
+    "value": 0.97039,
+    "value_": 97.03881
+  },
+  {
+    "geoid": "47260",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-09-15",
+    "value": 0.94668,
+    "value_": 94.66751
+  },
+  {
+    "geoid": "47260",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-09-15",
+    "value": 0.94929,
+    "value_": 94.92908
+  },
+  {
+    "geoid": "47260",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-09-15",
+    "value": 0.95352,
+    "value_": 95.35223
+  },
+  {
+    "geoid": "47260",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-09-15",
+    "value": 0.95418,
+    "value_": 95.41848
+  },
+  {
+    "geoid": "47260",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-09-15",
+    "value": 0.95681,
+    "value_": 95.68088
+  },
+  {
+    "geoid": "47900",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-09-15",
+    "value": 0.9473,
+    "value_": 94.73009
+  },
+  {
+    "geoid": "47900",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-09-15",
+    "value": 0.95248,
+    "value_": 95.24814
+  },
+  {
+    "geoid": "47900",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-09-15",
+    "value": 0.95786,
+    "value_": 95.78564
+  },
+  {
+    "geoid": "47900",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-09-15",
+    "value": 0.95669,
+    "value_": 95.66909
+  },
+  {
+    "geoid": "47900",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-09-15",
+    "value": 0.95833,
+    "value_": 95.83327
+  },
+  {
+    "geoid": "51013",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-09-15",
+    "value": 0.96268,
+    "value_": 96.26846
+  },
+  {
+    "geoid": "51013",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-09-15",
+    "value": 0.95741,
+    "value_": 95.74125
+  },
+  {
+    "geoid": "51013",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-09-15",
+    "value": 0.95144,
+    "value_": 95.14436
+  },
+  {
+    "geoid": "51013",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-09-15",
+    "value": 0.94127,
+    "value_": 94.12661
+  },
+  {
+    "geoid": "51013",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-09-15",
+    "value": 0.95156,
+    "value_": 95.15557
+  },
+  {
+    "geoid": "51061",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-09-15",
+    "value": 0.95778,
+    "value_": 95.77793
+  },
+  {
+    "geoid": "51061",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-09-15",
+    "value": 0.96096,
+    "value_": 96.09602
+  },
+  {
+    "geoid": "51061",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-09-15",
+    "value": 0.96174,
+    "value_": 96.1743
+  },
+  {
+    "geoid": "51061",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-09-15",
+    "value": 0.9614,
+    "value_": 96.14009
+  },
+  {
+    "geoid": "51061",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-09-15",
+    "value": 0.9532,
+    "value_": 95.31998
+  },
+  {
+    "geoid": "51107",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-09-15",
+    "value": 0.92103,
+    "value_": 92.1028
+  },
+  {
+    "geoid": "51107",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-09-15",
+    "value": 0.93623,
+    "value_": 93.62253
+  },
+  {
+    "geoid": "51107",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-09-15",
+    "value": 0.94504,
+    "value_": 94.50352
+  },
+  {
+    "geoid": "51107",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-09-15",
+    "value": 0.94503,
+    "value_": 94.50334
+  },
+  {
+    "geoid": "51107",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-09-15",
+    "value": 0.94547,
+    "value_": 94.54684
+  },
+  {
+    "geoid": "51153",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-09-15",
+    "value": 0.96198,
+    "value_": 96.19766
+  },
+  {
+    "geoid": "51153",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-09-15",
+    "value": 0.96483,
+    "value_": 96.48339
+  },
+  {
+    "geoid": "51153",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-09-15",
+    "value": 0.97938,
+    "value_": 97.93755
+  },
+  {
+    "geoid": "51153",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-09-15",
+    "value": 0.97494,
+    "value_": 97.4936
+  },
+  {
+    "geoid": "51153",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-09-15",
+    "value": 0.97235,
+    "value_": 97.23463
+  },
+  {
+    "geoid": "51179",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-09-15",
+    "value": 0.96936,
+    "value_": 96.9356
+  },
+  {
+    "geoid": "51179",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-09-15",
+    "value": 0.97552,
+    "value_": 97.55175
+  },
+  {
+    "geoid": "51179",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-09-15",
+    "value": 0.97567,
+    "value_": 97.56695
+  },
+  {
+    "geoid": "51179",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-09-15",
+    "value": 0.97801,
+    "value_": 97.80104
+  },
+  {
+    "geoid": "51179",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-09-15",
+    "value": 0.97507,
+    "value_": 97.5067
+  },
+  {
+    "geoid": "51600",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-09-15",
+    "value": 0.96697,
+    "value_": 96.69674
+  },
+  {
+    "geoid": "51600",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-09-15",
+    "value": 0.96166,
+    "value_": 96.16567
+  },
+  {
+    "geoid": "51600",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-09-15",
+    "value": 0.96851,
+    "value_": 96.85106
+  },
+  {
+    "geoid": "51600",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-09-15",
+    "value": 0.96672,
+    "value_": 96.67227
+  },
+  {
+    "geoid": "51600",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-09-15",
+    "value": 0.96651,
+    "value_": 96.65147
+  },
+  {
+    "geoid": "99997",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-09-15",
+    "value": 0.95129,
+    "value_": 95.1289
+  },
+  {
+    "geoid": "99997",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-09-15",
+    "value": 0.95647,
+    "value_": 95.64682
+  },
+  {
+    "geoid": "99997",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-09-15",
+    "value": 0.95907,
+    "value_": 95.90651
+  },
+  {
+    "geoid": "99997",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-09-15",
+    "value": 0.95899,
+    "value_": 95.89943
+  },
+  {
+    "geoid": "99997",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-09-15",
+    "value": 0.95631,
+    "value_": 95.63132
+  },
+  {
+    "geoid": "99999",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-09-15",
+    "value": 0.95316,
+    "value_": 95.31556
+  },
+  {
+    "geoid": "99999",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-09-15",
+    "value": 0.95774,
+    "value_": 95.77389
+  },
+  {
+    "geoid": "99999",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-09-15",
+    "value": 0.95958,
+    "value_": 95.95766
+  },
+  {
+    "geoid": "99999",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-09-15",
+    "value": 0.95952,
+    "value_": 95.95205
+  },
+  {
+    "geoid": "99999",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-09-15",
+    "value": 0.95682,
+    "value_": 95.682
+  },
+  {
+    "geoid": "11001",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-12-15",
+    "value": 0.94572,
+    "value_": 94.57194
+  },
+  {
+    "geoid": "11001",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-12-15",
+    "value": 0.95368,
+    "value_": 95.36839
+  },
+  {
+    "geoid": "11001",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-12-15",
+    "value": 0.95538,
+    "value_": 95.53806
+  },
+  {
+    "geoid": "11001",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-12-15",
+    "value": 0.94239,
+    "value_": 94.23853
+  },
+  {
+    "geoid": "11001",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-12-15",
+    "value": 0.93891,
+    "value_": 93.89104
+  },
+  {
+    "geoid": "12060",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-12-15",
+    "value": 0.95578,
+    "value_": 95.57828
+  },
+  {
+    "geoid": "12060",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-12-15",
+    "value": 0.96395,
+    "value_": 96.39547
+  },
+  {
+    "geoid": "12060",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-12-15",
+    "value": 0.96677,
+    "value_": 96.67699
+  },
+  {
+    "geoid": "12060",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-12-15",
+    "value": 0.96244,
+    "value_": 96.24354
+  },
+  {
+    "geoid": "12060",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-12-15",
+    "value": 0.95679,
+    "value_": 95.67888
+  },
+  {
+    "geoid": "12420",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-12-15",
+    "value": 0.96477,
+    "value_": 96.4766
+  },
+  {
+    "geoid": "12420",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-12-15",
+    "value": 0.96981,
+    "value_": 96.98123
+  },
+  {
+    "geoid": "12420",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-12-15",
+    "value": 0.97024,
+    "value_": 97.0237
+  },
+  {
+    "geoid": "12420",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-12-15",
+    "value": 0.97053,
+    "value_": 97.05345
+  },
+  {
+    "geoid": "12420",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-12-15",
+    "value": 0.96799,
+    "value_": 96.79915
+  },
+  {
+    "geoid": "12580",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-12-15",
+    "value": 0.94286,
+    "value_": 94.28615
+  },
+  {
+    "geoid": "12580",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-12-15",
+    "value": 0.94784,
+    "value_": 94.7841
+  },
+  {
+    "geoid": "12580",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-12-15",
+    "value": 0.94953,
+    "value_": 94.95301
+  },
+  {
+    "geoid": "12580",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-12-15",
+    "value": 0.94925,
+    "value_": 94.9246
+  },
+  {
+    "geoid": "12580",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-12-15",
+    "value": 0.94328,
+    "value_": 94.32801
+  },
+  {
+    "geoid": "13820",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-12-15",
+    "value": 0.96628,
+    "value_": 96.62835
+  },
+  {
+    "geoid": "13820",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-12-15",
+    "value": 0.967,
+    "value_": 96.69987
+  },
+  {
+    "geoid": "13820",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-12-15",
+    "value": 0.96721,
+    "value_": 96.72053
+  },
+  {
+    "geoid": "13820",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-12-15",
+    "value": 0.96071,
+    "value_": 96.07062
+  },
+  {
+    "geoid": "13820",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-12-15",
+    "value": 0.95464,
+    "value_": 95.46382
+  },
+  {
+    "geoid": "14460",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-12-15",
+    "value": 0.97237,
+    "value_": 97.23717
+  },
+  {
+    "geoid": "14460",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-12-15",
+    "value": 0.97388,
+    "value_": 97.38823
+  },
+  {
+    "geoid": "14460",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-12-15",
+    "value": 0.97614,
+    "value_": 97.61395
+  },
+  {
+    "geoid": "14460",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-12-15",
+    "value": 0.97669,
+    "value_": 97.66941
+  },
+  {
+    "geoid": "14460",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-12-15",
+    "value": 0.97219,
+    "value_": 97.21854
+  },
+  {
+    "geoid": "15380",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-12-15",
+    "value": 0.95458,
+    "value_": 95.45833
+  },
+  {
+    "geoid": "15380",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-12-15",
+    "value": 0.95446,
+    "value_": 95.44609
+  },
+  {
+    "geoid": "15380",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-12-15",
+    "value": 0.95783,
+    "value_": 95.78326
+  },
+  {
+    "geoid": "15380",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-12-15",
+    "value": 0.9512,
+    "value_": 95.12023
+  },
+  {
+    "geoid": "15380",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-12-15",
+    "value": 0.93598,
+    "value_": 93.59838
+  },
+  {
+    "geoid": "16740",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-12-15",
+    "value": 0.96113,
+    "value_": 96.11282
+  },
+  {
+    "geoid": "16740",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-12-15",
+    "value": 0.96565,
+    "value_": 96.56532
+  },
+  {
+    "geoid": "16740",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-12-15",
+    "value": 0.97267,
+    "value_": 97.2673
+  },
+  {
+    "geoid": "16740",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-12-15",
+    "value": 0.96825,
+    "value_": 96.82544
+  },
+  {
+    "geoid": "16740",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-12-15",
+    "value": 0.96775,
+    "value_": 96.77467
+  },
+  {
+    "geoid": "16980",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-12-15",
+    "value": 0.94173,
+    "value_": 94.17253
+  },
+  {
+    "geoid": "16980",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-12-15",
+    "value": 0.94543,
+    "value_": 94.54295
+  },
+  {
+    "geoid": "16980",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-12-15",
+    "value": 0.94938,
+    "value_": 94.93809
+  },
+  {
+    "geoid": "16980",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-12-15",
+    "value": 0.95279,
+    "value_": 95.27886
+  },
+  {
+    "geoid": "16980",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-12-15",
+    "value": 0.95204,
+    "value_": 95.20369
+  },
+  {
+    "geoid": "17140",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-12-15",
+    "value": 0.94512,
+    "value_": 94.51154
+  },
+  {
+    "geoid": "17140",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-12-15",
+    "value": 0.94407,
+    "value_": 94.40655
+  },
+  {
+    "geoid": "17140",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-12-15",
+    "value": 0.94732,
+    "value_": 94.73181
+  },
+  {
+    "geoid": "17140",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-12-15",
+    "value": 0.94927,
+    "value_": 94.92741
+  },
+  {
+    "geoid": "17140",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-12-15",
+    "value": 0.94501,
+    "value_": 94.50094
+  },
+  {
+    "geoid": "17410",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-12-15",
+    "value": 0.95419,
+    "value_": 95.4188
+  },
+  {
+    "geoid": "17410",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-12-15",
+    "value": 0.95537,
+    "value_": 95.53659
+  },
+  {
+    "geoid": "17410",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-12-15",
+    "value": 0.95405,
+    "value_": 95.40516
+  },
+  {
+    "geoid": "17410",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-12-15",
+    "value": 0.95357,
+    "value_": 95.35698
+  },
+  {
+    "geoid": "17410",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-12-15",
+    "value": 0.95341,
+    "value_": 95.34087
+  },
+  {
+    "geoid": "18140",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-12-15",
+    "value": 0.96237,
+    "value_": 96.23693
+  },
+  {
+    "geoid": "18140",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-12-15",
+    "value": 0.9627,
+    "value_": 96.26955
+  },
+  {
+    "geoid": "18140",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-12-15",
+    "value": 0.96427,
+    "value_": 96.427
+  },
+  {
+    "geoid": "18140",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-12-15",
+    "value": 0.96845,
+    "value_": 96.84521
+  },
+  {
+    "geoid": "18140",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-12-15",
+    "value": 0.96956,
+    "value_": 96.95599
+  },
+  {
+    "geoid": "19100",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-12-15",
+    "value": 0.94574,
+    "value_": 94.574
+  },
+  {
+    "geoid": "19100",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-12-15",
+    "value": 0.9542,
+    "value_": 95.4203
+  },
+  {
+    "geoid": "19100",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-12-15",
+    "value": 0.95533,
+    "value_": 95.53335
+  },
+  {
+    "geoid": "19100",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-12-15",
+    "value": 0.95499,
+    "value_": 95.49897
+  },
+  {
+    "geoid": "19100",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-12-15",
+    "value": 0.95129,
+    "value_": 95.12877
+  },
+  {
+    "geoid": "19740",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-12-15",
+    "value": 0.95597,
+    "value_": 95.59748
+  },
+  {
+    "geoid": "19740",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-12-15",
+    "value": 0.96126,
+    "value_": 96.1264
+  },
+  {
+    "geoid": "19740",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-12-15",
+    "value": 0.95899,
+    "value_": 95.89927
+  },
+  {
+    "geoid": "19740",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-12-15",
+    "value": 0.96211,
+    "value_": 96.21073
+  },
+  {
+    "geoid": "19740",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-12-15",
+    "value": 0.9576,
+    "value_": 95.76031
+  },
+  {
+    "geoid": "19820",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-12-15",
+    "value": 0.94949,
+    "value_": 94.94855
+  },
+  {
+    "geoid": "19820",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-12-15",
+    "value": 0.95129,
+    "value_": 95.12948
+  },
+  {
+    "geoid": "19820",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-12-15",
+    "value": 0.94891,
+    "value_": 94.8908
+  },
+  {
+    "geoid": "19820",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-12-15",
+    "value": 0.94765,
+    "value_": 94.76534
+  },
+  {
+    "geoid": "19820",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-12-15",
+    "value": 0.94975,
+    "value_": 94.97452
+  },
+  {
+    "geoid": "23420",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-12-15",
+    "value": 0.95434,
+    "value_": 95.43435
+  },
+  {
+    "geoid": "23420",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-12-15",
+    "value": 0.9595,
+    "value_": 95.94989
+  },
+  {
+    "geoid": "23420",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-12-15",
+    "value": 0.95649,
+    "value_": 95.64938
+  },
+  {
+    "geoid": "23420",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-12-15",
+    "value": 0.95123,
+    "value_": 95.12294
+  },
+  {
+    "geoid": "23420",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-12-15",
+    "value": 0.94399,
+    "value_": 94.39942
+  },
+  {
+    "geoid": "24017",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-12-15",
+    "value": 0.94013,
+    "value_": 94.01306
+  },
+  {
+    "geoid": "24017",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-12-15",
+    "value": 0.94942,
+    "value_": 94.94188
+  },
+  {
+    "geoid": "24017",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-12-15",
+    "value": 0.94283,
+    "value_": 94.28254
+  },
+  {
+    "geoid": "24017",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-12-15",
+    "value": 0.95802,
+    "value_": 95.80245
+  },
+  {
+    "geoid": "24017",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-12-15",
+    "value": 0.95853,
+    "value_": 95.85292
+  },
+  {
+    "geoid": "24031",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-12-15",
+    "value": 0.93796,
+    "value_": 93.79621
+  },
+  {
+    "geoid": "24031",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-12-15",
+    "value": 0.94764,
+    "value_": 94.76384
+  },
+  {
+    "geoid": "24031",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-12-15",
+    "value": 0.93585,
+    "value_": 93.58498
+  },
+  {
+    "geoid": "24031",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-12-15",
+    "value": 0.94252,
+    "value_": 94.25181
+  },
+  {
+    "geoid": "24031",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-12-15",
+    "value": 0.95396,
+    "value_": 95.39578
+  },
+  {
+    "geoid": "24033",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-12-15",
+    "value": 0.94756,
+    "value_": 94.75636
+  },
+  {
+    "geoid": "24033",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-12-15",
+    "value": 0.95043,
+    "value_": 95.04323
+  },
+  {
+    "geoid": "24033",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-12-15",
+    "value": 0.94797,
+    "value_": 94.79747
+  },
+  {
+    "geoid": "24033",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-12-15",
+    "value": 0.94518,
+    "value_": 94.5178
+  },
+  {
+    "geoid": "24033",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-12-15",
+    "value": 0.94716,
+    "value_": 94.71602
+  },
+  {
+    "geoid": "24340",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-12-15",
+    "value": 0.96915,
+    "value_": 96.91468
+  },
+  {
+    "geoid": "24340",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-12-15",
+    "value": 0.97102,
+    "value_": 97.10245
+  },
+  {
+    "geoid": "24340",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-12-15",
+    "value": 0.97269,
+    "value_": 97.26888
+  },
+  {
+    "geoid": "24340",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-12-15",
+    "value": 0.97167,
+    "value_": 97.1665
+  },
+  {
+    "geoid": "24340",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-12-15",
+    "value": 0.9714,
+    "value_": 97.13957
+  },
+  {
+    "geoid": "25540",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-12-15",
+    "value": 0.95752,
+    "value_": 95.75189
+  },
+  {
+    "geoid": "25540",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-12-15",
+    "value": 0.95976,
+    "value_": 95.97619
+  },
+  {
+    "geoid": "25540",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-12-15",
+    "value": 0.95916,
+    "value_": 95.91623
+  },
+  {
+    "geoid": "25540",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-12-15",
+    "value": 0.95244,
+    "value_": 95.24419
+  },
+  {
+    "geoid": "25540",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-12-15",
+    "value": 0.95657,
+    "value_": 95.65735
+  },
+  {
+    "geoid": "26420",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-12-15",
+    "value": 0.94601,
+    "value_": 94.60111
+  },
+  {
+    "geoid": "26420",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-12-15",
+    "value": 0.95198,
+    "value_": 95.198
+  },
+  {
+    "geoid": "26420",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-12-15",
+    "value": 0.95152,
+    "value_": 95.15222
+  },
+  {
+    "geoid": "26420",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-12-15",
+    "value": 0.94865,
+    "value_": 94.86479
+  },
+  {
+    "geoid": "26420",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-12-15",
+    "value": 0.94667,
+    "value_": 94.66664
+  },
+  {
+    "geoid": "26900",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-12-15",
+    "value": 0.96008,
+    "value_": 96.00797
+  },
+  {
+    "geoid": "26900",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-12-15",
+    "value": 0.96696,
+    "value_": 96.69597
+  },
+  {
+    "geoid": "26900",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-12-15",
+    "value": 0.9683,
+    "value_": 96.82968
+  },
+  {
+    "geoid": "26900",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-12-15",
+    "value": 0.97092,
+    "value_": 97.09238
+  },
+  {
+    "geoid": "26900",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-12-15",
+    "value": 0.96977,
+    "value_": 96.9767
+  },
+  {
+    "geoid": "27260",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-12-15",
+    "value": 0.9592,
+    "value_": 95.91993
+  },
+  {
+    "geoid": "27260",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-12-15",
+    "value": 0.95888,
+    "value_": 95.88791
+  },
+  {
+    "geoid": "27260",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-12-15",
+    "value": 0.95842,
+    "value_": 95.84189
+  },
+  {
+    "geoid": "27260",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-12-15",
+    "value": 0.95766,
+    "value_": 95.76569
+  },
+  {
+    "geoid": "27260",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-12-15",
+    "value": 0.95178,
+    "value_": 95.17797
+  },
+  {
+    "geoid": "28140",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-12-15",
+    "value": 0.94835,
+    "value_": 94.83491
+  },
+  {
+    "geoid": "28140",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-12-15",
+    "value": 0.95714,
+    "value_": 95.71444
+  },
+  {
+    "geoid": "28140",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-12-15",
+    "value": 0.95752,
+    "value_": 95.75198
+  },
+  {
+    "geoid": "28140",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-12-15",
+    "value": 0.96201,
+    "value_": 96.20095
+  },
+  {
+    "geoid": "28140",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-12-15",
+    "value": 0.95846,
+    "value_": 95.84633
+  },
+  {
+    "geoid": "29820",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-12-15",
+    "value": 0.94355,
+    "value_": 94.35503
+  },
+  {
+    "geoid": "29820",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-12-15",
+    "value": 0.94691,
+    "value_": 94.69143
+  },
+  {
+    "geoid": "29820",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-12-15",
+    "value": 0.95096,
+    "value_": 95.09638
+  },
+  {
+    "geoid": "29820",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-12-15",
+    "value": 0.95375,
+    "value_": 95.37513
+  },
+  {
+    "geoid": "29820",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-12-15",
+    "value": 0.94832,
+    "value_": 94.83171
+  },
+  {
+    "geoid": "31140",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-12-15",
+    "value": 0.97368,
+    "value_": 97.36786
+  },
+  {
+    "geoid": "31140",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-12-15",
+    "value": 0.967,
+    "value_": 96.70024
+  },
+  {
+    "geoid": "31140",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-12-15",
+    "value": 0.96724,
+    "value_": 96.72368
+  },
+  {
+    "geoid": "31140",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-12-15",
+    "value": 0.96936,
+    "value_": 96.93639
+  },
+  {
+    "geoid": "31140",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-12-15",
+    "value": 0.96431,
+    "value_": 96.43074
+  },
+  {
+    "geoid": "32820",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-12-15",
+    "value": 0.96115,
+    "value_": 96.11455
+  },
+  {
+    "geoid": "32820",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-12-15",
+    "value": 0.96626,
+    "value_": 96.6262
+  },
+  {
+    "geoid": "32820",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-12-15",
+    "value": 0.96543,
+    "value_": 96.54291
+  },
+  {
+    "geoid": "32820",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-12-15",
+    "value": 0.96076,
+    "value_": 96.07555
+  },
+  {
+    "geoid": "32820",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-12-15",
+    "value": 0.95855,
+    "value_": 95.85492
+  },
+  {
+    "geoid": "33340",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-12-15",
+    "value": 0.9527,
+    "value_": 95.26958
+  },
+  {
+    "geoid": "33340",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-12-15",
+    "value": 0.96031,
+    "value_": 96.0309
+  },
+  {
+    "geoid": "33340",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-12-15",
+    "value": 0.95923,
+    "value_": 95.92256
+  },
+  {
+    "geoid": "33340",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-12-15",
+    "value": 0.96305,
+    "value_": 96.30506
+  },
+  {
+    "geoid": "33340",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-12-15",
+    "value": 0.9668,
+    "value_": 96.68049
+  },
+  {
+    "geoid": "33460",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-12-15",
+    "value": 0.96469,
+    "value_": 96.46877
+  },
+  {
+    "geoid": "33460",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-12-15",
+    "value": 0.96943,
+    "value_": 96.94321
+  },
+  {
+    "geoid": "33460",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-12-15",
+    "value": 0.97225,
+    "value_": 97.22544
+  },
+  {
+    "geoid": "33460",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-12-15",
+    "value": 0.97561,
+    "value_": 97.56089
+  },
+  {
+    "geoid": "33460",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-12-15",
+    "value": 0.97267,
+    "value_": 97.26706
+  },
+  {
+    "geoid": "34980",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-12-15",
+    "value": 0.96499,
+    "value_": 96.49876
+  },
+  {
+    "geoid": "34980",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-12-15",
+    "value": 0.97095,
+    "value_": 97.09532
+  },
+  {
+    "geoid": "34980",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-12-15",
+    "value": 0.97098,
+    "value_": 97.09783
+  },
+  {
+    "geoid": "34980",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-12-15",
+    "value": 0.97047,
+    "value_": 97.04717
+  },
+  {
+    "geoid": "34980",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-12-15",
+    "value": 0.96574,
+    "value_": 96.57402
+  },
+  {
+    "geoid": "36420",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-12-15",
+    "value": 0.94873,
+    "value_": 94.87292
+  },
+  {
+    "geoid": "36420",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-12-15",
+    "value": 0.95234,
+    "value_": 95.23394
+  },
+  {
+    "geoid": "36420",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-12-15",
+    "value": 0.954,
+    "value_": 95.39996
+  },
+  {
+    "geoid": "36420",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-12-15",
+    "value": 0.95083,
+    "value_": 95.08326
+  },
+  {
+    "geoid": "36420",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-12-15",
+    "value": 0.94571,
+    "value_": 94.57052
+  },
+  {
+    "geoid": "36540",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-12-15",
+    "value": 0.94349,
+    "value_": 94.34874
+  },
+  {
+    "geoid": "36540",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-12-15",
+    "value": 0.9492,
+    "value_": 94.92022
+  },
+  {
+    "geoid": "36540",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-12-15",
+    "value": 0.95618,
+    "value_": 95.61789
+  },
+  {
+    "geoid": "36540",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-12-15",
+    "value": 0.95719,
+    "value_": 95.71885
+  },
+  {
+    "geoid": "36540",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-12-15",
+    "value": 0.95609,
+    "value_": 95.60902
+  },
+  {
+    "geoid": "36740",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-12-15",
+    "value": 0.96194,
+    "value_": 96.19365
+  },
+  {
+    "geoid": "36740",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-12-15",
+    "value": 0.96304,
+    "value_": 96.304
+  },
+  {
+    "geoid": "36740",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-12-15",
+    "value": 0.96696,
+    "value_": 96.69593
+  },
+  {
+    "geoid": "36740",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-12-15",
+    "value": 0.96629,
+    "value_": 96.62875
+  },
+  {
+    "geoid": "36740",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-12-15",
+    "value": 0.96203,
+    "value_": 96.20259
+  },
+  {
+    "geoid": "37980",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-12-15",
+    "value": 0.95304,
+    "value_": 95.30397
+  },
+  {
+    "geoid": "37980",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-12-15",
+    "value": 0.95768,
+    "value_": 95.76768
+  },
+  {
+    "geoid": "37980",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-12-15",
+    "value": 0.96024,
+    "value_": 96.02431
+  },
+  {
+    "geoid": "37980",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-12-15",
+    "value": 0.9588,
+    "value_": 95.88025
+  },
+  {
+    "geoid": "37980",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-12-15",
+    "value": 0.95767,
+    "value_": 95.76699
+  },
+  {
+    "geoid": "38060",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-12-15",
+    "value": 0.9364,
+    "value_": 93.64016
+  },
+  {
+    "geoid": "38060",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-12-15",
+    "value": 0.94954,
+    "value_": 94.95399
+  },
+  {
+    "geoid": "38060",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-12-15",
+    "value": 0.95701,
+    "value_": 95.7009
+  },
+  {
+    "geoid": "38060",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-12-15",
+    "value": 0.95362,
+    "value_": 95.36234
+  },
+  {
+    "geoid": "38060",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-12-15",
+    "value": 0.95498,
+    "value_": 95.4976
+  },
+  {
+    "geoid": "38300",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-12-15",
+    "value": 0.95864,
+    "value_": 95.86433
+  },
+  {
+    "geoid": "38300",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-12-15",
+    "value": 0.95993,
+    "value_": 95.99322
+  },
+  {
+    "geoid": "38300",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-12-15",
+    "value": 0.96095,
+    "value_": 96.0949
+  },
+  {
+    "geoid": "38300",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-12-15",
+    "value": 0.96243,
+    "value_": 96.24269
+  },
+  {
+    "geoid": "38300",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-12-15",
+    "value": 0.95454,
+    "value_": 95.45448
+  },
+  {
+    "geoid": "38900",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-12-15",
+    "value": 0.95936,
+    "value_": 95.93648
+  },
+  {
+    "geoid": "38900",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-12-15",
+    "value": 0.96515,
+    "value_": 96.51477
+  },
+  {
+    "geoid": "38900",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-12-15",
+    "value": 0.96157,
+    "value_": 96.15701
+  },
+  {
+    "geoid": "38900",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-12-15",
+    "value": 0.96012,
+    "value_": 96.01172
+  },
+  {
+    "geoid": "38900",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-12-15",
+    "value": 0.95595,
+    "value_": 95.59495
+  },
+  {
+    "geoid": "39300",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-12-15",
+    "value": 0.96058,
+    "value_": 96.05824
+  },
+  {
+    "geoid": "39300",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-12-15",
+    "value": 0.96773,
+    "value_": 96.7729
+  },
+  {
+    "geoid": "39300",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-12-15",
+    "value": 0.9681,
+    "value_": 96.8099
+  },
+  {
+    "geoid": "39300",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-12-15",
+    "value": 0.97167,
+    "value_": 97.16683
+  },
+  {
+    "geoid": "39300",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-12-15",
+    "value": 0.96538,
+    "value_": 96.53759
+  },
+  {
+    "geoid": "39580",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-12-15",
+    "value": 0.96647,
+    "value_": 96.64692
+  },
+  {
+    "geoid": "39580",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-12-15",
+    "value": 0.975,
+    "value_": 97.49976
+  },
+  {
+    "geoid": "39580",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-12-15",
+    "value": 0.97919,
+    "value_": 97.91887
+  },
+  {
+    "geoid": "39580",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-12-15",
+    "value": 0.97313,
+    "value_": 97.31336
+  },
+  {
+    "geoid": "39580",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-12-15",
+    "value": 0.97582,
+    "value_": 97.58216
+  },
+  {
+    "geoid": "40060",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-12-15",
+    "value": 0.94981,
+    "value_": 94.98054
+  },
+  {
+    "geoid": "40060",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-12-15",
+    "value": 0.94484,
+    "value_": 94.4836
+  },
+  {
+    "geoid": "40060",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-12-15",
+    "value": 0.95865,
+    "value_": 95.86524
+  },
+  {
+    "geoid": "40060",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-12-15",
+    "value": 0.95786,
+    "value_": 95.78589
+  },
+  {
+    "geoid": "40060",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-12-15",
+    "value": 0.94996,
+    "value_": 94.99617
+  },
+  {
+    "geoid": "40140",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-12-15",
+    "value": 0.93236,
+    "value_": 93.23639
+  },
+  {
+    "geoid": "40140",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-12-15",
+    "value": 0.94231,
+    "value_": 94.23103
+  },
+  {
+    "geoid": "40140",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-12-15",
+    "value": 0.94672,
+    "value_": 94.67171
+  },
+  {
+    "geoid": "40140",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-12-15",
+    "value": 0.94043,
+    "value_": 94.04318
+  },
+  {
+    "geoid": "40140",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-12-15",
+    "value": 0.93443,
+    "value_": 93.443
+  },
+  {
+    "geoid": "40380",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-12-15",
+    "value": 0.95656,
+    "value_": 95.65642
+  },
+  {
+    "geoid": "40380",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-12-15",
+    "value": 0.95339,
+    "value_": 95.33943
+  },
+  {
+    "geoid": "40380",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-12-15",
+    "value": 0.95907,
+    "value_": 95.90678
+  },
+  {
+    "geoid": "40380",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-12-15",
+    "value": 0.95327,
+    "value_": 95.32679
+  },
+  {
+    "geoid": "40380",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-12-15",
+    "value": 0.95256,
+    "value_": 95.25575
+  },
+  {
+    "geoid": "40900",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-12-15",
+    "value": 0.94369,
+    "value_": 94.36865
+  },
+  {
+    "geoid": "40900",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-12-15",
+    "value": 0.94373,
+    "value_": 94.37309
+  },
+  {
+    "geoid": "40900",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-12-15",
+    "value": 0.94449,
+    "value_": 94.44886
+  },
+  {
+    "geoid": "40900",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-12-15",
+    "value": 0.94383,
+    "value_": 94.38333
+  },
+  {
+    "geoid": "40900",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-12-15",
+    "value": 0.94276,
+    "value_": 94.27638
+  },
+  {
+    "geoid": "41180",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-12-15",
+    "value": 0.94173,
+    "value_": 94.17291
+  },
+  {
+    "geoid": "41180",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-12-15",
+    "value": 0.95025,
+    "value_": 95.02541
+  },
+  {
+    "geoid": "41180",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-12-15",
+    "value": 0.95298,
+    "value_": 95.29783
+  },
+  {
+    "geoid": "41180",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-12-15",
+    "value": 0.95564,
+    "value_": 95.56364
+  },
+  {
+    "geoid": "41180",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-12-15",
+    "value": 0.96115,
+    "value_": 96.11524
+  },
+  {
+    "geoid": "41620",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-12-15",
+    "value": 0.96842,
+    "value_": 96.84194
+  },
+  {
+    "geoid": "41620",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-12-15",
+    "value": 0.97759,
+    "value_": 97.75922
+  },
+  {
+    "geoid": "41620",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-12-15",
+    "value": 0.97416,
+    "value_": 97.41623
+  },
+  {
+    "geoid": "41620",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-12-15",
+    "value": 0.9745,
+    "value_": 97.44982
+  },
+  {
+    "geoid": "41620",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-12-15",
+    "value": 0.96958,
+    "value_": 96.95756
+  },
+  {
+    "geoid": "41700",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-12-15",
+    "value": 0.96047,
+    "value_": 96.04682
+  },
+  {
+    "geoid": "41700",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-12-15",
+    "value": 0.96597,
+    "value_": 96.59745
+  },
+  {
+    "geoid": "41700",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-12-15",
+    "value": 0.96573,
+    "value_": 96.57281
+  },
+  {
+    "geoid": "41700",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-12-15",
+    "value": 0.96414,
+    "value_": 96.4136
+  },
+  {
+    "geoid": "41700",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-12-15",
+    "value": 0.96201,
+    "value_": 96.20145
+  },
+  {
+    "geoid": "41740",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-12-15",
+    "value": 0.95128,
+    "value_": 95.12787
+  },
+  {
+    "geoid": "41740",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-12-15",
+    "value": 0.96178,
+    "value_": 96.17846
+  },
+  {
+    "geoid": "41740",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-12-15",
+    "value": 0.9622,
+    "value_": 96.21979
+  },
+  {
+    "geoid": "41740",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-12-15",
+    "value": 0.96006,
+    "value_": 96.00582
+  },
+  {
+    "geoid": "41740",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-12-15",
+    "value": 0.95569,
+    "value_": 95.56937
+  },
+  {
+    "geoid": "41940",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-12-15",
+    "value": 0.95816,
+    "value_": 95.81579
+  },
+  {
+    "geoid": "41940",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-12-15",
+    "value": 0.95433,
+    "value_": 95.43334
+  },
+  {
+    "geoid": "41940",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-12-15",
+    "value": 0.95848,
+    "value_": 95.84811
+  },
+  {
+    "geoid": "41940",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-12-15",
+    "value": 0.95755,
+    "value_": 95.75528
+  },
+  {
+    "geoid": "41940",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-12-15",
+    "value": 0.95553,
+    "value_": 95.55349
+  },
+  {
+    "geoid": "42660",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-12-15",
+    "value": 0.96894,
+    "value_": 96.89397
+  },
+  {
+    "geoid": "42660",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-12-15",
+    "value": 0.97125,
+    "value_": 97.1253
+  },
+  {
+    "geoid": "42660",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-12-15",
+    "value": 0.96822,
+    "value_": 96.82176
+  },
+  {
+    "geoid": "42660",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-12-15",
+    "value": 0.9636,
+    "value_": 96.35968
+  },
+  {
+    "geoid": "42660",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-12-15",
+    "value": 0.95922,
+    "value_": 95.92169
+  },
+  {
+    "geoid": "45300",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-12-15",
+    "value": 0.96294,
+    "value_": 96.29421
+  },
+  {
+    "geoid": "45300",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-12-15",
+    "value": 0.96908,
+    "value_": 96.90841
+  },
+  {
+    "geoid": "45300",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-12-15",
+    "value": 0.96909,
+    "value_": 96.90893
+  },
+  {
+    "geoid": "45300",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-12-15",
+    "value": 0.97025,
+    "value_": 97.02479
+  },
+  {
+    "geoid": "45300",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-12-15",
+    "value": 0.96537,
+    "value_": 96.53703
+  },
+  {
+    "geoid": "46060",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-12-15",
+    "value": 0.93904,
+    "value_": 93.90394
+  },
+  {
+    "geoid": "46060",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-12-15",
+    "value": 0.94212,
+    "value_": 94.21212
+  },
+  {
+    "geoid": "46060",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-12-15",
+    "value": 0.94268,
+    "value_": 94.26757
+  },
+  {
+    "geoid": "46060",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-12-15",
+    "value": 0.94286,
+    "value_": 94.28588
+  },
+  {
+    "geoid": "46060",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-12-15",
+    "value": 0.94134,
+    "value_": 94.13369
+  },
+  {
+    "geoid": "46140",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-12-15",
+    "value": 0.96227,
+    "value_": 96.22678
+  },
+  {
+    "geoid": "46140",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-12-15",
+    "value": 0.96794,
+    "value_": 96.79403
+  },
+  {
+    "geoid": "46140",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-12-15",
+    "value": 0.97242,
+    "value_": 97.24218
+  },
+  {
+    "geoid": "46140",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-12-15",
+    "value": 0.97036,
+    "value_": 97.0363
+  },
+  {
+    "geoid": "46140",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-12-15",
+    "value": 0.97113,
+    "value_": 97.11273
+  },
+  {
+    "geoid": "47260",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-12-15",
+    "value": 0.94605,
+    "value_": 94.6054
+  },
+  {
+    "geoid": "47260",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-12-15",
+    "value": 0.95236,
+    "value_": 95.23553
+  },
+  {
+    "geoid": "47260",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-12-15",
+    "value": 0.95597,
+    "value_": 95.59719
+  },
+  {
+    "geoid": "47260",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-12-15",
+    "value": 0.95586,
+    "value_": 95.58642
+  },
+  {
+    "geoid": "47260",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-12-15",
+    "value": 0.95589,
+    "value_": 95.5893
+  },
+  {
+    "geoid": "47900",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-12-15",
+    "value": 0.9463,
+    "value_": 94.63047
+  },
+  {
+    "geoid": "47900",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-12-15",
+    "value": 0.95618,
+    "value_": 95.61783
+  },
+  {
+    "geoid": "47900",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-12-15",
+    "value": 0.95736,
+    "value_": 95.7364
+  },
+  {
+    "geoid": "47900",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-12-15",
+    "value": 0.95589,
+    "value_": 95.58898
+  },
+  {
+    "geoid": "47900",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-12-15",
+    "value": 0.95748,
+    "value_": 95.74812
+  },
+  {
+    "geoid": "51013",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-12-15",
+    "value": 0.97292,
+    "value_": 97.29218
+  },
+  {
+    "geoid": "51013",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-12-15",
+    "value": 0.95443,
+    "value_": 95.44291
+  },
+  {
+    "geoid": "51013",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-12-15",
+    "value": 0.95254,
+    "value_": 95.25373
+  },
+  {
+    "geoid": "51013",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-12-15",
+    "value": 0.9126,
+    "value_": 91.25986
+  },
+  {
+    "geoid": "51013",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-12-15",
+    "value": 0.95329,
+    "value_": 95.32873
+  },
+  {
+    "geoid": "51061",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-12-15",
+    "value": 0.95709,
+    "value_": 95.70855
+  },
+  {
+    "geoid": "51061",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-12-15",
+    "value": 0.96013,
+    "value_": 96.01317
+  },
+  {
+    "geoid": "51061",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-12-15",
+    "value": 0.95483,
+    "value_": 95.4834
+  },
+  {
+    "geoid": "51061",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-12-15",
+    "value": 0.95959,
+    "value_": 95.95931
+  },
+  {
+    "geoid": "51061",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-12-15",
+    "value": 0.95463,
+    "value_": 95.46332
+  },
+  {
+    "geoid": "51107",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-12-15",
+    "value": 0.92481,
+    "value_": 92.48092
+  },
+  {
+    "geoid": "51107",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-12-15",
+    "value": 0.93611,
+    "value_": 93.61144
+  },
+  {
+    "geoid": "51107",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-12-15",
+    "value": 0.94671,
+    "value_": 94.6711
+  },
+  {
+    "geoid": "51107",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-12-15",
+    "value": 0.94962,
+    "value_": 94.96247
+  },
+  {
+    "geoid": "51107",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-12-15",
+    "value": 0.95009,
+    "value_": 95.00853
+  },
+  {
+    "geoid": "51153",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-12-15",
+    "value": 0.9565,
+    "value_": 95.65028
+  },
+  {
+    "geoid": "51153",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-12-15",
+    "value": 0.96893,
+    "value_": 96.89267
+  },
+  {
+    "geoid": "51153",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-12-15",
+    "value": 0.97509,
+    "value_": 97.50888
+  },
+  {
+    "geoid": "51153",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-12-15",
+    "value": 0.97503,
+    "value_": 97.50285
+  },
+  {
+    "geoid": "51153",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-12-15",
+    "value": 0.9729,
+    "value_": 97.29001
+  },
+  {
+    "geoid": "51179",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-12-15",
+    "value": 0.97048,
+    "value_": 97.04788
+  },
+  {
+    "geoid": "51179",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-12-15",
+    "value": 0.97485,
+    "value_": 97.48507
+  },
+  {
+    "geoid": "51179",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-12-15",
+    "value": 0.97474,
+    "value_": 97.4736
+  },
+  {
+    "geoid": "51179",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-12-15",
+    "value": 0.98104,
+    "value_": 98.10445
+  },
+  {
+    "geoid": "51179",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-12-15",
+    "value": 0.97587,
+    "value_": 97.58667
+  },
+  {
+    "geoid": "51600",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-12-15",
+    "value": 0.96587,
+    "value_": 96.58726
+  },
+  {
+    "geoid": "51600",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-12-15",
+    "value": 0.96416,
+    "value_": 96.41553
+  },
+  {
+    "geoid": "51600",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-12-15",
+    "value": 0.96909,
+    "value_": 96.9085
+  },
+  {
+    "geoid": "51600",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-12-15",
+    "value": 0.96708,
+    "value_": 96.70833
+  },
+  {
+    "geoid": "51600",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-12-15",
+    "value": 0.96359,
+    "value_": 96.35923
+  },
+  {
+    "geoid": "99997",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-12-15",
+    "value": 0.95297,
+    "value_": 95.29699
+  },
+  {
+    "geoid": "99997",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-12-15",
+    "value": 0.95788,
+    "value_": 95.78824
+  },
+  {
+    "geoid": "99997",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-12-15",
+    "value": 0.95959,
+    "value_": 95.95919
+  },
+  {
+    "geoid": "99997",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-12-15",
+    "value": 0.9589,
+    "value_": 95.89046
+  },
+  {
+    "geoid": "99997",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-12-15",
+    "value": 0.95638,
+    "value_": 95.63818
+  },
+  {
+    "geoid": "99999",
+    "key": "commercial-occupancy-retail",
+    "date": "2021-12-15",
+    "value": 0.95464,
+    "value_": 95.46437
+  },
+  {
+    "geoid": "99999",
+    "key": "commercial-occupancy-retail",
+    "date": "2022-12-15",
+    "value": 0.95906,
+    "value_": 95.90615
+  },
+  {
+    "geoid": "99999",
+    "key": "commercial-occupancy-retail",
+    "date": "2023-12-15",
+    "value": 0.95988,
+    "value_": 95.9884
+  },
+  {
+    "geoid": "99999",
+    "key": "commercial-occupancy-retail",
+    "date": "2024-12-15",
+    "value": 0.95938,
+    "value_": 95.9383
+  },
+  {
+    "geoid": "99999",
+    "key": "commercial-occupancy-retail",
+    "date": "2025-12-15",
+    "value": 0.95696,
+    "value_": 95.6959
+  }
+]

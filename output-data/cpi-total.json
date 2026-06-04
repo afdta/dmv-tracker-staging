@@ -1,0 +1,1556 @@
+[
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2017-01-15",
+    "value": 254.495,
+    "value_": 254.495
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2018-01-15",
+    "value": 260.219,
+    "value_": 260.219
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2019-01-15",
+    "value": 262.304,
+    "value_": 262.304
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2020-01-15",
+    "value": 266.433,
+    "value_": 266.433
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2021-01-15",
+    "value": 270.535,
+    "value_": 270.535
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2022-01-15",
+    "value": 286.678,
+    "value_": 286.678
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2023-01-15",
+    "value": 299.149,
+    "value_": 299.149
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2024-01-15",
+    "value": 309.961,
+    "value_": 309.961
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2025-01-15",
+    "value": 318.175,
+    "value_": 318.175
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2026-01-15",
+    "value": 326.89,
+    "value_": 326.89
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2017-01-15",
+    "value": 242.839,
+    "value_": 242.839
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2018-01-15",
+    "value": 247.867,
+    "value_": 247.867
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2019-01-15",
+    "value": 251.712,
+    "value_": 251.712
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2020-01-15",
+    "value": 257.971,
+    "value_": 257.971
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2021-01-15",
+    "value": 261.582,
+    "value_": 261.582
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2022-01-15",
+    "value": 281.148,
+    "value_": 281.148
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2023-01-15",
+    "value": 299.17,
+    "value_": 299.17
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2024-01-15",
+    "value": 308.417,
+    "value_": 308.417
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2025-01-15",
+    "value": 317.671,
+    "value_": 317.671
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2026-01-15",
+    "value": 325.252,
+    "value_": 325.252
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2017-02-15",
+    "value": 254.965,
+    "value_": 254.965
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2018-02-15",
+    "value": 260.1225,
+    "value_": 260.1225
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2019-02-15",
+    "value": 263.2805,
+    "value_": 263.2805
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2020-02-15",
+    "value": 265.909,
+    "value_": 265.909
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2021-02-15",
+    "value": 271.441,
+    "value_": 271.441
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2022-02-15",
+    "value": 289.4525,
+    "value_": 289.4525
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2023-02-15",
+    "value": 301.0395,
+    "value_": 301.0395
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2024-02-15",
+    "value": 311.5345,
+    "value_": 311.5345
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2025-02-15",
+    "value": 319.3895,
+    "value_": 319.3895
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2026-02-15",
+    "value": 328.5835,
+    "value_": 328.5835
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2017-02-15",
+    "value": 243.603,
+    "value_": 243.603
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2018-02-15",
+    "value": 248.991,
+    "value_": 248.991
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2019-02-15",
+    "value": 252.776,
+    "value_": 252.776
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2020-02-15",
+    "value": 258.678,
+    "value_": 258.678
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2021-02-15",
+    "value": 263.014,
+    "value_": 263.014
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2022-02-15",
+    "value": 283.716,
+    "value_": 283.716
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2023-02-15",
+    "value": 300.84,
+    "value_": 300.84
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2024-02-15",
+    "value": 310.326,
+    "value_": 310.326
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2025-02-15",
+    "value": 319.082,
+    "value_": 319.082
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2026-02-15",
+    "value": 326.785,
+    "value_": 326.785
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2017-03-15",
+    "value": 255.435,
+    "value_": 255.435
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2018-03-15",
+    "value": 260.026,
+    "value_": 260.026
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2019-03-15",
+    "value": 264.257,
+    "value_": 264.257
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2020-03-15",
+    "value": 265.385,
+    "value_": 265.385
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2021-03-15",
+    "value": 272.347,
+    "value_": 272.347
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2022-03-15",
+    "value": 292.227,
+    "value_": 292.227
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2023-03-15",
+    "value": 302.93,
+    "value_": 302.93
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2024-03-15",
+    "value": 313.108,
+    "value_": 313.108
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2025-03-15",
+    "value": 320.604,
+    "value_": 320.604
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2026-03-15",
+    "value": 330.277,
+    "value_": 330.277
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2017-03-15",
+    "value": 243.801,
+    "value_": 243.801
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2018-03-15",
+    "value": 249.554,
+    "value_": 249.554
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2019-03-15",
+    "value": 254.202,
+    "value_": 254.202
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2020-03-15",
+    "value": 258.115,
+    "value_": 258.115
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2021-03-15",
+    "value": 264.877,
+    "value_": 264.877
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2022-03-15",
+    "value": 287.504,
+    "value_": 287.504
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2023-03-15",
+    "value": 301.836,
+    "value_": 301.836
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2024-03-15",
+    "value": 312.332,
+    "value_": 312.332
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2025-03-15",
+    "value": 319.799,
+    "value_": 319.799
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2026-03-15",
+    "value": 330.213,
+    "value_": 330.213
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2017-04-15",
+    "value": 255.4685,
+    "value_": 255.4685
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2018-04-15",
+    "value": 260.898,
+    "value_": 260.898
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2019-04-15",
+    "value": 265.112,
+    "value_": 265.112
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2020-04-15",
+    "value": 265.559,
+    "value_": 265.559
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2021-04-15",
+    "value": 274.0845,
+    "value_": 274.0845
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2022-04-15",
+    "value": 294.393,
+    "value_": 294.393
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2023-04-15",
+    "value": 304.272,
+    "value_": 304.272
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2024-04-15",
+    "value": 314.3875,
+    "value_": 314.3875
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2025-04-15",
+    "value": 321.082,
+    "value_": 321.082
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2017-04-15",
+    "value": 244.524,
+    "value_": 244.524
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2018-04-15",
+    "value": 250.546,
+    "value_": 250.546
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2019-04-15",
+    "value": 255.548,
+    "value_": 255.548
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2020-04-15",
+    "value": 256.389,
+    "value_": 256.389
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2021-04-15",
+    "value": 267.054,
+    "value_": 267.054
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2022-04-15",
+    "value": 289.109,
+    "value_": 289.109
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2023-04-15",
+    "value": 303.363,
+    "value_": 303.363
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2024-04-15",
+    "value": 313.548,
+    "value_": 313.548
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2025-04-15",
+    "value": 320.795,
+    "value_": 320.795
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2017-05-15",
+    "value": 255.502,
+    "value_": 255.502
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2018-05-15",
+    "value": 261.77,
+    "value_": 261.77
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2019-05-15",
+    "value": 265.967,
+    "value_": 265.967
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2020-05-15",
+    "value": 265.733,
+    "value_": 265.733
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2021-05-15",
+    "value": 275.822,
+    "value_": 275.822
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2022-05-15",
+    "value": 296.559,
+    "value_": 296.559
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2023-05-15",
+    "value": 305.614,
+    "value_": 305.614
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2024-05-15",
+    "value": 315.667,
+    "value_": 315.667
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2025-05-15",
+    "value": 321.56,
+    "value_": 321.56
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2017-05-15",
+    "value": 244.733,
+    "value_": 244.733
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2018-05-15",
+    "value": 251.588,
+    "value_": 251.588
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2019-05-15",
+    "value": 256.092,
+    "value_": 256.092
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2020-05-15",
+    "value": 256.394,
+    "value_": 256.394
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2021-05-15",
+    "value": 269.195,
+    "value_": 269.195
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2022-05-15",
+    "value": 292.296,
+    "value_": 292.296
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2023-05-15",
+    "value": 304.127,
+    "value_": 304.127
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2024-05-15",
+    "value": 314.069,
+    "value_": 314.069
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2025-05-15",
+    "value": 321.465,
+    "value_": 321.465
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2017-06-15",
+    "value": 255.51,
+    "value_": 255.51
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2018-06-15",
+    "value": 261.893,
+    "value_": 261.893
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2019-06-15",
+    "value": 265.5685,
+    "value_": 265.5685
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2020-06-15",
+    "value": 266.51,
+    "value_": 266.51
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2021-06-15",
+    "value": 277.4605,
+    "value_": 277.4605
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2022-06-15",
+    "value": 298.248,
+    "value_": 298.248
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2023-06-15",
+    "value": 305.4435,
+    "value_": 305.4435
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2024-06-15",
+    "value": 316.056,
+    "value_": 316.056
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2025-06-15",
+    "value": 322.145,
+    "value_": 322.145
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2017-06-15",
+    "value": 244.955,
+    "value_": 244.955
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2018-06-15",
+    "value": 251.989,
+    "value_": 251.989
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2019-06-15",
+    "value": 256.143,
+    "value_": 256.143
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2020-06-15",
+    "value": 257.797,
+    "value_": 257.797
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2021-06-15",
+    "value": 271.696,
+    "value_": 271.696
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2022-06-15",
+    "value": 296.311,
+    "value_": 296.311
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2023-06-15",
+    "value": 305.109,
+    "value_": 305.109
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2024-06-15",
+    "value": 314.175,
+    "value_": 314.175
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2025-06-15",
+    "value": 322.561,
+    "value_": 322.561
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2017-07-15",
+    "value": 255.518,
+    "value_": 255.518
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2018-07-15",
+    "value": 262.016,
+    "value_": 262.016
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2019-07-15",
+    "value": 265.17,
+    "value_": 265.17
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2020-07-15",
+    "value": 267.287,
+    "value_": 267.287
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2021-07-15",
+    "value": 279.099,
+    "value_": 279.099
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2022-07-15",
+    "value": 299.937,
+    "value_": 299.937
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2023-07-15",
+    "value": 305.273,
+    "value_": 305.273
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2024-07-15",
+    "value": 316.445,
+    "value_": 316.445
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2025-07-15",
+    "value": 322.73,
+    "value_": 322.73
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2017-07-15",
+    "value": 244.786,
+    "value_": 244.786
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2018-07-15",
+    "value": 252.006,
+    "value_": 252.006
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2019-07-15",
+    "value": 256.571,
+    "value_": 256.571
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2020-07-15",
+    "value": 259.101,
+    "value_": 259.101
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2021-07-15",
+    "value": 273.003,
+    "value_": 273.003
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2022-07-15",
+    "value": 296.276,
+    "value_": 296.276
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2023-07-15",
+    "value": 305.691,
+    "value_": 305.691
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2024-07-15",
+    "value": 314.54,
+    "value_": 314.54
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2025-07-15",
+    "value": 323.048,
+    "value_": 323.048
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2017-08-15",
+    "value": 256.667,
+    "value_": 256.667
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2018-08-15",
+    "value": 262.536,
+    "value_": 262.536
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2019-08-15",
+    "value": 265.335,
+    "value_": 265.335
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2020-08-15",
+    "value": 268.0375,
+    "value_": 268.0375
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2021-08-15",
+    "value": 280.016,
+    "value_": 280.016
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2022-08-15",
+    "value": 299.6025,
+    "value_": 299.6025
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2023-08-15",
+    "value": 307.2635,
+    "value_": 307.2635
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2024-08-15",
+    "value": 316.9135,
+    "value_": 316.9135
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2025-08-15",
+    "value": 324.021,
+    "value_": 324.021
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2017-08-15",
+    "value": 245.519,
+    "value_": 245.519
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2018-08-15",
+    "value": 252.146,
+    "value_": 252.146
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2019-08-15",
+    "value": 256.558,
+    "value_": 256.558
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2020-08-15",
+    "value": 259.918,
+    "value_": 259.918
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2021-08-15",
+    "value": 273.567,
+    "value_": 273.567
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2022-08-15",
+    "value": 296.171,
+    "value_": 296.171
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2023-08-15",
+    "value": 307.026,
+    "value_": 307.026
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2024-08-15",
+    "value": 314.796,
+    "value_": 314.796
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2025-08-15",
+    "value": 323.976,
+    "value_": 323.976
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2017-09-15",
+    "value": 257.816,
+    "value_": 257.816
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2018-09-15",
+    "value": 263.056,
+    "value_": 263.056
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2019-09-15",
+    "value": 265.5,
+    "value_": 265.5
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2020-09-15",
+    "value": 268.788,
+    "value_": 268.788
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2021-09-15",
+    "value": 280.933,
+    "value_": 280.933
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2022-09-15",
+    "value": 299.268,
+    "value_": 299.268
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2023-09-15",
+    "value": 309.254,
+    "value_": 309.254
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2024-09-15",
+    "value": 317.382,
+    "value_": 317.382
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2025-09-15",
+    "value": 325.312,
+    "value_": 325.312
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2017-09-15",
+    "value": 246.819,
+    "value_": 246.819
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2018-09-15",
+    "value": 252.439,
+    "value_": 252.439
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2019-09-15",
+    "value": 256.759,
+    "value_": 256.759
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2020-09-15",
+    "value": 260.28,
+    "value_": 260.28
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2021-09-15",
+    "value": 274.31,
+    "value_": 274.31
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2022-09-15",
+    "value": 296.808,
+    "value_": 296.808
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2023-09-15",
+    "value": 307.789,
+    "value_": 307.789
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2024-09-15",
+    "value": 315.301,
+    "value_": 315.301
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2025-09-15",
+    "value": 324.8,
+    "value_": 324.8
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2017-10-15",
+    "value": 257.844,
+    "value_": 257.844
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2018-10-15",
+    "value": 262.088,
+    "value_": 262.088
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2019-10-15",
+    "value": 265.263,
+    "value_": 265.263
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2020-10-15",
+    "value": 268.744,
+    "value_": 268.744
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2021-10-15",
+    "value": 282.5865,
+    "value_": 282.5865
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2022-10-15",
+    "value": 299.6765,
+    "value_": 299.6765
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2023-10-15",
+    "value": 308.8365,
+    "value_": 308.8365
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2024-10-15",
+    "value": 317.0635,
+    "value_": 317.0635
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2025-10-15",
+    "value": 324.799,
+    "value_": 324.799
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2017-10-15",
+    "value": 246.663,
+    "value_": 246.663
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2018-10-15",
+    "value": 252.885,
+    "value_": 252.885
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2019-10-15",
+    "value": 257.346,
+    "value_": 257.346
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2020-10-15",
+    "value": 260.388,
+    "value_": 260.388
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2021-10-15",
+    "value": 276.589,
+    "value_": 276.589
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2022-10-15",
+    "value": 298.012,
+    "value_": 298.012
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2023-10-15",
+    "value": 307.671,
+    "value_": 307.671
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2024-10-15",
+    "value": 315.664,
+    "value_": 315.664
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2025-10-15",
+    "value": null,
+    "value_": null
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2017-11-15",
+    "value": 257.872,
+    "value_": 257.872
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2018-11-15",
+    "value": 261.12,
+    "value_": 261.12
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2019-11-15",
+    "value": 265.026,
+    "value_": 265.026
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2020-11-15",
+    "value": 268.7,
+    "value_": 268.7
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2021-11-15",
+    "value": 284.24,
+    "value_": 284.24
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2022-11-15",
+    "value": 300.085,
+    "value_": 300.085
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2023-11-15",
+    "value": 308.419,
+    "value_": 308.419
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2024-11-15",
+    "value": 316.745,
+    "value_": 316.745
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2025-11-15",
+    "value": 324.286,
+    "value_": 324.286
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2017-11-15",
+    "value": 246.669,
+    "value_": 246.669
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2018-11-15",
+    "value": 252.038,
+    "value_": 252.038
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2019-11-15",
+    "value": 257.208,
+    "value_": 257.208
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2020-11-15",
+    "value": 260.229,
+    "value_": 260.229
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2021-11-15",
+    "value": 277.948,
+    "value_": 277.948
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2022-11-15",
+    "value": 297.711,
+    "value_": 297.711
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2023-11-15",
+    "value": 307.051,
+    "value_": 307.051
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2024-11-15",
+    "value": 315.493,
+    "value_": 315.493
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2025-11-15",
+    "value": 324.122,
+    "value_": 324.122
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2017-12-15",
+    "value": 259.0455,
+    "value_": 259.0455
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2018-12-15",
+    "value": 261.712,
+    "value_": 261.712
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2019-12-15",
+    "value": 265.7295,
+    "value_": 265.7295
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2020-12-15",
+    "value": 269.6175,
+    "value_": 269.6175
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2021-12-15",
+    "value": 285.459,
+    "value_": 285.459
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2022-12-15",
+    "value": 299.617,
+    "value_": 299.617
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2023-12-15",
+    "value": 309.19,
+    "value_": 309.19
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2024-12-15",
+    "value": 317.46,
+    "value_": 317.46
+  },
+  {
+    "geoid": "47900",
+    "key": "cpi-total",
+    "date": "2025-12-15",
+    "value": 325.588,
+    "value_": 325.588
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2017-12-15",
+    "value": 246.524,
+    "value_": 246.524
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2018-12-15",
+    "value": 251.233,
+    "value_": 251.233
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2019-12-15",
+    "value": 256.974,
+    "value_": 256.974
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2020-12-15",
+    "value": 260.474,
+    "value_": 260.474
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2021-12-15",
+    "value": 278.802,
+    "value_": 278.802
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2022-12-15",
+    "value": 296.797,
+    "value_": 296.797
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2023-12-15",
+    "value": 306.746,
+    "value_": 306.746
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2024-12-15",
+    "value": 315.605,
+    "value_": 315.605
+  },
+  {
+    "geoid": "99999",
+    "key": "cpi-total",
+    "date": "2025-12-15",
+    "value": 324.054,
+    "value_": 324.054
+  }
+]
