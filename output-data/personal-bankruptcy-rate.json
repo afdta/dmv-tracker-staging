@@ -1323,6 +1323,69 @@
     "value_": 92.59869
   },
   {
+    "geoid": "24860",
+    "key": "personal-bankruptcy-rate",
+    "date": "2018-03-15",
+    "value": 84.48886,
+    "value_": 84.48886
+  },
+  {
+    "geoid": "24860",
+    "key": "personal-bankruptcy-rate",
+    "date": "2019-03-15",
+    "value": 90.06135,
+    "value_": 90.06135
+  },
+  {
+    "geoid": "24860",
+    "key": "personal-bankruptcy-rate",
+    "date": "2020-03-15",
+    "value": 81.33007,
+    "value_": 81.33007
+  },
+  {
+    "geoid": "24860",
+    "key": "personal-bankruptcy-rate",
+    "date": "2021-03-15",
+    "value": 49.38403,
+    "value_": 49.38403
+  },
+  {
+    "geoid": "24860",
+    "key": "personal-bankruptcy-rate",
+    "date": "2022-03-15",
+    "value": 42.97473,
+    "value_": 42.97473
+  },
+  {
+    "geoid": "24860",
+    "key": "personal-bankruptcy-rate",
+    "date": "2023-03-15",
+    "value": 41.03682,
+    "value_": 41.03682
+  },
+  {
+    "geoid": "24860",
+    "key": "personal-bankruptcy-rate",
+    "date": "2024-03-15",
+    "value": 46.65489,
+    "value_": 46.65489
+  },
+  {
+    "geoid": "24860",
+    "key": "personal-bankruptcy-rate",
+    "date": "2025-03-15",
+    "value": 51.12683,
+    "value_": 51.12683
+  },
+  {
+    "geoid": "24860",
+    "key": "personal-bankruptcy-rate",
+    "date": "2026-03-15",
+    "value": 51.5482,
+    "value_": 51.5482
+  },
+  {
     "geoid": "26420",
     "key": "personal-bankruptcy-rate",
     "date": "2018-03-15",
@@ -4602,64 +4665,64 @@
     "geoid": "99997",
     "key": "personal-bankruptcy-rate",
     "date": "2018-03-15",
-    "value": 237.25001,
-    "value_": 237.25001
+    "value": 236.50243,
+    "value_": 236.50243
   },
   {
     "geoid": "99997",
     "key": "personal-bankruptcy-rate",
     "date": "2019-03-15",
-    "value": 233.26705,
-    "value_": 233.26705
+    "value": 232.55933,
+    "value_": 232.55933
   },
   {
     "geoid": "99997",
     "key": "personal-bankruptcy-rate",
     "date": "2020-03-15",
-    "value": 227.96865,
-    "value_": 227.96865
+    "value": 227.24631,
+    "value_": 227.24631
   },
   {
     "geoid": "99997",
     "key": "personal-bankruptcy-rate",
     "date": "2021-03-15",
-    "value": 137.32819,
-    "value_": 137.32819
+    "value": 136.88969,
+    "value_": 136.88969
   },
   {
     "geoid": "99997",
     "key": "personal-bankruptcy-rate",
     "date": "2022-03-15",
-    "value": 115.07374,
-    "value_": 115.07374
+    "value": 114.70899,
+    "value_": 114.70899
   },
   {
     "geoid": "99997",
     "key": "personal-bankruptcy-rate",
     "date": "2023-03-15",
-    "value": 114.60577,
-    "value_": 114.60577
+    "value": 114.22994,
+    "value_": 114.22994
   },
   {
     "geoid": "99997",
     "key": "personal-bankruptcy-rate",
     "date": "2024-03-15",
-    "value": 132.333,
-    "value_": 132.333
+    "value": 131.8929,
+    "value_": 131.8929
   },
   {
     "geoid": "99997",
     "key": "personal-bankruptcy-rate",
     "date": "2025-03-15",
-    "value": 150.64476,
-    "value_": 150.64476
+    "value": 150.12839,
+    "value_": 150.12839
   },
   {
     "geoid": "99997",
     "key": "personal-bankruptcy-rate",
     "date": "2026-03-15",
-    "value": 168.86532,
-    "value_": 168.86532
+    "value": 168.25212,
+    "value_": 168.25212
   },
   {
     "geoid": "99999",
@@ -4781,6 +4844,13 @@
     "value_": 55.95941
   },
   {
+    "geoid": "11001",
+    "key": "personal-bankruptcy-rate",
+    "date": "2026-06-15",
+    "value": 76.61836,
+    "value_": 76.61836
+  },
+  {
     "geoid": "12060",
     "key": "personal-bankruptcy-rate",
     "date": "2018-06-15",
@@ -4835,6 +4905,13 @@
     "date": "2025-06-15",
     "value": 263.64757,
     "value_": 263.64757
+  },
+  {
+    "geoid": "12060",
+    "key": "personal-bankruptcy-rate",
+    "date": "2026-06-15",
+    "value": 298.56741,
+    "value_": 298.56741
   },
   {
     "geoid": "12420",
@@ -4893,6 +4970,13 @@
     "value_": 61.3877
   },
   {
+    "geoid": "12420",
+    "key": "personal-bankruptcy-rate",
+    "date": "2026-06-15",
+    "value": 73.57979,
+    "value_": 73.57979
+  },
+  {
     "geoid": "12580",
     "key": "personal-bankruptcy-rate",
     "date": "2018-06-15",
@@ -4947,6 +5031,13 @@
     "date": "2025-06-15",
     "value": 225.54565,
     "value_": 225.54565
+  },
+  {
+    "geoid": "12580",
+    "key": "personal-bankruptcy-rate",
+    "date": "2026-06-15",
+    "value": 265.70761,
+    "value_": 265.70761
   },
   {
     "geoid": "13820",
@@ -5005,6 +5096,13 @@
     "value_": 380.4599
   },
   {
+    "geoid": "13820",
+    "key": "personal-bankruptcy-rate",
+    "date": "2026-06-15",
+    "value": 421.5205,
+    "value_": 421.5205
+  },
+  {
     "geoid": "14460",
     "key": "personal-bankruptcy-rate",
     "date": "2018-06-15",
@@ -5059,6 +5157,13 @@
     "date": "2025-06-15",
     "value": 50.86038,
     "value_": 50.86038
+  },
+  {
+    "geoid": "14460",
+    "key": "personal-bankruptcy-rate",
+    "date": "2026-06-15",
+    "value": 58.35897,
+    "value_": 58.35897
   },
   {
     "geoid": "15380",
@@ -5117,6 +5222,13 @@
     "value_": 108.21022
   },
   {
+    "geoid": "15380",
+    "key": "personal-bankruptcy-rate",
+    "date": "2026-06-15",
+    "value": 106.77235,
+    "value_": 106.77235
+  },
+  {
     "geoid": "16740",
     "key": "personal-bankruptcy-rate",
     "date": "2018-06-15",
@@ -5171,6 +5283,13 @@
     "date": "2025-06-15",
     "value": 69.08759,
     "value_": 69.08759
+  },
+  {
+    "geoid": "16740",
+    "key": "personal-bankruptcy-rate",
+    "date": "2026-06-15",
+    "value": 84.32288,
+    "value_": 84.32288
   },
   {
     "geoid": "16980",
@@ -5229,6 +5348,13 @@
     "value_": 241.30334
   },
   {
+    "geoid": "16980",
+    "key": "personal-bankruptcy-rate",
+    "date": "2026-06-15",
+    "value": 252.94987,
+    "value_": 252.94987
+  },
+  {
     "geoid": "17140",
     "key": "personal-bankruptcy-rate",
     "date": "2018-06-15",
@@ -5283,6 +5409,13 @@
     "date": "2025-06-15",
     "value": 184.56578,
     "value_": 184.56578
+  },
+  {
+    "geoid": "17140",
+    "key": "personal-bankruptcy-rate",
+    "date": "2026-06-15",
+    "value": 199.06096,
+    "value_": 199.06096
   },
   {
     "geoid": "17410",
@@ -5341,6 +5474,13 @@
     "value_": 276.7951
   },
   {
+    "geoid": "17410",
+    "key": "personal-bankruptcy-rate",
+    "date": "2026-06-15",
+    "value": 301.72849,
+    "value_": 301.72849
+  },
+  {
     "geoid": "18140",
     "key": "personal-bankruptcy-rate",
     "date": "2018-06-15",
@@ -5395,6 +5535,13 @@
     "date": "2025-06-15",
     "value": 186.05049,
     "value_": 186.05049
+  },
+  {
+    "geoid": "18140",
+    "key": "personal-bankruptcy-rate",
+    "date": "2026-06-15",
+    "value": 198.51774,
+    "value_": 198.51774
   },
   {
     "geoid": "19100",
@@ -5453,6 +5600,13 @@
     "value_": 139.32176
   },
   {
+    "geoid": "19100",
+    "key": "personal-bankruptcy-rate",
+    "date": "2026-06-15",
+    "value": 161.23916,
+    "value_": 161.23916
+  },
+  {
     "geoid": "19740",
     "key": "personal-bankruptcy-rate",
     "date": "2018-06-15",
@@ -5507,6 +5661,13 @@
     "date": "2025-06-15",
     "value": 135.21955,
     "value_": 135.21955
+  },
+  {
+    "geoid": "19740",
+    "key": "personal-bankruptcy-rate",
+    "date": "2026-06-15",
+    "value": 155.50248,
+    "value_": 155.50248
   },
   {
     "geoid": "19820",
@@ -5565,6 +5726,13 @@
     "value_": 279.13293
   },
   {
+    "geoid": "19820",
+    "key": "personal-bankruptcy-rate",
+    "date": "2026-06-15",
+    "value": 310.67985,
+    "value_": 310.67985
+  },
+  {
     "geoid": "23420",
     "key": "personal-bankruptcy-rate",
     "date": "2018-06-15",
@@ -5619,6 +5787,13 @@
     "date": "2025-06-15",
     "value": 125.43898,
     "value_": 125.43898
+  },
+  {
+    "geoid": "23420",
+    "key": "personal-bankruptcy-rate",
+    "date": "2026-06-15",
+    "value": 145.31597,
+    "value_": 145.31597
   },
   {
     "geoid": "24017",
@@ -5677,6 +5852,13 @@
     "value_": 224.61385
   },
   {
+    "geoid": "24017",
+    "key": "personal-bankruptcy-rate",
+    "date": "2026-06-15",
+    "value": 295.51634,
+    "value_": 295.51634
+  },
+  {
     "geoid": "24021",
     "key": "personal-bankruptcy-rate",
     "date": "2018-06-15",
@@ -5731,6 +5913,13 @@
     "date": "2025-06-15",
     "value": 95.87109,
     "value_": 95.87109
+  },
+  {
+    "geoid": "24021",
+    "key": "personal-bankruptcy-rate",
+    "date": "2026-06-15",
+    "value": 99.52837,
+    "value_": 99.52837
   },
   {
     "geoid": "24031",
@@ -5789,6 +5978,13 @@
     "value_": 82.89616
   },
   {
+    "geoid": "24031",
+    "key": "personal-bankruptcy-rate",
+    "date": "2026-06-15",
+    "value": 91.29455,
+    "value_": 91.29455
+  },
+  {
     "geoid": "24033",
     "key": "personal-bankruptcy-rate",
     "date": "2018-06-15",
@@ -5843,6 +6039,13 @@
     "date": "2025-06-15",
     "value": 210.96358,
     "value_": 210.96358
+  },
+  {
+    "geoid": "24033",
+    "key": "personal-bankruptcy-rate",
+    "date": "2026-06-15",
+    "value": 242.01266,
+    "value_": 242.01266
   },
   {
     "geoid": "24340",
@@ -5901,6 +6104,76 @@
     "value_": 86.02039
   },
   {
+    "geoid": "24340",
+    "key": "personal-bankruptcy-rate",
+    "date": "2026-06-15",
+    "value": 96.37651,
+    "value_": 96.37651
+  },
+  {
+    "geoid": "24860",
+    "key": "personal-bankruptcy-rate",
+    "date": "2018-06-15",
+    "value": 81.40452,
+    "value_": 81.40452
+  },
+  {
+    "geoid": "24860",
+    "key": "personal-bankruptcy-rate",
+    "date": "2019-06-15",
+    "value": 89.95284,
+    "value_": 89.95284
+  },
+  {
+    "geoid": "24860",
+    "key": "personal-bankruptcy-rate",
+    "date": "2020-06-15",
+    "value": 73.37971,
+    "value_": 73.37971
+  },
+  {
+    "geoid": "24860",
+    "key": "personal-bankruptcy-rate",
+    "date": "2021-06-15",
+    "value": 48.42821,
+    "value_": 48.42821
+  },
+  {
+    "geoid": "24860",
+    "key": "personal-bankruptcy-rate",
+    "date": "2022-06-15",
+    "value": 42.66256,
+    "value_": 42.66256
+  },
+  {
+    "geoid": "24860",
+    "key": "personal-bankruptcy-rate",
+    "date": "2023-06-15",
+    "value": 41.44515,
+    "value_": 41.44515
+  },
+  {
+    "geoid": "24860",
+    "key": "personal-bankruptcy-rate",
+    "date": "2024-06-15",
+    "value": 49.06289,
+    "value_": 49.06289
+  },
+  {
+    "geoid": "24860",
+    "key": "personal-bankruptcy-rate",
+    "date": "2025-06-15",
+    "value": 48.85233,
+    "value_": 48.85233
+  },
+  {
+    "geoid": "24860",
+    "key": "personal-bankruptcy-rate",
+    "date": "2026-06-15",
+    "value": 57.49232,
+    "value_": 57.49232
+  },
+  {
     "geoid": "26420",
     "key": "personal-bankruptcy-rate",
     "date": "2018-06-15",
@@ -5955,6 +6228,13 @@
     "date": "2025-06-15",
     "value": 84.66963,
     "value_": 84.66963
+  },
+  {
+    "geoid": "26420",
+    "key": "personal-bankruptcy-rate",
+    "date": "2026-06-15",
+    "value": 108.83714,
+    "value_": 108.83714
   },
   {
     "geoid": "26900",
@@ -6013,6 +6293,13 @@
     "value_": 265.04499
   },
   {
+    "geoid": "26900",
+    "key": "personal-bankruptcy-rate",
+    "date": "2026-06-15",
+    "value": 293.16364,
+    "value_": 293.16364
+  },
+  {
     "geoid": "27260",
     "key": "personal-bankruptcy-rate",
     "date": "2018-06-15",
@@ -6067,6 +6354,13 @@
     "date": "2025-06-15",
     "value": 160.2819,
     "value_": 160.2819
+  },
+  {
+    "geoid": "27260",
+    "key": "personal-bankruptcy-rate",
+    "date": "2026-06-15",
+    "value": 198.26371,
+    "value_": 198.26371
   },
   {
     "geoid": "28140",
@@ -6125,6 +6419,13 @@
     "value_": 143.18489
   },
   {
+    "geoid": "28140",
+    "key": "personal-bankruptcy-rate",
+    "date": "2026-06-15",
+    "value": 160.61365,
+    "value_": 160.61365
+  },
+  {
     "geoid": "29820",
     "key": "personal-bankruptcy-rate",
     "date": "2018-06-15",
@@ -6179,6 +6480,13 @@
     "date": "2025-06-15",
     "value": 295.72495,
     "value_": 295.72495
+  },
+  {
+    "geoid": "29820",
+    "key": "personal-bankruptcy-rate",
+    "date": "2026-06-15",
+    "value": 333.5678,
+    "value_": 333.5678
   },
   {
     "geoid": "31080",
@@ -6237,6 +6545,13 @@
     "value_": 123.40671
   },
   {
+    "geoid": "31080",
+    "key": "personal-bankruptcy-rate",
+    "date": "2026-06-15",
+    "value": 144.71675,
+    "value_": 144.71675
+  },
+  {
     "geoid": "31140",
     "key": "personal-bankruptcy-rate",
     "date": "2018-06-15",
@@ -6291,6 +6606,13 @@
     "date": "2025-06-15",
     "value": 256.38191,
     "value_": 256.38191
+  },
+  {
+    "geoid": "31140",
+    "key": "personal-bankruptcy-rate",
+    "date": "2026-06-15",
+    "value": 267.07306,
+    "value_": 267.07306
   },
   {
     "geoid": "32820",
@@ -6349,6 +6671,13 @@
     "value_": 583.50962
   },
   {
+    "geoid": "32820",
+    "key": "personal-bankruptcy-rate",
+    "date": "2026-06-15",
+    "value": 642.61441,
+    "value_": 642.61441
+  },
+  {
     "geoid": "33100",
     "key": "personal-bankruptcy-rate",
     "date": "2018-06-15",
@@ -6403,6 +6732,13 @@
     "date": "2025-06-15",
     "value": 194.9509,
     "value_": 194.9509
+  },
+  {
+    "geoid": "33100",
+    "key": "personal-bankruptcy-rate",
+    "date": "2026-06-15",
+    "value": 214.79503,
+    "value_": 214.79503
   },
   {
     "geoid": "33340",
@@ -6461,6 +6797,13 @@
     "value_": 272.44715
   },
   {
+    "geoid": "33340",
+    "key": "personal-bankruptcy-rate",
+    "date": "2026-06-15",
+    "value": 264.49848,
+    "value_": 264.49848
+  },
+  {
     "geoid": "33460",
     "key": "personal-bankruptcy-rate",
     "date": "2018-06-15",
@@ -6515,6 +6858,13 @@
     "date": "2025-06-15",
     "value": 175.59073,
     "value_": 175.59073
+  },
+  {
+    "geoid": "33460",
+    "key": "personal-bankruptcy-rate",
+    "date": "2026-06-15",
+    "value": 189.88174,
+    "value_": 189.88174
   },
   {
     "geoid": "34980",
@@ -6573,6 +6923,13 @@
     "value_": 169.57034
   },
   {
+    "geoid": "34980",
+    "key": "personal-bankruptcy-rate",
+    "date": "2026-06-15",
+    "value": 186.27902,
+    "value_": 186.27902
+  },
+  {
     "geoid": "35620",
     "key": "personal-bankruptcy-rate",
     "date": "2018-06-15",
@@ -6627,6 +6984,13 @@
     "date": "2025-06-15",
     "value": 107.7566,
     "value_": 107.7566
+  },
+  {
+    "geoid": "35620",
+    "key": "personal-bankruptcy-rate",
+    "date": "2026-06-15",
+    "value": 117.16129,
+    "value_": 117.16129
   },
   {
     "geoid": "36420",
@@ -6685,6 +7049,13 @@
     "value_": 186.92636
   },
   {
+    "geoid": "36420",
+    "key": "personal-bankruptcy-rate",
+    "date": "2026-06-15",
+    "value": 203.23044,
+    "value_": 203.23044
+  },
+  {
     "geoid": "36540",
     "key": "personal-bankruptcy-rate",
     "date": "2018-06-15",
@@ -6739,6 +7110,13 @@
     "date": "2025-06-15",
     "value": 136.13388,
     "value_": 136.13388
+  },
+  {
+    "geoid": "36540",
+    "key": "personal-bankruptcy-rate",
+    "date": "2026-06-15",
+    "value": 148.49505,
+    "value_": 148.49505
   },
   {
     "geoid": "36740",
@@ -6797,6 +7175,13 @@
     "value_": 178.96641
   },
   {
+    "geoid": "36740",
+    "key": "personal-bankruptcy-rate",
+    "date": "2026-06-15",
+    "value": 207.20709,
+    "value_": 207.20709
+  },
+  {
     "geoid": "37980",
     "key": "personal-bankruptcy-rate",
     "date": "2018-06-15",
@@ -6851,6 +7236,13 @@
     "date": "2025-06-15",
     "value": 105.14439,
     "value_": 105.14439
+  },
+  {
+    "geoid": "37980",
+    "key": "personal-bankruptcy-rate",
+    "date": "2026-06-15",
+    "value": 111.67533,
+    "value_": 111.67533
   },
   {
     "geoid": "38060",
@@ -6909,6 +7301,13 @@
     "value_": 164.979
   },
   {
+    "geoid": "38060",
+    "key": "personal-bankruptcy-rate",
+    "date": "2026-06-15",
+    "value": 182.7047,
+    "value_": 182.7047
+  },
+  {
     "geoid": "38300",
     "key": "personal-bankruptcy-rate",
     "date": "2018-06-15",
@@ -6963,6 +7362,13 @@
     "date": "2025-06-15",
     "value": 128.81997,
     "value_": 128.81997
+  },
+  {
+    "geoid": "38300",
+    "key": "personal-bankruptcy-rate",
+    "date": "2026-06-15",
+    "value": 141.23043,
+    "value_": 141.23043
   },
   {
     "geoid": "38900",
@@ -7021,6 +7427,13 @@
     "value_": 151.6614
   },
   {
+    "geoid": "38900",
+    "key": "personal-bankruptcy-rate",
+    "date": "2026-06-15",
+    "value": 172.14511,
+    "value_": 172.14511
+  },
+  {
     "geoid": "39300",
     "key": "personal-bankruptcy-rate",
     "date": "2018-06-15",
@@ -7075,6 +7488,13 @@
     "date": "2025-06-15",
     "value": 94.57617,
     "value_": 94.57617
+  },
+  {
+    "geoid": "39300",
+    "key": "personal-bankruptcy-rate",
+    "date": "2026-06-15",
+    "value": 101.96991,
+    "value_": 101.96991
   },
   {
     "geoid": "39580",
@@ -7133,6 +7553,13 @@
     "value_": 76.95417
   },
   {
+    "geoid": "39580",
+    "key": "personal-bankruptcy-rate",
+    "date": "2026-06-15",
+    "value": 93.4697,
+    "value_": 93.4697
+  },
+  {
     "geoid": "40060",
     "key": "personal-bankruptcy-rate",
     "date": "2018-06-15",
@@ -7187,6 +7614,13 @@
     "date": "2025-06-15",
     "value": 290.36701,
     "value_": 290.36701
+  },
+  {
+    "geoid": "40060",
+    "key": "personal-bankruptcy-rate",
+    "date": "2026-06-15",
+    "value": 301.94236,
+    "value_": 301.94236
   },
   {
     "geoid": "40140",
@@ -7245,6 +7679,13 @@
     "value_": 175.96686
   },
   {
+    "geoid": "40140",
+    "key": "personal-bankruptcy-rate",
+    "date": "2026-06-15",
+    "value": 212.43477,
+    "value_": 212.43477
+  },
+  {
     "geoid": "40380",
     "key": "personal-bankruptcy-rate",
     "date": "2018-06-15",
@@ -7299,6 +7740,13 @@
     "date": "2025-06-15",
     "value": 73.35146,
     "value_": 73.35146
+  },
+  {
+    "geoid": "40380",
+    "key": "personal-bankruptcy-rate",
+    "date": "2026-06-15",
+    "value": 74.52311,
+    "value_": 74.52311
   },
   {
     "geoid": "40900",
@@ -7357,6 +7805,13 @@
     "value_": 135.57227
   },
   {
+    "geoid": "40900",
+    "key": "personal-bankruptcy-rate",
+    "date": "2026-06-15",
+    "value": 155.82283,
+    "value_": 155.82283
+  },
+  {
     "geoid": "41180",
     "key": "personal-bankruptcy-rate",
     "date": "2018-06-15",
@@ -7411,6 +7866,13 @@
     "date": "2025-06-15",
     "value": 203.12325,
     "value_": 203.12325
+  },
+  {
+    "geoid": "41180",
+    "key": "personal-bankruptcy-rate",
+    "date": "2026-06-15",
+    "value": 223.87483,
+    "value_": 223.87483
   },
   {
     "geoid": "41620",
@@ -7469,6 +7931,13 @@
     "value_": 242.35802
   },
   {
+    "geoid": "41620",
+    "key": "personal-bankruptcy-rate",
+    "date": "2026-06-15",
+    "value": 274.34928,
+    "value_": 274.34928
+  },
+  {
     "geoid": "41700",
     "key": "personal-bankruptcy-rate",
     "date": "2018-06-15",
@@ -7523,6 +7992,13 @@
     "date": "2025-06-15",
     "value": 94.65818,
     "value_": 94.65818
+  },
+  {
+    "geoid": "41700",
+    "key": "personal-bankruptcy-rate",
+    "date": "2026-06-15",
+    "value": 111.24383,
+    "value_": 111.24383
   },
   {
     "geoid": "41740",
@@ -7581,6 +8057,13 @@
     "value_": 147.01855
   },
   {
+    "geoid": "41740",
+    "key": "personal-bankruptcy-rate",
+    "date": "2026-06-15",
+    "value": 157.75027,
+    "value_": 157.75027
+  },
+  {
     "geoid": "41860",
     "key": "personal-bankruptcy-rate",
     "date": "2018-06-15",
@@ -7635,6 +8118,13 @@
     "date": "2025-06-15",
     "value": 64.97095,
     "value_": 64.97095
+  },
+  {
+    "geoid": "41860",
+    "key": "personal-bankruptcy-rate",
+    "date": "2026-06-15",
+    "value": 73.96052,
+    "value_": 73.96052
   },
   {
     "geoid": "41940",
@@ -7693,6 +8183,13 @@
     "value_": 58.79294
   },
   {
+    "geoid": "41940",
+    "key": "personal-bankruptcy-rate",
+    "date": "2026-06-15",
+    "value": 57.66799,
+    "value_": 57.66799
+  },
+  {
     "geoid": "42660",
     "key": "personal-bankruptcy-rate",
     "date": "2018-06-15",
@@ -7747,6 +8244,13 @@
     "date": "2025-06-15",
     "value": 93.54384,
     "value_": 93.54384
+  },
+  {
+    "geoid": "42660",
+    "key": "personal-bankruptcy-rate",
+    "date": "2026-06-15",
+    "value": 106.66688,
+    "value_": 106.66688
   },
   {
     "geoid": "45300",
@@ -7805,6 +8309,13 @@
     "value_": 160.97044
   },
   {
+    "geoid": "45300",
+    "key": "personal-bankruptcy-rate",
+    "date": "2026-06-15",
+    "value": 201.50472,
+    "value_": 201.50472
+  },
+  {
     "geoid": "46060",
     "key": "personal-bankruptcy-rate",
     "date": "2018-06-15",
@@ -7859,6 +8370,13 @@
     "date": "2025-06-15",
     "value": 155.69399,
     "value_": 155.69399
+  },
+  {
+    "geoid": "46060",
+    "key": "personal-bankruptcy-rate",
+    "date": "2026-06-15",
+    "value": 164.0996,
+    "value_": 164.0996
   },
   {
     "geoid": "46140",
@@ -7917,6 +8435,13 @@
     "value_": 164.0144
   },
   {
+    "geoid": "46140",
+    "key": "personal-bankruptcy-rate",
+    "date": "2026-06-15",
+    "value": 181.29172,
+    "value_": 181.29172
+  },
+  {
     "geoid": "47260",
     "key": "personal-bankruptcy-rate",
     "date": "2018-06-15",
@@ -7971,6 +8496,13 @@
     "date": "2025-06-15",
     "value": 218.4457,
     "value_": 218.4457
+  },
+  {
+    "geoid": "47260",
+    "key": "personal-bankruptcy-rate",
+    "date": "2026-06-15",
+    "value": 250.80042,
+    "value_": 250.80042
   },
   {
     "geoid": "47900",
@@ -8029,6 +8561,13 @@
     "value_": 108.75937
   },
   {
+    "geoid": "47900",
+    "key": "personal-bankruptcy-rate",
+    "date": "2026-06-15",
+    "value": 125.79803,
+    "value_": 125.79803
+  },
+  {
     "geoid": "51013",
     "key": "personal-bankruptcy-rate",
     "date": "2018-06-15",
@@ -8083,6 +8622,13 @@
     "date": "2025-06-15",
     "value": 47.07693,
     "value_": 47.07693
+  },
+  {
+    "geoid": "51013",
+    "key": "personal-bankruptcy-rate",
+    "date": "2026-06-15",
+    "value": 53.11525,
+    "value_": 53.11525
   },
   {
     "geoid": "51043",
@@ -8141,6 +8687,13 @@
     "value_": 44.15793
   },
   {
+    "geoid": "51043",
+    "key": "personal-bankruptcy-rate",
+    "date": "2026-06-15",
+    "value": 68.36587,
+    "value_": 68.36587
+  },
+  {
     "geoid": "51047",
     "key": "personal-bankruptcy-rate",
     "date": "2018-06-15",
@@ -8195,6 +8748,13 @@
     "date": "2025-06-15",
     "value": 144.30015,
     "value_": 144.30015
+  },
+  {
+    "geoid": "51047",
+    "key": "personal-bankruptcy-rate",
+    "date": "2026-06-15",
+    "value": 168.45068,
+    "value_": 168.45068
   },
   {
     "geoid": "51059",
@@ -8253,6 +8813,13 @@
     "value_": 68.33526
   },
   {
+    "geoid": "51059",
+    "key": "personal-bankruptcy-rate",
+    "date": "2026-06-15",
+    "value": 80.53945,
+    "value_": 80.53945
+  },
+  {
     "geoid": "51061",
     "key": "personal-bankruptcy-rate",
     "date": "2018-06-15",
@@ -8307,6 +8874,13 @@
     "date": "2025-06-15",
     "value": 92.85522,
     "value_": 92.85522
+  },
+  {
+    "geoid": "51061",
+    "key": "personal-bankruptcy-rate",
+    "date": "2026-06-15",
+    "value": 101.15902,
+    "value_": 101.15902
   },
   {
     "geoid": "51107",
@@ -8365,6 +8939,13 @@
     "value_": 67.10228
   },
   {
+    "geoid": "51107",
+    "key": "personal-bankruptcy-rate",
+    "date": "2026-06-15",
+    "value": 80.94651,
+    "value_": 80.94651
+  },
+  {
     "geoid": "51153",
     "key": "personal-bankruptcy-rate",
     "date": "2018-06-15",
@@ -8419,6 +9000,13 @@
     "date": "2025-06-15",
     "value": 129.59683,
     "value_": 129.59683
+  },
+  {
+    "geoid": "51153",
+    "key": "personal-bankruptcy-rate",
+    "date": "2026-06-15",
+    "value": 149.04035,
+    "value_": 149.04035
   },
   {
     "geoid": "51157",
@@ -8477,6 +9065,13 @@
     "value_": 119.35976
   },
   {
+    "geoid": "51157",
+    "key": "personal-bankruptcy-rate",
+    "date": "2026-06-15",
+    "value": 52.79271,
+    "value_": 52.79271
+  },
+  {
     "geoid": "51177",
     "key": "personal-bankruptcy-rate",
     "date": "2018-06-15",
@@ -8531,6 +9126,13 @@
     "date": "2025-06-15",
     "value": 209.41795,
     "value_": 209.41795
+  },
+  {
+    "geoid": "51177",
+    "key": "personal-bankruptcy-rate",
+    "date": "2026-06-15",
+    "value": 219.42864,
+    "value_": 219.42864
   },
   {
     "geoid": "51179",
@@ -8589,6 +9191,13 @@
     "value_": 146.07768
   },
   {
+    "geoid": "51179",
+    "key": "personal-bankruptcy-rate",
+    "date": "2026-06-15",
+    "value": 152.9879,
+    "value_": 152.9879
+  },
+  {
     "geoid": "51187",
     "key": "personal-bankruptcy-rate",
     "date": "2018-06-15",
@@ -8643,6 +9252,13 @@
     "date": "2025-06-15",
     "value": 149.39026,
     "value_": 149.39026
+  },
+  {
+    "geoid": "51187",
+    "key": "personal-bankruptcy-rate",
+    "date": "2026-06-15",
+    "value": 122.62332,
+    "value_": 122.62332
   },
   {
     "geoid": "51510",
@@ -8701,6 +9317,13 @@
     "value_": 84.73724
   },
   {
+    "geoid": "51510",
+    "key": "personal-bankruptcy-rate",
+    "date": "2026-06-15",
+    "value": 106.24985,
+    "value_": 106.24985
+  },
+  {
     "geoid": "51630",
     "key": "personal-bankruptcy-rate",
     "date": "2018-06-15",
@@ -8755,6 +9378,13 @@
     "date": "2025-06-15",
     "value": 231.43963,
     "value_": 231.43963
+  },
+  {
+    "geoid": "51630",
+    "key": "personal-bankruptcy-rate",
+    "date": "2026-06-15",
+    "value": 235.54019,
+    "value_": 235.54019
   },
   {
     "geoid": "54037",
@@ -8813,60 +9443,74 @@
     "value_": 53.17034
   },
   {
+    "geoid": "54037",
+    "key": "personal-bankruptcy-rate",
+    "date": "2026-06-15",
+    "value": 85.89931,
+    "value_": 85.89931
+  },
+  {
     "geoid": "99997",
     "key": "personal-bankruptcy-rate",
     "date": "2018-06-15",
-    "value": 236.03762,
-    "value_": 236.03762
+    "value": 235.28087,
+    "value_": 235.28087
   },
   {
     "geoid": "99997",
     "key": "personal-bankruptcy-rate",
     "date": "2019-06-15",
-    "value": 233.5101,
-    "value_": 233.5101
+    "value": 232.80064,
+    "value_": 232.80064
   },
   {
     "geoid": "99997",
     "key": "personal-bankruptcy-rate",
     "date": "2020-06-15",
-    "value": 201.64394,
-    "value_": 201.64394
+    "value": 201.01211,
+    "value_": 201.01211
   },
   {
     "geoid": "99997",
     "key": "personal-bankruptcy-rate",
     "date": "2021-06-15",
-    "value": 135.60123,
-    "value_": 135.60123
+    "value": 135.16657,
+    "value_": 135.16657
   },
   {
     "geoid": "99997",
     "key": "personal-bankruptcy-rate",
     "date": "2022-06-15",
-    "value": 110.14955,
-    "value_": 110.14955
+    "value": 109.80813,
+    "value_": 109.80813
   },
   {
     "geoid": "99997",
     "key": "personal-bankruptcy-rate",
     "date": "2023-06-15",
-    "value": 119.06018,
-    "value_": 119.06018
+    "value": 118.66368,
+    "value_": 118.66368
   },
   {
     "geoid": "99997",
     "key": "personal-bankruptcy-rate",
     "date": "2024-06-15",
-    "value": 137.94654,
-    "value_": 137.94654
+    "value": 137.48997,
+    "value_": 137.48997
   },
   {
     "geoid": "99997",
     "key": "personal-bankruptcy-rate",
     "date": "2025-06-15",
-    "value": 155.10997,
-    "value_": 155.10997
+    "value": 154.55863,
+    "value_": 154.55863
+  },
+  {
+    "geoid": "99997",
+    "key": "personal-bankruptcy-rate",
+    "date": "2026-06-15",
+    "value": 172.96338,
+    "value_": 172.96338
   },
   {
     "geoid": "99999",
@@ -8923,6 +9567,13 @@
     "date": "2025-06-15",
     "value": 152.0409,
     "value_": 152.0409
+  },
+  {
+    "geoid": "99999",
+    "key": "personal-bankruptcy-rate",
+    "date": "2026-06-15",
+    "value": 169.0867,
+    "value_": 169.0867
   },
   {
     "geoid": "11001",
@@ -10099,6 +10750,62 @@
     "date": "2025-09-15",
     "value": 87.28664,
     "value_": 87.28664
+  },
+  {
+    "geoid": "24860",
+    "key": "personal-bankruptcy-rate",
+    "date": "2018-09-15",
+    "value": 84.92948,
+    "value_": 84.92948
+  },
+  {
+    "geoid": "24860",
+    "key": "personal-bankruptcy-rate",
+    "date": "2019-09-15",
+    "value": 88.86777,
+    "value_": 88.86777
+  },
+  {
+    "geoid": "24860",
+    "key": "personal-bankruptcy-rate",
+    "date": "2020-09-15",
+    "value": 65.75166,
+    "value_": 65.75166
+  },
+  {
+    "geoid": "24860",
+    "key": "personal-bankruptcy-rate",
+    "date": "2021-09-15",
+    "value": 43.01189,
+    "value_": 43.01189
+  },
+  {
+    "geoid": "24860",
+    "key": "personal-bankruptcy-rate",
+    "date": "2022-09-15",
+    "value": 42.35039,
+    "value_": 42.35039
+  },
+  {
+    "geoid": "24860",
+    "key": "personal-bankruptcy-rate",
+    "date": "2023-09-15",
+    "value": 44.20135,
+    "value_": 44.20135
+  },
+  {
+    "geoid": "24860",
+    "key": "personal-bankruptcy-rate",
+    "date": "2024-09-15",
+    "value": 52.17322,
+    "value_": 52.17322
+  },
+  {
+    "geoid": "24860",
+    "key": "personal-bankruptcy-rate",
+    "date": "2025-09-15",
+    "value": 47.46785,
+    "value_": 47.46785
   },
   {
     "geoid": "26420",
@@ -13016,57 +13723,57 @@
     "geoid": "99997",
     "key": "personal-bankruptcy-rate",
     "date": "2018-09-15",
-    "value": 235.1053,
-    "value_": 235.1053
+    "value": 234.37037,
+    "value_": 234.37037
   },
   {
     "geoid": "99997",
     "key": "personal-bankruptcy-rate",
     "date": "2019-09-15",
-    "value": 234.9576,
-    "value_": 234.9576
+    "value": 234.23563,
+    "value_": 234.23563
   },
   {
     "geoid": "99997",
     "key": "personal-bankruptcy-rate",
     "date": "2020-09-15",
-    "value": 180.01763,
-    "value_": 180.01763
+    "value": 179.45476,
+    "value_": 179.45476
   },
   {
     "geoid": "99997",
     "key": "personal-bankruptcy-rate",
     "date": "2021-09-15",
-    "value": 127.36397,
-    "value_": 127.36397
+    "value": 126.94338,
+    "value_": 126.94338
   },
   {
     "geoid": "99997",
     "key": "personal-bankruptcy-rate",
     "date": "2022-09-15",
-    "value": 110.41091,
-    "value_": 110.41091
+    "value": 110.0666,
+    "value_": 110.0666
   },
   {
     "geoid": "99997",
     "key": "personal-bankruptcy-rate",
     "date": "2023-09-15",
-    "value": 123.55652,
-    "value_": 123.55652
+    "value": 123.15112,
+    "value_": 123.15112
   },
   {
     "geoid": "99997",
     "key": "personal-bankruptcy-rate",
     "date": "2024-09-15",
-    "value": 143.49998,
-    "value_": 143.49998
+    "value": 143.03086,
+    "value_": 143.03086
   },
   {
     "geoid": "99997",
     "key": "personal-bankruptcy-rate",
     "date": "2025-09-15",
-    "value": 159.50039,
-    "value_": 159.50039
+    "value": 158.91909,
+    "value_": 158.91909
   },
   {
     "geoid": "99999",
@@ -14299,6 +15006,62 @@
     "date": "2025-12-15",
     "value": 88.6373,
     "value_": 88.6373
+  },
+  {
+    "geoid": "24860",
+    "key": "personal-bankruptcy-rate",
+    "date": "2018-12-15",
+    "value": 85.14979,
+    "value_": 85.14979
+  },
+  {
+    "geoid": "24860",
+    "key": "personal-bankruptcy-rate",
+    "date": "2019-12-15",
+    "value": 89.08478,
+    "value_": 89.08478
+  },
+  {
+    "geoid": "24860",
+    "key": "personal-bankruptcy-rate",
+    "date": "2020-12-15",
+    "value": 57.04923,
+    "value_": 57.04923
+  },
+  {
+    "geoid": "24860",
+    "key": "personal-bankruptcy-rate",
+    "date": "2021-12-15",
+    "value": 43.86151,
+    "value_": 43.86151
+  },
+  {
+    "geoid": "24860",
+    "key": "personal-bankruptcy-rate",
+    "date": "2022-12-15",
+    "value": 41.51795,
+    "value_": 41.51795
+  },
+  {
+    "geoid": "24860",
+    "key": "personal-bankruptcy-rate",
+    "date": "2023-12-15",
+    "value": 44.60968,
+    "value_": 44.60968
+  },
+  {
+    "geoid": "24860",
+    "key": "personal-bankruptcy-rate",
+    "date": "2024-12-15",
+    "value": 53.07621,
+    "value_": 53.07621
+  },
+  {
+    "geoid": "24860",
+    "key": "personal-bankruptcy-rate",
+    "date": "2025-12-15",
+    "value": 50.3357,
+    "value_": 50.3357
   },
   {
     "geoid": "26420",
@@ -17216,57 +17979,57 @@
     "geoid": "99997",
     "key": "personal-bankruptcy-rate",
     "date": "2018-12-15",
-    "value": 234.64862,
-    "value_": 234.64862
+    "value": 233.917,
+    "value_": 233.917
   },
   {
     "geoid": "99997",
     "key": "personal-bankruptcy-rate",
     "date": "2019-12-15",
-    "value": 234.6057,
-    "value_": 234.6057
+    "value": 233.88653,
+    "value_": 233.88653
   },
   {
     "geoid": "99997",
     "key": "personal-bankruptcy-rate",
     "date": "2020-12-15",
-    "value": 158.86894,
-    "value_": 158.86894
+    "value": 158.36737,
+    "value_": 158.36737
   },
   {
     "geoid": "99997",
     "key": "personal-bankruptcy-rate",
     "date": "2021-12-15",
-    "value": 121.34808,
-    "value_": 121.34808
+    "value": 120.96173,
+    "value_": 120.96173
   },
   {
     "geoid": "99997",
     "key": "personal-bankruptcy-rate",
     "date": "2022-12-15",
-    "value": 111.27861,
-    "value_": 111.27861
+    "value": 110.9257,
+    "value_": 110.9257
   },
   {
     "geoid": "99997",
     "key": "personal-bankruptcy-rate",
     "date": "2023-12-15",
-    "value": 129.28256,
-    "value_": 129.28256
+    "value": 128.85,
+    "value_": 128.85
   },
   {
     "geoid": "99997",
     "key": "personal-bankruptcy-rate",
     "date": "2024-12-15",
-    "value": 147.60082,
-    "value_": 147.60082
+    "value": 147.11528,
+    "value_": 147.11528
   },
   {
     "geoid": "99997",
     "key": "personal-bankruptcy-rate",
     "date": "2025-12-15",
-    "value": 164.43497,
-    "value_": 164.43497
+    "value": 163.84295,
+    "value_": 163.84295
   },
   {
     "geoid": "99999",

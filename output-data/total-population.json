@@ -2,533 +2,540 @@
   {
     "geoid": "11001",
     "key": "total-population",
-    "date": "2024-12-15",
-    "value": 702250,
-    "value_": 702250
+    "date": "2025-12-15",
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "12060",
     "key": "total-population",
-    "date": "2024-12-15",
-    "value": 6411149,
-    "value_": 6411149
+    "date": "2025-12-15",
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "12420",
     "key": "total-population",
-    "date": "2024-12-15",
-    "value": 2550637,
-    "value_": 2550637
+    "date": "2025-12-15",
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "12580",
     "key": "total-population",
-    "date": "2024-12-15",
-    "value": 2859024,
-    "value_": 2859024
+    "date": "2025-12-15",
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "13820",
     "key": "total-population",
-    "date": "2024-12-15",
-    "value": 1192583,
-    "value_": 1192583
+    "date": "2025-12-15",
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "14460",
     "key": "total-population",
-    "date": "2024-12-15",
-    "value": 5025517,
-    "value_": 5025517
+    "date": "2025-12-15",
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "15380",
     "key": "total-population",
-    "date": "2024-12-15",
-    "value": 1160172,
-    "value_": 1160172
+    "date": "2025-12-15",
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "16740",
     "key": "total-population",
-    "date": "2024-12-15",
-    "value": 2883370,
-    "value_": 2883370
+    "date": "2025-12-15",
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "16980",
     "key": "total-population",
-    "date": "2024-12-15",
-    "value": 9408576,
-    "value_": 9408576
+    "date": "2025-12-15",
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "17140",
     "key": "total-population",
-    "date": "2024-12-15",
-    "value": 2302815,
-    "value_": 2302815
+    "date": "2025-12-15",
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "17410",
     "key": "total-population",
-    "date": "2024-12-15",
-    "value": 2171877,
-    "value_": 2171877
+    "date": "2025-12-15",
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "18140",
     "key": "total-population",
-    "date": "2024-12-15",
-    "value": 2225377,
-    "value_": 2225377
+    "date": "2025-12-15",
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "19100",
     "key": "total-population",
-    "date": "2024-12-15",
-    "value": 8344032,
-    "value_": 8344032
+    "date": "2025-12-15",
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "19740",
     "key": "total-population",
-    "date": "2024-12-15",
-    "value": 3052498,
-    "value_": 3052498
+    "date": "2025-12-15",
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "19820",
     "key": "total-population",
-    "date": "2024-12-15",
-    "value": 4400578,
-    "value_": 4400578
+    "date": "2025-12-15",
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "23420",
     "key": "total-population",
-    "date": "2024-12-15",
-    "value": 1189557,
-    "value_": 1189557
+    "date": "2025-12-15",
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "24017",
     "key": "total-population",
-    "date": "2024-12-15",
-    "value": 174478,
-    "value_": 174478
+    "date": "2025-12-15",
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "24021",
     "key": "total-population",
-    "date": "2024-12-15",
-    "value": 299317,
-    "value_": 299317
+    "date": "2025-12-15",
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "24031",
     "key": "total-population",
-    "date": "2024-12-15",
-    "value": 1082273,
-    "value_": 1082273
+    "date": "2025-12-15",
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "24033",
     "key": "total-population",
-    "date": "2024-12-15",
-    "value": 966629,
-    "value_": 966629
+    "date": "2025-12-15",
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "24340",
     "key": "total-population",
-    "date": "2024-12-15",
-    "value": 1178826,
-    "value_": 1178826
+    "date": "2025-12-15",
+    "value": 0,
+    "value_": 0
+  },
+  {
+    "geoid": "24860",
+    "key": "total-population",
+    "date": "2025-12-15",
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "25540",
     "key": "total-population",
-    "date": "2024-12-15",
-    "value": 1169048,
-    "value_": 1169048
+    "date": "2025-12-15",
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "26420",
     "key": "total-population",
-    "date": "2024-12-15",
-    "value": 7796182,
-    "value_": 7796182
+    "date": "2025-12-15",
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "26900",
     "key": "total-population",
-    "date": "2024-12-15",
-    "value": 2174833,
-    "value_": 2174833
+    "date": "2025-12-15",
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "27260",
     "key": "total-population",
-    "date": "2024-12-15",
-    "value": 1760548,
-    "value_": 1760548
+    "date": "2025-12-15",
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "28140",
     "key": "total-population",
-    "date": "2024-12-15",
-    "value": 2253579,
-    "value_": 2253579
+    "date": "2025-12-15",
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "29820",
     "key": "total-population",
-    "date": "2024-12-15",
-    "value": 2398871,
-    "value_": 2398871
+    "date": "2025-12-15",
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "31080",
     "key": "total-population",
-    "date": "2024-12-15",
-    "value": 12927614,
-    "value_": 12927614
+    "date": "2025-12-15",
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "31140",
     "key": "total-population",
-    "date": "2024-12-15",
-    "value": 1394234,
-    "value_": 1394234
+    "date": "2025-12-15",
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "32820",
     "key": "total-population",
-    "date": "2024-12-15",
-    "value": 1339345,
-    "value_": 1339345
+    "date": "2025-12-15",
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "33100",
     "key": "total-population",
-    "date": "2024-12-15",
-    "value": 6457988,
-    "value_": 6457988
+    "date": "2025-12-15",
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "33340",
     "key": "total-population",
-    "date": "2024-12-15",
-    "value": 1574452,
-    "value_": 1574452
+    "date": "2025-12-15",
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "33460",
     "key": "total-population",
-    "date": "2024-12-15",
-    "value": 3757952,
-    "value_": 3757952
+    "date": "2025-12-15",
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "34980",
     "key": "total-population",
-    "date": "2024-12-15",
-    "value": 2150553,
-    "value_": 2150553
+    "date": "2025-12-15",
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "35620",
     "key": "total-population",
-    "date": "2024-12-15",
-    "value": 19940274,
-    "value_": 19940274
+    "date": "2025-12-15",
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "36420",
     "key": "total-population",
-    "date": "2024-12-15",
-    "value": 1497821,
-    "value_": 1497821
+    "date": "2025-12-15",
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "36540",
     "key": "total-population",
-    "date": "2024-12-15",
-    "value": 1001010,
-    "value_": 1001010
+    "date": "2025-12-15",
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "36740",
     "key": "total-population",
-    "date": "2024-12-15",
-    "value": 2940513,
-    "value_": 2940513
+    "date": "2025-12-15",
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "37980",
     "key": "total-population",
-    "date": "2024-12-15",
-    "value": 6330422,
-    "value_": 6330422
+    "date": "2025-12-15",
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "38060",
     "key": "total-population",
-    "date": "2024-12-15",
-    "value": 5186958,
-    "value_": 5186958
+    "date": "2025-12-15",
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "38300",
     "key": "total-population",
-    "date": "2024-12-15",
-    "value": 2429917,
-    "value_": 2429917
+    "date": "2025-12-15",
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "38900",
     "key": "total-population",
-    "date": "2024-12-15",
-    "value": 2537904,
-    "value_": 2537904
+    "date": "2025-12-15",
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "39300",
     "key": "total-population",
-    "date": "2024-12-15",
-    "value": 1700901,
-    "value_": 1700901
+    "date": "2025-12-15",
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "39580",
     "key": "total-population",
-    "date": "2024-12-15",
-    "value": 1562009,
-    "value_": 1562009
+    "date": "2025-12-15",
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "40060",
     "key": "total-population",
-    "date": "2024-12-15",
-    "value": 1370165,
-    "value_": 1370165
+    "date": "2025-12-15",
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "40140",
     "key": "total-population",
-    "date": "2024-12-15",
-    "value": 4744214,
-    "value_": 4744214
+    "date": "2025-12-15",
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "40380",
     "key": "total-population",
-    "date": "2024-12-15",
-    "value": 1057218,
-    "value_": 1057218
+    "date": "2025-12-15",
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "40900",
     "key": "total-population",
-    "date": "2024-12-15",
-    "value": 2463127,
-    "value_": 2463127
+    "date": "2025-12-15",
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "41180",
     "key": "total-population",
-    "date": "2024-12-15",
-    "value": 2811927,
-    "value_": 2811927
+    "date": "2025-12-15",
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "41620",
     "key": "total-population",
-    "date": "2024-12-15",
-    "value": 1300762,
-    "value_": 1300762
+    "date": "2025-12-15",
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "41700",
     "key": "total-population",
-    "date": "2024-12-15",
-    "value": 2763006,
-    "value_": 2763006
+    "date": "2025-12-15",
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "41740",
     "key": "total-population",
-    "date": "2024-12-15",
-    "value": 3298799,
-    "value_": 3298799
+    "date": "2025-12-15",
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "41860",
     "key": "total-population",
-    "date": "2024-12-15",
-    "value": 4648486,
-    "value_": 4648486
+    "date": "2025-12-15",
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "41940",
     "key": "total-population",
-    "date": "2024-12-15",
-    "value": 1995484,
-    "value_": 1995484
+    "date": "2025-12-15",
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "42660",
     "key": "total-population",
-    "date": "2024-12-15",
-    "value": 4145494,
-    "value_": 4145494
+    "date": "2025-12-15",
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "45300",
     "key": "total-population",
-    "date": "2024-12-15",
-    "value": 3424560,
-    "value_": 3424560
+    "date": "2025-12-15",
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "46060",
     "key": "total-population",
-    "date": "2024-12-15",
-    "value": 1080149,
-    "value_": 1080149
+    "date": "2025-12-15",
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "46140",
     "key": "total-population",
-    "date": "2024-12-15",
-    "value": 1059803,
-    "value_": 1059803
+    "date": "2025-12-15",
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "47260",
     "key": "total-population",
-    "date": "2024-12-15",
-    "value": 1794278,
-    "value_": 1794278
+    "date": "2025-12-15",
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "47900",
     "key": "total-population",
-    "date": "2024-12-15",
-    "value": 6436489,
-    "value_": 6436489
+    "date": "2025-12-15",
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "51013",
     "key": "total-population",
-    "date": "2024-12-15",
-    "value": 239807,
-    "value_": 239807
+    "date": "2025-12-15",
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "51043",
     "key": "total-population",
-    "date": "2024-12-15",
-    "value": 15598,
-    "value_": 15598
+    "date": "2025-12-15",
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "51047",
     "key": "total-population",
-    "date": "2024-12-15",
-    "value": 56125,
-    "value_": 56125
+    "date": "2025-12-15",
+    "value": 0,
+    "value_": 0
+  },
+  {
+    "geoid": "51059",
+    "key": "total-population",
+    "date": "2025-12-15",
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "51061",
     "key": "total-population",
-    "date": "2024-12-15",
-    "value": 75865,
-    "value_": 75865
+    "date": "2025-12-15",
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "51107",
     "key": "total-population",
-    "date": "2024-12-15",
-    "value": 443380,
-    "value_": 443380
+    "date": "2025-12-15",
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "51153",
     "key": "total-population",
-    "date": "2024-12-15",
-    "value": 557230,
-    "value_": 557230
+    "date": "2025-12-15",
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "51157",
     "key": "total-population",
-    "date": "2024-12-15",
-    "value": 7479,
-    "value_": 7479
+    "date": "2025-12-15",
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "51177",
     "key": "total-population",
-    "date": "2024-12-15",
-    "value": 152021,
-    "value_": 152021
+    "date": "2025-12-15",
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "51179",
     "key": "total-population",
-    "date": "2024-12-15",
-    "value": 168919,
-    "value_": 168919
+    "date": "2025-12-15",
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "51187",
     "key": "total-population",
-    "date": "2024-12-15",
-    "value": 42461,
-    "value_": 42461
+    "date": "2025-12-15",
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "51510",
     "key": "total-population",
-    "date": "2024-12-15",
-    "value": 159102,
-    "value_": 159102
-  },
-  {
-    "geoid": "51600",
-    "key": "total-population",
-    "date": "2024-12-15",
-    "value": 1202299,
-    "value_": 1202299
+    "date": "2025-12-15",
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "51630",
     "key": "total-population",
-    "date": "2024-12-15",
-    "value": 29992,
-    "value_": 29992
+    "date": "2025-12-15",
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "54037",
     "key": "total-population",
-    "date": "2024-12-15",
-    "value": 61264,
-    "value_": 61264
+    "date": "2025-12-15",
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "99997",
     "key": "total-population",
-    "date": "2024-12-15",
-    "value": 322140440,
-    "value_": 322140440
+    "date": "2025-12-15",
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "99999",
     "key": "total-population",
-    "date": "2024-12-15",
-    "value": 340110988,
-    "value_": 340110988
+    "date": "2025-12-15",
+    "value": 0,
+    "value_": 0
   }
 ]

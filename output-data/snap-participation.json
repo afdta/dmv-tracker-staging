@@ -409,15 +409,15 @@
     "geoid": "99999",
     "key": "snap-participation",
     "date": "2025-01-15",
-    "value": 42828452,
-    "value_": 42828452
+    "value": 42412762,
+    "value_": 42412762
   },
   {
     "geoid": "99999",
     "key": "snap-participation",
     "date": "2026-01-15",
-    "value": 38535642,
-    "value_": 38535642
+    "value": 38552133,
+    "value_": 38552133
   },
   {
     "geoid": "11001",
@@ -829,15 +829,15 @@
     "geoid": "99999",
     "key": "snap-participation",
     "date": "2025-02-15",
-    "value": 42180523,
-    "value_": 42180523
+    "value": 42180556,
+    "value_": 42180556
   },
   {
     "geoid": "99999",
     "key": "snap-participation",
     "date": "2026-02-15",
-    "value": 37870817.1945,
-    "value_": 37870817.1945
+    "value": 37947123,
+    "value_": 37947123
   },
   {
     "geoid": "11001",
@@ -854,6 +854,13 @@
     "value_": 140685
   },
   {
+    "geoid": "11001",
+    "key": "snap-participation",
+    "date": "2026-03-15",
+    "value": 133466,
+    "value_": 133466
+  },
+  {
     "geoid": "24017",
     "key": "snap-participation",
     "date": "2024-03-15",
@@ -866,6 +873,13 @@
     "date": "2025-03-15",
     "value": 15890,
     "value_": 15890
+  },
+  {
+    "geoid": "24017",
+    "key": "snap-participation",
+    "date": "2026-03-15",
+    "value": 15387,
+    "value_": 15387
   },
   {
     "geoid": "24021",
@@ -882,6 +896,13 @@
     "value_": 18858
   },
   {
+    "geoid": "24021",
+    "key": "snap-participation",
+    "date": "2026-03-15",
+    "value": 18194,
+    "value_": 18194
+  },
+  {
     "geoid": "24031",
     "key": "snap-participation",
     "date": "2024-03-15",
@@ -894,6 +915,13 @@
     "date": "2025-03-15",
     "value": 68753,
     "value_": 68753
+  },
+  {
+    "geoid": "24031",
+    "key": "snap-participation",
+    "date": "2026-03-15",
+    "value": 65940,
+    "value_": 65940
   },
   {
     "geoid": "24033",
@@ -910,6 +938,13 @@
     "value_": 105767
   },
   {
+    "geoid": "24033",
+    "key": "snap-participation",
+    "date": "2026-03-15",
+    "value": 96160,
+    "value_": 96160
+  },
+  {
     "geoid": "47900",
     "key": "snap-participation",
     "date": "2024-03-15",
@@ -922,6 +957,13 @@
     "date": "2025-03-15",
     "value": 526012,
     "value_": 526012
+  },
+  {
+    "geoid": "47900",
+    "key": "snap-participation",
+    "date": "2026-03-15",
+    "value": 481785,
+    "value_": 481785
   },
   {
     "geoid": "51013",
@@ -938,6 +980,13 @@
     "value_": 9711
   },
   {
+    "geoid": "51013",
+    "key": "snap-participation",
+    "date": "2026-03-15",
+    "value": 8873,
+    "value_": 8873
+  },
+  {
     "geoid": "51043",
     "key": "snap-participation",
     "date": "2024-03-15",
@@ -950,6 +999,13 @@
     "date": "2025-03-15",
     "value": 875,
     "value_": 875
+  },
+  {
+    "geoid": "51043",
+    "key": "snap-participation",
+    "date": "2026-03-15",
+    "value": 640,
+    "value_": 640
   },
   {
     "geoid": "51047",
@@ -966,6 +1022,13 @@
     "value_": 4687
   },
   {
+    "geoid": "51047",
+    "key": "snap-participation",
+    "date": "2026-03-15",
+    "value": 3903,
+    "value_": 3903
+  },
+  {
     "geoid": "51059",
     "key": "snap-participation",
     "date": "2024-03-15",
@@ -978,6 +1041,13 @@
     "date": "2025-03-15",
     "value": 57052,
     "value_": 57052
+  },
+  {
+    "geoid": "51059",
+    "key": "snap-participation",
+    "date": "2026-03-15",
+    "value": 49361,
+    "value_": 49361
   },
   {
     "geoid": "51061",
@@ -994,6 +1064,13 @@
     "value_": 3309
   },
   {
+    "geoid": "51061",
+    "key": "snap-participation",
+    "date": "2026-03-15",
+    "value": 2835,
+    "value_": 2835
+  },
+  {
     "geoid": "51107",
     "key": "snap-participation",
     "date": "2024-03-15",
@@ -1006,6 +1083,13 @@
     "date": "2025-03-15",
     "value": 14067,
     "value_": 14067
+  },
+  {
+    "geoid": "51107",
+    "key": "snap-participation",
+    "date": "2026-03-15",
+    "value": 12259,
+    "value_": 12259
   },
   {
     "geoid": "51153",
@@ -1022,6 +1106,13 @@
     "value_": 40084
   },
   {
+    "geoid": "51153",
+    "key": "snap-participation",
+    "date": "2026-03-15",
+    "value": 34398,
+    "value_": 34398
+  },
+  {
     "geoid": "51157",
     "key": "snap-participation",
     "date": "2024-03-15",
@@ -1034,6 +1125,13 @@
     "date": "2025-03-15",
     "value": 437,
     "value_": 437
+  },
+  {
+    "geoid": "51157",
+    "key": "snap-participation",
+    "date": "2026-03-15",
+    "value": 424,
+    "value_": 424
   },
   {
     "geoid": "51177",
@@ -1050,6 +1148,13 @@
     "value_": 13012
   },
   {
+    "geoid": "51177",
+    "key": "snap-participation",
+    "date": "2026-03-15",
+    "value": 11682,
+    "value_": 11682
+  },
+  {
     "geoid": "51179",
     "key": "snap-participation",
     "date": "2024-03-15",
@@ -1062,6 +1167,13 @@
     "date": "2025-03-15",
     "value": 12280,
     "value_": 12280
+  },
+  {
+    "geoid": "51179",
+    "key": "snap-participation",
+    "date": "2026-03-15",
+    "value": 10579,
+    "value_": 10579
   },
   {
     "geoid": "51187",
@@ -1078,6 +1190,13 @@
     "value_": 4209
   },
   {
+    "geoid": "51187",
+    "key": "snap-participation",
+    "date": "2026-03-15",
+    "value": 3783,
+    "value_": 3783
+  },
+  {
     "geoid": "51510",
     "key": "snap-participation",
     "date": "2024-03-15",
@@ -1090,6 +1209,13 @@
     "date": "2025-03-15",
     "value": 12112,
     "value_": 12112
+  },
+  {
+    "geoid": "51510",
+    "key": "snap-participation",
+    "date": "2026-03-15",
+    "value": 10200,
+    "value_": 10200
   },
   {
     "geoid": "51630",
@@ -1106,6 +1232,13 @@
     "value_": 4224
   },
   {
+    "geoid": "51630",
+    "key": "snap-participation",
+    "date": "2026-03-15",
+    "value": 3701,
+    "value_": 3701
+  },
+  {
     "geoid": "99999",
     "key": "snap-participation",
     "date": "2024-03-15",
@@ -1116,8 +1249,15 @@
     "geoid": "99999",
     "key": "snap-participation",
     "date": "2025-03-15",
-    "value": 42193855,
-    "value_": 42193855
+    "value": 42193871,
+    "value_": 42193871
+  },
+  {
+    "geoid": "99999",
+    "key": "snap-participation",
+    "date": "2026-03-15",
+    "value": 37531152,
+    "value_": 37531152
   },
   {
     "geoid": "11001",
@@ -1134,6 +1274,13 @@
     "value_": 140765
   },
   {
+    "geoid": "11001",
+    "key": "snap-participation",
+    "date": "2026-04-15",
+    "value": 132189,
+    "value_": 132189
+  },
+  {
     "geoid": "24017",
     "key": "snap-participation",
     "date": "2024-04-15",
@@ -1146,6 +1293,13 @@
     "date": "2025-04-15",
     "value": 15798,
     "value_": 15798
+  },
+  {
+    "geoid": "24017",
+    "key": "snap-participation",
+    "date": "2026-04-15",
+    "value": 15211,
+    "value_": 15211
   },
   {
     "geoid": "24021",
@@ -1162,6 +1316,13 @@
     "value_": 18939
   },
   {
+    "geoid": "24021",
+    "key": "snap-participation",
+    "date": "2026-04-15",
+    "value": 18173,
+    "value_": 18173
+  },
+  {
     "geoid": "24031",
     "key": "snap-participation",
     "date": "2024-04-15",
@@ -1174,6 +1335,13 @@
     "date": "2025-04-15",
     "value": 68051,
     "value_": 68051
+  },
+  {
+    "geoid": "24031",
+    "key": "snap-participation",
+    "date": "2026-04-15",
+    "value": 65329,
+    "value_": 65329
   },
   {
     "geoid": "24033",
@@ -1190,6 +1358,13 @@
     "value_": 104051
   },
   {
+    "geoid": "24033",
+    "key": "snap-participation",
+    "date": "2026-04-15",
+    "value": 94661,
+    "value_": 94661
+  },
+  {
     "geoid": "47900",
     "key": "snap-participation",
     "date": "2024-04-15",
@@ -1202,6 +1377,13 @@
     "date": "2025-04-15",
     "value": 523783,
     "value_": 523783
+  },
+  {
+    "geoid": "47900",
+    "key": "snap-participation",
+    "date": "2026-04-15",
+    "value": 477779,
+    "value_": 477779
   },
   {
     "geoid": "51013",
@@ -1218,6 +1400,13 @@
     "value_": 9663
   },
   {
+    "geoid": "51013",
+    "key": "snap-participation",
+    "date": "2026-04-15",
+    "value": 8930,
+    "value_": 8930
+  },
+  {
     "geoid": "51043",
     "key": "snap-participation",
     "date": "2024-04-15",
@@ -1230,6 +1419,13 @@
     "date": "2025-04-15",
     "value": 911,
     "value_": 911
+  },
+  {
+    "geoid": "51043",
+    "key": "snap-participation",
+    "date": "2026-04-15",
+    "value": 631,
+    "value_": 631
   },
   {
     "geoid": "51047",
@@ -1246,6 +1442,13 @@
     "value_": 4613
   },
   {
+    "geoid": "51047",
+    "key": "snap-participation",
+    "date": "2026-04-15",
+    "value": 3830,
+    "value_": 3830
+  },
+  {
     "geoid": "51059",
     "key": "snap-participation",
     "date": "2024-04-15",
@@ -1258,6 +1461,13 @@
     "date": "2025-04-15",
     "value": 57272,
     "value_": 57272
+  },
+  {
+    "geoid": "51059",
+    "key": "snap-participation",
+    "date": "2026-04-15",
+    "value": 49314,
+    "value_": 49314
   },
   {
     "geoid": "51061",
@@ -1274,6 +1484,13 @@
     "value_": 3340
   },
   {
+    "geoid": "51061",
+    "key": "snap-participation",
+    "date": "2026-04-15",
+    "value": 2802,
+    "value_": 2802
+  },
+  {
     "geoid": "51107",
     "key": "snap-participation",
     "date": "2024-04-15",
@@ -1286,6 +1503,13 @@
     "date": "2025-04-15",
     "value": 14228,
     "value_": 14228
+  },
+  {
+    "geoid": "51107",
+    "key": "snap-participation",
+    "date": "2026-04-15",
+    "value": 12356,
+    "value_": 12356
   },
   {
     "geoid": "51153",
@@ -1302,6 +1526,13 @@
     "value_": 39900
   },
   {
+    "geoid": "51153",
+    "key": "snap-participation",
+    "date": "2026-04-15",
+    "value": 34241,
+    "value_": 34241
+  },
+  {
     "geoid": "51157",
     "key": "snap-participation",
     "date": "2024-04-15",
@@ -1314,6 +1545,13 @@
     "date": "2025-04-15",
     "value": 445,
     "value_": 445
+  },
+  {
+    "geoid": "51157",
+    "key": "snap-participation",
+    "date": "2026-04-15",
+    "value": 420,
+    "value_": 420
   },
   {
     "geoid": "51177",
@@ -1330,6 +1568,13 @@
     "value_": 13094
   },
   {
+    "geoid": "51177",
+    "key": "snap-participation",
+    "date": "2026-04-15",
+    "value": 11616,
+    "value_": 11616
+  },
+  {
     "geoid": "51179",
     "key": "snap-participation",
     "date": "2024-04-15",
@@ -1342,6 +1587,13 @@
     "date": "2025-04-15",
     "value": 12269,
     "value_": 12269
+  },
+  {
+    "geoid": "51179",
+    "key": "snap-participation",
+    "date": "2026-04-15",
+    "value": 10495,
+    "value_": 10495
   },
   {
     "geoid": "51187",
@@ -1358,6 +1610,13 @@
     "value_": 4229
   },
   {
+    "geoid": "51187",
+    "key": "snap-participation",
+    "date": "2026-04-15",
+    "value": 3742,
+    "value_": 3742
+  },
+  {
     "geoid": "51510",
     "key": "snap-participation",
     "date": "2024-04-15",
@@ -1370,6 +1629,13 @@
     "date": "2025-04-15",
     "value": 11958,
     "value_": 11958
+  },
+  {
+    "geoid": "51510",
+    "key": "snap-participation",
+    "date": "2026-04-15",
+    "value": 10145,
+    "value_": 10145
   },
   {
     "geoid": "51630",
@@ -1386,6 +1652,13 @@
     "value_": 4257
   },
   {
+    "geoid": "51630",
+    "key": "snap-participation",
+    "date": "2026-04-15",
+    "value": 3694,
+    "value_": 3694
+  },
+  {
     "geoid": "99999",
     "key": "snap-participation",
     "date": "2024-04-15",
@@ -1396,8 +1669,15 @@
     "geoid": "99999",
     "key": "snap-participation",
     "date": "2025-04-15",
-    "value": 42353149,
-    "value_": 42353149
+    "value": 41948816,
+    "value_": 41948816
+  },
+  {
+    "geoid": "99999",
+    "key": "snap-participation",
+    "date": "2026-04-15",
+    "value": 37108727,
+    "value_": 37108727
   },
   {
     "geoid": "11001",
@@ -1414,6 +1694,13 @@
     "value_": 140659
   },
   {
+    "geoid": "11001",
+    "key": "snap-participation",
+    "date": "2026-05-15",
+    "value": 131847,
+    "value_": 131847
+  },
+  {
     "geoid": "24017",
     "key": "snap-participation",
     "date": "2024-05-15",
@@ -1426,6 +1713,13 @@
     "date": "2025-05-15",
     "value": 15800,
     "value_": 15800
+  },
+  {
+    "geoid": "24017",
+    "key": "snap-participation",
+    "date": "2026-05-15",
+    "value": 15348,
+    "value_": 15348
   },
   {
     "geoid": "24021",
@@ -1442,6 +1736,13 @@
     "value_": 18957
   },
   {
+    "geoid": "24021",
+    "key": "snap-participation",
+    "date": "2026-05-15",
+    "value": 18083,
+    "value_": 18083
+  },
+  {
     "geoid": "24031",
     "key": "snap-participation",
     "date": "2024-05-15",
@@ -1454,6 +1755,13 @@
     "date": "2025-05-15",
     "value": 68143,
     "value_": 68143
+  },
+  {
+    "geoid": "24031",
+    "key": "snap-participation",
+    "date": "2026-05-15",
+    "value": 65708,
+    "value_": 65708
   },
   {
     "geoid": "24033",
@@ -1470,6 +1778,13 @@
     "value_": 104184
   },
   {
+    "geoid": "24033",
+    "key": "snap-participation",
+    "date": "2026-05-15",
+    "value": 94933,
+    "value_": 94933
+  },
+  {
     "geoid": "47900",
     "key": "snap-participation",
     "date": "2024-05-15",
@@ -1482,6 +1797,13 @@
     "date": "2025-05-15",
     "value": 524529,
     "value_": 524529
+  },
+  {
+    "geoid": "47900",
+    "key": "snap-participation",
+    "date": "2026-05-15",
+    "value": 477932,
+    "value_": 477932
   },
   {
     "geoid": "51013",
@@ -1498,6 +1820,13 @@
     "value_": 9778
   },
   {
+    "geoid": "51013",
+    "key": "snap-participation",
+    "date": "2026-05-15",
+    "value": 8880,
+    "value_": 8880
+  },
+  {
     "geoid": "51043",
     "key": "snap-participation",
     "date": "2024-05-15",
@@ -1510,6 +1839,13 @@
     "date": "2025-05-15",
     "value": 900,
     "value_": 900
+  },
+  {
+    "geoid": "51043",
+    "key": "snap-participation",
+    "date": "2026-05-15",
+    "value": 630,
+    "value_": 630
   },
   {
     "geoid": "51047",
@@ -1526,6 +1862,13 @@
     "value_": 4635
   },
   {
+    "geoid": "51047",
+    "key": "snap-participation",
+    "date": "2026-05-15",
+    "value": 3908,
+    "value_": 3908
+  },
+  {
     "geoid": "51059",
     "key": "snap-participation",
     "date": "2024-05-15",
@@ -1538,6 +1881,13 @@
     "date": "2025-05-15",
     "value": 57233,
     "value_": 57233
+  },
+  {
+    "geoid": "51059",
+    "key": "snap-participation",
+    "date": "2026-05-15",
+    "value": 49274,
+    "value_": 49274
   },
   {
     "geoid": "51061",
@@ -1554,6 +1904,13 @@
     "value_": 3329
   },
   {
+    "geoid": "51061",
+    "key": "snap-participation",
+    "date": "2026-05-15",
+    "value": 2788,
+    "value_": 2788
+  },
+  {
     "geoid": "51107",
     "key": "snap-participation",
     "date": "2024-05-15",
@@ -1566,6 +1923,13 @@
     "date": "2025-05-15",
     "value": 14246,
     "value_": 14246
+  },
+  {
+    "geoid": "51107",
+    "key": "snap-participation",
+    "date": "2026-05-15",
+    "value": 12331,
+    "value_": 12331
   },
   {
     "geoid": "51153",
@@ -1582,6 +1946,13 @@
     "value_": 40042
   },
   {
+    "geoid": "51153",
+    "key": "snap-participation",
+    "date": "2026-05-15",
+    "value": 34099,
+    "value_": 34099
+  },
+  {
     "geoid": "51157",
     "key": "snap-participation",
     "date": "2024-05-15",
@@ -1594,6 +1965,13 @@
     "date": "2025-05-15",
     "value": 447,
     "value_": 447
+  },
+  {
+    "geoid": "51157",
+    "key": "snap-participation",
+    "date": "2026-05-15",
+    "value": 442,
+    "value_": 442
   },
   {
     "geoid": "51177",
@@ -1610,6 +1988,13 @@
     "value_": 13092
   },
   {
+    "geoid": "51177",
+    "key": "snap-participation",
+    "date": "2026-05-15",
+    "value": 11634,
+    "value_": 11634
+  },
+  {
     "geoid": "51179",
     "key": "snap-participation",
     "date": "2024-05-15",
@@ -1622,6 +2007,13 @@
     "date": "2025-05-15",
     "value": 12358,
     "value_": 12358
+  },
+  {
+    "geoid": "51179",
+    "key": "snap-participation",
+    "date": "2026-05-15",
+    "value": 10461,
+    "value_": 10461
   },
   {
     "geoid": "51187",
@@ -1638,6 +2030,13 @@
     "value_": 4251
   },
   {
+    "geoid": "51187",
+    "key": "snap-participation",
+    "date": "2026-05-15",
+    "value": 3672,
+    "value_": 3672
+  },
+  {
     "geoid": "51510",
     "key": "snap-participation",
     "date": "2024-05-15",
@@ -1650,6 +2049,13 @@
     "date": "2025-05-15",
     "value": 12163,
     "value_": 12163
+  },
+  {
+    "geoid": "51510",
+    "key": "snap-participation",
+    "date": "2026-05-15",
+    "value": 10088,
+    "value_": 10088
   },
   {
     "geoid": "51630",
@@ -1666,6 +2072,13 @@
     "value_": 4312
   },
   {
+    "geoid": "51630",
+    "key": "snap-participation",
+    "date": "2026-05-15",
+    "value": 3806,
+    "value_": 3806
+  },
+  {
     "geoid": "99999",
     "key": "snap-participation",
     "date": "2024-05-15",
@@ -1676,8 +2089,15 @@
     "geoid": "99999",
     "key": "snap-participation",
     "date": "2025-05-15",
-    "value": 42248301,
-    "value_": 42248301
+    "value": 41844294,
+    "value_": 41844294
+  },
+  {
+    "geoid": "99999",
+    "key": "snap-participation",
+    "date": "2026-05-15",
+    "value": 36685024,
+    "value_": 36685024
   },
   {
     "geoid": "11001",
@@ -1694,6 +2114,13 @@
     "value_": 140716
   },
   {
+    "geoid": "11001",
+    "key": "snap-participation",
+    "date": "2026-06-15",
+    "value": 131767,
+    "value_": 131767
+  },
+  {
     "geoid": "24017",
     "key": "snap-participation",
     "date": "2024-06-15",
@@ -1706,6 +2133,13 @@
     "date": "2025-06-15",
     "value": 15860,
     "value_": 15860
+  },
+  {
+    "geoid": "24017",
+    "key": "snap-participation",
+    "date": "2026-06-15",
+    "value": 15307,
+    "value_": 15307
   },
   {
     "geoid": "24021",
@@ -1722,6 +2156,13 @@
     "value_": 18895
   },
   {
+    "geoid": "24021",
+    "key": "snap-participation",
+    "date": "2026-06-15",
+    "value": 18243,
+    "value_": 18243
+  },
+  {
     "geoid": "24031",
     "key": "snap-participation",
     "date": "2024-06-15",
@@ -1734,6 +2175,13 @@
     "date": "2025-06-15",
     "value": 67733,
     "value_": 67733
+  },
+  {
+    "geoid": "24031",
+    "key": "snap-participation",
+    "date": "2026-06-15",
+    "value": 65609,
+    "value_": 65609
   },
   {
     "geoid": "24033",
@@ -1750,6 +2198,13 @@
     "value_": 103443
   },
   {
+    "geoid": "24033",
+    "key": "snap-participation",
+    "date": "2026-06-15",
+    "value": 94464,
+    "value_": 94464
+  },
+  {
     "geoid": "47900",
     "key": "snap-participation",
     "date": "2024-06-15",
@@ -1762,6 +2217,13 @@
     "date": "2025-06-15",
     "value": 523342,
     "value_": 523342
+  },
+  {
+    "geoid": "47900",
+    "key": "snap-participation",
+    "date": "2026-06-15",
+    "value": 475860,
+    "value_": 475860
   },
   {
     "geoid": "51013",
@@ -1778,6 +2240,13 @@
     "value_": 9683
   },
   {
+    "geoid": "51013",
+    "key": "snap-participation",
+    "date": "2026-06-15",
+    "value": 8848,
+    "value_": 8848
+  },
+  {
     "geoid": "51043",
     "key": "snap-participation",
     "date": "2024-06-15",
@@ -1790,6 +2259,13 @@
     "date": "2025-06-15",
     "value": 911,
     "value_": 911
+  },
+  {
+    "geoid": "51043",
+    "key": "snap-participation",
+    "date": "2026-06-15",
+    "value": 611,
+    "value_": 611
   },
   {
     "geoid": "51047",
@@ -1806,6 +2282,13 @@
     "value_": 4606
   },
   {
+    "geoid": "51047",
+    "key": "snap-participation",
+    "date": "2026-06-15",
+    "value": 3868,
+    "value_": 3868
+  },
+  {
     "geoid": "51059",
     "key": "snap-participation",
     "date": "2024-06-15",
@@ -1818,6 +2301,13 @@
     "date": "2025-06-15",
     "value": 57410,
     "value_": 57410
+  },
+  {
+    "geoid": "51059",
+    "key": "snap-participation",
+    "date": "2026-06-15",
+    "value": 48842,
+    "value_": 48842
   },
   {
     "geoid": "51061",
@@ -1834,6 +2324,13 @@
     "value_": 3278
   },
   {
+    "geoid": "51061",
+    "key": "snap-participation",
+    "date": "2026-06-15",
+    "value": 2745,
+    "value_": 2745
+  },
+  {
     "geoid": "51107",
     "key": "snap-participation",
     "date": "2024-06-15",
@@ -1846,6 +2343,13 @@
     "date": "2025-06-15",
     "value": 14157,
     "value_": 14157
+  },
+  {
+    "geoid": "51107",
+    "key": "snap-participation",
+    "date": "2026-06-15",
+    "value": 12191,
+    "value_": 12191
   },
   {
     "geoid": "51153",
@@ -1862,6 +2366,13 @@
     "value_": 40051
   },
   {
+    "geoid": "51153",
+    "key": "snap-participation",
+    "date": "2026-06-15",
+    "value": 33696,
+    "value_": 33696
+  },
+  {
     "geoid": "51157",
     "key": "snap-participation",
     "date": "2024-06-15",
@@ -1874,6 +2385,13 @@
     "date": "2025-06-15",
     "value": 439,
     "value_": 439
+  },
+  {
+    "geoid": "51157",
+    "key": "snap-participation",
+    "date": "2026-06-15",
+    "value": 432,
+    "value_": 432
   },
   {
     "geoid": "51177",
@@ -1890,6 +2408,13 @@
     "value_": 13158
   },
   {
+    "geoid": "51177",
+    "key": "snap-participation",
+    "date": "2026-06-15",
+    "value": 11654,
+    "value_": 11654
+  },
+  {
     "geoid": "51179",
     "key": "snap-participation",
     "date": "2024-06-15",
@@ -1902,6 +2427,13 @@
     "date": "2025-06-15",
     "value": 12388,
     "value_": 12388
+  },
+  {
+    "geoid": "51179",
+    "key": "snap-participation",
+    "date": "2026-06-15",
+    "value": 10322,
+    "value_": 10322
   },
   {
     "geoid": "51187",
@@ -1918,6 +2450,13 @@
     "value_": 4266
   },
   {
+    "geoid": "51187",
+    "key": "snap-participation",
+    "date": "2026-06-15",
+    "value": 3638,
+    "value_": 3638
+  },
+  {
     "geoid": "51510",
     "key": "snap-participation",
     "date": "2024-06-15",
@@ -1930,6 +2469,13 @@
     "date": "2025-06-15",
     "value": 12057,
     "value_": 12057
+  },
+  {
+    "geoid": "51510",
+    "key": "snap-participation",
+    "date": "2026-06-15",
+    "value": 9867,
+    "value_": 9867
   },
   {
     "geoid": "51630",
@@ -1946,6 +2492,13 @@
     "value_": 4291
   },
   {
+    "geoid": "51630",
+    "key": "snap-participation",
+    "date": "2026-06-15",
+    "value": 3756,
+    "value_": 3756
+  },
+  {
     "geoid": "99999",
     "key": "snap-participation",
     "date": "2024-06-15",
@@ -1956,8 +2509,15 @@
     "geoid": "99999",
     "key": "snap-participation",
     "date": "2025-06-15",
-    "value": 42084880,
-    "value_": 42084880
+    "value": 41674903,
+    "value_": 41674903
+  },
+  {
+    "geoid": "99999",
+    "key": "snap-participation",
+    "date": "2026-06-15",
+    "value": 36352716,
+    "value_": 36352716
   },
   {
     "geoid": "11001",
@@ -2236,8 +2796,8 @@
     "geoid": "99999",
     "key": "snap-participation",
     "date": "2025-07-15",
-    "value": 42012830,
-    "value_": 42012830
+    "value": 41599407,
+    "value_": 41599407
   },
   {
     "geoid": "11001",
@@ -2509,15 +3069,15 @@
     "geoid": "99999",
     "key": "snap-participation",
     "date": "2024-08-15",
-    "value": 42217757,
-    "value_": 42217757
+    "value": 42274430,
+    "value_": 42274430
   },
   {
     "geoid": "99999",
     "key": "snap-participation",
     "date": "2025-08-15",
-    "value": 41836900,
-    "value_": 41836900
+    "value": 41416423,
+    "value_": 41416423
   },
   {
     "geoid": "11001",
@@ -2789,15 +3349,15 @@
     "geoid": "99999",
     "key": "snap-participation",
     "date": "2024-09-15",
-    "value": 39282851,
-    "value_": 39282851
+    "value": 42316586,
+    "value_": 42316586
   },
   {
     "geoid": "99999",
     "key": "snap-participation",
     "date": "2025-09-15",
-    "value": 41633090,
-    "value_": 41633090
+    "value": 41208488,
+    "value_": 41208488
   },
   {
     "geoid": "11001",
@@ -3069,15 +3629,15 @@
     "geoid": "99999",
     "key": "snap-participation",
     "date": "2024-10-15",
-    "value": 40168084,
-    "value_": 40168084
+    "value": 43254113,
+    "value_": 43254113
   },
   {
     "geoid": "99999",
     "key": "snap-participation",
     "date": "2025-10-15",
-    "value": 41091800,
-    "value_": 41091800
+    "value": 40671594,
+    "value_": 40671594
   },
   {
     "geoid": "11001",
@@ -3216,8 +3776,8 @@
     "geoid": "99999",
     "key": "snap-participation",
     "date": "2024-11-15",
-    "value": 43021582,
-    "value_": 43021582
+    "value": 43014943,
+    "value_": 43014943
   },
   {
     "geoid": "11001",
@@ -3356,7 +3916,7 @@
     "geoid": "99999",
     "key": "snap-participation",
     "date": "2024-12-15",
-    "value": 42957379,
-    "value_": 42957379
+    "value": 42957629,
+    "value_": 42957629
   }
 ]

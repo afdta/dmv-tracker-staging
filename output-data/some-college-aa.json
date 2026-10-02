@@ -147,6 +147,13 @@
     "value_": 29.60944
   },
   {
+    "geoid": "24860",
+    "key": "some-college-aa",
+    "date": "2024-12-15",
+    "value": 0.28414,
+    "value_": 28.41379
+  },
+  {
     "geoid": "25540",
     "key": "some-college-aa",
     "date": "2024-12-15",
@@ -441,6 +448,13 @@
     "value_": 28.6689
   },
   {
+    "geoid": "51059",
+    "key": "some-college-aa",
+    "date": "2024-12-15",
+    "value": 0.16215,
+    "value_": 16.21518
+  },
+  {
     "geoid": "51061",
     "key": "some-college-aa",
     "date": "2024-12-15",
@@ -497,13 +511,6 @@
     "value_": 16.16628
   },
   {
-    "geoid": "51600",
-    "key": "some-college-aa",
-    "date": "2024-12-15",
-    "value": 0.16215,
-    "value_": 16.21518
-  },
-  {
     "geoid": "51630",
     "key": "some-college-aa",
     "date": "2024-12-15",
@@ -521,8 +528,8 @@
     "geoid": "99997",
     "key": "some-college-aa",
     "date": "2024-12-15",
-    "value": 0.26057,
-    "value_": 26.0573
+    "value": 0.26069,
+    "value_": 26.06899
   },
   {
     "geoid": "99999",
