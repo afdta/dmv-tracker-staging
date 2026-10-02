@@ -2593,8 +2593,8 @@
     "geoid": "40900",
     "key": "crime-rate-total",
     "date": "2021-01-15",
-    "value": -275.53791,
-    "value_": -275.53791
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "40900",
@@ -2873,8 +2873,8 @@
     "geoid": "41860",
     "key": "crime-rate-total",
     "date": "2021-01-15",
-    "value": -34.14836,
-    "value_": -34.14836
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "41860",
@@ -2929,8 +2929,8 @@
     "geoid": "41940",
     "key": "crime-rate-total",
     "date": "2021-01-15",
-    "value": -33.62311,
-    "value_": -33.62311
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "41940",
@@ -8977,8 +8977,8 @@
     "geoid": "24017",
     "key": "crime-rate-total",
     "date": "2021-03-15",
-    "value": null,
-    "value_": null
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "24017",
@@ -17531,15 +17531,15 @@
     "geoid": "27260",
     "key": "crime-rate-total",
     "date": "2019-05-15",
-    "value": -5.49902,
-    "value_": -5.49902
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "27260",
     "key": "crime-rate-total",
     "date": "2020-05-15",
-    "value": -8.9767,
-    "value_": -8.9767
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "27260",
@@ -21073,8 +21073,8 @@
     "geoid": "24017",
     "key": "crime-rate-total",
     "date": "2021-06-15",
-    "value": null,
-    "value_": null
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "24017",
@@ -21563,8 +21563,8 @@
     "geoid": "27260",
     "key": "crime-rate-total",
     "date": "2019-06-15",
-    "value": -1.04226,
-    "value_": -1.04226
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "27260",
@@ -24209,8 +24209,8 @@
     "geoid": "11001",
     "key": "crime-rate-total",
     "date": "2021-07-15",
-    "value": -15.73468,
-    "value_": -15.73468
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "11001",
@@ -25105,8 +25105,8 @@
     "geoid": "24017",
     "key": "crime-rate-total",
     "date": "2021-07-15",
-    "value": null,
-    "value_": null
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "24017",
@@ -25161,8 +25161,8 @@
     "geoid": "24021",
     "key": "crime-rate-total",
     "date": "2021-07-15",
-    "value": null,
-    "value_": null
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "24021",
@@ -25252,8 +25252,8 @@
     "geoid": "24031",
     "key": "crime-rate-total",
     "date": "2026-07-15",
-    "value": -4.38579,
-    "value_": -4.38579
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "24033",
@@ -25588,22 +25588,22 @@
     "geoid": "26900",
     "key": "crime-rate-total",
     "date": "2026-07-15",
-    "value": -13.10291,
-    "value_": -13.10291
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "27260",
     "key": "crime-rate-total",
     "date": "2019-07-15",
-    "value": -17.18997,
-    "value_": -17.18997
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "27260",
     "key": "crime-rate-total",
     "date": "2020-07-15",
-    "value": -18.98958,
-    "value_": -18.98958
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "27260",
@@ -28273,13 +28273,6 @@
     "value_": 317.82284
   },
   {
-    "geoid": "11001",
-    "key": "crime-rate-total",
-    "date": "2026-08-15",
-    "value": 283.29587,
-    "value_": 283.29587
-  },
-  {
     "geoid": "12060",
     "key": "crime-rate-total",
     "date": "2019-08-15",
@@ -28556,8 +28549,8 @@
     "geoid": "14460",
     "key": "crime-rate-total",
     "date": "2026-08-15",
-    "value": -186.36669,
-    "value_": -186.36669
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "15380",
@@ -29137,8 +29130,8 @@
     "geoid": "24017",
     "key": "crime-rate-total",
     "date": "2021-08-15",
-    "value": null,
-    "value_": null
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "24017",
@@ -29169,13 +29162,6 @@
     "value_": 108.29474
   },
   {
-    "geoid": "24017",
-    "key": "crime-rate-total",
-    "date": "2026-08-15",
-    "value": -0.47558,
-    "value_": -0.47558
-  },
-  {
     "geoid": "24021",
     "key": "crime-rate-total",
     "date": "2019-08-15",
@@ -29193,8 +29179,8 @@
     "geoid": "24021",
     "key": "crime-rate-total",
     "date": "2021-08-15",
-    "value": null,
-    "value_": null
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "24021",
@@ -29223,13 +29209,6 @@
     "date": "2025-08-15",
     "value": 110.79449,
     "value_": 110.79449
-  },
-  {
-    "geoid": "24021",
-    "key": "crime-rate-total",
-    "date": "2026-08-15",
-    "value": 50.61761,
-    "value_": 50.61761
   },
   {
     "geoid": "24031",
@@ -29281,13 +29260,6 @@
     "value_": 147.82474
   },
   {
-    "geoid": "24031",
-    "key": "crime-rate-total",
-    "date": "2026-08-15",
-    "value": -526.52983,
-    "value_": -526.52983
-  },
-  {
     "geoid": "24033",
     "key": "crime-rate-total",
     "date": "2019-08-15",
@@ -29335,13 +29307,6 @@
     "date": "2025-08-15",
     "value": 214.10518,
     "value_": 214.10518
-  },
-  {
-    "geoid": "24033",
-    "key": "crime-rate-total",
-    "date": "2026-08-15",
-    "value": -50.92435,
-    "value_": -50.92435
   },
   {
     "geoid": "24340",
@@ -29627,15 +29592,15 @@
     "geoid": "27260",
     "key": "crime-rate-total",
     "date": "2019-08-15",
-    "value": -12.69471,
-    "value_": -12.69471
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "27260",
     "key": "crime-rate-total",
     "date": "2020-08-15",
-    "value": -11.89707,
-    "value_": -11.89707
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "27260",
@@ -29900,8 +29865,8 @@
     "geoid": "31140",
     "key": "crime-rate-total",
     "date": "2026-08-15",
-    "value": -34.01089,
-    "value_": -34.01089
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "32820",
@@ -30460,8 +30425,8 @@
     "geoid": "38300",
     "key": "crime-rate-total",
     "date": "2026-08-15",
-    "value": -13.35031,
-    "value_": -13.35031
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "38900",
@@ -30684,8 +30649,8 @@
     "geoid": "40060",
     "key": "crime-rate-total",
     "date": "2026-08-15",
-    "value": -173.29974,
-    "value_": -173.29974
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "40140",
@@ -30796,8 +30761,8 @@
     "geoid": "40380",
     "key": "crime-rate-total",
     "date": "2026-08-15",
-    "value": null,
-    "value_": null
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "40900",
@@ -30964,8 +30929,8 @@
     "geoid": "41620",
     "key": "crime-rate-total",
     "date": "2026-08-15",
-    "value": -1019.41195,
-    "value_": -1019.41195
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "41700",
@@ -31244,8 +31209,8 @@
     "geoid": "42660",
     "key": "crime-rate-total",
     "date": "2026-08-15",
-    "value": -52.05024,
-    "value_": -52.05024
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "46060",
@@ -31356,8 +31321,8 @@
     "geoid": "46140",
     "key": "crime-rate-total",
     "date": "2026-08-15",
-    "value": -9.62129,
-    "value_": -9.62129
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "47260",
@@ -31521,13 +31486,6 @@
     "value_": 193.5835
   },
   {
-    "geoid": "51013",
-    "key": "crime-rate-total",
-    "date": "2026-08-15",
-    "value": null,
-    "value_": null
-  },
-  {
     "geoid": "51047",
     "key": "crime-rate-total",
     "date": "2019-08-15",
@@ -31575,13 +31533,6 @@
     "date": "2025-08-15",
     "value": 105.15614,
     "value_": 105.15614
-  },
-  {
-    "geoid": "51047",
-    "key": "crime-rate-total",
-    "date": "2026-08-15",
-    "value": 0.52114,
-    "value_": 0.52114
   },
   {
     "geoid": "51059",
@@ -31633,13 +31584,6 @@
     "value_": 87.7408
   },
   {
-    "geoid": "51059",
-    "key": "crime-rate-total",
-    "date": "2026-08-15",
-    "value": 4.13874,
-    "value_": 4.13874
-  },
-  {
     "geoid": "51061",
     "key": "crime-rate-total",
     "date": "2019-08-15",
@@ -31687,13 +31631,6 @@
     "date": "2025-08-15",
     "value": 33.51124,
     "value_": 33.51124
-  },
-  {
-    "geoid": "51061",
-    "key": "crime-rate-total",
-    "date": "2026-08-15",
-    "value": null,
-    "value_": null
   },
   {
     "geoid": "51107",
@@ -31745,13 +31682,6 @@
     "value_": 59.80804
   },
   {
-    "geoid": "51107",
-    "key": "crime-rate-total",
-    "date": "2026-08-15",
-    "value": null,
-    "value_": null
-  },
-  {
     "geoid": "51153",
     "key": "crime-rate-total",
     "date": "2019-08-15",
@@ -31799,13 +31729,6 @@
     "date": "2025-08-15",
     "value": 105.82101,
     "value_": 105.82101
-  },
-  {
-    "geoid": "51153",
-    "key": "crime-rate-total",
-    "date": "2026-08-15",
-    "value": null,
-    "value_": null
   },
   {
     "geoid": "51177",
@@ -31857,13 +31780,6 @@
     "value_": 65.15911
   },
   {
-    "geoid": "51177",
-    "key": "crime-rate-total",
-    "date": "2026-08-15",
-    "value": null,
-    "value_": null
-  },
-  {
     "geoid": "51179",
     "key": "crime-rate-total",
     "date": "2019-08-15",
@@ -31911,13 +31827,6 @@
     "date": "2025-08-15",
     "value": 67.30299,
     "value_": 67.30299
-  },
-  {
-    "geoid": "51179",
-    "key": "crime-rate-total",
-    "date": "2026-08-15",
-    "value": 2.19954,
-    "value_": 2.19954
   },
   {
     "geoid": "51187",
@@ -31969,13 +31878,6 @@
     "value_": 96.50383
   },
   {
-    "geoid": "51187",
-    "key": "crime-rate-total",
-    "date": "2026-08-15",
-    "value": null,
-    "value_": null
-  },
-  {
     "geoid": "51510",
     "key": "crime-rate-total",
     "date": "2019-08-15",
@@ -32023,13 +31925,6 @@
     "date": "2025-08-15",
     "value": 136.0225,
     "value_": 136.0225
-  },
-  {
-    "geoid": "51510",
-    "key": "crime-rate-total",
-    "date": "2026-08-15",
-    "value": null,
-    "value_": null
   },
   {
     "geoid": "51630",
@@ -32081,13 +31976,6 @@
     "value_": 267.36288
   },
   {
-    "geoid": "51630",
-    "key": "crime-rate-total",
-    "date": "2026-08-15",
-    "value": null,
-    "value_": null
-  },
-  {
     "geoid": "54037",
     "key": "crime-rate-total",
     "date": "2019-08-15",
@@ -32135,13 +32023,6 @@
     "date": "2025-08-15",
     "value": 59.20316,
     "value_": 59.20316
-  },
-  {
-    "geoid": "54037",
-    "key": "crime-rate-total",
-    "date": "2026-08-15",
-    "value": null,
-    "value_": null
   },
   {
     "geoid": "99997",
@@ -32303,13 +32184,6 @@
     "date": "2025-09-15",
     "value": 286.96866,
     "value_": 286.96866
-  },
-  {
-    "geoid": "11001",
-    "key": "crime-rate-total",
-    "date": "2026-09-15",
-    "value": -19.68868,
-    "value_": -19.68868
   },
   {
     "geoid": "12060",
@@ -32476,8 +32350,8 @@
     "geoid": "12580",
     "key": "crime-rate-total",
     "date": "2026-09-15",
-    "value": -25.39443,
-    "value_": -25.39443
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "13820",
@@ -32588,8 +32462,8 @@
     "geoid": "14460",
     "key": "crime-rate-total",
     "date": "2026-09-15",
-    "value": null,
-    "value_": null
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "15380",
@@ -32924,8 +32798,8 @@
     "geoid": "18140",
     "key": "crime-rate-total",
     "date": "2026-09-15",
-    "value": -20.07668,
-    "value_": -20.07668
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "19100",
@@ -33036,8 +32910,8 @@
     "geoid": "19740",
     "key": "crime-rate-total",
     "date": "2026-09-15",
-    "value": -3.80296,
-    "value_": -3.80296
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "19820",
@@ -33169,8 +33043,8 @@
     "geoid": "24017",
     "key": "crime-rate-total",
     "date": "2021-09-15",
-    "value": null,
-    "value_": null
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "24017",
@@ -33199,13 +33073,6 @@
     "date": "2025-09-15",
     "value": 87.68339,
     "value_": 87.68339
-  },
-  {
-    "geoid": "24017",
-    "key": "crime-rate-total",
-    "date": "2026-09-15",
-    "value": null,
-    "value_": null
   },
   {
     "geoid": "24021",
@@ -33257,13 +33124,6 @@
     "value_": 95.57814
   },
   {
-    "geoid": "24021",
-    "key": "crime-rate-total",
-    "date": "2026-09-15",
-    "value": null,
-    "value_": null
-  },
-  {
     "geoid": "24031",
     "key": "crime-rate-total",
     "date": "2019-09-15",
@@ -33313,13 +33173,6 @@
     "value_": 139.15311
   },
   {
-    "geoid": "24031",
-    "key": "crime-rate-total",
-    "date": "2026-09-15",
-    "value": null,
-    "value_": null
-  },
-  {
     "geoid": "24033",
     "key": "crime-rate-total",
     "date": "2019-09-15",
@@ -33367,13 +33220,6 @@
     "date": "2025-09-15",
     "value": 197.61791,
     "value_": 197.61791
-  },
-  {
-    "geoid": "24033",
-    "key": "crime-rate-total",
-    "date": "2026-09-15",
-    "value": null,
-    "value_": null
   },
   {
     "geoid": "24340",
@@ -33540,8 +33386,8 @@
     "geoid": "25540",
     "key": "crime-rate-total",
     "date": "2026-09-15",
-    "value": -133.33744,
-    "value_": -133.33744
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "26420",
@@ -33659,15 +33505,15 @@
     "geoid": "27260",
     "key": "crime-rate-total",
     "date": "2019-09-15",
-    "value": -12.19768,
-    "value_": -12.19768
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "27260",
     "key": "crime-rate-total",
     "date": "2020-09-15",
-    "value": -11.47949,
-    "value_": -11.47949
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "27260",
@@ -33708,8 +33554,8 @@
     "geoid": "27260",
     "key": "crime-rate-total",
     "date": "2026-09-15",
-    "value": -16.39999,
-    "value_": -16.39999
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "28140",
@@ -33932,8 +33778,8 @@
     "geoid": "31140",
     "key": "crime-rate-total",
     "date": "2026-09-15",
-    "value": null,
-    "value_": null
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "32820",
@@ -34268,8 +34114,8 @@
     "geoid": "36420",
     "key": "crime-rate-total",
     "date": "2026-09-15",
-    "value": null,
-    "value_": null
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "36540",
@@ -34380,8 +34226,8 @@
     "geoid": "37980",
     "key": "crime-rate-total",
     "date": "2026-09-15",
-    "value": -242.78552,
-    "value_": -242.78552
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "38060",
@@ -34492,8 +34338,8 @@
     "geoid": "38300",
     "key": "crime-rate-total",
     "date": "2026-09-15",
-    "value": null,
-    "value_": null
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "38900",
@@ -34716,8 +34562,8 @@
     "geoid": "40060",
     "key": "crime-rate-total",
     "date": "2026-09-15",
-    "value": null,
-    "value_": null
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "40140",
@@ -34772,8 +34618,8 @@
     "geoid": "40140",
     "key": "crime-rate-total",
     "date": "2026-09-15",
-    "value": -7.3768,
-    "value_": -7.3768
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "40380",
@@ -34828,8 +34674,8 @@
     "geoid": "40380",
     "key": "crime-rate-total",
     "date": "2026-09-15",
-    "value": null,
-    "value_": null
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "40900",
@@ -34996,8 +34842,8 @@
     "geoid": "41620",
     "key": "crime-rate-total",
     "date": "2026-09-15",
-    "value": null,
-    "value_": null
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "41700",
@@ -35276,8 +35122,8 @@
     "geoid": "42660",
     "key": "crime-rate-total",
     "date": "2026-09-15",
-    "value": null,
-    "value_": null
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "46060",
@@ -35553,13 +35399,6 @@
     "value_": 178.70345
   },
   {
-    "geoid": "51013",
-    "key": "crime-rate-total",
-    "date": "2026-09-15",
-    "value": null,
-    "value_": null
-  },
-  {
     "geoid": "51047",
     "key": "crime-rate-total",
     "date": "2019-09-15",
@@ -35607,13 +35446,6 @@
     "date": "2025-09-15",
     "value": 83.83125,
     "value_": 83.83125
-  },
-  {
-    "geoid": "51047",
-    "key": "crime-rate-total",
-    "date": "2026-09-15",
-    "value": null,
-    "value_": null
   },
   {
     "geoid": "51059",
@@ -35665,13 +35497,6 @@
     "value_": 128.48599
   },
   {
-    "geoid": "51059",
-    "key": "crime-rate-total",
-    "date": "2026-09-15",
-    "value": null,
-    "value_": null
-  },
-  {
     "geoid": "51061",
     "key": "crime-rate-total",
     "date": "2019-09-15",
@@ -35719,13 +35544,6 @@
     "date": "2025-09-15",
     "value": 35.63987,
     "value_": 35.63987
-  },
-  {
-    "geoid": "51061",
-    "key": "crime-rate-total",
-    "date": "2026-09-15",
-    "value": null,
-    "value_": null
   },
   {
     "geoid": "51107",
@@ -35777,13 +35595,6 @@
     "value_": 64.39366
   },
   {
-    "geoid": "51107",
-    "key": "crime-rate-total",
-    "date": "2026-09-15",
-    "value": null,
-    "value_": null
-  },
-  {
     "geoid": "51153",
     "key": "crime-rate-total",
     "date": "2019-09-15",
@@ -35831,13 +35642,6 @@
     "date": "2025-09-15",
     "value": 115.21242,
     "value_": 115.21242
-  },
-  {
-    "geoid": "51153",
-    "key": "crime-rate-total",
-    "date": "2026-09-15",
-    "value": null,
-    "value_": null
   },
   {
     "geoid": "51177",
@@ -35889,13 +35693,6 @@
     "value_": 66.12356
   },
   {
-    "geoid": "51177",
-    "key": "crime-rate-total",
-    "date": "2026-09-15",
-    "value": null,
-    "value_": null
-  },
-  {
     "geoid": "51179",
     "key": "crime-rate-total",
     "date": "2019-09-15",
@@ -35943,13 +35740,6 @@
     "date": "2025-09-15",
     "value": 64.7497,
     "value_": 64.7497
-  },
-  {
-    "geoid": "51179",
-    "key": "crime-rate-total",
-    "date": "2026-09-15",
-    "value": null,
-    "value_": null
   },
   {
     "geoid": "51187",
@@ -36001,13 +35791,6 @@
     "value_": 68.87178
   },
   {
-    "geoid": "51187",
-    "key": "crime-rate-total",
-    "date": "2026-09-15",
-    "value": null,
-    "value_": null
-  },
-  {
     "geoid": "51510",
     "key": "crime-rate-total",
     "date": "2019-09-15",
@@ -36055,13 +35838,6 @@
     "date": "2025-09-15",
     "value": 136.04287,
     "value_": 136.04287
-  },
-  {
-    "geoid": "51510",
-    "key": "crime-rate-total",
-    "date": "2026-09-15",
-    "value": null,
-    "value_": null
   },
   {
     "geoid": "51630",
@@ -36113,13 +35889,6 @@
     "value_": 249.0585
   },
   {
-    "geoid": "51630",
-    "key": "crime-rate-total",
-    "date": "2026-09-15",
-    "value": null,
-    "value_": null
-  },
-  {
     "geoid": "54037",
     "key": "crime-rate-total",
     "date": "2019-09-15",
@@ -36167,13 +35936,6 @@
     "date": "2025-09-15",
     "value": 56.1472,
     "value_": 56.1472
-  },
-  {
-    "geoid": "54037",
-    "key": "crime-rate-total",
-    "date": "2026-09-15",
-    "value": null,
-    "value_": null
   },
   {
     "geoid": "99997",
@@ -37089,8 +36851,8 @@
     "geoid": "24017",
     "key": "crime-rate-total",
     "date": "2021-10-15",
-    "value": null,
-    "value_": null
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "24017",
@@ -37138,8 +36900,8 @@
     "geoid": "24021",
     "key": "crime-rate-total",
     "date": "2021-10-15",
-    "value": null,
-    "value_": null
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "24021",
@@ -37516,15 +37278,15 @@
     "geoid": "27260",
     "key": "crime-rate-total",
     "date": "2019-10-15",
-    "value": -22.53089,
-    "value_": -22.53089
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "27260",
     "key": "crime-rate-total",
     "date": "2020-10-15",
-    "value": -24.58359,
-    "value_": -24.58359
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "27260",
@@ -44194,8 +43956,8 @@
     "geoid": "24021",
     "key": "crime-rate-total",
     "date": "2021-12-15",
-    "value": null,
-    "value_": null
+    "value": 0,
+    "value_": 0
   },
   {
     "geoid": "24021",
