@@ -711,23 +711,6 @@
       "rev": 0
     },
     {
-      "topic": "household-wellbeing",
-      "subtopic": "medicaid-enrollment",
-      "def": "Total number of individuals enrolled in state-offered Medicaid and Children’s Health Insurance Program (CHIP) services",
-      "source": "State agency reporting",
-      "name": "Medicaid/CHIP enrollment",
-      "key": "medicaid-enrollment",
-      "interval": "M",
-      "format": "123k",
-      "format_change": "pct",
-      "note": "Level",
-      "last_updated": "DMV-2026-10-05",
-      "start": "2024-11-15",
-      "end": "2025-11-15",
-      "map": 1,
-      "rev": 1
-    },
-    {
       "topic": "overall-economy",
       "subtopic": "federal-obligations",
       "def": "Legally-binding funds committed to recipients through federally-awarded grants, contracts, loans, and cooperative agreements",
@@ -794,6 +777,23 @@
       "end": "2025-12-15",
       "map": 1,
       "rev": 0
+    },
+    {
+      "topic": "household-wellbeing",
+      "subtopic": "medicaid-enrollment",
+      "def": "Total number of individuals enrolled in state-offered Medicaid and Children’s Health Insurance Program (CHIP) services",
+      "source": "State agency reporting",
+      "name": "Medicaid/CHIP enrollment",
+      "key": "medicaid-enrollment",
+      "interval": "M",
+      "format": "123k",
+      "format_change": "pct",
+      "note": "Level",
+      "last_updated": "DMV-2026-10-05",
+      "start": "2024-12-15",
+      "end": "2025-12-15",
+      "map": 1,
+      "rev": 1
     },
     {
       "topic": "real-estate",
