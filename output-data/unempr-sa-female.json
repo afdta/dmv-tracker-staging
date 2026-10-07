@@ -2,13 +2,6 @@
   {
     "geoid": "11001",
     "key": "unempr-sa-female",
-    "date": "2011-01-15",
-    "value": 0.10017,
-    "value_": 10.01713
-  },
-  {
-    "geoid": "11001",
-    "key": "unempr-sa-female",
     "date": "2012-01-15",
     "value": 0.09804,
     "value_": 9.8043
@@ -110,13 +103,6 @@
     "date": "2026-01-15",
     "value": 0.07184,
     "value_": 7.18404
-  },
-  {
-    "geoid": "12060",
-    "key": "unempr-sa-female",
-    "date": "2011-01-15",
-    "value": 0.09762,
-    "value_": 9.7621
   },
   {
     "geoid": "12060",
@@ -226,13 +212,6 @@
   {
     "geoid": "12420",
     "key": "unempr-sa-female",
-    "date": "2011-01-15",
-    "value": 0.06743,
-    "value_": 6.74283
-  },
-  {
-    "geoid": "12420",
-    "key": "unempr-sa-female",
     "date": "2012-01-15",
     "value": 0.06215,
     "value_": 6.21514
@@ -334,13 +313,6 @@
     "date": "2026-01-15",
     "value": 0.03427,
     "value_": 3.42714
-  },
-  {
-    "geoid": "12580",
-    "key": "unempr-sa-female",
-    "date": "2011-01-15",
-    "value": 0.07179,
-    "value_": 7.17888
   },
   {
     "geoid": "12580",
@@ -450,13 +422,6 @@
   {
     "geoid": "13820",
     "key": "unempr-sa-female",
-    "date": "2011-01-15",
-    "value": 0.09052,
-    "value_": 9.05205
-  },
-  {
-    "geoid": "13820",
-    "key": "unempr-sa-female",
     "date": "2012-01-15",
     "value": 0.0766,
     "value_": 7.66045
@@ -558,13 +523,6 @@
     "date": "2026-01-15",
     "value": 0.02895,
     "value_": 2.89474
-  },
-  {
-    "geoid": "14460",
-    "key": "unempr-sa-female",
-    "date": "2011-01-15",
-    "value": 0.05795,
-    "value_": 5.79462
   },
   {
     "geoid": "14460",
@@ -674,13 +632,6 @@
   {
     "geoid": "15380",
     "key": "unempr-sa-female",
-    "date": "2011-01-15",
-    "value": 0.07542,
-    "value_": 7.54247
-  },
-  {
-    "geoid": "15380",
-    "key": "unempr-sa-female",
     "date": "2012-01-15",
     "value": 0.07493,
     "value_": 7.49338
@@ -782,13 +733,6 @@
     "date": "2026-01-15",
     "value": 0.03563,
     "value_": 3.5628
-  },
-  {
-    "geoid": "16740",
-    "key": "unempr-sa-female",
-    "date": "2011-01-15",
-    "value": 0.10351,
-    "value_": 10.35134
   },
   {
     "geoid": "16740",
@@ -898,13 +842,6 @@
   {
     "geoid": "16980",
     "key": "unempr-sa-female",
-    "date": "2011-01-15",
-    "value": 0.08357,
-    "value_": 8.35682
-  },
-  {
-    "geoid": "16980",
-    "key": "unempr-sa-female",
     "date": "2012-01-15",
     "value": 0.08099,
     "value_": 8.09946
@@ -1006,13 +943,6 @@
     "date": "2026-01-15",
     "value": 0.04183,
     "value_": 4.18308
-  },
-  {
-    "geoid": "17140",
-    "key": "unempr-sa-female",
-    "date": "2011-01-15",
-    "value": 0.07484,
-    "value_": 7.4845
   },
   {
     "geoid": "17140",
@@ -1122,13 +1052,6 @@
   {
     "geoid": "17410",
     "key": "unempr-sa-female",
-    "date": "2011-01-15",
-    "value": 0.06252,
-    "value_": 6.25228
-  },
-  {
-    "geoid": "17410",
-    "key": "unempr-sa-female",
     "date": "2012-01-15",
     "value": 0.05762,
     "value_": 5.76164
@@ -1230,13 +1153,6 @@
     "date": "2026-01-15",
     "value": 0.03204,
     "value_": 3.20397
-  },
-  {
-    "geoid": "18140",
-    "key": "unempr-sa-female",
-    "date": "2011-01-15",
-    "value": 0.06652,
-    "value_": 6.6516
   },
   {
     "geoid": "18140",
@@ -1346,13 +1262,6 @@
   {
     "geoid": "19100",
     "key": "unempr-sa-female",
-    "date": "2011-01-15",
-    "value": 0.07791,
-    "value_": 7.7909
-  },
-  {
-    "geoid": "19100",
-    "key": "unempr-sa-female",
     "date": "2012-01-15",
     "value": 0.0705,
     "value_": 7.05025
@@ -1454,13 +1363,6 @@
     "date": "2026-01-15",
     "value": 0.03888,
     "value_": 3.88773
-  },
-  {
-    "geoid": "19740",
-    "key": "unempr-sa-female",
-    "date": "2011-01-15",
-    "value": 0.08084,
-    "value_": 8.08367
   },
   {
     "geoid": "19740",
@@ -1570,13 +1472,6 @@
   {
     "geoid": "19820",
     "key": "unempr-sa-female",
-    "date": "2011-01-15",
-    "value": 0.10444,
-    "value_": 10.44396
-  },
-  {
-    "geoid": "19820",
-    "key": "unempr-sa-female",
     "date": "2012-01-15",
     "value": 0.08796,
     "value_": 8.79625
@@ -1678,13 +1573,6 @@
     "date": "2026-01-15",
     "value": 0.0428,
     "value_": 4.28027
-  },
-  {
-    "geoid": "23420",
-    "key": "unempr-sa-female",
-    "date": "2011-01-15",
-    "value": 0.15184,
-    "value_": 15.18429
   },
   {
     "geoid": "23420",
@@ -1794,13 +1682,6 @@
   {
     "geoid": "24017",
     "key": "unempr-sa-female",
-    "date": "2011-01-15",
-    "value": 0.06124,
-    "value_": 6.12394
-  },
-  {
-    "geoid": "24017",
-    "key": "unempr-sa-female",
     "date": "2012-01-15",
     "value": 0.05761,
     "value_": 5.76056
@@ -1902,13 +1783,6 @@
     "date": "2026-01-15",
     "value": 0.04879,
     "value_": 4.87914
-  },
-  {
-    "geoid": "24021",
-    "key": "unempr-sa-female",
-    "date": "2011-01-15",
-    "value": 0.05985,
-    "value_": 5.98505
   },
   {
     "geoid": "24021",
@@ -2018,13 +1892,6 @@
   {
     "geoid": "24031",
     "key": "unempr-sa-female",
-    "date": "2011-01-15",
-    "value": 0.04878,
-    "value_": 4.87809
-  },
-  {
-    "geoid": "24031",
-    "key": "unempr-sa-female",
     "date": "2012-01-15",
     "value": 0.0448,
     "value_": 4.48037
@@ -2126,13 +1993,6 @@
     "date": "2026-01-15",
     "value": 0.04248,
     "value_": 4.24841
-  },
-  {
-    "geoid": "24033",
-    "key": "unempr-sa-female",
-    "date": "2011-01-15",
-    "value": 0.06578,
-    "value_": 6.57833
   },
   {
     "geoid": "24033",
@@ -2242,13 +2102,6 @@
   {
     "geoid": "24340",
     "key": "unempr-sa-female",
-    "date": "2011-01-15",
-    "value": 0.07841,
-    "value_": 7.84096
-  },
-  {
-    "geoid": "24340",
-    "key": "unempr-sa-female",
     "date": "2012-01-15",
     "value": 0.06435,
     "value_": 6.43542
@@ -2350,13 +2203,6 @@
     "date": "2026-01-15",
     "value": 0.03704,
     "value_": 3.70417
-  },
-  {
-    "geoid": "24860",
-    "key": "unempr-sa-female",
-    "date": "2011-01-15",
-    "value": 0.09604,
-    "value_": 9.60376
   },
   {
     "geoid": "24860",
@@ -2466,13 +2312,6 @@
   {
     "geoid": "25540",
     "key": "unempr-sa-female",
-    "date": "2011-01-15",
-    "value": 0.08108,
-    "value_": 8.10803
-  },
-  {
-    "geoid": "25540",
-    "key": "unempr-sa-female",
     "date": "2012-01-15",
     "value": 0.07277,
     "value_": 7.27677
@@ -2574,13 +2413,6 @@
     "date": "2026-01-15",
     "value": 0.03864,
     "value_": 3.86351
-  },
-  {
-    "geoid": "26420",
-    "key": "unempr-sa-female",
-    "date": "2011-01-15",
-    "value": 0.0805,
-    "value_": 8.04972
   },
   {
     "geoid": "26420",
@@ -2690,13 +2522,6 @@
   {
     "geoid": "26900",
     "key": "unempr-sa-female",
-    "date": "2011-01-15",
-    "value": 0.07445,
-    "value_": 7.4448
-  },
-  {
-    "geoid": "26900",
-    "key": "unempr-sa-female",
     "date": "2012-01-15",
     "value": 0.07291,
     "value_": 7.29123
@@ -2798,13 +2623,6 @@
     "date": "2026-01-15",
     "value": 0.02817,
     "value_": 2.81689
-  },
-  {
-    "geoid": "27260",
-    "key": "unempr-sa-female",
-    "date": "2011-01-15",
-    "value": 0.09604,
-    "value_": 9.6043
   },
   {
     "geoid": "27260",
@@ -2914,13 +2732,6 @@
   {
     "geoid": "28140",
     "key": "unempr-sa-female",
-    "date": "2011-01-15",
-    "value": 0.07799,
-    "value_": 7.7991
-  },
-  {
-    "geoid": "28140",
-    "key": "unempr-sa-female",
     "date": "2012-01-15",
     "value": 0.06389,
     "value_": 6.38893
@@ -3022,13 +2833,6 @@
     "date": "2026-01-15",
     "value": 0.03715,
     "value_": 3.71503
-  },
-  {
-    "geoid": "29820",
-    "key": "unempr-sa-female",
-    "date": "2011-01-15",
-    "value": 0.11782,
-    "value_": 11.78214
   },
   {
     "geoid": "29820",
@@ -3138,13 +2942,6 @@
   {
     "geoid": "31080",
     "key": "unempr-sa-female",
-    "date": "2011-01-15",
-    "value": 0.10653,
-    "value_": 10.65338
-  },
-  {
-    "geoid": "31080",
-    "key": "unempr-sa-female",
     "date": "2012-01-15",
     "value": 0.10239,
     "value_": 10.23865
@@ -3246,13 +3043,6 @@
     "date": "2026-01-15",
     "value": 0.04721,
     "value_": 4.72061
-  },
-  {
-    "geoid": "31140",
-    "key": "unempr-sa-female",
-    "date": "2011-01-15",
-    "value": 0.07674,
-    "value_": 7.67437
   },
   {
     "geoid": "31140",
@@ -3362,13 +3152,6 @@
   {
     "geoid": "32820",
     "key": "unempr-sa-female",
-    "date": "2011-01-15",
-    "value": 0.09271,
-    "value_": 9.27118
-  },
-  {
-    "geoid": "32820",
-    "key": "unempr-sa-female",
     "date": "2012-01-15",
     "value": 0.08935,
     "value_": 8.93479
@@ -3470,13 +3253,6 @@
     "date": "2026-01-15",
     "value": 0.04753,
     "value_": 4.75317
-  },
-  {
-    "geoid": "33100",
-    "key": "unempr-sa-female",
-    "date": "2011-01-15",
-    "value": 0.10404,
-    "value_": 10.40446
   },
   {
     "geoid": "33100",
@@ -3586,13 +3362,6 @@
   {
     "geoid": "33340",
     "key": "unempr-sa-female",
-    "date": "2011-01-15",
-    "value": 0.07253,
-    "value_": 7.25315
-  },
-  {
-    "geoid": "33340",
-    "key": "unempr-sa-female",
     "date": "2012-01-15",
     "value": 0.06676,
     "value_": 6.67607
@@ -3694,13 +3463,6 @@
     "date": "2026-01-15",
     "value": 0.03293,
     "value_": 3.29258
-  },
-  {
-    "geoid": "33460",
-    "key": "unempr-sa-female",
-    "date": "2011-01-15",
-    "value": 0.05682,
-    "value_": 5.68214
   },
   {
     "geoid": "33460",
@@ -3810,13 +3572,6 @@
   {
     "geoid": "34980",
     "key": "unempr-sa-female",
-    "date": "2011-01-15",
-    "value": 0.08174,
-    "value_": 8.17404
-  },
-  {
-    "geoid": "34980",
-    "key": "unempr-sa-female",
     "date": "2012-01-15",
     "value": 0.0718,
     "value_": 7.18043
@@ -3918,13 +3673,6 @@
     "date": "2026-01-15",
     "value": 0.03294,
     "value_": 3.2936
-  },
-  {
-    "geoid": "35620",
-    "key": "unempr-sa-female",
-    "date": "2011-01-15",
-    "value": 0.0791,
-    "value_": 7.90986
   },
   {
     "geoid": "35620",
@@ -4034,13 +3782,6 @@
   {
     "geoid": "36420",
     "key": "unempr-sa-female",
-    "date": "2011-01-15",
-    "value": 0.05032,
-    "value_": 5.03224
-  },
-  {
-    "geoid": "36420",
-    "key": "unempr-sa-female",
     "date": "2012-01-15",
     "value": 0.04659,
     "value_": 4.65949
@@ -4142,13 +3883,6 @@
     "date": "2026-01-15",
     "value": 0.03711,
     "value_": 3.7109
-  },
-  {
-    "geoid": "36540",
-    "key": "unempr-sa-female",
-    "date": "2011-01-15",
-    "value": 0.04773,
-    "value_": 4.77253
   },
   {
     "geoid": "36540",
@@ -4258,13 +3992,6 @@
   {
     "geoid": "36740",
     "key": "unempr-sa-female",
-    "date": "2011-01-15",
-    "value": 0.10029,
-    "value_": 10.02881
-  },
-  {
-    "geoid": "36740",
-    "key": "unempr-sa-female",
     "date": "2012-01-15",
     "value": 0.092,
     "value_": 9.19983
@@ -4366,13 +4093,6 @@
     "date": "2026-01-15",
     "value": 0.05382,
     "value_": 5.3817
-  },
-  {
-    "geoid": "37980",
-    "key": "unempr-sa-female",
-    "date": "2011-01-15",
-    "value": 0.07769,
-    "value_": 7.76905
   },
   {
     "geoid": "37980",
@@ -4482,13 +4202,6 @@
   {
     "geoid": "38060",
     "key": "unempr-sa-female",
-    "date": "2011-01-15",
-    "value": 0.08393,
-    "value_": 8.39263
-  },
-  {
-    "geoid": "38060",
-    "key": "unempr-sa-female",
     "date": "2012-01-15",
     "value": 0.07284,
     "value_": 7.28366
@@ -4590,13 +4303,6 @@
     "date": "2026-01-15",
     "value": 0.04223,
     "value_": 4.22276
-  },
-  {
-    "geoid": "38300",
-    "key": "unempr-sa-female",
-    "date": "2011-01-15",
-    "value": 0.06655,
-    "value_": 6.6547
   },
   {
     "geoid": "38300",
@@ -4706,13 +4412,6 @@
   {
     "geoid": "38900",
     "key": "unempr-sa-female",
-    "date": "2011-01-15",
-    "value": 0.08258,
-    "value_": 8.25812
-  },
-  {
-    "geoid": "38900",
-    "key": "unempr-sa-female",
     "date": "2012-01-15",
     "value": 0.07399,
     "value_": 7.39936
@@ -4814,13 +4513,6 @@
     "date": "2026-01-15",
     "value": 0.04297,
     "value_": 4.29714
-  },
-  {
-    "geoid": "39300",
-    "key": "unempr-sa-female",
-    "date": "2011-01-15",
-    "value": 0.09433,
-    "value_": 9.4325
   },
   {
     "geoid": "39300",
@@ -4930,13 +4622,6 @@
   {
     "geoid": "39580",
     "key": "unempr-sa-female",
-    "date": "2011-01-15",
-    "value": 0.07609,
-    "value_": 7.60946
-  },
-  {
-    "geoid": "39580",
-    "key": "unempr-sa-female",
     "date": "2012-01-15",
     "value": 0.07471,
     "value_": 7.47088
@@ -5038,13 +4723,6 @@
     "date": "2026-01-15",
     "value": 0.03443,
     "value_": 3.44301
-  },
-  {
-    "geoid": "40060",
-    "key": "unempr-sa-female",
-    "date": "2011-01-15",
-    "value": 0.06639,
-    "value_": 6.63907
   },
   {
     "geoid": "40060",
@@ -5154,13 +4832,6 @@
   {
     "geoid": "40140",
     "key": "unempr-sa-female",
-    "date": "2011-01-15",
-    "value": 0.12292,
-    "value_": 12.29188
-  },
-  {
-    "geoid": "40140",
-    "key": "unempr-sa-female",
     "date": "2012-01-15",
     "value": 0.11533,
     "value_": 11.53306
@@ -5262,13 +4933,6 @@
     "date": "2026-01-15",
     "value": 0.05028,
     "value_": 5.02784
-  },
-  {
-    "geoid": "40380",
-    "key": "unempr-sa-female",
-    "date": "2011-01-15",
-    "value": 0.07158,
-    "value_": 7.15773
   },
   {
     "geoid": "40380",
@@ -5378,13 +5042,6 @@
   {
     "geoid": "40900",
     "key": "unempr-sa-female",
-    "date": "2011-01-15",
-    "value": 0.11233,
-    "value_": 11.23258
-  },
-  {
-    "geoid": "40900",
-    "key": "unempr-sa-female",
     "date": "2012-01-15",
     "value": 0.10324,
     "value_": 10.324
@@ -5486,13 +5143,6 @@
     "date": "2026-01-15",
     "value": 0.04581,
     "value_": 4.58097
-  },
-  {
-    "geoid": "41180",
-    "key": "unempr-sa-female",
-    "date": "2011-01-15",
-    "value": 0.0817,
-    "value_": 8.16982
   },
   {
     "geoid": "41180",
@@ -5602,13 +5252,6 @@
   {
     "geoid": "41620",
     "key": "unempr-sa-female",
-    "date": "2011-01-15",
-    "value": 0.0692,
-    "value_": 6.92031
-  },
-  {
-    "geoid": "41620",
-    "key": "unempr-sa-female",
     "date": "2012-01-15",
     "value": 0.04754,
     "value_": 4.75397
@@ -5710,13 +5353,6 @@
     "date": "2026-01-15",
     "value": 0.03313,
     "value_": 3.31331
-  },
-  {
-    "geoid": "41700",
-    "key": "unempr-sa-female",
-    "date": "2011-01-15",
-    "value": 0.07246,
-    "value_": 7.24611
   },
   {
     "geoid": "41700",
@@ -5826,13 +5462,6 @@
   {
     "geoid": "41740",
     "key": "unempr-sa-female",
-    "date": "2011-01-15",
-    "value": 0.09558,
-    "value_": 9.55765
-  },
-  {
-    "geoid": "41740",
-    "key": "unempr-sa-female",
     "date": "2012-01-15",
     "value": 0.091,
     "value_": 9.10043
@@ -5934,13 +5563,6 @@
     "date": "2026-01-15",
     "value": 0.04248,
     "value_": 4.24751
-  },
-  {
-    "geoid": "41860",
-    "key": "unempr-sa-female",
-    "date": "2011-01-15",
-    "value": 0.08662,
-    "value_": 8.66165
   },
   {
     "geoid": "41860",
@@ -6050,13 +5672,6 @@
   {
     "geoid": "41940",
     "key": "unempr-sa-female",
-    "date": "2011-01-15",
-    "value": 0.08917,
-    "value_": 8.91679
-  },
-  {
-    "geoid": "41940",
-    "key": "unempr-sa-female",
     "date": "2012-01-15",
     "value": 0.08124,
     "value_": 8.12434
@@ -6158,13 +5773,6 @@
     "date": "2026-01-15",
     "value": 0.03878,
     "value_": 3.87784
-  },
-  {
-    "geoid": "42660",
-    "key": "unempr-sa-female",
-    "date": "2011-01-15",
-    "value": 0.08228,
-    "value_": 8.22808
   },
   {
     "geoid": "42660",
@@ -6274,13 +5882,6 @@
   {
     "geoid": "45300",
     "key": "unempr-sa-female",
-    "date": "2011-01-15",
-    "value": 0.09981,
-    "value_": 9.98142
-  },
-  {
-    "geoid": "45300",
-    "key": "unempr-sa-female",
     "date": "2012-01-15",
     "value": 0.0907,
     "value_": 9.07007
@@ -6382,13 +5983,6 @@
     "date": "2026-01-15",
     "value": 0.05447,
     "value_": 5.4471
-  },
-  {
-    "geoid": "46060",
-    "key": "unempr-sa-female",
-    "date": "2011-01-15",
-    "value": 0.08249,
-    "value_": 8.24925
   },
   {
     "geoid": "46060",
@@ -6498,13 +6092,6 @@
   {
     "geoid": "46140",
     "key": "unempr-sa-female",
-    "date": "2011-01-15",
-    "value": 0.06304,
-    "value_": 6.30364
-  },
-  {
-    "geoid": "46140",
-    "key": "unempr-sa-female",
     "date": "2012-01-15",
     "value": 0.05645,
     "value_": 5.64477
@@ -6606,13 +6193,6 @@
     "date": "2026-01-15",
     "value": 0.03863,
     "value_": 3.86286
-  },
-  {
-    "geoid": "47260",
-    "key": "unempr-sa-female",
-    "date": "2011-01-15",
-    "value": 0.06362,
-    "value_": 6.36237
   },
   {
     "geoid": "47260",
@@ -6722,13 +6302,6 @@
   {
     "geoid": "47900",
     "key": "unempr-sa-female",
-    "date": "2011-01-15",
-    "value": 0.05624,
-    "value_": 5.62359
-  },
-  {
-    "geoid": "47900",
-    "key": "unempr-sa-female",
     "date": "2012-01-15",
     "value": 0.05356,
     "value_": 5.3555
@@ -6830,13 +6403,6 @@
     "date": "2026-01-15",
     "value": 0.04538,
     "value_": 4.53768
-  },
-  {
-    "geoid": "51013",
-    "key": "unempr-sa-female",
-    "date": "2011-01-15",
-    "value": 0.03251,
-    "value_": 3.25139
   },
   {
     "geoid": "51013",
@@ -6946,13 +6512,6 @@
   {
     "geoid": "51043",
     "key": "unempr-sa-female",
-    "date": "2011-01-15",
-    "value": 0.05336,
-    "value_": 5.33648
-  },
-  {
-    "geoid": "51043",
-    "key": "unempr-sa-female",
     "date": "2012-01-15",
     "value": 0.04679,
     "value_": 4.67913
@@ -7054,13 +6613,6 @@
     "date": "2026-01-15",
     "value": 0.03841,
     "value_": 3.84128
-  },
-  {
-    "geoid": "51047",
-    "key": "unempr-sa-female",
-    "date": "2011-01-15",
-    "value": 0.05811,
-    "value_": 5.81135
   },
   {
     "geoid": "51047",
@@ -7170,13 +6722,6 @@
   {
     "geoid": "51059",
     "key": "unempr-sa-female",
-    "date": "2011-01-15",
-    "value": 0.04102,
-    "value_": 4.10228
-  },
-  {
-    "geoid": "51059",
-    "key": "unempr-sa-female",
     "date": "2012-01-15",
     "value": 0.04001,
     "value_": 4.00074
@@ -7278,13 +6823,6 @@
     "date": "2026-01-15",
     "value": 0.03955,
     "value_": 3.95538
-  },
-  {
-    "geoid": "51061",
-    "key": "unempr-sa-female",
-    "date": "2011-01-15",
-    "value": 0.05003,
-    "value_": 5.00335
   },
   {
     "geoid": "51061",
@@ -7394,13 +6932,6 @@
   {
     "geoid": "51107",
     "key": "unempr-sa-female",
-    "date": "2011-01-15",
-    "value": 0.04063,
-    "value_": 4.06313
-  },
-  {
-    "geoid": "51107",
-    "key": "unempr-sa-female",
     "date": "2012-01-15",
     "value": 0.03878,
     "value_": 3.87848
@@ -7502,13 +7033,6 @@
     "date": "2026-01-15",
     "value": 0.03836,
     "value_": 3.8357
-  },
-  {
-    "geoid": "51153",
-    "key": "unempr-sa-female",
-    "date": "2011-01-15",
-    "value": 0.05024,
-    "value_": 5.0242
   },
   {
     "geoid": "51153",
@@ -7618,13 +7142,6 @@
   {
     "geoid": "51157",
     "key": "unempr-sa-female",
-    "date": "2011-01-15",
-    "value": 0.04994,
-    "value_": 4.99438
-  },
-  {
-    "geoid": "51157",
-    "key": "unempr-sa-female",
     "date": "2012-01-15",
     "value": 0.04892,
     "value_": 4.89161
@@ -7726,13 +7243,6 @@
     "date": "2026-01-15",
     "value": 0.03492,
     "value_": 3.49246
-  },
-  {
-    "geoid": "51177",
-    "key": "unempr-sa-female",
-    "date": "2011-01-15",
-    "value": 0.05879,
-    "value_": 5.87914
   },
   {
     "geoid": "51177",
@@ -7842,13 +7352,6 @@
   {
     "geoid": "51179",
     "key": "unempr-sa-female",
-    "date": "2011-01-15",
-    "value": 0.05432,
-    "value_": 5.43158
-  },
-  {
-    "geoid": "51179",
-    "key": "unempr-sa-female",
     "date": "2012-01-15",
     "value": 0.05254,
     "value_": 5.25358
@@ -7950,13 +7453,6 @@
     "date": "2026-01-15",
     "value": 0.03994,
     "value_": 3.99441
-  },
-  {
-    "geoid": "51187",
-    "key": "unempr-sa-female",
-    "date": "2011-01-15",
-    "value": 0.06584,
-    "value_": 6.58426
   },
   {
     "geoid": "51187",
@@ -8066,13 +7562,6 @@
   {
     "geoid": "51510",
     "key": "unempr-sa-female",
-    "date": "2011-01-15",
-    "value": 0.03936,
-    "value_": 3.93615
-  },
-  {
-    "geoid": "51510",
-    "key": "unempr-sa-female",
     "date": "2012-01-15",
     "value": 0.03695,
     "value_": 3.69545
@@ -8174,13 +7663,6 @@
     "date": "2026-01-15",
     "value": 0.03729,
     "value_": 3.72874
-  },
-  {
-    "geoid": "51630",
-    "key": "unempr-sa-female",
-    "date": "2011-01-15",
-    "value": 0.07395,
-    "value_": 7.39458
   },
   {
     "geoid": "51630",
@@ -8290,13 +7772,6 @@
   {
     "geoid": "54037",
     "key": "unempr-sa-female",
-    "date": "2011-01-15",
-    "value": 0.0481,
-    "value_": 4.8096
-  },
-  {
-    "geoid": "54037",
-    "key": "unempr-sa-female",
     "date": "2012-01-15",
     "value": 0.04194,
     "value_": 4.19406
@@ -8398,13 +7873,6 @@
     "date": "2026-01-15",
     "value": 0.02559,
     "value_": 2.55854
-  },
-  {
-    "geoid": "99997",
-    "key": "unempr-sa-female",
-    "date": "2011-01-15",
-    "value": 0.08397,
-    "value_": 8.3969
   },
   {
     "geoid": "99997",
@@ -8514,13 +7982,6 @@
   {
     "geoid": "99999",
     "key": "unempr-sa-female",
-    "date": "2011-01-15",
-    "value": 0.08393,
-    "value_": 8.39289
-  },
-  {
-    "geoid": "99999",
-    "key": "unempr-sa-female",
     "date": "2012-01-15",
     "value": 0.0777,
     "value_": 7.77012
@@ -8622,13 +8083,6 @@
     "date": "2026-01-15",
     "value": 0.04106,
     "value_": 4.10641
-  },
-  {
-    "geoid": "11001",
-    "key": "unempr-sa-female",
-    "date": "2011-02-15",
-    "value": 0.09823,
-    "value_": 9.82331
   },
   {
     "geoid": "11001",
@@ -8738,13 +8192,6 @@
   {
     "geoid": "12060",
     "key": "unempr-sa-female",
-    "date": "2011-02-15",
-    "value": 0.09531,
-    "value_": 9.53067
-  },
-  {
-    "geoid": "12060",
-    "key": "unempr-sa-female",
     "date": "2012-02-15",
     "value": 0.08988,
     "value_": 8.98759
@@ -8846,13 +8293,6 @@
     "date": "2026-02-15",
     "value": 0.03269,
     "value_": 3.26914
-  },
-  {
-    "geoid": "12420",
-    "key": "unempr-sa-female",
-    "date": "2011-02-15",
-    "value": 0.06648,
-    "value_": 6.64821
   },
   {
     "geoid": "12420",
@@ -8962,13 +8402,6 @@
   {
     "geoid": "12580",
     "key": "unempr-sa-female",
-    "date": "2011-02-15",
-    "value": 0.06935,
-    "value_": 6.93454
-  },
-  {
-    "geoid": "12580",
-    "key": "unempr-sa-female",
     "date": "2012-02-15",
     "value": 0.06317,
     "value_": 6.31731
@@ -9070,13 +8503,6 @@
     "date": "2026-02-15",
     "value": 0.04468,
     "value_": 4.46761
-  },
-  {
-    "geoid": "13820",
-    "key": "unempr-sa-female",
-    "date": "2011-02-15",
-    "value": 0.08705,
-    "value_": 8.70513
   },
   {
     "geoid": "13820",
@@ -9186,13 +8612,6 @@
   {
     "geoid": "14460",
     "key": "unempr-sa-female",
-    "date": "2011-02-15",
-    "value": 0.05642,
-    "value_": 5.64181
-  },
-  {
-    "geoid": "14460",
-    "key": "unempr-sa-female",
     "date": "2012-02-15",
     "value": 0.05097,
     "value_": 5.09696
@@ -9294,13 +8713,6 @@
     "date": "2026-02-15",
     "value": 0.03653,
     "value_": 3.65251
-  },
-  {
-    "geoid": "15380",
-    "key": "unempr-sa-female",
-    "date": "2011-02-15",
-    "value": 0.07447,
-    "value_": 7.44722
   },
   {
     "geoid": "15380",
@@ -9410,13 +8822,6 @@
   {
     "geoid": "16740",
     "key": "unempr-sa-female",
-    "date": "2011-02-15",
-    "value": 0.10155,
-    "value_": 10.15472
-  },
-  {
-    "geoid": "16740",
-    "key": "unempr-sa-female",
     "date": "2012-02-15",
     "value": 0.09206,
     "value_": 9.20608
@@ -9518,13 +8923,6 @@
     "date": "2026-02-15",
     "value": 0.04177,
     "value_": 4.17733
-  },
-  {
-    "geoid": "16980",
-    "key": "unempr-sa-female",
-    "date": "2011-02-15",
-    "value": 0.0827,
-    "value_": 8.27015
   },
   {
     "geoid": "16980",
@@ -9634,13 +9032,6 @@
   {
     "geoid": "17140",
     "key": "unempr-sa-female",
-    "date": "2011-02-15",
-    "value": 0.07369,
-    "value_": 7.36945
-  },
-  {
-    "geoid": "17140",
-    "key": "unempr-sa-female",
     "date": "2012-02-15",
     "value": 0.06622,
     "value_": 6.62246
@@ -9742,13 +9133,6 @@
     "date": "2026-02-15",
     "value": 0.0318,
     "value_": 3.18037
-  },
-  {
-    "geoid": "17410",
-    "key": "unempr-sa-female",
-    "date": "2011-02-15",
-    "value": 0.06071,
-    "value_": 6.07111
   },
   {
     "geoid": "17410",
@@ -9858,13 +9242,6 @@
   {
     "geoid": "18140",
     "key": "unempr-sa-female",
-    "date": "2011-02-15",
-    "value": 0.06532,
-    "value_": 6.53229
-  },
-  {
-    "geoid": "18140",
-    "key": "unempr-sa-female",
     "date": "2012-02-15",
     "value": 0.05772,
     "value_": 5.7722
@@ -9966,13 +9343,6 @@
     "date": "2026-02-15",
     "value": 0.03082,
     "value_": 3.08183
-  },
-  {
-    "geoid": "19100",
-    "key": "unempr-sa-female",
-    "date": "2011-02-15",
-    "value": 0.077,
-    "value_": 7.69977
   },
   {
     "geoid": "19100",
@@ -10082,13 +9452,6 @@
   {
     "geoid": "19740",
     "key": "unempr-sa-female",
-    "date": "2011-02-15",
-    "value": 0.07844,
-    "value_": 7.84443
-  },
-  {
-    "geoid": "19740",
-    "key": "unempr-sa-female",
     "date": "2012-02-15",
     "value": 0.07504,
     "value_": 7.50418
@@ -10190,13 +9553,6 @@
     "date": "2026-02-15",
     "value": 0.03474,
     "value_": 3.47444
-  },
-  {
-    "geoid": "19820",
-    "key": "unempr-sa-female",
-    "date": "2011-02-15",
-    "value": 0.10147,
-    "value_": 10.1466
   },
   {
     "geoid": "19820",
@@ -10306,13 +9662,6 @@
   {
     "geoid": "23420",
     "key": "unempr-sa-female",
-    "date": "2011-02-15",
-    "value": 0.14937,
-    "value_": 14.93662
-  },
-  {
-    "geoid": "23420",
-    "key": "unempr-sa-female",
     "date": "2012-02-15",
     "value": 0.14502,
     "value_": 14.50228
@@ -10414,13 +9763,6 @@
     "date": "2026-02-15",
     "value": 0.07429,
     "value_": 7.42943
-  },
-  {
-    "geoid": "24017",
-    "key": "unempr-sa-female",
-    "date": "2011-02-15",
-    "value": 0.05942,
-    "value_": 5.94196
   },
   {
     "geoid": "24017",
@@ -10530,13 +9872,6 @@
   {
     "geoid": "24021",
     "key": "unempr-sa-female",
-    "date": "2011-02-15",
-    "value": 0.05759,
-    "value_": 5.75877
-  },
-  {
-    "geoid": "24021",
-    "key": "unempr-sa-female",
     "date": "2012-02-15",
     "value": 0.05354,
     "value_": 5.35422
@@ -10638,13 +9973,6 @@
     "date": "2026-02-15",
     "value": 0.041,
     "value_": 4.09952
-  },
-  {
-    "geoid": "24031",
-    "key": "unempr-sa-female",
-    "date": "2011-02-15",
-    "value": 0.04685,
-    "value_": 4.68504
   },
   {
     "geoid": "24031",
@@ -10754,13 +10082,6 @@
   {
     "geoid": "24033",
     "key": "unempr-sa-female",
-    "date": "2011-02-15",
-    "value": 0.06431,
-    "value_": 6.43053
-  },
-  {
-    "geoid": "24033",
-    "key": "unempr-sa-female",
     "date": "2012-02-15",
     "value": 0.0632,
     "value_": 6.32039
@@ -10862,13 +10183,6 @@
     "date": "2026-02-15",
     "value": 0.05046,
     "value_": 5.04614
-  },
-  {
-    "geoid": "24340",
-    "key": "unempr-sa-female",
-    "date": "2011-02-15",
-    "value": 0.07531,
-    "value_": 7.53111
   },
   {
     "geoid": "24340",
@@ -10978,13 +10292,6 @@
   {
     "geoid": "24860",
     "key": "unempr-sa-female",
-    "date": "2011-02-15",
-    "value": 0.09393,
-    "value_": 9.39307
-  },
-  {
-    "geoid": "24860",
-    "key": "unempr-sa-female",
     "date": "2012-02-15",
     "value": 0.08309,
     "value_": 8.30942
@@ -11086,13 +10393,6 @@
     "date": "2026-02-15",
     "value": 0.04909,
     "value_": 4.90908
-  },
-  {
-    "geoid": "25540",
-    "key": "unempr-sa-female",
-    "date": "2011-02-15",
-    "value": 0.0801,
-    "value_": 8.00979
   },
   {
     "geoid": "25540",
@@ -11202,13 +10502,6 @@
   {
     "geoid": "26420",
     "key": "unempr-sa-female",
-    "date": "2011-02-15",
-    "value": 0.07951,
-    "value_": 7.95054
-  },
-  {
-    "geoid": "26420",
-    "key": "unempr-sa-female",
     "date": "2012-02-15",
     "value": 0.07103,
     "value_": 7.10316
@@ -11310,13 +10603,6 @@
     "date": "2026-02-15",
     "value": 0.04445,
     "value_": 4.44461
-  },
-  {
-    "geoid": "26900",
-    "key": "unempr-sa-female",
-    "date": "2011-02-15",
-    "value": 0.0747,
-    "value_": 7.46965
   },
   {
     "geoid": "26900",
@@ -11426,13 +10712,6 @@
   {
     "geoid": "27260",
     "key": "unempr-sa-female",
-    "date": "2011-02-15",
-    "value": 0.09414,
-    "value_": 9.41438
-  },
-  {
-    "geoid": "27260",
-    "key": "unempr-sa-female",
     "date": "2012-02-15",
     "value": 0.08847,
     "value_": 8.8471
@@ -11534,13 +10813,6 @@
     "date": "2026-02-15",
     "value": 0.05724,
     "value_": 5.72409
-  },
-  {
-    "geoid": "28140",
-    "key": "unempr-sa-female",
-    "date": "2011-02-15",
-    "value": 0.0737,
-    "value_": 7.37007
   },
   {
     "geoid": "28140",
@@ -11650,13 +10922,6 @@
   {
     "geoid": "29820",
     "key": "unempr-sa-female",
-    "date": "2011-02-15",
-    "value": 0.11678,
-    "value_": 11.67847
-  },
-  {
-    "geoid": "29820",
-    "key": "unempr-sa-female",
     "date": "2012-02-15",
     "value": 0.11238,
     "value_": 11.23825
@@ -11758,13 +11023,6 @@
     "date": "2026-02-15",
     "value": 0.05179,
     "value_": 5.17853
-  },
-  {
-    "geoid": "31080",
-    "key": "unempr-sa-female",
-    "date": "2011-02-15",
-    "value": 0.10491,
-    "value_": 10.49144
   },
   {
     "geoid": "31080",
@@ -11874,13 +11132,6 @@
   {
     "geoid": "31140",
     "key": "unempr-sa-female",
-    "date": "2011-02-15",
-    "value": 0.07538,
-    "value_": 7.53835
-  },
-  {
-    "geoid": "31140",
-    "key": "unempr-sa-female",
     "date": "2012-02-15",
     "value": 0.07033,
     "value_": 7.03344
@@ -11982,13 +11233,6 @@
     "date": "2026-02-15",
     "value": 0.03263,
     "value_": 3.26269
-  },
-  {
-    "geoid": "32820",
-    "key": "unempr-sa-female",
-    "date": "2011-02-15",
-    "value": 0.09198,
-    "value_": 9.19839
   },
   {
     "geoid": "32820",
@@ -12098,13 +11342,6 @@
   {
     "geoid": "33100",
     "key": "unempr-sa-female",
-    "date": "2011-02-15",
-    "value": 0.1012,
-    "value_": 10.1197
-  },
-  {
-    "geoid": "33100",
-    "key": "unempr-sa-female",
     "date": "2012-02-15",
     "value": 0.08237,
     "value_": 8.23717
@@ -12206,13 +11443,6 @@
     "date": "2026-02-15",
     "value": 0.04346,
     "value_": 4.34602
-  },
-  {
-    "geoid": "33340",
-    "key": "unempr-sa-female",
-    "date": "2011-02-15",
-    "value": 0.07046,
-    "value_": 7.04643
   },
   {
     "geoid": "33340",
@@ -12322,13 +11552,6 @@
   {
     "geoid": "33460",
     "key": "unempr-sa-female",
-    "date": "2011-02-15",
-    "value": 0.05481,
-    "value_": 5.48087
-  },
-  {
-    "geoid": "33460",
-    "key": "unempr-sa-female",
     "date": "2012-02-15",
     "value": 0.04399,
     "value_": 4.39873
@@ -12430,13 +11653,6 @@
     "date": "2026-02-15",
     "value": 0.03488,
     "value_": 3.48839
-  },
-  {
-    "geoid": "34980",
-    "key": "unempr-sa-female",
-    "date": "2011-02-15",
-    "value": 0.08124,
-    "value_": 8.12433
   },
   {
     "geoid": "34980",
@@ -12546,13 +11762,6 @@
   {
     "geoid": "35620",
     "key": "unempr-sa-female",
-    "date": "2011-02-15",
-    "value": 0.07832,
-    "value_": 7.83221
-  },
-  {
-    "geoid": "35620",
-    "key": "unempr-sa-female",
     "date": "2012-02-15",
     "value": 0.08029,
     "value_": 8.02867
@@ -12654,13 +11863,6 @@
     "date": "2026-02-15",
     "value": 0.04324,
     "value_": 4.32384
-  },
-  {
-    "geoid": "36420",
-    "key": "unempr-sa-female",
-    "date": "2011-02-15",
-    "value": 0.04887,
-    "value_": 4.8873
   },
   {
     "geoid": "36420",
@@ -12770,13 +11972,6 @@
   {
     "geoid": "36540",
     "key": "unempr-sa-female",
-    "date": "2011-02-15",
-    "value": 0.04812,
-    "value_": 4.81181
-  },
-  {
-    "geoid": "36540",
-    "key": "unempr-sa-female",
     "date": "2012-02-15",
     "value": 0.04152,
     "value_": 4.15181
@@ -12878,13 +12073,6 @@
     "date": "2026-02-15",
     "value": 0.02893,
     "value_": 2.89295
-  },
-  {
-    "geoid": "36740",
-    "key": "unempr-sa-female",
-    "date": "2011-02-15",
-    "value": 0.0981,
-    "value_": 9.80971
   },
   {
     "geoid": "36740",
@@ -12994,13 +12182,6 @@
   {
     "geoid": "37980",
     "key": "unempr-sa-female",
-    "date": "2011-02-15",
-    "value": 0.07752,
-    "value_": 7.75166
-  },
-  {
-    "geoid": "37980",
-    "key": "unempr-sa-female",
     "date": "2012-02-15",
     "value": 0.0756,
     "value_": 7.55999
@@ -13102,13 +12283,6 @@
     "date": "2026-02-15",
     "value": 0.04073,
     "value_": 4.07343
-  },
-  {
-    "geoid": "38060",
-    "key": "unempr-sa-female",
-    "date": "2011-02-15",
-    "value": 0.08251,
-    "value_": 8.25119
   },
   {
     "geoid": "38060",
@@ -13218,13 +12392,6 @@
   {
     "geoid": "38300",
     "key": "unempr-sa-female",
-    "date": "2011-02-15",
-    "value": 0.06732,
-    "value_": 6.73169
-  },
-  {
-    "geoid": "38300",
-    "key": "unempr-sa-female",
     "date": "2012-02-15",
     "value": 0.06235,
     "value_": 6.23485
@@ -13326,13 +12493,6 @@
     "date": "2026-02-15",
     "value": 0.03521,
     "value_": 3.52079
-  },
-  {
-    "geoid": "38900",
-    "key": "unempr-sa-female",
-    "date": "2011-02-15",
-    "value": 0.08082,
-    "value_": 8.08229
   },
   {
     "geoid": "38900",
@@ -13442,13 +12602,6 @@
   {
     "geoid": "39300",
     "key": "unempr-sa-female",
-    "date": "2011-02-15",
-    "value": 0.09292,
-    "value_": 9.29184
-  },
-  {
-    "geoid": "39300",
-    "key": "unempr-sa-female",
     "date": "2012-02-15",
     "value": 0.08933,
     "value_": 8.93299
@@ -13550,13 +12703,6 @@
     "date": "2026-02-15",
     "value": 0.04064,
     "value_": 4.06355
-  },
-  {
-    "geoid": "39580",
-    "key": "unempr-sa-female",
-    "date": "2011-02-15",
-    "value": 0.07497,
-    "value_": 7.49727
   },
   {
     "geoid": "39580",
@@ -13666,13 +12812,6 @@
   {
     "geoid": "40060",
     "key": "unempr-sa-female",
-    "date": "2011-02-15",
-    "value": 0.06476,
-    "value_": 6.47584
-  },
-  {
-    "geoid": "40060",
-    "key": "unempr-sa-female",
     "date": "2012-02-15",
     "value": 0.05972,
     "value_": 5.97181
@@ -13774,13 +12913,6 @@
     "date": "2026-02-15",
     "value": 0.0387,
     "value_": 3.87023
-  },
-  {
-    "geoid": "40140",
-    "key": "unempr-sa-female",
-    "date": "2011-02-15",
-    "value": 0.12125,
-    "value_": 12.12518
   },
   {
     "geoid": "40140",
@@ -13890,13 +13022,6 @@
   {
     "geoid": "40380",
     "key": "unempr-sa-female",
-    "date": "2011-02-15",
-    "value": 0.07067,
-    "value_": 7.0673
-  },
-  {
-    "geoid": "40380",
-    "key": "unempr-sa-female",
     "date": "2012-02-15",
     "value": 0.07069,
     "value_": 7.06893
@@ -13998,13 +13123,6 @@
     "date": "2026-02-15",
     "value": 0.03428,
     "value_": 3.42816
-  },
-  {
-    "geoid": "40900",
-    "key": "unempr-sa-female",
-    "date": "2011-02-15",
-    "value": 0.11089,
-    "value_": 11.0885
   },
   {
     "geoid": "40900",
@@ -14114,13 +13232,6 @@
   {
     "geoid": "41180",
     "key": "unempr-sa-female",
-    "date": "2011-02-15",
-    "value": 0.07902,
-    "value_": 7.90236
-  },
-  {
-    "geoid": "41180",
-    "key": "unempr-sa-female",
     "date": "2012-02-15",
     "value": 0.06988,
     "value_": 6.98794
@@ -14222,13 +13333,6 @@
     "date": "2026-02-15",
     "value": 0.03855,
     "value_": 3.85461
-  },
-  {
-    "geoid": "41620",
-    "key": "unempr-sa-female",
-    "date": "2011-02-15",
-    "value": 0.06845,
-    "value_": 6.84452
   },
   {
     "geoid": "41620",
@@ -14338,13 +13442,6 @@
   {
     "geoid": "41700",
     "key": "unempr-sa-female",
-    "date": "2011-02-15",
-    "value": 0.07135,
-    "value_": 7.13471
-  },
-  {
-    "geoid": "41700",
-    "key": "unempr-sa-female",
     "date": "2012-02-15",
     "value": 0.06623,
     "value_": 6.62267
@@ -14446,13 +13543,6 @@
     "date": "2026-02-15",
     "value": 0.03978,
     "value_": 3.97774
-  },
-  {
-    "geoid": "41740",
-    "key": "unempr-sa-female",
-    "date": "2011-02-15",
-    "value": 0.09471,
-    "value_": 9.47068
   },
   {
     "geoid": "41740",
@@ -14562,13 +13652,6 @@
   {
     "geoid": "41860",
     "key": "unempr-sa-female",
-    "date": "2011-02-15",
-    "value": 0.08555,
-    "value_": 8.55495
-  },
-  {
-    "geoid": "41860",
-    "key": "unempr-sa-female",
     "date": "2012-02-15",
     "value": 0.07797,
     "value_": 7.7966
@@ -14670,13 +13753,6 @@
     "date": "2026-02-15",
     "value": 0.03942,
     "value_": 3.94183
-  },
-  {
-    "geoid": "41940",
-    "key": "unempr-sa-female",
-    "date": "2011-02-15",
-    "value": 0.08821,
-    "value_": 8.82094
   },
   {
     "geoid": "41940",
@@ -14786,13 +13862,6 @@
   {
     "geoid": "42660",
     "key": "unempr-sa-female",
-    "date": "2011-02-15",
-    "value": 0.08057,
-    "value_": 8.05723
-  },
-  {
-    "geoid": "42660",
-    "key": "unempr-sa-female",
     "date": "2012-02-15",
     "value": 0.06912,
     "value_": 6.91151
@@ -14894,13 +13963,6 @@
     "date": "2026-02-15",
     "value": 0.04408,
     "value_": 4.40831
-  },
-  {
-    "geoid": "45300",
-    "key": "unempr-sa-female",
-    "date": "2011-02-15",
-    "value": 0.09769,
-    "value_": 9.76913
   },
   {
     "geoid": "45300",
@@ -15010,13 +14072,6 @@
   {
     "geoid": "46060",
     "key": "unempr-sa-female",
-    "date": "2011-02-15",
-    "value": 0.0811,
-    "value_": 8.11049
-  },
-  {
-    "geoid": "46060",
-    "key": "unempr-sa-female",
     "date": "2012-02-15",
     "value": 0.07211,
     "value_": 7.2114
@@ -15118,13 +14173,6 @@
     "date": "2026-02-15",
     "value": 0.05082,
     "value_": 5.08248
-  },
-  {
-    "geoid": "46140",
-    "key": "unempr-sa-female",
-    "date": "2011-02-15",
-    "value": 0.06191,
-    "value_": 6.19113
   },
   {
     "geoid": "46140",
@@ -15234,13 +14282,6 @@
   {
     "geoid": "47260",
     "key": "unempr-sa-female",
-    "date": "2011-02-15",
-    "value": 0.06283,
-    "value_": 6.28292
-  },
-  {
-    "geoid": "47260",
-    "key": "unempr-sa-female",
     "date": "2012-02-15",
     "value": 0.0616,
     "value_": 6.16027
@@ -15342,13 +14383,6 @@
     "date": "2026-02-15",
     "value": 0.04126,
     "value_": 4.1263
-  },
-  {
-    "geoid": "47900",
-    "key": "unempr-sa-female",
-    "date": "2011-02-15",
-    "value": 0.05495,
-    "value_": 5.49547
   },
   {
     "geoid": "47900",
@@ -15458,13 +14492,6 @@
   {
     "geoid": "51013",
     "key": "unempr-sa-female",
-    "date": "2011-02-15",
-    "value": 0.032,
-    "value_": 3.2004
-  },
-  {
-    "geoid": "51013",
-    "key": "unempr-sa-female",
     "date": "2012-02-15",
     "value": 0.0314,
     "value_": 3.13978
@@ -15566,13 +14593,6 @@
     "date": "2026-02-15",
     "value": 0.03462,
     "value_": 3.46175
-  },
-  {
-    "geoid": "51043",
-    "key": "unempr-sa-female",
-    "date": "2011-02-15",
-    "value": 0.05247,
-    "value_": 5.24731
   },
   {
     "geoid": "51043",
@@ -15682,13 +14702,6 @@
   {
     "geoid": "51047",
     "key": "unempr-sa-female",
-    "date": "2011-02-15",
-    "value": 0.05675,
-    "value_": 5.67542
-  },
-  {
-    "geoid": "51047",
-    "key": "unempr-sa-female",
     "date": "2012-02-15",
     "value": 0.05179,
     "value_": 5.17925
@@ -15790,13 +14803,6 @@
     "date": "2026-02-15",
     "value": 0.03631,
     "value_": 3.6306
-  },
-  {
-    "geoid": "51059",
-    "key": "unempr-sa-female",
-    "date": "2011-02-15",
-    "value": 0.04044,
-    "value_": 4.04426
   },
   {
     "geoid": "51059",
@@ -15906,13 +14912,6 @@
   {
     "geoid": "51061",
     "key": "unempr-sa-female",
-    "date": "2011-02-15",
-    "value": 0.04875,
-    "value_": 4.87466
-  },
-  {
-    "geoid": "51061",
-    "key": "unempr-sa-female",
     "date": "2012-02-15",
     "value": 0.04552,
     "value_": 4.55171
@@ -16014,13 +15013,6 @@
     "date": "2026-02-15",
     "value": 0.032,
     "value_": 3.20008
-  },
-  {
-    "geoid": "51107",
-    "key": "unempr-sa-female",
-    "date": "2011-02-15",
-    "value": 0.04005,
-    "value_": 4.00513
   },
   {
     "geoid": "51107",
@@ -16130,13 +15122,6 @@
   {
     "geoid": "51153",
     "key": "unempr-sa-female",
-    "date": "2011-02-15",
-    "value": 0.04938,
-    "value_": 4.93764
-  },
-  {
-    "geoid": "51153",
-    "key": "unempr-sa-female",
     "date": "2012-02-15",
     "value": 0.04729,
     "value_": 4.72906
@@ -16238,13 +15223,6 @@
     "date": "2026-02-15",
     "value": 0.03897,
     "value_": 3.8967
-  },
-  {
-    "geoid": "51157",
-    "key": "unempr-sa-female",
-    "date": "2011-02-15",
-    "value": 0.04858,
-    "value_": 4.85781
   },
   {
     "geoid": "51157",
@@ -16354,13 +15332,6 @@
   {
     "geoid": "51177",
     "key": "unempr-sa-female",
-    "date": "2011-02-15",
-    "value": 0.05792,
-    "value_": 5.79186
-  },
-  {
-    "geoid": "51177",
-    "key": "unempr-sa-female",
     "date": "2012-02-15",
     "value": 0.05514,
     "value_": 5.51419
@@ -16462,13 +15433,6 @@
     "date": "2026-02-15",
     "value": 0.04016,
     "value_": 4.01578
-  },
-  {
-    "geoid": "51179",
-    "key": "unempr-sa-female",
-    "date": "2011-02-15",
-    "value": 0.05349,
-    "value_": 5.34935
   },
   {
     "geoid": "51179",
@@ -16578,13 +15542,6 @@
   {
     "geoid": "51187",
     "key": "unempr-sa-female",
-    "date": "2011-02-15",
-    "value": 0.06562,
-    "value_": 6.56234
-  },
-  {
-    "geoid": "51187",
-    "key": "unempr-sa-female",
     "date": "2012-02-15",
     "value": 0.06038,
     "value_": 6.038
@@ -16686,13 +15643,6 @@
     "date": "2026-02-15",
     "value": 0.03758,
     "value_": 3.75765
-  },
-  {
-    "geoid": "51510",
-    "key": "unempr-sa-female",
-    "date": "2011-02-15",
-    "value": 0.03854,
-    "value_": 3.85369
   },
   {
     "geoid": "51510",
@@ -16802,13 +15752,6 @@
   {
     "geoid": "51630",
     "key": "unempr-sa-female",
-    "date": "2011-02-15",
-    "value": 0.07325,
-    "value_": 7.32516
-  },
-  {
-    "geoid": "51630",
-    "key": "unempr-sa-female",
     "date": "2012-02-15",
     "value": 0.06564,
     "value_": 6.56375
@@ -16910,13 +15853,6 @@
     "date": "2026-02-15",
     "value": 0.04388,
     "value_": 4.38819
-  },
-  {
-    "geoid": "54037",
-    "key": "unempr-sa-female",
-    "date": "2011-02-15",
-    "value": 0.04586,
-    "value_": 4.58583
   },
   {
     "geoid": "54037",
@@ -17026,13 +15962,6 @@
   {
     "geoid": "99997",
     "key": "unempr-sa-female",
-    "date": "2011-02-15",
-    "value": 0.08254,
-    "value_": 8.25425
-  },
-  {
-    "geoid": "99997",
-    "key": "unempr-sa-female",
     "date": "2012-02-15",
     "value": 0.07684,
     "value_": 7.68446
@@ -17134,13 +16063,6 @@
     "date": "2026-02-15",
     "value": 0.0414,
     "value_": 4.13964
-  },
-  {
-    "geoid": "99999",
-    "key": "unempr-sa-female",
-    "date": "2011-02-15",
-    "value": 0.08239,
-    "value_": 8.23935
   },
   {
     "geoid": "99999",
@@ -17250,13 +16172,6 @@
   {
     "geoid": "11001",
     "key": "unempr-sa-female",
-    "date": "2011-03-15",
-    "value": 0.09869,
-    "value_": 9.86858
-  },
-  {
-    "geoid": "11001",
-    "key": "unempr-sa-female",
     "date": "2012-03-15",
     "value": 0.09659,
     "value_": 9.65899
@@ -17358,13 +16273,6 @@
     "date": "2026-03-15",
     "value": 0.06307,
     "value_": 6.30738
-  },
-  {
-    "geoid": "12060",
-    "key": "unempr-sa-female",
-    "date": "2011-03-15",
-    "value": 0.09455,
-    "value_": 9.45488
   },
   {
     "geoid": "12060",
@@ -17474,13 +16382,6 @@
   {
     "geoid": "12420",
     "key": "unempr-sa-female",
-    "date": "2011-03-15",
-    "value": 0.066,
-    "value_": 6.59967
-  },
-  {
-    "geoid": "12420",
-    "key": "unempr-sa-female",
     "date": "2012-03-15",
     "value": 0.05967,
     "value_": 5.96654
@@ -17582,13 +16483,6 @@
     "date": "2026-03-15",
     "value": 0.03397,
     "value_": 3.39686
-  },
-  {
-    "geoid": "12580",
-    "key": "unempr-sa-female",
-    "date": "2011-03-15",
-    "value": 0.06825,
-    "value_": 6.82542
   },
   {
     "geoid": "12580",
@@ -17698,13 +16592,6 @@
   {
     "geoid": "13820",
     "key": "unempr-sa-female",
-    "date": "2011-03-15",
-    "value": 0.08571,
-    "value_": 8.57097
-  },
-  {
-    "geoid": "13820",
-    "key": "unempr-sa-female",
     "date": "2012-03-15",
     "value": 0.07429,
     "value_": 7.42882
@@ -17806,13 +16693,6 @@
     "date": "2026-03-15",
     "value": 0.03176,
     "value_": 3.17599
-  },
-  {
-    "geoid": "14460",
-    "key": "unempr-sa-female",
-    "date": "2011-03-15",
-    "value": 0.05626,
-    "value_": 5.62587
   },
   {
     "geoid": "14460",
@@ -17922,13 +16802,6 @@
   {
     "geoid": "15380",
     "key": "unempr-sa-female",
-    "date": "2011-03-15",
-    "value": 0.07435,
-    "value_": 7.43531
-  },
-  {
-    "geoid": "15380",
-    "key": "unempr-sa-female",
     "date": "2012-03-15",
     "value": 0.07519,
     "value_": 7.51896
@@ -18030,13 +16903,6 @@
     "date": "2026-03-15",
     "value": 0.03723,
     "value_": 3.7232
-  },
-  {
-    "geoid": "16740",
-    "key": "unempr-sa-female",
-    "date": "2011-03-15",
-    "value": 0.10109,
-    "value_": 10.10899
   },
   {
     "geoid": "16740",
@@ -18146,13 +17012,6 @@
   {
     "geoid": "16980",
     "key": "unempr-sa-female",
-    "date": "2011-03-15",
-    "value": 0.08323,
-    "value_": 8.32302
-  },
-  {
-    "geoid": "16980",
-    "key": "unempr-sa-female",
     "date": "2012-03-15",
     "value": 0.07911,
     "value_": 7.91072
@@ -18254,13 +17113,6 @@
     "date": "2026-03-15",
     "value": 0.04286,
     "value_": 4.28589
-  },
-  {
-    "geoid": "17140",
-    "key": "unempr-sa-female",
-    "date": "2011-03-15",
-    "value": 0.07341,
-    "value_": 7.3408
   },
   {
     "geoid": "17140",
@@ -18370,13 +17222,6 @@
   {
     "geoid": "17410",
     "key": "unempr-sa-female",
-    "date": "2011-03-15",
-    "value": 0.06022,
-    "value_": 6.02157
-  },
-  {
-    "geoid": "17410",
-    "key": "unempr-sa-female",
     "date": "2012-03-15",
     "value": 0.05584,
     "value_": 5.58419
@@ -18478,13 +17323,6 @@
     "date": "2026-03-15",
     "value": 0.03085,
     "value_": 3.08523
-  },
-  {
-    "geoid": "18140",
-    "key": "unempr-sa-female",
-    "date": "2011-03-15",
-    "value": 0.06485,
-    "value_": 6.4852
   },
   {
     "geoid": "18140",
@@ -18594,13 +17432,6 @@
   {
     "geoid": "19100",
     "key": "unempr-sa-female",
-    "date": "2011-03-15",
-    "value": 0.07644,
-    "value_": 7.64416
-  },
-  {
-    "geoid": "19100",
-    "key": "unempr-sa-female",
     "date": "2012-03-15",
     "value": 0.06804,
     "value_": 6.80447
@@ -18702,13 +17533,6 @@
     "date": "2026-03-15",
     "value": 0.03834,
     "value_": 3.83385
-  },
-  {
-    "geoid": "19740",
-    "key": "unempr-sa-female",
-    "date": "2011-03-15",
-    "value": 0.07669,
-    "value_": 7.66866
   },
   {
     "geoid": "19740",
@@ -18818,13 +17642,6 @@
   {
     "geoid": "19820",
     "key": "unempr-sa-female",
-    "date": "2011-03-15",
-    "value": 0.10074,
-    "value_": 10.07364
-  },
-  {
-    "geoid": "19820",
-    "key": "unempr-sa-female",
     "date": "2012-03-15",
     "value": 0.08706,
     "value_": 8.70633
@@ -18926,13 +17743,6 @@
     "date": "2026-03-15",
     "value": 0.04394,
     "value_": 4.39409
-  },
-  {
-    "geoid": "23420",
-    "key": "unempr-sa-female",
-    "date": "2011-03-15",
-    "value": 0.14725,
-    "value_": 14.72452
   },
   {
     "geoid": "23420",
@@ -19042,13 +17852,6 @@
   {
     "geoid": "24017",
     "key": "unempr-sa-female",
-    "date": "2011-03-15",
-    "value": 0.05882,
-    "value_": 5.88248
-  },
-  {
-    "geoid": "24017",
-    "key": "unempr-sa-female",
     "date": "2012-03-15",
     "value": 0.05765,
     "value_": 5.76485
@@ -19150,13 +17953,6 @@
     "date": "2026-03-15",
     "value": 0.04951,
     "value_": 4.9511
-  },
-  {
-    "geoid": "24021",
-    "key": "unempr-sa-female",
-    "date": "2011-03-15",
-    "value": 0.05678,
-    "value_": 5.67801
   },
   {
     "geoid": "24021",
@@ -19266,13 +18062,6 @@
   {
     "geoid": "24031",
     "key": "unempr-sa-female",
-    "date": "2011-03-15",
-    "value": 0.04606,
-    "value_": 4.6064
-  },
-  {
-    "geoid": "24031",
-    "key": "unempr-sa-female",
     "date": "2012-03-15",
     "value": 0.04503,
     "value_": 4.50345
@@ -19374,13 +18163,6 @@
     "date": "2026-03-15",
     "value": 0.04279,
     "value_": 4.27946
-  },
-  {
-    "geoid": "24033",
-    "key": "unempr-sa-female",
-    "date": "2011-03-15",
-    "value": 0.06416,
-    "value_": 6.41553
   },
   {
     "geoid": "24033",
@@ -19490,13 +18272,6 @@
   {
     "geoid": "24340",
     "key": "unempr-sa-female",
-    "date": "2011-03-15",
-    "value": 0.07447,
-    "value_": 7.44693
-  },
-  {
-    "geoid": "24340",
-    "key": "unempr-sa-female",
     "date": "2012-03-15",
     "value": 0.06223,
     "value_": 6.22266
@@ -19598,13 +18373,6 @@
     "date": "2026-03-15",
     "value": 0.03509,
     "value_": 3.50892
-  },
-  {
-    "geoid": "24860",
-    "key": "unempr-sa-female",
-    "date": "2011-03-15",
-    "value": 0.09346,
-    "value_": 9.34576
   },
   {
     "geoid": "24860",
@@ -19714,13 +18482,6 @@
   {
     "geoid": "25540",
     "key": "unempr-sa-female",
-    "date": "2011-03-15",
-    "value": 0.07954,
-    "value_": 7.95371
-  },
-  {
-    "geoid": "25540",
-    "key": "unempr-sa-female",
     "date": "2012-03-15",
     "value": 0.07127,
     "value_": 7.12742
@@ -19822,13 +18583,6 @@
     "date": "2026-03-15",
     "value": 0.03908,
     "value_": 3.90783
-  },
-  {
-    "geoid": "26420",
-    "key": "unempr-sa-female",
-    "date": "2011-03-15",
-    "value": 0.07927,
-    "value_": 7.92652
   },
   {
     "geoid": "26420",
@@ -19938,13 +18692,6 @@
   {
     "geoid": "26900",
     "key": "unempr-sa-female",
-    "date": "2011-03-15",
-    "value": 0.07456,
-    "value_": 7.45609
-  },
-  {
-    "geoid": "26900",
-    "key": "unempr-sa-female",
     "date": "2012-03-15",
     "value": 0.07276,
     "value_": 7.27578
@@ -20046,13 +18793,6 @@
     "date": "2026-03-15",
     "value": 0.02872,
     "value_": 2.87203
-  },
-  {
-    "geoid": "27260",
-    "key": "unempr-sa-female",
-    "date": "2011-03-15",
-    "value": 0.09288,
-    "value_": 9.2883
   },
   {
     "geoid": "27260",
@@ -20162,13 +18902,6 @@
   {
     "geoid": "28140",
     "key": "unempr-sa-female",
-    "date": "2011-03-15",
-    "value": 0.07151,
-    "value_": 7.15054
-  },
-  {
-    "geoid": "28140",
-    "key": "unempr-sa-female",
     "date": "2012-03-15",
     "value": 0.06202,
     "value_": 6.20198
@@ -20270,13 +19003,6 @@
     "date": "2026-03-15",
     "value": 0.0369,
     "value_": 3.68958
-  },
-  {
-    "geoid": "29820",
-    "key": "unempr-sa-female",
-    "date": "2011-03-15",
-    "value": 0.11541,
-    "value_": 11.54111
   },
   {
     "geoid": "29820",
@@ -20386,13 +19112,6 @@
   {
     "geoid": "31080",
     "key": "unempr-sa-female",
-    "date": "2011-03-15",
-    "value": 0.10375,
-    "value_": 10.37508
-  },
-  {
-    "geoid": "31080",
-    "key": "unempr-sa-female",
     "date": "2012-03-15",
     "value": 0.09983,
     "value_": 9.9832
@@ -20494,13 +19213,6 @@
     "date": "2026-03-15",
     "value": 0.04667,
     "value_": 4.66688
-  },
-  {
-    "geoid": "31140",
-    "key": "unempr-sa-female",
-    "date": "2011-03-15",
-    "value": 0.07618,
-    "value_": 7.6178
   },
   {
     "geoid": "31140",
@@ -20610,13 +19322,6 @@
   {
     "geoid": "32820",
     "key": "unempr-sa-female",
-    "date": "2011-03-15",
-    "value": 0.09137,
-    "value_": 9.13668
-  },
-  {
-    "geoid": "32820",
-    "key": "unempr-sa-female",
     "date": "2012-03-15",
     "value": 0.09017,
     "value_": 9.01675
@@ -20718,13 +19423,6 @@
     "date": "2026-03-15",
     "value": 0.0489,
     "value_": 4.89017
-  },
-  {
-    "geoid": "33100",
-    "key": "unempr-sa-female",
-    "date": "2011-03-15",
-    "value": 0.09924,
-    "value_": 9.92363
   },
   {
     "geoid": "33100",
@@ -20834,13 +19532,6 @@
   {
     "geoid": "33340",
     "key": "unempr-sa-female",
-    "date": "2011-03-15",
-    "value": 0.06947,
-    "value_": 6.94742
-  },
-  {
-    "geoid": "33340",
-    "key": "unempr-sa-female",
     "date": "2012-03-15",
     "value": 0.06615,
     "value_": 6.61509
@@ -20942,13 +19633,6 @@
     "date": "2026-03-15",
     "value": 0.0338,
     "value_": 3.38019
-  },
-  {
-    "geoid": "33460",
-    "key": "unempr-sa-female",
-    "date": "2011-03-15",
-    "value": 0.05343,
-    "value_": 5.3433
   },
   {
     "geoid": "33460",
@@ -21058,13 +19742,6 @@
   {
     "geoid": "34980",
     "key": "unempr-sa-female",
-    "date": "2011-03-15",
-    "value": 0.08079,
-    "value_": 8.07888
-  },
-  {
-    "geoid": "34980",
-    "key": "unempr-sa-female",
     "date": "2012-03-15",
     "value": 0.07167,
     "value_": 7.16677
@@ -21166,13 +19843,6 @@
     "date": "2026-03-15",
     "value": 0.03345,
     "value_": 3.3449
-  },
-  {
-    "geoid": "35620",
-    "key": "unempr-sa-female",
-    "date": "2011-03-15",
-    "value": 0.07803,
-    "value_": 7.80303
   },
   {
     "geoid": "35620",
@@ -21282,13 +19952,6 @@
   {
     "geoid": "36420",
     "key": "unempr-sa-female",
-    "date": "2011-03-15",
-    "value": 0.04795,
-    "value_": 4.79511
-  },
-  {
-    "geoid": "36420",
-    "key": "unempr-sa-female",
     "date": "2012-03-15",
     "value": 0.04643,
     "value_": 4.6428
@@ -21390,13 +20053,6 @@
     "date": "2026-03-15",
     "value": 0.0357,
     "value_": 3.57036
-  },
-  {
-    "geoid": "36540",
-    "key": "unempr-sa-female",
-    "date": "2011-03-15",
-    "value": 0.04795,
-    "value_": 4.79458
   },
   {
     "geoid": "36540",
@@ -21506,13 +20162,6 @@
   {
     "geoid": "36740",
     "key": "unempr-sa-female",
-    "date": "2011-03-15",
-    "value": 0.09695,
-    "value_": 9.69514
-  },
-  {
-    "geoid": "36740",
-    "key": "unempr-sa-female",
     "date": "2012-03-15",
     "value": 0.09011,
     "value_": 9.0106
@@ -21614,13 +20263,6 @@
     "date": "2026-03-15",
     "value": 0.05326,
     "value_": 5.32592
-  },
-  {
-    "geoid": "37980",
-    "key": "unempr-sa-female",
-    "date": "2011-03-15",
-    "value": 0.07754,
-    "value_": 7.75392
   },
   {
     "geoid": "37980",
@@ -21730,13 +20372,6 @@
   {
     "geoid": "38060",
     "key": "unempr-sa-female",
-    "date": "2011-03-15",
-    "value": 0.08196,
-    "value_": 8.19649
-  },
-  {
-    "geoid": "38060",
-    "key": "unempr-sa-female",
     "date": "2012-03-15",
     "value": 0.07159,
     "value_": 7.15936
@@ -21838,13 +20473,6 @@
     "date": "2026-03-15",
     "value": 0.0448,
     "value_": 4.48033
-  },
-  {
-    "geoid": "38300",
-    "key": "unempr-sa-female",
-    "date": "2011-03-15",
-    "value": 0.06768,
-    "value_": 6.76809
   },
   {
     "geoid": "38300",
@@ -21954,13 +20582,6 @@
   {
     "geoid": "38900",
     "key": "unempr-sa-female",
-    "date": "2011-03-15",
-    "value": 0.07958,
-    "value_": 7.95791
-  },
-  {
-    "geoid": "38900",
-    "key": "unempr-sa-female",
     "date": "2012-03-15",
     "value": 0.07144,
     "value_": 7.14371
@@ -22062,13 +20683,6 @@
     "date": "2026-03-15",
     "value": 0.04302,
     "value_": 4.30154
-  },
-  {
-    "geoid": "39300",
-    "key": "unempr-sa-female",
-    "date": "2011-03-15",
-    "value": 0.09239,
-    "value_": 9.23897
   },
   {
     "geoid": "39300",
@@ -22178,13 +20792,6 @@
   {
     "geoid": "39580",
     "key": "unempr-sa-female",
-    "date": "2011-03-15",
-    "value": 0.07504,
-    "value_": 7.50427
-  },
-  {
-    "geoid": "39580",
-    "key": "unempr-sa-female",
     "date": "2012-03-15",
     "value": 0.07152,
     "value_": 7.15204
@@ -22286,13 +20893,6 @@
     "date": "2026-03-15",
     "value": 0.03392,
     "value_": 3.39151
-  },
-  {
-    "geoid": "40060",
-    "key": "unempr-sa-female",
-    "date": "2011-03-15",
-    "value": 0.06426,
-    "value_": 6.42556
   },
   {
     "geoid": "40060",
@@ -22402,13 +21002,6 @@
   {
     "geoid": "40140",
     "key": "unempr-sa-female",
-    "date": "2011-03-15",
-    "value": 0.1193,
-    "value_": 11.92993
-  },
-  {
-    "geoid": "40140",
-    "key": "unempr-sa-female",
     "date": "2012-03-15",
     "value": 0.11241,
     "value_": 11.24102
@@ -22510,13 +21103,6 @@
     "date": "2026-03-15",
     "value": 0.04929,
     "value_": 4.92885
-  },
-  {
-    "geoid": "40380",
-    "key": "unempr-sa-female",
-    "date": "2011-03-15",
-    "value": 0.07013,
-    "value_": 7.01308
   },
   {
     "geoid": "40380",
@@ -22626,13 +21212,6 @@
   {
     "geoid": "40900",
     "key": "unempr-sa-female",
-    "date": "2011-03-15",
-    "value": 0.10926,
-    "value_": 10.92625
-  },
-  {
-    "geoid": "40900",
-    "key": "unempr-sa-female",
     "date": "2012-03-15",
     "value": 0.1011,
     "value_": 10.10978
@@ -22734,13 +21313,6 @@
     "date": "2026-03-15",
     "value": 0.04412,
     "value_": 4.41153
-  },
-  {
-    "geoid": "41180",
-    "key": "unempr-sa-female",
-    "date": "2011-03-15",
-    "value": 0.07752,
-    "value_": 7.75209
   },
   {
     "geoid": "41180",
@@ -22850,13 +21422,6 @@
   {
     "geoid": "41620",
     "key": "unempr-sa-female",
-    "date": "2011-03-15",
-    "value": 0.06711,
-    "value_": 6.71093
-  },
-  {
-    "geoid": "41620",
-    "key": "unempr-sa-female",
     "date": "2012-03-15",
     "value": 0.04309,
     "value_": 4.30864
@@ -22958,13 +21523,6 @@
     "date": "2026-03-15",
     "value": 0.03293,
     "value_": 3.29287
-  },
-  {
-    "geoid": "41700",
-    "key": "unempr-sa-female",
-    "date": "2011-03-15",
-    "value": 0.0711,
-    "value_": 7.1095
   },
   {
     "geoid": "41700",
@@ -23074,13 +21632,6 @@
   {
     "geoid": "41740",
     "key": "unempr-sa-female",
-    "date": "2011-03-15",
-    "value": 0.09336,
-    "value_": 9.33641
-  },
-  {
-    "geoid": "41740",
-    "key": "unempr-sa-female",
     "date": "2012-03-15",
     "value": 0.08906,
     "value_": 8.90594
@@ -23182,13 +21733,6 @@
     "date": "2026-03-15",
     "value": 0.04118,
     "value_": 4.11771
-  },
-  {
-    "geoid": "41860",
-    "key": "unempr-sa-female",
-    "date": "2011-03-15",
-    "value": 0.0843,
-    "value_": 8.42998
   },
   {
     "geoid": "41860",
@@ -23298,13 +21842,6 @@
   {
     "geoid": "41940",
     "key": "unempr-sa-female",
-    "date": "2011-03-15",
-    "value": 0.08667,
-    "value_": 8.66732
-  },
-  {
-    "geoid": "41940",
-    "key": "unempr-sa-female",
     "date": "2012-03-15",
     "value": 0.07882,
     "value_": 7.8818
@@ -23406,13 +21943,6 @@
     "date": "2026-03-15",
     "value": 0.03724,
     "value_": 3.72405
-  },
-  {
-    "geoid": "42660",
-    "key": "unempr-sa-female",
-    "date": "2011-03-15",
-    "value": 0.07971,
-    "value_": 7.97133
   },
   {
     "geoid": "42660",
@@ -23522,13 +22052,6 @@
   {
     "geoid": "45300",
     "key": "unempr-sa-female",
-    "date": "2011-03-15",
-    "value": 0.09653,
-    "value_": 9.65341
-  },
-  {
-    "geoid": "45300",
-    "key": "unempr-sa-female",
     "date": "2012-03-15",
     "value": 0.08844,
     "value_": 8.84443
@@ -23630,13 +22153,6 @@
     "date": "2026-03-15",
     "value": 0.05487,
     "value_": 5.48671
-  },
-  {
-    "geoid": "46060",
-    "key": "unempr-sa-female",
-    "date": "2011-03-15",
-    "value": 0.08051,
-    "value_": 8.05098
   },
   {
     "geoid": "46060",
@@ -23746,13 +22262,6 @@
   {
     "geoid": "46140",
     "key": "unempr-sa-female",
-    "date": "2011-03-15",
-    "value": 0.06084,
-    "value_": 6.0835
-  },
-  {
-    "geoid": "46140",
-    "key": "unempr-sa-female",
     "date": "2012-03-15",
     "value": 0.05595,
     "value_": 5.59492
@@ -23854,13 +22363,6 @@
     "date": "2026-03-15",
     "value": 0.03745,
     "value_": 3.74472
-  },
-  {
-    "geoid": "47260",
-    "key": "unempr-sa-female",
-    "date": "2011-03-15",
-    "value": 0.06301,
-    "value_": 6.30086
   },
   {
     "geoid": "47260",
@@ -23970,13 +22472,6 @@
   {
     "geoid": "47900",
     "key": "unempr-sa-female",
-    "date": "2011-03-15",
-    "value": 0.05488,
-    "value_": 5.48757
-  },
-  {
-    "geoid": "47900",
-    "key": "unempr-sa-female",
     "date": "2012-03-15",
     "value": 0.05293,
     "value_": 5.29278
@@ -24078,13 +22573,6 @@
     "date": "2026-03-15",
     "value": 0.04385,
     "value_": 4.38483
-  },
-  {
-    "geoid": "51013",
-    "key": "unempr-sa-female",
-    "date": "2011-03-15",
-    "value": 0.03221,
-    "value_": 3.22123
   },
   {
     "geoid": "51013",
@@ -24194,13 +22682,6 @@
   {
     "geoid": "51043",
     "key": "unempr-sa-female",
-    "date": "2011-03-15",
-    "value": 0.05133,
-    "value_": 5.13274
-  },
-  {
-    "geoid": "51043",
-    "key": "unempr-sa-female",
     "date": "2012-03-15",
     "value": 0.04664,
     "value_": 4.66445
@@ -24302,13 +22783,6 @@
     "date": "2026-03-15",
     "value": 0.03744,
     "value_": 3.74373
-  },
-  {
-    "geoid": "51047",
-    "key": "unempr-sa-female",
-    "date": "2011-03-15",
-    "value": 0.05632,
-    "value_": 5.63202
   },
   {
     "geoid": "51047",
@@ -24418,13 +22892,6 @@
   {
     "geoid": "51059",
     "key": "unempr-sa-female",
-    "date": "2011-03-15",
-    "value": 0.04064,
-    "value_": 4.06379
-  },
-  {
-    "geoid": "51059",
-    "key": "unempr-sa-female",
     "date": "2012-03-15",
     "value": 0.03943,
     "value_": 3.94307
@@ -24526,13 +22993,6 @@
     "date": "2026-03-15",
     "value": 0.0389,
     "value_": 3.88977
-  },
-  {
-    "geoid": "51061",
-    "key": "unempr-sa-female",
-    "date": "2011-03-15",
-    "value": 0.04845,
-    "value_": 4.84467
   },
   {
     "geoid": "51061",
@@ -24642,13 +23102,6 @@
   {
     "geoid": "51107",
     "key": "unempr-sa-female",
-    "date": "2011-03-15",
-    "value": 0.04013,
-    "value_": 4.01332
-  },
-  {
-    "geoid": "51107",
-    "key": "unempr-sa-female",
     "date": "2012-03-15",
     "value": 0.03869,
     "value_": 3.86898
@@ -24750,13 +23203,6 @@
     "date": "2026-03-15",
     "value": 0.03852,
     "value_": 3.85203
-  },
-  {
-    "geoid": "51153",
-    "key": "unempr-sa-female",
-    "date": "2011-03-15",
-    "value": 0.04928,
-    "value_": 4.92814
   },
   {
     "geoid": "51153",
@@ -24866,13 +23312,6 @@
   {
     "geoid": "51157",
     "key": "unempr-sa-female",
-    "date": "2011-03-15",
-    "value": 0.04812,
-    "value_": 4.81224
-  },
-  {
-    "geoid": "51157",
-    "key": "unempr-sa-female",
     "date": "2012-03-15",
     "value": 0.04948,
     "value_": 4.94763
@@ -24974,13 +23413,6 @@
     "date": "2026-03-15",
     "value": 0.03363,
     "value_": 3.36323
-  },
-  {
-    "geoid": "51177",
-    "key": "unempr-sa-female",
-    "date": "2011-03-15",
-    "value": 0.0584,
-    "value_": 5.84025
   },
   {
     "geoid": "51177",
@@ -25090,13 +23522,6 @@
   {
     "geoid": "51179",
     "key": "unempr-sa-female",
-    "date": "2011-03-15",
-    "value": 0.05342,
-    "value_": 5.34235
-  },
-  {
-    "geoid": "51179",
-    "key": "unempr-sa-female",
     "date": "2012-03-15",
     "value": 0.05171,
     "value_": 5.17124
@@ -25198,13 +23623,6 @@
     "date": "2026-03-15",
     "value": 0.03955,
     "value_": 3.95497
-  },
-  {
-    "geoid": "51187",
-    "key": "unempr-sa-female",
-    "date": "2011-03-15",
-    "value": 0.0653,
-    "value_": 6.52998
   },
   {
     "geoid": "51187",
@@ -25314,13 +23732,6 @@
   {
     "geoid": "51510",
     "key": "unempr-sa-female",
-    "date": "2011-03-15",
-    "value": 0.03866,
-    "value_": 3.86594
-  },
-  {
-    "geoid": "51510",
-    "key": "unempr-sa-female",
     "date": "2012-03-15",
     "value": 0.03638,
     "value_": 3.63844
@@ -25422,13 +23833,6 @@
     "date": "2026-03-15",
     "value": 0.03588,
     "value_": 3.58764
-  },
-  {
-    "geoid": "51630",
-    "key": "unempr-sa-female",
-    "date": "2011-03-15",
-    "value": 0.07269,
-    "value_": 7.26868
   },
   {
     "geoid": "51630",
@@ -25538,13 +23942,6 @@
   {
     "geoid": "54037",
     "key": "unempr-sa-female",
-    "date": "2011-03-15",
-    "value": 0.04396,
-    "value_": 4.3962
-  },
-  {
-    "geoid": "54037",
-    "key": "unempr-sa-female",
     "date": "2012-03-15",
     "value": 0.03932,
     "value_": 3.93239
@@ -25646,13 +24043,6 @@
     "date": "2026-03-15",
     "value": 0.02264,
     "value_": 2.26445
-  },
-  {
-    "geoid": "99997",
-    "key": "unempr-sa-female",
-    "date": "2011-03-15",
-    "value": 0.08184,
-    "value_": 8.1843
   },
   {
     "geoid": "99997",
@@ -25762,13 +24152,6 @@
   {
     "geoid": "99999",
     "key": "unempr-sa-female",
-    "date": "2011-03-15",
-    "value": 0.08174,
-    "value_": 8.17386
-  },
-  {
-    "geoid": "99999",
-    "key": "unempr-sa-female",
     "date": "2012-03-15",
     "value": 0.07607,
     "value_": 7.60749
@@ -25870,13 +24253,6 @@
     "date": "2026-03-15",
     "value": 0.04081,
     "value_": 4.08114
-  },
-  {
-    "geoid": "11001",
-    "key": "unempr-sa-female",
-    "date": "2011-04-15",
-    "value": 0.10043,
-    "value_": 10.04317
   },
   {
     "geoid": "11001",
@@ -25986,13 +24362,6 @@
   {
     "geoid": "12060",
     "key": "unempr-sa-female",
-    "date": "2011-04-15",
-    "value": 0.09504,
-    "value_": 9.50443
-  },
-  {
-    "geoid": "12060",
-    "key": "unempr-sa-female",
     "date": "2012-04-15",
     "value": 0.08729,
     "value_": 8.72927
@@ -26094,13 +24463,6 @@
     "date": "2026-04-15",
     "value": 0.03157,
     "value_": 3.15673
-  },
-  {
-    "geoid": "12420",
-    "key": "unempr-sa-female",
-    "date": "2011-04-15",
-    "value": 0.06657,
-    "value_": 6.65671
   },
   {
     "geoid": "12420",
@@ -26210,13 +24572,6 @@
   {
     "geoid": "12580",
     "key": "unempr-sa-female",
-    "date": "2011-04-15",
-    "value": 0.06757,
-    "value_": 6.75689
-  },
-  {
-    "geoid": "12580",
-    "key": "unempr-sa-female",
     "date": "2012-04-15",
     "value": 0.06278,
     "value_": 6.27754
@@ -26318,13 +24673,6 @@
     "date": "2026-04-15",
     "value": 0.04613,
     "value_": 4.61298
-  },
-  {
-    "geoid": "13820",
-    "key": "unempr-sa-female",
-    "date": "2011-04-15",
-    "value": 0.08597,
-    "value_": 8.59693
   },
   {
     "geoid": "13820",
@@ -26434,13 +24782,6 @@
   {
     "geoid": "14460",
     "key": "unempr-sa-female",
-    "date": "2011-04-15",
-    "value": 0.05589,
-    "value_": 5.58876
-  },
-  {
-    "geoid": "14460",
-    "key": "unempr-sa-female",
     "date": "2012-04-15",
     "value": 0.05034,
     "value_": 5.0336
@@ -26542,13 +24883,6 @@
     "date": "2026-04-15",
     "value": 0.03559,
     "value_": 3.5588
-  },
-  {
-    "geoid": "15380",
-    "key": "unempr-sa-female",
-    "date": "2011-04-15",
-    "value": 0.07331,
-    "value_": 7.33149
   },
   {
     "geoid": "15380",
@@ -26658,13 +24992,6 @@
   {
     "geoid": "16740",
     "key": "unempr-sa-female",
-    "date": "2011-04-15",
-    "value": 0.10135,
-    "value_": 10.13518
-  },
-  {
-    "geoid": "16740",
-    "key": "unempr-sa-female",
     "date": "2012-04-15",
     "value": 0.08806,
     "value_": 8.80569
@@ -26766,13 +25093,6 @@
     "date": "2026-04-15",
     "value": 0.0408,
     "value_": 4.08007
-  },
-  {
-    "geoid": "16980",
-    "key": "unempr-sa-female",
-    "date": "2011-04-15",
-    "value": 0.08275,
-    "value_": 8.27494
   },
   {
     "geoid": "16980",
@@ -26882,13 +25202,6 @@
   {
     "geoid": "17140",
     "key": "unempr-sa-female",
-    "date": "2011-04-15",
-    "value": 0.07279,
-    "value_": 7.27907
-  },
-  {
-    "geoid": "17140",
-    "key": "unempr-sa-female",
     "date": "2012-04-15",
     "value": 0.06412,
     "value_": 6.41163
@@ -26990,13 +25303,6 @@
     "date": "2026-04-15",
     "value": 0.02943,
     "value_": 2.94321
-  },
-  {
-    "geoid": "17410",
-    "key": "unempr-sa-female",
-    "date": "2011-04-15",
-    "value": 0.05892,
-    "value_": 5.89151
   },
   {
     "geoid": "17410",
@@ -27106,13 +25412,6 @@
   {
     "geoid": "18140",
     "key": "unempr-sa-female",
-    "date": "2011-04-15",
-    "value": 0.06461,
-    "value_": 6.46059
-  },
-  {
-    "geoid": "18140",
-    "key": "unempr-sa-female",
     "date": "2012-04-15",
     "value": 0.05649,
     "value_": 5.64919
@@ -27214,13 +25513,6 @@
     "date": "2026-04-15",
     "value": 0.02768,
     "value_": 2.76754
-  },
-  {
-    "geoid": "19100",
-    "key": "unempr-sa-female",
-    "date": "2011-04-15",
-    "value": 0.07698,
-    "value_": 7.69826
   },
   {
     "geoid": "19100",
@@ -27330,13 +25622,6 @@
   {
     "geoid": "19740",
     "key": "unempr-sa-female",
-    "date": "2011-04-15",
-    "value": 0.07609,
-    "value_": 7.60889
-  },
-  {
-    "geoid": "19740",
-    "key": "unempr-sa-female",
     "date": "2012-04-15",
     "value": 0.07427,
     "value_": 7.42706
@@ -27438,13 +25723,6 @@
     "date": "2026-04-15",
     "value": 0.03459,
     "value_": 3.45864
-  },
-  {
-    "geoid": "19820",
-    "key": "unempr-sa-female",
-    "date": "2011-04-15",
-    "value": 0.09954,
-    "value_": 9.95367
   },
   {
     "geoid": "19820",
@@ -27554,13 +25832,6 @@
   {
     "geoid": "23420",
     "key": "unempr-sa-female",
-    "date": "2011-04-15",
-    "value": 0.14842,
-    "value_": 14.84181
-  },
-  {
-    "geoid": "23420",
-    "key": "unempr-sa-female",
     "date": "2012-04-15",
     "value": 0.1438,
     "value_": 14.38038
@@ -27662,13 +25933,6 @@
     "date": "2026-04-15",
     "value": 0.07319,
     "value_": 7.31879
-  },
-  {
-    "geoid": "24017",
-    "key": "unempr-sa-female",
-    "date": "2011-04-15",
-    "value": 0.05853,
-    "value_": 5.85277
   },
   {
     "geoid": "24017",
@@ -27778,13 +26042,6 @@
   {
     "geoid": "24021",
     "key": "unempr-sa-female",
-    "date": "2011-04-15",
-    "value": 0.0566,
-    "value_": 5.65987
-  },
-  {
-    "geoid": "24021",
-    "key": "unempr-sa-female",
     "date": "2012-04-15",
     "value": 0.0534,
     "value_": 5.33962
@@ -27886,13 +26143,6 @@
     "date": "2026-04-15",
     "value": 0.04229,
     "value_": 4.22878
-  },
-  {
-    "geoid": "24031",
-    "key": "unempr-sa-female",
-    "date": "2011-04-15",
-    "value": 0.04582,
-    "value_": 4.58232
   },
   {
     "geoid": "24031",
@@ -28002,13 +26252,6 @@
   {
     "geoid": "24033",
     "key": "unempr-sa-female",
-    "date": "2011-04-15",
-    "value": 0.06406,
-    "value_": 6.40556
-  },
-  {
-    "geoid": "24033",
-    "key": "unempr-sa-female",
     "date": "2012-04-15",
     "value": 0.06261,
     "value_": 6.26069
@@ -28110,13 +26353,6 @@
     "date": "2026-04-15",
     "value": 0.05179,
     "value_": 5.17894
-  },
-  {
-    "geoid": "24340",
-    "key": "unempr-sa-female",
-    "date": "2011-04-15",
-    "value": 0.07296,
-    "value_": 7.29629
   },
   {
     "geoid": "24340",
@@ -28226,13 +26462,6 @@
   {
     "geoid": "24860",
     "key": "unempr-sa-female",
-    "date": "2011-04-15",
-    "value": 0.09281,
-    "value_": 9.28064
-  },
-  {
-    "geoid": "24860",
-    "key": "unempr-sa-female",
     "date": "2012-04-15",
     "value": 0.08258,
     "value_": 8.25765
@@ -28334,13 +26563,6 @@
     "date": "2026-04-15",
     "value": 0.04546,
     "value_": 4.5457
-  },
-  {
-    "geoid": "25540",
-    "key": "unempr-sa-female",
-    "date": "2011-04-15",
-    "value": 0.07876,
-    "value_": 7.87592
   },
   {
     "geoid": "25540",
@@ -28450,13 +26672,6 @@
   {
     "geoid": "26420",
     "key": "unempr-sa-female",
-    "date": "2011-04-15",
-    "value": 0.08011,
-    "value_": 8.01065
-  },
-  {
-    "geoid": "26420",
-    "key": "unempr-sa-female",
     "date": "2012-04-15",
     "value": 0.06775,
     "value_": 6.77548
@@ -28558,13 +26773,6 @@
     "date": "2026-04-15",
     "value": 0.04478,
     "value_": 4.47829
-  },
-  {
-    "geoid": "26900",
-    "key": "unempr-sa-female",
-    "date": "2011-04-15",
-    "value": 0.07452,
-    "value_": 7.45168
   },
   {
     "geoid": "26900",
@@ -28674,13 +26882,6 @@
   {
     "geoid": "27260",
     "key": "unempr-sa-female",
-    "date": "2011-04-15",
-    "value": 0.0929,
-    "value_": 9.28978
-  },
-  {
-    "geoid": "27260",
-    "key": "unempr-sa-female",
     "date": "2012-04-15",
     "value": 0.08638,
     "value_": 8.63815
@@ -28782,13 +26983,6 @@
     "date": "2026-04-15",
     "value": 0.05719,
     "value_": 5.71886
-  },
-  {
-    "geoid": "28140",
-    "key": "unempr-sa-female",
-    "date": "2011-04-15",
-    "value": 0.07027,
-    "value_": 7.02723
   },
   {
     "geoid": "28140",
@@ -28898,13 +27092,6 @@
   {
     "geoid": "29820",
     "key": "unempr-sa-female",
-    "date": "2011-04-15",
-    "value": 0.11509,
-    "value_": 11.50854
-  },
-  {
-    "geoid": "29820",
-    "key": "unempr-sa-female",
     "date": "2012-04-15",
     "value": 0.10964,
     "value_": 10.96387
@@ -29006,13 +27193,6 @@
     "date": "2026-04-15",
     "value": 0.05245,
     "value_": 5.24512
-  },
-  {
-    "geoid": "31080",
-    "key": "unempr-sa-female",
-    "date": "2011-04-15",
-    "value": 0.10451,
-    "value_": 10.45097
   },
   {
     "geoid": "31080",
@@ -29122,13 +27302,6 @@
   {
     "geoid": "31140",
     "key": "unempr-sa-female",
-    "date": "2011-04-15",
-    "value": 0.07579,
-    "value_": 7.57942
-  },
-  {
-    "geoid": "31140",
-    "key": "unempr-sa-female",
     "date": "2012-04-15",
     "value": 0.06661,
     "value_": 6.66073
@@ -29230,13 +27403,6 @@
     "date": "2026-04-15",
     "value": 0.03365,
     "value_": 3.36528
-  },
-  {
-    "geoid": "32820",
-    "key": "unempr-sa-female",
-    "date": "2011-04-15",
-    "value": 0.0924,
-    "value_": 9.24005
   },
   {
     "geoid": "32820",
@@ -29346,13 +27512,6 @@
   {
     "geoid": "33100",
     "key": "unempr-sa-female",
-    "date": "2011-04-15",
-    "value": 0.09796,
-    "value_": 9.79579
-  },
-  {
-    "geoid": "33100",
-    "key": "unempr-sa-female",
     "date": "2012-04-15",
     "value": 0.081,
     "value_": 8.09994
@@ -29454,13 +27613,6 @@
     "date": "2026-04-15",
     "value": 0.04441,
     "value_": 4.4407
-  },
-  {
-    "geoid": "33340",
-    "key": "unempr-sa-female",
-    "date": "2011-04-15",
-    "value": 0.06798,
-    "value_": 6.79754
   },
   {
     "geoid": "33340",
@@ -29570,13 +27722,6 @@
   {
     "geoid": "33460",
     "key": "unempr-sa-female",
-    "date": "2011-04-15",
-    "value": 0.05192,
-    "value_": 5.19182
-  },
-  {
-    "geoid": "33460",
-    "key": "unempr-sa-female",
     "date": "2012-04-15",
     "value": 0.04364,
     "value_": 4.36384
@@ -29678,13 +27823,6 @@
     "date": "2026-04-15",
     "value": 0.03465,
     "value_": 3.46458
-  },
-  {
-    "geoid": "34980",
-    "key": "unempr-sa-female",
-    "date": "2011-04-15",
-    "value": 0.08037,
-    "value_": 8.03681
   },
   {
     "geoid": "34980",
@@ -29794,13 +27932,6 @@
   {
     "geoid": "35620",
     "key": "unempr-sa-female",
-    "date": "2011-04-15",
-    "value": 0.07723,
-    "value_": 7.72261
-  },
-  {
-    "geoid": "35620",
-    "key": "unempr-sa-female",
     "date": "2012-04-15",
     "value": 0.08142,
     "value_": 8.14178
@@ -29902,13 +28033,6 @@
     "date": "2026-04-15",
     "value": 0.04274,
     "value_": 4.27351
-  },
-  {
-    "geoid": "36420",
-    "key": "unempr-sa-female",
-    "date": "2011-04-15",
-    "value": 0.04776,
-    "value_": 4.77633
   },
   {
     "geoid": "36420",
@@ -30018,13 +28142,6 @@
   {
     "geoid": "36540",
     "key": "unempr-sa-female",
-    "date": "2011-04-15",
-    "value": 0.04582,
-    "value_": 4.58205
-  },
-  {
-    "geoid": "36540",
-    "key": "unempr-sa-female",
     "date": "2012-04-15",
     "value": 0.04138,
     "value_": 4.13808
@@ -30126,13 +28243,6 @@
     "date": "2026-04-15",
     "value": 0.02861,
     "value_": 2.86099
-  },
-  {
-    "geoid": "36740",
-    "key": "unempr-sa-female",
-    "date": "2011-04-15",
-    "value": 0.0971,
-    "value_": 9.70986
   },
   {
     "geoid": "36740",
@@ -30242,13 +28352,6 @@
   {
     "geoid": "37980",
     "key": "unempr-sa-female",
-    "date": "2011-04-15",
-    "value": 0.07536,
-    "value_": 7.53556
-  },
-  {
-    "geoid": "37980",
-    "key": "unempr-sa-female",
     "date": "2012-04-15",
     "value": 0.0764,
     "value_": 7.64041
@@ -30350,13 +28453,6 @@
     "date": "2026-04-15",
     "value": 0.04055,
     "value_": 4.05524
-  },
-  {
-    "geoid": "38060",
-    "key": "unempr-sa-female",
-    "date": "2011-04-15",
-    "value": 0.08105,
-    "value_": 8.1051
   },
   {
     "geoid": "38060",
@@ -30466,13 +28562,6 @@
   {
     "geoid": "38300",
     "key": "unempr-sa-female",
-    "date": "2011-04-15",
-    "value": 0.06472,
-    "value_": 6.47231
-  },
-  {
-    "geoid": "38300",
-    "key": "unempr-sa-female",
     "date": "2012-04-15",
     "value": 0.06243,
     "value_": 6.2433
@@ -30574,13 +28663,6 @@
     "date": "2026-04-15",
     "value": 0.03573,
     "value_": 3.57263
-  },
-  {
-    "geoid": "38900",
-    "key": "unempr-sa-female",
-    "date": "2011-04-15",
-    "value": 0.07851,
-    "value_": 7.8512
   },
   {
     "geoid": "38900",
@@ -30690,13 +28772,6 @@
   {
     "geoid": "39300",
     "key": "unempr-sa-female",
-    "date": "2011-04-15",
-    "value": 0.09232,
-    "value_": 9.23226
-  },
-  {
-    "geoid": "39300",
-    "key": "unempr-sa-female",
     "date": "2012-04-15",
     "value": 0.08859,
     "value_": 8.85905
@@ -30798,13 +28873,6 @@
     "date": "2026-04-15",
     "value": 0.03879,
     "value_": 3.87868
-  },
-  {
-    "geoid": "39580",
-    "key": "unempr-sa-female",
-    "date": "2011-04-15",
-    "value": 0.07573,
-    "value_": 7.57347
   },
   {
     "geoid": "39580",
@@ -30914,13 +28982,6 @@
   {
     "geoid": "40060",
     "key": "unempr-sa-female",
-    "date": "2011-04-15",
-    "value": 0.06383,
-    "value_": 6.3828
-  },
-  {
-    "geoid": "40060",
-    "key": "unempr-sa-female",
     "date": "2012-04-15",
     "value": 0.05828,
     "value_": 5.8283
@@ -31022,13 +29083,6 @@
     "date": "2026-04-15",
     "value": 0.03903,
     "value_": 3.90303
-  },
-  {
-    "geoid": "40140",
-    "key": "unempr-sa-female",
-    "date": "2011-04-15",
-    "value": 0.1198,
-    "value_": 11.97971
   },
   {
     "geoid": "40140",
@@ -31138,13 +29192,6 @@
   {
     "geoid": "40380",
     "key": "unempr-sa-female",
-    "date": "2011-04-15",
-    "value": 0.06897,
-    "value_": 6.89738
-  },
-  {
-    "geoid": "40380",
-    "key": "unempr-sa-female",
     "date": "2012-04-15",
     "value": 0.07207,
     "value_": 7.2066
@@ -31246,13 +29293,6 @@
     "date": "2026-04-15",
     "value": 0.03665,
     "value_": 3.66454
-  },
-  {
-    "geoid": "40900",
-    "key": "unempr-sa-female",
-    "date": "2011-04-15",
-    "value": 0.10953,
-    "value_": 10.95286
   },
   {
     "geoid": "40900",
@@ -31362,13 +29402,6 @@
   {
     "geoid": "41180",
     "key": "unempr-sa-female",
-    "date": "2011-04-15",
-    "value": 0.07605,
-    "value_": 7.60498
-  },
-  {
-    "geoid": "41180",
-    "key": "unempr-sa-female",
     "date": "2012-04-15",
     "value": 0.06878,
     "value_": 6.87765
@@ -31470,13 +29503,6 @@
     "date": "2026-04-15",
     "value": 0.0392,
     "value_": 3.91952
-  },
-  {
-    "geoid": "41620",
-    "key": "unempr-sa-female",
-    "date": "2011-04-15",
-    "value": 0.06626,
-    "value_": 6.62646
   },
   {
     "geoid": "41620",
@@ -31586,13 +29612,6 @@
   {
     "geoid": "41700",
     "key": "unempr-sa-female",
-    "date": "2011-04-15",
-    "value": 0.072,
-    "value_": 7.20013
-  },
-  {
-    "geoid": "41700",
-    "key": "unempr-sa-female",
     "date": "2012-04-15",
     "value": 0.06387,
     "value_": 6.3871
@@ -31694,13 +29713,6 @@
     "date": "2026-04-15",
     "value": 0.04012,
     "value_": 4.01202
-  },
-  {
-    "geoid": "41740",
-    "key": "unempr-sa-female",
-    "date": "2011-04-15",
-    "value": 0.09409,
-    "value_": 9.40908
   },
   {
     "geoid": "41740",
@@ -31810,13 +29822,6 @@
   {
     "geoid": "41860",
     "key": "unempr-sa-female",
-    "date": "2011-04-15",
-    "value": 0.08445,
-    "value_": 8.44469
-  },
-  {
-    "geoid": "41860",
-    "key": "unempr-sa-female",
     "date": "2012-04-15",
     "value": 0.07671,
     "value_": 7.6711
@@ -31918,13 +29923,6 @@
     "date": "2026-04-15",
     "value": 0.03911,
     "value_": 3.9112
-  },
-  {
-    "geoid": "41940",
-    "key": "unempr-sa-female",
-    "date": "2011-04-15",
-    "value": 0.08683,
-    "value_": 8.68309
   },
   {
     "geoid": "41940",
@@ -32034,13 +30032,6 @@
   {
     "geoid": "42660",
     "key": "unempr-sa-female",
-    "date": "2011-04-15",
-    "value": 0.07889,
-    "value_": 7.88858
-  },
-  {
-    "geoid": "42660",
-    "key": "unempr-sa-female",
     "date": "2012-04-15",
     "value": 0.06813,
     "value_": 6.81259
@@ -32142,13 +30133,6 @@
     "date": "2026-04-15",
     "value": 0.04196,
     "value_": 4.19637
-  },
-  {
-    "geoid": "45300",
-    "key": "unempr-sa-female",
-    "date": "2011-04-15",
-    "value": 0.09667,
-    "value_": 9.66718
   },
   {
     "geoid": "45300",
@@ -32258,13 +30242,6 @@
   {
     "geoid": "46060",
     "key": "unempr-sa-female",
-    "date": "2011-04-15",
-    "value": 0.07955,
-    "value_": 7.95514
-  },
-  {
-    "geoid": "46060",
-    "key": "unempr-sa-female",
     "date": "2012-04-15",
     "value": 0.07088,
     "value_": 7.08755
@@ -32366,13 +30343,6 @@
     "date": "2026-04-15",
     "value": 0.05166,
     "value_": 5.16576
-  },
-  {
-    "geoid": "46140",
-    "key": "unempr-sa-female",
-    "date": "2011-04-15",
-    "value": 0.06073,
-    "value_": 6.07317
   },
   {
     "geoid": "46140",
@@ -32482,13 +30452,6 @@
   {
     "geoid": "47260",
     "key": "unempr-sa-female",
-    "date": "2011-04-15",
-    "value": 0.06307,
-    "value_": 6.30704
-  },
-  {
-    "geoid": "47260",
-    "key": "unempr-sa-female",
     "date": "2012-04-15",
     "value": 0.05997,
     "value_": 5.99748
@@ -32590,13 +30553,6 @@
     "date": "2026-04-15",
     "value": 0.04107,
     "value_": 4.10669
-  },
-  {
-    "geoid": "47900",
-    "key": "unempr-sa-female",
-    "date": "2011-04-15",
-    "value": 0.05491,
-    "value_": 5.49089
   },
   {
     "geoid": "47900",
@@ -32706,13 +30662,6 @@
   {
     "geoid": "51013",
     "key": "unempr-sa-female",
-    "date": "2011-04-15",
-    "value": 0.03234,
-    "value_": 3.2336
-  },
-  {
-    "geoid": "51013",
-    "key": "unempr-sa-female",
     "date": "2012-04-15",
     "value": 0.03019,
     "value_": 3.01863
@@ -32814,13 +30763,6 @@
     "date": "2026-04-15",
     "value": 0.03391,
     "value_": 3.39092
-  },
-  {
-    "geoid": "51043",
-    "key": "unempr-sa-female",
-    "date": "2011-04-15",
-    "value": 0.05015,
-    "value_": 5.01529
   },
   {
     "geoid": "51043",
@@ -32930,13 +30872,6 @@
   {
     "geoid": "51047",
     "key": "unempr-sa-female",
-    "date": "2011-04-15",
-    "value": 0.056,
-    "value_": 5.60009
-  },
-  {
-    "geoid": "51047",
-    "key": "unempr-sa-female",
     "date": "2012-04-15",
     "value": 0.04969,
     "value_": 4.96896
@@ -33038,13 +30973,6 @@
     "date": "2026-04-15",
     "value": 0.03539,
     "value_": 3.53862
-  },
-  {
-    "geoid": "51059",
-    "key": "unempr-sa-female",
-    "date": "2011-04-15",
-    "value": 0.04055,
-    "value_": 4.05473
   },
   {
     "geoid": "51059",
@@ -33154,13 +31082,6 @@
   {
     "geoid": "51061",
     "key": "unempr-sa-female",
-    "date": "2011-04-15",
-    "value": 0.04812,
-    "value_": 4.81209
-  },
-  {
-    "geoid": "51061",
-    "key": "unempr-sa-female",
     "date": "2012-04-15",
     "value": 0.0451,
     "value_": 4.50955
@@ -33262,13 +31183,6 @@
     "date": "2026-04-15",
     "value": 0.03158,
     "value_": 3.15762
-  },
-  {
-    "geoid": "51107",
-    "key": "unempr-sa-female",
-    "date": "2011-04-15",
-    "value": 0.03983,
-    "value_": 3.98266
   },
   {
     "geoid": "51107",
@@ -33378,13 +31292,6 @@
   {
     "geoid": "51153",
     "key": "unempr-sa-female",
-    "date": "2011-04-15",
-    "value": 0.04903,
-    "value_": 4.90274
-  },
-  {
-    "geoid": "51153",
-    "key": "unempr-sa-female",
     "date": "2012-04-15",
     "value": 0.04634,
     "value_": 4.63359
@@ -33486,13 +31393,6 @@
     "date": "2026-04-15",
     "value": 0.03797,
     "value_": 3.79701
-  },
-  {
-    "geoid": "51157",
-    "key": "unempr-sa-female",
-    "date": "2011-04-15",
-    "value": 0.0479,
-    "value_": 4.79026
   },
   {
     "geoid": "51157",
@@ -33602,13 +31502,6 @@
   {
     "geoid": "51177",
     "key": "unempr-sa-female",
-    "date": "2011-04-15",
-    "value": 0.05855,
-    "value_": 5.85529
-  },
-  {
-    "geoid": "51177",
-    "key": "unempr-sa-female",
     "date": "2012-04-15",
     "value": 0.05381,
     "value_": 5.38113
@@ -33710,13 +31603,6 @@
     "date": "2026-04-15",
     "value": 0.03992,
     "value_": 3.99237
-  },
-  {
-    "geoid": "51179",
-    "key": "unempr-sa-female",
-    "date": "2011-04-15",
-    "value": 0.05312,
-    "value_": 5.31211
   },
   {
     "geoid": "51179",
@@ -33826,13 +31712,6 @@
   {
     "geoid": "51187",
     "key": "unempr-sa-female",
-    "date": "2011-04-15",
-    "value": 0.06469,
-    "value_": 6.46923
-  },
-  {
-    "geoid": "51187",
-    "key": "unempr-sa-female",
     "date": "2012-04-15",
     "value": 0.059,
     "value_": 5.89982
@@ -33934,13 +31813,6 @@
     "date": "2026-04-15",
     "value": 0.03686,
     "value_": 3.68595
-  },
-  {
-    "geoid": "51510",
-    "key": "unempr-sa-female",
-    "date": "2011-04-15",
-    "value": 0.03864,
-    "value_": 3.86356
   },
   {
     "geoid": "51510",
@@ -34050,13 +31922,6 @@
   {
     "geoid": "51630",
     "key": "unempr-sa-female",
-    "date": "2011-04-15",
-    "value": 0.07253,
-    "value_": 7.25251
-  },
-  {
-    "geoid": "51630",
-    "key": "unempr-sa-female",
     "date": "2012-04-15",
     "value": 0.06436,
     "value_": 6.43564
@@ -34158,13 +32023,6 @@
     "date": "2026-04-15",
     "value": 0.04166,
     "value_": 4.16604
-  },
-  {
-    "geoid": "54037",
-    "key": "unempr-sa-female",
-    "date": "2011-04-15",
-    "value": 0.04338,
-    "value_": 4.33788
   },
   {
     "geoid": "54037",
@@ -34274,13 +32132,6 @@
   {
     "geoid": "99997",
     "key": "unempr-sa-female",
-    "date": "2011-04-15",
-    "value": 0.08147,
-    "value_": 8.14706
-  },
-  {
-    "geoid": "99997",
-    "key": "unempr-sa-female",
     "date": "2012-04-15",
     "value": 0.07574,
     "value_": 7.57413
@@ -34382,13 +32233,6 @@
     "date": "2026-04-15",
     "value": 0.04145,
     "value_": 4.14521
-  },
-  {
-    "geoid": "99999",
-    "key": "unempr-sa-female",
-    "date": "2011-04-15",
-    "value": 0.08134,
-    "value_": 8.13408
   },
   {
     "geoid": "99999",
@@ -34498,13 +32342,6 @@
   {
     "geoid": "11001",
     "key": "unempr-sa-female",
-    "date": "2011-05-15",
-    "value": 0.1021,
-    "value_": 10.20952
-  },
-  {
-    "geoid": "11001",
-    "key": "unempr-sa-female",
     "date": "2012-05-15",
     "value": 0.09278,
     "value_": 9.27823
@@ -34599,13 +32436,6 @@
     "date": "2025-05-15",
     "value": 0.06841,
     "value_": 6.84076
-  },
-  {
-    "geoid": "12060",
-    "key": "unempr-sa-female",
-    "date": "2011-05-15",
-    "value": 0.09497,
-    "value_": 9.49747
   },
   {
     "geoid": "12060",
@@ -34708,13 +32538,6 @@
   {
     "geoid": "12420",
     "key": "unempr-sa-female",
-    "date": "2011-05-15",
-    "value": 0.06712,
-    "value_": 6.71153
-  },
-  {
-    "geoid": "12420",
-    "key": "unempr-sa-female",
     "date": "2012-05-15",
     "value": 0.05729,
     "value_": 5.72895
@@ -34809,13 +32632,6 @@
     "date": "2025-05-15",
     "value": 0.03339,
     "value_": 3.3392
-  },
-  {
-    "geoid": "12580",
-    "key": "unempr-sa-female",
-    "date": "2011-05-15",
-    "value": 0.06752,
-    "value_": 6.75221
   },
   {
     "geoid": "12580",
@@ -34918,13 +32734,6 @@
   {
     "geoid": "13820",
     "key": "unempr-sa-female",
-    "date": "2011-05-15",
-    "value": 0.08569,
-    "value_": 8.56929
-  },
-  {
-    "geoid": "13820",
-    "key": "unempr-sa-female",
     "date": "2012-05-15",
     "value": 0.07309,
     "value_": 7.30875
@@ -35019,13 +32828,6 @@
     "date": "2025-05-15",
     "value": 0.03168,
     "value_": 3.1681
-  },
-  {
-    "geoid": "14460",
-    "key": "unempr-sa-female",
-    "date": "2011-05-15",
-    "value": 0.05527,
-    "value_": 5.52696
   },
   {
     "geoid": "14460",
@@ -35128,13 +32930,6 @@
   {
     "geoid": "15380",
     "key": "unempr-sa-female",
-    "date": "2011-05-15",
-    "value": 0.0731,
-    "value_": 7.30985
-  },
-  {
-    "geoid": "15380",
-    "key": "unempr-sa-female",
     "date": "2012-05-15",
     "value": 0.07779,
     "value_": 7.77873
@@ -35229,13 +33024,6 @@
     "date": "2025-05-15",
     "value": 0.03402,
     "value_": 3.40196
-  },
-  {
-    "geoid": "16740",
-    "key": "unempr-sa-female",
-    "date": "2011-05-15",
-    "value": 0.10082,
-    "value_": 10.08209
   },
   {
     "geoid": "16740",
@@ -35338,13 +33126,6 @@
   {
     "geoid": "16980",
     "key": "unempr-sa-female",
-    "date": "2011-05-15",
-    "value": 0.08398,
-    "value_": 8.39763
-  },
-  {
-    "geoid": "16980",
-    "key": "unempr-sa-female",
     "date": "2012-05-15",
     "value": 0.07915,
     "value_": 7.91451
@@ -35439,13 +33220,6 @@
     "date": "2025-05-15",
     "value": 0.03905,
     "value_": 3.90527
-  },
-  {
-    "geoid": "17140",
-    "key": "unempr-sa-female",
-    "date": "2011-05-15",
-    "value": 0.07248,
-    "value_": 7.24788
   },
   {
     "geoid": "17140",
@@ -35548,13 +33322,6 @@
   {
     "geoid": "17410",
     "key": "unempr-sa-female",
-    "date": "2011-05-15",
-    "value": 0.05828,
-    "value_": 5.82786
-  },
-  {
-    "geoid": "17410",
-    "key": "unempr-sa-female",
     "date": "2012-05-15",
     "value": 0.0538,
     "value_": 5.38004
@@ -35649,13 +33416,6 @@
     "date": "2025-05-15",
     "value": 0.0338,
     "value_": 3.3796
-  },
-  {
-    "geoid": "18140",
-    "key": "unempr-sa-female",
-    "date": "2011-05-15",
-    "value": 0.06445,
-    "value_": 6.44548
   },
   {
     "geoid": "18140",
@@ -35758,13 +33518,6 @@
   {
     "geoid": "19100",
     "key": "unempr-sa-female",
-    "date": "2011-05-15",
-    "value": 0.07754,
-    "value_": 7.75393
-  },
-  {
-    "geoid": "19100",
-    "key": "unempr-sa-female",
     "date": "2012-05-15",
     "value": 0.0655,
     "value_": 6.55018
@@ -35859,13 +33612,6 @@
     "date": "2025-05-15",
     "value": 0.03767,
     "value_": 3.76736
-  },
-  {
-    "geoid": "19740",
-    "key": "unempr-sa-female",
-    "date": "2011-05-15",
-    "value": 0.07632,
-    "value_": 7.63183
   },
   {
     "geoid": "19740",
@@ -35968,13 +33714,6 @@
   {
     "geoid": "19820",
     "key": "unempr-sa-female",
-    "date": "2011-05-15",
-    "value": 0.09713,
-    "value_": 9.71283
-  },
-  {
-    "geoid": "19820",
-    "key": "unempr-sa-female",
     "date": "2012-05-15",
     "value": 0.08672,
     "value_": 8.67241
@@ -36069,13 +33808,6 @@
     "date": "2025-05-15",
     "value": 0.04114,
     "value_": 4.11358
-  },
-  {
-    "geoid": "23420",
-    "key": "unempr-sa-female",
-    "date": "2011-05-15",
-    "value": 0.14926,
-    "value_": 14.92615
   },
   {
     "geoid": "23420",
@@ -36178,13 +33910,6 @@
   {
     "geoid": "24017",
     "key": "unempr-sa-female",
-    "date": "2011-05-15",
-    "value": 0.05887,
-    "value_": 5.88733
-  },
-  {
-    "geoid": "24017",
-    "key": "unempr-sa-female",
     "date": "2012-05-15",
     "value": 0.05728,
     "value_": 5.72793
@@ -36279,13 +34004,6 @@
     "date": "2025-05-15",
     "value": 0.04068,
     "value_": 4.06826
-  },
-  {
-    "geoid": "24021",
-    "key": "unempr-sa-female",
-    "date": "2011-05-15",
-    "value": 0.05678,
-    "value_": 5.67805
   },
   {
     "geoid": "24021",
@@ -36388,13 +34106,6 @@
   {
     "geoid": "24031",
     "key": "unempr-sa-female",
-    "date": "2011-05-15",
-    "value": 0.04602,
-    "value_": 4.60163
-  },
-  {
-    "geoid": "24031",
-    "key": "unempr-sa-female",
     "date": "2012-05-15",
     "value": 0.04431,
     "value_": 4.43145
@@ -36489,13 +34200,6 @@
     "date": "2025-05-15",
     "value": 0.03621,
     "value_": 3.62136
-  },
-  {
-    "geoid": "24033",
-    "key": "unempr-sa-female",
-    "date": "2011-05-15",
-    "value": 0.06439,
-    "value_": 6.43926
   },
   {
     "geoid": "24033",
@@ -36598,13 +34302,6 @@
   {
     "geoid": "24340",
     "key": "unempr-sa-female",
-    "date": "2011-05-15",
-    "value": 0.07128,
-    "value_": 7.12755
-  },
-  {
-    "geoid": "24340",
-    "key": "unempr-sa-female",
     "date": "2012-05-15",
     "value": 0.06083,
     "value_": 6.08307
@@ -36699,13 +34396,6 @@
     "date": "2025-05-15",
     "value": 0.03801,
     "value_": 3.80089
-  },
-  {
-    "geoid": "24860",
-    "key": "unempr-sa-female",
-    "date": "2011-05-15",
-    "value": 0.0923,
-    "value_": 9.23041
   },
   {
     "geoid": "24860",
@@ -36808,13 +34498,6 @@
   {
     "geoid": "25540",
     "key": "unempr-sa-female",
-    "date": "2011-05-15",
-    "value": 0.07805,
-    "value_": 7.80497
-  },
-  {
-    "geoid": "25540",
-    "key": "unempr-sa-female",
     "date": "2012-05-15",
     "value": 0.0707,
     "value_": 7.06956
@@ -36909,13 +34592,6 @@
     "date": "2025-05-15",
     "value": 0.03053,
     "value_": 3.05273
-  },
-  {
-    "geoid": "26420",
-    "key": "unempr-sa-female",
-    "date": "2011-05-15",
-    "value": 0.08062,
-    "value_": 8.06238
   },
   {
     "geoid": "26420",
@@ -37018,13 +34694,6 @@
   {
     "geoid": "26900",
     "key": "unempr-sa-female",
-    "date": "2011-05-15",
-    "value": 0.07452,
-    "value_": 7.45182
-  },
-  {
-    "geoid": "26900",
-    "key": "unempr-sa-female",
     "date": "2012-05-15",
     "value": 0.07096,
     "value_": 7.0959
@@ -37119,13 +34788,6 @@
     "date": "2025-05-15",
     "value": 0.0304,
     "value_": 3.03977
-  },
-  {
-    "geoid": "27260",
-    "key": "unempr-sa-female",
-    "date": "2011-05-15",
-    "value": 0.09327,
-    "value_": 9.32704
   },
   {
     "geoid": "27260",
@@ -37228,13 +34890,6 @@
   {
     "geoid": "28140",
     "key": "unempr-sa-female",
-    "date": "2011-05-15",
-    "value": 0.07051,
-    "value_": 7.05071
-  },
-  {
-    "geoid": "28140",
-    "key": "unempr-sa-female",
     "date": "2012-05-15",
     "value": 0.05993,
     "value_": 5.9925
@@ -37329,13 +34984,6 @@
     "date": "2025-05-15",
     "value": 0.03621,
     "value_": 3.62148
-  },
-  {
-    "geoid": "29820",
-    "key": "unempr-sa-female",
-    "date": "2011-05-15",
-    "value": 0.11412,
-    "value_": 11.41223
   },
   {
     "geoid": "29820",
@@ -37438,13 +35086,6 @@
   {
     "geoid": "31080",
     "key": "unempr-sa-female",
-    "date": "2011-05-15",
-    "value": 0.10489,
-    "value_": 10.48859
-  },
-  {
-    "geoid": "31080",
-    "key": "unempr-sa-female",
     "date": "2012-05-15",
     "value": 0.09779,
     "value_": 9.77922
@@ -37539,13 +35180,6 @@
     "date": "2025-05-15",
     "value": 0.04938,
     "value_": 4.93814
-  },
-  {
-    "geoid": "31140",
-    "key": "unempr-sa-female",
-    "date": "2011-05-15",
-    "value": 0.07561,
-    "value_": 7.56051
   },
   {
     "geoid": "31140",
@@ -37648,13 +35282,6 @@
   {
     "geoid": "32820",
     "key": "unempr-sa-female",
-    "date": "2011-05-15",
-    "value": 0.0924,
-    "value_": 9.24025
-  },
-  {
-    "geoid": "32820",
-    "key": "unempr-sa-female",
     "date": "2012-05-15",
     "value": 0.08895,
     "value_": 8.89451
@@ -37749,13 +35376,6 @@
     "date": "2025-05-15",
     "value": 0.04636,
     "value_": 4.63563
-  },
-  {
-    "geoid": "33100",
-    "key": "unempr-sa-female",
-    "date": "2011-05-15",
-    "value": 0.09675,
-    "value_": 9.67475
   },
   {
     "geoid": "33100",
@@ -37858,13 +35478,6 @@
   {
     "geoid": "33340",
     "key": "unempr-sa-female",
-    "date": "2011-05-15",
-    "value": 0.06805,
-    "value_": 6.80511
-  },
-  {
-    "geoid": "33340",
-    "key": "unempr-sa-female",
     "date": "2012-05-15",
     "value": 0.06627,
     "value_": 6.62723
@@ -37959,13 +35572,6 @@
     "date": "2025-05-15",
     "value": 0.03007,
     "value_": 3.00747
-  },
-  {
-    "geoid": "33460",
-    "key": "unempr-sa-female",
-    "date": "2011-05-15",
-    "value": 0.05092,
-    "value_": 5.09232
   },
   {
     "geoid": "33460",
@@ -38068,13 +35674,6 @@
   {
     "geoid": "34980",
     "key": "unempr-sa-female",
-    "date": "2011-05-15",
-    "value": 0.07933,
-    "value_": 7.93271
-  },
-  {
-    "geoid": "34980",
-    "key": "unempr-sa-female",
     "date": "2012-05-15",
     "value": 0.0693,
     "value_": 6.9298
@@ -38169,13 +35768,6 @@
     "date": "2025-05-15",
     "value": 0.03107,
     "value_": 3.10681
-  },
-  {
-    "geoid": "35620",
-    "key": "unempr-sa-female",
-    "date": "2011-05-15",
-    "value": 0.07709,
-    "value_": 7.70907
   },
   {
     "geoid": "35620",
@@ -38278,13 +35870,6 @@
   {
     "geoid": "36420",
     "key": "unempr-sa-female",
-    "date": "2011-05-15",
-    "value": 0.04754,
-    "value_": 4.75363
-  },
-  {
-    "geoid": "36420",
-    "key": "unempr-sa-female",
     "date": "2012-05-15",
     "value": 0.04581,
     "value_": 4.58129
@@ -38379,13 +35964,6 @@
     "date": "2025-05-15",
     "value": 0.02864,
     "value_": 2.8636
-  },
-  {
-    "geoid": "36540",
-    "key": "unempr-sa-female",
-    "date": "2011-05-15",
-    "value": 0.04437,
-    "value_": 4.43699
   },
   {
     "geoid": "36540",
@@ -38488,13 +36066,6 @@
   {
     "geoid": "36740",
     "key": "unempr-sa-female",
-    "date": "2011-05-15",
-    "value": 0.09736,
-    "value_": 9.73604
-  },
-  {
-    "geoid": "36740",
-    "key": "unempr-sa-female",
     "date": "2012-05-15",
     "value": 0.08754,
     "value_": 8.75415
@@ -38589,13 +36160,6 @@
     "date": "2025-05-15",
     "value": 0.04063,
     "value_": 4.06307
-  },
-  {
-    "geoid": "37980",
-    "key": "unempr-sa-female",
-    "date": "2011-05-15",
-    "value": 0.07503,
-    "value_": 7.50256
   },
   {
     "geoid": "37980",
@@ -38698,13 +36262,6 @@
   {
     "geoid": "38060",
     "key": "unempr-sa-female",
-    "date": "2011-05-15",
-    "value": 0.07906,
-    "value_": 7.9061
-  },
-  {
-    "geoid": "38060",
-    "key": "unempr-sa-female",
     "date": "2012-05-15",
     "value": 0.07009,
     "value_": 7.0086
@@ -38799,13 +36356,6 @@
     "date": "2025-05-15",
     "value": 0.03875,
     "value_": 3.87486
-  },
-  {
-    "geoid": "38300",
-    "key": "unempr-sa-female",
-    "date": "2011-05-15",
-    "value": 0.064,
-    "value_": 6.39997
   },
   {
     "geoid": "38300",
@@ -38908,13 +36458,6 @@
   {
     "geoid": "38900",
     "key": "unempr-sa-female",
-    "date": "2011-05-15",
-    "value": 0.07753,
-    "value_": 7.7528
-  },
-  {
-    "geoid": "38900",
-    "key": "unempr-sa-female",
     "date": "2012-05-15",
     "value": 0.07082,
     "value_": 7.08204
@@ -39009,13 +36552,6 @@
     "date": "2025-05-15",
     "value": 0.04068,
     "value_": 4.06784
-  },
-  {
-    "geoid": "39300",
-    "key": "unempr-sa-female",
-    "date": "2011-05-15",
-    "value": 0.0912,
-    "value_": 9.12023
   },
   {
     "geoid": "39300",
@@ -39118,13 +36654,6 @@
   {
     "geoid": "39580",
     "key": "unempr-sa-female",
-    "date": "2011-05-15",
-    "value": 0.0754,
-    "value_": 7.5401
-  },
-  {
-    "geoid": "39580",
-    "key": "unempr-sa-female",
     "date": "2012-05-15",
     "value": 0.07014,
     "value_": 7.01414
@@ -39219,13 +36748,6 @@
     "date": "2025-05-15",
     "value": 0.03391,
     "value_": 3.39053
-  },
-  {
-    "geoid": "40060",
-    "key": "unempr-sa-female",
-    "date": "2011-05-15",
-    "value": 0.06325,
-    "value_": 6.3252
   },
   {
     "geoid": "40060",
@@ -39328,13 +36850,6 @@
   {
     "geoid": "40140",
     "key": "unempr-sa-female",
-    "date": "2011-05-15",
-    "value": 0.11981,
-    "value_": 11.98114
-  },
-  {
-    "geoid": "40140",
-    "key": "unempr-sa-female",
     "date": "2012-05-15",
     "value": 0.11147,
     "value_": 11.14682
@@ -39429,13 +36944,6 @@
     "date": "2025-05-15",
     "value": 0.05081,
     "value_": 5.08097
-  },
-  {
-    "geoid": "40380",
-    "key": "unempr-sa-female",
-    "date": "2011-05-15",
-    "value": 0.06853,
-    "value_": 6.85285
   },
   {
     "geoid": "40380",
@@ -39538,13 +37046,6 @@
   {
     "geoid": "40900",
     "key": "unempr-sa-female",
-    "date": "2011-05-15",
-    "value": 0.10952,
-    "value_": 10.9522
-  },
-  {
-    "geoid": "40900",
-    "key": "unempr-sa-female",
     "date": "2012-05-15",
     "value": 0.10006,
     "value_": 10.00575
@@ -39639,13 +37140,6 @@
     "date": "2025-05-15",
     "value": 0.04567,
     "value_": 4.56733
-  },
-  {
-    "geoid": "41180",
-    "key": "unempr-sa-female",
-    "date": "2011-05-15",
-    "value": 0.07586,
-    "value_": 7.58638
   },
   {
     "geoid": "41180",
@@ -39748,13 +37242,6 @@
   {
     "geoid": "41620",
     "key": "unempr-sa-female",
-    "date": "2011-05-15",
-    "value": 0.06508,
-    "value_": 6.50805
-  },
-  {
-    "geoid": "41620",
-    "key": "unempr-sa-female",
     "date": "2012-05-15",
     "value": 0.04026,
     "value_": 4.02606
@@ -39849,13 +37336,6 @@
     "date": "2025-05-15",
     "value": 0.03031,
     "value_": 3.03128
-  },
-  {
-    "geoid": "41700",
-    "key": "unempr-sa-female",
-    "date": "2011-05-15",
-    "value": 0.07274,
-    "value_": 7.27376
   },
   {
     "geoid": "41700",
@@ -39958,13 +37438,6 @@
   {
     "geoid": "41740",
     "key": "unempr-sa-female",
-    "date": "2011-05-15",
-    "value": 0.09437,
-    "value_": 9.43673
-  },
-  {
-    "geoid": "41740",
-    "key": "unempr-sa-female",
     "date": "2012-05-15",
     "value": 0.08786,
     "value_": 8.78641
@@ -40059,13 +37532,6 @@
     "date": "2025-05-15",
     "value": 0.04226,
     "value_": 4.22598
-  },
-  {
-    "geoid": "41860",
-    "key": "unempr-sa-female",
-    "date": "2011-05-15",
-    "value": 0.08413,
-    "value_": 8.41294
   },
   {
     "geoid": "41860",
@@ -40168,13 +37634,6 @@
   {
     "geoid": "41940",
     "key": "unempr-sa-female",
-    "date": "2011-05-15",
-    "value": 0.08654,
-    "value_": 8.65366
-  },
-  {
-    "geoid": "41940",
-    "key": "unempr-sa-female",
     "date": "2012-05-15",
     "value": 0.07754,
     "value_": 7.75378
@@ -40269,13 +37728,6 @@
     "date": "2025-05-15",
     "value": 0.04028,
     "value_": 4.02781
-  },
-  {
-    "geoid": "42660",
-    "key": "unempr-sa-female",
-    "date": "2011-05-15",
-    "value": 0.07724,
-    "value_": 7.72433
   },
   {
     "geoid": "42660",
@@ -40378,13 +37830,6 @@
   {
     "geoid": "45300",
     "key": "unempr-sa-female",
-    "date": "2011-05-15",
-    "value": 0.09696,
-    "value_": 9.69601
-  },
-  {
-    "geoid": "45300",
-    "key": "unempr-sa-female",
     "date": "2012-05-15",
     "value": 0.08572,
     "value_": 8.57212
@@ -40479,13 +37924,6 @@
     "date": "2025-05-15",
     "value": 0.04185,
     "value_": 4.1847
-  },
-  {
-    "geoid": "46060",
-    "key": "unempr-sa-female",
-    "date": "2011-05-15",
-    "value": 0.07752,
-    "value_": 7.75226
   },
   {
     "geoid": "46060",
@@ -40588,13 +38026,6 @@
   {
     "geoid": "46140",
     "key": "unempr-sa-female",
-    "date": "2011-05-15",
-    "value": 0.06026,
-    "value_": 6.02613
-  },
-  {
-    "geoid": "46140",
-    "key": "unempr-sa-female",
     "date": "2012-05-15",
     "value": 0.055,
     "value_": 5.4999
@@ -40689,13 +38120,6 @@
     "date": "2025-05-15",
     "value": 0.02989,
     "value_": 2.98897
-  },
-  {
-    "geoid": "47260",
-    "key": "unempr-sa-female",
-    "date": "2011-05-15",
-    "value": 0.06271,
-    "value_": 6.27129
   },
   {
     "geoid": "47260",
@@ -40798,13 +38222,6 @@
   {
     "geoid": "47900",
     "key": "unempr-sa-female",
-    "date": "2011-05-15",
-    "value": 0.05505,
-    "value_": 5.50543
-  },
-  {
-    "geoid": "47900",
-    "key": "unempr-sa-female",
     "date": "2012-05-15",
     "value": 0.0516,
     "value_": 5.15993
@@ -40899,13 +38316,6 @@
     "date": "2025-05-15",
     "value": 0.0387,
     "value_": 3.87036
-  },
-  {
-    "geoid": "51013",
-    "key": "unempr-sa-female",
-    "date": "2011-05-15",
-    "value": 0.0324,
-    "value_": 3.24008
   },
   {
     "geoid": "51013",
@@ -41008,13 +38418,6 @@
   {
     "geoid": "51043",
     "key": "unempr-sa-female",
-    "date": "2011-05-15",
-    "value": 0.04918,
-    "value_": 4.91762
-  },
-  {
-    "geoid": "51043",
-    "key": "unempr-sa-female",
     "date": "2012-05-15",
     "value": 0.04547,
     "value_": 4.54657
@@ -41109,13 +38512,6 @@
     "date": "2025-05-15",
     "value": 0.03099,
     "value_": 3.09867
-  },
-  {
-    "geoid": "51047",
-    "key": "unempr-sa-female",
-    "date": "2011-05-15",
-    "value": 0.05545,
-    "value_": 5.54464
   },
   {
     "geoid": "51047",
@@ -41218,13 +38614,6 @@
   {
     "geoid": "51059",
     "key": "unempr-sa-female",
-    "date": "2011-05-15",
-    "value": 0.0403,
-    "value_": 4.02984
-  },
-  {
-    "geoid": "51059",
-    "key": "unempr-sa-female",
     "date": "2012-05-15",
     "value": 0.03856,
     "value_": 3.85604
@@ -41319,13 +38708,6 @@
     "date": "2025-05-15",
     "value": 0.03207,
     "value_": 3.20665
-  },
-  {
-    "geoid": "51061",
-    "key": "unempr-sa-female",
-    "date": "2011-05-15",
-    "value": 0.04761,
-    "value_": 4.76117
   },
   {
     "geoid": "51061",
@@ -41428,13 +38810,6 @@
   {
     "geoid": "51107",
     "key": "unempr-sa-female",
-    "date": "2011-05-15",
-    "value": 0.03951,
-    "value_": 3.95111
-  },
-  {
-    "geoid": "51107",
-    "key": "unempr-sa-female",
     "date": "2012-05-15",
     "value": 0.03806,
     "value_": 3.80573
@@ -41529,13 +38904,6 @@
     "date": "2025-05-15",
     "value": 0.03129,
     "value_": 3.12862
-  },
-  {
-    "geoid": "51153",
-    "key": "unempr-sa-female",
-    "date": "2011-05-15",
-    "value": 0.04864,
-    "value_": 4.86441
   },
   {
     "geoid": "51153",
@@ -41638,13 +39006,6 @@
   {
     "geoid": "51157",
     "key": "unempr-sa-female",
-    "date": "2011-05-15",
-    "value": 0.0476,
-    "value_": 4.75958
-  },
-  {
-    "geoid": "51157",
-    "key": "unempr-sa-female",
     "date": "2012-05-15",
     "value": 0.04719,
     "value_": 4.71906
@@ -41739,13 +39100,6 @@
     "date": "2025-05-15",
     "value": 0.03021,
     "value_": 3.02056
-  },
-  {
-    "geoid": "51177",
-    "key": "unempr-sa-female",
-    "date": "2011-05-15",
-    "value": 0.05837,
-    "value_": 5.83652
   },
   {
     "geoid": "51177",
@@ -41848,13 +39202,6 @@
   {
     "geoid": "51179",
     "key": "unempr-sa-female",
-    "date": "2011-05-15",
-    "value": 0.05283,
-    "value_": 5.28252
-  },
-  {
-    "geoid": "51179",
-    "key": "unempr-sa-female",
     "date": "2012-05-15",
     "value": 0.05091,
     "value_": 5.09097
@@ -41949,13 +39296,6 @@
     "date": "2025-05-15",
     "value": 0.03313,
     "value_": 3.31332
-  },
-  {
-    "geoid": "51187",
-    "key": "unempr-sa-female",
-    "date": "2011-05-15",
-    "value": 0.06392,
-    "value_": 6.3919
   },
   {
     "geoid": "51187",
@@ -42058,13 +39398,6 @@
   {
     "geoid": "51510",
     "key": "unempr-sa-female",
-    "date": "2011-05-15",
-    "value": 0.03849,
-    "value_": 3.84917
-  },
-  {
-    "geoid": "51510",
-    "key": "unempr-sa-female",
     "date": "2012-05-15",
     "value": 0.03471,
     "value_": 3.47106
@@ -42159,13 +39492,6 @@
     "date": "2025-05-15",
     "value": 0.03093,
     "value_": 3.09313
-  },
-  {
-    "geoid": "51630",
-    "key": "unempr-sa-female",
-    "date": "2011-05-15",
-    "value": 0.07158,
-    "value_": 7.15813
   },
   {
     "geoid": "51630",
@@ -42268,13 +39594,6 @@
   {
     "geoid": "54037",
     "key": "unempr-sa-female",
-    "date": "2011-05-15",
-    "value": 0.04406,
-    "value_": 4.40608
-  },
-  {
-    "geoid": "54037",
-    "key": "unempr-sa-female",
     "date": "2012-05-15",
     "value": 0.03649,
     "value_": 3.64888
@@ -42369,13 +39688,6 @@
     "date": "2025-05-15",
     "value": 0.02158,
     "value_": 2.15752
-  },
-  {
-    "geoid": "99997",
-    "key": "unempr-sa-female",
-    "date": "2011-05-15",
-    "value": 0.08126,
-    "value_": 8.12551
   },
   {
     "geoid": "99997",
@@ -42478,13 +39790,6 @@
   {
     "geoid": "99999",
     "key": "unempr-sa-female",
-    "date": "2011-05-15",
-    "value": 0.08111,
-    "value_": 8.11071
-  },
-  {
-    "geoid": "99999",
-    "key": "unempr-sa-female",
     "date": "2012-05-15",
     "value": 0.07486,
     "value_": 7.48607
@@ -42579,13 +39884,6 @@
     "date": "2025-05-15",
     "value": 0.03911,
     "value_": 3.91092
-  },
-  {
-    "geoid": "11001",
-    "key": "unempr-sa-female",
-    "date": "2011-06-15",
-    "value": 0.10373,
-    "value_": 10.37325
   },
   {
     "geoid": "11001",
@@ -42688,13 +39986,6 @@
   {
     "geoid": "12060",
     "key": "unempr-sa-female",
-    "date": "2011-06-15",
-    "value": 0.09529,
-    "value_": 9.52937
-  },
-  {
-    "geoid": "12060",
-    "key": "unempr-sa-female",
     "date": "2012-06-15",
     "value": 0.08362,
     "value_": 8.36184
@@ -42789,13 +40080,6 @@
     "date": "2025-06-15",
     "value": 0.03065,
     "value_": 3.06492
-  },
-  {
-    "geoid": "12420",
-    "key": "unempr-sa-female",
-    "date": "2011-06-15",
-    "value": 0.0679,
-    "value_": 6.79009
   },
   {
     "geoid": "12420",
@@ -42898,13 +40182,6 @@
   {
     "geoid": "12580",
     "key": "unempr-sa-female",
-    "date": "2011-06-15",
-    "value": 0.06716,
-    "value_": 6.71634
-  },
-  {
-    "geoid": "12580",
-    "key": "unempr-sa-female",
     "date": "2012-06-15",
     "value": 0.06171,
     "value_": 6.17116
@@ -42999,13 +40276,6 @@
     "date": "2025-06-15",
     "value": 0.03895,
     "value_": 3.89507
-  },
-  {
-    "geoid": "13820",
-    "key": "unempr-sa-female",
-    "date": "2011-06-15",
-    "value": 0.08493,
-    "value_": 8.49318
   },
   {
     "geoid": "13820",
@@ -43108,13 +40378,6 @@
   {
     "geoid": "14460",
     "key": "unempr-sa-female",
-    "date": "2011-06-15",
-    "value": 0.05484,
-    "value_": 5.48373
-  },
-  {
-    "geoid": "14460",
-    "key": "unempr-sa-female",
     "date": "2012-06-15",
     "value": 0.04887,
     "value_": 4.88691
@@ -43209,13 +40472,6 @@
     "date": "2025-06-15",
     "value": 0.03333,
     "value_": 3.33254
-  },
-  {
-    "geoid": "15380",
-    "key": "unempr-sa-female",
-    "date": "2011-06-15",
-    "value": 0.07258,
-    "value_": 7.25768
   },
   {
     "geoid": "15380",
@@ -43318,13 +40574,6 @@
   {
     "geoid": "16740",
     "key": "unempr-sa-female",
-    "date": "2011-06-15",
-    "value": 0.10067,
-    "value_": 10.06737
-  },
-  {
-    "geoid": "16740",
-    "key": "unempr-sa-female",
     "date": "2012-06-15",
     "value": 0.08628,
     "value_": 8.62846
@@ -43419,13 +40668,6 @@
     "date": "2025-06-15",
     "value": 0.0413,
     "value_": 4.12999
-  },
-  {
-    "geoid": "16980",
-    "key": "unempr-sa-female",
-    "date": "2011-06-15",
-    "value": 0.0843,
-    "value_": 8.42985
   },
   {
     "geoid": "16980",
@@ -43528,13 +40770,6 @@
   {
     "geoid": "17140",
     "key": "unempr-sa-female",
-    "date": "2011-06-15",
-    "value": 0.07282,
-    "value_": 7.28238
-  },
-  {
-    "geoid": "17140",
-    "key": "unempr-sa-female",
     "date": "2012-06-15",
     "value": 0.0603,
     "value_": 6.02955
@@ -43629,13 +40864,6 @@
     "date": "2025-06-15",
     "value": 0.03576,
     "value_": 3.57556
-  },
-  {
-    "geoid": "17410",
-    "key": "unempr-sa-female",
-    "date": "2011-06-15",
-    "value": 0.05825,
-    "value_": 5.82537
   },
   {
     "geoid": "17410",
@@ -43738,13 +40966,6 @@
   {
     "geoid": "18140",
     "key": "unempr-sa-female",
-    "date": "2011-06-15",
-    "value": 0.06483,
-    "value_": 6.48266
-  },
-  {
-    "geoid": "18140",
-    "key": "unempr-sa-female",
     "date": "2012-06-15",
     "value": 0.0528,
     "value_": 5.27975
@@ -43839,13 +41060,6 @@
     "date": "2025-06-15",
     "value": 0.03598,
     "value_": 3.59756
-  },
-  {
-    "geoid": "19100",
-    "key": "unempr-sa-female",
-    "date": "2011-06-15",
-    "value": 0.07778,
-    "value_": 7.77829
   },
   {
     "geoid": "19100",
@@ -43948,13 +41162,6 @@
   {
     "geoid": "19740",
     "key": "unempr-sa-female",
-    "date": "2011-06-15",
-    "value": 0.07505,
-    "value_": 7.5053
-  },
-  {
-    "geoid": "19740",
-    "key": "unempr-sa-female",
     "date": "2012-06-15",
     "value": 0.0727,
     "value_": 7.26986
@@ -44049,13 +41256,6 @@
     "date": "2025-06-15",
     "value": 0.03655,
     "value_": 3.65473
-  },
-  {
-    "geoid": "19820",
-    "key": "unempr-sa-female",
-    "date": "2011-06-15",
-    "value": 0.09538,
-    "value_": 9.5384
   },
   {
     "geoid": "19820",
@@ -44158,13 +41358,6 @@
   {
     "geoid": "23420",
     "key": "unempr-sa-female",
-    "date": "2011-06-15",
-    "value": 0.15208,
-    "value_": 15.20849
-  },
-  {
-    "geoid": "23420",
-    "key": "unempr-sa-female",
     "date": "2012-06-15",
     "value": 0.14471,
     "value_": 14.47131
@@ -44259,13 +41452,6 @@
     "date": "2025-06-15",
     "value": 0.07793,
     "value_": 7.79311
-  },
-  {
-    "geoid": "24017",
-    "key": "unempr-sa-female",
-    "date": "2011-06-15",
-    "value": 0.05866,
-    "value_": 5.86584
   },
   {
     "geoid": "24017",
@@ -44368,13 +41554,6 @@
   {
     "geoid": "24021",
     "key": "unempr-sa-female",
-    "date": "2011-06-15",
-    "value": 0.05661,
-    "value_": 5.6606
-  },
-  {
-    "geoid": "24021",
-    "key": "unempr-sa-female",
     "date": "2012-06-15",
     "value": 0.05158,
     "value_": 5.15835
@@ -44469,13 +41648,6 @@
     "date": "2025-06-15",
     "value": 0.0335,
     "value_": 3.34986
-  },
-  {
-    "geoid": "24031",
-    "key": "unempr-sa-female",
-    "date": "2011-06-15",
-    "value": 0.04614,
-    "value_": 4.61385
   },
   {
     "geoid": "24031",
@@ -44578,13 +41750,6 @@
   {
     "geoid": "24033",
     "key": "unempr-sa-female",
-    "date": "2011-06-15",
-    "value": 0.0646,
-    "value_": 6.46018
-  },
-  {
-    "geoid": "24033",
-    "key": "unempr-sa-female",
     "date": "2012-06-15",
     "value": 0.06104,
     "value_": 6.1044
@@ -44679,13 +41844,6 @@
     "date": "2025-06-15",
     "value": 0.04292,
     "value_": 4.29154
-  },
-  {
-    "geoid": "24340",
-    "key": "unempr-sa-female",
-    "date": "2011-06-15",
-    "value": 0.0696,
-    "value_": 6.96012
   },
   {
     "geoid": "24340",
@@ -44788,13 +41946,6 @@
   {
     "geoid": "24860",
     "key": "unempr-sa-female",
-    "date": "2011-06-15",
-    "value": 0.09151,
-    "value_": 9.15141
-  },
-  {
-    "geoid": "24860",
-    "key": "unempr-sa-female",
     "date": "2012-06-15",
     "value": 0.07935,
     "value_": 7.93475
@@ -44889,13 +42040,6 @@
     "date": "2025-06-15",
     "value": 0.04362,
     "value_": 4.36247
-  },
-  {
-    "geoid": "25540",
-    "key": "unempr-sa-female",
-    "date": "2011-06-15",
-    "value": 0.07761,
-    "value_": 7.76058
   },
   {
     "geoid": "25540",
@@ -44998,13 +42142,6 @@
   {
     "geoid": "26420",
     "key": "unempr-sa-female",
-    "date": "2011-06-15",
-    "value": 0.08083,
-    "value_": 8.0829
-  },
-  {
-    "geoid": "26420",
-    "key": "unempr-sa-female",
     "date": "2012-06-15",
     "value": 0.06571,
     "value_": 6.57084
@@ -45099,13 +42236,6 @@
     "date": "2025-06-15",
     "value": 0.04276,
     "value_": 4.27616
-  },
-  {
-    "geoid": "26900",
-    "key": "unempr-sa-female",
-    "date": "2011-06-15",
-    "value": 0.07575,
-    "value_": 7.57461
   },
   {
     "geoid": "26900",
@@ -45208,13 +42338,6 @@
   {
     "geoid": "27260",
     "key": "unempr-sa-female",
-    "date": "2011-06-15",
-    "value": 0.09325,
-    "value_": 9.32451
-  },
-  {
-    "geoid": "27260",
-    "key": "unempr-sa-female",
     "date": "2012-06-15",
     "value": 0.08323,
     "value_": 8.32289
@@ -45309,13 +42432,6 @@
     "date": "2025-06-15",
     "value": 0.04293,
     "value_": 4.2932
-  },
-  {
-    "geoid": "28140",
-    "key": "unempr-sa-female",
-    "date": "2011-06-15",
-    "value": 0.07043,
-    "value_": 7.04253
   },
   {
     "geoid": "28140",
@@ -45418,13 +42534,6 @@
   {
     "geoid": "29820",
     "key": "unempr-sa-female",
-    "date": "2011-06-15",
-    "value": 0.11378,
-    "value_": 11.37776
-  },
-  {
-    "geoid": "29820",
-    "key": "unempr-sa-female",
     "date": "2012-06-15",
     "value": 0.10789,
     "value_": 10.78862
@@ -45519,13 +42628,6 @@
     "date": "2025-06-15",
     "value": 0.05166,
     "value_": 5.16638
-  },
-  {
-    "geoid": "31080",
-    "key": "unempr-sa-female",
-    "date": "2011-06-15",
-    "value": 0.10572,
-    "value_": 10.57217
   },
   {
     "geoid": "31080",
@@ -45628,13 +42730,6 @@
   {
     "geoid": "31140",
     "key": "unempr-sa-female",
-    "date": "2011-06-15",
-    "value": 0.07498,
-    "value_": 7.49782
-  },
-  {
-    "geoid": "31140",
-    "key": "unempr-sa-female",
     "date": "2012-06-15",
     "value": 0.06275,
     "value_": 6.27478
@@ -45729,13 +42824,6 @@
     "date": "2025-06-15",
     "value": 0.03379,
     "value_": 3.3792
-  },
-  {
-    "geoid": "32820",
-    "key": "unempr-sa-female",
-    "date": "2011-06-15",
-    "value": 0.09205,
-    "value_": 9.2051
   },
   {
     "geoid": "32820",
@@ -45838,13 +42926,6 @@
   {
     "geoid": "33100",
     "key": "unempr-sa-female",
-    "date": "2011-06-15",
-    "value": 0.09509,
-    "value_": 9.50914
-  },
-  {
-    "geoid": "33100",
-    "key": "unempr-sa-female",
     "date": "2012-06-15",
     "value": 0.07984,
     "value_": 7.98414
@@ -45939,13 +43020,6 @@
     "date": "2025-06-15",
     "value": 0.0353,
     "value_": 3.52956
-  },
-  {
-    "geoid": "33340",
-    "key": "unempr-sa-female",
-    "date": "2011-06-15",
-    "value": 0.06806,
-    "value_": 6.80605
   },
   {
     "geoid": "33340",
@@ -46048,13 +43122,6 @@
   {
     "geoid": "33460",
     "key": "unempr-sa-female",
-    "date": "2011-06-15",
-    "value": 0.05027,
-    "value_": 5.02738
-  },
-  {
-    "geoid": "33460",
-    "key": "unempr-sa-female",
     "date": "2012-06-15",
     "value": 0.04294,
     "value_": 4.29358
@@ -46149,13 +43216,6 @@
     "date": "2025-06-15",
     "value": 0.0281,
     "value_": 2.80957
-  },
-  {
-    "geoid": "34980",
-    "key": "unempr-sa-female",
-    "date": "2011-06-15",
-    "value": 0.07791,
-    "value_": 7.79086
   },
   {
     "geoid": "34980",
@@ -46258,13 +43318,6 @@
   {
     "geoid": "35620",
     "key": "unempr-sa-female",
-    "date": "2011-06-15",
-    "value": 0.07696,
-    "value_": 7.69621
-  },
-  {
-    "geoid": "35620",
-    "key": "unempr-sa-female",
     "date": "2012-06-15",
     "value": 0.08076,
     "value_": 8.07552
@@ -46359,13 +43412,6 @@
     "date": "2025-06-15",
     "value": 0.04116,
     "value_": 4.11604
-  },
-  {
-    "geoid": "36420",
-    "key": "unempr-sa-female",
-    "date": "2011-06-15",
-    "value": 0.04771,
-    "value_": 4.77093
   },
   {
     "geoid": "36420",
@@ -46468,13 +43514,6 @@
   {
     "geoid": "36540",
     "key": "unempr-sa-female",
-    "date": "2011-06-15",
-    "value": 0.04332,
-    "value_": 4.33193
-  },
-  {
-    "geoid": "36540",
-    "key": "unempr-sa-female",
     "date": "2012-06-15",
     "value": 0.04013,
     "value_": 4.01285
@@ -46569,13 +43608,6 @@
     "date": "2025-06-15",
     "value": 0.02755,
     "value_": 2.75535
-  },
-  {
-    "geoid": "36740",
-    "key": "unempr-sa-female",
-    "date": "2011-06-15",
-    "value": 0.09693,
-    "value_": 9.69272
   },
   {
     "geoid": "36740",
@@ -46678,13 +43710,6 @@
   {
     "geoid": "37980",
     "key": "unempr-sa-female",
-    "date": "2011-06-15",
-    "value": 0.07471,
-    "value_": 7.47092
-  },
-  {
-    "geoid": "37980",
-    "key": "unempr-sa-female",
     "date": "2012-06-15",
     "value": 0.075,
     "value_": 7.4998
@@ -46779,13 +43804,6 @@
     "date": "2025-06-15",
     "value": 0.04034,
     "value_": 4.03355
-  },
-  {
-    "geoid": "38060",
-    "key": "unempr-sa-female",
-    "date": "2011-06-15",
-    "value": 0.07923,
-    "value_": 7.92299
   },
   {
     "geoid": "38060",
@@ -46888,13 +43906,6 @@
   {
     "geoid": "38300",
     "key": "unempr-sa-female",
-    "date": "2011-06-15",
-    "value": 0.06304,
-    "value_": 6.30401
-  },
-  {
-    "geoid": "38300",
-    "key": "unempr-sa-female",
     "date": "2012-06-15",
     "value": 0.0615,
     "value_": 6.14971
@@ -46989,13 +44000,6 @@
     "date": "2025-06-15",
     "value": 0.03632,
     "value_": 3.63187
-  },
-  {
-    "geoid": "38900",
-    "key": "unempr-sa-female",
-    "date": "2011-06-15",
-    "value": 0.07708,
-    "value_": 7.70811
   },
   {
     "geoid": "38900",
@@ -47098,13 +44102,6 @@
   {
     "geoid": "39300",
     "key": "unempr-sa-female",
-    "date": "2011-06-15",
-    "value": 0.09066,
-    "value_": 9.06589
-  },
-  {
-    "geoid": "39300",
-    "key": "unempr-sa-female",
     "date": "2012-06-15",
     "value": 0.0854,
     "value_": 8.54049
@@ -47199,13 +44196,6 @@
     "date": "2025-06-15",
     "value": 0.03882,
     "value_": 3.88166
-  },
-  {
-    "geoid": "39580",
-    "key": "unempr-sa-female",
-    "date": "2011-06-15",
-    "value": 0.07621,
-    "value_": 7.62085
   },
   {
     "geoid": "39580",
@@ -47308,13 +44298,6 @@
   {
     "geoid": "40060",
     "key": "unempr-sa-female",
-    "date": "2011-06-15",
-    "value": 0.06306,
-    "value_": 6.30598
-  },
-  {
-    "geoid": "40060",
-    "key": "unempr-sa-female",
     "date": "2012-06-15",
     "value": 0.05685,
     "value_": 5.68538
@@ -47409,13 +44392,6 @@
     "date": "2025-06-15",
     "value": 0.03375,
     "value_": 3.37538
-  },
-  {
-    "geoid": "40140",
-    "key": "unempr-sa-female",
-    "date": "2011-06-15",
-    "value": 0.12062,
-    "value_": 12.06213
   },
   {
     "geoid": "40140",
@@ -47518,13 +44494,6 @@
   {
     "geoid": "40380",
     "key": "unempr-sa-female",
-    "date": "2011-06-15",
-    "value": 0.06795,
-    "value_": 6.79536
-  },
-  {
-    "geoid": "40380",
-    "key": "unempr-sa-female",
     "date": "2012-06-15",
     "value": 0.07282,
     "value_": 7.28152
@@ -47619,13 +44588,6 @@
     "date": "2025-06-15",
     "value": 0.03141,
     "value_": 3.14058
-  },
-  {
-    "geoid": "40900",
-    "key": "unempr-sa-female",
-    "date": "2011-06-15",
-    "value": 0.11036,
-    "value_": 11.03626
   },
   {
     "geoid": "40900",
@@ -47728,13 +44690,6 @@
   {
     "geoid": "41180",
     "key": "unempr-sa-female",
-    "date": "2011-06-15",
-    "value": 0.07533,
-    "value_": 7.53332
-  },
-  {
-    "geoid": "41180",
-    "key": "unempr-sa-female",
     "date": "2012-06-15",
     "value": 0.0653,
     "value_": 6.52974
@@ -47829,13 +44784,6 @@
     "date": "2025-06-15",
     "value": 0.03661,
     "value_": 3.66122
-  },
-  {
-    "geoid": "41620",
-    "key": "unempr-sa-female",
-    "date": "2011-06-15",
-    "value": 0.06384,
-    "value_": 6.38358
   },
   {
     "geoid": "41620",
@@ -47938,13 +44886,6 @@
   {
     "geoid": "41700",
     "key": "unempr-sa-female",
-    "date": "2011-06-15",
-    "value": 0.07344,
-    "value_": 7.34432
-  },
-  {
-    "geoid": "41700",
-    "key": "unempr-sa-female",
     "date": "2012-06-15",
     "value": 0.06231,
     "value_": 6.23111
@@ -48039,13 +44980,6 @@
     "date": "2025-06-15",
     "value": 0.03773,
     "value_": 3.77342
-  },
-  {
-    "geoid": "41740",
-    "key": "unempr-sa-female",
-    "date": "2011-06-15",
-    "value": 0.09537,
-    "value_": 9.53672
   },
   {
     "geoid": "41740",
@@ -48148,13 +45082,6 @@
   {
     "geoid": "41860",
     "key": "unempr-sa-female",
-    "date": "2011-06-15",
-    "value": 0.08425,
-    "value_": 8.42465
-  },
-  {
-    "geoid": "41860",
-    "key": "unempr-sa-female",
     "date": "2012-06-15",
     "value": 0.07529,
     "value_": 7.52872
@@ -48249,13 +45176,6 @@
     "date": "2025-06-15",
     "value": 0.04121,
     "value_": 4.12135
-  },
-  {
-    "geoid": "41940",
-    "key": "unempr-sa-female",
-    "date": "2011-06-15",
-    "value": 0.08681,
-    "value_": 8.68067
   },
   {
     "geoid": "41940",
@@ -48358,13 +45278,6 @@
   {
     "geoid": "42660",
     "key": "unempr-sa-female",
-    "date": "2011-06-15",
-    "value": 0.07574,
-    "value_": 7.5738
-  },
-  {
-    "geoid": "42660",
-    "key": "unempr-sa-female",
     "date": "2012-06-15",
     "value": 0.06827,
     "value_": 6.82729
@@ -48459,13 +45372,6 @@
     "date": "2025-06-15",
     "value": 0.03425,
     "value_": 3.42512
-  },
-  {
-    "geoid": "45300",
-    "key": "unempr-sa-female",
-    "date": "2011-06-15",
-    "value": 0.0967,
-    "value_": 9.67041
   },
   {
     "geoid": "45300",
@@ -48568,13 +45474,6 @@
   {
     "geoid": "46060",
     "key": "unempr-sa-female",
-    "date": "2011-06-15",
-    "value": 0.07784,
-    "value_": 7.78417
-  },
-  {
-    "geoid": "46060",
-    "key": "unempr-sa-female",
     "date": "2012-06-15",
     "value": 0.06946,
     "value_": 6.94595
@@ -48669,13 +45568,6 @@
     "date": "2025-06-15",
     "value": 0.04282,
     "value_": 4.28243
-  },
-  {
-    "geoid": "46140",
-    "key": "unempr-sa-female",
-    "date": "2011-06-15",
-    "value": 0.06029,
-    "value_": 6.02876
   },
   {
     "geoid": "46140",
@@ -48778,13 +45670,6 @@
   {
     "geoid": "47260",
     "key": "unempr-sa-female",
-    "date": "2011-06-15",
-    "value": 0.06277,
-    "value_": 6.27703
-  },
-  {
-    "geoid": "47260",
-    "key": "unempr-sa-female",
     "date": "2012-06-15",
     "value": 0.05868,
     "value_": 5.86771
@@ -48879,13 +45764,6 @@
     "date": "2025-06-15",
     "value": 0.03529,
     "value_": 3.52917
-  },
-  {
-    "geoid": "47900",
-    "key": "unempr-sa-female",
-    "date": "2011-06-15",
-    "value": 0.05519,
-    "value_": 5.51904
   },
   {
     "geoid": "47900",
@@ -48988,13 +45866,6 @@
   {
     "geoid": "51013",
     "key": "unempr-sa-female",
-    "date": "2011-06-15",
-    "value": 0.03242,
-    "value_": 3.24191
-  },
-  {
-    "geoid": "51013",
-    "key": "unempr-sa-female",
     "date": "2012-06-15",
     "value": 0.02898,
     "value_": 2.89796
@@ -49089,13 +45960,6 @@
     "date": "2025-06-15",
     "value": 0.02895,
     "value_": 2.89542
-  },
-  {
-    "geoid": "51043",
-    "key": "unempr-sa-female",
-    "date": "2011-06-15",
-    "value": 0.04933,
-    "value_": 4.93322
   },
   {
     "geoid": "51043",
@@ -49198,13 +46062,6 @@
   {
     "geoid": "51047",
     "key": "unempr-sa-female",
-    "date": "2011-06-15",
-    "value": 0.05502,
-    "value_": 5.5016
-  },
-  {
-    "geoid": "51047",
-    "key": "unempr-sa-female",
     "date": "2012-06-15",
     "value": 0.04844,
     "value_": 4.844
@@ -49299,13 +46156,6 @@
     "date": "2025-06-15",
     "value": 0.02984,
     "value_": 2.98416
-  },
-  {
-    "geoid": "51059",
-    "key": "unempr-sa-female",
-    "date": "2011-06-15",
-    "value": 0.0403,
-    "value_": 4.03034
   },
   {
     "geoid": "51059",
@@ -49408,13 +46258,6 @@
   {
     "geoid": "51061",
     "key": "unempr-sa-female",
-    "date": "2011-06-15",
-    "value": 0.04742,
-    "value_": 4.74193
-  },
-  {
-    "geoid": "51061",
-    "key": "unempr-sa-female",
     "date": "2012-06-15",
     "value": 0.0441,
     "value_": 4.41021
@@ -49509,13 +46352,6 @@
     "date": "2025-06-15",
     "value": 0.02741,
     "value_": 2.74114
-  },
-  {
-    "geoid": "51107",
-    "key": "unempr-sa-female",
-    "date": "2011-06-15",
-    "value": 0.03953,
-    "value_": 3.95281
   },
   {
     "geoid": "51107",
@@ -49618,13 +46454,6 @@
   {
     "geoid": "51153",
     "key": "unempr-sa-female",
-    "date": "2011-06-15",
-    "value": 0.04861,
-    "value_": 4.86105
-  },
-  {
-    "geoid": "51153",
-    "key": "unempr-sa-female",
     "date": "2012-06-15",
     "value": 0.04543,
     "value_": 4.54322
@@ -49719,13 +46548,6 @@
     "date": "2025-06-15",
     "value": 0.03166,
     "value_": 3.16574
-  },
-  {
-    "geoid": "51157",
-    "key": "unempr-sa-female",
-    "date": "2011-06-15",
-    "value": 0.04794,
-    "value_": 4.79419
   },
   {
     "geoid": "51157",
@@ -49828,13 +46650,6 @@
   {
     "geoid": "51177",
     "key": "unempr-sa-female",
-    "date": "2011-06-15",
-    "value": 0.05818,
-    "value_": 5.81752
-  },
-  {
-    "geoid": "51177",
-    "key": "unempr-sa-female",
     "date": "2012-06-15",
     "value": 0.05296,
     "value_": 5.2956
@@ -49929,13 +46744,6 @@
     "date": "2025-06-15",
     "value": 0.03286,
     "value_": 3.2858
-  },
-  {
-    "geoid": "51179",
-    "key": "unempr-sa-female",
-    "date": "2011-06-15",
-    "value": 0.05287,
-    "value_": 5.28674
   },
   {
     "geoid": "51179",
@@ -50038,13 +46846,6 @@
   {
     "geoid": "51187",
     "key": "unempr-sa-female",
-    "date": "2011-06-15",
-    "value": 0.06364,
-    "value_": 6.36448
-  },
-  {
-    "geoid": "51187",
-    "key": "unempr-sa-female",
     "date": "2012-06-15",
     "value": 0.05822,
     "value_": 5.8219
@@ -50139,13 +46940,6 @@
     "date": "2025-06-15",
     "value": 0.03248,
     "value_": 3.24771
-  },
-  {
-    "geoid": "51510",
-    "key": "unempr-sa-female",
-    "date": "2011-06-15",
-    "value": 0.03851,
-    "value_": 3.85126
   },
   {
     "geoid": "51510",
@@ -50248,13 +47042,6 @@
   {
     "geoid": "51630",
     "key": "unempr-sa-female",
-    "date": "2011-06-15",
-    "value": 0.07136,
-    "value_": 7.13558
-  },
-  {
-    "geoid": "51630",
-    "key": "unempr-sa-female",
     "date": "2012-06-15",
     "value": 0.06346,
     "value_": 6.34558
@@ -50349,13 +47136,6 @@
     "date": "2025-06-15",
     "value": 0.03383,
     "value_": 3.38334
-  },
-  {
-    "geoid": "54037",
-    "key": "unempr-sa-female",
-    "date": "2011-06-15",
-    "value": 0.04433,
-    "value_": 4.43349
   },
   {
     "geoid": "54037",
@@ -50458,13 +47238,6 @@
   {
     "geoid": "99997",
     "key": "unempr-sa-female",
-    "date": "2011-06-15",
-    "value": 0.08117,
-    "value_": 8.11669
-  },
-  {
-    "geoid": "99997",
-    "key": "unempr-sa-female",
     "date": "2012-06-15",
     "value": 0.07408,
     "value_": 7.40765
@@ -50559,13 +47332,6 @@
     "date": "2025-06-15",
     "value": 0.0389,
     "value_": 3.88955
-  },
-  {
-    "geoid": "99999",
-    "key": "unempr-sa-female",
-    "date": "2011-06-15",
-    "value": 0.08094,
-    "value_": 8.09353
   },
   {
     "geoid": "99999",
