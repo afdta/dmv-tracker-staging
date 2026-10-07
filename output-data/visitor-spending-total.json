@@ -4956,13 +4956,6 @@
     "value_": 302043699.78127
   },
   {
-    "geoid": "11001",
-    "key": "visitor-spending-total",
-    "date": "2026-08-15",
-    "value": 247807755.58734,
-    "value_": 247807755.58734
-  },
-  {
     "geoid": "24009",
     "key": "visitor-spending-total",
     "date": "2021-08-15",
@@ -4996,13 +4989,6 @@
     "date": "2025-08-15",
     "value": 5857497.61685,
     "value_": 5857497.61685
-  },
-  {
-    "geoid": "24009",
-    "key": "visitor-spending-total",
-    "date": "2026-08-15",
-    "value": 4437551.0573,
-    "value_": 4437551.0573
   },
   {
     "geoid": "24017",
@@ -5040,13 +5026,6 @@
     "value_": 6887769.83957
   },
   {
-    "geoid": "24017",
-    "key": "visitor-spending-total",
-    "date": "2026-08-15",
-    "value": 4791823.53084,
-    "value_": 4791823.53084
-  },
-  {
     "geoid": "24021",
     "key": "visitor-spending-total",
     "date": "2021-08-15",
@@ -5080,13 +5059,6 @@
     "date": "2025-08-15",
     "value": 53215659.18823,
     "value_": 53215659.18823
-  },
-  {
-    "geoid": "24021",
-    "key": "visitor-spending-total",
-    "date": "2026-08-15",
-    "value": 39169422.91565,
-    "value_": 39169422.91565
   },
   {
     "geoid": "24031",
@@ -5124,13 +5096,6 @@
     "value_": 96331243.60706
   },
   {
-    "geoid": "24031",
-    "key": "visitor-spending-total",
-    "date": "2026-08-15",
-    "value": 73496073.64125,
-    "value_": 73496073.64125
-  },
-  {
     "geoid": "24033",
     "key": "visitor-spending-total",
     "date": "2021-08-15",
@@ -5164,13 +5129,6 @@
     "date": "2025-08-15",
     "value": 89661422.5659,
     "value_": 89661422.5659
-  },
-  {
-    "geoid": "24033",
-    "key": "visitor-spending-total",
-    "date": "2026-08-15",
-    "value": 66552516.9861,
-    "value_": 66552516.9861
   },
   {
     "geoid": "47900",
@@ -5208,13 +5166,6 @@
     "value_": 1104030395.51126
   },
   {
-    "geoid": "47900",
-    "key": "visitor-spending-total",
-    "date": "2026-08-15",
-    "value": 892303621.73479,
-    "value_": 892303621.73479
-  },
-  {
     "geoid": "51013",
     "key": "visitor-spending-total",
     "date": "2021-08-15",
@@ -5248,13 +5199,6 @@
     "date": "2025-08-15",
     "value": 41991834.97879,
     "value_": 41991834.97879
-  },
-  {
-    "geoid": "51013",
-    "key": "visitor-spending-total",
-    "date": "2026-08-15",
-    "value": 37081552.46214,
-    "value_": 37081552.46214
   },
   {
     "geoid": "51043",
@@ -5292,13 +5236,6 @@
     "value_": 2387196.36051
   },
   {
-    "geoid": "51043",
-    "key": "visitor-spending-total",
-    "date": "2026-08-15",
-    "value": 1631262.6507,
-    "value_": 1631262.6507
-  },
-  {
     "geoid": "51059",
     "key": "visitor-spending-total",
     "date": "2021-08-15",
@@ -5332,13 +5269,6 @@
     "date": "2025-08-15",
     "value": 143779061.36308,
     "value_": 143779061.36308
-  },
-  {
-    "geoid": "51059",
-    "key": "visitor-spending-total",
-    "date": "2026-08-15",
-    "value": 136327289.30806,
-    "value_": 136327289.30806
   },
   {
     "geoid": "51061",
@@ -5376,13 +5306,6 @@
     "value_": 13805812.0877
   },
   {
-    "geoid": "51061",
-    "key": "visitor-spending-total",
-    "date": "2026-08-15",
-    "value": 10108482.09413,
-    "value_": 10108482.09413
-  },
-  {
     "geoid": "51107",
     "key": "visitor-spending-total",
     "date": "2021-08-15",
@@ -5416,13 +5339,6 @@
     "date": "2025-08-15",
     "value": 43253475.5415,
     "value_": 43253475.5415
-  },
-  {
-    "geoid": "51107",
-    "key": "visitor-spending-total",
-    "date": "2026-08-15",
-    "value": 37130827.12468,
-    "value_": 37130827.12468
   },
   {
     "geoid": "51153",
@@ -5460,13 +5376,6 @@
     "value_": 29241756.70802
   },
   {
-    "geoid": "51153",
-    "key": "visitor-spending-total",
-    "date": "2026-08-15",
-    "value": 22773912.08468,
-    "value_": 22773912.08468
-  },
-  {
     "geoid": "51177",
     "key": "visitor-spending-total",
     "date": "2021-08-15",
@@ -5500,13 +5409,6 @@
     "date": "2025-08-15",
     "value": 32857184.34074,
     "value_": 32857184.34074
-  },
-  {
-    "geoid": "51177",
-    "key": "visitor-spending-total",
-    "date": "2026-08-15",
-    "value": 23733101.98797,
-    "value_": 23733101.98797
   },
   {
     "geoid": "51179",
@@ -5544,13 +5446,6 @@
     "value_": 12497957.89357
   },
   {
-    "geoid": "51179",
-    "key": "visitor-spending-total",
-    "date": "2026-08-15",
-    "value": 10592797.89583,
-    "value_": 10592797.89583
-  },
-  {
     "geoid": "51187",
     "key": "visitor-spending-total",
     "date": "2021-08-15",
@@ -5584,13 +5479,6 @@
     "date": "2025-08-15",
     "value": 11680688.49612,
     "value_": 11680688.49612
-  },
-  {
-    "geoid": "51187",
-    "key": "visitor-spending-total",
-    "date": "2026-08-15",
-    "value": 8396446.7532,
-    "value_": 8396446.7532
   },
   {
     "geoid": "51510",
@@ -5628,13 +5516,6 @@
     "value_": 11350173.32131
   },
   {
-    "geoid": "51510",
-    "key": "visitor-spending-total",
-    "date": "2026-08-15",
-    "value": 10136463.53736,
-    "value_": 10136463.53736
-  },
-  {
     "geoid": "51630",
     "key": "visitor-spending-total",
     "date": "2021-08-15",
@@ -5670,13 +5551,6 @@
     "value_": 15454187.46252
   },
   {
-    "geoid": "51630",
-    "key": "visitor-spending-total",
-    "date": "2026-08-15",
-    "value": 11832413.55774,
-    "value_": 11832413.55774
-  },
-  {
     "geoid": "54037",
     "key": "visitor-spending-total",
     "date": "2021-08-15",
@@ -5710,13 +5584,6 @@
     "date": "2025-08-15",
     "value": 10841522.18655,
     "value_": 10841522.18655
-  },
-  {
-    "geoid": "54037",
-    "key": "visitor-spending-total",
-    "date": "2026-08-15",
-    "value": 8203204.47487,
-    "value_": 8203204.47487
   },
   {
     "geoid": "11001",

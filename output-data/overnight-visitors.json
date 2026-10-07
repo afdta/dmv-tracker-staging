@@ -4956,13 +4956,6 @@
     "value_": 234589.62437
   },
   {
-    "geoid": "11001",
-    "key": "overnight-visitors",
-    "date": "2026-08-15",
-    "value": 208742.91015,
-    "value_": 208742.91015
-  },
-  {
     "geoid": "24009",
     "key": "overnight-visitors",
     "date": "2021-08-15",
@@ -4996,13 +4989,6 @@
     "date": "2025-08-15",
     "value": 5118.211,
     "value_": 5118.211
-  },
-  {
-    "geoid": "24009",
-    "key": "overnight-visitors",
-    "date": "2026-08-15",
-    "value": 3900.09669,
-    "value_": 3900.09669
   },
   {
     "geoid": "24017",
@@ -5040,13 +5026,6 @@
     "value_": 9378.99655
   },
   {
-    "geoid": "24017",
-    "key": "overnight-visitors",
-    "date": "2026-08-15",
-    "value": 7187.96378,
-    "value_": 7187.96378
-  },
-  {
     "geoid": "24021",
     "key": "overnight-visitors",
     "date": "2021-08-15",
@@ -5080,13 +5059,6 @@
     "date": "2025-08-15",
     "value": 37899.01093,
     "value_": 37899.01093
-  },
-  {
-    "geoid": "24021",
-    "key": "overnight-visitors",
-    "date": "2026-08-15",
-    "value": 28209.94383,
-    "value_": 28209.94383
   },
   {
     "geoid": "24031",
@@ -5124,13 +5096,6 @@
     "value_": 55039.24326
   },
   {
-    "geoid": "24031",
-    "key": "overnight-visitors",
-    "date": "2026-08-15",
-    "value": 72682.4021,
-    "value_": 72682.4021
-  },
-  {
     "geoid": "24033",
     "key": "overnight-visitors",
     "date": "2021-08-15",
@@ -5164,13 +5129,6 @@
     "date": "2025-08-15",
     "value": 54469.47414,
     "value_": 54469.47414
-  },
-  {
-    "geoid": "24033",
-    "key": "overnight-visitors",
-    "date": "2026-08-15",
-    "value": 45570.70215,
-    "value_": 45570.70215
   },
   {
     "geoid": "47900",
@@ -5208,13 +5166,6 @@
     "value_": 712734.83065
   },
   {
-    "geoid": "47900",
-    "key": "overnight-visitors",
-    "date": "2026-08-15",
-    "value": 642981.88544,
-    "value_": 642981.88544
-  },
-  {
     "geoid": "51013",
     "key": "overnight-visitors",
     "date": "2021-08-15",
@@ -5248,13 +5199,6 @@
     "date": "2025-08-15",
     "value": 60900.05181,
     "value_": 60900.05181
-  },
-  {
-    "geoid": "51013",
-    "key": "overnight-visitors",
-    "date": "2026-08-15",
-    "value": 56328.91026,
-    "value_": 56328.91026
   },
   {
     "geoid": "51043",
@@ -5292,13 +5236,6 @@
     "value_": 6146.07856
   },
   {
-    "geoid": "51043",
-    "key": "overnight-visitors",
-    "date": "2026-08-15",
-    "value": 4175.30157,
-    "value_": 4175.30157
-  },
-  {
     "geoid": "51059",
     "key": "overnight-visitors",
     "date": "2021-08-15",
@@ -5332,13 +5269,6 @@
     "date": "2025-08-15",
     "value": 116880.20159,
     "value_": 116880.20159
-  },
-  {
-    "geoid": "51059",
-    "key": "overnight-visitors",
-    "date": "2026-08-15",
-    "value": 105518.1006,
-    "value_": 105518.1006
   },
   {
     "geoid": "51061",
@@ -5376,13 +5306,6 @@
     "value_": 22929.17675
   },
   {
-    "geoid": "51061",
-    "key": "overnight-visitors",
-    "date": "2026-08-15",
-    "value": 17629.44521,
-    "value_": 17629.44521
-  },
-  {
     "geoid": "51107",
     "key": "overnight-visitors",
     "date": "2021-08-15",
@@ -5416,13 +5339,6 @@
     "date": "2025-08-15",
     "value": 54881.84438,
     "value_": 54881.84438
-  },
-  {
-    "geoid": "51107",
-    "key": "overnight-visitors",
-    "date": "2026-08-15",
-    "value": 48073.11231,
-    "value_": 48073.11231
   },
   {
     "geoid": "51153",
@@ -5460,13 +5376,6 @@
     "value_": 38560.21622
   },
   {
-    "geoid": "51153",
-    "key": "overnight-visitors",
-    "date": "2026-08-15",
-    "value": 32466.77036,
-    "value_": 32466.77036
-  },
-  {
     "geoid": "51177",
     "key": "overnight-visitors",
     "date": "2021-08-15",
@@ -5500,13 +5409,6 @@
     "date": "2025-08-15",
     "value": 41008.7313,
     "value_": 41008.7313
-  },
-  {
-    "geoid": "51177",
-    "key": "overnight-visitors",
-    "date": "2026-08-15",
-    "value": 32911.48303,
-    "value_": 32911.48303
   },
   {
     "geoid": "51179",
@@ -5544,13 +5446,6 @@
     "value_": 21770.68104
   },
   {
-    "geoid": "51179",
-    "key": "overnight-visitors",
-    "date": "2026-08-15",
-    "value": 18789.8671,
-    "value_": 18789.8671
-  },
-  {
     "geoid": "51187",
     "key": "overnight-visitors",
     "date": "2021-08-15",
@@ -5584,13 +5479,6 @@
     "date": "2025-08-15",
     "value": 17865.1687,
     "value_": 17865.1687
-  },
-  {
-    "geoid": "51187",
-    "key": "overnight-visitors",
-    "date": "2026-08-15",
-    "value": 13746.20826,
-    "value_": 13746.20826
   },
   {
     "geoid": "51510",
@@ -5628,13 +5516,6 @@
     "value_": 14581.98875
   },
   {
-    "geoid": "51510",
-    "key": "overnight-visitors",
-    "date": "2026-08-15",
-    "value": 13698.29949,
-    "value_": 13698.29949
-  },
-  {
     "geoid": "51630",
     "key": "overnight-visitors",
     "date": "2021-08-15",
@@ -5670,13 +5551,6 @@
     "value_": 21506.4224
   },
   {
-    "geoid": "51630",
-    "key": "overnight-visitors",
-    "date": "2026-08-15",
-    "value": 16776.89253,
-    "value_": 16776.89253
-  },
-  {
     "geoid": "54037",
     "key": "overnight-visitors",
     "date": "2021-08-15",
@@ -5710,13 +5584,6 @@
     "date": "2025-08-15",
     "value": 16973.41147,
     "value_": 16973.41147
-  },
-  {
-    "geoid": "54037",
-    "key": "overnight-visitors",
-    "date": "2026-08-15",
-    "value": 12842.95465,
-    "value_": 12842.95465
   },
   {
     "geoid": "11001",
